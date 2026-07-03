@@ -1,5 +1,4 @@
 # Converted twtxt feeds. Add any of these to your twtxt.txt as:
 #   # follow = <nick> <url>
 
-gabe-github https://raw.githubusercontent.com/gabrielcornish/twtxt-timeline/main/feeds/gabe-github.txt
 reddit-games https://raw.githubusercontent.com/gabrielcornish/twtxt-timeline/main/feeds/reddit-games.txt

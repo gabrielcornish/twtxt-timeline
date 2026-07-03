@@ -1,4 +1,4 @@
-# nick = Reddit-Games
+# nick = 🎮-Reddit-Games
 # url = https://raw.githubusercontent.com/gabrielcornish/twtxt-timeline/main/feeds/reddit-games.txt
 # source = https://www.reddit.com/r/Games.rss
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
