@@ -1,0 +1,30 @@
+# nick = Reddit-Games
+# url = https://raw.githubusercontent.com/gabrielcornish/twtxt-timeline/main/feeds/reddit-games.txt
+# source = https://www.reddit.com/r/Games.rss
+# description = twtxt conversion of https://www.reddit.com/r/Games.rss
+
+2026-07-01T11:01:27+00:00	Daily /r/Games Discussion - Suggest Me a Game - July 01, 2026 https://www.reddit.com/r/Games/comments/1ukigfj/daily_rgames_discussion_suggest_me_a_game_july_01/
+2026-07-02T14:19:46+00:00	Sony's Been Planning All-Digital Future for 'Some Time', Unlikely to Reverse Decision on Game Discs https://www.reddit.com/r/Games/comments/1uljmax/sonys_been_planning_alldigital_future_for_some/
+2026-07-02T14:28:45+00:00	Despite a report this morning, I can confirm that Obsidian is \*not\* in negotiations to avoid shutting down - Jason Schreier https://www.reddit.com/r/Games/comments/1uljuk2/despite_a_report_this_morning_i_can_confirm_that/
+2026-07-02T15:16:04+00:00	"Am I going back to PS4 days?" - Former PlayStation leader Shuhei Yoshida has tried the Steam Machine, and he doesn't sound very impressed https://www.reddit.com/r/Games/comments/1ull332/am_i_going_back_to_ps4_days_former_playstation/
+2026-07-02T19:06:46+00:00	Bloomberg: Top ‘Suicide Squad’ Developers Say the Flop Made Them Not Want to Make Games Anymore https://www.reddit.com/r/Games/comments/1ulrfw4/bloomberg_top_suicide_squad_developers_say_the/
+2026-07-02T22:13:01+00:00	Final Fantasy 7 Revelation Getting Story Expansion Pass, Epic Store Leak Suggests https://www.reddit.com/r/Games/comments/1ulwahy/final_fantasy_7_revelation_getting_story/
+2026-07-02T23:03:39+00:00	Union workers establish hardship fund to support devs impacted by layoffs https://www.reddit.com/r/Games/comments/1ulxipq/union_workers_establish_hardship_fund_to_support/
+2026-07-03T02:28:07+00:00	Expedition 33 lead says if people don't like the studio's next game 'that's life' https://www.reddit.com/r/Games/comments/1um1wn1/expedition_33_lead_says_if_people_dont_like_the/
+2026-07-03T08:33:23+00:00	Under the radar Steam games : June 22nd to June 30rd. https://www.reddit.com/r/Games/comments/1um8r7l/under_the_radar_steam_games_june_22nd_to_june_30rd/
+2026-07-03T08:59:35+00:00	Thick as Thieves dev OtherSide Entertainment impacted by further layoffs https://www.reddit.com/r/Games/comments/1um96wt/thick_as_thieves_dev_otherside_entertainment/
+2026-07-03T10:00:34+00:00	Daily /r/Games Discussion - Free Talk Friday - July 03, 2026 https://www.reddit.com/r/Games/comments/1uma8ns/daily_rgames_discussion_free_talk_friday_july_03/
+2026-07-03T10:34:32+00:00	Assassin's Creed Black Flag - Road to Launch https://www.reddit.com/r/Games/comments/1umav11/assassins_creed_black_flag_road_to_launch/
+2026-07-03T11:16:18+00:00	Cyberpunk 2077 has sold 40 million copies worldwide https://www.reddit.com/r/Games/comments/1umbnsf/cyberpunk_2077_has_sold_40_million_copies/
+2026-07-03T15:24:12+00:00	Level-5 gives employees “significant” pay raises for acing quizzes about its own games, according to CEO https://www.reddit.com/r/Games/comments/1umhefg/level5_gives_employees_significant_pay_raises_for/
+2026-07-03T16:07:33+00:00	Insider Gaming: Ghostrunner 3 ‘Would be Awesome’ & One More Level Has Ideas For New Game https://www.reddit.com/r/Games/comments/1umijis/insider_gaming_ghostrunner_3_would_be_awesome_one/
+2026-07-03T17:59:08+00:00	"We are profoundly disappointed by Sony's decision" – Game companies express dismay at the end of PlayStation disc production https://www.reddit.com/r/Games/comments/1umlgb6/we_are_profoundly_disappointed_by_sonys_decision/
+2026-07-03T18:00:37+00:00	Former PlayStation boss Shawn Layden on Sony's years-long debate over scrapping discs, and why this time it's probably "a straight spreadsheet decision" https://www.reddit.com/r/Games/comments/1umlhtk/former_playstation_boss_shawn_layden_on_sonys/
+2026-07-03T18:20:45+00:00	Surfpunk | Summer '26 Demo Update | Trailer https://www.reddit.com/r/Games/comments/1umm0nd/surfpunk_summer_26_demo_update_trailer/
+2026-07-03T18:29:55+00:00	TennoCon 2026 | TennoLive 2026 Teaser https://www.reddit.com/r/Games/comments/1umm8xz/tennocon_2026_tennolive_2026_teaser/
+2026-07-03T18:45:15+00:00	Danganronpa 2x2 Game Reveals ‘Slayhem’ Title for New Scenario, Delay to Early 2027 https://www.reddit.com/r/Games/comments/1ummmyv/danganronpa_2x2_game_reveals_slayhem_title_for/
+2026-07-03T18:54:46+00:00	WayForward: Enjoy this brand-new teaser image revealed at Anime Expo for the next Shantae game, currently in development! https://www.reddit.com/r/Games/comments/1ummvpx/wayforward_enjoy_this_brandnew_teaser_image/
+2026-07-03T18:58:38+00:00	PlayStation’s Physical Media-Free Future Isn’t Just Concerning, It’s Offensive https://www.reddit.com/r/Games/comments/1ummz8m/playstations_physical_mediafree_future_isnt_just/
+2026-07-03T19:17:45+00:00	Bounty Sisters | Official Announcement trailer https://www.reddit.com/r/Games/comments/1umngw9/bounty_sisters_official_announcement_trailer/
+2026-07-03T20:00:54+00:00	Stephen Totilo: Sony's private message to publisher/dev partners about discs also cited a consumer "shift". But it included more explicit confirmation that, after Jan 2028, partners "will still be able to place re-orders for existing PlayStation disc games” https://www.reddit.com/r/Games/comments/1umoj2u/stephen_totilo_sonys_private_message_to/
+2026-07-03T21:10:37+00:00	Mods, can you please add a flair for Industry News? https://www.reddit.com/r/Games/comments/1umq8f3/mods_can_you_please_add_a_flair_for_industry_news/

@@ -1,0 +1,5 @@
+# nick = gabe-github
+# url = https://raw.githubusercontent.com/gabrielcornish/twtxt-timeline/main/feeds/gabe-github.txt
+# source = https://github.com/gabrielcornish.atom
+# description = twtxt conversion of https://github.com/gabrielcornish.atom
+
