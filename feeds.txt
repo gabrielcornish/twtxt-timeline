@@ -2,10 +2,6 @@
 # One feed per line:   nick url      (the nick is optional)
 # Blank lines and lines starting with # are ignored.
 # Works with twtxt feeds AND ordinary RSS/Atom blog feeds.
-
-# Safe test feed (your GitHub activity, an Atom feed). Delete it once real feeds work:
-gabe-github https://github.com/gabrielcornish.atom
-
 # Add feeds like these (remove the # to enable, edit to taste):
 # alice     https://example.com/alice/twtxt.txt
-Reddit-Games https://www.reddit.com/r/Games.rss
+🎮-Reddit-Games https://www.reddit.com/r/Games.rss
