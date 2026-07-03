@@ -8,4 +8,4 @@ gabe-github https://github.com/gabrielcornish.atom
 
 # Add feeds like these (remove the # to enable, edit to taste):
 # alice     https://example.com/alice/twtxt.txt
-# someblog  https://someblog.example/feed.xml
+Reddit-Games https://www.reddit.com/r/Games.rss
