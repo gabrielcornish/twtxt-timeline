@@ -4,9 +4,7 @@
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
 2026-07-01T11:01:27+00:00	Daily /r/Games Discussion - Suggest Me a Game - July 01, 2026 https://www.reddit.com/r/Games/comments/1ukigfj/daily_rgames_discussion_suggest_me_a_game_july_01/
-2026-07-02T19:06:46+00:00	Bloomberg: Top ‘Suicide Squad’ Developers Say the Flop Made Them Not Want to Make Games Anymore https://www.reddit.com/r/Games/comments/1ulrfw4/bloomberg_top_suicide_squad_developers_say_the/
 2026-07-03T02:28:07+00:00	Expedition 33 lead says if people don't like the studio's next game 'that's life' https://www.reddit.com/r/Games/comments/1um1wn1/expedition_33_lead_says_if_people_dont_like_the/
-2026-07-03T08:33:23+00:00	Under the radar Steam games : June 22nd to June 30rd. https://www.reddit.com/r/Games/comments/1um8r7l/under_the_radar_steam_games_june_22nd_to_june_30rd/
 2026-07-03T08:59:35+00:00	Thick as Thieves dev OtherSide Entertainment impacted by further layoffs https://www.reddit.com/r/Games/comments/1um96wt/thick_as_thieves_dev_otherside_entertainment/
 2026-07-03T10:00:34+00:00	Daily /r/Games Discussion - Free Talk Friday - July 03, 2026 https://www.reddit.com/r/Games/comments/1uma8ns/daily_rgames_discussion_free_talk_friday_july_03/
 2026-07-03T10:34:32+00:00	Assassin's Creed Black Flag - Road to Launch https://www.reddit.com/r/Games/comments/1umav11/assassins_creed_black_flag_road_to_launch/
@@ -28,3 +26,5 @@
 2026-07-04T13:04:26+00:00	Sonys PC initiative back to square 0: Marvel Tokon blocked in 132 countries (again) https://www.reddit.com/r/Games/comments/1un8l2i/sonys_pc_initiative_back_to_square_0_marvel_tokon/
 2026-07-04T15:29:20+00:00	Bergfried Announce Trailer https://www.reddit.com/r/Games/comments/1unbxu8/bergfried_announce_trailer/
 2026-07-04T18:59:50+00:00	Persona 4 Revival’s Animated Cutscenes Produced by MAPPA https://www.reddit.com/r/Games/comments/1unh3ei/persona_4_revivals_animated_cutscenes_produced_by/
+2026-07-04T20:50:15+00:00	Sony Does Not Rule Out Another PS Plus Price Increase https://www.reddit.com/r/Games/comments/1unjp6m/sony_does_not_rule_out_another_ps_plus_price/
+2026-07-04T21:04:33+00:00	After 10 years, Hot Dogs, Horseshoes & Hand Grenades (H3VR) is coming out of Early Access https://www.reddit.com/r/Games/comments/1unk13t/after_10_years_hot_dogs_horseshoes_hand_grenades/
