@@ -5,3 +5,4 @@
 # Add feeds like these (remove the # to enable, edit to taste):
 # alice     https://example.com/alice/twtxt.txt
 🎮-Reddit-Games https://www.reddit.com/r/Games.rss
+ʕ•ᴥ•ʔ-Bear-Blog-Discover https://bearblog.dev/discover/feed/
