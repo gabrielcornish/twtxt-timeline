@@ -1,0 +1,25 @@
+# nick = ʕ•ᴥ•ʔ-Bear-Blog-Discover
+# url = https://raw.githubusercontent.com/gabrielcornish/twtxt-timeline/main/feeds/bear-blog-discover.txt
+# source = https://bearblog.dev/discover/feed/
+# description = twtxt conversion of https://bearblog.dev/discover/feed/
+
+2026-06-29T16:53:32.150083+00:00	computer customization https://rnotte.art/computer-customization/
+2026-06-29T20:55:30.173529+00:00	Blog Carnivals around the Indie Web https://pablo.bearblog.dev/blog-carnivals-around-the-indie-web/
+2026-06-30T01:26:00+00:00	Ok everyone shut the fuck up and please look at this incredible awkward teen bird https://blog.curiousquail.com/ok-everyone-shut-the-fuck-up-and-please-look-at-this-incredible-awkward-teen-bird/
+2026-06-30T16:03:00+00:00	Casual censorship and accessibility issues online https://puppynet.work/casual-censorship-and-accessibility-issues-online/
+2026-07-01T03:00:00+00:00	When something is beautiful https://doodhpeda.bearblog.dev/blog/when-something-is-beautiful/
+2026-07-01T04:24:00+00:00	As I get older, I understand my Dad more https://basic.bearblog.dev/as-i-get-older-i-understand-my-dad-more/
+2026-07-01T11:10:00+00:00	Bear Blog Carnival: An album that got you through a hard time https://ev-fae.quest/bear-blog-carnival-an-album-that-got-you-through-a-hard-time/
+2026-07-01T12:23:00+00:00	Thank You, Canada https://journal.james-zhan.com/canada-day-2026/
+2026-07-01T13:15:00+00:00	Punching Nazis for Fun and Profit https://louplummer.lol/punching-nazis/
+2026-07-01T13:28:00+00:00	JulyReply 2026, a blog connecting month https://robertbirming.com/julyreply-2026-blog-connecting/
+2026-07-01T20:21:24.230896+00:00	Why Your Brain Will Always Defend Complexity https://savvynormie.com/why-your-brain-will-always-defend-complexity/
+2026-07-02T01:20:00+00:00	Life without Google https://untangled.bearblog.dev/life-without-google/
+2026-07-02T07:40:00+00:00	the gentrification of air-drying clothes https://scribblypam.bearblog.dev/the-gentrification-of-air-drying-clothes/
+2026-07-02T13:43:42.335572+00:00	my review of uruky https://blog.sulimans.space/my-review-of-uruky/
+2026-07-02T13:50:00+00:00	Dying technology and what to do about it https://basic.bearblog.dev/dying-technology-and-what-to-do-about-it/
+2026-07-02T15:33:00+00:00	Re: Your Metablogging is Lame as Hell https://blog.curiousquail.com/re-your-metablogging-is-lame/
+2026-07-02T20:15:00+00:00	Six Months with Bear https://onlinegoddess.net/2026/07/six-months-with-bear/
+2026-07-03T07:00:00+00:00	Social networks and ID verification is here https://basic.bearblog.dev/social-networks-and-id-verification-is-here/
+2026-07-03T13:12:00+00:00	Talking to Another Species https://4s.bearblog.dev/talking-to-another-species/
+2026-07-03T17:24:00.297365+00:00	Neither god nor master https://householderkarl.com/neither-god-nor-master/
