@@ -3,9 +3,6 @@
 # source = https://bearblog.dev/discover/feed/
 # description = twtxt conversion of https://bearblog.dev/discover/feed/
 
-2026-06-29T13:39:00+00:00	my neighbours cant hang laundry to save their lives https://megatechbody.bearblog.dev/my-neighbours-cant-hang-laundry-to-save-their-lives/
-2026-06-29T16:53:32.150083+00:00	computer customization https://rnotte.art/computer-customization/
-2026-06-29T20:55:30.173529+00:00	Blog Carnivals around the Indie Web https://pablo.bearblog.dev/blog-carnivals-around-the-indie-web/
 2026-06-30T01:26:00+00:00	Ok everyone shut the fuck up and please look at this incredible awkward teen bird https://blog.curiousquail.com/ok-everyone-shut-the-fuck-up-and-please-look-at-this-incredible-awkward-teen-bird/
 2026-07-01T03:00:00+00:00	When something is beautiful https://doodhpeda.bearblog.dev/blog/when-something-is-beautiful/
 2026-07-01T04:24:00+00:00	As I get older, I understand my Dad more https://basic.bearblog.dev/as-i-get-older-i-understand-my-dad-more/
@@ -23,3 +20,6 @@
 2026-07-03T07:00:00+00:00	Social networks and ID verification is here https://basic.bearblog.dev/social-networks-and-id-verification-is-here/
 2026-07-03T11:44:00+00:00	The Big Social Media Smash! https://inikozen.bearblog.dev/the-big-social-media-smash/
 2026-07-03T13:12:00+00:00	Talking to Another Species https://4s.bearblog.dev/talking-to-another-species/
+2026-07-03T23:38:00+00:00	heard you was... https://blog.curiousquail.com/heard-you-was-more-cardinals/
+2026-07-04T12:00:00+00:00	I Hid an Easter Egg on My Bear Blog. Can You Find It? https://www.simonjamesfrench.com/i-hid-an-easter-egg/
+2026-07-04T14:01:00+00:00	💌 Newsletter #011 - Failing Grades, Mass Delusions, and Hiring Back Humans https://technically-good.ca/newsletter/011-2026-07-04/
