@@ -3,13 +3,11 @@
 # source = https://bearblog.dev/discover/feed/
 # description = twtxt conversion of https://bearblog.dev/discover/feed/
 
-2026-06-30T01:26:00+00:00	Ok everyone shut the fuck up and please look at this incredible awkward teen bird https://blog.curiousquail.com/ok-everyone-shut-the-fuck-up-and-please-look-at-this-incredible-awkward-teen-bird/
 2026-07-01T03:00:00+00:00	When something is beautiful https://doodhpeda.bearblog.dev/blog/when-something-is-beautiful/
 2026-07-01T04:24:00+00:00	As I get older, I understand my Dad more https://basic.bearblog.dev/as-i-get-older-i-understand-my-dad-more/
 2026-07-01T11:10:00+00:00	Bear Blog Carnival: An album that got you through a hard time https://ev-fae.quest/bear-blog-carnival-an-album-that-got-you-through-a-hard-time/
 2026-07-01T12:23:00+00:00	Thank You, Canada https://journal.james-zhan.com/canada-day-2026/
 2026-07-01T13:15:00+00:00	Punching Nazis for Fun and Profit https://louplummer.lol/punching-nazis/
-2026-07-01T13:28:00+00:00	JulyReply 2026, a blog connecting month https://robertbirming.com/julyreply-2026-blog-connecting/
 2026-07-01T20:21:24.230896+00:00	Why Your Brain Will Always Defend Complexity https://savvynormie.com/why-your-brain-will-always-defend-complexity/
 2026-07-02T01:20:00+00:00	Life without Google https://untangled.bearblog.dev/life-without-google/
 2026-07-02T07:40:00+00:00	the gentrification of air-drying clothes https://scribblypam.bearblog.dev/the-gentrification-of-air-drying-clothes/
@@ -21,5 +19,7 @@
 2026-07-03T11:44:00+00:00	The Big Social Media Smash! https://inikozen.bearblog.dev/the-big-social-media-smash/
 2026-07-03T13:12:00+00:00	Talking to Another Species https://4s.bearblog.dev/talking-to-another-species/
 2026-07-03T23:38:00+00:00	heard you was... https://blog.curiousquail.com/heard-you-was-more-cardinals/
+2026-07-04T05:50:00+00:00	I am what I read https://doodhpeda.bearblog.dev/blog/i-am-what-i-read/
 2026-07-04T12:00:00+00:00	I Hid an Easter Egg on My Bear Blog. Can You Find It? https://www.simonjamesfrench.com/i-hid-an-easter-egg/
 2026-07-04T14:01:00+00:00	💌 Newsletter #011 - Failing Grades, Mass Delusions, and Hiring Back Humans https://technically-good.ca/newsletter/011-2026-07-04/
+2026-07-04T14:42:06.068729+00:00	250 Years: The Pride of Fools https://householderkarl.com/250-years-the-pride-of-fools/
