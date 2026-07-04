@@ -3,9 +3,10 @@
 # source = https://bearblog.dev/discover/feed/
 # description = twtxt conversion of https://bearblog.dev/discover/feed/
 
+2026-06-29T13:39:00+00:00	my neighbours cant hang laundry to save their lives https://megatechbody.bearblog.dev/my-neighbours-cant-hang-laundry-to-save-their-lives/
+2026-06-29T16:53:32.150083+00:00	computer customization https://rnotte.art/computer-customization/
 2026-06-29T20:55:30.173529+00:00	Blog Carnivals around the Indie Web https://pablo.bearblog.dev/blog-carnivals-around-the-indie-web/
 2026-06-30T01:26:00+00:00	Ok everyone shut the fuck up and please look at this incredible awkward teen bird https://blog.curiousquail.com/ok-everyone-shut-the-fuck-up-and-please-look-at-this-incredible-awkward-teen-bird/
-2026-06-30T16:03:00+00:00	Casual censorship and accessibility issues online https://puppynet.work/casual-censorship-and-accessibility-issues-online/
 2026-07-01T03:00:00+00:00	When something is beautiful https://doodhpeda.bearblog.dev/blog/when-something-is-beautiful/
 2026-07-01T04:24:00+00:00	As I get older, I understand my Dad more https://basic.bearblog.dev/as-i-get-older-i-understand-my-dad-more/
 2026-07-01T11:10:00+00:00	Bear Blog Carnival: An album that got you through a hard time https://ev-fae.quest/bear-blog-carnival-an-album-that-got-you-through-a-hard-time/
@@ -22,4 +23,3 @@
 2026-07-03T07:00:00+00:00	Social networks and ID verification is here https://basic.bearblog.dev/social-networks-and-id-verification-is-here/
 2026-07-03T11:44:00+00:00	The Big Social Media Smash! https://inikozen.bearblog.dev/the-big-social-media-smash/
 2026-07-03T13:12:00+00:00	Talking to Another Species https://4s.bearblog.dev/talking-to-another-species/
-2026-07-03T17:24:00.297365+00:00	Neither god nor master https://householderkarl.com/neither-god-nor-master/
