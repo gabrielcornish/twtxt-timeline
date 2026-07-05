@@ -3,3 +3,4 @@
 
 reddit-games https://raw.githubusercontent.com/gabrielcornish/twtxt-timeline/main/feeds/reddit-games.txt
 bear-blog-discover https://raw.githubusercontent.com/gabrielcornish/twtxt-timeline/main/feeds/bear-blog-discover.txt
+game-industry-biz https://raw.githubusercontent.com/gabrielcornish/twtxt-timeline/main/feeds/game-industry-biz.txt
