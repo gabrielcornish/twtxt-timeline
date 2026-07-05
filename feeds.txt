@@ -6,3 +6,4 @@
 # alice     https://example.com/alice/twtxt.txt
 🎮-Reddit-Games https://www.reddit.com/r/Games.rss
 ʕ•ᴥ•ʔ-Bear-Blog-Discover https://bearblog.dev/discover/feed/
+📈👾-game-industry-biz https://www.gamesindustry.biz/feed
