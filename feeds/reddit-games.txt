@@ -3,10 +3,8 @@
 # source = https://www.reddit.com/r/Games.rss
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
-2026-07-03T17:59:08+00:00	"We are profoundly disappointed by Sony's decision" – Game companies express dismay at the end of PlayStation disc production https://www.reddit.com/r/Games/comments/1umlgb6/we_are_profoundly_disappointed_by_sonys_decision/
 2026-07-04T11:58:40+00:00	Eve Online's Carbon engine is now open source: Fenris Creations explains why https://www.reddit.com/r/Games/comments/1un786s/eve_onlines_carbon_engine_is_now_open_source/
 2026-07-04T12:57:18+00:00	More traditional Final Fantasy remakes could happen, as Square Enix says it'll follow what "truly resonates" with fans, even if that's not open-world action https://www.reddit.com/r/Games/comments/1un8fed/more_traditional_final_fantasy_remakes_could/
-2026-07-04T15:29:20+00:00	Bergfried Announce Trailer https://www.reddit.com/r/Games/comments/1unbxu8/bergfried_announce_trailer/
 2026-07-04T18:59:50+00:00	Persona 4 Revival’s Animated Cutscenes Produced by MAPPA https://www.reddit.com/r/Games/comments/1unh3ei/persona_4_revivals_animated_cutscenes_produced_by/
 2026-07-04T21:04:33+00:00	After 10 years, Hot Dogs, Horseshoes & Hand Grenades (H3VR) is coming out of Early Access https://www.reddit.com/r/Games/comments/1unk13t/after_10_years_hot_dogs_horseshoes_hand_grenades/
 2026-07-04T21:33:39+00:00	Palworld OFFICIAL CARD GAME "Dawn of Palpagos" https://www.reddit.com/r/Games/comments/1unko4d/palworld_official_card_game_dawn_of_palpagos/
@@ -28,3 +26,5 @@
 2026-07-05T19:00:49+00:00	Starglyphs - Skooter Studios - constellation puzzles in a living night sky https://www.reddit.com/r/Games/comments/1uoaerh/starglyphs_skooter_studios_constellation_puzzles/
 2026-07-05T19:23:49+00:00	Turning Manor - Sabbatical Games - First person count the difference horror game that expands on the anomaly genre https://www.reddit.com/r/Games/comments/1uoazpu/turning_manor_sabbatical_games_first_person_count/
 2026-07-05T19:37:41+00:00	Ludus: A Gladiator Story - Trevor Parker - Roman Gladiator Visual Novel RPG https://www.reddit.com/r/Games/comments/1uobce8/ludus_a_gladiator_story_trevor_parker_roman/
+2026-07-05T21:25:10+00:00	Survive The Apocalypse - Mehmet Emin Uyar - Procedural city ruins exploration roguelike https://www.reddit.com/r/Games/comments/1uodzcf/survive_the_apocalypse_mehmet_emin_uyar/
+2026-07-05T21:29:41+00:00	Arcadium - Luciano - What if Vampire Survivors took place in a procedural universe and you could harvest planets? Available on Steam and Mobile https://www.reddit.com/r/Games/comments/1uoe37n/arcadium_luciano_what_if_vampire_survivors_took/
