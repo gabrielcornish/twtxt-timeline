@@ -3,17 +3,10 @@
 # source = https://www.reddit.com/r/Games.rss
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
-2026-07-01T11:01:27+00:00	Daily /r/Games Discussion - Suggest Me a Game - July 01, 2026 https://www.reddit.com/r/Games/comments/1ukigfj/daily_rgames_discussion_suggest_me_a_game_july_01/
-2026-07-03T02:28:07+00:00	Expedition 33 lead says if people don't like the studio's next game 'that's life' https://www.reddit.com/r/Games/comments/1um1wn1/expedition_33_lead_says_if_people_dont_like_the/
 2026-07-03T11:16:18+00:00	Cyberpunk 2077 has sold 40 million copies worldwide https://www.reddit.com/r/Games/comments/1umbnsf/cyberpunk_2077_has_sold_40_million_copies/
 2026-07-03T15:24:12+00:00	Level-5 gives employees “significant” pay raises for acing quizzes about its own games, according to CEO https://www.reddit.com/r/Games/comments/1umhefg/level5_gives_employees_significant_pay_raises_for/
-2026-07-03T16:07:33+00:00	Insider Gaming: Ghostrunner 3 ‘Would be Awesome’ & One More Level Has Ideas For New Game https://www.reddit.com/r/Games/comments/1umijis/insider_gaming_ghostrunner_3_would_be_awesome_one/
 2026-07-03T17:59:08+00:00	"We are profoundly disappointed by Sony's decision" – Game companies express dismay at the end of PlayStation disc production https://www.reddit.com/r/Games/comments/1umlgb6/we_are_profoundly_disappointed_by_sonys_decision/
 2026-07-03T18:00:37+00:00	Former PlayStation boss Shawn Layden on Sony's years-long debate over scrapping discs, and why this time it's probably "a straight spreadsheet decision" https://www.reddit.com/r/Games/comments/1umlhtk/former_playstation_boss_shawn_layden_on_sonys/
-2026-07-03T18:20:45+00:00	Surfpunk | Summer '26 Demo Update | Trailer https://www.reddit.com/r/Games/comments/1umm0nd/surfpunk_summer_26_demo_update_trailer/
-2026-07-03T18:29:55+00:00	TennoCon 2026 | TennoLive 2026 Teaser https://www.reddit.com/r/Games/comments/1umm8xz/tennocon_2026_tennolive_2026_teaser/
-2026-07-03T18:45:15+00:00	Danganronpa 2x2 Game Reveals ‘Slayhem’ Title for New Scenario, Delay to Early 2027 https://www.reddit.com/r/Games/comments/1ummmyv/danganronpa_2x2_game_reveals_slayhem_title_for/
-2026-07-03T18:54:46+00:00	WayForward: Enjoy this brand-new teaser image revealed at Anime Expo for the next Shantae game, currently in development! https://www.reddit.com/r/Games/comments/1ummvpx/wayforward_enjoy_this_brandnew_teaser_image/
 2026-07-03T20:00:54+00:00	Stephen Totilo: Sony's private message to publisher/dev partners about discs also cited a consumer "shift". But it included more explicit confirmation that, after Jan 2028, partners "will still be able to place re-orders for existing PlayStation disc games” https://www.reddit.com/r/Games/comments/1umoj2u/stephen_totilo_sonys_private_message_to/
 2026-07-03T22:48:21+00:00	Square Enix doesn't promise to keep games playable forever, but it will "continue to create pathways" for fans to enjoy them "even after service has ended" https://www.reddit.com/r/Games/comments/1umsip3/square_enix_doesnt_promise_to_keep_games_playable/
 2026-07-04T00:29:07+00:00	Pretty Old Pixel interviews Joseph Hewitt (me) about his days at Westwood Studios https://www.reddit.com/r/Games/comments/1umuo2e/pretty_old_pixel_interviews_joseph_hewitt_me/
@@ -26,5 +19,12 @@
 2026-07-05T00:41:19+00:00	[Interview] “My target audience is myself.” Suda51 and Fumito Ueda discuss their game design philosophies, the inherent violence of action games, and what it takes to be a director https://www.reddit.com/r/Games/comments/1unolt9/interview_my_target_audience_is_myself_suda51_and/
 2026-07-05T04:00:41+00:00	Indie Sunday Hub - July 5, 2026 https://www.reddit.com/r/Games/comments/1uns7hh/indie_sunday_hub_july_5_2026/
 2026-07-05T06:40:48+00:00	Forsaken Fleet - Zakym s. r. o. - First-person pirate horror https://www.reddit.com/r/Games/comments/1unv0k1/forsaken_fleet_zakym_s_r_o_firstperson_pirate/
-2026-07-05T07:26:56+00:00	Furball Over the Front - Page Blue House - WW1 Shooter https://www.reddit.com/r/Games/comments/1unvsxl/furball_over_the_front_page_blue_house_ww1_shooter/
 2026-07-05T07:29:12+00:00	Topdeck Automat - Ludokultur - Hearthstone Battlegrounds auto-battling meets Slay the Spire build-crafting https://www.reddit.com/r/Games/comments/1unvuap/topdeck_automat_ludokultur_hearthstone/
+2026-07-05T08:25:22+00:00	Summer Games Done Quick 2026 begins today, a week-long speedrunning marathon fundraising for Doctors Without Borders! https://www.reddit.com/r/Games/comments/1unwro9/summer_games_done_quick_2026_begins_today_a/
+2026-07-05T08:32:52+00:00	Marble's Marbles - Destined - A love letter to the classic marble games like Marble Madness, Ballance and HamsterBall https://www.reddit.com/r/Games/comments/1unww2k/marbles_marbles_destined_a_love_letter_to_the/
+2026-07-05T09:00:28+00:00	Weekly /r/Games Discussion - What have you been playing, and what are your thoughts? - July 05, 2026 https://www.reddit.com/r/Games/comments/1unxc5k/weekly_rgames_discussion_what_have_you_been/
+2026-07-05T09:00:43+00:00	Turbo Hatchback Time Attack - Grumpy Pizza - Low poly arcade racing throwback with in-air controls and Mario Kart style drifting, out now on Steam! https://www.reddit.com/r/Games/comments/1unxccj/turbo_hatchback_time_attack_grumpy_pizza_low_poly/
+2026-07-05T09:53:32+00:00	Unlatched - Yellow Plague Productions - Asym Inspired Single-player Horror game. PLAYTEST AVAILABLE on Steam. https://www.reddit.com/r/Games/comments/1uny6r9/unlatched_yellow_plague_productions_asym_inspired/
+2026-07-05T10:23:00+00:00	Omelet You Cook - SchuBox Games - Chaotic cooking roguelike "Balatro meets Cooking Mama" https://www.reddit.com/r/Games/comments/1unyofq/omelet_you_cook_schubox_games_chaotic_cooking/
+2026-07-05T10:25:41+00:00	Big Dig - Hjalte & Schu - Narrative-driven Incremental! New DEMO out now! https://www.reddit.com/r/Games/comments/1unyq00/big_dig_hjalte_schu_narrativedriven_incremental/
+2026-07-05T10:29:03+00:00	The Video Game Industry’s Trade Body Doesn’t Want To Talk About Digital Ownership https://www.reddit.com/r/Games/comments/1unyrxw/the_video_game_industrys_trade_body_doesnt_want/
