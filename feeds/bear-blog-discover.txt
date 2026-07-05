@@ -4,7 +4,6 @@
 # description = twtxt conversion of https://bearblog.dev/discover/feed/
 
 2026-07-01T03:00:00+00:00	When something is beautiful https://doodhpeda.bearblog.dev/blog/when-something-is-beautiful/
-2026-07-01T04:24:00+00:00	As I get older, I understand my Dad more https://basic.bearblog.dev/as-i-get-older-i-understand-my-dad-more/
 2026-07-01T11:10:00+00:00	Bear Blog Carnival: An album that got you through a hard time https://ev-fae.quest/bear-blog-carnival-an-album-that-got-you-through-a-hard-time/
 2026-07-01T12:23:00+00:00	Thank You, Canada https://journal.james-zhan.com/canada-day-2026/
 2026-07-01T13:15:00+00:00	Punching Nazis for Fun and Profit https://louplummer.lol/punching-nazis/
@@ -23,3 +22,4 @@
 2026-07-04T14:01:00+00:00	💌 Newsletter #011 - Failing Grades, Mass Delusions, and Hiring Back Humans https://technically-good.ca/newsletter/011-2026-07-04/
 2026-07-04T16:18:00+00:00	Where did my creativity go? https://jerichards.me/where-did-my-creativity-go/
 2026-07-04T20:59:00+00:00	People Walk Too Fast https://valerialoves.com/people-walk-too-fast/
+2026-07-05T14:48:00+00:00	It's not about physical vs digital games, it's about ownership https://popcar.bearblog.dev/its-about-ownership/
