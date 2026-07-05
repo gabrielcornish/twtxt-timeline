@@ -3,7 +3,6 @@
 # source = https://bearblog.dev/discover/feed/
 # description = twtxt conversion of https://bearblog.dev/discover/feed/
 
-2026-06-30T01:26:00+00:00	Ok everyone shut the fuck up and please look at this incredible awkward teen bird https://blog.curiousquail.com/ok-everyone-shut-the-fuck-up-and-please-look-at-this-incredible-awkward-teen-bird/
 2026-07-01T03:00:00+00:00	When something is beautiful https://doodhpeda.bearblog.dev/blog/when-something-is-beautiful/
 2026-07-01T04:24:00+00:00	As I get older, I understand my Dad more https://basic.bearblog.dev/as-i-get-older-i-understand-my-dad-more/
 2026-07-01T11:10:00+00:00	Bear Blog Carnival: An album that got you through a hard time https://ev-fae.quest/bear-blog-carnival-an-album-that-got-you-through-a-hard-time/
@@ -22,4 +21,5 @@
 2026-07-04T05:50:00+00:00	I am what I read https://doodhpeda.bearblog.dev/blog/i-am-what-i-read/
 2026-07-04T12:00:00+00:00	I Hid an Easter Egg on My Bear Blog. Can You Find It? https://www.simonjamesfrench.com/i-hid-an-easter-egg/
 2026-07-04T14:01:00+00:00	💌 Newsletter #011 - Failing Grades, Mass Delusions, and Hiring Back Humans https://technically-good.ca/newsletter/011-2026-07-04/
+2026-07-04T16:18:00+00:00	Where did my creativity go? https://jerichards.me/where-did-my-creativity-go/
 2026-07-04T20:59:00+00:00	People Walk Too Fast https://valerialoves.com/people-walk-too-fast/

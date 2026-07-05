@@ -9,7 +9,6 @@
 2026-07-03T18:00:37+00:00	Former PlayStation boss Shawn Layden on Sony's years-long debate over scrapping discs, and why this time it's probably "a straight spreadsheet decision" https://www.reddit.com/r/Games/comments/1umlhtk/former_playstation_boss_shawn_layden_on_sonys/
 2026-07-03T20:00:54+00:00	Stephen Totilo: Sony's private message to publisher/dev partners about discs also cited a consumer "shift". But it included more explicit confirmation that, after Jan 2028, partners "will still be able to place re-orders for existing PlayStation disc games” https://www.reddit.com/r/Games/comments/1umoj2u/stephen_totilo_sonys_private_message_to/
 2026-07-03T22:48:21+00:00	Square Enix doesn't promise to keep games playable forever, but it will "continue to create pathways" for fans to enjoy them "even after service has ended" https://www.reddit.com/r/Games/comments/1umsip3/square_enix_doesnt_promise_to_keep_games_playable/
-2026-07-04T00:29:07+00:00	Pretty Old Pixel interviews Joseph Hewitt (me) about his days at Westwood Studios https://www.reddit.com/r/Games/comments/1umuo2e/pretty_old_pixel_interviews_joseph_hewitt_me/
 2026-07-04T11:58:40+00:00	Eve Online's Carbon engine is now open source: Fenris Creations explains why https://www.reddit.com/r/Games/comments/1un786s/eve_onlines_carbon_engine_is_now_open_source/
 2026-07-04T12:57:18+00:00	More traditional Final Fantasy remakes could happen, as Square Enix says it'll follow what "truly resonates" with fans, even if that's not open-world action https://www.reddit.com/r/Games/comments/1un8fed/more_traditional_final_fantasy_remakes_could/
 2026-07-04T15:29:20+00:00	Bergfried Announce Trailer https://www.reddit.com/r/Games/comments/1unbxu8/bergfried_announce_trailer/
@@ -18,7 +17,6 @@
 2026-07-04T21:33:39+00:00	Palworld OFFICIAL CARD GAME "Dawn of Palpagos" https://www.reddit.com/r/Games/comments/1unko4d/palworld_official_card_game_dawn_of_palpagos/
 2026-07-05T00:41:19+00:00	[Interview] “My target audience is myself.” Suda51 and Fumito Ueda discuss their game design philosophies, the inherent violence of action games, and what it takes to be a director https://www.reddit.com/r/Games/comments/1unolt9/interview_my_target_audience_is_myself_suda51_and/
 2026-07-05T04:00:41+00:00	Indie Sunday Hub - July 5, 2026 https://www.reddit.com/r/Games/comments/1uns7hh/indie_sunday_hub_july_5_2026/
-2026-07-05T06:40:48+00:00	Forsaken Fleet - Zakym s. r. o. - First-person pirate horror https://www.reddit.com/r/Games/comments/1unv0k1/forsaken_fleet_zakym_s_r_o_firstperson_pirate/
 2026-07-05T07:29:12+00:00	Topdeck Automat - Ludokultur - Hearthstone Battlegrounds auto-battling meets Slay the Spire build-crafting https://www.reddit.com/r/Games/comments/1unvuap/topdeck_automat_ludokultur_hearthstone/
 2026-07-05T08:25:22+00:00	Summer Games Done Quick 2026 begins today, a week-long speedrunning marathon fundraising for Doctors Without Borders! https://www.reddit.com/r/Games/comments/1unwro9/summer_games_done_quick_2026_begins_today_a/
 2026-07-05T08:32:52+00:00	Marble's Marbles - Destined - A love letter to the classic marble games like Marble Madness, Ballance and HamsterBall https://www.reddit.com/r/Games/comments/1unww2k/marbles_marbles_destined_a_love_letter_to_the/
@@ -28,3 +26,5 @@
 2026-07-05T10:23:00+00:00	Omelet You Cook - SchuBox Games - Chaotic cooking roguelike "Balatro meets Cooking Mama" https://www.reddit.com/r/Games/comments/1unyofq/omelet_you_cook_schubox_games_chaotic_cooking/
 2026-07-05T10:25:41+00:00	Big Dig - Hjalte & Schu - Narrative-driven Incremental! New DEMO out now! https://www.reddit.com/r/Games/comments/1unyq00/big_dig_hjalte_schu_narrativedriven_incremental/
 2026-07-05T10:29:03+00:00	The Video Game Industry’s Trade Body Doesn’t Want To Talk About Digital Ownership https://www.reddit.com/r/Games/comments/1unyrxw/the_video_game_industrys_trade_body_doesnt_want/
+2026-07-05T11:29:58+00:00	What's the Password? - TrampolineTales - A minimalistic puzzle game where you decode 4-digit passwords (Out now!) https://www.reddit.com/r/Games/comments/1unzu2z/whats_the_password_trampolinetales_a_minimalistic/
+2026-07-05T11:42:55+00:00	Chicken Battlefield - Chickenbattlefielddevs - A chaotic roguelite https://www.reddit.com/r/Games/comments/1uo02x0/chicken_battlefield_chickenbattlefielddevs_a/
