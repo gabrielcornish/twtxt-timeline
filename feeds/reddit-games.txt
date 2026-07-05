@@ -5,7 +5,6 @@
 
 2026-07-01T11:01:27+00:00	Daily /r/Games Discussion - Suggest Me a Game - July 01, 2026 https://www.reddit.com/r/Games/comments/1ukigfj/daily_rgames_discussion_suggest_me_a_game_july_01/
 2026-07-03T02:28:07+00:00	Expedition 33 lead says if people don't like the studio's next game 'that's life' https://www.reddit.com/r/Games/comments/1um1wn1/expedition_33_lead_says_if_people_dont_like_the/
-2026-07-03T10:34:32+00:00	Assassin's Creed Black Flag - Road to Launch https://www.reddit.com/r/Games/comments/1umav11/assassins_creed_black_flag_road_to_launch/
 2026-07-03T11:16:18+00:00	Cyberpunk 2077 has sold 40 million copies worldwide https://www.reddit.com/r/Games/comments/1umbnsf/cyberpunk_2077_has_sold_40_million_copies/
 2026-07-03T15:24:12+00:00	Level-5 gives employees “significant” pay raises for acing quizzes about its own games, according to CEO https://www.reddit.com/r/Games/comments/1umhefg/level5_gives_employees_significant_pay_raises_for/
 2026-07-03T16:07:33+00:00	Insider Gaming: Ghostrunner 3 ‘Would be Awesome’ & One More Level Has Ideas For New Game https://www.reddit.com/r/Games/comments/1umijis/insider_gaming_ghostrunner_3_would_be_awesome_one/
@@ -15,7 +14,6 @@
 2026-07-03T18:29:55+00:00	TennoCon 2026 | TennoLive 2026 Teaser https://www.reddit.com/r/Games/comments/1umm8xz/tennocon_2026_tennolive_2026_teaser/
 2026-07-03T18:45:15+00:00	Danganronpa 2x2 Game Reveals ‘Slayhem’ Title for New Scenario, Delay to Early 2027 https://www.reddit.com/r/Games/comments/1ummmyv/danganronpa_2x2_game_reveals_slayhem_title_for/
 2026-07-03T18:54:46+00:00	WayForward: Enjoy this brand-new teaser image revealed at Anime Expo for the next Shantae game, currently in development! https://www.reddit.com/r/Games/comments/1ummvpx/wayforward_enjoy_this_brandnew_teaser_image/
-2026-07-03T19:17:45+00:00	Bounty Sisters | Official Announcement trailer https://www.reddit.com/r/Games/comments/1umngw9/bounty_sisters_official_announcement_trailer/
 2026-07-03T20:00:54+00:00	Stephen Totilo: Sony's private message to publisher/dev partners about discs also cited a consumer "shift". But it included more explicit confirmation that, after Jan 2028, partners "will still be able to place re-orders for existing PlayStation disc games” https://www.reddit.com/r/Games/comments/1umoj2u/stephen_totilo_sonys_private_message_to/
 2026-07-03T22:48:21+00:00	Square Enix doesn't promise to keep games playable forever, but it will "continue to create pathways" for fans to enjoy them "even after service has ended" https://www.reddit.com/r/Games/comments/1umsip3/square_enix_doesnt_promise_to_keep_games_playable/
 2026-07-04T00:29:07+00:00	Pretty Old Pixel interviews Joseph Hewitt (me) about his days at Westwood Studios https://www.reddit.com/r/Games/comments/1umuo2e/pretty_old_pixel_interviews_joseph_hewitt_me/
@@ -27,4 +25,6 @@
 2026-07-04T21:33:39+00:00	Palworld OFFICIAL CARD GAME "Dawn of Palpagos" https://www.reddit.com/r/Games/comments/1unko4d/palworld_official_card_game_dawn_of_palpagos/
 2026-07-05T00:41:19+00:00	[Interview] “My target audience is myself.” Suda51 and Fumito Ueda discuss their game design philosophies, the inherent violence of action games, and what it takes to be a director https://www.reddit.com/r/Games/comments/1unolt9/interview_my_target_audience_is_myself_suda51_and/
 2026-07-05T04:00:41+00:00	Indie Sunday Hub - July 5, 2026 https://www.reddit.com/r/Games/comments/1uns7hh/indie_sunday_hub_july_5_2026/
-2026-07-05T04:03:47+00:00	Wolf of the Desert - AJInteractive - Play as a sneaky card throwing vigelante in a dystopian middle east! https://www.reddit.com/r/Games/comments/1uns9mo/wolf_of_the_desert_ajinteractive_play_as_a_sneaky/
+2026-07-05T06:40:48+00:00	Forsaken Fleet - Zakym s. r. o. - First-person pirate horror https://www.reddit.com/r/Games/comments/1unv0k1/forsaken_fleet_zakym_s_r_o_firstperson_pirate/
+2026-07-05T07:26:56+00:00	Furball Over the Front - Page Blue House - WW1 Shooter https://www.reddit.com/r/Games/comments/1unvsxl/furball_over_the_front_page_blue_house_ww1_shooter/
+2026-07-05T07:29:12+00:00	Topdeck Automat - Ludokultur - Hearthstone Battlegrounds auto-battling meets Slay the Spire build-crafting https://www.reddit.com/r/Games/comments/1unvuap/topdeck_automat_ludokultur_hearthstone/
