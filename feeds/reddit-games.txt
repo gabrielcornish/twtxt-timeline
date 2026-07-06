@@ -5,6 +5,7 @@
 
 2026-07-04T11:58:40+00:00	Eve Online's Carbon engine is now open source: Fenris Creations explains why https://www.reddit.com/r/Games/comments/1un786s/eve_onlines_carbon_engine_is_now_open_source/
 2026-07-04T12:57:18+00:00	More traditional Final Fantasy remakes could happen, as Square Enix says it'll follow what "truly resonates" with fans, even if that's not open-world action https://www.reddit.com/r/Games/comments/1un8fed/more_traditional_final_fantasy_remakes_could/
+2026-07-04T15:29:20+00:00	Bergfried Announce Trailer https://www.reddit.com/r/Games/comments/1unbxu8/bergfried_announce_trailer/
 2026-07-04T18:59:50+00:00	Persona 4 Revival’s Animated Cutscenes Produced by MAPPA https://www.reddit.com/r/Games/comments/1unh3ei/persona_4_revivals_animated_cutscenes_produced_by/
 2026-07-04T21:04:33+00:00	After 10 years, Hot Dogs, Horseshoes & Hand Grenades (H3VR) is coming out of Early Access https://www.reddit.com/r/Games/comments/1unk13t/after_10_years_hot_dogs_horseshoes_hand_grenades/
 2026-07-04T21:33:39+00:00	Palworld OFFICIAL CARD GAME "Dawn of Palpagos" https://www.reddit.com/r/Games/comments/1unko4d/palworld_official_card_game_dawn_of_palpagos/
@@ -14,17 +15,16 @@
 2026-07-05T08:32:52+00:00	Marble's Marbles - Destined - A love letter to the classic marble games like Marble Madness, Ballance and HamsterBall https://www.reddit.com/r/Games/comments/1unww2k/marbles_marbles_destined_a_love_letter_to_the/
 2026-07-05T09:00:28+00:00	Weekly /r/Games Discussion - What have you been playing, and what are your thoughts? - July 05, 2026 https://www.reddit.com/r/Games/comments/1unxc5k/weekly_rgames_discussion_what_have_you_been/
 2026-07-05T10:23:00+00:00	Omelet You Cook - SchuBox Games - Chaotic cooking roguelike "Balatro meets Cooking Mama" https://www.reddit.com/r/Games/comments/1unyofq/omelet_you_cook_schubox_games_chaotic_cooking/
-2026-07-05T10:25:41+00:00	Big Dig - Hjalte & Schu - Narrative-driven Incremental! New DEMO out now! https://www.reddit.com/r/Games/comments/1unyq00/big_dig_hjalte_schu_narrativedriven_incremental/
 2026-07-05T10:29:03+00:00	The Video Game Industry’s Trade Body Doesn’t Want To Talk About Digital Ownership https://www.reddit.com/r/Games/comments/1unyrxw/the_video_game_industrys_trade_body_doesnt_want/
 2026-07-05T11:29:58+00:00	What's the Password? - TrampolineTales - A minimalistic puzzle game where you decode 4-digit passwords (Out now!) https://www.reddit.com/r/Games/comments/1unzu2z/whats_the_password_trampolinetales_a_minimalistic/
-2026-07-05T12:55:35+00:00	Zero Stress King - Pauloondra - An incremental tower defense you cannot fail. Because of lava https://www.reddit.com/r/Games/comments/1uo1j3u/zero_stress_king_pauloondra_an_incremental_tower/
 2026-07-05T13:53:26+00:00	Seer's Gambit - Unleash the Giraffe - Draft a party that shouldn't work and build crazy hero synergies. https://www.reddit.com/r/Games/comments/1uo2s7w/seers_gambit_unleash_the_giraffe_draft_a_party/
 2026-07-05T15:09:28+00:00	Hideo Kojima ‘really sad’ about PlayStation killing discs, ‘frightened’ for future of ownership https://www.reddit.com/r/Games/comments/1uo4kjo/hideo_kojima_really_sad_about_playstation_killing/
 2026-07-05T15:11:01+00:00	Elevator To Hell - Niflheim Games - Co-op survival horror https://www.reddit.com/r/Games/comments/1uo4lw4/elevator_to_hell_niflheim_games_coop_survival/
 2026-07-05T18:17:48+00:00	Why physical media is ESSENTIAL for a healthy games industry https://www.reddit.com/r/Games/comments/1uo9b28/why_physical_media_is_essential_for_a_healthy/
 2026-07-05T19:23:49+00:00	Turning Manor - Sabbatical Games - First person count the difference horror game that expands on the anomaly genre https://www.reddit.com/r/Games/comments/1uoazpu/turning_manor_sabbatical_games_first_person_count/
 2026-07-05T21:25:10+00:00	Survive The Apocalypse - Mehmet Emin Uyar - Procedural city ruins exploration roguelike https://www.reddit.com/r/Games/comments/1uodzcf/survive_the_apocalypse_mehmet_emin_uyar/
+2026-07-05T21:29:41+00:00	Arcadium - Luciano - What if Vampire Survivors took place in a procedural universe and you could harvest planets? Available on Steam and Mobile https://www.reddit.com/r/Games/comments/1uoe37n/arcadium_luciano_what_if_vampire_survivors_took/
 2026-07-05T22:22:42+00:00	Imperial Ambitions - Aoiti - dark 4X turn-based strategy about empire, trade, and colonial consequences, releasing July 13 https://www.reddit.com/r/Games/comments/1uofche/imperial_ambitions_aoiti_dark_4x_turnbased/
-2026-07-05T23:55:07+00:00	Shou Lie - Early Development Reveal Trailer https://www.reddit.com/r/Games/comments/1uohi8v/shou_lie_early_development_reveal_trailer/
 2026-07-06T01:28:19+00:00	Zeroth - Contrary Games - Comical and Challenging ARPG https://www.reddit.com/r/Games/comments/1uojj1m/zeroth_contrary_games_comical_and_challenging_arpg/
 2026-07-06T08:55:45+00:00	Puzzle-Shmup "XeGrader plus", from Hydlide veteran Tokihiro Naito, now available on Steam https://www.reddit.com/r/Games/comments/1uorttj/puzzleshmup_xegrader_plus_from_hydlide_veteran/
+2026-07-06T12:04:00+00:00	Assassin's Creed: Black Flag Resynced: The First 18 Minutes of Gameplay https://www.reddit.com/r/Games/comments/1uovdsy/assassins_creed_black_flag_resynced_the_first_18/
