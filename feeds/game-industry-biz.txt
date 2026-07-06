@@ -3,7 +3,6 @@
 # source = https://www.gamesindustry.biz/feed
 # description = twtxt conversion of https://www.gamesindustry.biz/feed
 
-2026-06-25T09:47:36+00:00	Micron says chip shortage will "improve gradually" in 2028 https://www.gamesindustry.biz/micron-says-chip-shortage-will-improve-gradually-in-2028
 2026-06-25T10:24:03+00:00	Tencent, Xbox, Game Angels, Ansible and Flick to speak on Game Republic New Horizons investor stage https://www.gamesindustry.biz/tencent-xbox-game-angels-ansible-and-flick-to-speak-on-game-republic-new-horizons-investor-stage
 2026-06-25T12:13:39+00:00	Circana: Nintendo Switch 2 helped US physical game spending increase year-on-year for first time since 2009 https://www.gamesindustry.biz/circana-nintendo-switch-2-helped-us-physical-game-spending-increase-year-on-year-for-first-time-since-2009
 2026-06-25T14:15:00+00:00	VC fund Vgames launches new $10m Indie Fund https://www.gamesindustry.biz/vc-fund-vgames-launches-new-10m-indie-fund
@@ -53,3 +52,4 @@
 2026-07-06T09:46:40+00:00	Union launches hardship fund for laid off developers https://www.gamesindustry.biz/union-launches-hardship-fund-for-laid-off-developers
 2026-07-06T13:30:14+00:00	Interview: While GDC falters, Gamescom goes from strength to strength https://www.gamesindustry.biz/interview-while-gdc-falters-gamescom-goes-from-strength-to-strength
 2026-07-06T13:53:54+00:00	Xbox announces plans to lay off 3,200 staff and divest five studios https://www.gamesindustry.biz/xbox-to-reduce-workforce-by-3200-five-studios-to-be-divested
+2026-07-06T16:45:32+00:00	Xbox layoffs: jobs lost at Bethesda, more reported at id Software https://www.gamesindustry.biz/xbox-layoffs-july-2026
