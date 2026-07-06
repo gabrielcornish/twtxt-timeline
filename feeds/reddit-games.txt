@@ -3,14 +3,11 @@
 # source = https://www.reddit.com/r/Games.rss
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
-2026-07-04T18:59:50+00:00	Persona 4 Revival’s Animated Cutscenes Produced by MAPPA https://www.reddit.com/r/Games/comments/1unh3ei/persona_4_revivals_animated_cutscenes_produced_by/
-2026-07-04T21:33:39+00:00	Palworld OFFICIAL CARD GAME "Dawn of Palpagos" https://www.reddit.com/r/Games/comments/1unko4d/palworld_official_card_game_dawn_of_palpagos/
 2026-07-05T00:41:19+00:00	[Interview] “My target audience is myself.” Suda51 and Fumito Ueda discuss their game design philosophies, the inherent violence of action games, and what it takes to be a director https://www.reddit.com/r/Games/comments/1unolt9/interview_my_target_audience_is_myself_suda51_and/
 2026-07-05T08:25:22+00:00	Summer Games Done Quick 2026 begins today, a week-long speedrunning marathon fundraising for Doctors Without Borders! https://www.reddit.com/r/Games/comments/1unwro9/summer_games_done_quick_2026_begins_today_a/
 2026-07-05T09:00:28+00:00	Weekly /r/Games Discussion - What have you been playing, and what are your thoughts? - July 05, 2026 https://www.reddit.com/r/Games/comments/1unxc5k/weekly_rgames_discussion_what_have_you_been/
 2026-07-05T10:23:00+00:00	Omelet You Cook - SchuBox Games - Chaotic cooking roguelike "Balatro meets Cooking Mama" https://www.reddit.com/r/Games/comments/1unyofq/omelet_you_cook_schubox_games_chaotic_cooking/
 2026-07-05T10:29:03+00:00	The Video Game Industry’s Trade Body Doesn’t Want To Talk About Digital Ownership https://www.reddit.com/r/Games/comments/1unyrxw/the_video_game_industrys_trade_body_doesnt_want/
-2026-07-05T13:53:26+00:00	Seer's Gambit - Unleash the Giraffe - Draft a party that shouldn't work and build crazy hero synergies. https://www.reddit.com/r/Games/comments/1uo2s7w/seers_gambit_unleash_the_giraffe_draft_a_party/
 2026-07-05T15:09:28+00:00	Hideo Kojima ‘really sad’ about PlayStation killing discs, ‘frightened’ for future of ownership https://www.reddit.com/r/Games/comments/1uo4kjo/hideo_kojima_really_sad_about_playstation_killing/
 2026-07-05T18:17:48+00:00	Why physical media is ESSENTIAL for a healthy games industry https://www.reddit.com/r/Games/comments/1uo9b28/why_physical_media_is_essential_for_a_healthy/
 2026-07-05T22:22:42+00:00	Imperial Ambitions - Aoiti - dark 4X turn-based strategy about empire, trade, and colonial consequences, releasing July 13 https://www.reddit.com/r/Games/comments/1uofche/imperial_ambitions_aoiti_dark_4x_turnbased/
@@ -28,3 +25,6 @@
 2026-07-06T17:26:11+00:00	Granblue Fantasy: Relink - Endless Ragnarok | Launch Trailer "Not Forgotten Sky" https://www.reddit.com/r/Games/comments/1up4081/granblue_fantasy_relink_endless_ragnarok_launch/
 2026-07-06T18:21:30+00:00	MARVEL Tōkon: Fighting Souls | Doctor Doom Character Guide https://www.reddit.com/r/Games/comments/1up5mnu/marvel_tōkon_fighting_souls_doctor_doom_character/
 2026-07-06T18:31:19+00:00	Don Mattrick on seeing Halo 4 demo - "we should add (Diablo III like) real money auction house for campaign mech skins" https://www.reddit.com/r/Games/comments/1up5x4d/don_mattrick_on_seeing_halo_4_demo_we_should_add/
+2026-07-06T19:41:44+00:00	Double Fine: "We're thankful to everyone at Xbox for seven great years together, and for working with us to reach an outcome which preserves our history and culture, and returns ownership of our games to us" https://www.reddit.com/r/Games/comments/1up7x3b/double_fine_were_thankful_to_everyone_at_xbox_for/
+2026-07-06T19:49:15+00:00	Alchemic Beasts - Demo Launch Trailer https://www.reddit.com/r/Games/comments/1up84ju/alchemic_beasts_demo_launch_trailer/
+2026-07-06T20:00:30+00:00	Scott Miller (Apogee/3D Realms Founder) - "(...)majority of Id's studio is being laid off, including most (if not all) coders." https://www.reddit.com/r/Games/comments/1up8frf/scott_miller_apogee3d_realms_founder_majority_of/
