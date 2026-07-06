@@ -3,28 +3,28 @@
 # source = https://www.reddit.com/r/Games.rss
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
-2026-07-04T11:58:40+00:00	Eve Online's Carbon engine is now open source: Fenris Creations explains why https://www.reddit.com/r/Games/comments/1un786s/eve_onlines_carbon_engine_is_now_open_source/
-2026-07-04T12:57:18+00:00	More traditional Final Fantasy remakes could happen, as Square Enix says it'll follow what "truly resonates" with fans, even if that's not open-world action https://www.reddit.com/r/Games/comments/1un8fed/more_traditional_final_fantasy_remakes_could/
-2026-07-04T15:29:20+00:00	Bergfried Announce Trailer https://www.reddit.com/r/Games/comments/1unbxu8/bergfried_announce_trailer/
 2026-07-04T18:59:50+00:00	Persona 4 Revival’s Animated Cutscenes Produced by MAPPA https://www.reddit.com/r/Games/comments/1unh3ei/persona_4_revivals_animated_cutscenes_produced_by/
 2026-07-04T21:04:33+00:00	After 10 years, Hot Dogs, Horseshoes & Hand Grenades (H3VR) is coming out of Early Access https://www.reddit.com/r/Games/comments/1unk13t/after_10_years_hot_dogs_horseshoes_hand_grenades/
 2026-07-04T21:33:39+00:00	Palworld OFFICIAL CARD GAME "Dawn of Palpagos" https://www.reddit.com/r/Games/comments/1unko4d/palworld_official_card_game_dawn_of_palpagos/
 2026-07-05T00:41:19+00:00	[Interview] “My target audience is myself.” Suda51 and Fumito Ueda discuss their game design philosophies, the inherent violence of action games, and what it takes to be a director https://www.reddit.com/r/Games/comments/1unolt9/interview_my_target_audience_is_myself_suda51_and/
-2026-07-05T07:29:12+00:00	Topdeck Automat - Ludokultur - Hearthstone Battlegrounds auto-battling meets Slay the Spire build-crafting https://www.reddit.com/r/Games/comments/1unvuap/topdeck_automat_ludokultur_hearthstone/
 2026-07-05T08:25:22+00:00	Summer Games Done Quick 2026 begins today, a week-long speedrunning marathon fundraising for Doctors Without Borders! https://www.reddit.com/r/Games/comments/1unwro9/summer_games_done_quick_2026_begins_today_a/
-2026-07-05T08:32:52+00:00	Marble's Marbles - Destined - A love letter to the classic marble games like Marble Madness, Ballance and HamsterBall https://www.reddit.com/r/Games/comments/1unww2k/marbles_marbles_destined_a_love_letter_to_the/
 2026-07-05T09:00:28+00:00	Weekly /r/Games Discussion - What have you been playing, and what are your thoughts? - July 05, 2026 https://www.reddit.com/r/Games/comments/1unxc5k/weekly_rgames_discussion_what_have_you_been/
 2026-07-05T10:23:00+00:00	Omelet You Cook - SchuBox Games - Chaotic cooking roguelike "Balatro meets Cooking Mama" https://www.reddit.com/r/Games/comments/1unyofq/omelet_you_cook_schubox_games_chaotic_cooking/
 2026-07-05T10:29:03+00:00	The Video Game Industry’s Trade Body Doesn’t Want To Talk About Digital Ownership https://www.reddit.com/r/Games/comments/1unyrxw/the_video_game_industrys_trade_body_doesnt_want/
 2026-07-05T11:29:58+00:00	What's the Password? - TrampolineTales - A minimalistic puzzle game where you decode 4-digit passwords (Out now!) https://www.reddit.com/r/Games/comments/1unzu2z/whats_the_password_trampolinetales_a_minimalistic/
 2026-07-05T13:53:26+00:00	Seer's Gambit - Unleash the Giraffe - Draft a party that shouldn't work and build crazy hero synergies. https://www.reddit.com/r/Games/comments/1uo2s7w/seers_gambit_unleash_the_giraffe_draft_a_party/
 2026-07-05T15:09:28+00:00	Hideo Kojima ‘really sad’ about PlayStation killing discs, ‘frightened’ for future of ownership https://www.reddit.com/r/Games/comments/1uo4kjo/hideo_kojima_really_sad_about_playstation_killing/
-2026-07-05T15:11:01+00:00	Elevator To Hell - Niflheim Games - Co-op survival horror https://www.reddit.com/r/Games/comments/1uo4lw4/elevator_to_hell_niflheim_games_coop_survival/
 2026-07-05T18:17:48+00:00	Why physical media is ESSENTIAL for a healthy games industry https://www.reddit.com/r/Games/comments/1uo9b28/why_physical_media_is_essential_for_a_healthy/
-2026-07-05T19:23:49+00:00	Turning Manor - Sabbatical Games - First person count the difference horror game that expands on the anomaly genre https://www.reddit.com/r/Games/comments/1uoazpu/turning_manor_sabbatical_games_first_person_count/
-2026-07-05T21:25:10+00:00	Survive The Apocalypse - Mehmet Emin Uyar - Procedural city ruins exploration roguelike https://www.reddit.com/r/Games/comments/1uodzcf/survive_the_apocalypse_mehmet_emin_uyar/
-2026-07-05T21:29:41+00:00	Arcadium - Luciano - What if Vampire Survivors took place in a procedural universe and you could harvest planets? Available on Steam and Mobile https://www.reddit.com/r/Games/comments/1uoe37n/arcadium_luciano_what_if_vampire_survivors_took/
 2026-07-05T22:22:42+00:00	Imperial Ambitions - Aoiti - dark 4X turn-based strategy about empire, trade, and colonial consequences, releasing July 13 https://www.reddit.com/r/Games/comments/1uofche/imperial_ambitions_aoiti_dark_4x_turnbased/
 2026-07-06T01:28:19+00:00	Zeroth - Contrary Games - Comical and Challenging ARPG https://www.reddit.com/r/Games/comments/1uojj1m/zeroth_contrary_games_comical_and_challenging_arpg/
 2026-07-06T08:55:45+00:00	Puzzle-Shmup "XeGrader plus", from Hydlide veteran Tokihiro Naito, now available on Steam https://www.reddit.com/r/Games/comments/1uorttj/puzzleshmup_xegrader_plus_from_hydlide_veteran/
 2026-07-06T12:04:00+00:00	Assassin's Creed: Black Flag Resynced: The First 18 Minutes of Gameplay https://www.reddit.com/r/Games/comments/1uovdsy/assassins_creed_black_flag_resynced_the_first_18/
+2026-07-06T12:55:39+00:00	Entropy: Zero 2: Progenitors is a new stealth-focused Half-Life 2 mod where you play a Combine assassin hunting the human resistance https://www.reddit.com/r/Games/comments/1uowkb7/entropy_zero_2_progenitors_is_a_new/
+2026-07-06T13:05:47+00:00	Information about upcoming battery-related revisions to some Nintendo products https://www.reddit.com/r/Games/comments/1uowtgf/information_about_upcoming_batteryrelated/
+2026-07-06T13:31:28+00:00	Microsoft is laying off 4,800 employees https://www.reddit.com/r/Games/comments/1uoxgcl/microsoft_is_laying_off_4800_employees/
+2026-07-06T13:32:49+00:00	Microsoft is selling off four Xbox studios as part of significant gaming cuts / Double Fine and Compulsion Games are going independent, and Microsoft is also selling Ninja Theory and Undead Labs. https://www.reddit.com/r/Games/comments/1uoxhlg/microsoft_is_selling_off_four_xbox_studios_as/
+2026-07-06T13:33:32+00:00	Resetting XBOX - XBOX Wire https://www.reddit.com/r/Games/comments/1uoxian/resetting_xbox_xbox_wire/
+2026-07-06T14:55:23+00:00	Jason Schreier: Studios in the Bethesda organization like id Software (Doom) and ZeniMax Online Studios (Elder Scrolls Online) are not shutting down but are cutting a significant number of staff this morning, per sources. https://www.reddit.com/r/Games/comments/1uozohr/jason_schreier_studios_in_the_bethesda/
+2026-07-06T14:59:28+00:00	Assassin's Creed Black Flag Resynced: 20 Minutes of Naval Combat https://www.reddit.com/r/Games/comments/1uozse3/assassins_creed_black_flag_resynced_20_minutes_of/
+2026-07-06T15:49:28+00:00	Solo Leveling: Karma - Official Combat Reveal Trailer https://www.reddit.com/r/Games/comments/1up17lf/solo_leveling_karma_official_combat_reveal_trailer/
+2026-07-06T15:50:27+00:00	IGN: Xbox Is ‘Not Healthy’, But Losing All of This Talent Isn’t the Cure https://www.reddit.com/r/Games/comments/1up18nf/ign_xbox_is_not_healthy_but_losing_all_of_this/
