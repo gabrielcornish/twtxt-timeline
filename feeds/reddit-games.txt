@@ -5,14 +5,12 @@
 
 2026-07-05T09:00:28+00:00	Weekly /r/Games Discussion - What have you been playing, and what are your thoughts? - July 05, 2026 https://www.reddit.com/r/Games/comments/1unxc5k/weekly_rgames_discussion_what_have_you_been/
 2026-07-06T13:31:28+00:00	Microsoft is laying off 4,800 employees https://www.reddit.com/r/Games/comments/1uoxgcl/microsoft_is_laying_off_4800_employees/
-2026-07-06T13:33:32+00:00	Resetting XBOX - XBOX Wire https://www.reddit.com/r/Games/comments/1uoxian/resetting_xbox_xbox_wire/
 2026-07-06T19:41:44+00:00	Double Fine: "We're thankful to everyone at Xbox for seven great years together, and for working with us to reach an outcome which preserves our history and culture, and returns ownership of our games to us" https://www.reddit.com/r/Games/comments/1up7x3b/double_fine_were_thankful_to_everyone_at_xbox_for/
 2026-07-06T20:00:30+00:00	Scott Miller (Apogee/3D Realms Founder) - "(...)majority of Id's studio is being laid off, including most (if not all) coders." https://www.reddit.com/r/Games/comments/1up8frf/scott_miller_apogee3d_realms_founder_majority_of/
 2026-07-06T20:06:01+00:00	Xbox wanted 77M Game Pass subscribers by 2026 — today it has less than half that | Polygon https://www.reddit.com/r/Games/comments/1up8lav/xbox_wanted_77m_game_pass_subscribers_by_2026/
 2026-07-06T21:26:49+00:00	'We Need to Change Course' — Bethesda Boss Tells Staff the Company Must Focus on 'Our Strongest Franchises' as Xbox Layoffs Hit Hard https://www.reddit.com/r/Games/comments/1uparuk/we_need_to_change_course_bethesda_boss_tells/
 2026-07-06T23:00:20+00:00	Outer Worlds Studio Obsidian Losing 25% Of Staff In Xbox Cuts https://www.reddit.com/r/Games/comments/1upd9ds/outer_worlds_studio_obsidian_losing_25_of_staff/
 2026-07-07T02:54:01+00:00	Why Xbox Studios Keep Failing: The Freedom Trap (Laura Fryer) https://www.reddit.com/r/Games/comments/1upimp2/why_xbox_studios_keep_failing_the_freedom_trap/
-2026-07-07T11:05:56+00:00	Moonlight Peaks Launch Trailer https://www.reddit.com/r/Games/comments/1uprtmf/moonlight_peaks_launch_trailer/
 2026-07-07T13:13:21+00:00	IO Interactive announces plans to develop and independently fund Project Fantasy https://www.reddit.com/r/Games/comments/1upuqku/io_interactive_announces_plans_to_develop_and/
 2026-07-07T13:19:00+00:00	Orbitals - Opening Animation https://www.reddit.com/r/Games/comments/1upuvrf/orbitals_opening_animation/
 2026-07-07T13:56:23+00:00	“That would be amazing” – Spyro: A Realm Reborn team would love to work on Banjo-Kazooie, if Xbox let them https://www.reddit.com/r/Games/comments/1upvuys/that_would_be_amazing_spyro_a_realm_reborn_team/
@@ -25,6 +23,8 @@
 2026-07-07T17:05:34+00:00	Behind Xbox’s Big Layoffs, a Streaming Strategy That Failed https://www.reddit.com/r/Games/comments/1uq16tr/behind_xboxs_big_layoffs_a_streaming_strategy/
 2026-07-07T17:38:50+00:00	The Blood of Dawnwalker is much more than its Witcher 3 inspirations (Hands-On Impressions) https://www.reddit.com/r/Games/comments/1uq254q/the_blood_of_dawnwalker_is_much_more_than_its/
 2026-07-07T18:51:44+00:00	EA: Criterion to solely become a Battlefield studio. https://www.reddit.com/r/Games/comments/1uq48x5/ea_criterion_to_solely_become_a_battlefield_studio/
-2026-07-07T19:21:45+00:00	Stephen 'Mortdog' Mortimer, Senior Game Design Director at Riot Games & Lead Designer of Teamfight Tactics, is leaving Riot/TFT. https://www.reddit.com/r/Games/comments/1uq54un/stephen_mortdog_mortimer_senior_game_design/
 2026-07-07T19:44:03+00:00	Xbox's Backwards Compatibility Program and Cloud Gaming lead has been laid off from Microsoft after 37 years — "I wish the team nothing but success" https://www.reddit.com/r/Games/comments/1uq5rtp/xboxs_backwards_compatibility_program_and_cloud/
+2026-07-07T20:15:52+00:00	Marvel Rivals Season 9: The Mystery of Thebes // Dev Vision Vol. 19 https://www.reddit.com/r/Games/comments/1uq6on1/marvel_rivals_season_9_the_mystery_of_thebes_dev/
 2026-07-07T20:44:23+00:00	Jubilee | Character Reveal Trailer | Marvel Rivals https://www.reddit.com/r/Games/comments/1uq7hbf/jubilee_character_reveal_trailer_marvel_rivals/
+2026-07-07T21:13:19+00:00	Unturned Has Just Released Its Source Code https://www.reddit.com/r/Games/comments/1uq89rg/unturned_has_just_released_its_source_code/
+2026-07-07T21:30:13+00:00	Mortdog, Game Designer of TFT, leaves Riot Games https://www.reddit.com/r/Games/comments/1uq8q62/mortdog_game_designer_of_tft_leaves_riot_games/
