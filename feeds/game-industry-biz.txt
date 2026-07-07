@@ -3,10 +3,6 @@
 # source = https://www.gamesindustry.biz/feed
 # description = twtxt conversion of https://www.gamesindustry.biz/feed
 
-2026-06-26T08:12:39+00:00	Epic's Sweeney claims Steam AI labels are "really irresponsible of Valve" https://www.gamesindustry.biz/epics-sweeney-claims-steam-ai-labels-are-really-irresponsible-of-valve
-2026-06-26T09:14:52+00:00	Italy's 34BigThings spins out from Embracer Group https://www.gamesindustry.biz/italys-34bigthings-spins-out-from-embracer-group
-2026-06-26T14:07:12+00:00	Five things to avoid when marketing your indie game | Opinion https://www.gamesindustry.biz/five-things-to-avoid-when-marketing-your-indie-game-opinion
-2026-06-26T15:04:18+00:00	Valve can afford a niche, pricey hardware launch; Sony and Microsoft can't | Opinion https://www.gamesindustry.biz/valve-can-afford-a-niche-pricey-hardware-launch-sony-and-microsoft-cant
 2026-06-26T17:37:13+00:00	PlayStation hardware sales fall to their lowest May total since 2000 | US Monthly Charts https://www.gamesindustry.biz/playstation-hardware-sales-fall-to-their-lowest-may-total-since-2000-us-monthly-charts
 2026-06-29T09:13:46+00:00	PlayStation CEO says company wants to "revitalise" live-service games https://www.gamesindustry.biz/playstation-ceo-says-company-wants-to-revitalise-live-service-games
 2026-06-29T09:40:55+00:00	CD Projekt rebrands to CD Projekt Red https://www.gamesindustry.biz/cd-projekt-rebrands-to-cd-projekt-red
@@ -53,3 +49,7 @@
 2026-07-07T07:59:59+00:00	Original Switch console lineup to be discontinued in Europe by mid-February 2027 https://www.gamesindustry.biz/original-switch-console-lineup-to-be-discontinued-in-europe-by-mid-february-2027
 2026-07-07T09:58:06+00:00	Bethesda pivots to "franchise-centric" planning model amid Xbox restructure https://www.gamesindustry.biz/bethesda-pivots-to-franchise-centric-planning-model-amid-xbox-restructure
 2026-07-07T11:30:00+00:00	"We can break even and be self-sustaining within Riot" – The firm behind League of Legends is "super close" to making esports sustainable https://www.gamesindustry.biz/we-can-break-even-and-be-self-sustaining-within-riot-the-firm-behind-league-of-legends-is-super-close-to-making-esports-sustainable
+2026-07-07T13:14:50+00:00	"We simply spread ourselves too thin" – Xbox's Asha Sharma on firm's restructuring plans https://www.gamesindustry.biz/we-simply-spread-ourselves-too-thin-xboxs-asha-sharma-on-firms-restructuring-plans
+2026-07-07T13:44:12+00:00	Xbox Game Pass reportedly boasts around 30m subscribers https://www.gamesindustry.biz/xbox-game-pass-reportedly-boasts-around-30m-subscribers
+2026-07-07T14:02:00+00:00	IO Interactive to shutter Istanbul studio following end of Project Fantasy deal with Xbox https://www.gamesindustry.biz/io-interactive-to-shutter-istanbul-studio-following-end-of-project-fantasy-deal-with-xbox
+2026-07-07T14:07:20+00:00	Xbox retreats again – but to where? | Opinion https://www.gamesindustry.biz/xbox-retreats-again-but-to-where-opinion
