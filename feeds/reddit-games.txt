@@ -3,12 +3,9 @@
 # source = https://www.reddit.com/r/Games.rss
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
-2026-07-05T08:25:22+00:00	Summer Games Done Quick 2026 begins today, a week-long speedrunning marathon fundraising for Doctors Without Borders! https://www.reddit.com/r/Games/comments/1unwro9/summer_games_done_quick_2026_begins_today_a/
 2026-07-05T09:00:28+00:00	Weekly /r/Games Discussion - What have you been playing, and what are your thoughts? - July 05, 2026 https://www.reddit.com/r/Games/comments/1unxc5k/weekly_rgames_discussion_what_have_you_been/
-2026-07-05T10:29:03+00:00	The Video Game Industry’s Trade Body Doesn’t Want To Talk About Digital Ownership https://www.reddit.com/r/Games/comments/1unyrxw/the_video_game_industrys_trade_body_doesnt_want/
 2026-07-05T15:09:28+00:00	Hideo Kojima ‘really sad’ about PlayStation killing discs, ‘frightened’ for future of ownership https://www.reddit.com/r/Games/comments/1uo4kjo/hideo_kojima_really_sad_about_playstation_killing/
 2026-07-05T18:17:48+00:00	Why physical media is ESSENTIAL for a healthy games industry https://www.reddit.com/r/Games/comments/1uo9b28/why_physical_media_is_essential_for_a_healthy/
-2026-07-06T08:55:45+00:00	Puzzle-Shmup "XeGrader plus", from Hydlide veteran Tokihiro Naito, now available on Steam https://www.reddit.com/r/Games/comments/1uorttj/puzzleshmup_xegrader_plus_from_hydlide_veteran/
 2026-07-06T12:04:00+00:00	Assassin's Creed: Black Flag Resynced: The First 18 Minutes of Gameplay https://www.reddit.com/r/Games/comments/1uovdsy/assassins_creed_black_flag_resynced_the_first_18/
 2026-07-06T12:55:39+00:00	Entropy: Zero 2: Progenitors is a new stealth-focused Half-Life 2 mod where you play a Combine assassin hunting the human resistance https://www.reddit.com/r/Games/comments/1uowkb7/entropy_zero_2_progenitors_is_a_new/
 2026-07-06T13:05:47+00:00	Information about upcoming battery-related revisions to some Nintendo products https://www.reddit.com/r/Games/comments/1uowtgf/information_about_upcoming_batteryrelated/
@@ -21,10 +18,13 @@
 2026-07-06T17:26:11+00:00	Granblue Fantasy: Relink - Endless Ragnarok | Launch Trailer "Not Forgotten Sky" https://www.reddit.com/r/Games/comments/1up4081/granblue_fantasy_relink_endless_ragnarok_launch/
 2026-07-06T18:21:30+00:00	MARVEL Tōkon: Fighting Souls | Doctor Doom Character Guide https://www.reddit.com/r/Games/comments/1up5mnu/marvel_tōkon_fighting_souls_doctor_doom_character/
 2026-07-06T18:31:19+00:00	Don Mattrick on seeing Halo 4 demo - "we should add (Diablo III like) real money auction house for campaign mech skins" https://www.reddit.com/r/Games/comments/1up5x4d/don_mattrick_on_seeing_halo_4_demo_we_should_add/
-2026-07-06T19:15:26+00:00	Mecha Game Code Rapid https://www.reddit.com/r/Games/comments/1up770k/mecha_game_code_rapid/
 2026-07-06T19:41:44+00:00	Double Fine: "We're thankful to everyone at Xbox for seven great years together, and for working with us to reach an outcome which preserves our history and culture, and returns ownership of our games to us" https://www.reddit.com/r/Games/comments/1up7x3b/double_fine_were_thankful_to_everyone_at_xbox_for/
 2026-07-06T19:49:15+00:00	Alchemic Beasts - Demo Launch Trailer https://www.reddit.com/r/Games/comments/1up84ju/alchemic_beasts_demo_launch_trailer/
 2026-07-06T20:00:30+00:00	Scott Miller (Apogee/3D Realms Founder) - "(...)majority of Id's studio is being laid off, including most (if not all) coders." https://www.reddit.com/r/Games/comments/1up8frf/scott_miller_apogee3d_realms_founder_majority_of/
 2026-07-06T20:06:01+00:00	Xbox wanted 77M Game Pass subscribers by 2026 — today it has less than half that | Polygon https://www.reddit.com/r/Games/comments/1up8lav/xbox_wanted_77m_game_pass_subscribers_by_2026/
 2026-07-06T21:26:49+00:00	'We Need to Change Course' — Bethesda Boss Tells Staff the Company Must Focus on 'Our Strongest Franchises' as Xbox Layoffs Hit Hard https://www.reddit.com/r/Games/comments/1uparuk/we_need_to_change_course_bethesda_boss_tells/
 2026-07-06T22:13:54+00:00	"Today is a difficult day": So far, Xbox's cuts haven't targeted Blizzard (for now) — President Johanna Faries emails staff | Windows Central https://www.reddit.com/r/Games/comments/1upc13s/today_is_a_difficult_day_so_far_xboxs_cuts_havent/
+2026-07-06T23:00:20+00:00	Outer Worlds Studio Obsidian Losing 25% Of Staff In Xbox Cuts https://www.reddit.com/r/Games/comments/1upd9ds/outer_worlds_studio_obsidian_losing_25_of_staff/
+2026-07-06T23:41:48+00:00	Code RAPID - Gameplay Trailer https://www.reddit.com/r/Games/comments/1upea8x/code_rapid_gameplay_trailer/
+2026-07-06T23:52:36+00:00	These Starless Skies - Official Announcement Trailer https://www.reddit.com/r/Games/comments/1upejsj/these_starless_skies_official_announcement_trailer/
+2026-07-07T00:38:58+00:00	Nintendo Will Stop Selling The Original Switch In Europe Next Year - Kotaku https://www.reddit.com/r/Games/comments/1upfmkm/nintendo_will_stop_selling_the_original_switch_in/

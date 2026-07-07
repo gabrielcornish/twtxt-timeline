@@ -5,7 +5,6 @@
 
 2026-07-01T11:10:00+00:00	Bear Blog Carnival: An album that got you through a hard time https://ev-fae.quest/bear-blog-carnival-an-album-that-got-you-through-a-hard-time/
 2026-07-01T20:21:24.230896+00:00	Why Your Brain Will Always Defend Complexity https://savvynormie.com/why-your-brain-will-always-defend-complexity/
-2026-07-02T01:20:00+00:00	Life without Google https://untangled.bearblog.dev/life-without-google/
 2026-07-02T07:40:00+00:00	the gentrification of air-drying clothes https://scribblypam.bearblog.dev/the-gentrification-of-air-drying-clothes/
 2026-07-02T13:43:42.335572+00:00	my review of uruky https://blog.sulimans.space/my-review-of-uruky/
 2026-07-02T13:50:00+00:00	Dying technology and what to do about it https://basic.bearblog.dev/dying-technology-and-what-to-do-about-it/
@@ -22,4 +21,5 @@
 2026-07-04T20:27:00+00:00	It is not just gaming and tech, almost everything is getting enshitified & expensive, how to pivot? https://anon0.bearblog.dev/it-is-not-just-gaming-and-tech-almost-everything-is-getting-enshitified-expensive-how-to-pivot/
 2026-07-04T20:59:00+00:00	People Walk Too Fast https://valerialoves.com/people-walk-too-fast/
 2026-07-05T14:48:00+00:00	It's not about physical vs digital games, it's about ownership https://popcar.bearblog.dev/its-about-ownership/
+2026-07-05T22:17:00+00:00	Pros and Cons of Solo Development https://johnjeffers.com/pros-and-cons-of-solo-development/
 2026-07-06T12:01:00+00:00	Connected, but not captured https://pego.dev/connected-but-not-captured/
