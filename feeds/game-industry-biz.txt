@@ -3,8 +3,6 @@
 # source = https://www.gamesindustry.biz/feed
 # description = twtxt conversion of https://www.gamesindustry.biz/feed
 
-2026-06-25T18:20:07+00:00	Microsoft significantly increases Xbox prices worldwide and withdraws 2TB model citing "components crisis" https://www.gamesindustry.biz/microsoft-significantly-increases-xbox-prices-worldwide-and-withdraws-2tb-model-citing-components-crisis
-2026-06-26T07:31:49+00:00	Sony cuts 292 jobs at Destiny maker Bungie https://www.gamesindustry.biz/sony-cuts-292-jobs-at-destiny-maker-bungie
 2026-06-26T08:12:39+00:00	Epic's Sweeney claims Steam AI labels are "really irresponsible of Valve" https://www.gamesindustry.biz/epics-sweeney-claims-steam-ai-labels-are-really-irresponsible-of-valve
 2026-06-26T09:14:52+00:00	Italy's 34BigThings spins out from Embracer Group https://www.gamesindustry.biz/italys-34bigthings-spins-out-from-embracer-group
 2026-06-26T14:07:12+00:00	Five things to avoid when marketing your indie game | Opinion https://www.gamesindustry.biz/five-things-to-avoid-when-marketing-your-indie-game-opinion
@@ -48,8 +46,10 @@
 2026-07-06T09:46:40+00:00	Union launches hardship fund for laid off developers https://www.gamesindustry.biz/union-launches-hardship-fund-for-laid-off-developers
 2026-07-06T13:30:14+00:00	Interview: While GDC falters, Gamescom goes from strength to strength https://www.gamesindustry.biz/interview-while-gdc-falters-gamescom-goes-from-strength-to-strength
 2026-07-06T13:53:54+00:00	Xbox announces plans to lay off 3,200 staff and divest five studios https://www.gamesindustry.biz/xbox-to-reduce-workforce-by-3200-five-studios-to-be-divested
-2026-07-06T16:45:32+00:00	Xbox layoffs: jobs lost at Obsidian, Bethesda, Id and Zenimax Online Studios https://www.gamesindustry.biz/xbox-layoffs-july-2026
+2026-07-06T16:45:32+00:00	Xbox layoffs: Jobs lost at Obsidian, Bethesda, Id and Zenimax Online Studios https://www.gamesindustry.biz/xbox-layoffs-july-2026
 2026-07-06T21:15:27+00:00	Epic Games settles lawsuit against former contractor accused of leaking unannounced Fortnite collaborations https://www.gamesindustry.biz/epic-games-settles-lawsuit-against-former-contractor-accused-of-leaking-unannounced-fortnite-collaborations
 2026-07-06T21:42:55+00:00	Compulsion Games and Double Fine confirm "Independence Day" from Xbox https://www.gamesindustry.biz/compulsion-games-and-double-fine-confirm-independence-day-from-xbox
 2026-07-07T06:41:04+00:00	Sony leadership says AI tools are "an important foundational technology supporting our strategy" https://www.gamesindustry.biz/sony-leadership-says-ai-tools-are-an-important-foundational-technology-supporting-our-strategy
 2026-07-07T07:59:59+00:00	Original Switch console lineup to be discontinued in Europe by mid-February 2027 https://www.gamesindustry.biz/original-switch-console-lineup-to-be-discontinued-in-europe-by-mid-february-2027
+2026-07-07T09:58:06+00:00	Bethesda pivots to "franchise-centric" planning model amid Xbox restructure https://www.gamesindustry.biz/bethesda-pivots-to-franchise-centric-planning-model-amid-xbox-restructure
+2026-07-07T11:30:00+00:00	"We can break even and be self-sustaining within Riot" – The firm behind League of Legends is "super close" to making esports sustainable https://www.gamesindustry.biz/we-can-break-even-and-be-self-sustaining-within-riot-the-firm-behind-league-of-legends-is-super-close-to-making-esports-sustainable
