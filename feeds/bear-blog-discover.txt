@@ -3,7 +3,6 @@
 # source = https://bearblog.dev/discover/feed/
 # description = twtxt conversion of https://bearblog.dev/discover/feed/
 
-2026-07-02T13:50:00+00:00	Dying technology and what to do about it https://basic.bearblog.dev/dying-technology-and-what-to-do-about-it/
 2026-07-02T20:15:00+00:00	Six Months with Bear https://onlinegoddess.net/2026/07/six-months-with-bear/
 2026-07-03T07:00:00+00:00	Social networks and ID verification is here https://basic.bearblog.dev/social-networks-and-id-verification-is-here/
 2026-07-03T11:44:00+00:00	The Big Social Media Smash! https://inikozen.bearblog.dev/the-big-social-media-smash/
@@ -21,5 +20,6 @@
 2026-07-05T14:48:00+00:00	It's not about physical vs digital games, it's about ownership https://popcar.bearblog.dev/its-about-ownership/
 2026-07-05T22:17:00+00:00	Pros and Cons of Solo Development https://johnjeffers.com/pros-and-cons-of-solo-development/
 2026-07-06T12:01:00+00:00	Connected, but not captured https://pego.dev/connected-but-not-captured/
+2026-07-06T22:37:36.113774+00:00	kill the lights https://spectre.bearblog.dev/kill-the-lights/
 2026-07-06T22:45:00+00:00	introducing my cats https://stitching.bearblog.dev/introducing-my-cats/
 2026-07-07T07:55:00+00:00	this isn't about bearblog https://jayrajput.bearblog.dev/this-isnt-about-bearblog/
