@@ -3,8 +3,6 @@
 # source = https://www.gamesindustry.biz/feed
 # description = twtxt conversion of https://www.gamesindustry.biz/feed
 
-2026-06-29T17:27:27+00:00	PlayStation once again pulls purchased StudioCanal content from user libraries because of "licensing arrangements" https://www.gamesindustry.biz/playstation-once-again-pulls-purchased-studio-canal-content-from-user-libraries-because-of-licensing-arrangements
-2026-06-30T08:00:00+00:00	nDreams founder launches new studio Atmospheric to create "original IP across games and music" https://www.gamesindustry.biz/ndreams-founder-launches-new-studio-atmospheric-to-create-original-ip-across-games-and-music
 2026-06-30T08:47:14+00:00	CWA union says Xbox workers are not "disposable" as layoffs loom https://www.gamesindustry.biz/cwa-union-says-xbox-workers-are-not-disposable-as-layoffs-loom
 2026-06-30T09:42:27+00:00	Griffin Gaming Partners invests in TinyBuild https://www.gamesindustry.biz/griffin-gaming-partners-invests-in-tinybuild
 2026-06-30T10:39:48+00:00	Ubisoft Barcelona staff go on strike over 51 staff being laid off https://www.gamesindustry.biz/ubisoft-barcelona-staff-go-on-strike-over-51-staff-being-laid-off
@@ -53,3 +51,5 @@
 2026-07-08T10:45:45+00:00	"Workers deserve protection, not to be treated like disposable line items" – Hundreds of union members affected by Xbox layoffs https://www.gamesindustry.biz/workers-deserve-protection-not-to-be-treated-like-disposable-line-items-hundreds-of-union-members-affected-by-xbox-layoffs
 2026-07-08T13:44:23+00:00	Mario Kart Tour to shut down in September 2026 https://www.gamesindustry.biz/mario-kart-tour-to-shut-down-in-september-2026
 2026-07-08T14:26:16+00:00	Premium mobile games are back, with releases up 77% in 2025 https://www.gamesindustry.biz/premium-mobile-games-are-back-with-releases-up-77-in-2025
+2026-07-08T17:07:40+00:00	Build a Rocket Boy staff to protest upcoming "all-expenses-paid" fan event https://www.gamesindustry.biz/build-a-rocket-boy-staff-to-protest-upcoming-all-expenses-paid-fan-event
+2026-07-08T18:17:11+00:00	Nintendo confirms Switch 1 consoles will be withdrawn from Europe following EU law change on batteries https://www.gamesindustry.biz/nintendo-confirms-switch-1-consoles-will-be-withdrawn-from-europe-following-eu-law-change-on-batteries
