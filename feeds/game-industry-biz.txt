@@ -3,8 +3,6 @@
 # source = https://www.gamesindustry.biz/feed
 # description = twtxt conversion of https://www.gamesindustry.biz/feed
 
-2026-06-26T17:37:13+00:00	PlayStation hardware sales fall to their lowest May total since 2000 | US Monthly Charts https://www.gamesindustry.biz/playstation-hardware-sales-fall-to-their-lowest-may-total-since-2000-us-monthly-charts
-2026-06-29T09:13:46+00:00	PlayStation CEO says company wants to "revitalise" live-service games https://www.gamesindustry.biz/playstation-ceo-says-company-wants-to-revitalise-live-service-games
 2026-06-29T09:40:55+00:00	CD Projekt rebrands to CD Projekt Red https://www.gamesindustry.biz/cd-projekt-rebrands-to-cd-projekt-red
 2026-06-29T11:18:50+00:00	SK Hynix, Samsung and Micron sued over allegations of "concerted anticompetitive behaviour" in DRAM market https://www.gamesindustry.biz/sk-hynix-samsung-and-micron-sued-over-allegations-of-concerted-anticompetitive-behaviour-in-dram-market
 2026-06-29T14:06:43+00:00	"I literally built an investment firm that wouldn't have funded my own pitch" – Why the money isn't reaching the games that need it https://www.gamesindustry.biz/i-literally-built-an-investment-firm-that-wouldnt-have-funded-my-own-pitch-why-the-money-isnt-reaching-the-games-that-need-it
@@ -53,3 +51,5 @@
 2026-07-07T13:44:12+00:00	Xbox Game Pass subscriber count is less than 50% of original target https://www.gamesindustry.biz/xbox-game-pass-reportedly-boasts-around-30m-subscribers
 2026-07-07T14:02:00+00:00	IO Interactive to shutter Istanbul studio following end of Project Fantasy deal with Xbox https://www.gamesindustry.biz/io-interactive-to-shutter-istanbul-studio-following-end-of-project-fantasy-deal-with-xbox
 2026-07-07T14:07:20+00:00	Xbox retreats again – but to where? | Opinion https://www.gamesindustry.biz/xbox-retreats-again-but-to-where-opinion
+2026-07-08T07:48:20+00:00	"There's a wealth of talent here, our focus is on how to leverage and support it" – Atari appoints Andreas Deptolla as Atari Europe president https://www.gamesindustry.biz/theres-a-wealth-of-talent-here-our-focus-is-on-how-to-leverage-and-support-it-atari-appoints-andreas-deptolla-as-atari-europe-president
+2026-07-08T09:15:21+00:00	Nexon to assume publishing duties for Overwatch on PC in South Korea https://www.gamesindustry.biz/nexon-to-assume-publishing-duties-for-overwatch-on-pc-in-south-korea
