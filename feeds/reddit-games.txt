@@ -4,7 +4,6 @@
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
 2026-07-05T09:00:28+00:00	Weekly /r/Games Discussion - What have you been playing, and what are your thoughts? - July 05, 2026 https://www.reddit.com/r/Games/comments/1unxc5k/weekly_rgames_discussion_what_have_you_been/
-2026-07-06T19:41:44+00:00	Double Fine: "We're thankful to everyone at Xbox for seven great years together, and for working with us to reach an outcome which preserves our history and culture, and returns ownership of our games to us" https://www.reddit.com/r/Games/comments/1up7x3b/double_fine_were_thankful_to_everyone_at_xbox_for/
 2026-07-06T23:00:20+00:00	Outer Worlds Studio Obsidian Losing 25% Of Staff In Xbox Cuts https://www.reddit.com/r/Games/comments/1upd9ds/outer_worlds_studio_obsidian_losing_25_of_staff/
 2026-07-07T13:13:21+00:00	IO Interactive announces plans to develop and independently fund Project Fantasy https://www.reddit.com/r/Games/comments/1upuqku/io_interactive_announces_plans_to_develop_and/
 2026-07-07T13:19:00+00:00	Orbitals - Opening Animation https://www.reddit.com/r/Games/comments/1upuvrf/orbitals_opening_animation/
@@ -28,3 +27,4 @@
 2026-07-08T01:05:16+00:00	Nintendo Classics – July 2026 Game Updates https://www.reddit.com/r/Games/comments/1uqe17t/nintendo_classics_july_2026_game_updates/
 2026-07-08T02:25:08+00:00	End of Service Notice | FINAL FANTASY VII EVER CRISIS | SQUARE ENIX https://www.reddit.com/r/Games/comments/1uqfrrj/end_of_service_notice_final_fantasy_vii_ever/
 2026-07-08T03:04:21+00:00	Gamespot: There Is No Reason To Buy Another Playstation or Xbox. Increasingly poor decisions are making it impossible to want or get a next-gen console https://www.reddit.com/r/Games/comments/1uqglts/gamespot_there_is_no_reason_to_buy_another/
+2026-07-08T05:35:57+00:00	DOOM The Dark Ages - Revelations | Review | DayOne https://www.reddit.com/r/Games/comments/1uqjmhw/doom_the_dark_ages_revelations_review_dayone/

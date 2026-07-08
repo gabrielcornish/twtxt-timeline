@@ -3,7 +3,6 @@
 # source = https://bearblog.dev/discover/feed/
 # description = twtxt conversion of https://bearblog.dev/discover/feed/
 
-2026-07-02T20:15:00+00:00	Six Months with Bear https://onlinegoddess.net/2026/07/six-months-with-bear/
 2026-07-03T07:00:00+00:00	Social networks and ID verification is here https://basic.bearblog.dev/social-networks-and-id-verification-is-here/
 2026-07-03T11:44:00+00:00	The Big Social Media Smash! https://inikozen.bearblog.dev/the-big-social-media-smash/
 2026-07-03T13:12:00+00:00	Talking to Another Species https://4s.bearblog.dev/talking-to-another-species/
@@ -16,6 +15,7 @@
 2026-07-04T16:18:00+00:00	Where did my creativity go? https://jerichards.me/where-did-my-creativity-go/
 2026-07-04T20:27:00+00:00	It is not just gaming and tech, almost everything is getting enshitified & expensive, how to pivot? https://anon0.bearblog.dev/it-is-not-just-gaming-and-tech-almost-everything-is-getting-enshitified-expensive-how-to-pivot/
 2026-07-04T20:59:00+00:00	People Walk Too Fast https://valerialoves.com/people-walk-too-fast/
+2026-07-04T21:47:00+00:00	Bear Blog Theme: Vermilion https://anotherdayu.com/vermilion/
 2026-07-05T14:48:00+00:00	It's not about physical vs digital games, it's about ownership https://popcar.bearblog.dev/its-about-ownership/
 2026-07-05T22:17:00+00:00	Pros and Cons of Solo Development https://johnjeffers.com/pros-and-cons-of-solo-development/
 2026-07-06T12:01:00+00:00	Connected, but not captured https://pego.dev/connected-but-not-captured/
