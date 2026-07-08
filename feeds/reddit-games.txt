@@ -4,13 +4,10 @@
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
 2026-07-05T09:00:28+00:00	Weekly /r/Games Discussion - What have you been playing, and what are your thoughts? - July 05, 2026 https://www.reddit.com/r/Games/comments/1unxc5k/weekly_rgames_discussion_what_have_you_been/
-2026-07-06T13:31:28+00:00	Microsoft is laying off 4,800 employees https://www.reddit.com/r/Games/comments/1uoxgcl/microsoft_is_laying_off_4800_employees/
 2026-07-06T19:41:44+00:00	Double Fine: "We're thankful to everyone at Xbox for seven great years together, and for working with us to reach an outcome which preserves our history and culture, and returns ownership of our games to us" https://www.reddit.com/r/Games/comments/1up7x3b/double_fine_were_thankful_to_everyone_at_xbox_for/
 2026-07-06T20:00:30+00:00	Scott Miller (Apogee/3D Realms Founder) - "(...)majority of Id's studio is being laid off, including most (if not all) coders." https://www.reddit.com/r/Games/comments/1up8frf/scott_miller_apogee3d_realms_founder_majority_of/
-2026-07-06T20:06:01+00:00	Xbox wanted 77M Game Pass subscribers by 2026 — today it has less than half that | Polygon https://www.reddit.com/r/Games/comments/1up8lav/xbox_wanted_77m_game_pass_subscribers_by_2026/
 2026-07-06T21:26:49+00:00	'We Need to Change Course' — Bethesda Boss Tells Staff the Company Must Focus on 'Our Strongest Franchises' as Xbox Layoffs Hit Hard https://www.reddit.com/r/Games/comments/1uparuk/we_need_to_change_course_bethesda_boss_tells/
 2026-07-06T23:00:20+00:00	Outer Worlds Studio Obsidian Losing 25% Of Staff In Xbox Cuts https://www.reddit.com/r/Games/comments/1upd9ds/outer_worlds_studio_obsidian_losing_25_of_staff/
-2026-07-07T02:54:01+00:00	Why Xbox Studios Keep Failing: The Freedom Trap (Laura Fryer) https://www.reddit.com/r/Games/comments/1upimp2/why_xbox_studios_keep_failing_the_freedom_trap/
 2026-07-07T13:13:21+00:00	IO Interactive announces plans to develop and independently fund Project Fantasy https://www.reddit.com/r/Games/comments/1upuqku/io_interactive_announces_plans_to_develop_and/
 2026-07-07T13:19:00+00:00	Orbitals - Opening Animation https://www.reddit.com/r/Games/comments/1upuvrf/orbitals_opening_animation/
 2026-07-07T13:56:23+00:00	“That would be amazing” – Spyro: A Realm Reborn team would love to work on Banjo-Kazooie, if Xbox let them https://www.reddit.com/r/Games/comments/1upvuys/that_would_be_amazing_spyro_a_realm_reborn_team/
@@ -28,3 +25,6 @@
 2026-07-07T20:44:23+00:00	Jubilee | Character Reveal Trailer | Marvel Rivals https://www.reddit.com/r/Games/comments/1uq7hbf/jubilee_character_reveal_trailer_marvel_rivals/
 2026-07-07T21:13:19+00:00	Unturned Has Just Released Its Source Code https://www.reddit.com/r/Games/comments/1uq89rg/unturned_has_just_released_its_source_code/
 2026-07-07T21:30:13+00:00	Mortdog, Game Designer of TFT, leaves Riot Games https://www.reddit.com/r/Games/comments/1uq8q62/mortdog_game_designer_of_tft_leaves_riot_games/
+2026-07-07T23:11:28+00:00	Creator of infamous $1m Kickstarter Project Phoenix says he ‘deserved the backlash’ – and insists it’s still coming https://www.reddit.com/r/Games/comments/1uqbbsw/creator_of_infamous_1m_kickstarter_project/
+2026-07-07T23:13:30+00:00	DOOM: The Dark Ages | Revelations DLC Now Available! https://www.reddit.com/r/Games/comments/1uqbdo5/doom_the_dark_ages_revelations_dlc_now_available/
+2026-07-07T23:20:15+00:00	SciFi Combined Arms FPS "Angels Fall First" shares update notes for v1.0 to exit early access after 10 years on Sat, July 11th https://www.reddit.com/r/Games/comments/1uqbjmj/scifi_combined_arms_fps_angels_fall_first_shares/
