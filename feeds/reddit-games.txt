@@ -4,15 +4,11 @@
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
 2026-07-07T15:25:38+00:00	We're One BGS, the Bethesda Games Studios union. Yesterday's layoffs were not a cut of "14 layers of management". We lost dozens of programmers, artists, designers and testers. https://www.reddit.com/r/Games/comments/1upyd1g/were_one_bgs_the_bethesda_games_studios_union/
-2026-07-07T19:44:03+00:00	Xbox's Backwards Compatibility Program and Cloud Gaming lead has been laid off from Microsoft after 37 years — "I wish the team nothing but success" https://www.reddit.com/r/Games/comments/1uq5rtp/xboxs_backwards_compatibility_program_and_cloud/
-2026-07-08T02:25:08+00:00	End of Service Notice | FINAL FANTASY VII EVER CRISIS | SQUARE ENIX https://www.reddit.com/r/Games/comments/1uqfrrj/end_of_service_notice_final_fantasy_vii_ever/
 2026-07-08T03:04:21+00:00	Gamespot: There Is No Reason To Buy Another Playstation or Xbox. Increasingly poor decisions are making it impossible to want or get a next-gen console https://www.reddit.com/r/Games/comments/1uqglts/gamespot_there_is_no_reason_to_buy_another/
 2026-07-08T05:00:25+00:00	Sony's Disc-Free 2028 Plan Hands it Total Price Control, Dutch Group Warns in Exclusive Wccftech Statement as €400M Lawsuit Escalates https://www.reddit.com/r/Games/comments/1uqiybd/sonys_discfree_2028_plan_hands_it_total_price/
-2026-07-08T07:18:09+00:00	Assassin's Creed Black Flag Resynced playable build leaks before release date https://www.reddit.com/r/Games/comments/1uqlfxt/assassins_creed_black_flag_resynced_playable/
 2026-07-08T09:21:33+00:00	Mario Kart Tour End-of-Service Notification https://www.reddit.com/r/Games/comments/1uqnj6j/mario_kart_tour_endofservice_notification/
 2026-07-08T10:00:24+00:00	Assassin's Creed: Black Flag Resynced Review Thread https://www.reddit.com/r/Games/comments/1uqo7qc/assassins_creed_black_flag_resynced_review_thread/
 2026-07-08T11:00:34+00:00	Daily /r/Games Discussion - Suggest Me a Game - July 08, 2026 https://www.reddit.com/r/Games/comments/1uqpcya/daily_rgames_discussion_suggest_me_a_game_july_08/
-2026-07-08T11:20:35+00:00	Granblue Fantasy: Relink - Endless Ragnarok Review Thread https://www.reddit.com/r/Games/comments/1uqprmb/granblue_fantasy_relink_endless_ragnarok_review/
 2026-07-08T12:17:46+00:00	Dawn of War IV Battlefield Report – 1v1 Multiplayer Necrons VS Adeptus Mechanicus https://www.reddit.com/r/Games/comments/1uqr0ar/dawn_of_war_iv_battlefield_report_1v1_multiplayer/
 2026-07-08T14:00:35+00:00	Mortal Shell II - Release Date Trailer | PS5 Games https://www.reddit.com/r/Games/comments/1uqtjb4/mortal_shell_ii_release_date_trailer_ps5_games/
 2026-07-08T15:35:24+00:00	Persona 4 Revival Producer Confirms Changes to Yosuke to Fit Today's Era - "He's a little bit insensitive in terms of how he treats outsiders sometimes." and "We wanted to lighten that up and make it more fitting for the world we live in now." https://www.reddit.com/r/Games/comments/1uqw6gg/persona_4_revival_producer_confirms_changes_to/
@@ -28,3 +24,7 @@
 2026-07-08T20:15:30+00:00	Console Archives Rhapsody: A Musical Adventure launches July 9 https://www.reddit.com/r/Games/comments/1ur4990/console_archives_rhapsody_a_musical_adventure/
 2026-07-08T20:30:21+00:00	Hidden Edge in the Shadows - Reveal Trailer https://www.reddit.com/r/Games/comments/1ur4o9c/hidden_edge_in_the_shadows_reveal_trailer/
 2026-07-08T20:38:27+00:00	Inside a studio layoff - Big questions for Microsoft's intentions for id Software https://www.reddit.com/r/Games/comments/1ur4w0t/inside_a_studio_layoff_big_questions_for/
+2026-07-09T04:30:29+00:00	The Elder Scrolls Online - Welcome to Season One https://www.reddit.com/r/Games/comments/1urfvuu/the_elder_scrolls_online_welcome_to_season_one/
+2026-07-09T06:38:39+00:00	If Microsoft sold off Xbox, who would even buy it? https://www.reddit.com/r/Games/comments/1uriahc/if_microsoft_sold_off_xbox_who_would_even_buy_it/
+2026-07-09T10:19:53+00:00	Price data shows that physical PlayStation games can be up to 50 euros cheaper. https://www.reddit.com/r/Games/comments/1urm6pv/price_data_shows_that_physical_playstation_games/
+2026-07-09T12:17:35+00:00	The Elder Scrolls 6 Will Suffer Because of Xbox Layoffs, Bethesda Staff Say, Fearing Delays, Crunch, and Generational Talent Being Replaced by Contractors https://www.reddit.com/r/Games/comments/1urolqh/the_elder_scrolls_6_will_suffer_because_of_xbox/

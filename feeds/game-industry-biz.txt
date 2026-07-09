@@ -3,9 +3,6 @@
 # source = https://www.gamesindustry.biz/feed
 # description = twtxt conversion of https://www.gamesindustry.biz/feed
 
-2026-06-30T08:47:14+00:00	CWA union says Xbox workers are not "disposable" as layoffs loom https://www.gamesindustry.biz/cwa-union-says-xbox-workers-are-not-disposable-as-layoffs-loom
-2026-06-30T09:42:27+00:00	Griffin Gaming Partners invests in TinyBuild https://www.gamesindustry.biz/griffin-gaming-partners-invests-in-tinybuild
-2026-06-30T10:39:48+00:00	Ubisoft Barcelona staff go on strike over 51 staff being laid off https://www.gamesindustry.biz/ubisoft-barcelona-staff-go-on-strike-over-51-staff-being-laid-off
 2026-07-01T08:00:00+00:00	Rokky launches unofficial Steam tool for checking if bundle and press keys have been used https://www.gamesindustry.biz/rokky-launches-unofficial-steam-tool-for-checking-if-bundle-and-press-keys-have-been-used
 2026-07-01T08:30:00+00:00	Slitherine acquires Warhammer Blood Bowl licence from troubled French publisher Nacon https://www.gamesindustry.biz/slitherine-acquires-warhammer-blood-bowl-licence-from-troubled-french-publisher-nacon
 2026-07-01T09:00:11+00:00	Xbox ends deal to fund and publish IO Interactive's Project Fantasy; redundancies expected https://www.gamesindustry.biz/xbox-ends-deal-to-fund-and-publish-io-interactives-project-fantasy-redundancies-expected
@@ -53,3 +50,6 @@
 2026-07-08T14:26:16+00:00	Premium mobile games are back, with releases up 77% in 2025 https://www.gamesindustry.biz/premium-mobile-games-are-back-with-releases-up-77-in-2025
 2026-07-08T17:07:40+00:00	Build a Rocket Boy staff to protest upcoming "all-expenses-paid" fan event https://www.gamesindustry.biz/build-a-rocket-boy-staff-to-protest-upcoming-all-expenses-paid-fan-event
 2026-07-08T18:17:11+00:00	Nintendo confirms Switch 1 consoles will be withdrawn from Europe following EU law change on batteries https://www.gamesindustry.biz/nintendo-confirms-switch-1-consoles-will-be-withdrawn-from-europe-following-eu-law-change-on-batteries
+2026-07-09T07:41:22+00:00	Report: Obsidian to work on Fallout title as unannounced projects cancelled https://www.gamesindustry.biz/report-obsidian-to-work-on-fallout-title-as-unannounced-projects-cancelled
+2026-07-09T09:11:45+00:00	Bungie and Sony settle lawsuit with former Marathon director for undisclosed amount https://www.gamesindustry.biz/bungie-and-sony-settle-lawsuit-with-former-marathon-director-for-undisclosed-amount
+2026-07-09T10:46:15+00:00	Supercell launches equity-free grants program for Africa-based game studios https://www.gamesindustry.biz/supercell-launches-equity-free-grants-program-for-african-game-studios

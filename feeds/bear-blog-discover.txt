@@ -3,8 +3,6 @@
 # source = https://bearblog.dev/discover/feed/
 # description = twtxt conversion of https://bearblog.dev/discover/feed/
 
-2026-07-03T13:12:00+00:00	Talking to Another Species https://4s.bearblog.dev/talking-to-another-species/
-2026-07-03T23:38:00+00:00	heard you was... https://blog.curiousquail.com/heard-you-was-more-cardinals/
 2026-07-04T05:50:00+00:00	I am what I read https://doodhpeda.bearblog.dev/blog/i-am-what-i-read/
 2026-07-04T12:00:00+00:00	I Hid an Easter Egg on My Bear Blog. Can You Find It? https://www.simonjamesfrench.com/i-hid-an-easter-egg/
 2026-07-04T14:00:00+00:00	Introducing BearCats https://onlinegoddess.net/2026/07/introducing-bearcats/
@@ -23,3 +21,5 @@
 2026-07-07T15:15:11.731003+00:00	Thank you, Belgium! https://prasatt.me/thank-you-belgium/
 2026-07-07T20:09:49.948563+00:00	the saturdays we have left https://theunpackingseries.bearblog.dev/the-saturdays-we-have-left/
 2026-07-07T20:38:00+00:00	ashamed of being offline? https://rnotte.art/ashamed-of-being-offline/
+2026-07-08T12:00:00+00:00	I take burned-out professionals into Kyoto's gardens to listen https://www.simonjamesfrench.com/burned-out-professionals-listening/
+2026-07-08T23:13:00+00:00	Stop using ReCaptcha ~ It's NOT A REAL CAPTCHA https://na0341.bearblog.dev/info/stop-using-recaptcha/
