@@ -7,7 +7,6 @@
 2026-07-08T15:53:38+00:00	Update: 136 workers have been laid off at id Software https://www.reddit.com/r/Games/comments/1uqwprv/update_136_workers_have_been_laid_off_at_id/
 2026-07-08T17:55:58+00:00	Jason Schreier: Microsoft’s Xbox to Shift Obsidian Studio to New ‘Fallout’ Video Game https://www.reddit.com/r/Games/comments/1ur09am/jason_schreier_microsofts_xbox_to_shift_obsidian/
 2026-07-08T20:14:56+00:00	EA Sports' College Football 27 Has Single-Player Microtransactions And It’s Only The Beginning https://www.reddit.com/r/Games/comments/1ur48ll/ea_sports_college_football_27_has_singleplayer/
-2026-07-08T20:38:27+00:00	Inside a studio layoff - Big questions for Microsoft's intentions for id Software https://www.reddit.com/r/Games/comments/1ur4w0t/inside_a_studio_layoff_big_questions_for/
 2026-07-09T06:38:39+00:00	If Microsoft sold off Xbox, who would even buy it? https://www.reddit.com/r/Games/comments/1uriahc/if_microsoft_sold_off_xbox_who_would_even_buy_it/
 2026-07-09T12:17:35+00:00	The Elder Scrolls 6 Will Suffer Because of Xbox Layoffs, Bethesda Staff Say, Fearing Delays, Crunch, and Generational Talent Being Replaced by Contractors https://www.reddit.com/r/Games/comments/1urolqh/the_elder_scrolls_6_will_suffer_because_of_xbox/
 2026-07-09T12:21:32+00:00	Gothic Remake has been out for a month - what are your thoughts? https://www.reddit.com/r/Games/comments/1urop2m/gothic_remake_has_been_out_for_a_month_what_are/
@@ -15,7 +14,6 @@
 2026-07-09T13:37:10+00:00	Ubisoft Barcelona Celebrates Successful Assassin's Creed Black Flag Resynced Launch With Layoffs https://www.reddit.com/r/Games/comments/1urqjnj/ubisoft_barcelona_celebrates_successful_assassins/
 2026-07-09T13:56:35+00:00	Fiesta Online coming to PlayStation, Xbox, and Switch https://www.reddit.com/r/Games/comments/1urr1bg/fiesta_online_coming_to_playstation_xbox_and/
 2026-07-09T14:18:29+00:00	No Rest For The Wicked Has Sold Over 2 Million Units https://www.reddit.com/r/Games/comments/1urrmns/no_rest_for_the_wicked_has_sold_over_2_million/
-2026-07-09T14:44:35+00:00	The Outlast Trials - Project Boneyard | Cinematic Trailer https://www.reddit.com/r/Games/comments/1urscbn/the_outlast_trials_project_boneyard_cinematic/
 2026-07-09T14:55:57+00:00	'It Has Become a Success Beyond Our Wildest Dreams' — Palworld Dev Pocketpair Decides Against Raising the Price of the Game for 1.0 Launch https://www.reddit.com/r/Games/comments/1ursnla/it_has_become_a_success_beyond_our_wildest_dreams/
 2026-07-09T15:54:43+00:00	The New Backyard Baseball is out now! https://www.reddit.com/r/Games/comments/1urub5k/the_new_backyard_baseball_is_out_now/
 2026-07-09T17:42:21+00:00	1000xRESIST Switch 2 Rating Appears Online https://www.reddit.com/r/Games/comments/1urxdcx/1000xresist_switch_2_rating_appears_online/
@@ -28,3 +26,5 @@
 2026-07-09T20:46:21+00:00	Black Ops 1 and 2 Ports Don't Have 120 FPS, FOV Slider, or Any Graphics Updates https://www.reddit.com/r/Games/comments/1us2ja7/black_ops_1_and_2_ports_dont_have_120_fps_fov/
 2026-07-09T20:46:56+00:00	Xbox CEO Asha Sharma has been named as an advisor to the US Federal Reserve on 'Productivity and Jobs'. https://www.reddit.com/r/Games/comments/1us2juc/xbox_ceo_asha_sharma_has_been_named_as_an_advisor/
 2026-07-09T21:33:40+00:00	Laid-Off MindsEye Developers Plan Protest Outside Company Office Over 'All-Expenses-Paid Playtest Day' https://www.reddit.com/r/Games/comments/1us3sis/laidoff_mindseye_developers_plan_protest_outside/
+2026-07-09T21:52:21+00:00	Layoffs Hit GameSpot Again (Fifth Round of Layoffs) https://www.reddit.com/r/Games/comments/1us4a5w/layoffs_hit_gamespot_again_fifth_round_of_layoffs/
+2026-07-09T23:19:52+00:00	Helldivers 2: Super Credits & A Fairer Galactic War https://www.reddit.com/r/Games/comments/1us6jcz/helldivers_2_super_credits_a_fairer_galactic_war/
