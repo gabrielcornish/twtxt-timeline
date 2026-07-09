@@ -3,13 +3,9 @@
 # source = https://www.reddit.com/r/Games.rss
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
-2026-07-08T03:04:21+00:00	Gamespot: There Is No Reason To Buy Another Playstation or Xbox. Increasingly poor decisions are making it impossible to want or get a next-gen console https://www.reddit.com/r/Games/comments/1uqglts/gamespot_there_is_no_reason_to_buy_another/
-2026-07-08T10:00:24+00:00	Assassin's Creed: Black Flag Resynced Review Thread https://www.reddit.com/r/Games/comments/1uqo7qc/assassins_creed_black_flag_resynced_review_thread/
 2026-07-08T11:00:34+00:00	Daily /r/Games Discussion - Suggest Me a Game - July 08, 2026 https://www.reddit.com/r/Games/comments/1uqpcya/daily_rgames_discussion_suggest_me_a_game_july_08/
 2026-07-08T15:35:24+00:00	Persona 4 Revival Producer Confirms Changes to Yosuke to Fit Today's Era - "He's a little bit insensitive in terms of how he treats outsiders sometimes." and "We wanted to lighten that up and make it more fitting for the world we live in now." https://www.reddit.com/r/Games/comments/1uqw6gg/persona_4_revival_producer_confirms_changes_to/
-2026-07-08T15:50:48+00:00	Vampirium: 1997, a new immersive sim from Bithell Games that casts you as one of Dracula's vampire assassins, is launching into Steam early access soon https://www.reddit.com/r/Games/comments/1uqwmtr/vampirium_1997_a_new_immersive_sim_from_bithell/
 2026-07-08T15:53:38+00:00	Update: 136 workers have been laid off at id Software https://www.reddit.com/r/Games/comments/1uqwprv/update_136_workers_have_been_laid_off_at_id/
-2026-07-08T17:07:34+00:00	Subnautica 2's first major update is here and finally adds fish shooting https://www.reddit.com/r/Games/comments/1uqyudo/subnautica_2s_first_major_update_is_here_and/
 2026-07-08T17:55:58+00:00	Jason Schreier: Microsoft’s Xbox to Shift Obsidian Studio to New ‘Fallout’ Video Game https://www.reddit.com/r/Games/comments/1ur09am/jason_schreier_microsofts_xbox_to_shift_obsidian/
 2026-07-08T18:34:56+00:00	Assassin's Creed Black Flag Resynced Tech Review: A Stunning, Cutting-Edge Upgrade https://www.reddit.com/r/Games/comments/1ur1ehz/assassins_creed_black_flag_resynced_tech_review_a/
 2026-07-08T20:14:56+00:00	EA Sports' College Football 27 Has Single-Player Microtransactions And It’s Only The Beginning https://www.reddit.com/r/Games/comments/1ur48ll/ea_sports_college_football_27_has_singleplayer/
@@ -22,9 +18,13 @@
 2026-07-09T13:03:04+00:00	Turn-Based Tactical RPG Prelude Dark Pain Sets Late July Early Access Launch on Steam, Demo Live Now https://www.reddit.com/r/Games/comments/1urpoey/turnbased_tactical_rpg_prelude_dark_pain_sets/
 2026-07-09T13:37:10+00:00	Ubisoft Barcelona Celebrates Successful Assassin's Creed Black Flag Resynced Launch With Layoffs https://www.reddit.com/r/Games/comments/1urqjnj/ubisoft_barcelona_celebrates_successful_assassins/
 2026-07-09T13:56:35+00:00	Fiesta Online coming to PlayStation, Xbox, and Switch https://www.reddit.com/r/Games/comments/1urr1bg/fiesta_online_coming_to_playstation_xbox_and/
+2026-07-09T14:02:10+00:00	Assassin's Creed Black Flag Resynced: Horizon Launch Trailer (2026) https://www.reddit.com/r/Games/comments/1urr6rz/assassins_creed_black_flag_resynced_horizon/
 2026-07-09T14:18:29+00:00	No Rest For The Wicked Has Sold Over 2 Million Units https://www.reddit.com/r/Games/comments/1urrmns/no_rest_for_the_wicked_has_sold_over_2_million/
 2026-07-09T14:44:35+00:00	The Outlast Trials - Project Boneyard | Cinematic Trailer https://www.reddit.com/r/Games/comments/1urscbn/the_outlast_trials_project_boneyard_cinematic/
 2026-07-09T14:55:57+00:00	'It Has Become a Success Beyond Our Wildest Dreams' — Palworld Dev Pocketpair Decides Against Raising the Price of the Game for 1.0 Launch https://www.reddit.com/r/Games/comments/1ursnla/it_has_become_a_success_beyond_our_wildest_dreams/
 2026-07-09T15:10:03+00:00	Scream Operator: Haunted House Manager - Official Reveal Trailer https://www.reddit.com/r/Games/comments/1urt1nf/scream_operator_haunted_house_manager_official/
 2026-07-09T15:54:43+00:00	The New Backyard Baseball is out now! https://www.reddit.com/r/Games/comments/1urub5k/the_new_backyard_baseball_is_out_now/
 2026-07-09T17:42:21+00:00	1000xRESIST Switch 2 Rating Appears Online https://www.reddit.com/r/Games/comments/1urxdcx/1000xresist_switch_2_rating_appears_online/
+2026-07-09T17:58:19+00:00	People Make Games' Quinns: Why We're Doing Journalism Differently: The Future isn't Games, it's Play" https://www.reddit.com/r/Games/comments/1urxu0x/people_make_games_quinns_why_were_doing/
+2026-07-09T18:38:51+00:00	Transport Fever 3 - First Look: Highlights https://www.reddit.com/r/Games/comments/1urz0l6/transport_fever_3_first_look_highlights/
+2026-07-09T19:08:57+00:00	Call of Duty: Black Ops 1 and 2 Ports Out Now on PS5, But They Come at a High Cost https://www.reddit.com/r/Games/comments/1urzvak/call_of_duty_black_ops_1_and_2_ports_out_now_on/
