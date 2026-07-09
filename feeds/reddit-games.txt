@@ -3,14 +3,10 @@
 # source = https://www.reddit.com/r/Games.rss
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
-2026-07-07T15:25:38+00:00	We're One BGS, the Bethesda Games Studios union. Yesterday's layoffs were not a cut of "14 layers of management". We lost dozens of programmers, artists, designers and testers. https://www.reddit.com/r/Games/comments/1upyd1g/were_one_bgs_the_bethesda_games_studios_union/
 2026-07-08T03:04:21+00:00	Gamespot: There Is No Reason To Buy Another Playstation or Xbox. Increasingly poor decisions are making it impossible to want or get a next-gen console https://www.reddit.com/r/Games/comments/1uqglts/gamespot_there_is_no_reason_to_buy_another/
-2026-07-08T05:00:25+00:00	Sony's Disc-Free 2028 Plan Hands it Total Price Control, Dutch Group Warns in Exclusive Wccftech Statement as €400M Lawsuit Escalates https://www.reddit.com/r/Games/comments/1uqiybd/sonys_discfree_2028_plan_hands_it_total_price/
 2026-07-08T09:21:33+00:00	Mario Kart Tour End-of-Service Notification https://www.reddit.com/r/Games/comments/1uqnj6j/mario_kart_tour_endofservice_notification/
 2026-07-08T10:00:24+00:00	Assassin's Creed: Black Flag Resynced Review Thread https://www.reddit.com/r/Games/comments/1uqo7qc/assassins_creed_black_flag_resynced_review_thread/
 2026-07-08T11:00:34+00:00	Daily /r/Games Discussion - Suggest Me a Game - July 08, 2026 https://www.reddit.com/r/Games/comments/1uqpcya/daily_rgames_discussion_suggest_me_a_game_july_08/
-2026-07-08T12:17:46+00:00	Dawn of War IV Battlefield Report – 1v1 Multiplayer Necrons VS Adeptus Mechanicus https://www.reddit.com/r/Games/comments/1uqr0ar/dawn_of_war_iv_battlefield_report_1v1_multiplayer/
-2026-07-08T14:00:35+00:00	Mortal Shell II - Release Date Trailer | PS5 Games https://www.reddit.com/r/Games/comments/1uqtjb4/mortal_shell_ii_release_date_trailer_ps5_games/
 2026-07-08T15:35:24+00:00	Persona 4 Revival Producer Confirms Changes to Yosuke to Fit Today's Era - "He's a little bit insensitive in terms of how he treats outsiders sometimes." and "We wanted to lighten that up and make it more fitting for the world we live in now." https://www.reddit.com/r/Games/comments/1uqw6gg/persona_4_revival_producer_confirms_changes_to/
 2026-07-08T15:50:48+00:00	Vampirium: 1997, a new immersive sim from Bithell Games that casts you as one of Dracula's vampire assassins, is launching into Steam early access soon https://www.reddit.com/r/Games/comments/1uqwmtr/vampirium_1997_a_new_immersive_sim_from_bithell/
 2026-07-08T15:53:38+00:00	Update: 136 workers have been laid off at id Software https://www.reddit.com/r/Games/comments/1uqwprv/update_136_workers_have_been_laid_off_at_id/
@@ -18,13 +14,17 @@
 2026-07-08T17:07:34+00:00	Subnautica 2's first major update is here and finally adds fish shooting https://www.reddit.com/r/Games/comments/1uqyudo/subnautica_2s_first_major_update_is_here_and/
 2026-07-08T17:55:58+00:00	Jason Schreier: Microsoft’s Xbox to Shift Obsidian Studio to New ‘Fallout’ Video Game https://www.reddit.com/r/Games/comments/1ur09am/jason_schreier_microsofts_xbox_to_shift_obsidian/
 2026-07-08T18:24:45+00:00	Denshattack! - Creator Reveal Trailer https://www.reddit.com/r/Games/comments/1ur13rn/denshattack_creator_reveal_trailer/
-2026-07-08T18:33:11+00:00	Twisted Tower - Release Date Announcement https://www.reddit.com/r/Games/comments/1ur1ckz/twisted_tower_release_date_announcement/
 2026-07-08T18:34:56+00:00	Assassin's Creed Black Flag Resynced Tech Review: A Stunning, Cutting-Edge Upgrade https://www.reddit.com/r/Games/comments/1ur1ehz/assassins_creed_black_flag_resynced_tech_review_a/
 2026-07-08T20:14:56+00:00	EA Sports' College Football 27 Has Single-Player Microtransactions And It’s Only The Beginning https://www.reddit.com/r/Games/comments/1ur48ll/ea_sports_college_football_27_has_singleplayer/
-2026-07-08T20:15:30+00:00	Console Archives Rhapsody: A Musical Adventure launches July 9 https://www.reddit.com/r/Games/comments/1ur4990/console_archives_rhapsody_a_musical_adventure/
-2026-07-08T20:30:21+00:00	Hidden Edge in the Shadows - Reveal Trailer https://www.reddit.com/r/Games/comments/1ur4o9c/hidden_edge_in_the_shadows_reveal_trailer/
 2026-07-08T20:38:27+00:00	Inside a studio layoff - Big questions for Microsoft's intentions for id Software https://www.reddit.com/r/Games/comments/1ur4w0t/inside_a_studio_layoff_big_questions_for/
 2026-07-09T04:30:29+00:00	The Elder Scrolls Online - Welcome to Season One https://www.reddit.com/r/Games/comments/1urfvuu/the_elder_scrolls_online_welcome_to_season_one/
 2026-07-09T06:38:39+00:00	If Microsoft sold off Xbox, who would even buy it? https://www.reddit.com/r/Games/comments/1uriahc/if_microsoft_sold_off_xbox_who_would_even_buy_it/
-2026-07-09T10:19:53+00:00	Price data shows that physical PlayStation games can be up to 50 euros cheaper. https://www.reddit.com/r/Games/comments/1urm6pv/price_data_shows_that_physical_playstation_games/
 2026-07-09T12:17:35+00:00	The Elder Scrolls 6 Will Suffer Because of Xbox Layoffs, Bethesda Staff Say, Fearing Delays, Crunch, and Generational Talent Being Replaced by Contractors https://www.reddit.com/r/Games/comments/1urolqh/the_elder_scrolls_6_will_suffer_because_of_xbox/
+2026-07-09T12:21:32+00:00	Gothic Remake has been out for a month - what are your thoughts? https://www.reddit.com/r/Games/comments/1urop2m/gothic_remake_has_been_out_for_a_month_what_are/
+2026-07-09T13:02:10+00:00	Hillthorn | Announcement Trailer | Play Demo Today! https://www.reddit.com/r/Games/comments/1urpnju/hillthorn_announcement_trailer_play_demo_today/
+2026-07-09T13:03:04+00:00	Turn-Based Tactical RPG Prelude Dark Pain Sets Late July Early Access Launch on Steam, Demo Live Now https://www.reddit.com/r/Games/comments/1urpoey/turnbased_tactical_rpg_prelude_dark_pain_sets/
+2026-07-09T13:37:10+00:00	Ubisoft Barcelona Celebrates Successful Assassin's Creed Black Flag Resynced Launch With Layoffs https://www.reddit.com/r/Games/comments/1urqjnj/ubisoft_barcelona_celebrates_successful_assassins/
+2026-07-09T13:56:35+00:00	Fiesta Online coming to PlayStation, Xbox, and Switch https://www.reddit.com/r/Games/comments/1urr1bg/fiesta_online_coming_to_playstation_xbox_and/
+2026-07-09T14:18:29+00:00	No Rest For The Wicked Has Sold Over 2 Million Units https://www.reddit.com/r/Games/comments/1urrmns/no_rest_for_the_wicked_has_sold_over_2_million/
+2026-07-09T14:44:35+00:00	The Outlast Trials - Project Boneyard | Cinematic Trailer https://www.reddit.com/r/Games/comments/1urscbn/the_outlast_trials_project_boneyard_cinematic/
+2026-07-09T14:55:57+00:00	'It Has Become a Success Beyond Our Wildest Dreams' — Palworld Dev Pocketpair Decides Against Raising the Price of the Game for 1.0 Launch https://www.reddit.com/r/Games/comments/1ursnla/it_has_become_a_success_beyond_our_wildest_dreams/
