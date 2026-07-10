@@ -11,9 +11,7 @@
 2026-07-09T15:54:43+00:00	The New Backyard Baseball is out now! https://www.reddit.com/r/Games/comments/1urub5k/the_new_backyard_baseball_is_out_now/
 2026-07-09T17:42:21+00:00	1000xRESIST Switch 2 Rating Appears Online https://www.reddit.com/r/Games/comments/1urxdcx/1000xresist_switch_2_rating_appears_online/
 2026-07-09T19:08:57+00:00	Call of Duty: Black Ops 1 and 2 Ports Out Now on PS5, But They Come at a High Cost https://www.reddit.com/r/Games/comments/1urzvak/call_of_duty_black_ops_1_and_2_ports_out_now_on/
-2026-07-09T20:06:33+00:00	Tempest Rising - The Veti's Wrath Announcement Trailer https://www.reddit.com/r/Games/comments/1us1gfm/tempest_rising_the_vetis_wrath_announcement/
 2026-07-09T20:11:18+00:00	Rhythm Heaven Groove sold 393,378 physical units at launch in Japan https://www.reddit.com/r/Games/comments/1us1l18/rhythm_heaven_groove_sold_393378_physical_units/
-2026-07-09T20:43:30+00:00	MARVEL Tōkon: Fighting Souls | Storm Character Guide https://www.reddit.com/r/Games/comments/1us2gio/marvel_tōkon_fighting_souls_storm_character_guide/
 2026-07-09T20:46:21+00:00	Black Ops 1 and 2 Ports Don't Have 120 FPS, FOV Slider, or Any Graphics Updates https://www.reddit.com/r/Games/comments/1us2ja7/black_ops_1_and_2_ports_dont_have_120_fps_fov/
 2026-07-09T21:33:40+00:00	Laid-Off MindsEye Developers Plan Protest Outside Company Office Over 'All-Expenses-Paid Playtest Day' https://www.reddit.com/r/Games/comments/1us3sis/laidoff_mindseye_developers_plan_protest_outside/
 2026-07-09T21:52:21+00:00	Layoffs Hit GameSpot Again (Fifth Round of Layoffs) https://www.reddit.com/r/Games/comments/1us4a5w/layoffs_hit_gamespot_again_fifth_round_of_layoffs/
@@ -28,3 +26,5 @@
 2026-07-10T13:22:03+00:00	"My 'Microsoft will probably be a good steward of the brand' statement isn't aging well" - id Software co-founder John Carmack speaks out after devastating Xbox layoffs https://www.reddit.com/r/Games/comments/1usnk9z/my_microsoft_will_probably_be_a_good_steward_of/
 2026-07-10T13:35:37+00:00	Bethesda Union Workers To Protest Mass Layoffs Next Week https://www.reddit.com/r/Games/comments/1usnwj3/bethesda_union_workers_to_protest_mass_layoffs/
 2026-07-10T16:24:48+00:00	Bloomberg: Delayed Xbox Layoffs Leave Employees Scared And Nervous - Jason Schreier https://www.reddit.com/r/Games/comments/1ussh03/bloomberg_delayed_xbox_layoffs_leave_employees/
+2026-07-10T18:09:28+00:00	Assassin's Creed Black Flag Resynced Launches With 2 Million Copies Sold https://www.reddit.com/r/Games/comments/1usvesc/assassins_creed_black_flag_resynced_launches_with/
+2026-07-10T18:18:31+00:00	id Software Issues Statement Following Xbox Layoffs, Says It's Back to the Size It Was When It Made 2016's Doom https://www.reddit.com/r/Games/comments/1usvnzg/id_software_issues_statement_following_xbox/
