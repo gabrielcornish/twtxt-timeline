@@ -4,18 +4,13 @@
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
 2026-07-08T11:00:34+00:00	Daily /r/Games Discussion - Suggest Me a Game - July 08, 2026 https://www.reddit.com/r/Games/comments/1uqpcya/daily_rgames_discussion_suggest_me_a_game_july_08/
-2026-07-08T17:55:58+00:00	Jason Schreier: Microsoft’s Xbox to Shift Obsidian Studio to New ‘Fallout’ Video Game https://www.reddit.com/r/Games/comments/1ur09am/jason_schreier_microsofts_xbox_to_shift_obsidian/
-2026-07-09T06:38:39+00:00	If Microsoft sold off Xbox, who would even buy it? https://www.reddit.com/r/Games/comments/1uriahc/if_microsoft_sold_off_xbox_who_would_even_buy_it/
 2026-07-09T12:17:35+00:00	The Elder Scrolls 6 Will Suffer Because of Xbox Layoffs, Bethesda Staff Say, Fearing Delays, Crunch, and Generational Talent Being Replaced by Contractors https://www.reddit.com/r/Games/comments/1urolqh/the_elder_scrolls_6_will_suffer_because_of_xbox/
 2026-07-09T12:21:32+00:00	Gothic Remake has been out for a month - what are your thoughts? https://www.reddit.com/r/Games/comments/1urop2m/gothic_remake_has_been_out_for_a_month_what_are/
-2026-07-09T13:03:04+00:00	Turn-Based Tactical RPG Prelude Dark Pain Sets Late July Early Access Launch on Steam, Demo Live Now https://www.reddit.com/r/Games/comments/1urpoey/turnbased_tactical_rpg_prelude_dark_pain_sets/
 2026-07-09T13:37:10+00:00	Ubisoft Barcelona Celebrates Successful Assassin's Creed Black Flag Resynced Launch With Layoffs https://www.reddit.com/r/Games/comments/1urqjnj/ubisoft_barcelona_celebrates_successful_assassins/
 2026-07-09T14:18:29+00:00	No Rest For The Wicked Has Sold Over 2 Million Units https://www.reddit.com/r/Games/comments/1urrmns/no_rest_for_the_wicked_has_sold_over_2_million/
-2026-07-09T14:44:35+00:00	The Outlast Trials - Project Boneyard | Cinematic Trailer https://www.reddit.com/r/Games/comments/1urscbn/the_outlast_trials_project_boneyard_cinematic/
 2026-07-09T14:55:57+00:00	'It Has Become a Success Beyond Our Wildest Dreams' — Palworld Dev Pocketpair Decides Against Raising the Price of the Game for 1.0 Launch https://www.reddit.com/r/Games/comments/1ursnla/it_has_become_a_success_beyond_our_wildest_dreams/
 2026-07-09T15:54:43+00:00	The New Backyard Baseball is out now! https://www.reddit.com/r/Games/comments/1urub5k/the_new_backyard_baseball_is_out_now/
 2026-07-09T17:42:21+00:00	1000xRESIST Switch 2 Rating Appears Online https://www.reddit.com/r/Games/comments/1urxdcx/1000xresist_switch_2_rating_appears_online/
-2026-07-09T18:38:51+00:00	Transport Fever 3 - First Look: Highlights https://www.reddit.com/r/Games/comments/1urz0l6/transport_fever_3_first_look_highlights/
 2026-07-09T19:08:57+00:00	Call of Duty: Black Ops 1 and 2 Ports Out Now on PS5, But They Come at a High Cost https://www.reddit.com/r/Games/comments/1urzvak/call_of_duty_black_ops_1_and_2_ports_out_now_on/
 2026-07-09T20:06:33+00:00	Tempest Rising - The Veti's Wrath Announcement Trailer https://www.reddit.com/r/Games/comments/1us1gfm/tempest_rising_the_vetis_wrath_announcement/
 2026-07-09T20:11:18+00:00	Rhythm Heaven Groove sold 393,378 physical units at launch in Japan https://www.reddit.com/r/Games/comments/1us1l18/rhythm_heaven_groove_sold_393378_physical_units/
@@ -28,3 +23,8 @@
 2026-07-10T07:48:23+00:00	Adventures of Elliot - Version 1.1.0 Release Notice https://www.reddit.com/r/Games/comments/1usgyh6/adventures_of_elliot_version_110_release_notice/
 2026-07-10T10:00:38+00:00	Daily /r/Games Discussion - Free Talk Friday - July 10, 2026 https://www.reddit.com/r/Games/comments/1usj8f2/daily_rgames_discussion_free_talk_friday_july_10/
 2026-07-10T10:27:44+00:00	Games are almost always cheaper in shops, says new report, just as Sony announces an end to PlayStation discs and brings retailers' futures into question https://www.reddit.com/r/Games/comments/1usjqzi/games_are_almost_always_cheaper_in_shops_says_new/
+2026-07-10T12:31:54+00:00	How do you put a price tag on a legacy like id Software’s? https://www.reddit.com/r/Games/comments/1usmclf/how_do_you_put_a_price_tag_on_a_legacy_like_id/
+2026-07-10T13:03:13+00:00	Indie developer says Steam helped fix their game in time for Next Fest instead of rejecting last-minute unbootable build https://www.reddit.com/r/Games/comments/1usn3lf/indie_developer_says_steam_helped_fix_their_game/
+2026-07-10T13:05:17+00:00	Rogue Carrier is a new colony-builder from Hooded Horse that blends real-time strategy and roguelike runs, set on a hostile ocean planet https://www.reddit.com/r/Games/comments/1usn5fu/rogue_carrier_is_a_new_colonybuilder_from_hooded/
+2026-07-10T13:22:03+00:00	"My 'Microsoft will probably be a good steward of the brand' statement isn't aging well" - id Software co-founder John Carmack speaks out after devastating Xbox layoffs https://www.reddit.com/r/Games/comments/1usnk9z/my_microsoft_will_probably_be_a_good_steward_of/
+2026-07-10T13:35:37+00:00	Bethesda Union Workers To Protest Mass Layoffs Next Week https://www.reddit.com/r/Games/comments/1usnwj3/bethesda_union_workers_to_protest_mass_layoffs/

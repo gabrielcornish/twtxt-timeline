@@ -3,6 +3,7 @@
 # source = https://bearblog.dev/discover/feed/
 # description = twtxt conversion of https://bearblog.dev/discover/feed/
 
+2026-07-04T12:00:00+00:00	I Hid an Easter Egg on My Bear Blog. Can You Find It? https://www.simonjamesfrench.com/i-hid-an-easter-egg/
 2026-07-05T14:48:00+00:00	It's not about physical vs digital games, it's about ownership https://popcar.bearblog.dev/its-about-ownership/
 2026-07-05T22:17:00+00:00	Pros and Cons of Solo Development https://johnjeffers.com/pros-and-cons-of-solo-development/
 2026-07-06T12:01:00+00:00	Connected, but not captured https://pego.dev/connected-but-not-captured/
@@ -18,8 +19,7 @@
 2026-07-08T15:48:00+00:00	Five finger rule to choose what to read next https://after.bearblog.dev/micro/five-finger-rule/
 2026-07-08T23:13:00+00:00	Stop using ReCaptcha ~ It's NOT A REAL CAPTCHA https://na0341.bearblog.dev/info/stop-using-recaptcha/
 2026-07-09T03:10:00+00:00	method https://ytp.me/method/
-2026-07-09T04:41:35.689793+00:00	The Internet Doesn't Want Readers. It Wants Livestock. https://grumpywelshman.com/the-internet-doesnt-want-readers-it-wants-livestock/
 2026-07-09T13:59:54.217539+00:00	Keep blogging, don't worry https://robertbirming.com/keep-blogging-dont-worry/
 2026-07-09T15:25:00+00:00	Status bars on websites https://futureperfect.bearblog.dev/status-bars-on-websites/
 2026-07-09T16:44:00+00:00	QUICK & EASY covers/posters/etc. WITHOUT GenAI https://skaetlett.bearblog.dev/quick-easy-posters-without-ai/
-2026-07-10T01:50:00+00:00	Are these people tactical or are they idiots? https://doodhpeda.bearblog.dev/blog/are-these-people-tactical-or-are-they-idiots/
+2026-07-10T07:01:06.030783+00:00	On K-pop and generative AI https://gogumapizza.bearblog.dev/on-k-pop-and-generative-ai/
