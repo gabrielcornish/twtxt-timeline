@@ -3,8 +3,6 @@
 # source = https://www.gamesindustry.biz/feed
 # description = twtxt conversion of https://www.gamesindustry.biz/feed
 
-2026-07-01T11:30:00+00:00	Eve Online's Carbon engine is now open source: Fenris Creations explains why https://www.gamesindustry.biz/eve-onlines-carbon-engine-is-now-open-source-fenris-creations-explains-why
-2026-07-01T13:00:00+00:00	IGN expands partnership with Gamescom, adds game previews to official indie showcase https://www.gamesindustry.biz/ign-expands-partnership-with-gamescom-adds-game-previews-to-official-indie-showcase
 2026-07-01T13:48:56+00:00	Sony to discontinue physical discs for new games launching on PS consoles from January 2028 https://www.gamesindustry.biz/sony-to-discontinue-physical-discs-for-new-games-launching-on-ps-consoles-from-january-2028
 2026-07-01T15:34:42+00:00	"I get very excited about trying to invent something new" – Assassin's Creed composer Jesper Kyd reflects on his three-decade career https://www.gamesindustry.biz/i-get-very-excited-about-trying-to-invent-something-new-assassins-creed-composer-jesper-kyd-reflects-on-his-three-decade-career
 2026-07-01T16:04:01+00:00	Ubisoft appoints former 2K and Amazon exec Christoph Hartmann to lead Creative House 2, overseeing Splinter Cell, The Division and Ghost Recon https://www.gamesindustry.biz/ubisoft-appoints-former-2k-and-amazon-exec-christoph-hartmann-to-lead-creative-house-2-overseeing-splinter-cell-the-division-and-ghost-recon
@@ -53,3 +51,5 @@
 2026-07-09T13:39:06+00:00	"New Zealand's success is being built by ambitious studios of all sizes" – Combined revenue of studios supported by rebate grows 17% to $829m https://www.gamesindustry.biz/new-zealands-success-is-being-built-by-ambitious-studios-of-all-sizes-combined-revenue-of-studios-supported-by-rebate-grows-17-to-829m
 2026-07-10T07:16:34+00:00	Layoffs begin at Ubisoft Barcelona following Assassin's Creed Black Flag Resynced launch https://www.gamesindustry.biz/layoffs-begin-at-ubisoft-barcelona-following-assassins-creed-black-flag-resynced-launch
 2026-07-10T08:00:00+00:00	Why two games media veterans think a "classic old-school style multi-format video games website" will flourish in 2026 https://www.gamesindustry.biz/why-two-games-media-veterans-think-a-classic-old-school-style-multi-format-video-games-website-will-flourish-in-2026
+2026-07-10T08:43:21+00:00	Asha Sharma to co-lead US Federal Reserve's Productivity and Jobs task force https://www.gamesindustry.biz/asha-sharma-to-co-lead-us-federal-reserves-productivity-and-jobs-task-force
+2026-07-10T09:58:34+00:00	Enginefall developer Red Rover Interactive to cut workforce by 22 roles https://www.gamesindustry.biz/enginefall-developer-red-rover-interactive-to-cut-workforce-by-22-roles

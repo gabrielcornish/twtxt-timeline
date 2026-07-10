@@ -5,13 +5,11 @@
 
 2026-07-08T11:00:34+00:00	Daily /r/Games Discussion - Suggest Me a Game - July 08, 2026 https://www.reddit.com/r/Games/comments/1uqpcya/daily_rgames_discussion_suggest_me_a_game_july_08/
 2026-07-08T17:55:58+00:00	Jason Schreier: Microsoft’s Xbox to Shift Obsidian Studio to New ‘Fallout’ Video Game https://www.reddit.com/r/Games/comments/1ur09am/jason_schreier_microsofts_xbox_to_shift_obsidian/
-2026-07-08T20:14:56+00:00	EA Sports' College Football 27 Has Single-Player Microtransactions And It’s Only The Beginning https://www.reddit.com/r/Games/comments/1ur48ll/ea_sports_college_football_27_has_singleplayer/
 2026-07-09T06:38:39+00:00	If Microsoft sold off Xbox, who would even buy it? https://www.reddit.com/r/Games/comments/1uriahc/if_microsoft_sold_off_xbox_who_would_even_buy_it/
 2026-07-09T12:17:35+00:00	The Elder Scrolls 6 Will Suffer Because of Xbox Layoffs, Bethesda Staff Say, Fearing Delays, Crunch, and Generational Talent Being Replaced by Contractors https://www.reddit.com/r/Games/comments/1urolqh/the_elder_scrolls_6_will_suffer_because_of_xbox/
 2026-07-09T12:21:32+00:00	Gothic Remake has been out for a month - what are your thoughts? https://www.reddit.com/r/Games/comments/1urop2m/gothic_remake_has_been_out_for_a_month_what_are/
 2026-07-09T13:03:04+00:00	Turn-Based Tactical RPG Prelude Dark Pain Sets Late July Early Access Launch on Steam, Demo Live Now https://www.reddit.com/r/Games/comments/1urpoey/turnbased_tactical_rpg_prelude_dark_pain_sets/
 2026-07-09T13:37:10+00:00	Ubisoft Barcelona Celebrates Successful Assassin's Creed Black Flag Resynced Launch With Layoffs https://www.reddit.com/r/Games/comments/1urqjnj/ubisoft_barcelona_celebrates_successful_assassins/
-2026-07-09T13:56:35+00:00	Fiesta Online coming to PlayStation, Xbox, and Switch https://www.reddit.com/r/Games/comments/1urr1bg/fiesta_online_coming_to_playstation_xbox_and/
 2026-07-09T14:18:29+00:00	No Rest For The Wicked Has Sold Over 2 Million Units https://www.reddit.com/r/Games/comments/1urrmns/no_rest_for_the_wicked_has_sold_over_2_million/
 2026-07-09T14:44:35+00:00	The Outlast Trials - Project Boneyard | Cinematic Trailer https://www.reddit.com/r/Games/comments/1urscbn/the_outlast_trials_project_boneyard_cinematic/
 2026-07-09T14:55:57+00:00	'It Has Become a Success Beyond Our Wildest Dreams' — Palworld Dev Pocketpair Decides Against Raising the Price of the Game for 1.0 Launch https://www.reddit.com/r/Games/comments/1ursnla/it_has_become_a_success_beyond_our_wildest_dreams/
@@ -28,3 +26,5 @@
 2026-07-09T23:19:52+00:00	Helldivers 2: Super Credits & A Fairer Galactic War https://www.reddit.com/r/Games/comments/1us6jcz/helldivers_2_super_credits_a_fairer_galactic_war/
 2026-07-10T03:24:14+00:00	Palworld v1.0 - Official Release Changelog https://www.reddit.com/r/Games/comments/1usc0kq/palworld_v10_official_release_changelog/
 2026-07-10T07:48:23+00:00	Adventures of Elliot - Version 1.1.0 Release Notice https://www.reddit.com/r/Games/comments/1usgyh6/adventures_of_elliot_version_110_release_notice/
+2026-07-10T10:00:38+00:00	Daily /r/Games Discussion - Free Talk Friday - July 10, 2026 https://www.reddit.com/r/Games/comments/1usj8f2/daily_rgames_discussion_free_talk_friday_july_10/
+2026-07-10T10:27:44+00:00	Games are almost always cheaper in shops, says new report, just as Sony announces an end to PlayStation discs and brings retailers' futures into question https://www.reddit.com/r/Games/comments/1usjqzi/games_are_almost_always_cheaper_in_shops_says_new/
