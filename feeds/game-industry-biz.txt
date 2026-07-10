@@ -3,8 +3,6 @@
 # source = https://www.gamesindustry.biz/feed
 # description = twtxt conversion of https://www.gamesindustry.biz/feed
 
-2026-07-01T09:00:11+00:00	Xbox ends deal to fund and publish IO Interactive's Project Fantasy; redundancies expected https://www.gamesindustry.biz/xbox-ends-deal-to-fund-and-publish-io-interactives-project-fantasy-redundancies-expected
-2026-07-01T10:14:58+00:00	UK workers request voluntary union recognition at Rockstar https://www.gamesindustry.biz/uk-workers-request-voluntary-union-recognition-at-rockstar
 2026-07-01T11:30:00+00:00	Eve Online's Carbon engine is now open source: Fenris Creations explains why https://www.gamesindustry.biz/eve-onlines-carbon-engine-is-now-open-source-fenris-creations-explains-why
 2026-07-01T13:00:00+00:00	IGN expands partnership with Gamescom, adds game previews to official indie showcase https://www.gamesindustry.biz/ign-expands-partnership-with-gamescom-adds-game-previews-to-official-indie-showcase
 2026-07-01T13:48:56+00:00	Sony to discontinue physical discs for new games launching on PS consoles from January 2028 https://www.gamesindustry.biz/sony-to-discontinue-physical-discs-for-new-games-launching-on-ps-consoles-from-january-2028
@@ -53,3 +51,5 @@
 2026-07-09T10:46:15+00:00	Supercell launches equity-free grants program for Africa-based game studios https://www.gamesindustry.biz/supercell-launches-equity-free-grants-program-for-african-game-studios
 2026-07-09T13:23:08+00:00	You can now enter the 2026 UK GamesIndustry.biz Best Places To Work Awards https://www.gamesindustry.biz/you-can-now-enter-the-2026-uk-gamesindustrybiz-best-places-to-work-awards
 2026-07-09T13:39:06+00:00	"New Zealand's success is being built by ambitious studios of all sizes" – Combined revenue of studios supported by rebate grows 17% to $829m https://www.gamesindustry.biz/new-zealands-success-is-being-built-by-ambitious-studios-of-all-sizes-combined-revenue-of-studios-supported-by-rebate-grows-17-to-829m
+2026-07-10T07:16:34+00:00	Layoffs begin at Ubisoft Barcelona following Assassin's Creed Black Flag Resynced launch https://www.gamesindustry.biz/layoffs-begin-at-ubisoft-barcelona-following-assassins-creed-black-flag-resynced-launch
+2026-07-10T08:00:00+00:00	Why two games media veterans think a "classic old-school style multi-format video games website" will flourish in 2026 https://www.gamesindustry.biz/why-two-games-media-veterans-think-a-classic-old-school-style-multi-format-video-games-website-will-flourish-in-2026

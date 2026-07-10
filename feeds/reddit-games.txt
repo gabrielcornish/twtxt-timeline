@@ -4,7 +4,6 @@
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
 2026-07-08T11:00:34+00:00	Daily /r/Games Discussion - Suggest Me a Game - July 08, 2026 https://www.reddit.com/r/Games/comments/1uqpcya/daily_rgames_discussion_suggest_me_a_game_july_08/
-2026-07-08T15:53:38+00:00	Update: 136 workers have been laid off at id Software https://www.reddit.com/r/Games/comments/1uqwprv/update_136_workers_have_been_laid_off_at_id/
 2026-07-08T17:55:58+00:00	Jason Schreier: Microsoft’s Xbox to Shift Obsidian Studio to New ‘Fallout’ Video Game https://www.reddit.com/r/Games/comments/1ur09am/jason_schreier_microsofts_xbox_to_shift_obsidian/
 2026-07-08T20:14:56+00:00	EA Sports' College Football 27 Has Single-Player Microtransactions And It’s Only The Beginning https://www.reddit.com/r/Games/comments/1ur48ll/ea_sports_college_football_27_has_singleplayer/
 2026-07-09T06:38:39+00:00	If Microsoft sold off Xbox, who would even buy it? https://www.reddit.com/r/Games/comments/1uriahc/if_microsoft_sold_off_xbox_who_would_even_buy_it/
@@ -28,3 +27,4 @@
 2026-07-09T21:52:21+00:00	Layoffs Hit GameSpot Again (Fifth Round of Layoffs) https://www.reddit.com/r/Games/comments/1us4a5w/layoffs_hit_gamespot_again_fifth_round_of_layoffs/
 2026-07-09T23:19:52+00:00	Helldivers 2: Super Credits & A Fairer Galactic War https://www.reddit.com/r/Games/comments/1us6jcz/helldivers_2_super_credits_a_fairer_galactic_war/
 2026-07-10T03:24:14+00:00	Palworld v1.0 - Official Release Changelog https://www.reddit.com/r/Games/comments/1usc0kq/palworld_v10_official_release_changelog/
+2026-07-10T07:48:23+00:00	Adventures of Elliot - Version 1.1.0 Release Notice https://www.reddit.com/r/Games/comments/1usgyh6/adventures_of_elliot_version_110_release_notice/
