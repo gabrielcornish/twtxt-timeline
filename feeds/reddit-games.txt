@@ -4,11 +4,9 @@
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
 2026-07-08T11:00:34+00:00	Daily /r/Games Discussion - Suggest Me a Game - July 08, 2026 https://www.reddit.com/r/Games/comments/1uqpcya/daily_rgames_discussion_suggest_me_a_game_july_08/
-2026-07-10T03:24:14+00:00	Palworld v1.0 - Official Release Changelog https://www.reddit.com/r/Games/comments/1usc0kq/palworld_v10_official_release_changelog/
 2026-07-10T10:00:38+00:00	Daily /r/Games Discussion - Free Talk Friday - July 10, 2026 https://www.reddit.com/r/Games/comments/1usj8f2/daily_rgames_discussion_free_talk_friday_july_10/
 2026-07-10T10:27:44+00:00	Games are almost always cheaper in shops, says new report, just as Sony announces an end to PlayStation discs and brings retailers' futures into question https://www.reddit.com/r/Games/comments/1usjqzi/games_are_almost_always_cheaper_in_shops_says_new/
 2026-07-10T13:03:13+00:00	Indie developer says Steam helped fix their game in time for Next Fest instead of rejecting last-minute unbootable build https://www.reddit.com/r/Games/comments/1usn3lf/indie_developer_says_steam_helped_fix_their_game/
-2026-07-10T13:05:17+00:00	Rogue Carrier is a new colony-builder from Hooded Horse that blends real-time strategy and roguelike runs, set on a hostile ocean planet https://www.reddit.com/r/Games/comments/1usn5fu/rogue_carrier_is_a_new_colonybuilder_from_hooded/
 2026-07-10T13:22:03+00:00	"My 'Microsoft will probably be a good steward of the brand' statement isn't aging well" - id Software co-founder John Carmack speaks out after devastating Xbox layoffs https://www.reddit.com/r/Games/comments/1usnk9z/my_microsoft_will_probably_be_a_good_steward_of/
 2026-07-10T13:35:37+00:00	Bethesda Union Workers To Protest Mass Layoffs Next Week https://www.reddit.com/r/Games/comments/1usnwj3/bethesda_union_workers_to_protest_mass_layoffs/
 2026-07-10T16:24:48+00:00	Bloomberg: Delayed Xbox Layoffs Leave Employees Scared And Nervous - Jason Schreier https://www.reddit.com/r/Games/comments/1ussh03/bloomberg_delayed_xbox_layoffs_leave_employees/
@@ -28,3 +26,5 @@
 2026-07-11T18:19:02+00:00	Ubisoft warns of risk of releasing games too late, 'when market anticipation has waned' https://www.reddit.com/r/Games/comments/1utri22/ubisoft_warns_of_risk_of_releasing_games_too_late/
 2026-07-11T21:32:16+00:00	Angels Fall First - 1.0 https://www.reddit.com/r/Games/comments/1utwc2m/angels_fall_first_10/
 2026-07-11T21:47:26+00:00	Ryse: Son of Rome Had Plans To Be Xbox’s Assassin’s Creed https://www.reddit.com/r/Games/comments/1utwojr/ryse_son_of_rome_had_plans_to_be_xboxs_assassins/
+2026-07-11T22:32:32+00:00	Warframe - Tau TennoCon 2026 Trailer | PS5 & PS4 Games https://www.reddit.com/r/Games/comments/1utxq5s/warframe_tau_tennocon_2026_trailer_ps5_ps4_games/
+2026-07-11T22:32:52+00:00	TennoCon 2026 | Warframe: Tau | Official Trailer https://www.reddit.com/r/Games/comments/1utxqet/tennocon_2026_warframe_tau_official_trailer/
