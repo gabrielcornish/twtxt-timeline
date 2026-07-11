@@ -3,9 +3,6 @@
 # source = https://bearblog.dev/discover/feed/
 # description = twtxt conversion of https://bearblog.dev/discover/feed/
 
-2026-07-06T22:37:00+00:00	kill the lights https://spectre.bearblog.dev/kill-the-lights/
-2026-07-06T22:45:00+00:00	introducing my cats https://stitching.bearblog.dev/introducing-my-cats/
-2026-07-07T06:51:00+00:00	World historic amounts of gamedev talent thrown out to rot https://blog.lauramichet.com/world-historic-amounts-of-gamedev-talent-thrown-out-to-rot/
 2026-07-07T07:55:00+00:00	this isn't about bearblog https://jayrajput.bearblog.dev/this-isnt-about-bearblog/
 2026-07-07T14:36:00+00:00	Re: “Bloggers, can we make better titles for our posts?” No, but maybe… https://journal.james-zhan.com/blog-titles/
 2026-07-07T15:15:11.731003+00:00	Thank you, Belgium! https://prasatt.me/thank-you-belgium/
@@ -20,6 +17,9 @@
 2026-07-09T16:39:00+00:00	the internet is becoming increasingly hostile towards VPNs https://blog.basementcommunity.com/the-internet-is-increasingly-hostile-towards-vpns/
 2026-07-09T16:44:00+00:00	QUICK & EASY covers/posters/etc. WITHOUT GenAI https://skaetlett.bearblog.dev/quick-easy-posters-without-ai/
 2026-07-10T07:01:00+00:00	On K-pop and generative AI https://gogumapizza.bearblog.dev/on-k-pop-and-generative-ai/
+2026-07-10T15:56:00+00:00	Do you prefer Claude or ChatGPT for creative writing? https://murugappan.com/claude-vs-chatgpt/
 2026-07-10T17:58:00+00:00	Are these people tactical or are they idiots? https://doodhpeda.bearblog.dev/blog/are-these-people-tactical-or-are-they-idiots/
 2026-07-10T19:12:11.822312+00:00	RE: quick and easy covers/posters/etc. without genAI https://rnotte.art/re-quick-and-easy-coverspostersetc-without-genai/
 2026-07-10T20:02:09.957092+00:00	On Loving a Senior Dog https://notes.jeddacp.com/on-loving-a-senior-dog/
+2026-07-10T23:38:00+00:00	Let's call doomscrolling what it is https://blog.saiyanshinobi.com/call-doom-scrolling-what-it-is/
+2026-07-11T04:09:00+00:00	The Paused Web https://binarydigit.net/the-paused-web/
