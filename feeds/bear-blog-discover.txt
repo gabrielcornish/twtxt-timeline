@@ -4,7 +4,6 @@
 # description = twtxt conversion of https://bearblog.dev/discover/feed/
 
 2026-07-07T07:55:00+00:00	this isn't about bearblog https://jayrajput.bearblog.dev/this-isnt-about-bearblog/
-2026-07-07T14:36:00+00:00	Re: “Bloggers, can we make better titles for our posts?” No, but maybe… https://journal.james-zhan.com/blog-titles/
 2026-07-07T15:15:11.731003+00:00	Thank you, Belgium! https://prasatt.me/thank-you-belgium/
 2026-07-07T20:09:49.948563+00:00	the saturdays we have left https://theunpackingseries.bearblog.dev/the-saturdays-we-have-left/
 2026-07-07T20:38:00+00:00	ashamed of being offline? https://rnotte.art/ashamed-of-being-offline/
@@ -23,3 +22,4 @@
 2026-07-10T20:02:09.957092+00:00	On Loving a Senior Dog https://notes.jeddacp.com/on-loving-a-senior-dog/
 2026-07-10T23:38:00+00:00	Let's call doomscrolling what it is https://blog.saiyanshinobi.com/call-doom-scrolling-what-it-is/
 2026-07-11T04:09:00+00:00	The Paused Web https://binarydigit.net/the-paused-web/
+2026-07-11T13:00:00+00:00	rootring months later https://elmc.at/rootring-months-later/
