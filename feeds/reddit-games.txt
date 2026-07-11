@@ -5,10 +5,8 @@
 
 2026-07-08T11:00:34+00:00	Daily /r/Games Discussion - Suggest Me a Game - July 08, 2026 https://www.reddit.com/r/Games/comments/1uqpcya/daily_rgames_discussion_suggest_me_a_game_july_08/
 2026-07-10T03:24:14+00:00	Palworld v1.0 - Official Release Changelog https://www.reddit.com/r/Games/comments/1usc0kq/palworld_v10_official_release_changelog/
-2026-07-10T07:48:23+00:00	Adventures of Elliot - Version 1.1.0 Release Notice https://www.reddit.com/r/Games/comments/1usgyh6/adventures_of_elliot_version_110_release_notice/
 2026-07-10T10:00:38+00:00	Daily /r/Games Discussion - Free Talk Friday - July 10, 2026 https://www.reddit.com/r/Games/comments/1usj8f2/daily_rgames_discussion_free_talk_friday_july_10/
 2026-07-10T10:27:44+00:00	Games are almost always cheaper in shops, says new report, just as Sony announces an end to PlayStation discs and brings retailers' futures into question https://www.reddit.com/r/Games/comments/1usjqzi/games_are_almost_always_cheaper_in_shops_says_new/
-2026-07-10T12:31:54+00:00	How do you put a price tag on a legacy like id Software’s? https://www.reddit.com/r/Games/comments/1usmclf/how_do_you_put_a_price_tag_on_a_legacy_like_id/
 2026-07-10T13:03:13+00:00	Indie developer says Steam helped fix their game in time for Next Fest instead of rejecting last-minute unbootable build https://www.reddit.com/r/Games/comments/1usn3lf/indie_developer_says_steam_helped_fix_their_game/
 2026-07-10T13:05:17+00:00	Rogue Carrier is a new colony-builder from Hooded Horse that blends real-time strategy and roguelike runs, set on a hostile ocean planet https://www.reddit.com/r/Games/comments/1usn5fu/rogue_carrier_is_a_new_colonybuilder_from_hooded/
 2026-07-10T13:22:03+00:00	"My 'Microsoft will probably be a good steward of the brand' statement isn't aging well" - id Software co-founder John Carmack speaks out after devastating Xbox layoffs https://www.reddit.com/r/Games/comments/1usnk9z/my_microsoft_will_probably_be_a_good_steward_of/
@@ -28,3 +26,5 @@
 2026-07-11T17:01:06+00:00	Very Safe Dino Park - Official Game Announcement! https://www.reddit.com/r/Games/comments/1utpfvd/very_safe_dino_park_official_game_announcement/
 2026-07-11T17:32:01+00:00	Obsidian game director reacts to people "spouting off" about the studio and how it's not what it "used to be" – "the DNA at Obsidian is the same as it always was" https://www.reddit.com/r/Games/comments/1utq9bx/obsidian_game_director_reacts_to_people_spouting/
 2026-07-11T18:19:02+00:00	Ubisoft warns of risk of releasing games too late, 'when market anticipation has waned' https://www.reddit.com/r/Games/comments/1utri22/ubisoft_warns_of_risk_of_releasing_games_too_late/
+2026-07-11T21:32:16+00:00	Angels Fall First - 1.0 https://www.reddit.com/r/Games/comments/1utwc2m/angels_fall_first_10/
+2026-07-11T21:47:26+00:00	Ryse: Son of Rome Had Plans To Be Xbox’s Assassin’s Creed https://www.reddit.com/r/Games/comments/1utwojr/ryse_son_of_rome_had_plans_to_be_xboxs_assassins/
