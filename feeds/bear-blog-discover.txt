@@ -3,7 +3,6 @@
 # source = https://bearblog.dev/discover/feed/
 # description = twtxt conversion of https://bearblog.dev/discover/feed/
 
-2026-07-05T14:48:00+00:00	It's not about physical vs digital games, it's about ownership https://popcar.bearblog.dev/its-about-ownership/
 2026-07-06T22:37:00+00:00	kill the lights https://spectre.bearblog.dev/kill-the-lights/
 2026-07-06T22:45:00+00:00	introducing my cats https://stitching.bearblog.dev/introducing-my-cats/
 2026-07-07T06:51:00+00:00	World historic amounts of gamedev talent thrown out to rot https://blog.lauramichet.com/world-historic-amounts-of-gamedev-talent-thrown-out-to-rot/
@@ -18,6 +17,7 @@
 2026-07-09T03:10:00+00:00	method https://ytp.me/method/
 2026-07-09T13:59:54.217539+00:00	Keep blogging, don't worry https://robertbirming.com/keep-blogging-dont-worry/
 2026-07-09T15:25:00+00:00	Status bars on websites https://futureperfect.bearblog.dev/status-bars-on-websites/
+2026-07-09T16:39:00+00:00	the internet is becoming increasingly hostile towards VPNs https://blog.basementcommunity.com/the-internet-is-increasingly-hostile-towards-vpns/
 2026-07-09T16:44:00+00:00	QUICK & EASY covers/posters/etc. WITHOUT GenAI https://skaetlett.bearblog.dev/quick-easy-posters-without-ai/
 2026-07-10T07:01:06.030783+00:00	On K-pop and generative AI https://gogumapizza.bearblog.dev/on-k-pop-and-generative-ai/
 2026-07-10T17:58:00+00:00	Are these people tactical or are they idiots? https://doodhpeda.bearblog.dev/blog/are-these-people-tactical-or-are-they-idiots/
