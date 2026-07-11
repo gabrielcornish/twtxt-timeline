@@ -4,7 +4,6 @@
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
 2026-07-08T11:00:34+00:00	Daily /r/Games Discussion - Suggest Me a Game - July 08, 2026 https://www.reddit.com/r/Games/comments/1uqpcya/daily_rgames_discussion_suggest_me_a_game_july_08/
-2026-07-09T12:17:35+00:00	The Elder Scrolls 6 Will Suffer Because of Xbox Layoffs, Bethesda Staff Say, Fearing Delays, Crunch, and Generational Talent Being Replaced by Contractors https://www.reddit.com/r/Games/comments/1urolqh/the_elder_scrolls_6_will_suffer_because_of_xbox/
 2026-07-09T13:37:10+00:00	Ubisoft Barcelona Celebrates Successful Assassin's Creed Black Flag Resynced Launch With Layoffs https://www.reddit.com/r/Games/comments/1urqjnj/ubisoft_barcelona_celebrates_successful_assassins/
 2026-07-09T20:46:21+00:00	Black Ops 1 and 2 Ports Don't Have 120 FPS, FOV Slider, or Any Graphics Updates https://www.reddit.com/r/Games/comments/1us2ja7/black_ops_1_and_2_ports_dont_have_120_fps_fov/
 2026-07-09T21:52:21+00:00	Layoffs Hit GameSpot Again (Fifth Round of Layoffs) https://www.reddit.com/r/Games/comments/1us4a5w/layoffs_hit_gamespot_again_fifth_round_of_layoffs/
@@ -28,3 +27,4 @@
 2026-07-11T00:51:24+00:00	Layoffs Hit id Software Frankfurt https://www.reddit.com/r/Games/comments/1ut5o02/layoffs_hit_id_software_frankfurt/
 2026-07-11T01:25:39+00:00	Palworld officially changed to look less like Pokémon https://www.reddit.com/r/Games/comments/1ut6e6q/palworld_officially_changed_to_look_less_like/
 2026-07-11T01:43:36+00:00	Pressure from community makes EA reverse course on micro transactions in offline modes for College Football 27 https://www.reddit.com/r/Games/comments/1ut6ray/pressure_from_community_makes_ea_reverse_course/
+2026-07-11T08:18:55+00:00	Total War: WARHAMMER 40,000 - BiliBili World Gameplay Video https://www.reddit.com/r/Games/comments/1ute9nu/total_war_warhammer_40000_bilibili_world_gameplay/
