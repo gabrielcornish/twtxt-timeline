@@ -4,8 +4,8 @@
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
 2026-07-08T11:00:34+00:00	Daily /r/Games Discussion - Suggest Me a Game - July 08, 2026 https://www.reddit.com/r/Games/comments/1uqpcya/daily_rgames_discussion_suggest_me_a_game_july_08/
-2026-07-09T20:46:21+00:00	Black Ops 1 and 2 Ports Don't Have 120 FPS, FOV Slider, or Any Graphics Updates https://www.reddit.com/r/Games/comments/1us2ja7/black_ops_1_and_2_ports_dont_have_120_fps_fov/
 2026-07-10T03:24:14+00:00	Palworld v1.0 - Official Release Changelog https://www.reddit.com/r/Games/comments/1usc0kq/palworld_v10_official_release_changelog/
+2026-07-10T07:48:23+00:00	Adventures of Elliot - Version 1.1.0 Release Notice https://www.reddit.com/r/Games/comments/1usgyh6/adventures_of_elliot_version_110_release_notice/
 2026-07-10T10:00:38+00:00	Daily /r/Games Discussion - Free Talk Friday - July 10, 2026 https://www.reddit.com/r/Games/comments/1usj8f2/daily_rgames_discussion_free_talk_friday_july_10/
 2026-07-10T10:27:44+00:00	Games are almost always cheaper in shops, says new report, just as Sony announces an end to PlayStation discs and brings retailers' futures into question https://www.reddit.com/r/Games/comments/1usjqzi/games_are_almost_always_cheaper_in_shops_says_new/
 2026-07-10T12:31:54+00:00	How do you put a price tag on a legacy like id Software’s? https://www.reddit.com/r/Games/comments/1usmclf/how_do_you_put_a_price_tag_on_a_legacy_like_id/
