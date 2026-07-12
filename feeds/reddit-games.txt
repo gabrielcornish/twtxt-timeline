@@ -3,15 +3,12 @@
 # source = https://www.reddit.com/r/Games.rss
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
-2026-07-08T11:00:34+00:00	Daily /r/Games Discussion - Suggest Me a Game - July 08, 2026 https://www.reddit.com/r/Games/comments/1uqpcya/daily_rgames_discussion_suggest_me_a_game_july_08/
-2026-07-10T10:27:44+00:00	Games are almost always cheaper in shops, says new report, just as Sony announces an end to PlayStation discs and brings retailers' futures into question https://www.reddit.com/r/Games/comments/1usjqzi/games_are_almost_always_cheaper_in_shops_says_new/
 2026-07-10T13:22:03+00:00	"My 'Microsoft will probably be a good steward of the brand' statement isn't aging well" - id Software co-founder John Carmack speaks out after devastating Xbox layoffs https://www.reddit.com/r/Games/comments/1usnk9z/my_microsoft_will_probably_be_a_good_steward_of/
 2026-07-10T13:35:37+00:00	Bethesda Union Workers To Protest Mass Layoffs Next Week https://www.reddit.com/r/Games/comments/1usnwj3/bethesda_union_workers_to_protest_mass_layoffs/
 2026-07-10T16:24:48+00:00	Bloomberg: Delayed Xbox Layoffs Leave Employees Scared And Nervous - Jason Schreier https://www.reddit.com/r/Games/comments/1ussh03/bloomberg_delayed_xbox_layoffs_leave_employees/
 2026-07-10T16:36:24+00:00	Bethesda's last Skyrim concept artist, Ray Lederer, has been laid off after "almost 18 years of dedication to The Elder Scrolls, Fallout, and Starfield" amid Xbox cuts: "It has been my honor" https://www.reddit.com/r/Games/comments/1ussslu/bethesdas_last_skyrim_concept_artist_ray_lederer/
 2026-07-10T18:09:28+00:00	Assassin's Creed Black Flag Resynced Launches With 2 Million Copies Sold https://www.reddit.com/r/Games/comments/1usvesc/assassins_creed_black_flag_resynced_launches_with/
 2026-07-10T18:18:31+00:00	id Software Issues Statement Following Xbox Layoffs, Says It's Back to the Size It Was When It Made 2016's Doom https://www.reddit.com/r/Games/comments/1usvnzg/id_software_issues_statement_following_xbox/
-2026-07-10T20:25:03+00:00	God of War Laufey Confirmed for Disc, Hinting at a Pre-2028 Release https://www.reddit.com/r/Games/comments/1usz4o9/god_of_war_laufey_confirmed_for_disc_hinting_at_a/
 2026-07-10T23:47:29+00:00	Big Walk Is Destined To Be Your Next Big Co-Op Obsession https://www.reddit.com/r/Games/comments/1ut47lt/big_walk_is_destined_to_be_your_next_big_coop/
 2026-07-11T00:51:24+00:00	Layoffs Hit id Software Frankfurt https://www.reddit.com/r/Games/comments/1ut5o02/layoffs_hit_id_software_frankfurt/
 2026-07-11T08:18:55+00:00	Total War: WARHAMMER 40,000 - BiliBili World Gameplay Video https://www.reddit.com/r/Games/comments/1ute9nu/total_war_warhammer_40000_bilibili_world_gameplay/
@@ -22,9 +19,12 @@
 2026-07-11T18:19:02+00:00	Ubisoft warns of risk of releasing games too late, 'when market anticipation has waned' https://www.reddit.com/r/Games/comments/1utri22/ubisoft_warns_of_risk_of_releasing_games_too_late/
 2026-07-11T21:32:16+00:00	Angels Fall First - 1.0 https://www.reddit.com/r/Games/comments/1utwc2m/angels_fall_first_10/
 2026-07-11T21:47:26+00:00	Ryse: Son of Rome Had Plans To Be Xbox’s Assassin’s Creed https://www.reddit.com/r/Games/comments/1utwojr/ryse_son_of_rome_had_plans_to_be_xboxs_assassins/
-2026-07-11T22:32:32+00:00	Warframe - Tau TennoCon 2026 Trailer | PS5 & PS4 Games https://www.reddit.com/r/Games/comments/1utxq5s/warframe_tau_tennocon_2026_trailer_ps5_ps4_games/
 2026-07-11T22:32:52+00:00	TennoCon 2026 | Warframe: Tau | Official Trailer https://www.reddit.com/r/Games/comments/1utxqet/tennocon_2026_warframe_tau_official_trailer/
 2026-07-12T00:03:39+00:00	Soulframe | TennoCon 2026 Official Warsongs Trailer https://www.reddit.com/r/Games/comments/1utzsl0/soulframe_tennocon_2026_official_warsongs_trailer/
 2026-07-12T04:00:41+00:00	Indie Sunday Hub - July 12, 2026 https://www.reddit.com/r/Games/comments/1uu4puf/indie_sunday_hub_july_12_2026/
 2026-07-12T05:26:38+00:00	ExoArmor - Crucial Fusion - vector graphics city defense shooter (think: Space Invaders + Missile Command gameplay w/ Tempest graphics) https://www.reddit.com/r/Games/comments/1uu6fez/exoarmor_crucial_fusion_vector_graphics_city/
 2026-07-12T06:17:20+00:00	History of Gamebooks (CYOA games a-la Fighting Fantasy) in Japan and Veritas Tales: Witch of the Dark Castle (2026) https://www.reddit.com/r/Games/comments/1uu7czk/history_of_gamebooks_cyoa_games_ala_fighting/
+2026-07-12T06:32:33+00:00	SGDQ 2026 has just concluded, raising more than $2,408,701 for Doctors Without Borders / Médecins Sans Frontières (MSF) https://www.reddit.com/r/Games/comments/1uu7n13/sgdq_2026_has_just_concluded_raising_more_than/
+2026-07-12T07:14:45+00:00	Teeto - Eat Pant Games - Adventure 3D Platformer coming out next week! (PC/PS5/Switch1&2) https://www.reddit.com/r/Games/comments/1uu8f2a/teeto_eat_pant_games_adventure_3d_platformer/
+2026-07-12T07:36:04+00:00	HARD VOID - jejoxdev - a Retro-style Lovecraftian 4X space strategy game https://www.reddit.com/r/Games/comments/1uu8sgc/hard_void_jejoxdev_a_retrostyle_lovecraftian_4x/
+2026-07-12T09:00:30+00:00	Weekly /r/Games Discussion - What have you been playing, and what are your thoughts? - July 12, 2026 https://www.reddit.com/r/Games/comments/1uua87j/weekly_rgames_discussion_what_have_you_been/
