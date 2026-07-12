@@ -4,7 +4,6 @@
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
 2026-07-08T11:00:34+00:00	Daily /r/Games Discussion - Suggest Me a Game - July 08, 2026 https://www.reddit.com/r/Games/comments/1uqpcya/daily_rgames_discussion_suggest_me_a_game_july_08/
-2026-07-10T10:00:38+00:00	Daily /r/Games Discussion - Free Talk Friday - July 10, 2026 https://www.reddit.com/r/Games/comments/1usj8f2/daily_rgames_discussion_free_talk_friday_july_10/
 2026-07-10T10:27:44+00:00	Games are almost always cheaper in shops, says new report, just as Sony announces an end to PlayStation discs and brings retailers' futures into question https://www.reddit.com/r/Games/comments/1usjqzi/games_are_almost_always_cheaper_in_shops_says_new/
 2026-07-10T13:03:13+00:00	Indie developer says Steam helped fix their game in time for Next Fest instead of rejecting last-minute unbootable build https://www.reddit.com/r/Games/comments/1usn3lf/indie_developer_says_steam_helped_fix_their_game/
 2026-07-10T13:22:03+00:00	"My 'Microsoft will probably be a good steward of the brand' statement isn't aging well" - id Software co-founder John Carmack speaks out after devastating Xbox layoffs https://www.reddit.com/r/Games/comments/1usnk9z/my_microsoft_will_probably_be_a_good_steward_of/
@@ -28,3 +27,4 @@
 2026-07-11T22:32:32+00:00	Warframe - Tau TennoCon 2026 Trailer | PS5 & PS4 Games https://www.reddit.com/r/Games/comments/1utxq5s/warframe_tau_tennocon_2026_trailer_ps5_ps4_games/
 2026-07-11T22:32:52+00:00	TennoCon 2026 | Warframe: Tau | Official Trailer https://www.reddit.com/r/Games/comments/1utxqet/tennocon_2026_warframe_tau_official_trailer/
 2026-07-12T00:03:39+00:00	Soulframe | TennoCon 2026 Official Warsongs Trailer https://www.reddit.com/r/Games/comments/1utzsl0/soulframe_tennocon_2026_official_warsongs_trailer/
+2026-07-12T04:00:41+00:00	Indie Sunday Hub - July 12, 2026 https://www.reddit.com/r/Games/comments/1uu4puf/indie_sunday_hub_july_12_2026/
