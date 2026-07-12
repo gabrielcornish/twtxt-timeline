@@ -3,10 +3,7 @@
 # source = https://www.reddit.com/r/Games.rss
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
-2026-07-10T13:22:03+00:00	"My 'Microsoft will probably be a good steward of the brand' statement isn't aging well" - id Software co-founder John Carmack speaks out after devastating Xbox layoffs https://www.reddit.com/r/Games/comments/1usnk9z/my_microsoft_will_probably_be_a_good_steward_of/
 2026-07-10T16:36:24+00:00	Bethesda's last Skyrim concept artist, Ray Lederer, has been laid off after "almost 18 years of dedication to The Elder Scrolls, Fallout, and Starfield" amid Xbox cuts: "It has been my honor" https://www.reddit.com/r/Games/comments/1ussslu/bethesdas_last_skyrim_concept_artist_ray_lederer/
-2026-07-10T18:09:28+00:00	Assassin's Creed Black Flag Resynced Launches With 2 Million Copies Sold https://www.reddit.com/r/Games/comments/1usvesc/assassins_creed_black_flag_resynced_launches_with/
-2026-07-10T23:47:29+00:00	Big Walk Is Destined To Be Your Next Big Co-Op Obsession https://www.reddit.com/r/Games/comments/1ut47lt/big_walk_is_destined_to_be_your_next_big_coop/
 2026-07-11T00:51:24+00:00	Layoffs Hit id Software Frankfurt https://www.reddit.com/r/Games/comments/1ut5o02/layoffs_hit_id_software_frankfurt/
 2026-07-11T08:18:55+00:00	Total War: WARHAMMER 40,000 - BiliBili World Gameplay Video https://www.reddit.com/r/Games/comments/1ute9nu/total_war_warhammer_40000_bilibili_world_gameplay/
 2026-07-11T12:32:52+00:00	EA Removes College Football 27 Microtransactions After Player Boycott https://www.reddit.com/r/Games/comments/1utix2v/ea_removes_college_football_27_microtransactions/
@@ -28,3 +25,6 @@
 2026-07-12T12:21:57+00:00	Famously buggy Assassin's Creed Unity "is one of the most underestimated games in the series," says lead who admits its "launch was a huge challenge" https://www.reddit.com/r/Games/comments/1uue05u/famously_buggy_assassins_creed_unity_is_one_of/
 2026-07-12T15:31:13+00:00	Assassin's Creed franchise has sold over 250M units worldwide https://www.reddit.com/r/Games/comments/1uuilyi/assassins_creed_franchise_has_sold_over_250m/
 2026-07-12T16:03:02+00:00	I.T.C.B. - Interstellar Trade Compliance Bureau - Baseless Assumption Studio - Resource Management Simulation https://www.reddit.com/r/Games/comments/1uujgck/itcb_interstellar_trade_compliance_bureau/
+2026-07-12T17:12:09+00:00	WheelJumper: The Art of Edging – WayneMars – A hard physics-based sports game about wheelchair ski jumping https://www.reddit.com/r/Games/comments/1uulay4/wheeljumper_the_art_of_edging_waynemars_a_hard/
+2026-07-12T17:28:02+00:00	Campwood - Hidden Button - Fun co-op wilderness survival game full of mystery https://www.reddit.com/r/Games/comments/1uulr17/campwood_hidden_button_fun_coop_wilderness/
+2026-07-12T17:51:26+00:00	Database Detective: Minor Crimes Division - Thomas Hsu - solve minor misdemeanors with real SQL queries https://www.reddit.com/r/Games/comments/1uumdxt/database_detective_minor_crimes_division_thomas/
