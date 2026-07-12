@@ -4,10 +4,8 @@
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
 2026-07-10T13:22:03+00:00	"My 'Microsoft will probably be a good steward of the brand' statement isn't aging well" - id Software co-founder John Carmack speaks out after devastating Xbox layoffs https://www.reddit.com/r/Games/comments/1usnk9z/my_microsoft_will_probably_be_a_good_steward_of/
-2026-07-10T16:24:48+00:00	Bloomberg: Delayed Xbox Layoffs Leave Employees Scared And Nervous - Jason Schreier https://www.reddit.com/r/Games/comments/1ussh03/bloomberg_delayed_xbox_layoffs_leave_employees/
 2026-07-10T16:36:24+00:00	Bethesda's last Skyrim concept artist, Ray Lederer, has been laid off after "almost 18 years of dedication to The Elder Scrolls, Fallout, and Starfield" amid Xbox cuts: "It has been my honor" https://www.reddit.com/r/Games/comments/1ussslu/bethesdas_last_skyrim_concept_artist_ray_lederer/
 2026-07-10T18:09:28+00:00	Assassin's Creed Black Flag Resynced Launches With 2 Million Copies Sold https://www.reddit.com/r/Games/comments/1usvesc/assassins_creed_black_flag_resynced_launches_with/
-2026-07-10T18:18:31+00:00	id Software Issues Statement Following Xbox Layoffs, Says It's Back to the Size It Was When It Made 2016's Doom https://www.reddit.com/r/Games/comments/1usvnzg/id_software_issues_statement_following_xbox/
 2026-07-10T23:47:29+00:00	Big Walk Is Destined To Be Your Next Big Co-Op Obsession https://www.reddit.com/r/Games/comments/1ut47lt/big_walk_is_destined_to_be_your_next_big_coop/
 2026-07-11T00:51:24+00:00	Layoffs Hit id Software Frankfurt https://www.reddit.com/r/Games/comments/1ut5o02/layoffs_hit_id_software_frankfurt/
 2026-07-11T08:18:55+00:00	Total War: WARHAMMER 40,000 - BiliBili World Gameplay Video https://www.reddit.com/r/Games/comments/1ute9nu/total_war_warhammer_40000_bilibili_world_gameplay/
@@ -26,5 +24,7 @@
 2026-07-12T06:32:33+00:00	SGDQ 2026 has just concluded, raising more than $2,408,701 for Doctors Without Borders / Médecins Sans Frontières (MSF) https://www.reddit.com/r/Games/comments/1uu7n13/sgdq_2026_has_just_concluded_raising_more_than/
 2026-07-12T07:36:04+00:00	HARD VOID - jejoxdev - a Retro-style Lovecraftian 4X space strategy game https://www.reddit.com/r/Games/comments/1uu8sgc/hard_void_jejoxdev_a_retrostyle_lovecraftian_4x/
 2026-07-12T09:00:30+00:00	Weekly /r/Games Discussion - What have you been playing, and what are your thoughts? - July 12, 2026 https://www.reddit.com/r/Games/comments/1uua87j/weekly_rgames_discussion_what_have_you_been/
-2026-07-12T10:22:10+00:00	Reclaim The Living - 2 Nerdy Nerds - 2.5D Zombie Curing Roguelike https://www.reddit.com/r/Games/comments/1uubngj/reclaim_the_living_2_nerdy_nerds_25d_zombie/
+2026-07-12T09:29:32+00:00	Oceaneers - Barrel Smash Studios - A sci-fi survival crafting colony-sim in a flooded world where you fight off sharks and send expeditions to scavenge lost Float-Tech. (New update now live!) https://www.reddit.com/r/Games/comments/1uuaq3l/oceaneers_barrel_smash_studios_a_scifi_survival/
 2026-07-12T11:11:59+00:00	SECTOR ZERO - Ondrej Angelovic - Half-Life & Portal inspired physics-based action-adventure https://www.reddit.com/r/Games/comments/1uuckoc/sector_zero_ondrej_angelovic_halflife_portal/
+2026-07-12T12:20:50+00:00	Nine Crowns of Faenord - Skvork - Open-World ARPG for iOS and Android https://www.reddit.com/r/Games/comments/1uudzcc/nine_crowns_of_faenord_skvork_openworld_arpg_for/
+2026-07-12T13:53:06+00:00	DarkPurple - Kernanknight-A roguelike deckbuilder with an anime twist. Build your deck, collect resources and sell them to survive, How far can you go? https://www.reddit.com/r/Games/comments/1uug3pk/darkpurple_kernanknighta_roguelike_deckbuilder/
