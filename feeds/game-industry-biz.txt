@@ -3,7 +3,6 @@
 # source = https://www.gamesindustry.biz/feed
 # description = twtxt conversion of https://www.gamesindustry.biz/feed
 
-2026-07-02T07:21:12+00:00	Union raises concerns over gender pay gaps, bonus management, and crunch at Rockstar https://www.gamesindustry.biz/union-raises-concerns-over-gender-pay-gaps-bonus-management-and-crunch-at-rockstar
 2026-07-02T08:53:14+00:00	Kepler Interactive acquires stake in indie publisher Oro Interactive from venture capital firm https://www.gamesindustry.biz/kepler-interactive-acquires-stake-in-indie-publisher-oro-interactive-from-venture-capital-firm
 2026-07-02T12:00:00+00:00	Sega Europe vet Jurgen Post steps down as West Studios COO, Rovio's Alex Pelletier-Normand taking his place https://www.gamesindustry.biz/sega-europe-vet-post-steps-down-as-west-studios-coo-rovios-pelletier-normand-taking-his-place
 2026-07-02T13:00:00+00:00	Creator-distributed discount codes drive massive uptake of game storefronts, according to new Tebex data https://www.gamesindustry.biz/creator-distributed-discount-codes-drive-massive-uptake-of-game-storefronts-according-to-new-tebex-data
@@ -53,3 +52,4 @@
 2026-07-13T10:03:04+00:00	Alinea: Steam revenue reaches $11.1bn, marking highest half-year on record https://www.gamesindustry.biz/alinea-steam-revenue-reaches-111bn-marking-highest-half-year-on-record
 2026-07-13T11:01:00+00:00	Welcome to ExDev Week https://www.gamesindustry.biz/welcome-to-exdev-week
 2026-07-13T11:02:00+00:00	What does the future of external development look like? https://www.gamesindustry.biz/what-does-the-future-of-external-development-look-like
+2026-07-13T13:13:28+00:00	Analyst: Game console shipments expected to decline 19.5% to 33.9m units in 2026 https://www.gamesindustry.biz/analyst-game-console-shipments-expected-to-decline-195-to-339m-units-in-2026
