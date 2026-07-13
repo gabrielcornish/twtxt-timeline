@@ -3,10 +3,6 @@
 # source = https://www.gamesindustry.biz/feed
 # description = twtxt conversion of https://www.gamesindustry.biz/feed
 
-2026-07-01T16:38:14+00:00	Subnautica 2 studio Unknown Worlds' CEO resigns as Krafton agrees to pay $250m bonus https://www.gamesindustry.biz/subnautica-2-studio-unknown-worlds-ceo-resigns-as-krafton-agrees-to-pay-250m-bonus
-2026-07-01T20:35:19+00:00	Xbox is reportedly considering dropping disc drives as it tests new feature that lets players digitize physical games https://www.gamesindustry.biz/xbox-is-reportedly-considering-dropping-disc-drives-as-it-tests-new-feature-that-lets-players-digitize-physical-games
-2026-07-01T20:59:41+00:00	Godot bans "autonomous AI agent use or vibe coded" contributions https://www.gamesindustry.biz/godot-bans-autonomous-ai-agent-use-or-vibe-coded-contributions
-2026-07-01T21:27:46+00:00	Sony to close down PlayStation Store on PS3 and PS Vita by July 2027 https://www.gamesindustry.biz/sony-to-close-down-ps3-and-ps-vita-online-store-globally-by-july-2027
 2026-07-02T07:21:12+00:00	Union raises concerns over gender pay gaps, bonus management, and crunch at Rockstar https://www.gamesindustry.biz/union-raises-concerns-over-gender-pay-gaps-bonus-management-and-crunch-at-rockstar
 2026-07-02T08:53:14+00:00	Kepler Interactive acquires stake in indie publisher Oro Interactive from venture capital firm https://www.gamesindustry.biz/kepler-interactive-acquires-stake-in-indie-publisher-oro-interactive-from-venture-capital-firm
 2026-07-02T12:00:00+00:00	Sega Europe vet Jurgen Post steps down as West Studios COO, Rovio's Alex Pelletier-Normand taking his place https://www.gamesindustry.biz/sega-europe-vet-post-steps-down-as-west-studios-coo-rovios-pelletier-normand-taking-his-place
@@ -53,3 +49,7 @@
 2026-07-10T13:22:07+00:00	"They want us to accept this as a done deal and quietly disappear" – Bethesda union members organise protest in response to Xbox layoffs https://www.gamesindustry.biz/they-want-us-to-accept-this-as-a-done-deal-and-quietly-disappear-bethesda-union-members-organise-protest-in-response-to-xbox-layoffs
 2026-07-10T13:49:02+00:00	Can a top-down, focused software strategy save Xbox? | Opinion https://www.gamesindustry.biz/can-a-top-down-focused-software-strategy-save-xbox-opinion
 2026-07-10T18:24:27+00:00	Id claims it has "the crew we need to build the games and tech we're known for" following mass layoffs https://www.gamesindustry.biz/id-claims-it-has-the-crew-we-need-to-build-the-games-and-tech-were-known-for-following-mass-layoffs
+2026-07-13T08:14:17+00:00	EA removes microtransactions from EA Sports College Football 27 following backlash https://www.gamesindustry.biz/ea-removes-microtransactions-from-ea-sports-college-football-27-following-backlash
+2026-07-13T10:03:04+00:00	Alinea: Steam revenue reaches $11.1bn, marking highest half-year on record https://www.gamesindustry.biz/alinea-steam-revenue-reaches-111bn-marking-highest-half-year-on-record
+2026-07-13T11:01:00+00:00	Welcome to ExDev Week https://www.gamesindustry.biz/welcome-to-exdev-week
+2026-07-13T11:02:00+00:00	What does the future of external development look like? https://www.gamesindustry.biz/what-does-the-future-of-external-development-look-like
