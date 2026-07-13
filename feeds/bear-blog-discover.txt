@@ -3,7 +3,6 @@
 # source = https://bearblog.dev/discover/feed/
 # description = twtxt conversion of https://bearblog.dev/discover/feed/
 
-2026-07-07T07:55:00+00:00	this isn't about bearblog https://jayrajput.bearblog.dev/this-isnt-about-bearblog/
 2026-07-08T12:00:00+00:00	I take burned-out professionals into Kyoto's gardens to listen https://www.simonjamesfrench.com/burned-out-professionals-listening/
 2026-07-08T15:48:00+00:00	Five finger rule to choose what to read next https://after.bearblog.dev/micro/five-finger-rule/
 2026-07-08T23:13:00+00:00	Stop using ReCaptcha ~ It's NOT A REAL CAPTCHA https://na0341.bearblog.dev/info/stop-using-recaptcha/
@@ -23,3 +22,4 @@
 2026-07-11T13:00:00+00:00	rootring months later https://elmc.at/rootring-months-later/
 2026-07-11T13:43:00+00:00	Neocities Intimidates Me https://sweaterpockets.bearblog.dev/neocities-intimidates-me/
 2026-07-11T15:50:39.906830+00:00	Nothing to Anyone https://householderkarl.com/nothing-to-anyone/
+2026-07-13T09:55:00+00:00	Re: An Infuriating Goodbye to Photoshop https://onlinegoddess.net/2026/07/re-an-infuriating-goodbye-to-photoshop/

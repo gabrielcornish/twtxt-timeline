@@ -4,9 +4,6 @@
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
 2026-07-11T12:32:52+00:00	EA Removes College Football 27 Microtransactions After Player Boycott https://www.reddit.com/r/Games/comments/1utix2v/ea_removes_college_football_27_microtransactions/
-2026-07-11T17:01:06+00:00	Very Safe Dino Park - Official Game Announcement! https://www.reddit.com/r/Games/comments/1utpfvd/very_safe_dino_park_official_game_announcement/
-2026-07-11T17:32:01+00:00	Obsidian game director reacts to people "spouting off" about the studio and how it's not what it "used to be" – "the DNA at Obsidian is the same as it always was" https://www.reddit.com/r/Games/comments/1utq9bx/obsidian_game_director_reacts_to_people_spouting/
-2026-07-11T18:19:02+00:00	Ubisoft warns of risk of releasing games too late, 'when market anticipation has waned' https://www.reddit.com/r/Games/comments/1utri22/ubisoft_warns_of_risk_of_releasing_games_too_late/
 2026-07-11T21:32:16+00:00	Angels Fall First - 1.0 https://www.reddit.com/r/Games/comments/1utwc2m/angels_fall_first_10/
 2026-07-11T21:47:26+00:00	Ryse: Son of Rome Had Plans To Be Xbox’s Assassin’s Creed https://www.reddit.com/r/Games/comments/1utwojr/ryse_son_of_rome_had_plans_to_be_xboxs_assassins/
 2026-07-11T22:32:52+00:00	TennoCon 2026 | Warframe: Tau | Official Trailer https://www.reddit.com/r/Games/comments/1utxqet/tennocon_2026_warframe_tau_official_trailer/
@@ -20,11 +17,14 @@
 2026-07-12T16:03:02+00:00	I.T.C.B. - Interstellar Trade Compliance Bureau - Baseless Assumption Studio - Resource Management Simulation https://www.reddit.com/r/Games/comments/1uujgck/itcb_interstellar_trade_compliance_bureau/
 2026-07-12T17:28:02+00:00	Campwood - Hidden Button - Fun co-op wilderness survival game full of mystery https://www.reddit.com/r/Games/comments/1uulr17/campwood_hidden_button_fun_coop_wilderness/
 2026-07-12T17:51:26+00:00	Database Detective: Minor Crimes Division - Thomas Hsu - solve minor misdemeanors with real SQL queries https://www.reddit.com/r/Games/comments/1uumdxt/database_detective_minor_crimes_division_thomas/
-2026-07-12T20:29:19+00:00	Capy Stream: Rise to Fame - SQRT Games - Sims-like game where you play as a capybara streamer https://www.reddit.com/r/Games/comments/1uuqlv0/capy_stream_rise_to_fame_sqrt_games_simslike_game/
 2026-07-12T23:12:57+00:00	Former PlayStation boss thinks "we've lost a lot of the variety in games," and we can thank the "rising cost" of new titles for that: "We had so many crazy games on PS1" https://www.reddit.com/r/Games/comments/1uuumeh/former_playstation_boss_thinks_weve_lost_a_lot_of/
-2026-07-12T23:46:10+00:00	Archons And Aeons - Quantum Leap Studio - An immersive sim in which you sneak, fight and quantum hack your way through https://www.reddit.com/r/Games/comments/1uuvdss/archons_and_aeons_quantum_leap_studio_an/
 2026-07-13T07:28:32+00:00	Mexican Lawmakers to File Antitrust Complaint Against PlayStation and Sony Over PS Store Following the Potential End of Physical Games https://www.reddit.com/r/Games/comments/1uv4lqi/mexican_lawmakers_to_file_antitrust_complaint/
 2026-07-13T11:29:12+00:00	Octopath Traveler and Octopath Traveler II are coming to Nintendo Switch 2 today digitally https://www.reddit.com/r/Games/comments/1uv8w4x/octopath_traveler_and_octopath_traveler_ii_are/
 2026-07-13T12:22:58+00:00	Ascend to ZERO | Launch Trailer https://www.reddit.com/r/Games/comments/1uva1ol/ascend_to_zero_launch_trailer/
 2026-07-13T14:44:59+00:00	Lunarium - Release Date Announcement Trailer https://www.reddit.com/r/Games/comments/1uvdl8g/lunarium_release_date_announcement_trailer/
-2026-07-13T14:57:32+00:00	Roulette Dungeon - OUT NOW! https://www.reddit.com/r/Games/comments/1uvdxh2/roulette_dungeon_out_now/
+2026-07-13T15:37:30+00:00	Endacopia Release Date Trailer (Releasing July 27th) https://www.reddit.com/r/Games/comments/1uvf0vf/endacopia_release_date_trailer_releasing_july_27th/
+2026-07-13T16:29:53+00:00	PS5 Emulator Reaches GTA V Menus, Quake II Gameplay, As First 3D Games Load On PC https://www.reddit.com/r/Games/comments/1uvgh7r/ps5_emulator_reaches_gta_v_menus_quake_ii/
+2026-07-13T16:31:00+00:00	Agent 64: Spies Never Die - Release Date Trailer https://www.reddit.com/r/Games/comments/1uvgihu/agent_64_spies_never_die_release_date_trailer/
+2026-07-13T17:02:39+00:00	The Alters: Last Variable | Launch Trailer https://www.reddit.com/r/Games/comments/1uvhejw/the_alters_last_variable_launch_trailer/
+2026-07-13T17:05:54+00:00	MARVEL Tōkon: Fighting Souls | Spider-Man Character Guide https://www.reddit.com/r/Games/comments/1uvhhsk/marvel_tōkon_fighting_souls_spiderman_character/
+2026-07-13T17:06:45+00:00	Quantum Void Launch Trailer - July 10th https://www.reddit.com/r/Games/comments/1uvhiml/quantum_void_launch_trailer_july_10th/
