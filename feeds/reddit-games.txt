@@ -4,7 +4,6 @@
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
 2026-07-12T09:00:30+00:00	Weekly /r/Games Discussion - What have you been playing, and what are your thoughts? - July 12, 2026 https://www.reddit.com/r/Games/comments/1uua87j/weekly_rgames_discussion_what_have_you_been/
-2026-07-12T15:31:13+00:00	Assassin's Creed franchise has sold over 250M units worldwide https://www.reddit.com/r/Games/comments/1uuilyi/assassins_creed_franchise_has_sold_over_250m/
 2026-07-12T23:12:57+00:00	Former PlayStation boss thinks "we've lost a lot of the variety in games," and we can thank the "rising cost" of new titles for that: "We had so many crazy games on PS1" https://www.reddit.com/r/Games/comments/1uuumeh/former_playstation_boss_thinks_weve_lost_a_lot_of/
 2026-07-13T07:28:32+00:00	Mexican Lawmakers to File Antitrust Complaint Against PlayStation and Sony Over PS Store Following the Potential End of Physical Games https://www.reddit.com/r/Games/comments/1uv4lqi/mexican_lawmakers_to_file_antitrust_complaint/
 2026-07-13T11:29:12+00:00	Octopath Traveler and Octopath Traveler II are coming to Nintendo Switch 2 today digitally https://www.reddit.com/r/Games/comments/1uv8w4x/octopath_traveler_and_octopath_traveler_ii_are/
@@ -19,8 +18,8 @@
 2026-07-13T17:59:15+00:00	Why Big Game Companies Don't Make Small Games https://www.reddit.com/r/Games/comments/1uvj0c3/why_big_game_companies_dont_make_small_games/
 2026-07-13T19:57:15+00:00	Beast of Reincarnation Preview Thread https://www.reddit.com/r/Games/comments/1uvmd2j/beast_of_reincarnation_preview_thread/
 2026-07-13T20:25:22+00:00	How a Second-Grade Teacher Revived a Beloved Video Game https://www.reddit.com/r/Games/comments/1uvn5ha/how_a_secondgrade_teacher_revived_a_beloved_video/
-2026-07-14T00:08:30+00:00	[Modern Vintage Gamer] I was wrong. DOOM runs on everything, even Neo Geo! https://www.reddit.com/r/Games/comments/1uvst8g/modern_vintage_gamer_i_was_wrong_doom_runs_on/
 2026-07-14T00:52:25+00:00	Ubisoft Connect went down briefly and made Assassin's Creed Black Flag Resynced unplayable on PC, despite having an offline mode https://www.reddit.com/r/Games/comments/1uvtt3x/ubisoft_connect_went_down_briefly_and_made/
+2026-07-14T09:39:36+00:00	Stalzone - Official Gameplay Trailer https://www.reddit.com/r/Games/comments/1uw3xqy/stalzone_official_gameplay_trailer/
 2026-07-14T10:15:27+00:00	Pioneering 3D Survival Horror "Ecstatica" and other classic PC Games getting re-releases on Steam and GOG https://www.reddit.com/r/Games/comments/1uw4kia/pioneering_3d_survival_horror_ecstatica_and_other/
 2026-07-14T10:48:33+00:00	AMA: 11 bit studios - The Alters: Last Variable DLC! https://www.reddit.com/r/Games/comments/1uw56uh/ama_11_bit_studios_the_alters_last_variable_dlc/
 2026-07-14T11:32:16+00:00	After Empulse Early Access Launch, 1047 Games Has More Layoffs https://www.reddit.com/r/Games/comments/1uw6214/after_empulse_early_access_launch_1047_games_has/
@@ -28,3 +27,4 @@
 2026-07-14T13:04:51+00:00	D-topia | Launch Trailer https://www.reddit.com/r/Games/comments/1uw84rn/dtopia_launch_trailer/
 2026-07-14T13:45:35+00:00	Dying Light: The Beast Cancelled for PS4 and Xbox One Consoles, 10 Months After Current-Gen Launch https://www.reddit.com/r/Games/comments/1uw95j8/dying_light_the_beast_cancelled_for_ps4_and_xbox/
 2026-07-14T14:03:28+00:00	The Outlast Trials - Project Boneyard | Season 7 Gameplay Trailer https://www.reddit.com/r/Games/comments/1uw9mlr/the_outlast_trials_project_boneyard_season_7/
+2026-07-14T15:16:25+00:00	Battlefield 6 Season 4 Naval Official Gameplay Trailer https://www.reddit.com/r/Games/comments/1uwblh5/battlefield_6_season_4_naval_official_gameplay/
