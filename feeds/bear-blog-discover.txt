@@ -3,7 +3,6 @@
 # source = https://bearblog.dev/discover/feed/
 # description = twtxt conversion of https://bearblog.dev/discover/feed/
 
-2026-07-09T13:59:54.217539+00:00	Keep blogging, don't worry https://robertbirming.com/keep-blogging-dont-worry/
 2026-07-09T15:25:00+00:00	Status bars on websites https://futureperfect.bearblog.dev/status-bars-on-websites/
 2026-07-09T16:39:00+00:00	the internet is becoming increasingly hostile towards VPNs https://blog.basementcommunity.com/the-internet-is-increasingly-hostile-towards-vpns/
 2026-07-09T16:44:00+00:00	QUICK & EASY covers/posters/etc. WITHOUT GenAI https://skaetlett.bearblog.dev/quick-easy-posters-without-ai/
@@ -18,6 +17,7 @@
 2026-07-11T13:50:00+00:00	Re: Revival of Independent Physical Video Rental Shops https://untangled.bearblog.dev/indie-video-rental/
 2026-07-11T15:50:39.906830+00:00	Nothing to Anyone https://householderkarl.com/nothing-to-anyone/
 2026-07-12T13:49:00+00:00	Bear Blogging - unanswered questions https://loveisverbing.bearblog.dev/bear-quest/
+2026-07-12T16:18:00+00:00	Retro computer advertising memories https://basic.bearblog.dev/retro-computer-advertising-memories/
 2026-07-12T17:15:00+00:00	How I Collect Blog Statistics, Respectfully https://onlinegoddess.net/2026/07/how-i-collect-blog-statistics-respectfully/
 2026-07-13T09:55:00+00:00	Re: An Infuriating Goodbye to Photoshop https://onlinegoddess.net/2026/07/re-an-infuriating-goodbye-to-photoshop/
 2026-07-13T14:55:00+00:00	I started a "dirt notebook" https://pinewind.bearblog.dev/i-started-a-dirt-notebook/
