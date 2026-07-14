@@ -3,12 +3,8 @@
 # source = https://www.reddit.com/r/Games.rss
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
-2026-07-12T06:32:33+00:00	SGDQ 2026 has just concluded, raising more than $2,408,701 for Doctors Without Borders / Médecins Sans Frontières (MSF) https://www.reddit.com/r/Games/comments/1uu7n13/sgdq_2026_has_just_concluded_raising_more_than/
 2026-07-12T09:00:30+00:00	Weekly /r/Games Discussion - What have you been playing, and what are your thoughts? - July 12, 2026 https://www.reddit.com/r/Games/comments/1uua87j/weekly_rgames_discussion_what_have_you_been/
-2026-07-12T12:21:57+00:00	Famously buggy Assassin's Creed Unity "is one of the most underestimated games in the series," says lead who admits its "launch was a huge challenge" https://www.reddit.com/r/Games/comments/1uue05u/famously_buggy_assassins_creed_unity_is_one_of/
 2026-07-12T15:31:13+00:00	Assassin's Creed franchise has sold over 250M units worldwide https://www.reddit.com/r/Games/comments/1uuilyi/assassins_creed_franchise_has_sold_over_250m/
-2026-07-12T16:03:02+00:00	I.T.C.B. - Interstellar Trade Compliance Bureau - Baseless Assumption Studio - Resource Management Simulation https://www.reddit.com/r/Games/comments/1uujgck/itcb_interstellar_trade_compliance_bureau/
-2026-07-12T17:51:26+00:00	Database Detective: Minor Crimes Division - Thomas Hsu - solve minor misdemeanors with real SQL queries https://www.reddit.com/r/Games/comments/1uumdxt/database_detective_minor_crimes_division_thomas/
 2026-07-12T23:12:57+00:00	Former PlayStation boss thinks "we've lost a lot of the variety in games," and we can thank the "rising cost" of new titles for that: "We had so many crazy games on PS1" https://www.reddit.com/r/Games/comments/1uuumeh/former_playstation_boss_thinks_weve_lost_a_lot_of/
 2026-07-13T07:28:32+00:00	Mexican Lawmakers to File Antitrust Complaint Against PlayStation and Sony Over PS Store Following the Potential End of Physical Games https://www.reddit.com/r/Games/comments/1uv4lqi/mexican_lawmakers_to_file_antitrust_complaint/
 2026-07-13T11:29:12+00:00	Octopath Traveler and Octopath Traveler II are coming to Nintendo Switch 2 today digitally https://www.reddit.com/r/Games/comments/1uv8w4x/octopath_traveler_and_octopath_traveler_ii_are/
@@ -28,3 +24,7 @@
 2026-07-14T10:15:27+00:00	Pioneering 3D Survival Horror "Ecstatica" and other classic PC Games getting re-releases on Steam and GOG https://www.reddit.com/r/Games/comments/1uw4kia/pioneering_3d_survival_horror_ecstatica_and_other/
 2026-07-14T10:48:33+00:00	AMA: 11 bit studios - The Alters: Last Variable DLC! https://www.reddit.com/r/Games/comments/1uw56uh/ama_11_bit_studios_the_alters_last_variable_dlc/
 2026-07-14T11:32:16+00:00	After Empulse Early Access Launch, 1047 Games Has More Layoffs https://www.reddit.com/r/Games/comments/1uw6214/after_empulse_early_access_launch_1047_games_has/
+2026-07-14T13:04:40+00:00	The King Is Watching | Console Release Date Trailer https://www.reddit.com/r/Games/comments/1uw84mm/the_king_is_watching_console_release_date_trailer/
+2026-07-14T13:04:51+00:00	D-topia | Launch Trailer https://www.reddit.com/r/Games/comments/1uw84rn/dtopia_launch_trailer/
+2026-07-14T13:45:35+00:00	Dying Light: The Beast Cancelled for PS4 and Xbox One Consoles, 10 Months After Current-Gen Launch https://www.reddit.com/r/Games/comments/1uw95j8/dying_light_the_beast_cancelled_for_ps4_and_xbox/
+2026-07-14T14:03:28+00:00	The Outlast Trials - Project Boneyard | Season 7 Gameplay Trailer https://www.reddit.com/r/Games/comments/1uw9mlr/the_outlast_trials_project_boneyard_season_7/

@@ -3,9 +3,6 @@
 # source = https://www.gamesindustry.biz/feed
 # description = twtxt conversion of https://www.gamesindustry.biz/feed
 
-2026-07-02T13:33:27+00:00	"The goal isn't to build something that burns brightly for a few years and disappears" – Cosmic Division CEO on launching a "responsibly ambitious" studio https://www.gamesindustry.biz/the-goal-isnt-to-build-something-that-burns-brightly-for-a-few-years-and-disappears-cosmic-division-ceo-on-launching-a-responsibly-ambitious-studio
-2026-07-02T13:43:31+00:00	Save the date: the GamesIndustry.biz HR Summit returns in October https://www.gamesindustry.biz/save-the-date-the-gamesindustrybiz-hr-summit-returns-in-october
-2026-07-03T07:23:59+00:00	Thick as Thieves dev OtherSide Entertainment impacted by further layoffs https://www.gamesindustry.biz/thick-as-thieves-dev-otherside-entertainment-impacted-by-further-layoffs
 2026-07-03T08:45:04+00:00	Jobs roundup: July 2026 | Robert Henrysson steps down as Supermassive Games CEO https://www.gamesindustry.biz/jobs-roundup-july-2026-robert-henrysson-steps-down-as-supermassive-games-ceo
 2026-07-03T12:22:42+00:00	"We are profoundly disappointed by Sony's decision" – Game companies express dismay at the end of PlayStation disc production https://www.gamesindustry.biz/we-are-profoundly-disappointed-by-sonys-decision-game-companies-express-dismay-at-the-end-of-playstation-disc-production
 2026-07-03T13:34:54+00:00	New studio //18.bravo is aiming for a "radically different approach" to game development https://www.gamesindustry.biz/industry-veteran-robert-bowling-launches-new-developer-18bravo
@@ -52,4 +49,7 @@
 2026-07-13T13:13:28+00:00	Analyst: Game console shipments expected to decline 19.5% to 33.9m units in 2026 https://www.gamesindustry.biz/analyst-game-console-shipments-expected-to-decline-195-to-339m-units-in-2026
 2026-07-14T09:20:04+00:00	Ubisoft pivots to "selective model" to reduce reliance on individual game launches https://www.gamesindustry.biz/ubisoft-pivots-to-selective-model-to-reduce-reliance-on-individual-game-launches
 2026-07-14T10:17:12+00:00	Former Epic Games VP Steve Allison appointed chief business officer at Saber Interactive https://www.gamesindustry.biz/former-epic-games-vp-steve-allison-appointed-chief-business-officer-at-saber-interactive
-2026-07-14T10:30:00+00:00	How Evil Trout aims to turn a cult free game into a Steam hit - again https://www.gamesindustry.biz/how-evil-trout-aims-to-turn-a-cult-free-game-into-a-steam-hit-again
+2026-07-14T10:30:00+00:00	How Evil Trout aims to turn a cult free game into a Steam hit – again https://www.gamesindustry.biz/how-evil-trout-aims-to-turn-a-cult-free-game-into-a-steam-hit-again
+2026-07-14T13:00:00+00:00	"It's not like the Eye of Sauron is looking at everything we're doing" – Silent Hill F developer NeoBards on why trust is essential for co-dev https://www.gamesindustry.biz/its-not-like-the-eye-of-sauron-is-looking-at-everything-were-doing-silent-hill-f-developer-neobards-on-why-trust-is-essential-for-co-dev
+2026-07-14T13:03:49+00:00	Compulsion Games seeks new partnerships following spin-out from from Xbox https://www.gamesindustry.biz/compulsion-games-seeks-new-partnerships-following-spin-out-from-from-xbox
+2026-07-14T14:09:53+00:00	Aream & Co: Gaming M&A hits $2.3bn in Q2, highest level since 2022 https://www.gamesindustry.biz/aream-co-gaming-ma-hits-23bn-in-q2-highest-level-since-2022
