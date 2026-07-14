@@ -3,14 +3,11 @@
 # source = https://www.reddit.com/r/Games.rss
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
-2026-07-11T21:47:26+00:00	Ryse: Son of Rome Had Plans To Be Xbox’s Assassin’s Creed https://www.reddit.com/r/Games/comments/1utwojr/ryse_son_of_rome_had_plans_to_be_xboxs_assassins/
-2026-07-11T22:32:52+00:00	TennoCon 2026 | Warframe: Tau | Official Trailer https://www.reddit.com/r/Games/comments/1utxqet/tennocon_2026_warframe_tau_official_trailer/
 2026-07-12T06:32:33+00:00	SGDQ 2026 has just concluded, raising more than $2,408,701 for Doctors Without Borders / Médecins Sans Frontières (MSF) https://www.reddit.com/r/Games/comments/1uu7n13/sgdq_2026_has_just_concluded_raising_more_than/
 2026-07-12T09:00:30+00:00	Weekly /r/Games Discussion - What have you been playing, and what are your thoughts? - July 12, 2026 https://www.reddit.com/r/Games/comments/1uua87j/weekly_rgames_discussion_what_have_you_been/
 2026-07-12T12:21:57+00:00	Famously buggy Assassin's Creed Unity "is one of the most underestimated games in the series," says lead who admits its "launch was a huge challenge" https://www.reddit.com/r/Games/comments/1uue05u/famously_buggy_assassins_creed_unity_is_one_of/
 2026-07-12T15:31:13+00:00	Assassin's Creed franchise has sold over 250M units worldwide https://www.reddit.com/r/Games/comments/1uuilyi/assassins_creed_franchise_has_sold_over_250m/
 2026-07-12T16:03:02+00:00	I.T.C.B. - Interstellar Trade Compliance Bureau - Baseless Assumption Studio - Resource Management Simulation https://www.reddit.com/r/Games/comments/1uujgck/itcb_interstellar_trade_compliance_bureau/
-2026-07-12T17:28:02+00:00	Campwood - Hidden Button - Fun co-op wilderness survival game full of mystery https://www.reddit.com/r/Games/comments/1uulr17/campwood_hidden_button_fun_coop_wilderness/
 2026-07-12T17:51:26+00:00	Database Detective: Minor Crimes Division - Thomas Hsu - solve minor misdemeanors with real SQL queries https://www.reddit.com/r/Games/comments/1uumdxt/database_detective_minor_crimes_division_thomas/
 2026-07-12T23:12:57+00:00	Former PlayStation boss thinks "we've lost a lot of the variety in games," and we can thank the "rising cost" of new titles for that: "We had so many crazy games on PS1" https://www.reddit.com/r/Games/comments/1uuumeh/former_playstation_boss_thinks_weve_lost_a_lot_of/
 2026-07-13T07:28:32+00:00	Mexican Lawmakers to File Antitrust Complaint Against PlayStation and Sony Over PS Store Following the Potential End of Physical Games https://www.reddit.com/r/Games/comments/1uv4lqi/mexican_lawmakers_to_file_antitrust_complaint/
@@ -28,3 +25,6 @@
 2026-07-13T20:25:22+00:00	How a Second-Grade Teacher Revived a Beloved Video Game https://www.reddit.com/r/Games/comments/1uvn5ha/how_a_secondgrade_teacher_revived_a_beloved_video/
 2026-07-14T00:08:30+00:00	[Modern Vintage Gamer] I was wrong. DOOM runs on everything, even Neo Geo! https://www.reddit.com/r/Games/comments/1uvst8g/modern_vintage_gamer_i_was_wrong_doom_runs_on/
 2026-07-14T00:52:25+00:00	Ubisoft Connect went down briefly and made Assassin's Creed Black Flag Resynced unplayable on PC, despite having an offline mode https://www.reddit.com/r/Games/comments/1uvtt3x/ubisoft_connect_went_down_briefly_and_made/
+2026-07-14T10:15:27+00:00	Pioneering 3D Survival Horror "Ecstatica" and other classic PC Games getting re-releases on Steam and GOG https://www.reddit.com/r/Games/comments/1uw4kia/pioneering_3d_survival_horror_ecstatica_and_other/
+2026-07-14T10:48:33+00:00	AMA: 11 bit studios - The Alters: Last Variable DLC! https://www.reddit.com/r/Games/comments/1uw56uh/ama_11_bit_studios_the_alters_last_variable_dlc/
+2026-07-14T11:32:16+00:00	After Empulse Early Access Launch, 1047 Games Has More Layoffs https://www.reddit.com/r/Games/comments/1uw6214/after_empulse_early_access_launch_1047_games_has/

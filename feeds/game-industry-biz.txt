@@ -3,9 +3,6 @@
 # source = https://www.gamesindustry.biz/feed
 # description = twtxt conversion of https://www.gamesindustry.biz/feed
 
-2026-07-02T08:53:14+00:00	Kepler Interactive acquires stake in indie publisher Oro Interactive from venture capital firm https://www.gamesindustry.biz/kepler-interactive-acquires-stake-in-indie-publisher-oro-interactive-from-venture-capital-firm
-2026-07-02T12:00:00+00:00	Sega Europe vet Jurgen Post steps down as West Studios COO, Rovio's Alex Pelletier-Normand taking his place https://www.gamesindustry.biz/sega-europe-vet-post-steps-down-as-west-studios-coo-rovios-pelletier-normand-taking-his-place
-2026-07-02T13:00:00+00:00	Creator-distributed discount codes drive massive uptake of game storefronts, according to new Tebex data https://www.gamesindustry.biz/creator-distributed-discount-codes-drive-massive-uptake-of-game-storefronts-according-to-new-tebex-data
 2026-07-02T13:33:27+00:00	"The goal isn't to build something that burns brightly for a few years and disappears" – Cosmic Division CEO on launching a "responsibly ambitious" studio https://www.gamesindustry.biz/the-goal-isnt-to-build-something-that-burns-brightly-for-a-few-years-and-disappears-cosmic-division-ceo-on-launching-a-responsibly-ambitious-studio
 2026-07-02T13:43:31+00:00	Save the date: the GamesIndustry.biz HR Summit returns in October https://www.gamesindustry.biz/save-the-date-the-gamesindustrybiz-hr-summit-returns-in-october
 2026-07-03T07:23:59+00:00	Thick as Thieves dev OtherSide Entertainment impacted by further layoffs https://www.gamesindustry.biz/thick-as-thieves-dev-otherside-entertainment-impacted-by-further-layoffs
@@ -53,3 +50,6 @@
 2026-07-13T11:01:00+00:00	Welcome to ExDev Week https://www.gamesindustry.biz/welcome-to-exdev-week
 2026-07-13T11:02:00+00:00	What does the future of external development look like? https://www.gamesindustry.biz/what-does-the-future-of-external-development-look-like
 2026-07-13T13:13:28+00:00	Analyst: Game console shipments expected to decline 19.5% to 33.9m units in 2026 https://www.gamesindustry.biz/analyst-game-console-shipments-expected-to-decline-195-to-339m-units-in-2026
+2026-07-14T09:20:04+00:00	Ubisoft pivots to "selective model" to reduce reliance on individual game launches https://www.gamesindustry.biz/ubisoft-pivots-to-selective-model-to-reduce-reliance-on-individual-game-launches
+2026-07-14T10:17:12+00:00	Former Epic Games VP Steve Allison appointed chief business officer at Saber Interactive https://www.gamesindustry.biz/former-epic-games-vp-steve-allison-appointed-chief-business-officer-at-saber-interactive
+2026-07-14T10:30:00+00:00	How Evil Trout aims to turn a cult free game into a Steam hit - again https://www.gamesindustry.biz/how-evil-trout-aims-to-turn-a-cult-free-game-into-a-steam-hit-again
