@@ -4,16 +4,12 @@
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
 2026-07-12T09:00:30+00:00	Weekly /r/Games Discussion - What have you been playing, and what are your thoughts? - July 12, 2026 https://www.reddit.com/r/Games/comments/1uua87j/weekly_rgames_discussion_what_have_you_been/
-2026-07-12T23:12:57+00:00	Former PlayStation boss thinks "we've lost a lot of the variety in games," and we can thank the "rising cost" of new titles for that: "We had so many crazy games on PS1" https://www.reddit.com/r/Games/comments/1uuumeh/former_playstation_boss_thinks_weve_lost_a_lot_of/
 2026-07-13T07:28:32+00:00	Mexican Lawmakers to File Antitrust Complaint Against PlayStation and Sony Over PS Store Following the Potential End of Physical Games https://www.reddit.com/r/Games/comments/1uv4lqi/mexican_lawmakers_to_file_antitrust_complaint/
-2026-07-13T11:29:12+00:00	Octopath Traveler and Octopath Traveler II are coming to Nintendo Switch 2 today digitally https://www.reddit.com/r/Games/comments/1uv8w4x/octopath_traveler_and_octopath_traveler_ii_are/
 2026-07-13T16:29:53+00:00	PS5 Emulator Reaches GTA V Menus, Quake II Gameplay, As First 3D Games Load On PC https://www.reddit.com/r/Games/comments/1uvgh7r/ps5_emulator_reaches_gta_v_menus_quake_ii/
 2026-07-13T16:31:00+00:00	Agent 64: Spies Never Die - Release Date Trailer https://www.reddit.com/r/Games/comments/1uvgihu/agent_64_spies_never_die_release_date_trailer/
 2026-07-13T17:02:39+00:00	The Alters: Last Variable | Launch Trailer https://www.reddit.com/r/Games/comments/1uvhejw/the_alters_last_variable_launch_trailer/
-2026-07-13T17:05:54+00:00	MARVEL Tōkon: Fighting Souls | Spider-Man Character Guide https://www.reddit.com/r/Games/comments/1uvhhsk/marvel_tōkon_fighting_souls_spiderman_character/
 2026-07-13T17:59:15+00:00	Why Big Game Companies Don't Make Small Games https://www.reddit.com/r/Games/comments/1uvj0c3/why_big_game_companies_dont_make_small_games/
 2026-07-13T19:57:15+00:00	Beast of Reincarnation Preview Thread https://www.reddit.com/r/Games/comments/1uvmd2j/beast_of_reincarnation_preview_thread/
-2026-07-13T20:25:22+00:00	How a Second-Grade Teacher Revived a Beloved Video Game https://www.reddit.com/r/Games/comments/1uvn5ha/how_a_secondgrade_teacher_revived_a_beloved_video/
 2026-07-14T00:52:25+00:00	Ubisoft Connect went down briefly and made Assassin's Creed Black Flag Resynced unplayable on PC, despite having an offline mode https://www.reddit.com/r/Games/comments/1uvtt3x/ubisoft_connect_went_down_briefly_and_made/
 2026-07-14T10:15:27+00:00	Pioneering 3D Survival Horror "Ecstatica" and other classic PC Games getting re-releases on Steam and GOG https://www.reddit.com/r/Games/comments/1uw4kia/pioneering_3d_survival_horror_ecstatica_and_other/
 2026-07-14T10:48:33+00:00	AMA: 11 bit studios - The Alters: Last Variable DLC! https://www.reddit.com/r/Games/comments/1uw56uh/ama_11_bit_studios_the_alters_last_variable_dlc/
@@ -28,3 +24,7 @@
 2026-07-14T17:20:02+00:00	Capy Castaway Release Date Announcement Trailer https://www.reddit.com/r/Games/comments/1uwf28e/capy_castaway_release_date_announcement_trailer/
 2026-07-14T17:46:24+00:00	Fortnite x DC Summer Collaboration Revealed (Hot Bat Summer: Includes Batman, Catwoman, Harley Quinn, and Poison Ivy Swimsuit Skins). - Release Date (July 16), Price & First Look. https://www.reddit.com/r/Games/comments/1uwft5c/fortnite_x_dc_summer_collaboration_revealed_hot/
 2026-07-14T19:46:47+00:00	Dragon’s Dogma 2 performance on Switch 2 is ‘exceeding our expectations’, says producer https://www.reddit.com/r/Games/comments/1uwj6yx/dragons_dogma_2_performance_on_switch_2_is/
+2026-07-14T23:29:32+00:00	EFF: Sony Nerfs Videogame Ownership https://www.reddit.com/r/Games/comments/1uwp0ba/eff_sony_nerfs_videogame_ownership/
+2026-07-14T23:36:05+00:00	Dead Space Creator Glen Schofield Announces Retirement https://www.reddit.com/r/Games/comments/1uwp5vr/dead_space_creator_glen_schofield_announces/
+2026-07-14T23:46:45+00:00	Gaslamp Games Under New Management; Announces Surprise Public Beta of New Dredmor Patch https://www.reddit.com/r/Games/comments/1uwpest/gaslamp_games_under_new_management_announces/
+2026-07-14T23:55:55+00:00	Expeditions: Samurai | Companions Trailer https://www.reddit.com/r/Games/comments/1uwpma7/expeditions_samurai_companions_trailer/
