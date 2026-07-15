@@ -3,10 +3,7 @@
 # source = https://www.reddit.com/r/Games.rss
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
-2026-07-12T09:00:30+00:00	Weekly /r/Games Discussion - What have you been playing, and what are your thoughts? - July 12, 2026 https://www.reddit.com/r/Games/comments/1uua87j/weekly_rgames_discussion_what_have_you_been/
 2026-07-13T16:29:53+00:00	PS5 Emulator Reaches GTA V Menus, Quake II Gameplay, As First 3D Games Load On PC https://www.reddit.com/r/Games/comments/1uvgh7r/ps5_emulator_reaches_gta_v_menus_quake_ii/
-2026-07-13T17:59:15+00:00	Why Big Game Companies Don't Make Small Games https://www.reddit.com/r/Games/comments/1uvj0c3/why_big_game_companies_dont_make_small_games/
-2026-07-13T19:57:15+00:00	Beast of Reincarnation Preview Thread https://www.reddit.com/r/Games/comments/1uvmd2j/beast_of_reincarnation_preview_thread/
 2026-07-14T00:52:25+00:00	Ubisoft Connect went down briefly and made Assassin's Creed Black Flag Resynced unplayable on PC, despite having an offline mode https://www.reddit.com/r/Games/comments/1uvtt3x/ubisoft_connect_went_down_briefly_and_made/
 2026-07-14T10:15:27+00:00	Pioneering 3D Survival Horror "Ecstatica" and other classic PC Games getting re-releases on Steam and GOG https://www.reddit.com/r/Games/comments/1uw4kia/pioneering_3d_survival_horror_ecstatica_and_other/
 2026-07-14T10:48:33+00:00	AMA: 11 bit studios - The Alters: Last Variable DLC! https://www.reddit.com/r/Games/comments/1uw56uh/ama_11_bit_studios_the_alters_last_variable_dlc/
@@ -14,13 +11,11 @@
 2026-07-14T13:04:40+00:00	The King Is Watching | Console Release Date Trailer https://www.reddit.com/r/Games/comments/1uw84mm/the_king_is_watching_console_release_date_trailer/
 2026-07-14T13:04:51+00:00	D-topia | Launch Trailer https://www.reddit.com/r/Games/comments/1uw84rn/dtopia_launch_trailer/
 2026-07-14T13:45:35+00:00	Dying Light: The Beast Cancelled for PS4 and Xbox One Consoles, 10 Months After Current-Gen Launch https://www.reddit.com/r/Games/comments/1uw95j8/dying_light_the_beast_cancelled_for_ps4_and_xbox/
-2026-07-14T14:03:28+00:00	The Outlast Trials - Project Boneyard | Season 7 Gameplay Trailer https://www.reddit.com/r/Games/comments/1uw9mlr/the_outlast_trials_project_boneyard_season_7/
 2026-07-14T15:16:25+00:00	Battlefield 6 Season 4 Naval Official Gameplay Trailer https://www.reddit.com/r/Games/comments/1uwblh5/battlefield_6_season_4_naval_official_gameplay/
 2026-07-14T16:25:14+00:00	Monster Hunter Wilds is getting a "permanent price reduction" and new DLC bundles as Capcom looks to further recover from a year of middling reviews https://www.reddit.com/r/Games/comments/1uwdiu1/monster_hunter_wilds_is_getting_a_permanent_price/
 2026-07-14T17:19:30+00:00	PlayStation FlexStrike Fight Stick Delayed Due to "Unexpected" Production Issues https://www.reddit.com/r/Games/comments/1uwf1o3/playstation_flexstrike_fight_stick_delayed_due_to/
 2026-07-14T17:20:02+00:00	Capy Castaway Release Date Announcement Trailer https://www.reddit.com/r/Games/comments/1uwf28e/capy_castaway_release_date_announcement_trailer/
 2026-07-14T17:46:24+00:00	Fortnite x DC Summer Collaboration Revealed (Hot Bat Summer: Includes Batman, Catwoman, Harley Quinn, and Poison Ivy Swimsuit Skins). - Release Date (July 16), Price & First Look. https://www.reddit.com/r/Games/comments/1uwft5c/fortnite_x_dc_summer_collaboration_revealed_hot/
-2026-07-14T19:46:47+00:00	Dragon’s Dogma 2 performance on Switch 2 is ‘exceeding our expectations’, says producer https://www.reddit.com/r/Games/comments/1uwj6yx/dragons_dogma_2_performance_on_switch_2_is/
 2026-07-14T23:29:32+00:00	EFF: Sony Nerfs Videogame Ownership https://www.reddit.com/r/Games/comments/1uwp0ba/eff_sony_nerfs_videogame_ownership/
 2026-07-14T23:36:05+00:00	Dead Space Creator Glen Schofield Announces Retirement https://www.reddit.com/r/Games/comments/1uwp5vr/dead_space_creator_glen_schofield_announces/
 2026-07-14T23:46:45+00:00	Gaslamp Games Under New Management; Announces Surprise Public Beta of New Dredmor Patch https://www.reddit.com/r/Games/comments/1uwpest/gaslamp_games_under_new_management_announces/
@@ -28,3 +23,8 @@
 2026-07-15T05:35:16+00:00	Angelique: Heaven's Requiem - The First Otome RPG https://www.reddit.com/r/Games/comments/1uwwqrq/angelique_heavens_requiem_the_first_otome_rpg/
 2026-07-15T05:36:06+00:00	Beast of Reincarnation | Combat Overview https://www.reddit.com/r/Games/comments/1uwwrc3/beast_of_reincarnation_combat_overview/
 2026-07-15T07:36:38+00:00	Tides of Annihilation - Official gamescom 2026 Announcement Trailer https://www.reddit.com/r/Games/comments/1uwyy2s/tides_of_annihilation_official_gamescom_2026/
+2026-07-15T09:30:55+00:00	Xbox workers stunned after jobs 'bloodbath' https://www.reddit.com/r/Games/comments/1ux0x3v/xbox_workers_stunned_after_jobs_bloodbath/
+2026-07-15T10:05:29+00:00	IWGB Game Workers announce ‘Redundancies Taskforce’ amid year of mass layoffs - IWGB Game Workers https://www.reddit.com/r/Games/comments/1ux1j90/iwgb_game_workers_announce_redundancies_taskforce/
+2026-07-15T10:14:14+00:00	Where Winds Meet - Official Hidden Mountain Concept Trailer https://www.reddit.com/r/Games/comments/1ux1p0o/where_winds_meet_official_hidden_mountain_concept/
+2026-07-15T11:01:04+00:00	Daily /r/Games Discussion - Suggest Me a Game - July 15, 2026 https://www.reddit.com/r/Games/comments/1ux2lj0/daily_rgames_discussion_suggest_me_a_game_july_15/
+2026-07-15T11:24:02+00:00	Valve Silently Discontinues Steam Deck LCD Spares at iFixit https://www.reddit.com/r/Games/comments/1ux3286/valve_silently_discontinues_steam_deck_lcd_spares/
