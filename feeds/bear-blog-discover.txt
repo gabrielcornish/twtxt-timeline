@@ -3,7 +3,6 @@
 # source = https://bearblog.dev/discover/feed/
 # description = twtxt conversion of https://bearblog.dev/discover/feed/
 
-2026-07-09T16:39:00+00:00	the internet is becoming increasingly hostile towards VPNs https://blog.basementcommunity.com/the-internet-is-increasingly-hostile-towards-vpns/
 2026-07-09T16:44:00+00:00	QUICK & EASY covers/posters/etc. WITHOUT GenAI https://skaetlett.bearblog.dev/quick-easy-posters-without-ai/
 2026-07-10T01:51:55.921653+00:00	Unemployed https://toska.bearblog.dev/unemployed/
 2026-07-10T07:01:00+00:00	On K-pop and generative AI https://gogumapizza.bearblog.dev/on-k-pop-and-generative-ai/
@@ -21,5 +20,6 @@
 2026-07-13T05:48:00+00:00	The tab I've had opened longest in my browser https://blog.lauramichet.com/the-tab-ive-had-opened-longest-in-my-browser/
 2026-07-13T09:55:00+00:00	Re: An Infuriating Goodbye to Photoshop https://onlinegoddess.net/2026/07/re-an-infuriating-goodbye-to-photoshop/
 2026-07-13T14:55:00+00:00	I started a "dirt notebook" https://pinewind.bearblog.dev/i-started-a-dirt-notebook/
+2026-07-13T21:41:00+00:00	At last, satisfaction https://bitsofthis.bearblog.dev/greetings-people-of-bear/
 2026-07-13T23:47:00+00:00	Sex is better with Bear https://futureperfect.bearblog.dev/sex-is-better-with-bear/
 2026-07-14T20:18:00+00:00	are "no AI" disclaimers really necessary? https://blog.basementcommunity.com/are-no-ai-disclaimers-really-necessary/
