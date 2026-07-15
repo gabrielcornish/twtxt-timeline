@@ -4,14 +4,11 @@
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
 2026-07-14T10:48:33+00:00	AMA: 11 bit studios - The Alters: Last Variable DLC! https://www.reddit.com/r/Games/comments/1uw56uh/ama_11_bit_studios_the_alters_last_variable_dlc/
-2026-07-14T13:45:35+00:00	Dying Light: The Beast Cancelled for PS4 and Xbox One Consoles, 10 Months After Current-Gen Launch https://www.reddit.com/r/Games/comments/1uw95j8/dying_light_the_beast_cancelled_for_ps4_and_xbox/
-2026-07-14T15:16:25+00:00	Battlefield 6 Season 4 Naval Official Gameplay Trailer https://www.reddit.com/r/Games/comments/1uwblh5/battlefield_6_season_4_naval_official_gameplay/
 2026-07-14T16:25:14+00:00	Monster Hunter Wilds is getting a "permanent price reduction" and new DLC bundles as Capcom looks to further recover from a year of middling reviews https://www.reddit.com/r/Games/comments/1uwdiu1/monster_hunter_wilds_is_getting_a_permanent_price/
 2026-07-14T23:29:32+00:00	EFF: Sony Nerfs Videogame Ownership https://www.reddit.com/r/Games/comments/1uwp0ba/eff_sony_nerfs_videogame_ownership/
 2026-07-14T23:36:05+00:00	Dead Space Creator Glen Schofield Announces Retirement https://www.reddit.com/r/Games/comments/1uwp5vr/dead_space_creator_glen_schofield_announces/
 2026-07-15T05:36:06+00:00	Beast of Reincarnation | Combat Overview https://www.reddit.com/r/Games/comments/1uwwrc3/beast_of_reincarnation_combat_overview/
 2026-07-15T07:36:38+00:00	Tides of Annihilation - Official gamescom 2026 Announcement Trailer https://www.reddit.com/r/Games/comments/1uwyy2s/tides_of_annihilation_official_gamescom_2026/
-2026-07-15T10:05:29+00:00	IWGB Game Workers announce ‘Redundancies Taskforce’ amid year of mass layoffs - IWGB Game Workers https://www.reddit.com/r/Games/comments/1ux1j90/iwgb_game_workers_announce_redundancies_taskforce/
 2026-07-15T11:01:04+00:00	Daily /r/Games Discussion - Suggest Me a Game - July 15, 2026 https://www.reddit.com/r/Games/comments/1ux2lj0/daily_rgames_discussion_suggest_me_a_game_july_15/
 2026-07-15T11:24:02+00:00	Valve Silently Discontinues Steam Deck LCD Spares at iFixit https://www.reddit.com/r/Games/comments/1ux3286/valve_silently_discontinues_steam_deck_lcd_spares/
 2026-07-15T11:54:12+00:00	Inside the latest round of mass layoffs at Xbox https://www.reddit.com/r/Games/comments/1ux3otc/inside_the_latest_round_of_mass_layoffs_at_xbox/
@@ -28,3 +25,6 @@
 2026-07-15T16:25:06+00:00	Dispatch Finally Lands on Xbox This Month, Uncensored Scenes and All https://www.reddit.com/r/Games/comments/1uxas44/dispatch_finally_lands_on_xbox_this_month/
 2026-07-15T17:04:08+00:00	Made With GameMaker 2026 Showreel https://www.reddit.com/r/Games/comments/1uxbwkm/made_with_gamemaker_2026_showreel/
 2026-07-15T17:20:08+00:00	Denshattack! - Launch Trailer! https://www.reddit.com/r/Games/comments/1uxcd5v/denshattack_launch_trailer/
+2026-07-15T17:29:35+00:00	PlayStation Plus Game Catalog for July – Avatar: Frontiers of Pandora, Rise of the Ronin, Firefighting Simulator: Ignite and more https://www.reddit.com/r/Games/comments/1uxcmpe/playstation_plus_game_catalog_for_july_avatar/
+2026-07-15T17:50:41+00:00	More People Are Playing Meccha Chameleon Knock-Offs Than The Original Hit Steam Game As The Roblox Clone Machine Goes Into Overdrive https://www.reddit.com/r/Games/comments/1uxd8by/more_people_are_playing_meccha_chameleon/
+2026-07-15T18:35:49+00:00	Rayman Origins: Enhanced Edition - Gameplay Trailer https://www.reddit.com/r/Games/comments/1uxei80/rayman_origins_enhanced_edition_gameplay_trailer/
