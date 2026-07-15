@@ -3,21 +3,14 @@
 # source = https://www.reddit.com/r/Games.rss
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
-2026-07-14T00:52:25+00:00	Ubisoft Connect went down briefly and made Assassin's Creed Black Flag Resynced unplayable on PC, despite having an offline mode https://www.reddit.com/r/Games/comments/1uvtt3x/ubisoft_connect_went_down_briefly_and_made/
 2026-07-14T10:48:33+00:00	AMA: 11 bit studios - The Alters: Last Variable DLC! https://www.reddit.com/r/Games/comments/1uw56uh/ama_11_bit_studios_the_alters_last_variable_dlc/
-2026-07-14T11:32:16+00:00	After Empulse Early Access Launch, 1047 Games Has More Layoffs https://www.reddit.com/r/Games/comments/1uw6214/after_empulse_early_access_launch_1047_games_has/
-2026-07-14T13:04:40+00:00	The King Is Watching | Console Release Date Trailer https://www.reddit.com/r/Games/comments/1uw84mm/the_king_is_watching_console_release_date_trailer/
 2026-07-14T13:45:35+00:00	Dying Light: The Beast Cancelled for PS4 and Xbox One Consoles, 10 Months After Current-Gen Launch https://www.reddit.com/r/Games/comments/1uw95j8/dying_light_the_beast_cancelled_for_ps4_and_xbox/
 2026-07-14T15:16:25+00:00	Battlefield 6 Season 4 Naval Official Gameplay Trailer https://www.reddit.com/r/Games/comments/1uwblh5/battlefield_6_season_4_naval_official_gameplay/
 2026-07-14T16:25:14+00:00	Monster Hunter Wilds is getting a "permanent price reduction" and new DLC bundles as Capcom looks to further recover from a year of middling reviews https://www.reddit.com/r/Games/comments/1uwdiu1/monster_hunter_wilds_is_getting_a_permanent_price/
-2026-07-14T17:19:30+00:00	PlayStation FlexStrike Fight Stick Delayed Due to "Unexpected" Production Issues https://www.reddit.com/r/Games/comments/1uwf1o3/playstation_flexstrike_fight_stick_delayed_due_to/
-2026-07-14T17:20:02+00:00	Capy Castaway Release Date Announcement Trailer https://www.reddit.com/r/Games/comments/1uwf28e/capy_castaway_release_date_announcement_trailer/
-2026-07-14T17:46:24+00:00	Fortnite x DC Summer Collaboration Revealed (Hot Bat Summer: Includes Batman, Catwoman, Harley Quinn, and Poison Ivy Swimsuit Skins). - Release Date (July 16), Price & First Look. https://www.reddit.com/r/Games/comments/1uwft5c/fortnite_x_dc_summer_collaboration_revealed_hot/
 2026-07-14T23:29:32+00:00	EFF: Sony Nerfs Videogame Ownership https://www.reddit.com/r/Games/comments/1uwp0ba/eff_sony_nerfs_videogame_ownership/
 2026-07-14T23:36:05+00:00	Dead Space Creator Glen Schofield Announces Retirement https://www.reddit.com/r/Games/comments/1uwp5vr/dead_space_creator_glen_schofield_announces/
 2026-07-14T23:46:45+00:00	Gaslamp Games Under New Management; Announces Surprise Public Beta of New Dredmor Patch https://www.reddit.com/r/Games/comments/1uwpest/gaslamp_games_under_new_management_announces/
 2026-07-14T23:55:55+00:00	Expeditions: Samurai | Companions Trailer https://www.reddit.com/r/Games/comments/1uwpma7/expeditions_samurai_companions_trailer/
-2026-07-15T05:35:16+00:00	Angelique: Heaven's Requiem - The First Otome RPG https://www.reddit.com/r/Games/comments/1uwwqrq/angelique_heavens_requiem_the_first_otome_rpg/
 2026-07-15T05:36:06+00:00	Beast of Reincarnation | Combat Overview https://www.reddit.com/r/Games/comments/1uwwrc3/beast_of_reincarnation_combat_overview/
 2026-07-15T07:36:38+00:00	Tides of Annihilation - Official gamescom 2026 Announcement Trailer https://www.reddit.com/r/Games/comments/1uwyy2s/tides_of_annihilation_official_gamescom_2026/
 2026-07-15T10:05:29+00:00	IWGB Game Workers announce ‘Redundancies Taskforce’ amid year of mass layoffs - IWGB Game Workers https://www.reddit.com/r/Games/comments/1ux1j90/iwgb_game_workers_announce_redundancies_taskforce/
@@ -26,5 +19,12 @@
 2026-07-15T11:54:12+00:00	Inside the latest round of mass layoffs at Xbox https://www.reddit.com/r/Games/comments/1ux3otc/inside_the_latest_round_of_mass_layoffs_at_xbox/
 2026-07-15T12:26:36+00:00	Once Upon A KATAMARI on Nintendo Switch™ 2 Version & Rolling LIVE Highlights DLC Announcement https://www.reddit.com/r/Games/comments/1ux4f2s/once_upon_a_katamari_on_nintendo_switch_2_version/
 2026-07-15T12:27:21+00:00	The Incident at Galley House Trailer https://www.reddit.com/r/Games/comments/1ux4fpc/the_incident_at_galley_house_trailer/
-2026-07-15T13:00:46+00:00	Announcing Mario Kart Wiicompiled https://www.reddit.com/r/Games/comments/1ux578d/announcing_mario_kart_wiicompiled/
 2026-07-15T14:02:44+00:00	Emberville: Official Early Access Release Date Trailer https://www.reddit.com/r/Games/comments/1ux6s1v/emberville_official_early_access_release_date/
+2026-07-15T14:13:58+00:00	Suzerain Stories: The Neutral Lens DLC | Official Teaser https://www.reddit.com/r/Games/comments/1ux72nh/suzerain_stories_the_neutral_lens_dlc_official/
+2026-07-15T14:14:07+00:00	Jason Schreier: The Xbox Bloodbath Is Actually Way Bigger Than It Seems https://www.reddit.com/r/Games/comments/1ux72so/jason_schreier_the_xbox_bloodbath_is_actually_way/
+2026-07-15T14:16:51+00:00	Wars of Suzerain | Official Teaser https://www.reddit.com/r/Games/comments/1ux75in/wars_of_suzerain_official_teaser/
+2026-07-15T14:18:18+00:00	Suzerain: Socialist Republic of Galmland DLC | Official Teaser https://www.reddit.com/r/Games/comments/1ux76wn/suzerain_socialist_republic_of_galmland_dlc/
+2026-07-15T14:22:36+00:00	The Duskbloods - Network Test is between August 21 and August 24, Registration opens next week. https://www.reddit.com/r/Games/comments/1ux7b8s/the_duskbloods_network_test_is_between_august_21/
+2026-07-15T14:27:39+00:00	Emberville - Voice Cast Reveal https://www.reddit.com/r/Games/comments/1ux7g64/emberville_voice_cast_reveal/
+2026-07-15T14:37:04+00:00	The Blood of Dawnwalker has gone gold. https://www.reddit.com/r/Games/comments/1ux7pfd/the_blood_of_dawnwalker_has_gone_gold/
+2026-07-15T15:26:24+00:00	Denshattack! Review Thread https://www.reddit.com/r/Games/comments/1ux91tq/denshattack_review_thread/

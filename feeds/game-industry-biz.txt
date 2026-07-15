@@ -3,7 +3,6 @@
 # source = https://www.gamesindustry.biz/feed
 # description = twtxt conversion of https://www.gamesindustry.biz/feed
 
-2026-07-03T13:35:07+00:00	Where did all the UK game events go? https://www.gamesindustry.biz/where-did-all-the-uk-game-events-go
 2026-07-03T15:19:54+00:00	What kind of PS6 could justify a $1,000 price tag? | Opinion https://www.gamesindustry.biz/what-kind-of-ps6-could-justify-a-1000-price-tag-opinion
 2026-07-06T07:48:10+00:00	Sony clarifies re-order support for existing PlayStation discs https://www.gamesindustry.biz/sony-clarifies-re-order-support-for-existing-playstation-discs
 2026-07-06T09:46:40+00:00	Union launches hardship fund for laid off developers https://www.gamesindustry.biz/union-launches-hardship-fund-for-laid-off-developers
@@ -53,3 +52,4 @@
 2026-07-15T10:27:38+00:00	11 Bit Studios lays off 20 workers as it "adjusts new project teams to current needs" https://www.gamesindustry.biz/11-bit-studios-lays-off-20-workers-as-it-adjusts-new-project-teams-to-current-needs
 2026-07-15T12:00:00+00:00	What lessons have developers learned from external development? https://www.gamesindustry.biz/what-lessons-have-developers-learned-from-external-development
 2026-07-15T13:27:21+00:00	"I had a front row seat to one of the greatest creative explosions in history" – Glen Schofield announces retirement https://www.gamesindustry.biz/i-had-a-front-row-seat-to-one-of-the-greatest-creative-explosions-in-history-glen-schofield-announces-retirement
+2026-07-15T14:28:45+00:00	"We thought, well, how would we reinvent this wheel?" – Minecraft specialists 4J Studios on building a new sandbox crafting game from first principles https://www.gamesindustry.biz/we-thought-well-how-would-we-reinvent-this-wheel-minecraft-specialists-4j-studios-on-building-a-new-sandbox-crafting-game-from-first-principles
