@@ -5,7 +5,6 @@
 
 2026-07-12T09:00:30+00:00	Weekly /r/Games Discussion - What have you been playing, and what are your thoughts? - July 12, 2026 https://www.reddit.com/r/Games/comments/1uua87j/weekly_rgames_discussion_what_have_you_been/
 2026-07-13T16:29:53+00:00	PS5 Emulator Reaches GTA V Menus, Quake II Gameplay, As First 3D Games Load On PC https://www.reddit.com/r/Games/comments/1uvgh7r/ps5_emulator_reaches_gta_v_menus_quake_ii/
-2026-07-13T16:31:00+00:00	Agent 64: Spies Never Die - Release Date Trailer https://www.reddit.com/r/Games/comments/1uvgihu/agent_64_spies_never_die_release_date_trailer/
 2026-07-13T17:59:15+00:00	Why Big Game Companies Don't Make Small Games https://www.reddit.com/r/Games/comments/1uvj0c3/why_big_game_companies_dont_make_small_games/
 2026-07-13T19:57:15+00:00	Beast of Reincarnation Preview Thread https://www.reddit.com/r/Games/comments/1uvmd2j/beast_of_reincarnation_preview_thread/
 2026-07-14T00:52:25+00:00	Ubisoft Connect went down briefly and made Assassin's Creed Black Flag Resynced unplayable on PC, despite having an offline mode https://www.reddit.com/r/Games/comments/1uvtt3x/ubisoft_connect_went_down_briefly_and_made/
@@ -26,5 +25,6 @@
 2026-07-14T23:36:05+00:00	Dead Space Creator Glen Schofield Announces Retirement https://www.reddit.com/r/Games/comments/1uwp5vr/dead_space_creator_glen_schofield_announces/
 2026-07-14T23:46:45+00:00	Gaslamp Games Under New Management; Announces Surprise Public Beta of New Dredmor Patch https://www.reddit.com/r/Games/comments/1uwpest/gaslamp_games_under_new_management_announces/
 2026-07-14T23:55:55+00:00	Expeditions: Samurai | Companions Trailer https://www.reddit.com/r/Games/comments/1uwpma7/expeditions_samurai_companions_trailer/
-2026-07-15T01:42:52+00:00	Foreign Sun: The Souls-like Where All Actions Matter https://www.reddit.com/r/Games/comments/1uws0nj/foreign_sun_the_soulslike_where_all_actions_matter/
 2026-07-15T03:26:15+00:00	Box3D - a sweet new open source 3D physics engine - could bring a revival to ingame physics! https://www.reddit.com/r/Games/comments/1uwu7h9/box3d_a_sweet_new_open_source_3d_physics_engine/
+2026-07-15T05:35:16+00:00	Angelique: Heaven's Requiem - The First Otome RPG https://www.reddit.com/r/Games/comments/1uwwqrq/angelique_heavens_requiem_the_first_otome_rpg/
+2026-07-15T05:36:06+00:00	Beast of Reincarnation | Combat Overview https://www.reddit.com/r/Games/comments/1uwwrc3/beast_of_reincarnation_combat_overview/
