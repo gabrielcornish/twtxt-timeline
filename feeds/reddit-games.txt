@@ -3,13 +3,10 @@
 # source = https://www.reddit.com/r/Games.rss
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
-2026-07-13T16:29:53+00:00	PS5 Emulator Reaches GTA V Menus, Quake II Gameplay, As First 3D Games Load On PC https://www.reddit.com/r/Games/comments/1uvgh7r/ps5_emulator_reaches_gta_v_menus_quake_ii/
 2026-07-14T00:52:25+00:00	Ubisoft Connect went down briefly and made Assassin's Creed Black Flag Resynced unplayable on PC, despite having an offline mode https://www.reddit.com/r/Games/comments/1uvtt3x/ubisoft_connect_went_down_briefly_and_made/
-2026-07-14T10:15:27+00:00	Pioneering 3D Survival Horror "Ecstatica" and other classic PC Games getting re-releases on Steam and GOG https://www.reddit.com/r/Games/comments/1uw4kia/pioneering_3d_survival_horror_ecstatica_and_other/
 2026-07-14T10:48:33+00:00	AMA: 11 bit studios - The Alters: Last Variable DLC! https://www.reddit.com/r/Games/comments/1uw56uh/ama_11_bit_studios_the_alters_last_variable_dlc/
 2026-07-14T11:32:16+00:00	After Empulse Early Access Launch, 1047 Games Has More Layoffs https://www.reddit.com/r/Games/comments/1uw6214/after_empulse_early_access_launch_1047_games_has/
 2026-07-14T13:04:40+00:00	The King Is Watching | Console Release Date Trailer https://www.reddit.com/r/Games/comments/1uw84mm/the_king_is_watching_console_release_date_trailer/
-2026-07-14T13:04:51+00:00	D-topia | Launch Trailer https://www.reddit.com/r/Games/comments/1uw84rn/dtopia_launch_trailer/
 2026-07-14T13:45:35+00:00	Dying Light: The Beast Cancelled for PS4 and Xbox One Consoles, 10 Months After Current-Gen Launch https://www.reddit.com/r/Games/comments/1uw95j8/dying_light_the_beast_cancelled_for_ps4_and_xbox/
 2026-07-14T15:16:25+00:00	Battlefield 6 Season 4 Naval Official Gameplay Trailer https://www.reddit.com/r/Games/comments/1uwblh5/battlefield_6_season_4_naval_official_gameplay/
 2026-07-14T16:25:14+00:00	Monster Hunter Wilds is getting a "permanent price reduction" and new DLC bundles as Capcom looks to further recover from a year of middling reviews https://www.reddit.com/r/Games/comments/1uwdiu1/monster_hunter_wilds_is_getting_a_permanent_price/
@@ -23,8 +20,11 @@
 2026-07-15T05:35:16+00:00	Angelique: Heaven's Requiem - The First Otome RPG https://www.reddit.com/r/Games/comments/1uwwqrq/angelique_heavens_requiem_the_first_otome_rpg/
 2026-07-15T05:36:06+00:00	Beast of Reincarnation | Combat Overview https://www.reddit.com/r/Games/comments/1uwwrc3/beast_of_reincarnation_combat_overview/
 2026-07-15T07:36:38+00:00	Tides of Annihilation - Official gamescom 2026 Announcement Trailer https://www.reddit.com/r/Games/comments/1uwyy2s/tides_of_annihilation_official_gamescom_2026/
-2026-07-15T09:30:55+00:00	Xbox workers stunned after jobs 'bloodbath' https://www.reddit.com/r/Games/comments/1ux0x3v/xbox_workers_stunned_after_jobs_bloodbath/
 2026-07-15T10:05:29+00:00	IWGB Game Workers announce ‘Redundancies Taskforce’ amid year of mass layoffs - IWGB Game Workers https://www.reddit.com/r/Games/comments/1ux1j90/iwgb_game_workers_announce_redundancies_taskforce/
-2026-07-15T10:14:14+00:00	Where Winds Meet - Official Hidden Mountain Concept Trailer https://www.reddit.com/r/Games/comments/1ux1p0o/where_winds_meet_official_hidden_mountain_concept/
 2026-07-15T11:01:04+00:00	Daily /r/Games Discussion - Suggest Me a Game - July 15, 2026 https://www.reddit.com/r/Games/comments/1ux2lj0/daily_rgames_discussion_suggest_me_a_game_july_15/
 2026-07-15T11:24:02+00:00	Valve Silently Discontinues Steam Deck LCD Spares at iFixit https://www.reddit.com/r/Games/comments/1ux3286/valve_silently_discontinues_steam_deck_lcd_spares/
+2026-07-15T11:54:12+00:00	Inside the latest round of mass layoffs at Xbox https://www.reddit.com/r/Games/comments/1ux3otc/inside_the_latest_round_of_mass_layoffs_at_xbox/
+2026-07-15T12:26:36+00:00	Once Upon A KATAMARI on Nintendo Switch™ 2 Version & Rolling LIVE Highlights DLC Announcement https://www.reddit.com/r/Games/comments/1ux4f2s/once_upon_a_katamari_on_nintendo_switch_2_version/
+2026-07-15T12:27:21+00:00	The Incident at Galley House Trailer https://www.reddit.com/r/Games/comments/1ux4fpc/the_incident_at_galley_house_trailer/
+2026-07-15T13:00:46+00:00	Announcing Mario Kart Wiicompiled https://www.reddit.com/r/Games/comments/1ux578d/announcing_mario_kart_wiicompiled/
+2026-07-15T14:02:44+00:00	Emberville: Official Early Access Release Date Trailer https://www.reddit.com/r/Games/comments/1ux6s1v/emberville_official_early_access_release_date/

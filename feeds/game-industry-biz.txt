@@ -3,8 +3,6 @@
 # source = https://www.gamesindustry.biz/feed
 # description = twtxt conversion of https://www.gamesindustry.biz/feed
 
-2026-07-03T12:22:42+00:00	"We are profoundly disappointed by Sony's decision" – Game companies express dismay at the end of PlayStation disc production https://www.gamesindustry.biz/we-are-profoundly-disappointed-by-sonys-decision-game-companies-express-dismay-at-the-end-of-playstation-disc-production
-2026-07-03T13:34:54+00:00	New studio //18.bravo is aiming for a "radically different approach" to game development https://www.gamesindustry.biz/industry-veteran-robert-bowling-launches-new-developer-18bravo
 2026-07-03T13:35:07+00:00	Where did all the UK game events go? https://www.gamesindustry.biz/where-did-all-the-uk-game-events-go
 2026-07-03T15:19:54+00:00	What kind of PS6 could justify a $1,000 price tag? | Opinion https://www.gamesindustry.biz/what-kind-of-ps6-could-justify-a-1000-price-tag-opinion
 2026-07-06T07:48:10+00:00	Sony clarifies re-order support for existing PlayStation discs https://www.gamesindustry.biz/sony-clarifies-re-order-support-for-existing-playstation-discs
@@ -53,3 +51,5 @@
 2026-07-14T13:03:49+00:00	Compulsion Games seeks new partnerships following spin-out from from Xbox https://www.gamesindustry.biz/compulsion-games-seeks-new-partnerships-following-spin-out-from-from-xbox
 2026-07-14T14:09:53+00:00	Aream & Co: Gaming M&A hits $2.3bn in Q2, highest level since 2022 https://www.gamesindustry.biz/aream-co-gaming-ma-hits-23bn-in-q2-highest-level-since-2022
 2026-07-15T10:27:38+00:00	11 Bit Studios lays off 20 workers as it "adjusts new project teams to current needs" https://www.gamesindustry.biz/11-bit-studios-lays-off-20-workers-as-it-adjusts-new-project-teams-to-current-needs
+2026-07-15T12:00:00+00:00	What lessons have developers learned from external development? https://www.gamesindustry.biz/what-lessons-have-developers-learned-from-external-development
+2026-07-15T13:27:21+00:00	"I had a front row seat to one of the greatest creative explosions in history" – Glen Schofield announces retirement https://www.gamesindustry.biz/i-had-a-front-row-seat-to-one-of-the-greatest-creative-explosions-in-history-glen-schofield-announces-retirement
