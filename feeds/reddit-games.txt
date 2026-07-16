@@ -4,7 +4,6 @@
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
 2026-07-14T10:48:33+00:00	AMA: 11 bit studios - The Alters: Last Variable DLC! https://www.reddit.com/r/Games/comments/1uw56uh/ama_11_bit_studios_the_alters_last_variable_dlc/
-2026-07-14T23:36:05+00:00	Dead Space Creator Glen Schofield Announces Retirement https://www.reddit.com/r/Games/comments/1uwp5vr/dead_space_creator_glen_schofield_announces/
 2026-07-15T11:01:04+00:00	Daily /r/Games Discussion - Suggest Me a Game - July 15, 2026 https://www.reddit.com/r/Games/comments/1ux2lj0/daily_rgames_discussion_suggest_me_a_game_july_15/
 2026-07-15T11:24:02+00:00	Valve Silently Discontinues Steam Deck LCD Spares at iFixit https://www.reddit.com/r/Games/comments/1ux3286/valve_silently_discontinues_steam_deck_lcd_spares/
 2026-07-15T11:54:12+00:00	Inside the latest round of mass layoffs at Xbox https://www.reddit.com/r/Games/comments/1ux3otc/inside_the_latest_round_of_mass_layoffs_at_xbox/
@@ -17,7 +16,6 @@
 2026-07-15T16:25:06+00:00	Dispatch Finally Lands on Xbox This Month, Uncensored Scenes and All https://www.reddit.com/r/Games/comments/1uxas44/dispatch_finally_lands_on_xbox_this_month/
 2026-07-15T17:04:08+00:00	Made With GameMaker 2026 Showreel https://www.reddit.com/r/Games/comments/1uxbwkm/made_with_gamemaker_2026_showreel/
 2026-07-15T17:20:08+00:00	Denshattack! - Launch Trailer! https://www.reddit.com/r/Games/comments/1uxcd5v/denshattack_launch_trailer/
-2026-07-15T17:29:35+00:00	PlayStation Plus Game Catalog for July – Avatar: Frontiers of Pandora, Rise of the Ronin, Firefighting Simulator: Ignite and more https://www.reddit.com/r/Games/comments/1uxcmpe/playstation_plus_game_catalog_for_july_avatar/
 2026-07-15T17:50:41+00:00	More People Are Playing Meccha Chameleon Knock-Offs Than The Original Hit Steam Game As The Roblox Clone Machine Goes Into Overdrive https://www.reddit.com/r/Games/comments/1uxd8by/more_people_are_playing_meccha_chameleon/
 2026-07-15T18:35:49+00:00	Rayman Origins: Enhanced Edition - Gameplay Trailer https://www.reddit.com/r/Games/comments/1uxei80/rayman_origins_enhanced_edition_gameplay_trailer/
 2026-07-15T19:21:05+00:00	Journey Trailer | Shadow of the Road https://www.reddit.com/r/Games/comments/1uxfpg9/journey_trailer_shadow_of_the_road/
@@ -28,3 +26,5 @@
 2026-07-16T02:41:02+00:00	Langrisser: Sea of Sword - Official Teaser Trailer https://www.reddit.com/r/Games/comments/1uxqd09/langrisser_sea_of_sword_official_teaser_trailer/
 2026-07-16T04:31:41+00:00	FINAL FANTASY RESONANCE - Pixel Trailer https://www.reddit.com/r/Games/comments/1uxslaw/final_fantasy_resonance_pixel_trailer/
 2026-07-16T07:54:27+00:00	Mario Tennis Fever - Free Update Available https://www.reddit.com/r/Games/comments/1uxw9gh/mario_tennis_fever_free_update_available/
+2026-07-16T12:51:07+00:00	RPCS3 says 75% of PlayStation 3 games are now playable on PC https://www.reddit.com/r/Games/comments/1uy1zp6/rpcs3_says_75_of_playstation_3_games_are_now/
+2026-07-16T13:01:14+00:00	Prinny Party: Going Overboard! - Announcement Trailer https://www.reddit.com/r/Games/comments/1uy28mf/prinny_party_going_overboard_announcement_trailer/
