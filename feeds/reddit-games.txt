@@ -3,10 +3,10 @@
 # source = https://www.reddit.com/r/Games.rss
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
-2026-07-14T10:48:33+00:00	AMA: 11 bit studios - The Alters: Last Variable DLC! https://www.reddit.com/r/Games/comments/1uw56uh/ama_11_bit_studios_the_alters_last_variable_dlc/
 2026-07-15T11:01:04+00:00	Daily /r/Games Discussion - Suggest Me a Game - July 15, 2026 https://www.reddit.com/r/Games/comments/1ux2lj0/daily_rgames_discussion_suggest_me_a_game_july_15/
 2026-07-15T11:24:02+00:00	Valve Silently Discontinues Steam Deck LCD Spares at iFixit https://www.reddit.com/r/Games/comments/1ux3286/valve_silently_discontinues_steam_deck_lcd_spares/
 2026-07-15T14:14:07+00:00	Jason Schreier: The Xbox Bloodbath Is Actually Way Bigger Than It Seems https://www.reddit.com/r/Games/comments/1ux72so/jason_schreier_the_xbox_bloodbath_is_actually_way/
+2026-07-15T14:22:36+00:00	The Duskbloods - Network Test is between August 21 and August 24, Registration opens next week. https://www.reddit.com/r/Games/comments/1ux7b8s/the_duskbloods_network_test_is_between_august_21/
 2026-07-15T14:37:04+00:00	The Blood of Dawnwalker has gone gold. https://www.reddit.com/r/Games/comments/1ux7pfd/the_blood_of_dawnwalker_has_gone_gold/
 2026-07-15T15:26:24+00:00	Denshattack! Review Thread https://www.reddit.com/r/Games/comments/1ux91tq/denshattack_review_thread/
 2026-07-15T16:25:06+00:00	Dispatch Finally Lands on Xbox This Month, Uncensored Scenes and All https://www.reddit.com/r/Games/comments/1uxas44/dispatch_finally_lands_on_xbox_this_month/
@@ -26,5 +26,5 @@
 2026-07-16T16:15:25+00:00	Marathon Mid-Season 2 Update Preview https://www.reddit.com/r/Games/comments/1uy7ec4/marathon_midseason_2_update_preview/
 2026-07-16T16:29:28+00:00	ZeniMax Workers Rally To Save 'The Spirit Of The Studio' After Microsoft's Latest Layoffs https://www.reddit.com/r/Games/comments/1uy7sa5/zenimax_workers_rally_to_save_the_spirit_of_the/
 2026-07-16T17:11:07+00:00	MARVEL Tōkon: Fighting Souls | Open Beta Trailer https://www.reddit.com/r/Games/comments/1uy8xno/marvel_tōkon_fighting_souls_open_beta_trailer/
-2026-07-16T17:13:49+00:00	Cheat Death - Dark strategic roguelite. Dice poker and Inscryption-inspired horror -PC RELEASE trailer (OUT NOW) https://www.reddit.com/r/Games/comments/1uy90l5/cheat_death_dark_strategic_roguelite_dice_poker/
 2026-07-16T18:07:17+00:00	Nintendo Switch Joy-Con Removable Battery Replacement Procedure https://www.reddit.com/r/Games/comments/1uyaifo/nintendo_switch_joycon_removable_battery/
+2026-07-16T18:46:02+00:00	Marvel’s Wolverine - Ain’t No Hero Trailer I PS5 Games https://www.reddit.com/r/Games/comments/1uyblai/marvels_wolverine_aint_no_hero_trailer_i_ps5_games/
