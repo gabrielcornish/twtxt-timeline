@@ -3,7 +3,6 @@
 # source = https://bearblog.dev/discover/feed/
 # description = twtxt conversion of https://bearblog.dev/discover/feed/
 
-2026-07-09T16:44:00+00:00	QUICK & EASY covers/posters/etc. WITHOUT GenAI https://skaetlett.bearblog.dev/quick-easy-posters-without-ai/
 2026-07-10T01:51:55.921653+00:00	Unemployed https://toska.bearblog.dev/unemployed/
 2026-07-10T07:01:00+00:00	On K-pop and generative AI https://gogumapizza.bearblog.dev/on-k-pop-and-generative-ai/
 2026-07-10T19:12:11.822312+00:00	RE: quick and easy covers/posters/etc. without genAI https://rnotte.art/re-quick-and-easy-coverspostersetc-without-genai/
@@ -23,3 +22,4 @@
 2026-07-13T21:41:00+00:00	At last, satisfaction https://bitsofthis.bearblog.dev/greetings-people-of-bear/
 2026-07-13T23:47:00+00:00	Sex is better with Bear https://futureperfect.bearblog.dev/sex-is-better-with-bear/
 2026-07-14T20:18:00+00:00	are "no AI" disclaimers really necessary? https://blog.basementcommunity.com/are-no-ai-disclaimers-really-necessary/
+2026-07-15T19:03:00+00:00	I hate playing at most OSR tables https://msquixotic.bearblog.dev/i-hate-playing-at-most-osr-tables/
