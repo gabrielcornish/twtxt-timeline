@@ -3,10 +3,7 @@
 # source = https://bearblog.dev/discover/feed/
 # description = twtxt conversion of https://bearblog.dev/discover/feed/
 
-2026-07-10T01:51:55.921653+00:00	Unemployed https://toska.bearblog.dev/unemployed/
-2026-07-10T07:01:00+00:00	On K-pop and generative AI https://gogumapizza.bearblog.dev/on-k-pop-and-generative-ai/
 2026-07-10T19:12:11.822312+00:00	RE: quick and easy covers/posters/etc. without genAI https://rnotte.art/re-quick-and-easy-coverspostersetc-without-genai/
-2026-07-10T20:02:09.957092+00:00	On Loving a Senior Dog https://notes.jeddacp.com/on-loving-a-senior-dog/
 2026-07-10T23:38:00+00:00	Let's call doomscrolling what it is https://blog.saiyanshinobi.com/call-doom-scrolling-what-it-is/
 2026-07-11T04:09:00+00:00	The Paused Web https://binarydigit.net/the-paused-web/
 2026-07-11T13:00:00+00:00	rootring months later https://elmc.at/rootring-months-later/
@@ -22,4 +19,7 @@
 2026-07-13T21:41:00+00:00	At last, satisfaction https://bitsofthis.bearblog.dev/greetings-people-of-bear/
 2026-07-13T23:47:00+00:00	Sex is better with Bear https://futureperfect.bearblog.dev/sex-is-better-with-bear/
 2026-07-14T20:18:00+00:00	are "no AI" disclaimers really necessary? https://blog.basementcommunity.com/are-no-ai-disclaimers-really-necessary/
-2026-07-15T19:03:00+00:00	I hate playing at most OSR tables https://msquixotic.bearblog.dev/i-hate-playing-at-most-osr-tables/
+2026-07-15T00:30:00+00:00	I'm allowed a moment of navelgazing nostalgia https://blog.lauramichet.com/im-allowed-a-moment-of-navelgazing-nostalgia/
+2026-07-15T14:14:00+00:00	Enjoying Blogs with custom content through RSS https://musings101.bearblog.dev/enjoying-blogs-with-custom-content-through-rss/
+2026-07-15T17:30:00+00:00	Getting Frustrated with Big Bang Theory https://onlinegoddess.net/2026/07/getting-frustrated-with-big-bang-theory/
+2026-07-15T20:06:00+00:00	Re: I started a "dirt notebook" https://notebookery.bearblog.dev/re-dirt-notebook/

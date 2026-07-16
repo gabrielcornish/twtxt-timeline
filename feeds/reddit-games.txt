@@ -4,10 +4,7 @@
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
 2026-07-14T10:48:33+00:00	AMA: 11 bit studios - The Alters: Last Variable DLC! https://www.reddit.com/r/Games/comments/1uw56uh/ama_11_bit_studios_the_alters_last_variable_dlc/
-2026-07-14T16:25:14+00:00	Monster Hunter Wilds is getting a "permanent price reduction" and new DLC bundles as Capcom looks to further recover from a year of middling reviews https://www.reddit.com/r/Games/comments/1uwdiu1/monster_hunter_wilds_is_getting_a_permanent_price/
-2026-07-14T23:29:32+00:00	EFF: Sony Nerfs Videogame Ownership https://www.reddit.com/r/Games/comments/1uwp0ba/eff_sony_nerfs_videogame_ownership/
 2026-07-14T23:36:05+00:00	Dead Space Creator Glen Schofield Announces Retirement https://www.reddit.com/r/Games/comments/1uwp5vr/dead_space_creator_glen_schofield_announces/
-2026-07-15T05:36:06+00:00	Beast of Reincarnation | Combat Overview https://www.reddit.com/r/Games/comments/1uwwrc3/beast_of_reincarnation_combat_overview/
 2026-07-15T11:01:04+00:00	Daily /r/Games Discussion - Suggest Me a Game - July 15, 2026 https://www.reddit.com/r/Games/comments/1ux2lj0/daily_rgames_discussion_suggest_me_a_game_july_15/
 2026-07-15T11:24:02+00:00	Valve Silently Discontinues Steam Deck LCD Spares at iFixit https://www.reddit.com/r/Games/comments/1ux3286/valve_silently_discontinues_steam_deck_lcd_spares/
 2026-07-15T11:54:12+00:00	Inside the latest round of mass layoffs at Xbox https://www.reddit.com/r/Games/comments/1ux3otc/inside_the_latest_round_of_mass_layoffs_at_xbox/
@@ -27,4 +24,7 @@
 2026-07-15T17:50:41+00:00	More People Are Playing Meccha Chameleon Knock-Offs Than The Original Hit Steam Game As The Roblox Clone Machine Goes Into Overdrive https://www.reddit.com/r/Games/comments/1uxd8by/more_people_are_playing_meccha_chameleon/
 2026-07-15T18:35:49+00:00	Rayman Origins: Enhanced Edition - Gameplay Trailer https://www.reddit.com/r/Games/comments/1uxei80/rayman_origins_enhanced_edition_gameplay_trailer/
 2026-07-15T19:21:05+00:00	Journey Trailer | Shadow of the Road https://www.reddit.com/r/Games/comments/1uxfpg9/journey_trailer_shadow_of_the_road/
+2026-07-15T22:25:03+00:00	Valve says iFixit will keep selling Steam Deck batteries after all https://www.reddit.com/r/Games/comments/1uxkhj6/valve_says_ifixit_will_keep_selling_steam_deck/
 2026-07-15T22:57:17+00:00	Newly translated interview between Shigeru Miyamoto and Kenji Eno (1996) https://www.reddit.com/r/Games/comments/1uxlb3a/newly_translated_interview_between_shigeru/
+2026-07-16T00:30:05+00:00	Overwatch Director's Take: Future Formats - "... we'll continue supporting Stadium with seasonal balance updates, rank resets, and rewards, we’re not planning on expanding Stadium with new Heroes or maps." https://www.reddit.com/r/Games/comments/1uxni9k/overwatch_directors_take_future_formats_well/
+2026-07-16T00:36:06+00:00	Galactic Contention | Squad Mod | Unreal Engine 5 Reveal Trailer https://www.reddit.com/r/Games/comments/1uxnn30/galactic_contention_squad_mod_unreal_engine_5/
