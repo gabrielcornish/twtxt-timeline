@@ -3,8 +3,6 @@
 # source = https://bearblog.dev/discover/feed/
 # description = twtxt conversion of https://bearblog.dev/discover/feed/
 
-2026-07-11T04:09:00+00:00	The Paused Web https://binarydigit.net/the-paused-web/
-2026-07-11T13:00:00+00:00	rootring months later https://elmc.at/rootring-months-later/
 2026-07-11T13:43:00+00:00	Neocities Intimidates Me https://sweaterpockets.bearblog.dev/neocities-intimidates-me/
 2026-07-11T13:50:00+00:00	Re: Revival of Independent Physical Video Rental Shops https://untangled.bearblog.dev/indie-video-rental/
 2026-07-11T15:50:00+00:00	Nothing to Anyone https://householderkarl.com/nothing-to-anyone/
@@ -19,7 +17,9 @@
 2026-07-14T20:18:00+00:00	are "no AI" disclaimers really necessary? https://blog.basementcommunity.com/are-no-ai-disclaimers-really-necessary/
 2026-07-15T00:30:00+00:00	I'm allowed a moment of navelgazing nostalgia https://blog.lauramichet.com/im-allowed-a-moment-of-navelgazing-nostalgia/
 2026-07-15T14:14:00+00:00	Enjoying Blogs with custom content through RSS https://musings101.bearblog.dev/enjoying-blogs-with-custom-content-through-rss/
+2026-07-15T16:11:00+00:00	Blank blogging counts too https://robertbirming.com/blank-blogging-counts/
 2026-07-15T17:30:00+00:00	Getting Frustrated with Big Bang Theory https://onlinegoddess.net/2026/07/getting-frustrated-with-big-bang-theory/
 2026-07-15T19:03:00+00:00	I hate playing at most OSR tables https://msquixotic.bearblog.dev/i-hate-playing-at-most-osr-tables/
 2026-07-15T20:06:00+00:00	Re: I started a "dirt notebook" https://notebookery.bearblog.dev/re-dirt-notebook/
 2026-07-16T00:01:00+00:00	Why are open table OSR games like that? https://unturnedhovel.bearblog.dev/why-are-open-table-osr-games-like-that/
+2026-07-16T15:55:00+00:00	Anticipatory Grief https://notes.jeddacp.com/anticipatory-grief/
