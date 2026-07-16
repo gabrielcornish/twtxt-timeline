@@ -7,18 +7,14 @@
 2026-07-15T11:01:04+00:00	Daily /r/Games Discussion - Suggest Me a Game - July 15, 2026 https://www.reddit.com/r/Games/comments/1ux2lj0/daily_rgames_discussion_suggest_me_a_game_july_15/
 2026-07-15T11:24:02+00:00	Valve Silently Discontinues Steam Deck LCD Spares at iFixit https://www.reddit.com/r/Games/comments/1ux3286/valve_silently_discontinues_steam_deck_lcd_spares/
 2026-07-15T11:54:12+00:00	Inside the latest round of mass layoffs at Xbox https://www.reddit.com/r/Games/comments/1ux3otc/inside_the_latest_round_of_mass_layoffs_at_xbox/
-2026-07-15T14:02:44+00:00	Emberville: Official Early Access Release Date Trailer https://www.reddit.com/r/Games/comments/1ux6s1v/emberville_official_early_access_release_date/
 2026-07-15T14:14:07+00:00	Jason Schreier: The Xbox Bloodbath Is Actually Way Bigger Than It Seems https://www.reddit.com/r/Games/comments/1ux72so/jason_schreier_the_xbox_bloodbath_is_actually_way/
 2026-07-15T14:22:36+00:00	The Duskbloods - Network Test is between August 21 and August 24, Registration opens next week. https://www.reddit.com/r/Games/comments/1ux7b8s/the_duskbloods_network_test_is_between_august_21/
-2026-07-15T14:27:39+00:00	Emberville - Voice Cast Reveal https://www.reddit.com/r/Games/comments/1ux7g64/emberville_voice_cast_reveal/
 2026-07-15T14:37:04+00:00	The Blood of Dawnwalker has gone gold. https://www.reddit.com/r/Games/comments/1ux7pfd/the_blood_of_dawnwalker_has_gone_gold/
 2026-07-15T15:26:24+00:00	Denshattack! Review Thread https://www.reddit.com/r/Games/comments/1ux91tq/denshattack_review_thread/
 2026-07-15T16:25:06+00:00	Dispatch Finally Lands on Xbox This Month, Uncensored Scenes and All https://www.reddit.com/r/Games/comments/1uxas44/dispatch_finally_lands_on_xbox_this_month/
-2026-07-15T17:04:08+00:00	Made With GameMaker 2026 Showreel https://www.reddit.com/r/Games/comments/1uxbwkm/made_with_gamemaker_2026_showreel/
 2026-07-15T17:20:08+00:00	Denshattack! - Launch Trailer! https://www.reddit.com/r/Games/comments/1uxcd5v/denshattack_launch_trailer/
 2026-07-15T17:50:41+00:00	More People Are Playing Meccha Chameleon Knock-Offs Than The Original Hit Steam Game As The Roblox Clone Machine Goes Into Overdrive https://www.reddit.com/r/Games/comments/1uxd8by/more_people_are_playing_meccha_chameleon/
 2026-07-15T18:35:49+00:00	Rayman Origins: Enhanced Edition - Gameplay Trailer https://www.reddit.com/r/Games/comments/1uxei80/rayman_origins_enhanced_edition_gameplay_trailer/
-2026-07-15T19:21:05+00:00	Journey Trailer | Shadow of the Road https://www.reddit.com/r/Games/comments/1uxfpg9/journey_trailer_shadow_of_the_road/
 2026-07-15T22:25:03+00:00	Valve says iFixit will keep selling Steam Deck batteries after all https://www.reddit.com/r/Games/comments/1uxkhj6/valve_says_ifixit_will_keep_selling_steam_deck/
 2026-07-15T22:57:17+00:00	Newly translated interview between Shigeru Miyamoto and Kenji Eno (1996) https://www.reddit.com/r/Games/comments/1uxlb3a/newly_translated_interview_between_shigeru/
 2026-07-16T00:30:05+00:00	Overwatch Director's Take: Future Formats - "... we'll continue supporting Stadium with seasonal balance updates, rank resets, and rewards, we’re not planning on expanding Stadium with new Heroes or maps." https://www.reddit.com/r/Games/comments/1uxni9k/overwatch_directors_take_future_formats_well/
@@ -28,3 +24,7 @@
 2026-07-16T07:54:27+00:00	Mario Tennis Fever - Free Update Available https://www.reddit.com/r/Games/comments/1uxw9gh/mario_tennis_fever_free_update_available/
 2026-07-16T12:51:07+00:00	RPCS3 says 75% of PlayStation 3 games are now playable on PC https://www.reddit.com/r/Games/comments/1uy1zp6/rpcs3_says_75_of_playstation_3_games_are_now/
 2026-07-16T13:01:14+00:00	Prinny Party: Going Overboard! - Announcement Trailer https://www.reddit.com/r/Games/comments/1uy28mf/prinny_party_going_overboard_announcement_trailer/
+2026-07-16T15:29:13+00:00	WARDOGS | Level Design & Performance (BULKHEAD Studios) https://www.reddit.com/r/Games/comments/1uy64cu/wardogs_level_design_performance_bulkhead_studios/
+2026-07-16T15:54:40+00:00	Hela: of Mice & Magic | Coming Q4 2026 https://www.reddit.com/r/Games/comments/1uy6t87/hela_of_mice_magic_coming_q4_2026/
+2026-07-16T16:15:25+00:00	Marathon Mid-Season 2 Update Preview https://www.reddit.com/r/Games/comments/1uy7ec4/marathon_midseason_2_update_preview/
+2026-07-16T16:29:28+00:00	ZeniMax Workers Rally To Save 'The Spirit Of The Studio' After Microsoft's Latest Layoffs https://www.reddit.com/r/Games/comments/1uy7sa5/zenimax_workers_rally_to_save_the_spirit_of_the/

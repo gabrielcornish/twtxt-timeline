@@ -3,8 +3,8 @@
 # source = https://bearblog.dev/discover/feed/
 # description = twtxt conversion of https://bearblog.dev/discover/feed/
 
-2026-07-10T23:38:00+00:00	Let's call doomscrolling what it is https://blog.saiyanshinobi.com/call-doom-scrolling-what-it-is/
 2026-07-11T04:09:00+00:00	The Paused Web https://binarydigit.net/the-paused-web/
+2026-07-11T13:00:00+00:00	rootring months later https://elmc.at/rootring-months-later/
 2026-07-11T13:43:00+00:00	Neocities Intimidates Me https://sweaterpockets.bearblog.dev/neocities-intimidates-me/
 2026-07-11T13:50:00+00:00	Re: Revival of Independent Physical Video Rental Shops https://untangled.bearblog.dev/indie-video-rental/
 2026-07-11T15:50:00+00:00	Nothing to Anyone https://householderkarl.com/nothing-to-anyone/
