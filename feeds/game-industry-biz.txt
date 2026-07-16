@@ -3,8 +3,6 @@
 # source = https://www.gamesindustry.biz/feed
 # description = twtxt conversion of https://www.gamesindustry.biz/feed
 
-2026-07-06T09:46:40+00:00	Union launches hardship fund for laid off developers https://www.gamesindustry.biz/union-launches-hardship-fund-for-laid-off-developers
-2026-07-06T13:30:14+00:00	Interview: While GDC falters, Gamescom goes from strength to strength https://www.gamesindustry.biz/interview-while-gdc-falters-gamescom-goes-from-strength-to-strength
 2026-07-06T13:53:54+00:00	Xbox announces plans to lay off 3,200 staff and divest five studios https://www.gamesindustry.biz/xbox-to-reduce-workforce-by-3200-five-studios-to-be-divested
 2026-07-06T16:45:32+00:00	Xbox layoffs: Jobs lost at Obsidian, Bethesda, Id and Zenimax Online Studios https://www.gamesindustry.biz/xbox-layoffs-july-2026
 2026-07-06T21:15:27+00:00	Epic Games settles lawsuit against former contractor accused of leaking unannounced Fortnite collaborations https://www.gamesindustry.biz/epic-games-settles-lawsuit-against-former-contractor-accused-of-leaking-unannounced-fortnite-collaborations
@@ -53,3 +51,5 @@
 2026-07-15T14:28:45+00:00	"We thought, well, how would we reinvent this wheel?" – Minecraft specialists 4J Studios on building a new sandbox crafting game from first principles https://www.gamesindustry.biz/we-thought-well-how-would-we-reinvent-this-wheel-minecraft-specialists-4j-studios-on-building-a-new-sandbox-crafting-game-from-first-principles
 2026-07-16T09:00:00+00:00	Should you work on your own games as an external development studio? https://www.gamesindustry.biz/should-you-work-on-your-own-games-as-an-external-development-studio
 2026-07-16T09:10:53+00:00	ZeniMax Online Studios leadership impacted by latest Xbox layoffs https://www.gamesindustry.biz/zenimax-online-studios-leadership-impacted-by-latest-xbox-layoffs
+2026-07-16T09:42:51+00:00	Looney Tunes: World of Mayhem to be taken offline in October 2026 https://www.gamesindustry.biz/looney-tunes-world-of-mayhem-to-be-taken-offline-in-october-2026
+2026-07-16T11:48:02+00:00	Clair Obscur: Expedition 33 wins Best Game at Develop:Star Awards 2026 https://www.gamesindustry.biz/clair-obscur-expedition-33-wins-best-game-at-developstar-awards-2026
