@@ -3,7 +3,6 @@
 # source = https://www.gamesindustry.biz/feed
 # description = twtxt conversion of https://www.gamesindustry.biz/feed
 
-2026-07-07T06:41:04+00:00	Sony leadership says AI tools are "an important foundational technology supporting our strategy" https://www.gamesindustry.biz/sony-leadership-says-ai-tools-are-an-important-foundational-technology-supporting-our-strategy
 2026-07-07T07:59:59+00:00	Original Switch console lineup to be discontinued in Europe by mid-February 2027 https://www.gamesindustry.biz/original-switch-console-lineup-to-be-discontinued-in-europe-by-mid-february-2027
 2026-07-07T09:58:06+00:00	Bethesda pivots to "franchise-centric" planning model amid Xbox restructure https://www.gamesindustry.biz/bethesda-pivots-to-franchise-centric-planning-model-amid-xbox-restructure
 2026-07-07T11:30:00+00:00	"We can break even and be self-sustaining within Riot" – The firm behind League of Legends is "super close" to making esports sustainable https://www.gamesindustry.biz/we-can-break-even-and-be-self-sustaining-within-riot-the-firm-behind-league-of-legends-is-super-close-to-making-esports-sustainable
@@ -52,4 +51,5 @@
 2026-07-16T13:00:00+00:00	"If I work on that, my kids will think I'm Gandalf" – Blackbird Interactive on the highs and lows of external development https://www.gamesindustry.biz/if-i-work-on-that-my-kids-will-think-im-gandalf-blackbird-interactive-on-the-highs-and-lows-of-external-development
 2026-07-17T07:29:28+00:00	London Games Festival moves to central venue for 2027 showcase https://www.gamesindustry.biz/london-games-festival-moves-to-central-venue-for-2027-showcase
 2026-07-17T09:00:00+00:00	Why releasing games on the web could be right for your studio in 2026 https://www.gamesindustry.biz/why-releasing-games-on-the-web-could-be-right-for-your-studio-in-2026
-2026-07-17T09:02:38+00:00	Newzoo: GTA 6 pre-orders generate $260m globally during first week of campaign https://www.gamesindustry.biz/newzoo-gta-6-pre-orders-generate-260m-globally-during-first-week-of-campaign
+2026-07-17T09:02:38+00:00	Newzoo: GTA 6 pre-orders generate estimated $260m globally during first week of campaign https://www.gamesindustry.biz/newzoo-gta-6-pre-orders-generate-260m-globally-during-first-week-of-campaign
+2026-07-17T10:28:35+00:00	Develop:Brighton showed the UK games industry is done with hand-wringing and is determined to save itself | Opinion https://www.gamesindustry.biz/developbrighton-showed-the-uk-games-industry-is-done-with-hand-wringing-and-is-determined-to-save-itself-opinion
