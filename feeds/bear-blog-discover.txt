@@ -4,7 +4,6 @@
 # description = twtxt conversion of https://bearblog.dev/discover/feed/
 
 2026-07-11T13:43:00+00:00	Neocities Intimidates Me https://sweaterpockets.bearblog.dev/neocities-intimidates-me/
-2026-07-11T13:50:00+00:00	Re: Revival of Independent Physical Video Rental Shops https://untangled.bearblog.dev/indie-video-rental/
 2026-07-11T15:50:00+00:00	Nothing to Anyone https://householderkarl.com/nothing-to-anyone/
 2026-07-12T13:49:00+00:00	Bear Blogging - unanswered questions https://loveisverbing.bearblog.dev/bear-quest/
 2026-07-12T16:18:00+00:00	Retro computer advertising memories https://basic.bearblog.dev/retro-computer-advertising-memories/
@@ -23,3 +22,4 @@
 2026-07-15T20:06:00+00:00	Re: I started a "dirt notebook" https://notebookery.bearblog.dev/re-dirt-notebook/
 2026-07-16T00:01:00+00:00	Why are open table OSR games like that? https://unturnedhovel.bearblog.dev/why-are-open-table-osr-games-like-that/
 2026-07-16T15:55:00+00:00	Anticipatory Grief https://notes.jeddacp.com/anticipatory-grief/
+2026-07-16T21:59:00+00:00	The Great Software Regress: How "Move Fast and Break Things" Broke Our Lives https://imdanielkendall.com/the-great-software-regress-how-move-fast-and-break-things-broke-our-lives/

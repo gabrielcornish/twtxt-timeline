@@ -3,9 +3,6 @@
 # source = https://www.gamesindustry.biz/feed
 # description = twtxt conversion of https://www.gamesindustry.biz/feed
 
-2026-07-06T16:45:32+00:00	Xbox layoffs: Jobs lost at Obsidian, Bethesda, Id and Zenimax Online Studios https://www.gamesindustry.biz/xbox-layoffs-july-2026
-2026-07-06T21:15:27+00:00	Epic Games settles lawsuit against former contractor accused of leaking unannounced Fortnite collaborations https://www.gamesindustry.biz/epic-games-settles-lawsuit-against-former-contractor-accused-of-leaking-unannounced-fortnite-collaborations
-2026-07-06T21:42:55+00:00	Compulsion Games and Double Fine confirm "Independence Day" from Xbox https://www.gamesindustry.biz/compulsion-games-and-double-fine-confirm-independence-day-from-xbox
 2026-07-07T06:41:04+00:00	Sony leadership says AI tools are "an important foundational technology supporting our strategy" https://www.gamesindustry.biz/sony-leadership-says-ai-tools-are-an-important-foundational-technology-supporting-our-strategy
 2026-07-07T07:59:59+00:00	Original Switch console lineup to be discontinued in Europe by mid-February 2027 https://www.gamesindustry.biz/original-switch-console-lineup-to-be-discontinued-in-europe-by-mid-february-2027
 2026-07-07T09:58:06+00:00	Bethesda pivots to "franchise-centric" planning model amid Xbox restructure https://www.gamesindustry.biz/bethesda-pivots-to-franchise-centric-planning-model-amid-xbox-restructure
@@ -53,3 +50,6 @@
 2026-07-16T09:42:51+00:00	Looney Tunes: World of Mayhem to be taken offline in October 2026 https://www.gamesindustry.biz/looney-tunes-world-of-mayhem-to-be-taken-offline-in-october-2026
 2026-07-16T11:48:02+00:00	Clair Obscur: Expedition 33 wins Best Game at Develop:Star Awards 2026 https://www.gamesindustry.biz/clair-obscur-expedition-33-wins-best-game-at-developstar-awards-2026
 2026-07-16T13:00:00+00:00	"If I work on that, my kids will think I'm Gandalf" – Blackbird Interactive on the highs and lows of external development https://www.gamesindustry.biz/if-i-work-on-that-my-kids-will-think-im-gandalf-blackbird-interactive-on-the-highs-and-lows-of-external-development
+2026-07-17T07:29:28+00:00	London Games Festival moves to central venue for 2027 showcase https://www.gamesindustry.biz/london-games-festival-moves-to-central-venue-for-2027-showcase
+2026-07-17T09:00:00+00:00	Why releasing games on the web could be right for your studio in 2026 https://www.gamesindustry.biz/why-releasing-games-on-the-web-could-be-right-for-your-studio-in-2026
+2026-07-17T09:02:38+00:00	Newzoo: GTA 6 pre-orders generate $260m globally during first week of campaign https://www.gamesindustry.biz/newzoo-gta-6-pre-orders-generate-260m-globally-during-first-week-of-campaign
