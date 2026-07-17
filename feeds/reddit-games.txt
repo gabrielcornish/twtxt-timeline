@@ -4,27 +4,27 @@
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
 2026-07-15T11:01:04+00:00	Daily /r/Games Discussion - Suggest Me a Game - July 15, 2026 https://www.reddit.com/r/Games/comments/1ux2lj0/daily_rgames_discussion_suggest_me_a_game_july_15/
-2026-07-16T04:31:41+00:00	FINAL FANTASY RESONANCE - Pixel Trailer https://www.reddit.com/r/Games/comments/1uxslaw/final_fantasy_resonance_pixel_trailer/
 2026-07-16T12:51:07+00:00	RPCS3 says 75% of PlayStation 3 games are now playable on PC https://www.reddit.com/r/Games/comments/1uy1zp6/rpcs3_says_75_of_playstation_3_games_are_now/
-2026-07-16T16:15:25+00:00	Marathon Mid-Season 2 Update Preview https://www.reddit.com/r/Games/comments/1uy7ec4/marathon_midseason_2_update_preview/
 2026-07-16T16:29:28+00:00	ZeniMax Workers Rally To Save 'The Spirit Of The Studio' After Microsoft's Latest Layoffs https://www.reddit.com/r/Games/comments/1uy7sa5/zenimax_workers_rally_to_save_the_spirit_of_the/
-2026-07-16T17:11:07+00:00	MARVEL Tōkon: Fighting Souls | Open Beta Trailer https://www.reddit.com/r/Games/comments/1uy8xno/marvel_tōkon_fighting_souls_open_beta_trailer/
-2026-07-16T18:07:17+00:00	Nintendo Switch Joy-Con Removable Battery Replacement Procedure https://www.reddit.com/r/Games/comments/1uyaifo/nintendo_switch_joycon_removable_battery/
 2026-07-16T18:46:02+00:00	Marvel’s Wolverine - Ain’t No Hero Trailer I PS5 Games https://www.reddit.com/r/Games/comments/1uyblai/marvels_wolverine_aint_no_hero_trailer_i_ps5_games/
-2026-07-16T20:18:48+00:00	Path of Exile: Curse of the Allflame Official Trailer https://www.reddit.com/r/Games/comments/1uye358/path_of_exile_curse_of_the_allflame_official/
-2026-07-16T20:25:31+00:00	The Mermaid Mask | Official Launch Trailer https://www.reddit.com/r/Games/comments/1uye9fo/the_mermaid_mask_official_launch_trailer/
 2026-07-16T20:32:18+00:00	GameStop CEO Says Games Are "Irrelevant" To Company https://www.reddit.com/r/Games/comments/1uyefxu/gamestop_ceo_says_games_are_irrelevant_to_company/
-2026-07-17T01:32:20+00:00	Star Trek: Voyager - Across the Unknown - Expansion Pass Trailer | PS5 Games https://www.reddit.com/r/Games/comments/1uylren/star_trek_voyager_across_the_unknown_expansion/
 2026-07-17T04:10:52+00:00	Games of Thrones: War of westeros. New development blog. https://www.reddit.com/r/Games/comments/1uyp44f/games_of_thrones_war_of_westeros_new_development/
-2026-07-17T05:14:32+00:00	Being and Becoming — First Public Demo Reveal Trailer https://www.reddit.com/r/Games/comments/1uyqcbt/being_and_becoming_first_public_demo_reveal/
 2026-07-17T07:27:54+00:00	Castlevania: Belmont's Curse - First gameplay preview https://www.reddit.com/r/Games/comments/1uysquq/castlevania_belmonts_curse_first_gameplay_preview/
 2026-07-17T08:08:06+00:00	Microsoft Restores Player's Hacked 25-Year-Old Account With Son's Baby Photos https://www.reddit.com/r/Games/comments/1uytf0l/microsoft_restores_players_hacked_25yearold/
 2026-07-17T10:00:40+00:00	Daily /r/Games Discussion - Free Talk Friday - July 17, 2026 https://www.reddit.com/r/Games/comments/1uyvcsn/daily_rgames_discussion_free_talk_friday_july_17/
 2026-07-17T10:05:32+00:00	Firestorm Gameplay Preview 7 - FPS game inspired by C&C Tiberian Sun: Firestorm https://www.reddit.com/r/Games/comments/1uyvg13/firestorm_gameplay_preview_7_fps_game_inspired_by/
 2026-07-17T11:51:15+00:00	NOIR BLOOM | Official “The Bud Trial” Demo Trailer https://www.reddit.com/r/Games/comments/1uyxh7z/noir_bloom_official_the_bud_trial_demo_trailer/
-2026-07-17T11:56:17+00:00	Clive Barker’s Hellraiser: Revival - Official 'Horror' Red Band Dev Diary https://www.reddit.com/r/Games/comments/1uyxkyt/clive_barkers_hellraiser_revival_official_horror/
 2026-07-17T12:05:15+00:00	Subway Builder Steam Launch Trailer https://www.reddit.com/r/Games/comments/1uyxshc/subway_builder_steam_launch_trailer/
 2026-07-17T12:59:10+00:00	Final Fantasy XIV Mobile to end service on September 30 in China, global version canceled https://www.reddit.com/r/Games/comments/1uyz0qs/final_fantasy_xiv_mobile_to_end_service_on/
 2026-07-17T14:14:51+00:00	A Note From Bethesda: Fallout 5 is currently in preproduction, in development on Creation Engine 3. Fallout 3 and Fallout: New Vegas remasters in development https://www.reddit.com/r/Games/comments/1uz0zoy/a_note_from_bethesda_fallout_5_is_currently_in/
 2026-07-17T14:35:57+00:00	Hytale Blog | First Look: Chapter 1 and More https://www.reddit.com/r/Games/comments/1uz1jup/hytale_blog_first_look_chapter_1_and_more/
 2026-07-17T14:54:48+00:00	The Story Of The Silly, Arhythmic Recording Of The DK Rap https://www.reddit.com/r/Games/comments/1uz2252/the_story_of_the_silly_arhythmic_recording_of_the/
+2026-07-17T15:44:25+00:00	MAID MAYHEM | Goblin Cleanup (Official Trailer) https://www.reddit.com/r/Games/comments/1uz3ejt/maid_mayhem_goblin_cleanup_official_trailer/
+2026-07-17T15:44:31+00:00	Prelude Dark Pain Developer on Balancing a Massive Tactical RPG, Early Access Content, and Ambitious Translation Efforts (Interview) https://www.reddit.com/r/Games/comments/1uz3en2/prelude_dark_pain_developer_on_balancing_a/
+2026-07-17T16:08:44+00:00	Assassins Creed Black Flag Resynced sells more than 3 million copies in a week https://www.reddit.com/r/Games/comments/1uz42rq/assassins_creed_black_flag_resynced_sells_more/
+2026-07-17T16:29:25+00:00	Database Detective: Minor Crimes Division | Launch Trailer https://www.reddit.com/r/Games/comments/1uz4n4a/database_detective_minor_crimes_division_launch/
+2026-07-17T16:33:58+00:00	Season 4 Naval Gameplay Deep Dive | Battlefield 6 https://www.reddit.com/r/Games/comments/1uz4rle/season_4_naval_gameplay_deep_dive_battlefield_6/
+2026-07-17T16:52:43+00:00	Kyoto Xanadu Held Back For 11 Years Because Of The Trails Series https://www.reddit.com/r/Games/comments/1uz59vq/kyoto_xanadu_held_back_for_11_years_because_of/
+2026-07-17T17:03:59+00:00	Jason Schreier (Bloomberg): Valve’s 14-Year Journey to Make the Steam Machine https://www.reddit.com/r/Games/comments/1uz5lf1/jason_schreier_bloomberg_valves_14year_journey_to/
+2026-07-17T17:12:02+00:00	Marathon Game Director Joe Ziegler is leaving Bungie https://www.reddit.com/r/Games/comments/1uz5tm6/marathon_game_director_joe_ziegler_is_leaving/
+2026-07-17T17:24:24+00:00	MARVEL Tōkon: Fighting Souls | Ghost Rider Character Guide https://www.reddit.com/r/Games/comments/1uz666v/marvel_tōkon_fighting_souls_ghost_rider_character/
