@@ -3,7 +3,6 @@
 # source = https://bearblog.dev/discover/feed/
 # description = twtxt conversion of https://bearblog.dev/discover/feed/
 
-2026-07-11T15:50:00+00:00	Nothing to Anyone https://householderkarl.com/nothing-to-anyone/
 2026-07-12T13:49:00+00:00	Bear Blogging - unanswered questions https://loveisverbing.bearblog.dev/bear-quest/
 2026-07-12T16:18:00+00:00	Retro computer advertising memories https://basic.bearblog.dev/retro-computer-advertising-memories/
 2026-07-12T17:15:00+00:00	How I Collect Blog Statistics, Respectfully https://onlinegoddess.net/2026/07/how-i-collect-blog-statistics-respectfully/
@@ -23,3 +22,4 @@
 2026-07-16T14:49:00+00:00	Some jellyfish for your viewing pleasure https://wunderkammer.bearblog.dev/some-jellyfish-for-your-viewing-pleasure/
 2026-07-16T15:55:00+00:00	Anticipatory Grief https://notes.jeddacp.com/anticipatory-grief/
 2026-07-16T21:59:00+00:00	The Great Software Regress: How "Move Fast and Break Things" Broke Our Lives https://imdanielkendall.com/the-great-software-regress-how-move-fast-and-break-things-broke-our-lives/
+2026-07-17T03:23:00+00:00	Where philosophy fails me https://doodhpeda.bearblog.dev/blog/where-philosophy-fails-me/

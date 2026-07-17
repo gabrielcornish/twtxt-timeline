@@ -4,7 +4,6 @@
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
 2026-07-15T11:01:04+00:00	Daily /r/Games Discussion - Suggest Me a Game - July 15, 2026 https://www.reddit.com/r/Games/comments/1ux2lj0/daily_rgames_discussion_suggest_me_a_game_july_15/
-2026-07-16T12:51:07+00:00	RPCS3 says 75% of PlayStation 3 games are now playable on PC https://www.reddit.com/r/Games/comments/1uy1zp6/rpcs3_says_75_of_playstation_3_games_are_now/
 2026-07-16T20:32:18+00:00	GameStop CEO Says Games Are "Irrelevant" To Company https://www.reddit.com/r/Games/comments/1uyefxu/gamestop_ceo_says_games_are_irrelevant_to_company/
 2026-07-17T07:27:54+00:00	Castlevania: Belmont's Curse - First gameplay preview https://www.reddit.com/r/Games/comments/1uysquq/castlevania_belmonts_curse_first_gameplay_preview/
 2026-07-17T08:08:06+00:00	Microsoft Restores Player's Hacked 25-Year-Old Account With Son's Baby Photos https://www.reddit.com/r/Games/comments/1uytf0l/microsoft_restores_players_hacked_25yearold/
@@ -28,3 +27,4 @@
 2026-07-17T19:00:05+00:00	Civvie 11 - CLASSIC QUAKE EXPANSIONS https://www.reddit.com/r/Games/comments/1uz8u7n/civvie_11_classic_quake_expansions/
 2026-07-17T19:04:38+00:00	Zaheer Character Reveal Trailer (Avatar Legends: The Fighting Game) https://www.reddit.com/r/Games/comments/1uz8yty/zaheer_character_reveal_trailer_avatar_legends/
 2026-07-17T19:18:45+00:00	Ghouls 'n Ghosts Commentary https://www.reddit.com/r/Games/comments/1uz9czh/ghouls_n_ghosts_commentary/
+2026-07-17T20:28:29+00:00	Necesse Rust & Romance Update Trailer https://www.reddit.com/r/Games/comments/1uzb85w/necesse_rust_romance_update_trailer/
