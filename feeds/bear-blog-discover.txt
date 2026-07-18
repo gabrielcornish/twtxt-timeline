@@ -3,7 +3,6 @@
 # source = https://bearblog.dev/discover/feed/
 # description = twtxt conversion of https://bearblog.dev/discover/feed/
 
-2026-07-13T14:55:00+00:00	I started a "dirt notebook" https://pinewind.bearblog.dev/i-started-a-dirt-notebook/
 2026-07-13T21:41:00+00:00	At last, satisfaction https://bitsofthis.bearblog.dev/greetings-people-of-bear/
 2026-07-13T23:47:00+00:00	Sex is better with Bear https://futureperfect.bearblog.dev/sex-is-better-with-bear/
 2026-07-14T20:18:00+00:00	are "no AI" disclaimers really necessary? https://blog.basementcommunity.com/are-no-ai-disclaimers-really-necessary/
@@ -18,6 +17,7 @@
 2026-07-16T16:09:00+00:00	americans stop saying 'its not that hot' challenge https://s0ykaf.bearblog.dev/americans-stop-saying-its-not-that-hot-challenge/
 2026-07-16T21:59:00+00:00	The Great Software Regress: How "Move Fast and Break Things" Broke Our Lives https://imdanielkendall.com/the-great-software-regress-how-move-fast-and-break-things-broke-our-lives/
 2026-07-17T03:23:00+00:00	Where philosophy fails me https://doodhpeda.bearblog.dev/blog/where-philosophy-fails-me/
+2026-07-17T04:33:00+00:00	The Unread Personal Blog as a Vital Disability Accommodation https://davidmcgee.xyz/the-unread-personal-blog-as-a-vital-disability-accommodation/
 2026-07-17T05:33:27.974841+00:00	i don't want to be defined by only one thing https://rnotte.art/i-dont-want-to-be-defined-by-only-one-thing/
 2026-07-17T20:01:00+00:00	The most American thing about me is the coffee https://tadaima.bearblog.dev/american-coffee/
 2026-07-17T22:12:45.121818+00:00	Online Friends Are Real Friends https://blog.absurdpirate.com/online-friends-are-real-friends/
