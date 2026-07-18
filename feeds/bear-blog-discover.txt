@@ -5,7 +5,6 @@
 
 2026-07-12T13:49:00+00:00	Bear Blogging - unanswered questions https://loveisverbing.bearblog.dev/bear-quest/
 2026-07-12T16:18:00+00:00	Retro computer advertising memories https://basic.bearblog.dev/retro-computer-advertising-memories/
-2026-07-12T17:15:00+00:00	How I Collect Blog Statistics, Respectfully https://onlinegoddess.net/2026/07/how-i-collect-blog-statistics-respectfully/
 2026-07-13T05:48:00+00:00	The tab I've had opened longest in my browser https://blog.lauramichet.com/the-tab-ive-had-opened-longest-in-my-browser/
 2026-07-13T09:55:00+00:00	Re: An Infuriating Goodbye to Photoshop https://onlinegoddess.net/2026/07/re-an-infuriating-goodbye-to-photoshop/
 2026-07-13T14:55:00+00:00	I started a "dirt notebook" https://pinewind.bearblog.dev/i-started-a-dirt-notebook/
@@ -16,10 +15,11 @@
 2026-07-15T14:14:00+00:00	Enjoying Blogs with custom content through RSS https://musings101.bearblog.dev/enjoying-blogs-with-custom-content-through-rss/
 2026-07-15T16:11:00+00:00	Blank blogging counts too https://robertbirming.com/blank-blogging-counts/
 2026-07-15T17:30:00+00:00	Getting Frustrated with Big Bang Theory https://onlinegoddess.net/2026/07/getting-frustrated-with-big-bang-theory/
-2026-07-15T19:03:00+00:00	I hate playing at most OSR tables https://msquixotic.bearblog.dev/i-hate-playing-at-most-osr-tables/
 2026-07-15T20:06:00+00:00	Re: I started a "dirt notebook" https://notebookery.bearblog.dev/re-dirt-notebook/
 2026-07-16T00:01:00+00:00	Why are open table OSR games like that? https://unturnedhovel.bearblog.dev/why-are-open-table-osr-games-like-that/
 2026-07-16T14:49:00+00:00	Some jellyfish for your viewing pleasure https://wunderkammer.bearblog.dev/some-jellyfish-for-your-viewing-pleasure/
 2026-07-16T15:55:00+00:00	Anticipatory Grief https://notes.jeddacp.com/anticipatory-grief/
 2026-07-16T21:59:00+00:00	The Great Software Regress: How "Move Fast and Break Things" Broke Our Lives https://imdanielkendall.com/the-great-software-regress-how-move-fast-and-break-things-broke-our-lives/
 2026-07-17T03:23:00+00:00	Where philosophy fails me https://doodhpeda.bearblog.dev/blog/where-philosophy-fails-me/
+2026-07-17T05:33:27.974841+00:00	i don't want to be defined by only one thing https://rnotte.art/i-dont-want-to-be-defined-by-only-one-thing/
+2026-07-17T22:12:45.121818+00:00	Online Friends Are Real Friends https://blog.absurdpirate.com/online-friends-are-real-friends/
