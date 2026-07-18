@@ -3,7 +3,6 @@
 # source = https://bearblog.dev/discover/feed/
 # description = twtxt conversion of https://bearblog.dev/discover/feed/
 
-2026-07-12T16:18:00+00:00	Retro computer advertising memories https://basic.bearblog.dev/retro-computer-advertising-memories/
 2026-07-13T09:55:00+00:00	Re: An Infuriating Goodbye to Photoshop https://onlinegoddess.net/2026/07/re-an-infuriating-goodbye-to-photoshop/
 2026-07-13T14:55:00+00:00	I started a "dirt notebook" https://pinewind.bearblog.dev/i-started-a-dirt-notebook/
 2026-07-13T21:41:00+00:00	At last, satisfaction https://bitsofthis.bearblog.dev/greetings-people-of-bear/
@@ -23,3 +22,4 @@
 2026-07-17T05:33:27.974841+00:00	i don't want to be defined by only one thing https://rnotte.art/i-dont-want-to-be-defined-by-only-one-thing/
 2026-07-17T20:01:00+00:00	The most American thing about me is the coffee https://tadaima.bearblog.dev/american-coffee/
 2026-07-17T22:12:45.121818+00:00	Online Friends Are Real Friends https://blog.absurdpirate.com/online-friends-are-real-friends/
+2026-07-17T23:35:13.732613+00:00	Stubborn readers https://after.bearblog.dev/micro/stubborn-readers/
