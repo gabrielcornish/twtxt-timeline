@@ -4,7 +4,6 @@
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
 2026-07-15T11:01:04+00:00	Daily /r/Games Discussion - Suggest Me a Game - July 15, 2026 https://www.reddit.com/r/Games/comments/1ux2lj0/daily_rgames_discussion_suggest_me_a_game_july_15/
-2026-07-16T20:32:18+00:00	GameStop CEO Says Games Are "Irrelevant" To Company https://www.reddit.com/r/Games/comments/1uyefxu/gamestop_ceo_says_games_are_irrelevant_to_company/
 2026-07-17T08:08:06+00:00	Microsoft Restores Player's Hacked 25-Year-Old Account With Son's Baby Photos https://www.reddit.com/r/Games/comments/1uytf0l/microsoft_restores_players_hacked_25yearold/
 2026-07-17T10:00:40+00:00	Daily /r/Games Discussion - Free Talk Friday - July 17, 2026 https://www.reddit.com/r/Games/comments/1uyvcsn/daily_rgames_discussion_free_talk_friday_july_17/
 2026-07-17T12:59:10+00:00	Final Fantasy XIV Mobile to end service on September 30 in China, global version canceled https://www.reddit.com/r/Games/comments/1uyz0qs/final_fantasy_xiv_mobile_to_end_service_on/
@@ -12,7 +11,6 @@
 2026-07-17T14:35:57+00:00	Hytale Blog | First Look: Chapter 1 and More https://www.reddit.com/r/Games/comments/1uz1jup/hytale_blog_first_look_chapter_1_and_more/
 2026-07-17T15:44:25+00:00	MAID MAYHEM | Goblin Cleanup (Official Trailer) https://www.reddit.com/r/Games/comments/1uz3ejt/maid_mayhem_goblin_cleanup_official_trailer/
 2026-07-17T16:08:44+00:00	Assassins Creed Black Flag Resynced sells more than 3 million copies in a week https://www.reddit.com/r/Games/comments/1uz42rq/assassins_creed_black_flag_resynced_sells_more/
-2026-07-17T16:29:25+00:00	Database Detective: Minor Crimes Division | Launch Trailer https://www.reddit.com/r/Games/comments/1uz4n4a/database_detective_minor_crimes_division_launch/
 2026-07-17T16:33:58+00:00	Season 4 Naval Gameplay Deep Dive | Battlefield 6 https://www.reddit.com/r/Games/comments/1uz4rle/season_4_naval_gameplay_deep_dive_battlefield_6/
 2026-07-17T16:52:43+00:00	Kyoto Xanadu Held Back For 11 Years Because Of The Trails Series https://www.reddit.com/r/Games/comments/1uz59vq/kyoto_xanadu_held_back_for_11_years_because_of/
 2026-07-17T17:12:02+00:00	Marathon Game Director Joe Ziegler is leaving Bungie https://www.reddit.com/r/Games/comments/1uz5tm6/marathon_game_director_joe_ziegler_is_leaving/
@@ -28,3 +26,5 @@
 2026-07-18T05:49:31+00:00	Jennifer English Leaves Tides of Annihilation Role After Health Concerns https://www.reddit.com/r/Games/comments/1uznhu6/jennifer_english_leaves_tides_of_annihilation/
 2026-07-18T08:47:18+00:00	Castlevania: Belmont's Curse: The First Preview https://www.reddit.com/r/Games/comments/1uzqmat/castlevania_belmonts_curse_the_first_preview/
 2026-07-18T12:52:23+00:00	FOGPIERCER - Official Launch Trailer https://www.reddit.com/r/Games/comments/1uzv472/fogpiercer_official_launch_trailer/
+2026-07-18T14:02:46+00:00	Gears of War's CliffyB is making a new game, but it won't have PvP https://www.reddit.com/r/Games/comments/1uzwqp4/gears_of_wars_cliffyb_is_making_a_new_game_but_it/
+2026-07-18T15:01:33+00:00	Solaire - Official Announcement Trailer https://www.reddit.com/r/Games/comments/1uzy6sd/solaire_official_announcement_trailer/
