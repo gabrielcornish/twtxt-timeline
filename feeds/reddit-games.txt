@@ -5,12 +5,9 @@
 
 2026-07-15T11:01:04+00:00	Daily /r/Games Discussion - Suggest Me a Game - July 15, 2026 https://www.reddit.com/r/Games/comments/1ux2lj0/daily_rgames_discussion_suggest_me_a_game_july_15/
 2026-07-17T08:08:06+00:00	Microsoft Restores Player's Hacked 25-Year-Old Account With Son's Baby Photos https://www.reddit.com/r/Games/comments/1uytf0l/microsoft_restores_players_hacked_25yearold/
-2026-07-17T10:00:40+00:00	Daily /r/Games Discussion - Free Talk Friday - July 17, 2026 https://www.reddit.com/r/Games/comments/1uyvcsn/daily_rgames_discussion_free_talk_friday_july_17/
 2026-07-17T14:14:51+00:00	A Note From Bethesda: Fallout 5 is currently in preproduction, in development on Creation Engine 3. Fallout 3 and Fallout: New Vegas remasters in development https://www.reddit.com/r/Games/comments/1uz0zoy/a_note_from_bethesda_fallout_5_is_currently_in/
 2026-07-17T14:35:57+00:00	Hytale Blog | First Look: Chapter 1 and More https://www.reddit.com/r/Games/comments/1uz1jup/hytale_blog_first_look_chapter_1_and_more/
 2026-07-17T16:08:44+00:00	Assassins Creed Black Flag Resynced sells more than 3 million copies in a week https://www.reddit.com/r/Games/comments/1uz42rq/assassins_creed_black_flag_resynced_sells_more/
-2026-07-17T16:33:58+00:00	Season 4 Naval Gameplay Deep Dive | Battlefield 6 https://www.reddit.com/r/Games/comments/1uz4rle/season_4_naval_gameplay_deep_dive_battlefield_6/
-2026-07-17T16:52:43+00:00	Kyoto Xanadu Held Back For 11 Years Because Of The Trails Series https://www.reddit.com/r/Games/comments/1uz59vq/kyoto_xanadu_held_back_for_11_years_because_of/
 2026-07-17T17:12:02+00:00	Marathon Game Director Joe Ziegler is leaving Bungie https://www.reddit.com/r/Games/comments/1uz5tm6/marathon_game_director_joe_ziegler_is_leaving/
 2026-07-17T17:41:47+00:00	ZA/UM laying off 32 employees after Zero Parades fails to reach commercial success https://www.reddit.com/r/Games/comments/1uz6nn4/zaum_laying_off_32_employees_after_zero_parades/
 2026-07-17T19:00:05+00:00	Civvie 11 - CLASSIC QUAKE EXPANSIONS https://www.reddit.com/r/Games/comments/1uz8u7n/civvie_11_classic_quake_expansions/
@@ -28,3 +25,6 @@
 2026-07-18T19:39:19+00:00	Keepers of Vyrellia - Official Gameplay Trailer https://www.reddit.com/r/Games/comments/1v0594l/keepers_of_vyrellia_official_gameplay_trailer/
 2026-07-18T21:41:59+00:00	AetherCycle - Official Early Access Release Window Trailer https://www.reddit.com/r/Games/comments/1v088am/aethercycle_official_early_access_release_window/
 2026-07-19T00:50:08+00:00	Valve Reportedly Sells 12-15K Steam Machine Units Per Week https://www.reddit.com/r/Games/comments/1v0cggg/valve_reportedly_sells_1215k_steam_machine_units/
+2026-07-19T04:00:41+00:00	Indie Sunday Hub - July 19, 2026 https://www.reddit.com/r/Games/comments/1v0g8wc/indie_sunday_hub_july_19_2026/
+2026-07-19T04:01:49+00:00	Musgro Farm - Metal Games - 3D Incremental Factory Game (PC + Steam Deck) https://www.reddit.com/r/Games/comments/1v0g9si/musgro_farm_metal_games_3d_incremental_factory/
+2026-07-19T04:46:01+00:00	Pass The Fear - PlayMud Studio - Gungeon-like with outrageous loot synergies releasing this week https://www.reddit.com/r/Games/comments/1v0h3jp/pass_the_fear_playmud_studio_gungeonlike_with/
