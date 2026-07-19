@@ -4,12 +4,12 @@
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
 2026-07-18T05:49:31+00:00	Jennifer English Leaves Tides of Annihilation Role After Health Concerns https://www.reddit.com/r/Games/comments/1uznhu6/jennifer_english_leaves_tides_of_annihilation/
-2026-07-18T08:47:18+00:00	Castlevania: Belmont's Curse: The First Preview https://www.reddit.com/r/Games/comments/1uzqmat/castlevania_belmonts_curse_the_first_preview/
 2026-07-18T15:01:33+00:00	Solaire - Official Announcement Trailer https://www.reddit.com/r/Games/comments/1uzy6sd/solaire_official_announcement_trailer/
 2026-07-18T19:04:57+00:00	DREADMOOR - Official Demo Release Date Trailer https://www.reddit.com/r/Games/comments/1v04dw3/dreadmoor_official_demo_release_date_trailer/
 2026-07-18T19:29:29+00:00	Swords of Legends - Gameplay Preview https://www.reddit.com/r/Games/comments/1v0509b/swords_of_legends_gameplay_preview/
 2026-07-18T21:41:59+00:00	AetherCycle - Official Early Access Release Window Trailer https://www.reddit.com/r/Games/comments/1v088am/aethercycle_official_early_access_release_window/
 2026-07-19T04:00:41+00:00	Indie Sunday Hub - July 19, 2026 https://www.reddit.com/r/Games/comments/1v0g8wc/indie_sunday_hub_july_19_2026/
+2026-07-19T04:46:01+00:00	Pass The Fear - PlayMud Studio - Gungeon-like with outrageous loot synergies releasing this week https://www.reddit.com/r/Games/comments/1v0h3jp/pass_the_fear_playmud_studio_gungeonlike_with/
 2026-07-19T09:00:28+00:00	Weekly /r/Games Discussion - What have you been playing, and what are your thoughts? - July 19, 2026 https://www.reddit.com/r/Games/comments/1v0ljfu/weekly_rgames_discussion_what_have_you_been/
 2026-07-19T10:47:07+00:00	Hungry Horrors - Clumsy Bear Studio - Serve a Banshee the right dish and you live. Get the flavour wrong and you're dinner. A roguelite deckbuilder rooted in real British and Irish folklore and real historical food. https://www.reddit.com/r/Games/comments/1v0ncal/hungry_horrors_clumsy_bear_studio_serve_a_banshee/
 2026-07-19T10:51:16+00:00	Marmorea - Burning Farmhouse Studios - A psychological mystery horror game about a brother's disappearance in the eerie marble quarries of Tuscany https://www.reddit.com/r/Games/comments/1v0neu1/marmorea_burning_farmhouse_studios_a/
@@ -27,4 +27,4 @@
 2026-07-19T13:24:40+00:00	Imprinted - Cobalt Lane - Fake OS Mystery and Audio Sim https://www.reddit.com/r/Games/comments/1v0qjg8/imprinted_cobalt_lane_fake_os_mystery_and_audio/
 2026-07-19T13:28:31+00:00	Kardiya: The Winds of Fate - InEv Games - Narrative RPG inspired by FATE RPG mechanics. https://www.reddit.com/r/Games/comments/1v0qmlp/kardiya_the_winds_of_fate_inev_games_narrative/
 2026-07-19T14:45:46+00:00	Salt and Soil - DelosX - a minimalist colony sim about American Frontier 1600-1900 https://www.reddit.com/r/Games/comments/1v0sfxq/salt_and_soil_delosx_a_minimalist_colony_sim/
-2026-07-19T15:27:06+00:00	Crown's Trial - Gilded Games - Historical Soulslite Bossrush https://www.reddit.com/r/Games/comments/1v0tgpn/crowns_trial_gilded_games_historical_soulslite/
+2026-07-19T16:26:59+00:00	Jenny the Witch - Catbird Soft - Sci-fi hack & slash where you fight a horde of robots in the sewers below New York City. Launching this Wednesday! https://www.reddit.com/r/Games/comments/1v0uzyq/jenny_the_witch_catbird_soft_scifi_hack_slash/
