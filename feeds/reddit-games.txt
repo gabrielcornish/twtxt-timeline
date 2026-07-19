@@ -3,21 +3,11 @@
 # source = https://www.reddit.com/r/Games.rss
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
-2026-07-15T11:01:04+00:00	Daily /r/Games Discussion - Suggest Me a Game - July 15, 2026 https://www.reddit.com/r/Games/comments/1ux2lj0/daily_rgames_discussion_suggest_me_a_game_july_15/
-2026-07-17T08:08:06+00:00	Microsoft Restores Player's Hacked 25-Year-Old Account With Son's Baby Photos https://www.reddit.com/r/Games/comments/1uytf0l/microsoft_restores_players_hacked_25yearold/
 2026-07-17T14:14:51+00:00	A Note From Bethesda: Fallout 5 is currently in preproduction, in development on Creation Engine 3. Fallout 3 and Fallout: New Vegas remasters in development https://www.reddit.com/r/Games/comments/1uz0zoy/a_note_from_bethesda_fallout_5_is_currently_in/
-2026-07-17T14:35:57+00:00	Hytale Blog | First Look: Chapter 1 and More https://www.reddit.com/r/Games/comments/1uz1jup/hytale_blog_first_look_chapter_1_and_more/
-2026-07-17T16:08:44+00:00	Assassins Creed Black Flag Resynced sells more than 3 million copies in a week https://www.reddit.com/r/Games/comments/1uz42rq/assassins_creed_black_flag_resynced_sells_more/
 2026-07-17T17:12:02+00:00	Marathon Game Director Joe Ziegler is leaving Bungie https://www.reddit.com/r/Games/comments/1uz5tm6/marathon_game_director_joe_ziegler_is_leaving/
 2026-07-17T17:41:47+00:00	ZA/UM laying off 32 employees after Zero Parades fails to reach commercial success https://www.reddit.com/r/Games/comments/1uz6nn4/zaum_laying_off_32_employees_after_zero_parades/
-2026-07-17T19:00:05+00:00	Civvie 11 - CLASSIC QUAKE EXPANSIONS https://www.reddit.com/r/Games/comments/1uz8u7n/civvie_11_classic_quake_expansions/
-2026-07-17T19:04:38+00:00	Zaheer Character Reveal Trailer (Avatar Legends: The Fighting Game) https://www.reddit.com/r/Games/comments/1uz8yty/zaheer_character_reveal_trailer_avatar_legends/
-2026-07-17T19:18:45+00:00	Ghouls 'n Ghosts Commentary https://www.reddit.com/r/Games/comments/1uz9czh/ghouls_n_ghosts_commentary/
-2026-07-17T20:28:29+00:00	Necesse Rust & Romance Update Trailer https://www.reddit.com/r/Games/comments/1uzb85w/necesse_rust_romance_update_trailer/
 2026-07-17T22:28:19+00:00	Nintendo reveals Japan's best-selling Switch 2 and Switch eShop games for first half of 2026 https://www.reddit.com/r/Games/comments/1uze8fo/nintendo_reveals_japans_bestselling_switch_2_and/
-2026-07-18T03:25:54+00:00	False Echo | Official Trailer https://www.reddit.com/r/Games/comments/1uzkpln/false_echo_official_trailer/
 2026-07-18T05:49:31+00:00	Jennifer English Leaves Tides of Annihilation Role After Health Concerns https://www.reddit.com/r/Games/comments/1uznhu6/jennifer_english_leaves_tides_of_annihilation/
-2026-07-18T06:55:20+00:00	Lucas Immanuel On Creating ‘The Remake Of The End Of The Greatest RPG Of All Time’ https://www.reddit.com/r/Games/comments/1uzooui/lucas_immanuel_on_creating_the_remake_of_the_end/
 2026-07-18T08:47:18+00:00	Castlevania: Belmont's Curse: The First Preview https://www.reddit.com/r/Games/comments/1uzqmat/castlevania_belmonts_curse_the_first_preview/
 2026-07-18T15:01:33+00:00	Solaire - Official Announcement Trailer https://www.reddit.com/r/Games/comments/1uzy6sd/solaire_official_announcement_trailer/
 2026-07-18T19:04:57+00:00	DREADMOOR - Official Demo Release Date Trailer https://www.reddit.com/r/Games/comments/1v04dw3/dreadmoor_official_demo_release_date_trailer/
@@ -28,3 +18,13 @@
 2026-07-19T04:00:41+00:00	Indie Sunday Hub - July 19, 2026 https://www.reddit.com/r/Games/comments/1v0g8wc/indie_sunday_hub_july_19_2026/
 2026-07-19T04:01:49+00:00	Musgro Farm - Metal Games - 3D Incremental Factory Game (PC + Steam Deck) https://www.reddit.com/r/Games/comments/1v0g9si/musgro_farm_metal_games_3d_incremental_factory/
 2026-07-19T04:46:01+00:00	Pass The Fear - PlayMud Studio - Gungeon-like with outrageous loot synergies releasing this week https://www.reddit.com/r/Games/comments/1v0h3jp/pass_the_fear_playmud_studio_gungeonlike_with/
+2026-07-19T07:56:08+00:00	Resurgis: Rise of the Dead - GoldArrow Games - 3D dark fantasy action game https://www.reddit.com/r/Games/comments/1v0kgl7/resurgis_rise_of_the_dead_goldarrow_games_3d_dark/
+2026-07-19T08:07:40+00:00	Frost Protocol - Stonewake Studios - Turnbased SciFi strategy game - XCOM-like stucture: Manage a base and its survivors at daytime and go on expeditions with a powerful squad of customizable combat robots at night. https://www.reddit.com/r/Games/comments/1v0knst/frost_protocol_stonewake_studios_turnbased_scifi/
+2026-07-19T08:11:46+00:00	Drunken FC: The Cupdate - Red Herring Labs - It's football, but everyone on the pitch is drunk. https://www.reddit.com/r/Games/comments/1v0kq9q/drunken_fc_the_cupdate_red_herring_labs_its/
+2026-07-19T08:14:34+00:00	Kickstarter For Geneforge 3 - Detonation Has Launched! Third Chapter of Spiderweb Software's Cult-Classic Series of Indie RPGs. https://www.reddit.com/r/Games/comments/1v0krzt/kickstarter_for_geneforge_3_detonation_has/
+2026-07-19T08:19:00+00:00	Marmorea - A psychological mystery horror game about a brother's disappearance in the eerie marble quarries of Tuscany. https://www.reddit.com/r/Games/comments/1v0kup9/marmorea_a_psychological_mystery_horror_game/
+2026-07-19T08:55:13+00:00	Kill Your Heart - GoodMorningMrFrog - Resident Evil x Persona urban RPG where love turns people into monsters https://www.reddit.com/r/Games/comments/1v0lg83/kill_your_heart_goodmorningmrfrog_resident_evil_x/
+2026-07-19T09:00:28+00:00	Weekly /r/Games Discussion - What have you been playing, and what are your thoughts? - July 19, 2026 https://www.reddit.com/r/Games/comments/1v0ljfu/weekly_rgames_discussion_what_have_you_been/
+2026-07-19T09:04:22+00:00	[WARLANCER - Armored Survivor] - cycursive.games - Mecha Bullet Heaven / Hell https://www.reddit.com/r/Games/comments/1v0llui/warlancer_armored_survivor_cycursivegames_mecha/
+2026-07-19T09:05:11+00:00	XENOFLEKT - Catoio Software - Parry the bullet hell https://www.reddit.com/r/Games/comments/1v0lmbr/xenoflekt_catoio_software_parry_the_bullet_hell/
+2026-07-19T09:16:19+00:00	Mars Rapid Transit - Crystalline Green - Train tycoon game https://www.reddit.com/r/Games/comments/1v0lt2d/mars_rapid_transit_crystalline_green_train_tycoon/
