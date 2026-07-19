@@ -3,28 +3,28 @@
 # source = https://www.reddit.com/r/Games.rss
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
-2026-07-17T14:14:51+00:00	A Note From Bethesda: Fallout 5 is currently in preproduction, in development on Creation Engine 3. Fallout 3 and Fallout: New Vegas remasters in development https://www.reddit.com/r/Games/comments/1uz0zoy/a_note_from_bethesda_fallout_5_is_currently_in/
-2026-07-17T17:41:47+00:00	ZA/UM laying off 32 employees after Zero Parades fails to reach commercial success https://www.reddit.com/r/Games/comments/1uz6nn4/zaum_laying_off_32_employees_after_zero_parades/
 2026-07-18T05:49:31+00:00	Jennifer English Leaves Tides of Annihilation Role After Health Concerns https://www.reddit.com/r/Games/comments/1uznhu6/jennifer_english_leaves_tides_of_annihilation/
 2026-07-18T08:47:18+00:00	Castlevania: Belmont's Curse: The First Preview https://www.reddit.com/r/Games/comments/1uzqmat/castlevania_belmonts_curse_the_first_preview/
 2026-07-18T15:01:33+00:00	Solaire - Official Announcement Trailer https://www.reddit.com/r/Games/comments/1uzy6sd/solaire_official_announcement_trailer/
 2026-07-18T19:04:57+00:00	DREADMOOR - Official Demo Release Date Trailer https://www.reddit.com/r/Games/comments/1v04dw3/dreadmoor_official_demo_release_date_trailer/
 2026-07-18T19:29:29+00:00	Swords of Legends - Gameplay Preview https://www.reddit.com/r/Games/comments/1v0509b/swords_of_legends_gameplay_preview/
-2026-07-18T19:39:19+00:00	Keepers of Vyrellia - Official Gameplay Trailer https://www.reddit.com/r/Games/comments/1v0594l/keepers_of_vyrellia_official_gameplay_trailer/
 2026-07-18T21:41:59+00:00	AetherCycle - Official Early Access Release Window Trailer https://www.reddit.com/r/Games/comments/1v088am/aethercycle_official_early_access_release_window/
 2026-07-19T04:00:41+00:00	Indie Sunday Hub - July 19, 2026 https://www.reddit.com/r/Games/comments/1v0g8wc/indie_sunday_hub_july_19_2026/
 2026-07-19T04:46:01+00:00	Pass The Fear - PlayMud Studio - Gungeon-like with outrageous loot synergies releasing this week https://www.reddit.com/r/Games/comments/1v0h3jp/pass_the_fear_playmud_studio_gungeonlike_with/
 2026-07-19T07:56:08+00:00	Resurgis: Rise of the Dead - GoldArrow Games - 3D dark fantasy action game https://www.reddit.com/r/Games/comments/1v0kgl7/resurgis_rise_of_the_dead_goldarrow_games_3d_dark/
-2026-07-19T08:11:46+00:00	Drunken FC: The Cupdate - Red Herring Labs - It's football, but everyone on the pitch is drunk. https://www.reddit.com/r/Games/comments/1v0kq9q/drunken_fc_the_cupdate_red_herring_labs_its/
-2026-07-19T08:14:34+00:00	Kickstarter For Geneforge 3 - Detonation Has Launched! Third Chapter of Spiderweb Software's Cult-Classic Series of Indie RPGs. https://www.reddit.com/r/Games/comments/1v0krzt/kickstarter_for_geneforge_3_detonation_has/
 2026-07-19T08:55:13+00:00	Kill Your Heart - GoodMorningMrFrog - Resident Evil x Persona urban RPG where love turns people into monsters https://www.reddit.com/r/Games/comments/1v0lg83/kill_your_heart_goodmorningmrfrog_resident_evil_x/
 2026-07-19T09:00:28+00:00	Weekly /r/Games Discussion - What have you been playing, and what are your thoughts? - July 19, 2026 https://www.reddit.com/r/Games/comments/1v0ljfu/weekly_rgames_discussion_what_have_you_been/
-2026-07-19T09:04:22+00:00	[WARLANCER - Armored Survivor] - cycursive.games - Mecha Bullet Heaven / Hell https://www.reddit.com/r/Games/comments/1v0llui/warlancer_armored_survivor_cycursivegames_mecha/
-2026-07-19T09:05:11+00:00	XENOFLEKT - Catoio Software - Parry the bullet hell https://www.reddit.com/r/Games/comments/1v0lmbr/xenoflekt_catoio_software_parry_the_bullet_hell/
-2026-07-19T09:16:19+00:00	Mars Rapid Transit - Crystalline Green - Train tycoon game https://www.reddit.com/r/Games/comments/1v0lt2d/mars_rapid_transit_crystalline_green_train_tycoon/
-2026-07-19T09:48:02+00:00	Heavy Metal Racing - Cyber Cubic Games - combat racing game - game trailer https://www.reddit.com/r/Games/comments/1v0mbru/heavy_metal_racing_cyber_cubic_games_combat/
 2026-07-19T10:47:07+00:00	Hungry Horrors - Clumsy Bear Studio - Serve a Banshee the right dish and you live. Get the flavour wrong and you're dinner. A roguelite deckbuilder rooted in real British and Irish folklore and real historical food. https://www.reddit.com/r/Games/comments/1v0ncal/hungry_horrors_clumsy_bear_studio_serve_a_banshee/
 2026-07-19T10:51:16+00:00	Marmorea - Burning Farmhouse Studios - A psychological mystery horror game about a brother's disappearance in the eerie marble quarries of Tuscany https://www.reddit.com/r/Games/comments/1v0neu1/marmorea_burning_farmhouse_studios_a/
 2026-07-19T10:59:13+00:00	As We Descend - Box Dragon - Apocalyptic strategy roguelike blending Slay the Spire with Darkest Dungeon! https://www.reddit.com/r/Games/comments/1v0njvy/as_we_descend_box_dragon_apocalyptic_strategy/
 2026-07-19T11:03:32+00:00	The Last Comfort - ∙DELMAR - A Metroidvania set in a child's subconscious mind https://www.reddit.com/r/Games/comments/1v0nmye/the_last_comfort_delmar_a_metroidvania_set_in_a/
 2026-07-19T11:18:11+00:00	My Brother Hacker - Hotix (solo dev) - a story-driven hacking sim set entirely inside a computer in 2036 https://www.reddit.com/r/Games/comments/1v0nwkv/my_brother_hacker_hotix_solo_dev_a_storydriven/
+2026-07-19T11:57:26+00:00	Cosmic Holidays - I AM A DOG Studio - A peaceful hand-drawn adventure built around an inflatable head. https://www.reddit.com/r/Games/comments/1v0onod/cosmic_holidays_i_am_a_dog_studio_a_peaceful/
+2026-07-19T12:06:19+00:00	The Quizard's Domain - Calm Pewter Games - What if Smash Bros, Jackbox and Among Us had a baby!? https://www.reddit.com/r/Games/comments/1v0oupm/the_quizards_domain_calm_pewter_games_what_if/
+2026-07-19T12:16:11+00:00	Hired Blade - Longsword Games - Announcement trailer and Demo officially out https://www.reddit.com/r/Games/comments/1v0p251/hired_blade_longsword_games_announcement_trailer/
+2026-07-19T12:24:04+00:00	The Duke is Dead - Bunk Bed Software - Upcoming Detective Game With New Demo! https://www.reddit.com/r/Games/comments/1v0p82z/the_duke_is_dead_bunk_bed_software_upcoming/
+2026-07-19T12:30:27+00:00	Tears of Adria - Ark Island Studio - A real-time Heroes-style strategy RPG with autobattles https://www.reddit.com/r/Games/comments/1v0pcta/tears_of_adria_ark_island_studio_a_realtime/
+2026-07-19T12:50:39+00:00	LightSup! - BugBlio Studio - A chaotic 1–4 player co-op roguelite adventure https://www.reddit.com/r/Games/comments/1v0ps8x/lightsup_bugblio_studio_a_chaotic_14_player_coop/
+2026-07-19T13:05:27+00:00	Out of Office! - besszong - You and your fellow employees have been sent on a wilderness team building retreat to create synergy and corporate mandated fun. 2 - 6 player coop. https://www.reddit.com/r/Games/comments/1v0q41j/out_of_office_besszong_you_and_your_fellow/
+2026-07-19T13:11:52+00:00	UNFROST - Nord Unit - One nuke per run, find the Riftborn’s weakness before you launch it https://www.reddit.com/r/Games/comments/1v0q97f/unfrost_nord_unit_one_nuke_per_run_find_the/
+2026-07-19T13:28:31+00:00	Kardiya: The Winds of Fate - InEv Games - Narrative RPG inspired by FATE RPG mechanics. https://www.reddit.com/r/Games/comments/1v0qmlp/kardiya_the_winds_of_fate_inev_games_narrative/
