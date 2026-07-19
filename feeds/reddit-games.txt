@@ -4,27 +4,27 @@
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
 2026-07-18T15:01:33+00:00	Solaire - Official Announcement Trailer https://www.reddit.com/r/Games/comments/1uzy6sd/solaire_official_announcement_trailer/
-2026-07-18T19:04:57+00:00	DREADMOOR - Official Demo Release Date Trailer https://www.reddit.com/r/Games/comments/1v04dw3/dreadmoor_official_demo_release_date_trailer/
 2026-07-19T04:00:41+00:00	Indie Sunday Hub - July 19, 2026 https://www.reddit.com/r/Games/comments/1v0g8wc/indie_sunday_hub_july_19_2026/
 2026-07-19T09:00:28+00:00	Weekly /r/Games Discussion - What have you been playing, and what are your thoughts? - July 19, 2026 https://www.reddit.com/r/Games/comments/1v0ljfu/weekly_rgames_discussion_what_have_you_been/
 2026-07-19T10:47:07+00:00	Hungry Horrors - Clumsy Bear Studio - Serve a Banshee the right dish and you live. Get the flavour wrong and you're dinner. A roguelite deckbuilder rooted in real British and Irish folklore and real historical food. https://www.reddit.com/r/Games/comments/1v0ncal/hungry_horrors_clumsy_bear_studio_serve_a_banshee/
 2026-07-19T10:51:16+00:00	Marmorea - Burning Farmhouse Studios - A psychological mystery horror game about a brother's disappearance in the eerie marble quarries of Tuscany https://www.reddit.com/r/Games/comments/1v0neu1/marmorea_burning_farmhouse_studios_a/
 2026-07-19T10:59:13+00:00	As We Descend - Box Dragon - Apocalyptic strategy roguelike blending Slay the Spire with Darkest Dungeon! https://www.reddit.com/r/Games/comments/1v0njvy/as_we_descend_box_dragon_apocalyptic_strategy/
-2026-07-19T11:03:32+00:00	The Last Comfort - ∙DELMAR - A Metroidvania set in a child's subconscious mind https://www.reddit.com/r/Games/comments/1v0nmye/the_last_comfort_delmar_a_metroidvania_set_in_a/
 2026-07-19T11:18:11+00:00	My Brother Hacker - Hotix (solo dev) - a story-driven hacking sim set entirely inside a computer in 2036 https://www.reddit.com/r/Games/comments/1v0nwkv/my_brother_hacker_hotix_solo_dev_a_storydriven/
 2026-07-19T11:57:26+00:00	Cosmic Holidays - I AM A DOG Studio - A peaceful hand-drawn adventure built around an inflatable head. https://www.reddit.com/r/Games/comments/1v0onod/cosmic_holidays_i_am_a_dog_studio_a_peaceful/
 2026-07-19T12:06:19+00:00	The Quizard's Domain - Calm Pewter Games - What if Smash Bros, Jackbox and Among Us had a baby!? https://www.reddit.com/r/Games/comments/1v0oupm/the_quizards_domain_calm_pewter_games_what_if/
-2026-07-19T12:16:11+00:00	Hired Blade - Longsword Games - Announcement trailer and Demo officially out https://www.reddit.com/r/Games/comments/1v0p251/hired_blade_longsword_games_announcement_trailer/
 2026-07-19T12:24:04+00:00	The Duke is Dead - Bunk Bed Software - Upcoming Detective Game With New Demo! https://www.reddit.com/r/Games/comments/1v0p82z/the_duke_is_dead_bunk_bed_software_upcoming/
-2026-07-19T12:30:27+00:00	Tears of Adria - Ark Island Studio - A real-time Heroes-style strategy RPG with autobattles https://www.reddit.com/r/Games/comments/1v0pcta/tears_of_adria_ark_island_studio_a_realtime/
-2026-07-19T12:50:39+00:00	LightSup! - BugBlio Studio - A chaotic 1–4 player co-op roguelite adventure https://www.reddit.com/r/Games/comments/1v0ps8x/lightsup_bugblio_studio_a_chaotic_14_player_coop/
 2026-07-19T13:11:52+00:00	UNFROST - Nord Unit - One nuke per run, find the Riftborn’s weakness before you launch it https://www.reddit.com/r/Games/comments/1v0q97f/unfrost_nord_unit_one_nuke_per_run_find_the/
 2026-07-19T13:24:40+00:00	Imprinted - Cobalt Lane - Fake OS Mystery and Audio Sim https://www.reddit.com/r/Games/comments/1v0qjg8/imprinted_cobalt_lane_fake_os_mystery_and_audio/
 2026-07-19T13:28:31+00:00	Kardiya: The Winds of Fate - InEv Games - Narrative RPG inspired by FATE RPG mechanics. https://www.reddit.com/r/Games/comments/1v0qmlp/kardiya_the_winds_of_fate_inev_games_narrative/
-2026-07-19T13:38:58+00:00	Compress(space) - B-Deshi Interactive - A Viewfinder and Celeste inspired space-bending puzzle game where you reshape geometry to rewrite reality. https://www.reddit.com/r/Games/comments/1v0qv06/compressspace_bdeshi_interactive_a_viewfinder_and/
 2026-07-19T14:45:46+00:00	Salt and Soil - DelosX - a minimalist colony sim about American Frontier 1600-1900 https://www.reddit.com/r/Games/comments/1v0sfxq/salt_and_soil_delosx_a_minimalist_colony_sim/
 2026-07-19T16:26:59+00:00	Jenny the Witch - Catbird Soft - Sci-fi hack & slash where you fight a horde of robots in the sewers below New York City. Launching this Wednesday! https://www.reddit.com/r/Games/comments/1v0uzyq/jenny_the_witch_catbird_soft_scifi_hack_slash/
 2026-07-19T17:58:15+00:00	Delivery Control - Sebasa Games - Horror simulator of checking parcels in a warehouse https://www.reddit.com/r/Games/comments/1v0xca6/delivery_control_sebasa_games_horror_simulator_of/
 2026-07-19T19:20:11+00:00	Ministry of Order - VoltekPlay - Papers, Please, but the documents are newborns and one wrong match can erase a family https://www.reddit.com/r/Games/comments/1v0zdfg/ministry_of_order_voltekplay_papers_please_but/
+2026-07-19T20:05:32+00:00	Dragon Dragon Fire Fire Deluxe - Zephyrix - A classic 80s style arcade game https://www.reddit.com/r/Games/comments/1v10exn/dragon_dragon_fire_fire_deluxe_zephyrix_a_classic/
+2026-07-19T20:30:25+00:00	Star Vortex - Zorg - Spaceship Building Action RPG https://www.reddit.com/r/Games/comments/1v110sp/star_vortex_zorg_spaceship_building_action_rpg/
 2026-07-19T20:55:43+00:00	Cruslord - Fight Crusader Kings 3 battles, sieges & duels in Bannerlord https://www.reddit.com/r/Games/comments/1v11l59/cruslord_fight_crusader_kings_3_battles_sieges/
-2026-07-19T20:57:34+00:00	Mowties - MogMekGames - Balatro meets Monopoly https://www.reddit.com/r/Games/comments/1v11mnl/mowties_mogmekgames_balatro_meets_monopoly/
+2026-07-19T21:17:39+00:00	Cancelled Kingdom Hearts Missing-Link Footage Reportedly Leaks, and It’s Really Bizarre https://www.reddit.com/r/Games/comments/1v122fj/cancelled_kingdom_hearts_missinglink_footage/
+2026-07-19T21:22:35+00:00	Shadow Labyrinth 1-Year Anniversary Community Q&A (with creative producer Toru Takahashi) https://www.reddit.com/r/Games/comments/1v126e6/shadow_labyrinth_1year_anniversary_community_qa/
+2026-07-19T21:22:42+00:00	Survivor Mercs - Wolpertinger Games - You & your Squad vs. M.E.G.A. Corp: active twin-stick shooter + relentless horde survival + tactical squad-builder https://www.reddit.com/r/Games/comments/1v126hu/survivor_mercs_wolpertinger_games_you_your_squad/
+2026-07-19T21:26:48+00:00	WOLF OF THE DESERT - AJInteractive - most ambitious indie cyberpunk stealth action game! https://www.reddit.com/r/Games/comments/1v129t0/wolf_of_the_desert_ajinteractive_most_ambitious/
+2026-07-19T21:49:57+00:00	GalactiWar - Silver - Sandbox God Game With Space Empires https://www.reddit.com/r/Games/comments/1v12rno/galactiwar_silver_sandbox_god_game_with_space/
