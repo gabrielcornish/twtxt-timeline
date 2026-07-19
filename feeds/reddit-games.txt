@@ -6,10 +6,8 @@
 2026-07-18T05:49:31+00:00	Jennifer English Leaves Tides of Annihilation Role After Health Concerns https://www.reddit.com/r/Games/comments/1uznhu6/jennifer_english_leaves_tides_of_annihilation/
 2026-07-18T15:01:33+00:00	Solaire - Official Announcement Trailer https://www.reddit.com/r/Games/comments/1uzy6sd/solaire_official_announcement_trailer/
 2026-07-18T19:04:57+00:00	DREADMOOR - Official Demo Release Date Trailer https://www.reddit.com/r/Games/comments/1v04dw3/dreadmoor_official_demo_release_date_trailer/
-2026-07-18T19:29:29+00:00	Swords of Legends - Gameplay Preview https://www.reddit.com/r/Games/comments/1v0509b/swords_of_legends_gameplay_preview/
 2026-07-18T21:41:59+00:00	AetherCycle - Official Early Access Release Window Trailer https://www.reddit.com/r/Games/comments/1v088am/aethercycle_official_early_access_release_window/
 2026-07-19T04:00:41+00:00	Indie Sunday Hub - July 19, 2026 https://www.reddit.com/r/Games/comments/1v0g8wc/indie_sunday_hub_july_19_2026/
-2026-07-19T04:46:01+00:00	Pass The Fear - PlayMud Studio - Gungeon-like with outrageous loot synergies releasing this week https://www.reddit.com/r/Games/comments/1v0h3jp/pass_the_fear_playmud_studio_gungeonlike_with/
 2026-07-19T09:00:28+00:00	Weekly /r/Games Discussion - What have you been playing, and what are your thoughts? - July 19, 2026 https://www.reddit.com/r/Games/comments/1v0ljfu/weekly_rgames_discussion_what_have_you_been/
 2026-07-19T10:47:07+00:00	Hungry Horrors - Clumsy Bear Studio - Serve a Banshee the right dish and you live. Get the flavour wrong and you're dinner. A roguelite deckbuilder rooted in real British and Irish folklore and real historical food. https://www.reddit.com/r/Games/comments/1v0ncal/hungry_horrors_clumsy_bear_studio_serve_a_banshee/
 2026-07-19T10:51:16+00:00	Marmorea - Burning Farmhouse Studios - A psychological mystery horror game about a brother's disappearance in the eerie marble quarries of Tuscany https://www.reddit.com/r/Games/comments/1v0neu1/marmorea_burning_farmhouse_studios_a/
@@ -22,9 +20,11 @@
 2026-07-19T12:24:04+00:00	The Duke is Dead - Bunk Bed Software - Upcoming Detective Game With New Demo! https://www.reddit.com/r/Games/comments/1v0p82z/the_duke_is_dead_bunk_bed_software_upcoming/
 2026-07-19T12:30:27+00:00	Tears of Adria - Ark Island Studio - A real-time Heroes-style strategy RPG with autobattles https://www.reddit.com/r/Games/comments/1v0pcta/tears_of_adria_ark_island_studio_a_realtime/
 2026-07-19T12:50:39+00:00	LightSup! - BugBlio Studio - A chaotic 1–4 player co-op roguelite adventure https://www.reddit.com/r/Games/comments/1v0ps8x/lightsup_bugblio_studio_a_chaotic_14_player_coop/
-2026-07-19T13:05:27+00:00	Out of Office! - besszong - You and your fellow employees have been sent on a wilderness team building retreat to create synergy and corporate mandated fun. 2 - 6 player coop. https://www.reddit.com/r/Games/comments/1v0q41j/out_of_office_besszong_you_and_your_fellow/
 2026-07-19T13:11:52+00:00	UNFROST - Nord Unit - One nuke per run, find the Riftborn’s weakness before you launch it https://www.reddit.com/r/Games/comments/1v0q97f/unfrost_nord_unit_one_nuke_per_run_find_the/
 2026-07-19T13:24:40+00:00	Imprinted - Cobalt Lane - Fake OS Mystery and Audio Sim https://www.reddit.com/r/Games/comments/1v0qjg8/imprinted_cobalt_lane_fake_os_mystery_and_audio/
 2026-07-19T13:28:31+00:00	Kardiya: The Winds of Fate - InEv Games - Narrative RPG inspired by FATE RPG mechanics. https://www.reddit.com/r/Games/comments/1v0qmlp/kardiya_the_winds_of_fate_inev_games_narrative/
+2026-07-19T13:38:58+00:00	Compress(space) - B-Deshi Interactive - A Viewfinder and Celeste inspired space-bending puzzle game where you reshape geometry to rewrite reality. https://www.reddit.com/r/Games/comments/1v0qv06/compressspace_bdeshi_interactive_a_viewfinder_and/
 2026-07-19T14:45:46+00:00	Salt and Soil - DelosX - a minimalist colony sim about American Frontier 1600-1900 https://www.reddit.com/r/Games/comments/1v0sfxq/salt_and_soil_delosx_a_minimalist_colony_sim/
 2026-07-19T16:26:59+00:00	Jenny the Witch - Catbird Soft - Sci-fi hack & slash where you fight a horde of robots in the sewers below New York City. Launching this Wednesday! https://www.reddit.com/r/Games/comments/1v0uzyq/jenny_the_witch_catbird_soft_scifi_hack_slash/
+2026-07-19T17:58:15+00:00	Delivery Control - Sebasa Games - Horror simulator of checking parcels in a warehouse https://www.reddit.com/r/Games/comments/1v0xca6/delivery_control_sebasa_games_horror_simulator_of/
+2026-07-19T19:20:11+00:00	Ministry of Order - VoltekPlay - Papers, Please, but the documents are newborns and one wrong match can erase a family https://www.reddit.com/r/Games/comments/1v0zdfg/ministry_of_order_voltekplay_papers_please_but/
