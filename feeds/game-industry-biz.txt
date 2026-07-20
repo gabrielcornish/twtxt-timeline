@@ -3,7 +3,6 @@
 # source = https://www.gamesindustry.biz/feed
 # description = twtxt conversion of https://www.gamesindustry.biz/feed
 
-2026-07-07T13:44:12+00:00	Xbox Game Pass subscriber count is less than 50% of original target https://www.gamesindustry.biz/xbox-game-pass-reportedly-boasts-around-30m-subscribers
 2026-07-07T14:02:00+00:00	IO Interactive to shutter Istanbul studio following end of Project Fantasy deal with Xbox https://www.gamesindustry.biz/io-interactive-to-shutter-istanbul-studio-following-end-of-project-fantasy-deal-with-xbox
 2026-07-07T14:07:20+00:00	Xbox retreats again – but to where? | Opinion https://www.gamesindustry.biz/xbox-retreats-again-but-to-where-opinion
 2026-07-08T07:48:20+00:00	"There's a wealth of talent here, our focus is on how to leverage and support it" – Atari appoints Andreas Deptolla as Atari Europe president https://www.gamesindustry.biz/theres-a-wealth-of-talent-here-our-focus-is-on-how-to-leverage-and-support-it-atari-appoints-andreas-deptolla-as-atari-europe-president
@@ -53,3 +52,4 @@
 2026-07-17T13:50:23+00:00	UKIE: 22% of UK games industry workforce affected by job losses in last three years https://www.gamesindustry.biz/ukie-22-of-uk-games-industry-workforce-affected-by-job-losses-in-last-three-years
 2026-07-17T14:00:00+00:00	Bethesda reveals plans for Fallout 5, The Elder Scrolls 6, and more https://www.gamesindustry.biz/bethesda-reveals-plans-for-fallout-5-the-elder-scrolls-6-and-more
 2026-07-17T14:53:58+00:00	Sky-high prices risk disaster for a console market struggling to grow | Opinion https://www.gamesindustry.biz/sky-high-prices-risk-disaster-for-a-console-market-struggling-to-grow-opinion
+2026-07-20T07:13:20+00:00	32 workers at ZA/UM laid off following release of Zero Parades: For Dead Spies https://www.gamesindustry.biz/32-workers-at-zaum-laid-off-following-release-of-zero-parades-for-dead-spies
