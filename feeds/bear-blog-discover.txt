@@ -3,9 +3,6 @@
 # source = https://bearblog.dev/discover/feed/
 # description = twtxt conversion of https://bearblog.dev/discover/feed/
 
-2026-07-13T21:41:00+00:00	At last, satisfaction https://bitsofthis.bearblog.dev/greetings-people-of-bear/
-2026-07-14T20:18:00+00:00	are "no AI" disclaimers really necessary? https://blog.basementcommunity.com/are-no-ai-disclaimers-really-necessary/
-2026-07-15T14:14:00+00:00	Enjoying Blogs with custom content through RSS https://musings101.bearblog.dev/enjoying-blogs-with-custom-content-through-rss/
 2026-07-15T16:11:00+00:00	Blank blogging counts too https://robertbirming.com/blank-blogging-counts/
 2026-07-15T17:30:00+00:00	Getting Frustrated with Big Bang Theory https://onlinegoddess.net/2026/07/getting-frustrated-with-big-bang-theory/
 2026-07-15T20:06:00+00:00	Re: I started a "dirt notebook" https://notebookery.bearblog.dev/re-dirt-notebook/
@@ -22,4 +19,7 @@
 2026-07-17T23:35:13.732613+00:00	Stubborn readers https://after.bearblog.dev/micro/stubborn-readers/
 2026-07-18T15:02:00+00:00	💌 Newsletter #012 - AI + Job Market = Cognitive Dissonance https://technically-good.ca/newsletter/012-2026-07-18/
 2026-07-18T17:42:00+00:00	Delving Into The Blogosphere https://onlinegoddess.net/2026/07/delving-into-the-blogosphere/
+2026-07-18T21:00:00+00:00	the graveyard is without walls https://some---things.com/withoutwalls/
 2026-07-19T01:09:00+00:00	Photos of things I didn't buy at the thrift store https://blog.lauramichet.com/photos-of-things-i-didnt-buy-at-the-thrift-store/
+2026-07-19T17:44:00+00:00	Many changes but still everything is the same https://forsomeone.bearblog.dev/many-changes-but-still-everything-is-the-same/
+2026-07-19T22:59:00+00:00	I no longer want to be extraordinary. https://bx.bearblog.dev/i-no-longer-want-to-be-extraordinary/
