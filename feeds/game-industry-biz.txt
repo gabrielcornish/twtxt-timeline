@@ -3,7 +3,6 @@
 # source = https://www.gamesindustry.biz/feed
 # description = twtxt conversion of https://www.gamesindustry.biz/feed
 
-2026-07-08T07:48:20+00:00	"There's a wealth of talent here, our focus is on how to leverage and support it" – Atari appoints Andreas Deptolla as Atari Europe president https://www.gamesindustry.biz/theres-a-wealth-of-talent-here-our-focus-is-on-how-to-leverage-and-support-it-atari-appoints-andreas-deptolla-as-atari-europe-president
 2026-07-08T09:15:21+00:00	Nexon to assume publishing duties for Overwatch on PC in South Korea https://www.gamesindustry.biz/nexon-to-assume-publishing-duties-for-overwatch-on-pc-in-south-korea
 2026-07-08T10:45:45+00:00	"Workers deserve protection, not to be treated like disposable line items" – Hundreds of union members affected by Xbox layoffs https://www.gamesindustry.biz/workers-deserve-protection-not-to-be-treated-like-disposable-line-items-hundreds-of-union-members-affected-by-xbox-layoffs
 2026-07-08T13:44:23+00:00	Mario Kart Tour to shut down in September 2026 https://www.gamesindustry.biz/mario-kart-tour-to-shut-down-in-september-2026
@@ -53,3 +52,4 @@
 2026-07-20T07:13:20+00:00	32 workers at ZA/UM laid off following release of Zero Parades: For Dead Spies https://www.gamesindustry.biz/32-workers-at-zaum-laid-off-following-release-of-zero-parades-for-dead-spies
 2026-07-20T08:47:45+00:00	"There has to be a reason for people to buy an Xbox" – Senior leadership reinforces commitment to console exclusivity https://www.gamesindustry.biz/there-has-to-be-a-reason-for-people-to-buy-an-xbox-senior-leadership-reinforces-commitment-to-console-exclusivity
 2026-07-20T10:53:11+00:00	Netflix Playground drives 600% surge in kids games engagement https://www.gamesindustry.biz/netflix-playground-drives-600-surge-in-kids-games-engagement
+2026-07-20T11:39:41+00:00	"The market is becoming much more diverse" – Will the proliferation of football video games last? https://www.gamesindustry.biz/the-market-is-becoming-much-more-diverse-will-the-proliferation-of-football-video-games-last
