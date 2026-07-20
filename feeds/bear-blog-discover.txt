@@ -3,13 +3,7 @@
 # source = https://bearblog.dev/discover/feed/
 # description = twtxt conversion of https://bearblog.dev/discover/feed/
 
-2026-07-15T16:11:00+00:00	Blank blogging counts too https://robertbirming.com/blank-blogging-counts/
-2026-07-15T17:30:00+00:00	Getting Frustrated with Big Bang Theory https://onlinegoddess.net/2026/07/getting-frustrated-with-big-bang-theory/
-2026-07-15T20:06:00+00:00	Re: I started a "dirt notebook" https://notebookery.bearblog.dev/re-dirt-notebook/
-2026-07-16T12:00:41.602494+00:00	tipping culture is odd https://lizziesthoughts.bearblog.dev/tipping-culture-is-odd/
 2026-07-16T14:49:00+00:00	Some jellyfish for your viewing pleasure https://wunderkammer.bearblog.dev/some-jellyfish-for-your-viewing-pleasure/
-2026-07-16T15:55:00+00:00	Anticipatory Grief https://notes.jeddacp.com/anticipatory-grief/
-2026-07-16T16:09:00+00:00	americans stop saying 'its not that hot' challenge https://s0ykaf.bearblog.dev/americans-stop-saying-its-not-that-hot-challenge/
 2026-07-16T21:59:00+00:00	The Great Software Regress: How "Move Fast and Break Things" Broke Our Lives https://imdanielkendall.com/the-great-software-regress-how-move-fast-and-break-things-broke-our-lives/
 2026-07-17T03:23:00+00:00	Where philosophy fails me https://doodhpeda.bearblog.dev/blog/where-philosophy-fails-me/
 2026-07-17T04:33:00+00:00	The Unread Personal Blog as a Vital Disability Accommodation https://davidmcgee.xyz/the-unread-personal-blog-as-a-vital-disability-accommodation/
@@ -17,9 +11,15 @@
 2026-07-17T20:01:00+00:00	The most American thing about me is the coffee https://tadaima.bearblog.dev/american-coffee/
 2026-07-17T22:12:45.121818+00:00	Online Friends Are Real Friends https://blog.absurdpirate.com/online-friends-are-real-friends/
 2026-07-17T23:35:13.732613+00:00	Stubborn readers https://after.bearblog.dev/micro/stubborn-readers/
+2026-07-18T02:37:54.549005+00:00	sick of writing sorries https://zoeloukia.bearblog.dev/sick-of-writing-sorries/
 2026-07-18T15:02:00+00:00	💌 Newsletter #012 - AI + Job Market = Cognitive Dissonance https://technically-good.ca/newsletter/012-2026-07-18/
+2026-07-18T17:04:00+00:00	You Need A Shit Blog https://notebookery.bearblog.dev/shit-blog/
 2026-07-18T17:42:00+00:00	Delving Into The Blogosphere https://onlinegoddess.net/2026/07/delving-into-the-blogosphere/
 2026-07-18T21:00:00+00:00	the graveyard is without walls https://some---things.com/withoutwalls/
 2026-07-19T01:09:00+00:00	Photos of things I didn't buy at the thrift store https://blog.lauramichet.com/photos-of-things-i-didnt-buy-at-the-thrift-store/
+2026-07-19T16:00:00+00:00	I am wanting to be wanting after a trip to the ER https://angrybunnyman.com/i-am-wanting-to-be-wanting-after-a-trip-to-the-er/
 2026-07-19T17:44:00+00:00	Many changes but still everything is the same https://forsomeone.bearblog.dev/many-changes-but-still-everything-is-the-same/
 2026-07-19T22:59:00+00:00	I no longer want to be extraordinary. https://bx.bearblog.dev/i-no-longer-want-to-be-extraordinary/
+2026-07-20T13:03:19.858621+00:00	My eyes keep watering, is it perimenopause? https://fornoone.bearblog.dev/my-eyes-keep-watering-is-it-perimenopause/
+2026-07-20T15:28:20.983271+00:00	Digitally entertained with zero money https://folkmoss.bearblog.dev/digital-entertainment-with-zero-money/
+2026-07-20T16:37:16.815990+00:00	businesses with ugly AI menu redesigns!!! https://blog.fiddery.com/businesses-with-ugly-ai-menu-redesigns/

@@ -5,14 +5,11 @@
 
 2026-07-19T09:00:28+00:00	Weekly /r/Games Discussion - What have you been playing, and what are your thoughts? - July 19, 2026 https://www.reddit.com/r/Games/comments/1v0ljfu/weekly_rgames_discussion_what_have_you_been/
 2026-07-19T10:47:07+00:00	Hungry Horrors - Clumsy Bear Studio - Serve a Banshee the right dish and you live. Get the flavour wrong and you're dinner. A roguelite deckbuilder rooted in real British and Irish folklore and real historical food. https://www.reddit.com/r/Games/comments/1v0ncal/hungry_horrors_clumsy_bear_studio_serve_a_banshee/
-2026-07-19T10:51:16+00:00	Marmorea - Burning Farmhouse Studios - A psychological mystery horror game about a brother's disappearance in the eerie marble quarries of Tuscany https://www.reddit.com/r/Games/comments/1v0neu1/marmorea_burning_farmhouse_studios_a/
 2026-07-19T10:59:13+00:00	As We Descend - Box Dragon - Apocalyptic strategy roguelike blending Slay the Spire with Darkest Dungeon! https://www.reddit.com/r/Games/comments/1v0njvy/as_we_descend_box_dragon_apocalyptic_strategy/
 2026-07-19T12:06:19+00:00	The Quizard's Domain - Calm Pewter Games - What if Smash Bros, Jackbox and Among Us had a baby!? https://www.reddit.com/r/Games/comments/1v0oupm/the_quizards_domain_calm_pewter_games_what_if/
 2026-07-19T12:24:04+00:00	The Duke is Dead - Bunk Bed Software - Upcoming Detective Game With New Demo! https://www.reddit.com/r/Games/comments/1v0p82z/the_duke_is_dead_bunk_bed_software_upcoming/
-2026-07-19T13:28:31+00:00	Kardiya: The Winds of Fate - InEv Games - Narrative RPG inspired by FATE RPG mechanics. https://www.reddit.com/r/Games/comments/1v0qmlp/kardiya_the_winds_of_fate_inev_games_narrative/
 2026-07-19T14:45:46+00:00	Salt and Soil - DelosX - a minimalist colony sim about American Frontier 1600-1900 https://www.reddit.com/r/Games/comments/1v0sfxq/salt_and_soil_delosx_a_minimalist_colony_sim/
 2026-07-19T16:26:59+00:00	Jenny the Witch - Catbird Soft - Sci-fi hack & slash where you fight a horde of robots in the sewers below New York City. Launching this Wednesday! https://www.reddit.com/r/Games/comments/1v0uzyq/jenny_the_witch_catbird_soft_scifi_hack_slash/
-2026-07-19T17:58:15+00:00	Delivery Control - Sebasa Games - Horror simulator of checking parcels in a warehouse https://www.reddit.com/r/Games/comments/1v0xca6/delivery_control_sebasa_games_horror_simulator_of/
 2026-07-19T19:20:11+00:00	Ministry of Order - VoltekPlay - Papers, Please, but the documents are newborns and one wrong match can erase a family https://www.reddit.com/r/Games/comments/1v0zdfg/ministry_of_order_voltekplay_papers_please_but/
 2026-07-19T20:05:32+00:00	Dragon Dragon Fire Fire Deluxe - Zephyrix - A classic 80s style arcade game https://www.reddit.com/r/Games/comments/1v10exn/dragon_dragon_fire_fire_deluxe_zephyrix_a_classic/
 2026-07-19T20:30:25+00:00	Star Vortex - Zorg - Spaceship Building Action RPG https://www.reddit.com/r/Games/comments/1v110sp/star_vortex_zorg_spaceship_building_action_rpg/
@@ -23,8 +20,11 @@
 2026-07-20T08:52:53+00:00	UK retail giant 'GAME' collapsed into administration owing £16m https://www.reddit.com/r/Games/comments/1v1fzh8/uk_retail_giant_game_collapsed_into/
 2026-07-20T11:06:57+00:00	Sea of Remnants playable demo confirmed for gamescom 2026 https://www.reddit.com/r/Games/comments/1v1ie8u/sea_of_remnants_playable_demo_confirmed_for/
 2026-07-20T12:53:23+00:00	Ghost Recon Wildlands Definitive Edition Set to Release on PS5 & Xbox Series S|X With New Content https://www.reddit.com/r/Games/comments/1v1kp54/ghost_recon_wildlands_definitive_edition_set_to/
+2026-07-20T13:20:52+00:00	One-day admission tickets for "Tokyo Game Show 2026" are on sale https://www.reddit.com/r/Games/comments/1v1le3w/oneday_admission_tickets_for_tokyo_game_show_2026/
 2026-07-20T13:33:28+00:00	Valve - There's no end in sight to the memory crisis, and prices are only going to increase: "Honestly, it's still getting worse." https://www.reddit.com/r/Games/comments/1v1lpe9/valve_theres_no_end_in_sight_to_the_memory_crisis/
 2026-07-20T15:08:51+00:00	MARVEL Tōkon: Fighting Souls | Peni Parker Character Guide https://www.reddit.com/r/Games/comments/1v1o817/marvel_tōkon_fighting_souls_peni_parker_character/
 2026-07-20T15:14:28+00:00	Vault Breaker Overview | Marathon https://www.reddit.com/r/Games/comments/1v1od91/vault_breaker_overview_marathon/
 2026-07-20T15:35:52+00:00	Kingdom Hearts: Missing Link - Full Extended Opening Cutscene (HQ) https://www.reddit.com/r/Games/comments/1v1oxsp/kingdom_hearts_missing_link_full_extended_opening/
 2026-07-20T16:02:17+00:00	Warhammer 40,000: Dawn of War IV – Necron CGI Trailer https://www.reddit.com/r/Games/comments/1v1pnh7/warhammer_40000_dawn_of_war_iv_necron_cgi_trailer/
+2026-07-20T17:06:43+00:00	Two thirds of remaining Doom (2016) devs laid off during latest round of Xbox cuts https://www.reddit.com/r/Games/comments/1v1rfbi/two_thirds_of_remaining_doom_2016_devs_laid_off/
+2026-07-20T17:23:13+00:00	Why Maverick Games Left Xbox Behind For Clutch - MinnMax Interview https://www.reddit.com/r/Games/comments/1v1rvzd/why_maverick_games_left_xbox_behind_for_clutch/
