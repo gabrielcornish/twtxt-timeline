@@ -3,7 +3,6 @@
 # source = https://www.gamesindustry.biz/feed
 # description = twtxt conversion of https://www.gamesindustry.biz/feed
 
-2026-07-09T10:46:15+00:00	Supercell launches equity-free grants program for Africa-based game studios https://www.gamesindustry.biz/supercell-launches-equity-free-grants-program-for-african-game-studios
 2026-07-09T13:23:08+00:00	You can now enter the 2026 UK GamesIndustry.biz Best Places To Work Awards https://www.gamesindustry.biz/you-can-now-enter-the-2026-uk-gamesindustrybiz-best-places-to-work-awards
 2026-07-09T13:39:06+00:00	"New Zealand's success is being built by ambitious studios of all sizes" – Combined revenue of studios supported by rebate grows 17% to $829m https://www.gamesindustry.biz/new-zealands-success-is-being-built-by-ambitious-studios-of-all-sizes-combined-revenue-of-studios-supported-by-rebate-grows-17-to-829m
 2026-07-10T07:16:34+00:00	Layoffs begin at Ubisoft Barcelona following Assassin's Creed Black Flag Resynced launch https://www.gamesindustry.biz/layoffs-begin-at-ubisoft-barcelona-following-assassins-creed-black-flag-resynced-launch
@@ -53,3 +52,4 @@
 2026-07-21T07:44:28+00:00	Unity 7 to launch in Q1 2027; new engine is a "direct continuation" of Unity 6 https://www.gamesindustry.biz/unity-7-to-launch-in-q1-2027-new-engine-is-a-direct-continuation-of-unity-6
 2026-07-21T10:53:33+00:00	Nintendo files motion to dismiss consumer lawsuit over tariff refunds https://www.gamesindustry.biz/nintendo-files-motion-to-dismiss-consumer-lawsuit-over-tariff-refunds
 2026-07-21T11:00:03+00:00	Ethical, low-power, and on-device: Studio Atelico's vision for the future of generative AI https://www.gamesindustry.biz/ethical-low-power-and-on-device-studio-atelicos-vision-for-the-future-of-generative-ai
+2026-07-21T13:34:48+00:00	Esports consultancy The Story Mob rebrands to "strategic player culture advisory" https://www.gamesindustry.biz/esports-consultancy-the-story-mob-rebrands-to-strategic-player-culture-advisory

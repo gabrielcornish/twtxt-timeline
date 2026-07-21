@@ -4,27 +4,27 @@
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
 2026-07-19T09:00:28+00:00	Weekly /r/Games Discussion - What have you been playing, and what are your thoughts? - July 19, 2026 https://www.reddit.com/r/Games/comments/1v0ljfu/weekly_rgames_discussion_what_have_you_been/
-2026-07-19T20:55:43+00:00	Cruslord - Fight Crusader Kings 3 battles, sieges & duels in Bannerlord https://www.reddit.com/r/Games/comments/1v11l59/cruslord_fight_crusader_kings_3_battles_sieges/
-2026-07-19T21:17:39+00:00	Cancelled Kingdom Hearts Missing-Link Footage Reportedly Leaks, and It’s Really Bizarre https://www.reddit.com/r/Games/comments/1v122fj/cancelled_kingdom_hearts_missinglink_footage/
-2026-07-20T08:52:53+00:00	UK retail giant 'GAME' collapsed into administration owing £16m https://www.reddit.com/r/Games/comments/1v1fzh8/uk_retail_giant_game_collapsed_into/
-2026-07-20T11:06:57+00:00	Sea of Remnants playable demo confirmed for gamescom 2026 https://www.reddit.com/r/Games/comments/1v1ie8u/sea_of_remnants_playable_demo_confirmed_for/
-2026-07-20T12:53:23+00:00	Ghost Recon Wildlands Definitive Edition Set to Release on PS5 & Xbox Series S|X With New Content https://www.reddit.com/r/Games/comments/1v1kp54/ghost_recon_wildlands_definitive_edition_set_to/
-2026-07-20T13:20:52+00:00	One-day admission tickets for "Tokyo Game Show 2026" are on sale https://www.reddit.com/r/Games/comments/1v1le3w/oneday_admission_tickets_for_tokyo_game_show_2026/
 2026-07-20T13:33:28+00:00	Valve - There's no end in sight to the memory crisis, and prices are only going to increase: "Honestly, it's still getting worse." https://www.reddit.com/r/Games/comments/1v1lpe9/valve_theres_no_end_in_sight_to_the_memory_crisis/
-2026-07-20T15:08:51+00:00	MARVEL Tōkon: Fighting Souls | Peni Parker Character Guide https://www.reddit.com/r/Games/comments/1v1o817/marvel_tōkon_fighting_souls_peni_parker_character/
 2026-07-20T15:14:28+00:00	Vault Breaker Overview | Marathon https://www.reddit.com/r/Games/comments/1v1od91/vault_breaker_overview_marathon/
 2026-07-20T15:35:52+00:00	Kingdom Hearts: Missing Link - Full Extended Opening Cutscene (HQ) https://www.reddit.com/r/Games/comments/1v1oxsp/kingdom_hearts_missing_link_full_extended_opening/
-2026-07-20T16:02:17+00:00	Warhammer 40,000: Dawn of War IV – Necron CGI Trailer https://www.reddit.com/r/Games/comments/1v1pnh7/warhammer_40000_dawn_of_war_iv_necron_cgi_trailer/
 2026-07-20T17:06:43+00:00	Two thirds of remaining Doom (2016) devs laid off during latest round of Xbox cuts https://www.reddit.com/r/Games/comments/1v1rfbi/two_thirds_of_remaining_doom_2016_devs_laid_off/
-2026-07-20T17:23:13+00:00	Why Maverick Games Left Xbox Behind For Clutch - MinnMax Interview https://www.reddit.com/r/Games/comments/1v1rvzd/why_maverick_games_left_xbox_behind_for_clutch/
 2026-07-20T18:42:52+00:00	Josh Sawyer on Why He Won't Let Players Kill God In His Games [Interview] https://www.reddit.com/r/Games/comments/1v1u5ba/josh_sawyer_on_why_he_wont_let_players_kill_god/
 2026-07-20T19:08:27+00:00	Grim Dawn Fangs of Asterkarn releasing July 23rd for $18.99 https://www.reddit.com/r/Games/comments/1v1uuyf/grim_dawn_fangs_of_asterkarn_releasing_july_23rd/
 2026-07-20T19:38:15+00:00	DCKO | Official Announcement Trailer https://www.reddit.com/r/Games/comments/1v1vom1/dcko_official_announcement_trailer/
 2026-07-20T19:42:43+00:00	FBI arrests 21-year-old accused of infecting 8,000 PCs with malware through fake Steam games https://www.reddit.com/r/Games/comments/1v1vswz/fbi_arrests_21yearold_accused_of_infecting_8000/
 2026-07-20T20:22:40+00:00	[AMA] We're Polyarc, the developers behind Moss, and today we're launching Moss: The Forgotten Relic for NS 1+2, PS5, Xbox and Steam. Ask Us Anything July 20 at 2PM PT! https://www.reddit.com/r/Games/comments/1v1ww4g/ama_were_polyarc_the_developers_behind_moss_and/
-2026-07-20T21:13:07+00:00	Tenchu 2 Critique & Commentary - Nearly a Masterpiece https://www.reddit.com/r/Games/comments/1v1y83a/tenchu_2_critique_commentary_nearly_a_masterpiece/
-2026-07-20T21:45:38+00:00	The Relic First Guardian - Meet The Brutals Trailer https://www.reddit.com/r/Games/comments/1v1z202/the_relic_first_guardian_meet_the_brutals_trailer/
 2026-07-21T01:08:21+00:00	Soulframe - Warsongs Gameplay Demo https://www.reddit.com/r/Games/comments/1v23tq6/soulframe_warsongs_gameplay_demo/
-2026-07-21T04:58:35+00:00	Signups are open for Maplestory Classic's Alleged Final Beta Test https://www.reddit.com/r/Games/comments/1v28o1u/signups_are_open_for_maplestory_classics_alleged/
+2026-07-21T06:25:12+00:00	According to Circana’s Mat Piscatella only seven PS5 games have sold more than 100K physical copies this year https://www.reddit.com/r/Games/comments/1v2a9md/according_to_circanas_mat_piscatella_only_seven/
 2026-07-21T10:41:20+00:00	RIP bargain bin: The price impact of Sony's disc-free PlayStation plan https://www.reddit.com/r/Games/comments/1v2ern4/rip_bargain_bin_the_price_impact_of_sonys/
+2026-07-21T11:34:48+00:00	The Witcher 3's Big New Expansion Makes Its Debut at Gamescom Opening Night Live https://www.reddit.com/r/Games/comments/1v2fu40/the_witcher_3s_big_new_expansion_makes_its_debut/
 2026-07-21T11:40:08+00:00	Nintendo says it has no legal duty to pass its U.S. tariff refunds on to consumers https://www.reddit.com/r/Games/comments/1v2fxyh/nintendo_says_it_has_no_legal_duty_to_pass_its_us/
+2026-07-21T13:10:36+00:00	Ask the Developer Vol. 22: Splatoon Raiders https://www.reddit.com/r/Games/comments/1v2i0ti/ask_the_developer_vol_22_splatoon_raiders/
+2026-07-21T13:15:36+00:00	PS3 games can now run on OLDER GPUs! - Supporting ATI TeraScale GPUs from (2007-2009) with RPCS3 emulator https://www.reddit.com/r/Games/comments/1v2i58u/ps3_games_can_now_run_on_older_gpus_supporting/
+2026-07-21T13:17:17+00:00	Dungeon Lurker's Dev on Making a Game for a 32-Bit Console That Never Existed https://www.reddit.com/r/Games/comments/1v2i6si/dungeon_lurkers_dev_on_making_a_game_for_a_32bit/
+2026-07-21T13:21:02+00:00	Review Thread - Splatoon Raiders https://www.reddit.com/r/Games/comments/1v2iabj/review_thread_splatoon_raiders/
+2026-07-21T13:39:32+00:00	Coming to XBOX Game Pass: Halo: Campaign Evolved, Beast of Reincarnation, and More - XBOX Wire https://www.reddit.com/r/Games/comments/1v2irfq/coming_to_xbox_game_pass_halo_campaign_evolved/
+2026-07-21T13:56:22+00:00	Order of the Sinking Star - Announcement & Extended Overview Trailer | PS5 Games https://www.reddit.com/r/Games/comments/1v2j72p/order_of_the_sinking_star_announcement_extended/
+2026-07-21T13:58:55+00:00	The best games of 2026 so far, picked by NPR's staff https://www.reddit.com/r/Games/comments/1v2j9et/the_best_games_of_2026_so_far_picked_by_nprs_staff/
+2026-07-21T14:06:11+00:00	The Witcher 3: Wild Hunt — Songs of the Past Reveal Date Confirmed https://www.reddit.com/r/Games/comments/1v2jgg8/the_witcher_3_wild_hunt_songs_of_the_past_reveal/
+2026-07-21T14:08:13+00:00	Dragon Quest Monsters: The Withered World Release Date Trailer https://www.reddit.com/r/Games/comments/1v2jid6/dragon_quest_monsters_the_withered_world_release/
+2026-07-21T14:15:36+00:00	Gamescom 2026 Sells Out All Exhibition Space for the First Time https://www.reddit.com/r/Games/comments/1v2jppa/gamescom_2026_sells_out_all_exhibition_space_for/
