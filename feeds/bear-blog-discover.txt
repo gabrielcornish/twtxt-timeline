@@ -3,7 +3,6 @@
 # source = https://bearblog.dev/discover/feed/
 # description = twtxt conversion of https://bearblog.dev/discover/feed/
 
-2026-07-16T12:00:41.602494+00:00	tipping culture is odd https://lizziesthoughts.bearblog.dev/tipping-culture-is-odd/
 2026-07-16T14:49:00+00:00	Some jellyfish for your viewing pleasure https://wunderkammer.bearblog.dev/some-jellyfish-for-your-viewing-pleasure/
 2026-07-16T16:09:00+00:00	americans stop saying 'its not that hot' challenge https://s0ykaf.bearblog.dev/americans-stop-saying-its-not-that-hot-challenge/
 2026-07-17T03:23:00+00:00	Where philosophy fails me https://doodhpeda.bearblog.dev/blog/where-philosophy-fails-me/
@@ -22,4 +21,5 @@
 2026-07-19T22:59:00+00:00	I no longer want to be extraordinary. https://bx.bearblog.dev/i-no-longer-want-to-be-extraordinary/
 2026-07-20T13:03:19.858621+00:00	My eyes keep watering, is it perimenopause? https://fornoone.bearblog.dev/my-eyes-keep-watering-is-it-perimenopause/
 2026-07-20T15:28:20.983271+00:00	Digitally entertained with zero money https://folkmoss.bearblog.dev/digital-entertainment-with-zero-money/
+2026-07-20T16:19:00+00:00	Can't get rid of paper https://after.bearblog.dev/micro/cant-get-rid-of-paper/
 2026-07-20T16:37:16.815990+00:00	businesses with ugly AI menu redesigns!!! https://blog.fiddery.com/businesses-with-ugly-ai-menu-redesigns/
