@@ -7,7 +7,6 @@
 2026-07-20T13:33:28+00:00	Valve - There's no end in sight to the memory crisis, and prices are only going to increase: "Honestly, it's still getting worse." https://www.reddit.com/r/Games/comments/1v1lpe9/valve_theres_no_end_in_sight_to_the_memory_crisis/
 2026-07-20T17:06:43+00:00	Two thirds of remaining Doom (2016) devs laid off during latest round of Xbox cuts https://www.reddit.com/r/Games/comments/1v1rfbi/two_thirds_of_remaining_doom_2016_devs_laid_off/
 2026-07-20T20:22:40+00:00	[AMA] We're Polyarc, the developers behind Moss, and today we're launching Moss: The Forgotten Relic for NS 1+2, PS5, Xbox and Steam. Ask Us Anything July 20 at 2PM PT! https://www.reddit.com/r/Games/comments/1v1ww4g/ama_were_polyarc_the_developers_behind_moss_and/
-2026-07-21T01:08:21+00:00	Soulframe - Warsongs Gameplay Demo https://www.reddit.com/r/Games/comments/1v23tq6/soulframe_warsongs_gameplay_demo/
 2026-07-21T06:25:12+00:00	According to Circana’s Mat Piscatella only seven PS5 games have sold more than 100K physical copies this year https://www.reddit.com/r/Games/comments/1v2a9md/according_to_circanas_mat_piscatella_only_seven/
 2026-07-21T10:41:20+00:00	RIP bargain bin: The price impact of Sony's disc-free PlayStation plan https://www.reddit.com/r/Games/comments/1v2ern4/rip_bargain_bin_the_price_impact_of_sonys/
 2026-07-21T11:34:48+00:00	The Witcher 3's Big New Expansion Makes Its Debut at Gamescom Opening Night Live https://www.reddit.com/r/Games/comments/1v2fu40/the_witcher_3s_big_new_expansion_makes_its_debut/
@@ -23,8 +22,9 @@
 2026-07-21T15:06:33+00:00	Scarlet Deer Inn - Launch Trailer https://www.reddit.com/r/Games/comments/1v2l3yc/scarlet_deer_inn_launch_trailer/
 2026-07-21T15:33:22+00:00	Kylian Mbappé is the EA Sports FC 27 Ultimate Edition cover athlete, marking his return to the cover after four years https://www.reddit.com/r/Games/comments/1v2lv9v/kylian_mbappé_is_the_ea_sports_fc_27_ultimate/
 2026-07-21T16:20:15+00:00	The Fire’s Edge, the first new DLC for Darkest Dungeon since 2020, is releasing on August 18th. https://www.reddit.com/r/Games/comments/1v2n6kn/the_fires_edge_the_first_new_dlc_for_darkest/
-2026-07-21T16:26:15+00:00	Echo Weaver Release Date Announcement Trailer https://www.reddit.com/r/Games/comments/1v2nckc/echo_weaver_release_date_announcement_trailer/
 2026-07-21T16:33:46+00:00	Fading Echo | PC Launch Trailer https://www.reddit.com/r/Games/comments/1v2nk6u/fading_echo_pc_launch_trailer/
 2026-07-21T17:01:09+00:00	MARVEL Tōkon: Fighting Souls | Magik Character Guide https://www.reddit.com/r/Games/comments/1v2oc32/marvel_tōkon_fighting_souls_magik_character_guide/
+2026-07-21T18:06:48+00:00	Sanctuary: Shattered Sun | Demo Launch Trailer https://www.reddit.com/r/Games/comments/1v2q8dt/sanctuary_shattered_sun_demo_launch_trailer/
 2026-07-21T18:10:07+00:00	Physically Embroided Folk Fantasy "Scarlet Deer Inn" - Launch Trailer (Out Now On Steam) https://www.reddit.com/r/Games/comments/1v2qbqr/physically_embroided_folk_fantasy_scarlet_deer/
 2026-07-21T18:23:20+00:00	Forza Horizon 5 Director Says Game Pass Was A Good Concept That Didn’t Work https://www.reddit.com/r/Games/comments/1v2qptx/forza_horizon_5_director_says_game_pass_was_a/
+2026-07-21T18:51:10+00:00	/noclip - History & Evolution of MMOs (with Raph Koster - Ultima Online, SW Galaxies) https://www.reddit.com/r/Games/comments/1v2riul/noclip_history_evolution_of_mmos_with_raph_koster/
