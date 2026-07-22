@@ -4,17 +4,10 @@
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
 2026-07-20T20:22:40+00:00	[AMA] We're Polyarc, the developers behind Moss, and today we're launching Moss: The Forgotten Relic for NS 1+2, PS5, Xbox and Steam. Ask Us Anything July 20 at 2PM PT! https://www.reddit.com/r/Games/comments/1v1ww4g/ama_were_polyarc_the_developers_behind_moss_and/
-2026-07-21T11:34:48+00:00	The Witcher 3's Big New Expansion Makes Its Debut at Gamescom Opening Night Live https://www.reddit.com/r/Games/comments/1v2fu40/the_witcher_3s_big_new_expansion_makes_its_debut/
 2026-07-21T11:40:08+00:00	Nintendo says it has no legal duty to pass its U.S. tariff refunds on to consumers https://www.reddit.com/r/Games/comments/1v2fxyh/nintendo_says_it_has_no_legal_duty_to_pass_its_us/
-2026-07-21T13:21:02+00:00	Review Thread - Splatoon Raiders https://www.reddit.com/r/Games/comments/1v2iabj/review_thread_splatoon_raiders/
 2026-07-21T13:58:55+00:00	The best games of 2026 so far, picked by NPR's staff https://www.reddit.com/r/Games/comments/1v2j9et/the_best_games_of_2026_so_far_picked_by_nprs_staff/
-2026-07-21T14:15:36+00:00	Gamescom 2026 Sells Out All Exhibition Space for the First Time https://www.reddit.com/r/Games/comments/1v2jppa/gamescom_2026_sells_out_all_exhibition_space_for/
-2026-07-21T15:33:22+00:00	Kylian Mbappé is the EA Sports FC 27 Ultimate Edition cover athlete, marking his return to the cover after four years https://www.reddit.com/r/Games/comments/1v2lv9v/kylian_mbappé_is_the_ea_sports_fc_27_ultimate/
-2026-07-21T16:20:15+00:00	The Fire’s Edge, the first new DLC for Darkest Dungeon since 2020, is releasing on August 18th. https://www.reddit.com/r/Games/comments/1v2n6kn/the_fires_edge_the_first_new_dlc_for_darkest/
 2026-07-21T18:23:20+00:00	Forza Horizon 5 Director Says Game Pass Was A Good Concept That Didn’t Work https://www.reddit.com/r/Games/comments/1v2qptx/forza_horizon_5_director_says_game_pass_was_a/
-2026-07-21T18:51:10+00:00	/noclip - History & Evolution of MMOs (with Raph Koster - Ultima Online, SW Galaxies) https://www.reddit.com/r/Games/comments/1v2riul/noclip_history_evolution_of_mmos_with_raph_koster/
 2026-07-21T21:06:16+00:00	Pro Jank Footy | Release Date Trailer https://www.reddit.com/r/Games/comments/1v2vand/pro_jank_footy_release_date_trailer/
-2026-07-21T21:06:50+00:00	Marvel Tōkon: Fighting Souls - Magneto Character Guide https://www.reddit.com/r/Games/comments/1v2vb7c/marvel_tōkon_fighting_souls_magneto_character/
 2026-07-21T22:20:31+00:00	Xbox Paid More Than Stalker 2's Development Cost To Make It Exclusive https://www.reddit.com/r/Games/comments/1v2x8lk/xbox_paid_more_than_stalker_2s_development_cost/
 2026-07-22T01:02:26+00:00	Disgaea Creator Says PlayStation Should "Get Rid Of The Hardware" If Physical Games End https://www.reddit.com/r/Games/comments/1v314t6/disgaea_creator_says_playstation_should_get_rid/
 2026-07-22T03:41:12+00:00	Langrisser: Sea of Sword - First Gameplay Trailer https://www.reddit.com/r/Games/comments/1v34mzw/langrisser_sea_of_sword_first_gameplay_trailer/
@@ -28,3 +21,10 @@
 2026-07-22T15:25:32+00:00	Revisit E3 like you've never seen it before | Video Game History Foundation https://www.reddit.com/r/Games/comments/1v3jcj9/revisit_e3_like_youve_never_seen_it_before_video/
 2026-07-22T15:32:41+00:00	Making Of Wizardry - The Landmark RPG That Inspired Dragon Quest & Final Fantasy https://www.reddit.com/r/Games/comments/1v3jjwg/making_of_wizardry_the_landmark_rpg_that_inspired/
 2026-07-22T16:28:40+00:00	Pax Autocratica - Early Access Release Date Trailer https://www.reddit.com/r/Games/comments/1v3l5j5/pax_autocratica_early_access_release_date_trailer/
+2026-07-22T16:51:51+00:00	Killer Queen Black is BACK https://www.reddit.com/r/Games/comments/1v3ltko/killer_queen_black_is_back/
+2026-07-22T16:56:36+00:00	Poinpy is (Back) Out on Mobile and is 100% Free! https://www.reddit.com/r/Games/comments/1v3lyca/poinpy_is_back_out_on_mobile_and_is_100_free/
+2026-07-22T17:11:13+00:00	MARVEL Tōkon: Fighting Souls | Wolverine Character Guide https://www.reddit.com/r/Games/comments/1v3me6u/marvel_tōkon_fighting_souls_wolverine_character/
+2026-07-22T17:25:26+00:00	Parkasaurus Console Announcement Trailer https://www.reddit.com/r/Games/comments/1v3mtcb/parkasaurus_console_announcement_trailer/
+2026-07-22T17:35:23+00:00	Avatar Legends - The Fighting Game Review Thread https://www.reddit.com/r/Games/comments/1v3n3rr/avatar_legends_the_fighting_game_review_thread/
+2026-07-22T18:16:34+00:00	BLACKWOOD - Gameplay Deep Dive https://www.reddit.com/r/Games/comments/1v3obi0/blackwood_gameplay_deep_dive/
+2026-07-22T18:20:34+00:00	Gaming’s Contract Workers Are Being Devastated, Too: ‘Industry’s Cooked’ https://www.reddit.com/r/Games/comments/1v3ofny/gamings_contract_workers_are_being_devastated_too/
