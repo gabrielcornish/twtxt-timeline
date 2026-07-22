@@ -4,17 +4,13 @@
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
 2026-07-20T20:22:40+00:00	[AMA] We're Polyarc, the developers behind Moss, and today we're launching Moss: The Forgotten Relic for NS 1+2, PS5, Xbox and Steam. Ask Us Anything July 20 at 2PM PT! https://www.reddit.com/r/Games/comments/1v1ww4g/ama_were_polyarc_the_developers_behind_moss_and/
-2026-07-21T11:40:08+00:00	Nintendo says it has no legal duty to pass its U.S. tariff refunds on to consumers https://www.reddit.com/r/Games/comments/1v2fxyh/nintendo_says_it_has_no_legal_duty_to_pass_its_us/
-2026-07-21T13:58:55+00:00	The best games of 2026 so far, picked by NPR's staff https://www.reddit.com/r/Games/comments/1v2j9et/the_best_games_of_2026_so_far_picked_by_nprs_staff/
 2026-07-21T22:20:31+00:00	Xbox Paid More Than Stalker 2's Development Cost To Make It Exclusive https://www.reddit.com/r/Games/comments/1v2x8lk/xbox_paid_more_than_stalker_2s_development_cost/
-2026-07-22T01:02:26+00:00	Disgaea Creator Says PlayStation Should "Get Rid Of The Hardware" If Physical Games End https://www.reddit.com/r/Games/comments/1v314t6/disgaea_creator_says_playstation_should_get_rid/
 2026-07-22T06:27:40+00:00	Wreckreation 2 Announced Despite Studio Closure, Just Nine Months After the Original Arrived https://www.reddit.com/r/Games/comments/1v37vqb/wreckreation_2_announced_despite_studio_closure/
 2026-07-22T10:39:07+00:00	Two Point Hospital: Full Health Collection | Coming to Consoles on September 16th! https://www.reddit.com/r/Games/comments/1v3cdp7/two_point_hospital_full_health_collection_coming/
 2026-07-22T11:00:45+00:00	Daily /r/Games Discussion - Suggest Me a Game - July 22, 2026 https://www.reddit.com/r/Games/comments/1v3csun/daily_rgames_discussion_suggest_me_a_game_july_22/
 2026-07-22T13:34:18+00:00	Nintendo patent tied to Palworld lawsuit stays rejected as JPO shuts down objections in unusually sharp-tongued notice https://www.reddit.com/r/Games/comments/1v3gc9l/nintendo_patent_tied_to_palworld_lawsuit_stays/
 2026-07-22T14:14:23+00:00	Applications for the Duskbloods Closed Network test are now open https://www.reddit.com/r/Games/comments/1v3he6j/applications_for_the_duskbloods_closed_network/
 2026-07-22T14:58:24+00:00	Play More of the Games You Love, Wherever You Play with XBOX Backward Compatibility on PC - XBOX Wire https://www.reddit.com/r/Games/comments/1v3ikwl/play_more_of_the_games_you_love_wherever_you_play/
-2026-07-22T15:00:32+00:00	Nintendo's cofounded venture "Marigul Management" and their Failed Attempts at N64 Development https://www.reddit.com/r/Games/comments/1v3in3v/nintendos_cofounded_venture_marigul_management/
 2026-07-22T15:25:32+00:00	Revisit E3 like you've never seen it before | Video Game History Foundation https://www.reddit.com/r/Games/comments/1v3jcj9/revisit_e3_like_youve_never_seen_it_before_video/
 2026-07-22T15:32:41+00:00	Making Of Wizardry - The Landmark RPG That Inspired Dragon Quest & Final Fantasy https://www.reddit.com/r/Games/comments/1v3jjwg/making_of_wizardry_the_landmark_rpg_that_inspired/
 2026-07-22T16:28:40+00:00	Pax Autocratica - Early Access Release Date Trailer https://www.reddit.com/r/Games/comments/1v3l5j5/pax_autocratica_early_access_release_date_trailer/
@@ -27,4 +23,8 @@
 2026-07-22T18:20:34+00:00	Gaming’s Contract Workers Are Being Devastated, Too: ‘Industry’s Cooked’ https://www.reddit.com/r/Games/comments/1v3ofny/gamings_contract_workers_are_being_devastated_too/
 2026-07-22T18:45:31+00:00	Steam Wishlists now support Categories, and more https://www.reddit.com/r/Games/comments/1v3p5bj/steam_wishlists_now_support_categories_and_more/
 2026-07-22T19:35:39+00:00	Mindseye - New Ending Retcon and art style https://www.reddit.com/r/Games/comments/1v3qlc1/mindseye_new_ending_retcon_and_art_style/
-2026-07-22T20:11:33+00:00	Steam - Gifting made easier (Cross-region gifting, guest checkout, gifting to email, and more) https://www.reddit.com/r/Games/comments/1v3rm08/steam_gifting_made_easier_crossregion_gifting/
+2026-07-22T20:26:15+00:00	A new report suggests that Sony's controversial decision to kill off PlayStation discs could destroy the $7.2bn used game market https://www.reddit.com/r/Games/comments/1v3s2nd/a_new_report_suggests_that_sonys_controversial/
+2026-07-22T20:27:51+00:00	New Pokemon Diamond and Pearl leak surfaces, reveal scrapped Pokemon and beta designs https://www.reddit.com/r/Games/comments/1v3s4b2/new_pokemon_diamond_and_pearl_leak_surfaces/
+2026-07-22T20:48:18+00:00	FF7 Rebirth PC Shader Injector Mod: Lighting Transformed! - Digital Foundry https://www.reddit.com/r/Games/comments/1v3sod3/ff7_rebirth_pc_shader_injector_mod_lighting/
+2026-07-22T21:24:25+00:00	Overview of a behind the scenes documentary of Pokémon Diamond and Pearl https://www.reddit.com/r/Games/comments/1v3tnm0/overview_of_a_behind_the_scenes_documentary_of/
+2026-07-22T21:52:07+00:00	The Falcom Music Channel, a fan-made channel cataloguing songs from Nihon Falcom video games (Trails, Ys etc.), has been taken down https://www.reddit.com/r/Games/comments/1v3ueh8/the_falcom_music_channel_a_fanmade_channel/
