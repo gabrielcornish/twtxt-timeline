@@ -3,7 +3,6 @@
 # source = https://www.gamesindustry.biz/feed
 # description = twtxt conversion of https://www.gamesindustry.biz/feed
 
-2026-07-10T07:16:34+00:00	Layoffs begin at Ubisoft Barcelona following Assassin's Creed Black Flag Resynced launch https://www.gamesindustry.biz/layoffs-begin-at-ubisoft-barcelona-following-assassins-creed-black-flag-resynced-launch
 2026-07-10T08:00:00+00:00	Why two games media veterans think a "classic old-school style multi-format video games website" will flourish in 2026 https://www.gamesindustry.biz/why-two-games-media-veterans-think-a-classic-old-school-style-multi-format-video-games-website-will-flourish-in-2026
 2026-07-10T08:43:21+00:00	Asha Sharma to co-lead US Federal Reserve's Productivity and Jobs task force https://www.gamesindustry.biz/asha-sharma-to-co-lead-us-federal-reserves-productivity-and-jobs-task-force
 2026-07-10T09:58:34+00:00	Enginefall developer Red Rover Interactive to cut workforce by 22 roles https://www.gamesindustry.biz/enginefall-developer-red-rover-interactive-to-cut-workforce-by-22-roles
@@ -53,3 +52,4 @@
 2026-07-21T13:34:48+00:00	Esports consultancy The Story Mob rebrands to "strategic player culture advisory" https://www.gamesindustry.biz/esports-consultancy-the-story-mob-rebrands-to-strategic-player-culture-advisory
 2026-07-22T06:53:59+00:00	Alpha Dog Games founders reacquire studio from Microsoft following 2024 closure https://www.gamesindustry.biz/alpha-dog-games-founders-reacquire-studio-from-microsoft-following-2024-closure
 2026-07-22T07:43:47+00:00	Xbox brings starter edition of Game Pass to Meta Horizon+ https://www.gamesindustry.biz/xbox-brings-starter-edition-of-game-pass-to-meta-horizon
+2026-07-22T09:39:07+00:00	South of Midnight wins Game and Experience of the Year at Games for Change Awards 2026 https://www.gamesindustry.biz/south-of-midnight-wins-game-and-experience-of-the-year-at-games-for-change-awards-2026
