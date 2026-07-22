@@ -3,8 +3,6 @@
 # source = https://www.gamesindustry.biz/feed
 # description = twtxt conversion of https://www.gamesindustry.biz/feed
 
-2026-07-09T13:23:08+00:00	You can now enter the 2026 UK GamesIndustry.biz Best Places To Work Awards https://www.gamesindustry.biz/you-can-now-enter-the-2026-uk-gamesindustrybiz-best-places-to-work-awards
-2026-07-09T13:39:06+00:00	"New Zealand's success is being built by ambitious studios of all sizes" – Combined revenue of studios supported by rebate grows 17% to $829m https://www.gamesindustry.biz/new-zealands-success-is-being-built-by-ambitious-studios-of-all-sizes-combined-revenue-of-studios-supported-by-rebate-grows-17-to-829m
 2026-07-10T07:16:34+00:00	Layoffs begin at Ubisoft Barcelona following Assassin's Creed Black Flag Resynced launch https://www.gamesindustry.biz/layoffs-begin-at-ubisoft-barcelona-following-assassins-creed-black-flag-resynced-launch
 2026-07-10T08:00:00+00:00	Why two games media veterans think a "classic old-school style multi-format video games website" will flourish in 2026 https://www.gamesindustry.biz/why-two-games-media-veterans-think-a-classic-old-school-style-multi-format-video-games-website-will-flourish-in-2026
 2026-07-10T08:43:21+00:00	Asha Sharma to co-lead US Federal Reserve's Productivity and Jobs task force https://www.gamesindustry.biz/asha-sharma-to-co-lead-us-federal-reserves-productivity-and-jobs-task-force
@@ -53,3 +51,5 @@
 2026-07-21T10:53:33+00:00	Nintendo files motion to dismiss consumer lawsuit over tariff refunds https://www.gamesindustry.biz/nintendo-files-motion-to-dismiss-consumer-lawsuit-over-tariff-refunds
 2026-07-21T11:00:03+00:00	Ethical, low-power, and on-device: Studio Atelico's vision for the future of generative AI https://www.gamesindustry.biz/ethical-low-power-and-on-device-studio-atelicos-vision-for-the-future-of-generative-ai
 2026-07-21T13:34:48+00:00	Esports consultancy The Story Mob rebrands to "strategic player culture advisory" https://www.gamesindustry.biz/esports-consultancy-the-story-mob-rebrands-to-strategic-player-culture-advisory
+2026-07-22T06:53:59+00:00	Alpha Dog Games founders reacquire studio from Microsoft following 2024 closure https://www.gamesindustry.biz/alpha-dog-games-founders-reacquire-studio-from-microsoft-following-2024-closure
+2026-07-22T07:43:47+00:00	Xbox brings starter edition of Game Pass to Meta Horizon+ https://www.gamesindustry.biz/xbox-brings-starter-edition-of-game-pass-to-meta-horizon
