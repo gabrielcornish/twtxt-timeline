@@ -4,20 +4,15 @@
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
 2026-07-20T20:22:40+00:00	[AMA] We're Polyarc, the developers behind Moss, and today we're launching Moss: The Forgotten Relic for NS 1+2, PS5, Xbox and Steam. Ask Us Anything July 20 at 2PM PT! https://www.reddit.com/r/Games/comments/1v1ww4g/ama_were_polyarc_the_developers_behind_moss_and/
-2026-07-21T10:41:20+00:00	RIP bargain bin: The price impact of Sony's disc-free PlayStation plan https://www.reddit.com/r/Games/comments/1v2ern4/rip_bargain_bin_the_price_impact_of_sonys/
 2026-07-21T11:34:48+00:00	The Witcher 3's Big New Expansion Makes Its Debut at Gamescom Opening Night Live https://www.reddit.com/r/Games/comments/1v2fu40/the_witcher_3s_big_new_expansion_makes_its_debut/
 2026-07-21T11:40:08+00:00	Nintendo says it has no legal duty to pass its U.S. tariff refunds on to consumers https://www.reddit.com/r/Games/comments/1v2fxyh/nintendo_says_it_has_no_legal_duty_to_pass_its_us/
-2026-07-21T13:15:36+00:00	PS3 games can now run on OLDER GPUs! - Supporting ATI TeraScale GPUs from (2007-2009) with RPCS3 emulator https://www.reddit.com/r/Games/comments/1v2i58u/ps3_games_can_now_run_on_older_gpus_supporting/
 2026-07-21T13:21:02+00:00	Review Thread - Splatoon Raiders https://www.reddit.com/r/Games/comments/1v2iabj/review_thread_splatoon_raiders/
-2026-07-21T13:39:32+00:00	Coming to XBOX Game Pass: Halo: Campaign Evolved, Beast of Reincarnation, and More - XBOX Wire https://www.reddit.com/r/Games/comments/1v2irfq/coming_to_xbox_game_pass_halo_campaign_evolved/
 2026-07-21T13:58:55+00:00	The best games of 2026 so far, picked by NPR's staff https://www.reddit.com/r/Games/comments/1v2j9et/the_best_games_of_2026_so_far_picked_by_nprs_staff/
 2026-07-21T14:15:36+00:00	Gamescom 2026 Sells Out All Exhibition Space for the First Time https://www.reddit.com/r/Games/comments/1v2jppa/gamescom_2026_sells_out_all_exhibition_space_for/
 2026-07-21T15:33:22+00:00	Kylian Mbappé is the EA Sports FC 27 Ultimate Edition cover athlete, marking his return to the cover after four years https://www.reddit.com/r/Games/comments/1v2lv9v/kylian_mbappé_is_the_ea_sports_fc_27_ultimate/
 2026-07-21T16:20:15+00:00	The Fire’s Edge, the first new DLC for Darkest Dungeon since 2020, is releasing on August 18th. https://www.reddit.com/r/Games/comments/1v2n6kn/the_fires_edge_the_first_new_dlc_for_darkest/
-2026-07-21T18:06:48+00:00	Sanctuary: Shattered Sun | Demo Launch Trailer https://www.reddit.com/r/Games/comments/1v2q8dt/sanctuary_shattered_sun_demo_launch_trailer/
 2026-07-21T18:23:20+00:00	Forza Horizon 5 Director Says Game Pass Was A Good Concept That Didn’t Work https://www.reddit.com/r/Games/comments/1v2qptx/forza_horizon_5_director_says_game_pass_was_a/
 2026-07-21T18:51:10+00:00	/noclip - History & Evolution of MMOs (with Raph Koster - Ultima Online, SW Galaxies) https://www.reddit.com/r/Games/comments/1v2riul/noclip_history_evolution_of_mmos_with_raph_koster/
-2026-07-21T21:03:04+00:00	SEED - Early Access Launch Trailer: The Sims meets Civilization https://www.reddit.com/r/Games/comments/1v2v7ki/seed_early_access_launch_trailer_the_sims_meets/
 2026-07-21T21:06:16+00:00	Pro Jank Footy | Release Date Trailer https://www.reddit.com/r/Games/comments/1v2vand/pro_jank_footy_release_date_trailer/
 2026-07-21T21:06:50+00:00	Marvel Tōkon: Fighting Souls - Magneto Character Guide https://www.reddit.com/r/Games/comments/1v2vb7c/marvel_tōkon_fighting_souls_magneto_character/
 2026-07-21T22:20:31+00:00	Xbox Paid More Than Stalker 2's Development Cost To Make It Exclusive https://www.reddit.com/r/Games/comments/1v2x8lk/xbox_paid_more_than_stalker_2s_development_cost/
@@ -28,3 +23,8 @@
 2026-07-22T11:00:45+00:00	Daily /r/Games Discussion - Suggest Me a Game - July 22, 2026 https://www.reddit.com/r/Games/comments/1v3csun/daily_rgames_discussion_suggest_me_a_game_july_22/
 2026-07-22T13:34:18+00:00	Nintendo patent tied to Palworld lawsuit stays rejected as JPO shuts down objections in unusually sharp-tongued notice https://www.reddit.com/r/Games/comments/1v3gc9l/nintendo_patent_tied_to_palworld_lawsuit_stays/
 2026-07-22T14:14:23+00:00	Applications for the Duskbloods Closed Network test are now open https://www.reddit.com/r/Games/comments/1v3he6j/applications_for_the_duskbloods_closed_network/
+2026-07-22T14:58:24+00:00	Play More of the Games You Love, Wherever You Play with XBOX Backward Compatibility on PC - XBOX Wire https://www.reddit.com/r/Games/comments/1v3ikwl/play_more_of_the_games_you_love_wherever_you_play/
+2026-07-22T15:00:32+00:00	Nintendo's cofounded venture "Marigul Management" and their Failed Attempts at N64 Development https://www.reddit.com/r/Games/comments/1v3in3v/nintendos_cofounded_venture_marigul_management/
+2026-07-22T15:25:32+00:00	Revisit E3 like you've never seen it before | Video Game History Foundation https://www.reddit.com/r/Games/comments/1v3jcj9/revisit_e3_like_youve_never_seen_it_before_video/
+2026-07-22T15:32:41+00:00	Making Of Wizardry - The Landmark RPG That Inspired Dragon Quest & Final Fantasy https://www.reddit.com/r/Games/comments/1v3jjwg/making_of_wizardry_the_landmark_rpg_that_inspired/
+2026-07-22T16:28:40+00:00	Pax Autocratica - Early Access Release Date Trailer https://www.reddit.com/r/Games/comments/1v3l5j5/pax_autocratica_early_access_release_date_trailer/
