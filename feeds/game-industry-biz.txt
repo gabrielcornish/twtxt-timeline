@@ -3,7 +3,6 @@
 # source = https://www.gamesindustry.biz/feed
 # description = twtxt conversion of https://www.gamesindustry.biz/feed
 
-2026-07-13T11:01:00+00:00	Welcome to ExDev Week https://www.gamesindustry.biz/welcome-to-exdev-week
 2026-07-13T11:02:00+00:00	What does the future of external development look like? https://www.gamesindustry.biz/what-does-the-future-of-external-development-look-like
 2026-07-13T13:13:28+00:00	Analyst: Game console shipments expected to decline 19.5% to 33.9m units in 2026 https://www.gamesindustry.biz/analyst-game-console-shipments-expected-to-decline-195-to-339m-units-in-2026
 2026-07-14T09:20:04+00:00	Ubisoft pivots to "selective model" to reduce reliance on individual game launches https://www.gamesindustry.biz/ubisoft-pivots-to-selective-model-to-reduce-reliance-on-individual-game-launches
@@ -53,3 +52,4 @@
 2026-07-23T07:41:46+00:00	Xbox announces backwards compatibility for PC and handheld devices https://www.gamesindustry.biz/xbox-announces-backwards-compatibility-for-pc-and-handheld-devices
 2026-07-23T08:32:27+00:00	The GamesIndustry.biz Summer Party 2026 in photos https://www.gamesindustry.biz/the-gamesindustrybiz-summer-party-2026-in-photos
 2026-07-23T08:58:24+00:00	UK Games Growth Package driving "exceptional demand" one year on from launch https://www.gamesindustry.biz/uk-games-growth-package-driving-exceptional-demand-one-year-on-from-launch
+2026-07-23T10:34:37+00:00	Delphi Interactive's fan-first strategy draws major IP interest following success of James Bond and FIFA https://www.gamesindustry.biz/delphi-interactives-fan-first-strategy-draws-major-ip-interest-following-success-of-james-bond-and-fifa
