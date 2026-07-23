@@ -4,7 +4,6 @@
 # description = twtxt conversion of https://bearblog.dev/discover/feed/
 
 2026-07-16T14:49:00+00:00	Some jellyfish for your viewing pleasure https://wunderkammer.bearblog.dev/some-jellyfish-for-your-viewing-pleasure/
-2026-07-17T03:23:00+00:00	Where philosophy fails me https://doodhpeda.bearblog.dev/blog/where-philosophy-fails-me/
 2026-07-17T04:33:00+00:00	The Unread Personal Blog as a Vital Disability Accommodation https://davidmcgee.xyz/the-unread-personal-blog-as-a-vital-disability-accommodation/
 2026-07-17T05:33:27.974841+00:00	i don't want to be defined by only one thing https://rnotte.art/i-dont-want-to-be-defined-by-only-one-thing/
 2026-07-17T20:01:00+00:00	The most American thing about me is the coffee https://tadaima.bearblog.dev/american-coffee/
@@ -23,3 +22,4 @@
 2026-07-20T16:19:00+00:00	Can't get rid of paper https://after.bearblog.dev/micro/cant-get-rid-of-paper/
 2026-07-20T23:11:00+00:00	I Miss Edinburgh https://householderkarl.com/i-miss-edinburgh/
 2026-07-21T17:12:00+00:00	“No AI” Statements Are Much More Than Mere Statements https://journal.james-zhan.com/no-ai-statements/
+2026-07-22T14:41:00+00:00	bad gaming news and being double faced https://anubiarts.bearblog.dev/bad-gaming-news-yeah-31/
