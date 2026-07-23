@@ -3,7 +3,6 @@
 # source = https://bearblog.dev/discover/feed/
 # description = twtxt conversion of https://bearblog.dev/discover/feed/
 
-2026-07-17T05:33:27.974841+00:00	i don't want to be defined by only one thing https://rnotte.art/i-dont-want-to-be-defined-by-only-one-thing/
 2026-07-17T20:01:00+00:00	The most American thing about me is the coffee https://tadaima.bearblog.dev/american-coffee/
 2026-07-17T22:12:45.121818+00:00	Online Friends Are Real Friends https://blog.absurdpirate.com/online-friends-are-real-friends/
 2026-07-17T23:35:13.732613+00:00	Stubborn readers https://after.bearblog.dev/micro/stubborn-readers/
@@ -18,8 +17,9 @@
 2026-07-20T13:03:19.858621+00:00	My eyes keep watering, is it perimenopause? https://fornoone.bearblog.dev/my-eyes-keep-watering-is-it-perimenopause/
 2026-07-20T15:28:20.983271+00:00	Digitally entertained with zero money https://folkmoss.bearblog.dev/digital-entertainment-with-zero-money/
 2026-07-20T16:19:00+00:00	Can't get rid of paper https://after.bearblog.dev/micro/cant-get-rid-of-paper/
+2026-07-20T18:39:00+00:00	A chunk of tree fell on my house and instead of damage, I got a cool dragonfly photo https://blog.curiousquail.com/a-chunk-of-tree-fell-on-my-house-and-instead-of-damage-i-got-a-cool-dragonfly-photo/
+2026-07-20T18:42:48.689795+00:00	Reintroducing myself. https://bx.bearblog.dev/reintroducing-myself/
 2026-07-20T23:11:00+00:00	I Miss Edinburgh https://householderkarl.com/i-miss-edinburgh/
 2026-07-21T17:12:00+00:00	“No AI” Statements Are Much More Than Mere Statements https://journal.james-zhan.com/no-ai-statements/
-2026-07-22T14:38:14.844102+00:00	Oh My God, Stop Asking What I Do For Work! https://blog.absurdpirate.com/oh-my-god-stop-asking-what-i-do-for-work/
-2026-07-22T14:41:00+00:00	bad gaming news and being double faced https://anubiarts.bearblog.dev/bad-gaming-news-yeah-31/
+2026-07-21T20:42:00+00:00	Write more postcards https://lightlogged.blog/write-more-postcards/
 2026-07-23T01:40:00+00:00	Real AI changed the way I see fictional AI https://diels-daydreams.bearblog.dev/real-ai-changed-the-way-i-see-fictional-ai/

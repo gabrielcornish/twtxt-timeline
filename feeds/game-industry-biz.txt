@@ -3,10 +3,6 @@
 # source = https://www.gamesindustry.biz/feed
 # description = twtxt conversion of https://www.gamesindustry.biz/feed
 
-2026-07-13T11:02:00+00:00	What does the future of external development look like? https://www.gamesindustry.biz/what-does-the-future-of-external-development-look-like
-2026-07-13T13:13:28+00:00	Analyst: Game console shipments expected to decline 19.5% to 33.9m units in 2026 https://www.gamesindustry.biz/analyst-game-console-shipments-expected-to-decline-195-to-339m-units-in-2026
-2026-07-14T09:20:04+00:00	Ubisoft pivots to "selective model" to reduce reliance on individual game launches https://www.gamesindustry.biz/ubisoft-pivots-to-selective-model-to-reduce-reliance-on-individual-game-launches
-2026-07-14T10:17:12+00:00	Former Epic Games VP Steve Allison appointed chief business officer at Saber Interactive https://www.gamesindustry.biz/former-epic-games-vp-steve-allison-appointed-chief-business-officer-at-saber-interactive
 2026-07-14T10:30:00+00:00	How Evil Trout aims to turn a cult free game into a Steam hit – again https://www.gamesindustry.biz/how-evil-trout-aims-to-turn-a-cult-free-game-into-a-steam-hit-again
 2026-07-14T13:00:00+00:00	"It's not like the Eye of Sauron is looking at everything we're doing" – Silent Hill F developer NeoBards on why trust is essential for co-dev https://www.gamesindustry.biz/its-not-like-the-eye-of-sauron-is-looking-at-everything-were-doing-silent-hill-f-developer-neobards-on-why-trust-is-essential-for-co-dev
 2026-07-14T13:03:49+00:00	Compulsion Games seeks new partnerships following spin-out from from Xbox https://www.gamesindustry.biz/compulsion-games-seeks-new-partnerships-following-spin-out-from-from-xbox
@@ -53,3 +49,7 @@
 2026-07-23T08:32:27+00:00	The GamesIndustry.biz Summer Party 2026 in photos https://www.gamesindustry.biz/the-gamesindustrybiz-summer-party-2026-in-photos
 2026-07-23T08:58:24+00:00	UK Games Growth Package driving "exceptional demand" one year on from launch https://www.gamesindustry.biz/uk-games-growth-package-driving-exceptional-demand-one-year-on-from-launch
 2026-07-23T10:34:37+00:00	Delphi Interactive's fan-first strategy draws major IP interest following success of James Bond and FIFA https://www.gamesindustry.biz/delphi-interactives-fan-first-strategy-draws-major-ip-interest-following-success-of-james-bond-and-fifa
+2026-07-23T13:00:00+00:00	Inside Amazon's plan to unite games, movies and TV – including "more games in development than at any point in our history" https://www.gamesindustry.biz/now-luna-is-integrated-into-prime-video-amazon-sees-potential-for-gaming-to-expand-beyond-pc-and-console-that-pie-isnt-really-growing
+2026-07-23T13:02:18+00:00	Amazon Luna cloud gaming platform now added to Prime Video in the US and UK https://www.gamesindustry.biz/amazon-luna-cloud-gaming-platform-now-added-to-prime-video-in-the-us-and-uk
+2026-07-23T13:06:55+00:00	ESA Foundation awards 31 university students scholarships to support careers in games and esports https://www.gamesindustry.biz/esa-foundation-awards-31-university-students-scholarships-to-support-careers-in-games-and-esports
+2026-07-23T13:39:10+00:00	Amazon clarifies stance on 007: First Light sequel – "Given the success of this one, I think you probably want IOI developing it" https://www.gamesindustry.biz/amazon-clarifies-stance-on-007-first-light-sequel-given-the-success-of-this-one-i-think-you-probably-want-ioi-developing-it
