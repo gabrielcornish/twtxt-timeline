@@ -3,7 +3,6 @@
 # source = https://bearblog.dev/discover/feed/
 # description = twtxt conversion of https://bearblog.dev/discover/feed/
 
-2026-07-17T20:01:00+00:00	The most American thing about me is the coffee https://tadaima.bearblog.dev/american-coffee/
 2026-07-17T22:12:45.121818+00:00	Online Friends Are Real Friends https://blog.absurdpirate.com/online-friends-are-real-friends/
 2026-07-17T23:35:13.732613+00:00	Stubborn readers https://after.bearblog.dev/micro/stubborn-readers/
 2026-07-18T02:37:54.549005+00:00	sick of writing sorries https://zoeloukia.bearblog.dev/sick-of-writing-sorries/
@@ -17,6 +16,7 @@
 2026-07-20T13:03:19.858621+00:00	My eyes keep watering, is it perimenopause? https://fornoone.bearblog.dev/my-eyes-keep-watering-is-it-perimenopause/
 2026-07-20T15:28:20.983271+00:00	Digitally entertained with zero money https://folkmoss.bearblog.dev/digital-entertainment-with-zero-money/
 2026-07-20T16:19:00+00:00	Can't get rid of paper https://after.bearblog.dev/micro/cant-get-rid-of-paper/
+2026-07-20T18:06:03.919106+00:00	If good things lasted forever https://brainjour.com/if-good-things-lasted-forever/
 2026-07-20T18:39:00+00:00	A chunk of tree fell on my house and instead of damage, I got a cool dragonfly photo https://blog.curiousquail.com/a-chunk-of-tree-fell-on-my-house-and-instead-of-damage-i-got-a-cool-dragonfly-photo/
 2026-07-20T18:42:48.689795+00:00	Reintroducing myself. https://bx.bearblog.dev/reintroducing-myself/
 2026-07-20T23:11:00+00:00	I Miss Edinburgh https://householderkarl.com/i-miss-edinburgh/
