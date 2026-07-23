@@ -3,20 +3,12 @@
 # source = https://www.reddit.com/r/Games.rss
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
-2026-07-20T20:22:40+00:00	[AMA] We're Polyarc, the developers behind Moss, and today we're launching Moss: The Forgotten Relic for NS 1+2, PS5, Xbox and Steam. Ask Us Anything July 20 at 2PM PT! https://www.reddit.com/r/Games/comments/1v1ww4g/ama_were_polyarc_the_developers_behind_moss_and/
 2026-07-22T11:00:45+00:00	Daily /r/Games Discussion - Suggest Me a Game - July 22, 2026 https://www.reddit.com/r/Games/comments/1v3csun/daily_rgames_discussion_suggest_me_a_game_july_22/
 2026-07-22T13:34:18+00:00	Nintendo patent tied to Palworld lawsuit stays rejected as JPO shuts down objections in unusually sharp-tongued notice https://www.reddit.com/r/Games/comments/1v3gc9l/nintendo_patent_tied_to_palworld_lawsuit_stays/
 2026-07-22T14:58:24+00:00	Play More of the Games You Love, Wherever You Play with XBOX Backward Compatibility on PC - XBOX Wire https://www.reddit.com/r/Games/comments/1v3ikwl/play_more_of_the_games_you_love_wherever_you_play/
-2026-07-22T15:25:32+00:00	Revisit E3 like you've never seen it before | Video Game History Foundation https://www.reddit.com/r/Games/comments/1v3jcj9/revisit_e3_like_youve_never_seen_it_before_video/
-2026-07-22T16:51:51+00:00	Killer Queen Black is BACK https://www.reddit.com/r/Games/comments/1v3ltko/killer_queen_black_is_back/
-2026-07-22T17:35:23+00:00	Avatar Legends - The Fighting Game Review Thread https://www.reddit.com/r/Games/comments/1v3n3rr/avatar_legends_the_fighting_game_review_thread/
-2026-07-22T18:20:34+00:00	Gaming’s Contract Workers Are Being Devastated, Too: ‘Industry’s Cooked’ https://www.reddit.com/r/Games/comments/1v3ofny/gamings_contract_workers_are_being_devastated_too/
 2026-07-22T18:45:31+00:00	Steam Wishlists now support Categories, and more https://www.reddit.com/r/Games/comments/1v3p5bj/steam_wishlists_now_support_categories_and_more/
 2026-07-22T20:26:15+00:00	A new report suggests that Sony's controversial decision to kill off PlayStation discs could destroy the $7.2bn used game market https://www.reddit.com/r/Games/comments/1v3s2nd/a_new_report_suggests_that_sonys_controversial/
 2026-07-22T20:27:51+00:00	New Pokemon Diamond and Pearl leak surfaces, reveal scrapped Pokemon and beta designs https://www.reddit.com/r/Games/comments/1v3s4b2/new_pokemon_diamond_and_pearl_leak_surfaces/
-2026-07-22T20:48:18+00:00	FF7 Rebirth PC Shader Injector Mod: Lighting Transformed! - Digital Foundry https://www.reddit.com/r/Games/comments/1v3sod3/ff7_rebirth_pc_shader_injector_mod_lighting/
-2026-07-22T21:52:07+00:00	The Falcom Music Channel, a fan-made channel cataloguing songs from Nihon Falcom video games (Trails, Ys etc.), has been taken down https://www.reddit.com/r/Games/comments/1v3ueh8/the_falcom_music_channel_a_fanmade_channel/
-2026-07-22T23:12:19+00:00	MARVEL Tōkon: Fighting Souls | Blade Character Guide https://www.reddit.com/r/Games/comments/1v3wfuj/marvel_tōkon_fighting_souls_blade_character_guide/
 2026-07-23T00:20:45+00:00	STALKER 2 Studio Shuts Down Recent Xbox Funding Claims https://www.reddit.com/r/Games/comments/1v3y1ok/stalker_2_studio_shuts_down_recent_xbox_funding/
 2026-07-23T03:15:53+00:00	Avatar Legends delayed on Xbox hours before release https://www.reddit.com/r/Games/comments/1v41xqa/avatar_legends_delayed_on_xbox_hours_before/
 2026-07-23T06:26:15+00:00	‘Trails in the Sky 2nd Chapter’ details more characters, Japanese and English voice cast, fishing game and Viewer Mode https://www.reddit.com/r/Games/comments/1v45nyi/trails_in_the_sky_2nd_chapter_details_more/
@@ -28,3 +20,11 @@
 2026-07-23T13:13:29+00:00	Hell Maiden Preview - Bullet Heaven Bliss https://www.reddit.com/r/Games/comments/1v4dksg/hell_maiden_preview_bullet_heaven_bliss/
 2026-07-23T14:08:30+00:00	Ex-God Of War Writer Has Heard PlayStation Staff Are Under “Strictest” Social Media Guidelines Following Disc Backlash https://www.reddit.com/r/Games/comments/1v4ezxs/exgod_of_war_writer_has_heard_playstation_staff/
 2026-07-23T14:17:36+00:00	AMA: I’m a former Disney Imagineer-turned-game developer - my debut game, a puzzle platformer called LIFTED, launched yesterday and plays great on the Steam Deck! https://www.reddit.com/r/Games/comments/1v4f8ys/ama_im_a_former_disney_imagineerturnedgame/
+2026-07-23T14:37:23+00:00	Total War: WARHAMMER 40,000 - Alpha Strike Livestream: Ranged Combat https://www.reddit.com/r/Games/comments/1v4fs44/total_war_warhammer_40000_alpha_strike_livestream/
+2026-07-23T15:02:09+00:00	Halo: Campaign Evolved | Launch Trailer https://www.reddit.com/r/Games/comments/1v4gg03/halo_campaign_evolved_launch_trailer/
+2026-07-23T15:10:49+00:00	Halo: Campaign Evolved - Review Thread https://www.reddit.com/r/Games/comments/1v4goqq/halo_campaign_evolved_review_thread/
+2026-07-23T15:12:21+00:00	Rockstar Games Workers Union say their first meeting with the GTA 6 studio's management was "a step in the right direction" https://www.reddit.com/r/Games/comments/1v4gq9v/rockstar_games_workers_union_say_their_first/
+2026-07-23T15:15:03+00:00	MARVEL Tōkon: Fighting Souls | Black Panther Character Guide https://www.reddit.com/r/Games/comments/1v4gt06/marvel_tōkon_fighting_souls_black_panther/
+2026-07-23T15:35:37+00:00	Launch Trailer - DragonSword : Awakening https://www.reddit.com/r/Games/comments/1v4hdd9/launch_trailer_dragonsword_awakening/
+2026-07-23T16:00:58+00:00	Rockstar Fired 34 People, but the Union Is Bigger than Ever https://www.reddit.com/r/Games/comments/1v4i328/rockstar_fired_34_people_but_the_union_is_bigger/
+2026-07-23T16:16:09+00:00	Ringwyrm - TEASER https://www.reddit.com/r/Games/comments/1v4ij63/ringwyrm_teaser/
