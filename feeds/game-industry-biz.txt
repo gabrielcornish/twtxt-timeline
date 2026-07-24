@@ -3,7 +3,6 @@
 # source = https://www.gamesindustry.biz/feed
 # description = twtxt conversion of https://www.gamesindustry.biz/feed
 
-2026-07-15T14:28:45+00:00	"We thought, well, how would we reinvent this wheel?" – Minecraft specialists 4J Studios on building a new sandbox crafting game from first principles https://www.gamesindustry.biz/we-thought-well-how-would-we-reinvent-this-wheel-minecraft-specialists-4j-studios-on-building-a-new-sandbox-crafting-game-from-first-principles
 2026-07-16T09:00:00+00:00	Should you work on your own games as an external development studio? https://www.gamesindustry.biz/should-you-work-on-your-own-games-as-an-external-development-studio
 2026-07-16T09:10:53+00:00	ZeniMax Online Studios leadership impacted by latest Xbox layoffs https://www.gamesindustry.biz/zenimax-online-studios-leadership-impacted-by-latest-xbox-layoffs
 2026-07-16T09:42:51+00:00	Looney Tunes: World of Mayhem to be taken offline in October 2026 https://www.gamesindustry.biz/looney-tunes-world-of-mayhem-to-be-taken-offline-in-october-2026
@@ -53,3 +52,4 @@
 2026-07-24T10:50:17+00:00	Meccha Chameleon ranks second behind Fortnite in PC revenue for June | Newzoo charts https://www.gamesindustry.biz/meccha-chameleon-ranks-second-behind-fortnite-in-pc-revenue-for-june-newzoo-charts
 2026-07-24T13:28:30+00:00	Ubisoft expects "superior financial performance" from Black Flag remake, but won't increase guidance due to "strong competitive lineup" https://www.gamesindustry.biz/ubisoft-expects-superior-financial-performance-from-black-flag-remake-but-wont-increase-guidance-due-to-strong-competitive-lineup
 2026-07-24T14:38:01+00:00	The games industry is stifled by a culture of fear https://www.gamesindustry.biz/the-games-industry-is-stifled-by-a-culture-of-fear
+2026-07-24T16:23:28+00:00	After half a decade of job losses, there is no "business as usual" | Opinion https://www.gamesindustry.biz/after-half-a-decade-of-job-losses-there-is-no-business-as-usual-opinion
