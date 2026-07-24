@@ -5,7 +5,6 @@
 
 2026-07-22T11:00:45+00:00	Daily /r/Games Discussion - Suggest Me a Game - July 22, 2026 https://www.reddit.com/r/Games/comments/1v3csun/daily_rgames_discussion_suggest_me_a_game_july_22/
 2026-07-23T08:27:28+00:00	Blizzard is investigating a World of Warcraft cheating scandal after game master 'death-touched' bosses for friends without realizing it was being recorded https://www.reddit.com/r/Games/comments/1v47t2s/blizzard_is_investigating_a_world_of_warcraft/
-2026-07-23T12:12:05+00:00	European Commission clears acquisition of Electronic Arts by the Public Investment Fund of Saudi Arabia https://www.reddit.com/r/Games/comments/1v4c4wn/european_commission_clears_acquisition_of/
 2026-07-23T13:03:36+00:00	Miyamoto: Games based on developers’ personal interests resonate around the world, not those aiming for global appeal https://www.reddit.com/r/Games/comments/1v4dc27/miyamoto_games_based_on_developers_personal/
 2026-07-23T14:17:36+00:00	AMA: I’m a former Disney Imagineer-turned-game developer - my debut game, a puzzle platformer called LIFTED, launched yesterday and plays great on the Steam Deck! https://www.reddit.com/r/Games/comments/1v4f8ys/ama_im_a_former_disney_imagineerturnedgame/
 2026-07-23T14:37:23+00:00	Total War: WARHAMMER 40,000 - Alpha Strike Livestream: Ranged Combat https://www.reddit.com/r/Games/comments/1v4fs44/total_war_warhammer_40000_alpha_strike_livestream/
@@ -28,3 +27,4 @@
 2026-07-24T00:38:01+00:00	The Silent Hill f scenario team at Konami was encouraged to read 100 to 200 books a year, according to producer https://www.reddit.com/r/Games/comments/1v4vzv3/the_silent_hill_f_scenario_team_at_konami_was/
 2026-07-24T00:56:43+00:00	Circana (US): 292 million units of physical video games sold in the 12-month period ending June 2009. By June 2026 this had fallen to 37 million units https://www.reddit.com/r/Games/comments/1v4wf0x/circana_us_292_million_units_of_physical_video/
 2026-07-24T01:04:23+00:00	Xenoblade Chronicles 2 – Nintendo Switch 2 Edition – Overview Trailer https://www.reddit.com/r/Games/comments/1v4wla1/xenoblade_chronicles_2_nintendo_switch_2_edition/
+2026-07-24T05:01:32+00:00	SEGA has no plans to abandon physical media and still sees a lot of value in it https://www.reddit.com/r/Games/comments/1v51l51/sega_has_no_plans_to_abandon_physical_media_and/
