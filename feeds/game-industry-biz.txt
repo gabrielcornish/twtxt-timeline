@@ -3,9 +3,6 @@
 # source = https://www.gamesindustry.biz/feed
 # description = twtxt conversion of https://www.gamesindustry.biz/feed
 
-2026-07-14T13:00:00+00:00	"It's not like the Eye of Sauron is looking at everything we're doing" – Silent Hill F developer NeoBards on why trust is essential for co-dev https://www.gamesindustry.biz/its-not-like-the-eye-of-sauron-is-looking-at-everything-were-doing-silent-hill-f-developer-neobards-on-why-trust-is-essential-for-co-dev
-2026-07-14T13:03:49+00:00	Compulsion Games seeks new partnerships following spin-out from from Xbox https://www.gamesindustry.biz/compulsion-games-seeks-new-partnerships-following-spin-out-from-from-xbox
-2026-07-14T14:09:53+00:00	Aream & Co: Gaming M&A hits $2.3bn in Q2, highest level since 2022 https://www.gamesindustry.biz/aream-co-gaming-ma-hits-23bn-in-q2-highest-level-since-2022
 2026-07-15T10:27:38+00:00	11 Bit Studios lays off 20 workers as it "adjusts new project teams to current needs" https://www.gamesindustry.biz/11-bit-studios-lays-off-20-workers-as-it-adjusts-new-project-teams-to-current-needs
 2026-07-15T12:00:00+00:00	What lessons have developers learned from external development? https://www.gamesindustry.biz/what-lessons-have-developers-learned-from-external-development
 2026-07-15T13:27:21+00:00	"I had a front row seat to one of the greatest creative explosions in history" – Glen Schofield announces retirement https://www.gamesindustry.biz/i-had-a-front-row-seat-to-one-of-the-greatest-creative-explosions-in-history-glen-schofield-announces-retirement
@@ -53,3 +50,6 @@
 2026-07-23T13:06:55+00:00	ESA Foundation awards 31 university students scholarships to support careers in games and esports https://www.gamesindustry.biz/esa-foundation-awards-31-university-students-scholarships-to-support-careers-in-games-and-esports
 2026-07-23T13:39:10+00:00	Amazon clarifies stance on 007: First Light sequel – "Given the success of this one, I think you probably want IOI developing it" https://www.gamesindustry.biz/amazon-clarifies-stance-on-007-first-light-sequel-given-the-success-of-this-one-i-think-you-probably-want-ioi-developing-it
 2026-07-23T14:48:27+00:00	Union accuses Bethesda of violating labour laws in Canada following layoffs at Montreal studio https://www.gamesindustry.biz/union-accuses-bethesda-of-violating-labour-laws-in-canada-following-layoffs-at-montreal-studio
+2026-07-24T07:08:08+00:00	Microsoft starts testing ad-supported game streaming on Xbox https://www.gamesindustry.biz/microsoft-starts-testing-ad-supported-game-streaming-on-xbox
+2026-07-24T08:08:59+00:00	EU Commission approves $55bn EA buyout, says it "would not raise competition concerns" https://www.gamesindustry.biz/eu-commission-approves-55bn-ea-buyout-says-it-would-not-raise-competition-concerns
+2026-07-24T09:23:00+00:00	Ubisoft Q1 net bookings down 9.2%, attributes drop to "high comparison base" from same period last year https://www.gamesindustry.biz/ubisoft-q1-net-bookings-down-92-attributes-drop-to-high-comparison-base-from-same-period-last-year
