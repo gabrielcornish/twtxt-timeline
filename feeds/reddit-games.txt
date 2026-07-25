@@ -4,12 +4,9 @@
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
 2026-07-22T11:00:45+00:00	Daily /r/Games Discussion - Suggest Me a Game - July 22, 2026 https://www.reddit.com/r/Games/comments/1v3csun/daily_rgames_discussion_suggest_me_a_game_july_22/
-2026-07-23T08:27:28+00:00	Blizzard is investigating a World of Warcraft cheating scandal after game master 'death-touched' bosses for friends without realizing it was being recorded https://www.reddit.com/r/Games/comments/1v47t2s/blizzard_is_investigating_a_world_of_warcraft/
 2026-07-23T13:03:36+00:00	Miyamoto: Games based on developers’ personal interests resonate around the world, not those aiming for global appeal https://www.reddit.com/r/Games/comments/1v4dc27/miyamoto_games_based_on_developers_personal/
-2026-07-23T15:10:49+00:00	Halo: Campaign Evolved - Review Thread https://www.reddit.com/r/Games/comments/1v4goqq/halo_campaign_evolved_review_thread/
 2026-07-23T17:37:36+00:00	Even former PlayStation chief Shuhei Yoshida doesn't know why Bloodborne hasn't been remastered or released on PC: "It's a complete mystery" https://www.reddit.com/r/Games/comments/1v4kujw/even_former_playstation_chief_shuhei_yoshida/
 2026-07-23T18:53:00+00:00	Naming Is Hard | 2XKO https://www.reddit.com/r/Games/comments/1v4n0d1/naming_is_hard_2xko/
-2026-07-23T19:48:08+00:00	Marvel Tōkon: Fighting Souls - Year 1 DLC Character: Phoenix Cyclops | PS5 & PC Games https://www.reddit.com/r/Games/comments/1v4ol5m/marvel_tōkon_fighting_souls_year_1_dlc_character/
 2026-07-23T21:13:04+00:00	Guild Wars 3 - The Vaelwardens of the Orrian Golden Age https://www.reddit.com/r/Games/comments/1v4qxr5/guild_wars_3_the_vaelwardens_of_the_orrian_golden/
 2026-07-24T00:38:01+00:00	The Silent Hill f scenario team at Konami was encouraged to read 100 to 200 books a year, according to producer https://www.reddit.com/r/Games/comments/1v4vzv3/the_silent_hill_f_scenario_team_at_konami_was/
 2026-07-24T00:56:43+00:00	Circana (US): 292 million units of physical video games sold in the 12-month period ending June 2009. By June 2026 this had fallen to 37 million units https://www.reddit.com/r/Games/comments/1v4wf0x/circana_us_292_million_units_of_physical_video/
@@ -28,3 +25,6 @@
 2026-07-24T17:55:09+00:00	Project Zomboid - This is How I Died - Build 42 Trailer https://www.reddit.com/r/Games/comments/1v5ir8h/project_zomboid_this_is_how_i_died_build_42/
 2026-07-24T18:24:26+00:00	İpek Yavuz, co-founder of Mount & Blade creators TaleWorlds, has died. https://www.reddit.com/r/Games/comments/1v5jlkp/ipek_yavuz_cofounder_of_mount_blade_creators/
 2026-07-24T22:30:34+00:00	Studio Behind Spanish Horror Shooter Crisol: Theater of Idols Has Reportedly Lost All Its Staff https://www.reddit.com/r/Games/comments/1v5q8j9/studio_behind_spanish_horror_shooter_crisol/
+2026-07-25T00:44:10+00:00	Palworld 1.0 Review – IGN https://www.reddit.com/r/Games/comments/1v5td7v/palworld_10_review_ign/
+2026-07-25T00:57:37+00:00	Next Kratos-Led God of War Game Is Coming After Laufey, and Connects Directly to Her Story | Comic Con 2026 https://www.reddit.com/r/Games/comments/1v5to3e/next_kratosled_god_of_war_game_is_coming_after/
+2026-07-25T01:45:47+00:00	God of War Laufey launches on PS5 February 16, 2027 https://www.reddit.com/r/Games/comments/1v5ups6/god_of_war_laufey_launches_on_ps5_february_16_2027/
