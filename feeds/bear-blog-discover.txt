@@ -3,7 +3,6 @@
 # source = https://bearblog.dev/discover/feed/
 # description = twtxt conversion of https://bearblog.dev/discover/feed/
 
-2026-07-19T16:00:00+00:00	I am wanting to be wanting after a trip to the ER https://angrybunnyman.com/i-am-wanting-to-be-wanting-after-a-trip-to-the-er/
 2026-07-19T22:59:00+00:00	I no longer want to be extraordinary. https://bx.bearblog.dev/i-no-longer-want-to-be-extraordinary/
 2026-07-20T13:03:19.858621+00:00	My eyes keep watering, is it perimenopause? https://fornoone.bearblog.dev/my-eyes-keep-watering-is-it-perimenopause/
 2026-07-20T15:28:20.983271+00:00	Digitally entertained with zero money https://folkmoss.bearblog.dev/digital-entertainment-with-zero-money/
@@ -23,3 +22,4 @@
 2026-07-24T21:10:00+00:00	Medusa Class https://elmc.at/medusa-class/
 2026-07-25T06:06:00+00:00	RE: Why do people have multiple blogs https://fornoone.bearblog.dev/re-why-do-people-have-multiple-blogs/
 2026-07-25T06:50:00+00:00	Feeling violated, and maybe it's my fault https://toska.bearblog.dev/feeling-violated-and-maybe-its-my-fault/
+2026-07-25T21:14:34.207022+00:00	my presidential platform now that i'm old enough to run https://cherrysroom.bearblog.dev/my-presidential-platform-now-that-im-old-enough-to-run/
