@@ -4,14 +4,10 @@
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
 2026-07-22T11:00:45+00:00	Daily /r/Games Discussion - Suggest Me a Game - July 22, 2026 https://www.reddit.com/r/Games/comments/1v3csun/daily_rgames_discussion_suggest_me_a_game_july_22/
-2026-07-23T13:03:36+00:00	Miyamoto: Games based on developers’ personal interests resonate around the world, not those aiming for global appeal https://www.reddit.com/r/Games/comments/1v4dc27/miyamoto_games_based_on_developers_personal/
-2026-07-23T17:37:36+00:00	Even former PlayStation chief Shuhei Yoshida doesn't know why Bloodborne hasn't been remastered or released on PC: "It's a complete mystery" https://www.reddit.com/r/Games/comments/1v4kujw/even_former_playstation_chief_shuhei_yoshida/
 2026-07-24T00:38:01+00:00	The Silent Hill f scenario team at Konami was encouraged to read 100 to 200 books a year, according to producer https://www.reddit.com/r/Games/comments/1v4vzv3/the_silent_hill_f_scenario_team_at_konami_was/
-2026-07-24T01:04:23+00:00	Xenoblade Chronicles 2 – Nintendo Switch 2 Edition – Overview Trailer https://www.reddit.com/r/Games/comments/1v4wla1/xenoblade_chronicles_2_nintendo_switch_2_edition/
 2026-07-24T05:01:32+00:00	SEGA has no plans to abandon physical media and still sees a lot of value in it https://www.reddit.com/r/Games/comments/1v51l51/sega_has_no_plans_to_abandon_physical_media_and/
 2026-07-24T08:39:09+00:00	Cancelled Age of Empires 3: DE DLC is uncancelled - The Baltic Powers expansion announced https://www.reddit.com/r/Games/comments/1v55kwe/cancelled_age_of_empires_3_de_dlc_is_uncancelled/
 2026-07-24T09:30:42+00:00	Dragon’s Dogma 2: Dark Arisen To Bring Transmog And ‘Hard Mode’ Instead Of Level Scaling https://www.reddit.com/r/Games/comments/1v56hco/dragons_dogma_2_dark_arisen_to_bring_transmog_and/
-2026-07-24T09:47:34+00:00	Hell Let Loose: Vietnam Opens Crossplay Playtest on PC and Consoles Ahead of August Launch https://www.reddit.com/r/Games/comments/1v56rs0/hell_let_loose_vietnam_opens_crossplay_playtest/
 2026-07-24T10:00:56+00:00	Daily /r/Games Discussion - Free Talk Friday - July 24, 2026 https://www.reddit.com/r/Games/comments/1v570cn/daily_rgames_discussion_free_talk_friday_july_24/
 2026-07-24T13:32:18+00:00	007 First Light Update #1: Behind Enemy Lines (New TacSim missions and outfits) https://www.reddit.com/r/Games/comments/1v5bj31/007_first_light_update_1_behind_enemy_lines_new/
 2026-07-24T13:44:06+00:00	Star Racer, Confirmed For Switch, Is The Closest We're Getting To A New F-Zero https://www.reddit.com/r/Games/comments/1v5bts1/star_racer_confirmed_for_switch_is_the_closest/
@@ -28,3 +24,7 @@
 2026-07-25T08:06:50+00:00	FINAL FANTASY XIV: Evercold - Extended Teaser Trailer https://www.reddit.com/r/Games/comments/1v627rr/final_fantasy_xiv_evercold_extended_teaser_trailer/
 2026-07-25T10:07:53+00:00	After 8 years in development hell, Beksinski-inspired hand-painted dark adventure "Tormentum II" is now available https://www.reddit.com/r/Games/comments/1v64ccl/after_8_years_in_development_hell/
 2026-07-25T16:22:00+00:00	The Future of Thick As Thieves https://www.reddit.com/r/Games/comments/1v6cob6/the_future_of_thick_as_thieves/
+2026-07-25T17:30:35+00:00	Capcom Explains Why It Chose To Call Dragon’s Dogma 2 Expansion ‘Dark Arisen’ Again https://www.reddit.com/r/Games/comments/1v6efpe/capcom_explains_why_it_chose_to_call_dragons/
+2026-07-25T17:33:56+00:00	Agefield High: Rock the School – Official Release Date Trailer https://www.reddit.com/r/Games/comments/1v6eiu7/agefield_high_rock_the_school_official_release/
+2026-07-25T17:34:54+00:00	Open-source reimplementation of 4X Strategy Imperium Galactica (Standalone, no base game files needed) https://www.reddit.com/r/Games/comments/1v6ejp2/opensource_reimplementation_of_4x_strategy/
+2026-07-25T18:50:03+00:00	The Forgotten Game That Went Completely Off the Rails | Riana Rouge https://www.reddit.com/r/Games/comments/1v6gioq/the_forgotten_game_that_went_completely_off_the/
