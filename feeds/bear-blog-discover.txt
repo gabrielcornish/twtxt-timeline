@@ -3,8 +3,6 @@
 # source = https://bearblog.dev/discover/feed/
 # description = twtxt conversion of https://bearblog.dev/discover/feed/
 
-2026-07-18T21:00:00+00:00	the graveyard is without walls https://some---things.com/withoutwalls/
-2026-07-19T01:09:00+00:00	Photos of things I didn't buy at the thrift store https://blog.lauramichet.com/photos-of-things-i-didnt-buy-at-the-thrift-store/
 2026-07-19T16:00:00+00:00	I am wanting to be wanting after a trip to the ER https://angrybunnyman.com/i-am-wanting-to-be-wanting-after-a-trip-to-the-er/
 2026-07-19T22:59:00+00:00	I no longer want to be extraordinary. https://bx.bearblog.dev/i-no-longer-want-to-be-extraordinary/
 2026-07-20T13:03:19.858621+00:00	My eyes keep watering, is it perimenopause? https://fornoone.bearblog.dev/my-eyes-keep-watering-is-it-perimenopause/
@@ -23,3 +21,5 @@
 2026-07-24T12:00:00+00:00	My old SoundCloud page is a time capsule https://www.simonjamesfrench.com/soundcloud-time-capsule/
 2026-07-24T15:51:00+00:00	Who would ever read this? https://piimyon.bearblog.dev/who-would-ever-read-this/
 2026-07-24T21:10:00+00:00	Medusa Class https://elmc.at/medusa-class/
+2026-07-25T06:06:00+00:00	RE: Why do people have multiple blogs https://fornoone.bearblog.dev/re-why-do-people-have-multiple-blogs/
+2026-07-25T06:50:00+00:00	Feeling violated, and maybe it's my fault https://toska.bearblog.dev/feeling-violated-and-maybe-its-my-fault/
