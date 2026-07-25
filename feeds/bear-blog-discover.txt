@@ -3,7 +3,6 @@
 # source = https://bearblog.dev/discover/feed/
 # description = twtxt conversion of https://bearblog.dev/discover/feed/
 
-2026-07-18T17:42:00+00:00	Delving Into The Blogosphere https://onlinegoddess.net/2026/07/delving-into-the-blogosphere/
 2026-07-18T21:00:00+00:00	the graveyard is without walls https://some---things.com/withoutwalls/
 2026-07-19T01:09:00+00:00	Photos of things I didn't buy at the thrift store https://blog.lauramichet.com/photos-of-things-i-didnt-buy-at-the-thrift-store/
 2026-07-19T16:00:00+00:00	I am wanting to be wanting after a trip to the ER https://angrybunnyman.com/i-am-wanting-to-be-wanting-after-a-trip-to-the-er/
@@ -22,4 +21,5 @@
 2026-07-23T21:57:34.552206+00:00	✏️ transit sketches on transit stationary https://donthave2sting.bearblog.dev/transit-sketches-on-transit-stationary/
 2026-07-24T04:29:00+00:00	Should I have done more? https://doodhpeda.bearblog.dev/blog/should-i-have-done-more/
 2026-07-24T12:00:00+00:00	My old SoundCloud page is a time capsule https://www.simonjamesfrench.com/soundcloud-time-capsule/
+2026-07-24T21:10:00+00:00	Medusa Class https://elmc.at/medusa-class/
 2026-07-24T23:35:00+00:00	Weird men and their blogs https://diels-daydreams.bearblog.dev/weird-men-and-their-blogs/
