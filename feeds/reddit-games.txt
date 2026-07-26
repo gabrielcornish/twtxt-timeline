@@ -3,16 +3,13 @@
 # source = https://www.reddit.com/r/Games.rss
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
-2026-07-25T01:45:47+00:00	God of War Laufey launches on PS5 February 16, 2027 https://www.reddit.com/r/Games/comments/1v5ups6/god_of_war_laufey_launches_on_ps5_february_16_2027/
 2026-07-25T08:06:50+00:00	FINAL FANTASY XIV: Evercold - Extended Teaser Trailer https://www.reddit.com/r/Games/comments/1v627rr/final_fantasy_xiv_evercold_extended_teaser_trailer/
 2026-07-25T16:22:00+00:00	The Future of Thick As Thieves https://www.reddit.com/r/Games/comments/1v6cob6/the_future_of_thick_as_thieves/
 2026-07-25T17:30:35+00:00	Capcom Explains Why It Chose To Call Dragon’s Dogma 2 Expansion ‘Dark Arisen’ Again https://www.reddit.com/r/Games/comments/1v6efpe/capcom_explains_why_it_chose_to_call_dragons/
-2026-07-25T17:34:54+00:00	Open-source reimplementation of 4X Strategy Imperium Galactica (Standalone, no base game files needed) https://www.reddit.com/r/Games/comments/1v6ejp2/opensource_reimplementation_of_4x_strategy/
 2026-07-25T18:50:03+00:00	The Forgotten Game That Went Completely Off the Rails | Riana Rouge https://www.reddit.com/r/Games/comments/1v6gioq/the_forgotten_game_that_went_completely_off_the/
 2026-07-26T01:30:11+00:00	Legends of Dragaea's FREE Expansion: Gods of Dragaea is out NOW! https://www.reddit.com/r/Games/comments/1v6pxtw/legends_of_dragaeas_free_expansion_gods_of/
 2026-07-26T02:54:50+00:00	Nintendo IP co-owned with other companies, a list and full explanation of the matter https://www.reddit.com/r/Games/comments/1v6roda/nintendo_ip_coowned_with_other_companies_a_list/
 2026-07-26T04:00:41+00:00	Indie Sunday Hub - July 26, 2026 https://www.reddit.com/r/Games/comments/1v6sztc/indie_sunday_hub_july_26_2026/
-2026-07-26T05:09:08+00:00	Geneforge 3 - Detonation - Spiderweb Software - Kickstarter For Cult-Classic Indie RPG Remake! https://www.reddit.com/r/Games/comments/1v6uct7/geneforge_3_detonation_spiderweb_software/
 2026-07-26T05:50:24+00:00	Downfall Of Yellowsky - Gameplay Trailer https://www.reddit.com/r/Games/comments/1v6v4hs/downfall_of_yellowsky_gameplay_trailer/
 2026-07-26T06:29:49+00:00	Showa American Story will be at Gamescom https://www.reddit.com/r/Games/comments/1v6vuk2/showa_american_story_will_be_at_gamescom/
 2026-07-26T08:01:38+00:00	Hunt of the Reptorians - Gibbonfiend Studios - A Sci-Fi Roguelike Deckbuilder inspired by FTL and Slay the Spire (and a dash of XCOM) https://www.reddit.com/r/Games/comments/1v6xhmi/hunt_of_the_reptorians_gibbonfiend_studios_a/
@@ -28,3 +25,6 @@
 2026-07-26T14:13:41+00:00	Below, Rusted Gods - From South Games - Horror game where you guide an underground expedition. https://www.reddit.com/r/Games/comments/1v7516p/below_rusted_gods_from_south_games_horror_game/
 2026-07-26T14:29:04+00:00	A Game About Chopping Trees - Space Raccoon Game Studio - A relaxing lumberjack experience (Just released and already 50k+ copies sold!) https://www.reddit.com/r/Games/comments/1v75fgy/a_game_about_chopping_trees_space_raccoon_game/
 2026-07-26T15:30:02+00:00	Critterville goes Bankrupt - Penniless Games - An Evil Farming Game https://www.reddit.com/r/Games/comments/1v770y0/critterville_goes_bankrupt_penniless_games_an/
+2026-07-26T15:49:56+00:00	Hollow Home - Twigames Inc. - Isometric narrative RPG about a city under siege, inspired by real events during the siege of Mariupol, seen through the eyes of a teenager trying to survive the horrors of war https://www.reddit.com/r/Games/comments/1v77kcu/hollow_home_twigames_inc_isometric_narrative_rpg/
+2026-07-26T15:55:28+00:00	The Smiling Flesh - Dinomore - A single-player survival horror game https://www.reddit.com/r/Games/comments/1v77prc/the_smiling_flesh_dinomore_a_singleplayer/
+2026-07-26T16:02:32+00:00	Pilot Tycoon - Earthrise Games - Airline pilot career sim-RPG https://www.reddit.com/r/Games/comments/1v77wqb/pilot_tycoon_earthrise_games_airline_pilot_career/
