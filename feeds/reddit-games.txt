@@ -3,10 +3,6 @@
 # source = https://www.reddit.com/r/Games.rss
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
-2026-07-24T18:24:26+00:00	İpek Yavuz, co-founder of Mount & Blade creators TaleWorlds, has died. https://www.reddit.com/r/Games/comments/1v5jlkp/ipek_yavuz_cofounder_of_mount_blade_creators/
-2026-07-24T22:30:34+00:00	Studio Behind Spanish Horror Shooter Crisol: Theater of Idols Has Reportedly Lost All Its Staff https://www.reddit.com/r/Games/comments/1v5q8j9/studio_behind_spanish_horror_shooter_crisol/
-2026-07-25T00:44:10+00:00	Palworld 1.0 Review – IGN https://www.reddit.com/r/Games/comments/1v5td7v/palworld_10_review_ign/
-2026-07-25T00:57:37+00:00	Next Kratos-Led God of War Game Is Coming After Laufey, and Connects Directly to Her Story | Comic Con 2026 https://www.reddit.com/r/Games/comments/1v5to3e/next_kratosled_god_of_war_game_is_coming_after/
 2026-07-25T01:45:47+00:00	God of War Laufey launches on PS5 February 16, 2027 https://www.reddit.com/r/Games/comments/1v5ups6/god_of_war_laufey_launches_on_ps5_february_16_2027/
 2026-07-25T08:06:50+00:00	FINAL FANTASY XIV: Evercold - Extended Teaser Trailer https://www.reddit.com/r/Games/comments/1v627rr/final_fantasy_xiv_evercold_extended_teaser_trailer/
 2026-07-25T10:07:53+00:00	After 8 years in development hell, Beksinski-inspired hand-painted dark adventure "Tormentum II" is now available https://www.reddit.com/r/Games/comments/1v64ccl/after_8_years_in_development_hell/
@@ -21,10 +17,14 @@
 2026-07-26T05:50:24+00:00	Downfall Of Yellowsky - Gameplay Trailer https://www.reddit.com/r/Games/comments/1v6v4hs/downfall_of_yellowsky_gameplay_trailer/
 2026-07-26T06:29:49+00:00	Showa American Story will be at Gamescom https://www.reddit.com/r/Games/comments/1v6vuk2/showa_american_story_will_be_at_gamescom/
 2026-07-26T08:01:38+00:00	Hunt of the Reptorians - Gibbonfiend Studios - A Sci-Fi Roguelike Deckbuilder inspired by FTL and Slay the Spire (and a dash of XCOM) https://www.reddit.com/r/Games/comments/1v6xhmi/hunt_of_the_reptorians_gibbonfiend_studios_a/
-2026-07-26T08:54:10+00:00	Worlds Explorers - Pioneers Games - a Sci-Fi Survival management game in a style of a Colony Sim https://www.reddit.com/r/Games/comments/1v6yez5/worlds_explorers_pioneers_games_a_scifi_survival/
 2026-07-26T09:00:32+00:00	Weekly /r/Games Discussion - What have you been playing, and what are your thoughts? - July 26, 2026 https://www.reddit.com/r/Games/comments/1v6yj0e/weekly_rgames_discussion_what_have_you_been/
 2026-07-26T09:08:32+00:00	Match Morphosis - Stochastic Walk - Candy Crush meets Slay the Spire, a Kamen Rider-inspired match-3 roguelike deckbuilder https://www.reddit.com/r/Games/comments/1v6yo9n/match_morphosis_stochastic_walk_candy_crush_meets/
 2026-07-26T09:13:26+00:00	GameInformer's 10 Best Modern Adventure Games https://www.reddit.com/r/Games/comments/1v6yrju/gameinformers_10_best_modern_adventure_games/
-2026-07-26T09:59:08+00:00	Ariokan: create your cards, break the Meta - Fatum Games - online collectible card game where you make the cards (+ rouguelite!) https://www.reddit.com/r/Games/comments/1v6zkui/ariokan_create_your_cards_break_the_meta_fatum/
-2026-07-26T10:23:04+00:00	APPA - Heat Death Studios - A story focused real time simultaneous card battler. https://www.reddit.com/r/Games/comments/1v700y7/appa_heat_death_studios_a_story_focused_real_time/
-2026-07-26T11:35:27+00:00	Frankenmine - Rebel Pickle Games - Incremental digging game https://www.reddit.com/r/Games/comments/1v71feo/frankenmine_rebel_pickle_games_incremental/
+2026-07-26T11:54:28+00:00	Deserter - AskaLot Games - an immersive isometric stealth RPG where stealing is your only way to survive in a decaying totalitarian city. https://www.reddit.com/r/Games/comments/1v71tex/deserter_askalot_games_an_immersive_isometric/
+2026-07-26T12:05:12+00:00	IGN - Xbox Is Dismantling Its Future To Rebuild a Past It Can Never Recapture: Halo, Fallout and Gears can’t sustain Microsoft’s game business forever. https://www.reddit.com/r/Games/comments/1v721v9/ign_xbox_is_dismantling_its_future_to_rebuild_a/
+2026-07-26T12:30:47+00:00	STRANGER THAN HEAVEN - Combat Gameplay https://www.reddit.com/r/Games/comments/1v72ln8/stranger_than_heaven_combat_gameplay/
+2026-07-26T13:01:49+00:00	Restive Neverendings - Soft Fathom - Hand-drawn card game about chronic insomnia and tea ceremonies. https://www.reddit.com/r/Games/comments/1v73av4/restive_neverendings_soft_fathom_handdrawn_card/
+2026-07-26T13:15:08+00:00	Metropolis 1998 - Yesbox Studios - City Builder - 90s Aesthetics, Modern Features https://www.reddit.com/r/Games/comments/1v73m6g/metropolis_1998_yesbox_studios_city_builder_90s/
+2026-07-26T13:15:40+00:00	Choppa: Rescue Rivals - Parta Games - retro arcade helicopter rescue action https://www.reddit.com/r/Games/comments/1v73mnz/choppa_rescue_rivals_parta_games_retro_arcade/
+2026-07-26T13:27:25+00:00	Echoes of Aromia - Studio Targa - A 14 year old Dungeons and Dragons campaign made videogame! https://www.reddit.com/r/Games/comments/1v73wfj/echoes_of_aromia_studio_targa_a_14_year_old/
+2026-07-26T13:31:07+00:00	SnekromancY - Final Screw - Classic Snake meets bullet heaven, launching July 29 https://www.reddit.com/r/Games/comments/1v73zhy/snekromancy_final_screw_classic_snake_meets/
