@@ -5,7 +5,6 @@
 
 2026-07-25T01:45:47+00:00	God of War Laufey launches on PS5 February 16, 2027 https://www.reddit.com/r/Games/comments/1v5ups6/god_of_war_laufey_launches_on_ps5_february_16_2027/
 2026-07-25T08:06:50+00:00	FINAL FANTASY XIV: Evercold - Extended Teaser Trailer https://www.reddit.com/r/Games/comments/1v627rr/final_fantasy_xiv_evercold_extended_teaser_trailer/
-2026-07-25T10:07:53+00:00	After 8 years in development hell, Beksinski-inspired hand-painted dark adventure "Tormentum II" is now available https://www.reddit.com/r/Games/comments/1v64ccl/after_8_years_in_development_hell/
 2026-07-25T16:22:00+00:00	The Future of Thick As Thieves https://www.reddit.com/r/Games/comments/1v6cob6/the_future_of_thick_as_thieves/
 2026-07-25T17:30:35+00:00	Capcom Explains Why It Chose To Call Dragon’s Dogma 2 Expansion ‘Dark Arisen’ Again https://www.reddit.com/r/Games/comments/1v6efpe/capcom_explains_why_it_chose_to_call_dragons/
 2026-07-25T17:34:54+00:00	Open-source reimplementation of 4X Strategy Imperium Galactica (Standalone, no base game files needed) https://www.reddit.com/r/Games/comments/1v6ejp2/opensource_reimplementation_of_4x_strategy/
@@ -23,8 +22,9 @@
 2026-07-26T11:54:28+00:00	Deserter - AskaLot Games - an immersive isometric stealth RPG where stealing is your only way to survive in a decaying totalitarian city. https://www.reddit.com/r/Games/comments/1v71tex/deserter_askalot_games_an_immersive_isometric/
 2026-07-26T12:05:12+00:00	IGN - Xbox Is Dismantling Its Future To Rebuild a Past It Can Never Recapture: Halo, Fallout and Gears can’t sustain Microsoft’s game business forever. https://www.reddit.com/r/Games/comments/1v721v9/ign_xbox_is_dismantling_its_future_to_rebuild_a/
 2026-07-26T12:30:47+00:00	STRANGER THAN HEAVEN - Combat Gameplay https://www.reddit.com/r/Games/comments/1v72ln8/stranger_than_heaven_combat_gameplay/
-2026-07-26T13:01:49+00:00	Restive Neverendings - Soft Fathom - Hand-drawn card game about chronic insomnia and tea ceremonies. https://www.reddit.com/r/Games/comments/1v73av4/restive_neverendings_soft_fathom_handdrawn_card/
 2026-07-26T13:15:08+00:00	Metropolis 1998 - Yesbox Studios - City Builder - 90s Aesthetics, Modern Features https://www.reddit.com/r/Games/comments/1v73m6g/metropolis_1998_yesbox_studios_city_builder_90s/
 2026-07-26T13:15:40+00:00	Choppa: Rescue Rivals - Parta Games - retro arcade helicopter rescue action https://www.reddit.com/r/Games/comments/1v73mnz/choppa_rescue_rivals_parta_games_retro_arcade/
-2026-07-26T13:27:25+00:00	Echoes of Aromia - Studio Targa - A 14 year old Dungeons and Dragons campaign made videogame! https://www.reddit.com/r/Games/comments/1v73wfj/echoes_of_aromia_studio_targa_a_14_year_old/
 2026-07-26T13:31:07+00:00	SnekromancY - Final Screw - Classic Snake meets bullet heaven, launching July 29 https://www.reddit.com/r/Games/comments/1v73zhy/snekromancy_final_screw_classic_snake_meets/
+2026-07-26T14:13:41+00:00	Below, Rusted Gods - From South Games - Horror game where you guide an underground expedition. https://www.reddit.com/r/Games/comments/1v7516p/below_rusted_gods_from_south_games_horror_game/
+2026-07-26T14:29:04+00:00	A Game About Chopping Trees - Space Raccoon Game Studio - A relaxing lumberjack experience (Just released and already 50k+ copies sold!) https://www.reddit.com/r/Games/comments/1v75fgy/a_game_about_chopping_trees_space_raccoon_game/
+2026-07-26T15:30:02+00:00	Critterville goes Bankrupt - Penniless Games - An Evil Farming Game https://www.reddit.com/r/Games/comments/1v770y0/critterville_goes_bankrupt_penniless_games_an/
