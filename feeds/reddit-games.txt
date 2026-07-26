@@ -3,13 +3,8 @@
 # source = https://www.reddit.com/r/Games.rss
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
-2026-07-22T11:00:45+00:00	Daily /r/Games Discussion - Suggest Me a Game - July 22, 2026 https://www.reddit.com/r/Games/comments/1v3csun/daily_rgames_discussion_suggest_me_a_game_july_22/
 2026-07-24T08:39:09+00:00	Cancelled Age of Empires 3: DE DLC is uncancelled - The Baltic Powers expansion announced https://www.reddit.com/r/Games/comments/1v55kwe/cancelled_age_of_empires_3_de_dlc_is_uncancelled/
-2026-07-24T13:32:18+00:00	007 First Light Update #1: Behind Enemy Lines (New TacSim missions and outfits) https://www.reddit.com/r/Games/comments/1v5bj31/007_first_light_update_1_behind_enemy_lines_new/
 2026-07-24T14:05:52+00:00	Looking Cool Is Incredibly Important - Delayed Input https://www.reddit.com/r/Games/comments/1v5cdsk/looking_cool_is_incredibly_important_delayed_input/
-2026-07-24T14:33:01+00:00	Project Zomboid Build 42 stable releasing July 29th https://www.reddit.com/r/Games/comments/1v5d41k/project_zomboid_build_42_stable_releasing_july/
-2026-07-24T14:33:09+00:00	Tomb Raider Chronicles - Amazon Game Studios has reportedly delayed Tomb Raider Catalyst until 2028 https://www.reddit.com/r/Games/comments/1v5d45z/tomb_raider_chronicles_amazon_game_studios_has/
-2026-07-24T15:21:27+00:00	Miyamoto defends the idea that there are too many remakes, explains why Nintendo releases them https://www.reddit.com/r/Games/comments/1v5efhf/miyamoto_defends_the_idea_that_there_are_too_many/
 2026-07-24T17:55:09+00:00	Project Zomboid - This is How I Died - Build 42 Trailer https://www.reddit.com/r/Games/comments/1v5ir8h/project_zomboid_this_is_how_i_died_build_42/
 2026-07-24T18:24:26+00:00	İpek Yavuz, co-founder of Mount & Blade creators TaleWorlds, has died. https://www.reddit.com/r/Games/comments/1v5jlkp/ipek_yavuz_cofounder_of_mount_blade_creators/
 2026-07-24T22:30:34+00:00	Studio Behind Spanish Horror Shooter Crisol: Theater of Idols Has Reportedly Lost All Its Staff https://www.reddit.com/r/Games/comments/1v5q8j9/studio_behind_spanish_horror_shooter_crisol/
@@ -28,3 +23,8 @@
 2026-07-26T05:09:08+00:00	Geneforge 3 - Detonation - Spiderweb Software - Kickstarter For Cult-Classic Indie RPG Remake! https://www.reddit.com/r/Games/comments/1v6uct7/geneforge_3_detonation_spiderweb_software/
 2026-07-26T05:50:24+00:00	Downfall Of Yellowsky - Gameplay Trailer https://www.reddit.com/r/Games/comments/1v6v4hs/downfall_of_yellowsky_gameplay_trailer/
 2026-07-26T06:29:49+00:00	Showa American Story will be at Gamescom https://www.reddit.com/r/Games/comments/1v6vuk2/showa_american_story_will_be_at_gamescom/
+2026-07-26T08:01:38+00:00	Hunt of the Reptorians - Gibbonfiend Studios - A Sci-Fi Roguelike Deckbuilder inspired by FTL and Slay the Spire (and a dash of XCOM) https://www.reddit.com/r/Games/comments/1v6xhmi/hunt_of_the_reptorians_gibbonfiend_studios_a/
+2026-07-26T08:54:10+00:00	Worlds Explorers - Pioneers Games - a Sci-Fi Survival management game in a style of a Colony Sim https://www.reddit.com/r/Games/comments/1v6yez5/worlds_explorers_pioneers_games_a_scifi_survival/
+2026-07-26T09:00:32+00:00	Weekly /r/Games Discussion - What have you been playing, and what are your thoughts? - July 26, 2026 https://www.reddit.com/r/Games/comments/1v6yj0e/weekly_rgames_discussion_what_have_you_been/
+2026-07-26T09:08:32+00:00	Match Morphosis - Stochastic Walk - Candy Crush meets Slay the Spire, a Kamen Rider-inspired match-3 roguelike deckbuilder https://www.reddit.com/r/Games/comments/1v6yo9n/match_morphosis_stochastic_walk_candy_crush_meets/
+2026-07-26T09:13:26+00:00	GameInformer's 10 Best Modern Adventure Games https://www.reddit.com/r/Games/comments/1v6yrju/gameinformers_10_best_modern_adventure_games/
