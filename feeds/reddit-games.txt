@@ -3,9 +3,6 @@
 # source = https://www.reddit.com/r/Games.rss
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
-2026-07-24T08:39:09+00:00	Cancelled Age of Empires 3: DE DLC is uncancelled - The Baltic Powers expansion announced https://www.reddit.com/r/Games/comments/1v55kwe/cancelled_age_of_empires_3_de_dlc_is_uncancelled/
-2026-07-24T14:05:52+00:00	Looking Cool Is Incredibly Important - Delayed Input https://www.reddit.com/r/Games/comments/1v5cdsk/looking_cool_is_incredibly_important_delayed_input/
-2026-07-24T17:55:09+00:00	Project Zomboid - This is How I Died - Build 42 Trailer https://www.reddit.com/r/Games/comments/1v5ir8h/project_zomboid_this_is_how_i_died_build_42/
 2026-07-24T18:24:26+00:00	İpek Yavuz, co-founder of Mount & Blade creators TaleWorlds, has died. https://www.reddit.com/r/Games/comments/1v5jlkp/ipek_yavuz_cofounder_of_mount_blade_creators/
 2026-07-24T22:30:34+00:00	Studio Behind Spanish Horror Shooter Crisol: Theater of Idols Has Reportedly Lost All Its Staff https://www.reddit.com/r/Games/comments/1v5q8j9/studio_behind_spanish_horror_shooter_crisol/
 2026-07-25T00:44:10+00:00	Palworld 1.0 Review – IGN https://www.reddit.com/r/Games/comments/1v5td7v/palworld_10_review_ign/
@@ -28,3 +25,6 @@
 2026-07-26T09:00:32+00:00	Weekly /r/Games Discussion - What have you been playing, and what are your thoughts? - July 26, 2026 https://www.reddit.com/r/Games/comments/1v6yj0e/weekly_rgames_discussion_what_have_you_been/
 2026-07-26T09:08:32+00:00	Match Morphosis - Stochastic Walk - Candy Crush meets Slay the Spire, a Kamen Rider-inspired match-3 roguelike deckbuilder https://www.reddit.com/r/Games/comments/1v6yo9n/match_morphosis_stochastic_walk_candy_crush_meets/
 2026-07-26T09:13:26+00:00	GameInformer's 10 Best Modern Adventure Games https://www.reddit.com/r/Games/comments/1v6yrju/gameinformers_10_best_modern_adventure_games/
+2026-07-26T09:59:08+00:00	Ariokan: create your cards, break the Meta - Fatum Games - online collectible card game where you make the cards (+ rouguelite!) https://www.reddit.com/r/Games/comments/1v6zkui/ariokan_create_your_cards_break_the_meta_fatum/
+2026-07-26T10:23:04+00:00	APPA - Heat Death Studios - A story focused real time simultaneous card battler. https://www.reddit.com/r/Games/comments/1v700y7/appa_heat_death_studios_a_story_focused_real_time/
+2026-07-26T11:35:27+00:00	Frankenmine - Rebel Pickle Games - Incremental digging game https://www.reddit.com/r/Games/comments/1v71feo/frankenmine_rebel_pickle_games_incremental/
