@@ -3,7 +3,6 @@
 # source = https://bearblog.dev/discover/feed/
 # description = twtxt conversion of https://bearblog.dev/discover/feed/
 
-2026-07-19T22:59:00+00:00	I no longer want to be extraordinary. https://bx.bearblog.dev/i-no-longer-want-to-be-extraordinary/
 2026-07-20T13:03:19.858621+00:00	My eyes keep watering, is it perimenopause? https://fornoone.bearblog.dev/my-eyes-keep-watering-is-it-perimenopause/
 2026-07-20T15:28:20.983271+00:00	Digitally entertained with zero money https://folkmoss.bearblog.dev/digital-entertainment-with-zero-money/
 2026-07-20T16:19:00+00:00	Can't get rid of paper https://after.bearblog.dev/micro/cant-get-rid-of-paper/
@@ -15,11 +14,12 @@
 2026-07-23T01:02:00+00:00	I ACCIDENTALLY DOWNLOADED THE ENTIRE NINTENDO 3DS LIBRARY https://briars.bearblog.dev/i-accidentally-downloaded-the-entire-nintendo-3ds-library/
 2026-07-23T01:40:00+00:00	Real AI changed the way I see fictional AI https://diels-daydreams.bearblog.dev/real-ai-changed-the-way-i-see-fictional-ai/
 2026-07-23T03:46:00+00:00	july 22 mle https://combatdavey.net/july-22-2026/
-2026-07-23T21:57:34.552206+00:00	✏️ transit sketches on transit stationary https://donthave2sting.bearblog.dev/transit-sketches-on-transit-stationary/
 2026-07-24T04:29:00+00:00	Should I have done more? https://doodhpeda.bearblog.dev/blog/should-i-have-done-more/
 2026-07-24T12:00:00+00:00	My old SoundCloud page is a time capsule https://www.simonjamesfrench.com/soundcloud-time-capsule/
 2026-07-24T15:51:00+00:00	Who would ever read this? https://piimyon.bearblog.dev/who-would-ever-read-this/
 2026-07-24T21:10:00+00:00	Medusa Class https://elmc.at/medusa-class/
+2026-07-25T03:17:00+00:00	I have a confession to make. I check the "upvote" number every now and then. https://piimyon.bearblog.dev/i-have-a-confession-to-make-i-check-the-upvote-number-every-now-and-then/
 2026-07-25T06:06:00+00:00	RE: Why do people have multiple blogs https://fornoone.bearblog.dev/re-why-do-people-have-multiple-blogs/
 2026-07-25T06:50:00+00:00	Feeling violated, and maybe it's my fault https://toska.bearblog.dev/feeling-violated-and-maybe-its-my-fault/
-2026-07-25T21:14:34.207022+00:00	my presidential platform now that i'm old enough to run https://cherrysroom.bearblog.dev/my-presidential-platform-now-that-im-old-enough-to-run/
+2026-07-25T18:39:13.569822+00:00	I’m done looking for ‘The One’. https://bx.bearblog.dev/im-done-looking-for-the-one/
+2026-07-25T21:14:00+00:00	my presidential platform now that i'm old enough to run https://cherrysroom.bearblog.dev/my-presidential-platform-now-that-im-old-enough-to-run/
