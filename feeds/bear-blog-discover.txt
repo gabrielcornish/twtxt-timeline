@@ -4,7 +4,6 @@
 # description = twtxt conversion of https://bearblog.dev/discover/feed/
 
 2026-07-21T17:12:00+00:00	“No AI” Statements Are Much More Than Mere Statements https://journal.james-zhan.com/no-ai-statements/
-2026-07-21T20:42:00+00:00	Write more postcards https://lightlogged.blog/write-more-postcards/
 2026-07-23T01:02:00+00:00	I ACCIDENTALLY DOWNLOADED THE ENTIRE NINTENDO 3DS LIBRARY https://briars.bearblog.dev/i-accidentally-downloaded-the-entire-nintendo-3ds-library/
 2026-07-23T01:40:00+00:00	Real AI changed the way I see fictional AI https://diels-daydreams.bearblog.dev/real-ai-changed-the-way-i-see-fictional-ai/
 2026-07-23T03:46:00+00:00	july 22 mle https://combatdavey.net/july-22-2026/
@@ -20,6 +19,7 @@
 2026-07-25T21:14:00+00:00	my presidential platform now that i'm old enough to run https://cherrysroom.bearblog.dev/my-presidential-platform-now-that-im-old-enough-to-run/
 2026-07-26T11:57:41.194126+00:00	Reading books on your phone https://winther.sysctl.dk/reading-books-on-your-phone/
 2026-07-26T23:41:00+00:00	Reconsidering Bearblog; or, On the Value of Words https://scholarch.bearblog.dev/reconsidering-bearblog-or-on-the-value-of-words-new/
+2026-07-27T04:15:00+00:00	any social media dyes you https://jottednotes.bearblog.dev/any-social-media-dyes-you/
 2026-07-27T06:45:00+00:00	bearblog is not a social media https://actualspine.bearblog.dev/bearblog-is-not-social-media/
 2026-07-27T10:16:00+00:00	Back to Bearblog https://dostoynikov.com/back-to-bearblog/
 2026-07-27T10:38:00+00:00	The Evil Labyrinth Retrospective https://unturnedhovel.bearblog.dev/the-evil-labyrinth-retrospective/

@@ -4,6 +4,7 @@
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
 2026-07-26T02:54:50+00:00	Nintendo IP co-owned with other companies, a list and full explanation of the matter https://www.reddit.com/r/Games/comments/1v6roda/nintendo_ip_coowned_with_other_companies_a_list/
+2026-07-26T05:50:24+00:00	Downfall Of Yellowsky - Gameplay Trailer https://www.reddit.com/r/Games/comments/1v6v4hs/downfall_of_yellowsky_gameplay_trailer/
 2026-07-26T09:00:32+00:00	Weekly /r/Games Discussion - What have you been playing, and what are your thoughts? - July 26, 2026 https://www.reddit.com/r/Games/comments/1v6yj0e/weekly_rgames_discussion_what_have_you_been/
 2026-07-26T09:13:26+00:00	GameInformer's 10 Best Modern Adventure Games https://www.reddit.com/r/Games/comments/1v6yrju/gameinformers_10_best_modern_adventure_games/
 2026-07-26T12:05:12+00:00	IGN - Xbox Is Dismantling Its Future To Rebuild a Past It Can Never Recapture: Halo, Fallout and Gears can’t sustain Microsoft’s game business forever. https://www.reddit.com/r/Games/comments/1v721v9/ign_xbox_is_dismantling_its_future_to_rebuild_a/
@@ -27,4 +28,3 @@
 2026-07-27T17:40:38+00:00	birthbydrip - Q+A: What Does "Arcade-y" Mean? https://www.reddit.com/r/Games/comments/1v87e0y/birthbydrip_qa_what_does_arcadey_mean/
 2026-07-27T17:43:16+00:00	Play More Ubisoft Games on PC: New Content Now Available for XBOX on PC, Plus Free PC Redemption https://www.reddit.com/r/Games/comments/1v87gq8/play_more_ubisoft_games_on_pc_new_content_now/
 2026-07-27T18:32:00+00:00	Dreamsend: Wintersong - Official Announcement Trailer https://www.reddit.com/r/Games/comments/1v88x7x/dreamsend_wintersong_official_announcement_trailer/
-2026-07-27T18:47:24+00:00	How Videogames Feed the War Machine https://www.reddit.com/r/Games/comments/1v89cs8/how_videogames_feed_the_war_machine/
