@@ -4,14 +4,12 @@
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
 2026-07-26T02:54:50+00:00	Nintendo IP co-owned with other companies, a list and full explanation of the matter https://www.reddit.com/r/Games/comments/1v6roda/nintendo_ip_coowned_with_other_companies_a_list/
-2026-07-26T05:50:24+00:00	Downfall Of Yellowsky - Gameplay Trailer https://www.reddit.com/r/Games/comments/1v6v4hs/downfall_of_yellowsky_gameplay_trailer/
 2026-07-26T09:00:32+00:00	Weekly /r/Games Discussion - What have you been playing, and what are your thoughts? - July 26, 2026 https://www.reddit.com/r/Games/comments/1v6yj0e/weekly_rgames_discussion_what_have_you_been/
 2026-07-26T09:13:26+00:00	GameInformer's 10 Best Modern Adventure Games https://www.reddit.com/r/Games/comments/1v6yrju/gameinformers_10_best_modern_adventure_games/
 2026-07-26T12:05:12+00:00	IGN - Xbox Is Dismantling Its Future To Rebuild a Past It Can Never Recapture: Halo, Fallout and Gears can’t sustain Microsoft’s game business forever. https://www.reddit.com/r/Games/comments/1v721v9/ign_xbox_is_dismantling_its_future_to_rebuild_a/
 2026-07-26T12:30:47+00:00	STRANGER THAN HEAVEN - Combat Gameplay https://www.reddit.com/r/Games/comments/1v72ln8/stranger_than_heaven_combat_gameplay/
 2026-07-26T13:15:08+00:00	Metropolis 1998 - Yesbox Studios - City Builder - 90s Aesthetics, Modern Features https://www.reddit.com/r/Games/comments/1v73m6g/metropolis_1998_yesbox_studios_city_builder_90s/
 2026-07-26T14:29:04+00:00	A Game About Chopping Trees - Space Raccoon Game Studio - A relaxing lumberjack experience (Just released and already 50k+ copies sold!) https://www.reddit.com/r/Games/comments/1v75fgy/a_game_about_chopping_trees_space_raccoon_game/
-2026-07-26T15:30:02+00:00	Critterville goes Bankrupt - Penniless Games - An Evil Farming Game https://www.reddit.com/r/Games/comments/1v770y0/critterville_goes_bankrupt_penniless_games_an/
 2026-07-26T15:49:56+00:00	Hollow Home - Twigames Inc. - Isometric narrative RPG about a city under siege, inspired by real events during the siege of Mariupol, seen through the eyes of a teenager trying to survive the horrors of war https://www.reddit.com/r/Games/comments/1v77kcu/hollow_home_twigames_inc_isometric_narrative_rpg/
 2026-07-26T17:32:16+00:00	If Rockstar Meant To Kill This Union, It Didn't Work - PMG Reports https://www.reddit.com/r/Games/comments/1v7actu/if_rockstar_meant_to_kill_this_union_it_didnt/
 2026-07-26T20:05:26+00:00	A path not taken: Project Anglerfish (Cancelled Myst sequel) https://www.reddit.com/r/Games/comments/1v7ei97/a_path_not_taken_project_anglerfish_cancelled/
@@ -28,3 +26,5 @@
 2026-07-27T17:40:38+00:00	birthbydrip - Q+A: What Does "Arcade-y" Mean? https://www.reddit.com/r/Games/comments/1v87e0y/birthbydrip_qa_what_does_arcadey_mean/
 2026-07-27T17:43:16+00:00	Play More Ubisoft Games on PC: New Content Now Available for XBOX on PC, Plus Free PC Redemption https://www.reddit.com/r/Games/comments/1v87gq8/play_more_ubisoft_games_on_pc_new_content_now/
 2026-07-27T18:32:00+00:00	Dreamsend: Wintersong - Official Announcement Trailer https://www.reddit.com/r/Games/comments/1v88x7x/dreamsend_wintersong_official_announcement_trailer/
+2026-07-27T21:13:07+00:00	Game Pass Was Supposed To Save Xbox – Instead, It’s Killing the Company - IGN https://www.reddit.com/r/Games/comments/1v8dg07/game_pass_was_supposed_to_save_xbox_instead_its/
+2026-07-27T21:16:22+00:00	Jay and Silent Bob’s Joint Venture - Official Trailer https://www.reddit.com/r/Games/comments/1v8dj4r/jay_and_silent_bobs_joint_venture_official_trailer/
