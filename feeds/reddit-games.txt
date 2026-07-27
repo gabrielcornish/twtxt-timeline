@@ -3,8 +3,6 @@
 # source = https://www.reddit.com/r/Games.rss
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
-2026-07-25T16:22:00+00:00	The Future of Thick As Thieves https://www.reddit.com/r/Games/comments/1v6cob6/the_future_of_thick_as_thieves/
-2026-07-25T18:50:03+00:00	The Forgotten Game That Went Completely Off the Rails | Riana Rouge https://www.reddit.com/r/Games/comments/1v6gioq/the_forgotten_game_that_went_completely_off_the/
 2026-07-26T02:54:50+00:00	Nintendo IP co-owned with other companies, a list and full explanation of the matter https://www.reddit.com/r/Games/comments/1v6roda/nintendo_ip_coowned_with_other_companies_a_list/
 2026-07-26T05:50:24+00:00	Downfall Of Yellowsky - Gameplay Trailer https://www.reddit.com/r/Games/comments/1v6v4hs/downfall_of_yellowsky_gameplay_trailer/
 2026-07-26T06:29:49+00:00	Showa American Story will be at Gamescom https://www.reddit.com/r/Games/comments/1v6vuk2/showa_american_story_will_be_at_gamescom/
@@ -17,8 +15,6 @@
 2026-07-26T14:29:04+00:00	A Game About Chopping Trees - Space Raccoon Game Studio - A relaxing lumberjack experience (Just released and already 50k+ copies sold!) https://www.reddit.com/r/Games/comments/1v75fgy/a_game_about_chopping_trees_space_raccoon_game/
 2026-07-26T15:30:02+00:00	Critterville goes Bankrupt - Penniless Games - An Evil Farming Game https://www.reddit.com/r/Games/comments/1v770y0/critterville_goes_bankrupt_penniless_games_an/
 2026-07-26T15:49:56+00:00	Hollow Home - Twigames Inc. - Isometric narrative RPG about a city under siege, inspired by real events during the siege of Mariupol, seen through the eyes of a teenager trying to survive the horrors of war https://www.reddit.com/r/Games/comments/1v77kcu/hollow_home_twigames_inc_isometric_narrative_rpg/
-2026-07-26T16:02:32+00:00	Pilot Tycoon - Earthrise Games - Airline pilot career sim-RPG https://www.reddit.com/r/Games/comments/1v77wqb/pilot_tycoon_earthrise_games_airline_pilot_career/
-2026-07-26T17:18:53+00:00	Echoes of Aromia - Studio Targa - A 14 year old Dungeons and Dragons campaign made videogame! https://www.reddit.com/r/Games/comments/1v7a02t/echoes_of_aromia_studio_targa_a_14_year_old/
 2026-07-26T17:32:16+00:00	If Rockstar Meant To Kill This Union, It Didn't Work - PMG Reports https://www.reddit.com/r/Games/comments/1v7actu/if_rockstar_meant_to_kill_this_union_it_didnt/
 2026-07-26T20:05:26+00:00	A path not taken: Project Anglerfish (Cancelled Myst sequel) https://www.reddit.com/r/Games/comments/1v7ei97/a_path_not_taken_project_anglerfish_cancelled/
 2026-07-26T20:20:23+00:00	Cloud Keeper: Shrine of Dal - Jetpackgone - Cloud summoning bullet heaven inspired by Korean folklore https://www.reddit.com/r/Games/comments/1v7ewu5/cloud_keeper_shrine_of_dal_jetpackgone_cloud/
@@ -28,3 +24,7 @@
 2026-07-27T07:06:26+00:00	Nuclear Option: VT-7 Vagrant || Update 0.34 https://www.reddit.com/r/Games/comments/1v7sznv/nuclear_option_vt7_vagrant_update_034/
 2026-07-27T11:01:49+00:00	EXCLUSIVE: A New Ambitious FAR CRY Game Enters Development at Ubisoft https://www.reddit.com/r/Games/comments/1v7x4ig/exclusive_a_new_ambitious_far_cry_game_enters/
 2026-07-27T11:02:54+00:00	Minecraft Java Edition raises recommended memory to 16GB ahead of Vulkan transition https://www.reddit.com/r/Games/comments/1v7x5ei/minecraft_java_edition_raises_recommended_memory/
+2026-07-27T12:59:24+00:00	S.T.A.L.K.E.R. 2: Cost of Hope — Release Date Reveal https://www.reddit.com/r/Games/comments/1v7zpci/stalker_2_cost_of_hope_release_date_reveal/
+2026-07-27T13:35:22+00:00	How Small Can a Video Game Actually Be? - Modern Vintage Gamer https://www.reddit.com/r/Games/comments/1v80lys/how_small_can_a_video_game_actually_be_modern/
+2026-07-27T14:01:56+00:00	BeastLink: Official Early Access Launch Trailer https://www.reddit.com/r/Games/comments/1v81aod/beastlink_official_early_access_launch_trailer/
+2026-07-27T15:01:10+00:00	Prelude Dark Pain Early Access Impressions – A World of Promise https://www.reddit.com/r/Games/comments/1v82w63/prelude_dark_pain_early_access_impressions_a/

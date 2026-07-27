@@ -3,8 +3,6 @@
 # source = https://www.gamesindustry.biz/feed
 # description = twtxt conversion of https://www.gamesindustry.biz/feed
 
-2026-07-16T09:10:53+00:00	ZeniMax Online Studios leadership impacted by latest Xbox layoffs https://www.gamesindustry.biz/zenimax-online-studios-leadership-impacted-by-latest-xbox-layoffs
-2026-07-16T09:42:51+00:00	Looney Tunes: World of Mayhem to be taken offline in October 2026 https://www.gamesindustry.biz/looney-tunes-world-of-mayhem-to-be-taken-offline-in-october-2026
 2026-07-16T11:48:02+00:00	Clair Obscur: Expedition 33 wins Best Game at Develop:Star Awards 2026 https://www.gamesindustry.biz/clair-obscur-expedition-33-wins-best-game-at-developstar-awards-2026
 2026-07-16T13:00:00+00:00	"If I work on that, my kids will think I'm Gandalf" – Blackbird Interactive on the highs and lows of external development https://www.gamesindustry.biz/if-i-work-on-that-my-kids-will-think-im-gandalf-blackbird-interactive-on-the-highs-and-lows-of-external-development
 2026-07-17T07:29:28+00:00	London Games Festival moves to central venue for 2027 showcase https://www.gamesindustry.biz/london-games-festival-moves-to-central-venue-for-2027-showcase
@@ -53,3 +51,5 @@
 2026-07-24T14:38:01+00:00	The games industry is stifled by a culture of fear https://www.gamesindustry.biz/the-games-industry-is-stifled-by-a-culture-of-fear
 2026-07-24T16:23:28+00:00	After half a decade of job losses, there is no "business as usual" | Opinion https://www.gamesindustry.biz/after-half-a-decade-of-job-losses-there-is-no-business-as-usual-opinion
 2026-07-27T08:51:45+00:00	Why new EU deepfake legislation means games need to be careful when featuring real-world people and locations https://www.gamesindustry.biz/why-new-eu-deepfake-legislation-means-games-need-to-be-careful-when-featuring-real-world-people-and-locations
+2026-07-27T11:57:03+00:00	John Romero announced as keynote speaker for Gamescom Asia x Thailand Game Show https://www.gamesindustry.biz/john-romero-announced-as-keynote-speaker-for-gamescom-asia-x-thailand-game-show
+2026-07-27T14:49:36+00:00	"This is us speaking to the world" – Why London is keen to host esports events like the Valorant Masters https://www.gamesindustry.biz/this-is-us-speaking-to-the-world-why-london-is-keen-to-host-esports-events-like-the-valorant-masters

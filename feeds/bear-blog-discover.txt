@@ -3,7 +3,6 @@
 # source = https://bearblog.dev/discover/feed/
 # description = twtxt conversion of https://bearblog.dev/discover/feed/
 
-2026-07-20T16:19:00+00:00	Can't get rid of paper https://after.bearblog.dev/micro/cant-get-rid-of-paper/
 2026-07-20T18:42:48.689795+00:00	Reintroducing myself. https://bx.bearblog.dev/reintroducing-myself/
 2026-07-20T23:11:00+00:00	I Miss Edinburgh https://householderkarl.com/i-miss-edinburgh/
 2026-07-21T17:12:00+00:00	“No AI” Statements Are Much More Than Mere Statements https://journal.james-zhan.com/no-ai-statements/
@@ -23,3 +22,4 @@
 2026-07-25T21:14:00+00:00	my presidential platform now that i'm old enough to run https://cherrysroom.bearblog.dev/my-presidential-platform-now-that-im-old-enough-to-run/
 2026-07-26T11:57:41.194126+00:00	Reading books on your phone https://winther.sysctl.dk/reading-books-on-your-phone/
 2026-07-26T23:41:00+00:00	Reconsidering Bearblog; or, On the Value of Words https://scholarch.bearblog.dev/reconsidering-bearblog-or-on-the-value-of-words-new/
+2026-07-27T06:45:00+00:00	bearblog is not a social media https://actualspine.bearblog.dev/bearblog-is-not-social-media/
