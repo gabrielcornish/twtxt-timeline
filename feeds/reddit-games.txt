@@ -4,8 +4,6 @@
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
 2026-07-26T02:54:50+00:00	Nintendo IP co-owned with other companies, a list and full explanation of the matter https://www.reddit.com/r/Games/comments/1v6roda/nintendo_ip_coowned_with_other_companies_a_list/
-2026-07-26T05:50:24+00:00	Downfall Of Yellowsky - Gameplay Trailer https://www.reddit.com/r/Games/comments/1v6v4hs/downfall_of_yellowsky_gameplay_trailer/
-2026-07-26T06:29:49+00:00	Showa American Story will be at Gamescom https://www.reddit.com/r/Games/comments/1v6vuk2/showa_american_story_will_be_at_gamescom/
 2026-07-26T09:00:32+00:00	Weekly /r/Games Discussion - What have you been playing, and what are your thoughts? - July 26, 2026 https://www.reddit.com/r/Games/comments/1v6yj0e/weekly_rgames_discussion_what_have_you_been/
 2026-07-26T09:13:26+00:00	GameInformer's 10 Best Modern Adventure Games https://www.reddit.com/r/Games/comments/1v6yrju/gameinformers_10_best_modern_adventure_games/
 2026-07-26T12:05:12+00:00	IGN - Xbox Is Dismantling Its Future To Rebuild a Past It Can Never Recapture: Halo, Fallout and Gears can’t sustain Microsoft’s game business forever. https://www.reddit.com/r/Games/comments/1v721v9/ign_xbox_is_dismantling_its_future_to_rebuild_a/
@@ -16,7 +14,6 @@
 2026-07-26T15:49:56+00:00	Hollow Home - Twigames Inc. - Isometric narrative RPG about a city under siege, inspired by real events during the siege of Mariupol, seen through the eyes of a teenager trying to survive the horrors of war https://www.reddit.com/r/Games/comments/1v77kcu/hollow_home_twigames_inc_isometric_narrative_rpg/
 2026-07-26T17:32:16+00:00	If Rockstar Meant To Kill This Union, It Didn't Work - PMG Reports https://www.reddit.com/r/Games/comments/1v7actu/if_rockstar_meant_to_kill_this_union_it_didnt/
 2026-07-26T20:05:26+00:00	A path not taken: Project Anglerfish (Cancelled Myst sequel) https://www.reddit.com/r/Games/comments/1v7ei97/a_path_not_taken_project_anglerfish_cancelled/
-2026-07-26T20:20:23+00:00	Cloud Keeper: Shrine of Dal - Jetpackgone - Cloud summoning bullet heaven inspired by Korean folklore https://www.reddit.com/r/Games/comments/1v7ewu5/cloud_keeper_shrine_of_dal_jetpackgone_cloud/
 2026-07-26T21:11:06+00:00	A Mind Apart - Tiny Purple Cat - Narrative puzzle adventure about exploring a fractured world and uncovering a personal story about trauma and finding a way forward https://www.reddit.com/r/Games/comments/1v7g946/a_mind_apart_tiny_purple_cat_narrative_puzzle/
 2026-07-27T02:14:41+00:00	Nordic - Sunday Mondays - A cross-country skiing "foddylike" you can play with your friends! https://www.reddit.com/r/Games/comments/1v7nc3w/nordic_sunday_mondays_a_crosscountry_skiing/
 2026-07-27T07:06:26+00:00	Nuclear Option: VT-7 Vagrant || Update 0.34 https://www.reddit.com/r/Games/comments/1v7sznv/nuclear_option_vt7_vagrant_update_034/
@@ -27,4 +24,7 @@
 2026-07-27T15:24:13+00:00	How Video Game Publishers Actually Work - Jason Schreier https://www.reddit.com/r/Games/comments/1v83jei/how_video_game_publishers_actually_work_jason/
 2026-07-27T16:58:28+00:00	Vampire: The Masquerade - Eternal Whispers - Bite-Sized Gameplay https://www.reddit.com/r/Games/comments/1v866h3/vampire_the_masquerade_eternal_whispers_bitesized/
 2026-07-27T17:02:19+00:00	Kill the Shadow - Official Release Date Trailer https://www.reddit.com/r/Games/comments/1v86aia/kill_the_shadow_official_release_date_trailer/
-2026-07-27T17:07:24+00:00	Ubisoft Cancels Far Cry Game After Years of Development https://www.reddit.com/r/Games/comments/1v86frf/ubisoft_cancels_far_cry_game_after_years_of/
+2026-07-27T17:40:38+00:00	birthbydrip - Q+A: What Does "Arcade-y" Mean? https://www.reddit.com/r/Games/comments/1v87e0y/birthbydrip_qa_what_does_arcadey_mean/
+2026-07-27T17:43:16+00:00	Play More Ubisoft Games on PC: New Content Now Available for XBOX on PC, Plus Free PC Redemption https://www.reddit.com/r/Games/comments/1v87gq8/play_more_ubisoft_games_on_pc_new_content_now/
+2026-07-27T18:32:00+00:00	Dreamsend: Wintersong - Official Announcement Trailer https://www.reddit.com/r/Games/comments/1v88x7x/dreamsend_wintersong_official_announcement_trailer/
+2026-07-27T18:47:24+00:00	How Videogames Feed the War Machine https://www.reddit.com/r/Games/comments/1v89cs8/how_videogames_feed_the_war_machine/
