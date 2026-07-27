@@ -3,8 +3,6 @@
 # source = https://bearblog.dev/discover/feed/
 # description = twtxt conversion of https://bearblog.dev/discover/feed/
 
-2026-07-20T18:42:48.689795+00:00	Reintroducing myself. https://bx.bearblog.dev/reintroducing-myself/
-2026-07-20T23:11:00+00:00	I Miss Edinburgh https://householderkarl.com/i-miss-edinburgh/
 2026-07-21T17:12:00+00:00	“No AI” Statements Are Much More Than Mere Statements https://journal.james-zhan.com/no-ai-statements/
 2026-07-21T20:42:00+00:00	Write more postcards https://lightlogged.blog/write-more-postcards/
 2026-07-23T01:02:00+00:00	I ACCIDENTALLY DOWNLOADED THE ENTIRE NINTENDO 3DS LIBRARY https://briars.bearblog.dev/i-accidentally-downloaded-the-entire-nintendo-3ds-library/
@@ -23,3 +21,5 @@
 2026-07-26T11:57:41.194126+00:00	Reading books on your phone https://winther.sysctl.dk/reading-books-on-your-phone/
 2026-07-26T23:41:00+00:00	Reconsidering Bearblog; or, On the Value of Words https://scholarch.bearblog.dev/reconsidering-bearblog-or-on-the-value-of-words-new/
 2026-07-27T06:45:00+00:00	bearblog is not a social media https://actualspine.bearblog.dev/bearblog-is-not-social-media/
+2026-07-27T10:16:00+00:00	Back to Bearblog https://dostoynikov.com/back-to-bearblog/
+2026-07-27T10:38:00+00:00	The Evil Labyrinth Retrospective https://unturnedhovel.bearblog.dev/the-evil-labyrinth-retrospective/
