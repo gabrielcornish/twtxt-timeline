@@ -17,7 +17,6 @@
 2026-07-26T12:30:47+00:00	STRANGER THAN HEAVEN - Combat Gameplay https://www.reddit.com/r/Games/comments/1v72ln8/stranger_than_heaven_combat_gameplay/
 2026-07-26T13:15:08+00:00	Metropolis 1998 - Yesbox Studios - City Builder - 90s Aesthetics, Modern Features https://www.reddit.com/r/Games/comments/1v73m6g/metropolis_1998_yesbox_studios_city_builder_90s/
 2026-07-26T13:31:07+00:00	SnekromancY - Final Screw - Classic Snake meets bullet heaven, launching July 29 https://www.reddit.com/r/Games/comments/1v73zhy/snekromancy_final_screw_classic_snake_meets/
-2026-07-26T14:13:41+00:00	Below, Rusted Gods - From South Games - Horror game where you guide an underground expedition. https://www.reddit.com/r/Games/comments/1v7516p/below_rusted_gods_from_south_games_horror_game/
 2026-07-26T14:29:04+00:00	A Game About Chopping Trees - Space Raccoon Game Studio - A relaxing lumberjack experience (Just released and already 50k+ copies sold!) https://www.reddit.com/r/Games/comments/1v75fgy/a_game_about_chopping_trees_space_raccoon_game/
 2026-07-26T15:30:02+00:00	Critterville goes Bankrupt - Penniless Games - An Evil Farming Game https://www.reddit.com/r/Games/comments/1v770y0/critterville_goes_bankrupt_penniless_games_an/
 2026-07-26T15:49:56+00:00	Hollow Home - Twigames Inc. - Isometric narrative RPG about a city under siege, inspired by real events during the siege of Mariupol, seen through the eyes of a teenager trying to survive the horrors of war https://www.reddit.com/r/Games/comments/1v77kcu/hollow_home_twigames_inc_isometric_narrative_rpg/
@@ -27,4 +26,5 @@
 2026-07-26T20:05:26+00:00	A path not taken: Project Anglerfish (Cancelled Myst sequel) https://www.reddit.com/r/Games/comments/1v7ei97/a_path_not_taken_project_anglerfish_cancelled/
 2026-07-26T21:11:06+00:00	A Mind Apart - Tiny Purple Cat - Narrative puzzle adventure about exploring a fractured world and uncovering a personal story about trauma and finding a way forward https://www.reddit.com/r/Games/comments/1v7g946/a_mind_apart_tiny_purple_cat_narrative_puzzle/
 2026-07-26T21:58:10+00:00	Might of Spells - Nucate - Open World MMORPG | PvE | PvP | Crafting | Build Your Dream Island https://www.reddit.com/r/Games/comments/1v7hgvh/might_of_spells_nucate_open_world_mmorpg_pve_pvp/
-2026-07-27T02:14:41+00:00	Nordic - Sunday Mondays - A cross-country skiing "foddylike" you can play with your friends! https://www.reddit.com/r/Games/comments/1v7nc3w/nordic_sunday_mondays_a_crosscountry_skiing/
+2026-07-27T06:49:58+00:00	Epic Games’ Former ‘Unreal Engine Evangelist’ Sjoerd de Jong is Making His Own Engine https://www.reddit.com/r/Games/comments/1v7sotq/epic_games_former_unreal_engine_evangelist_sjoerd/
+2026-07-27T07:06:26+00:00	Nuclear Option: VT-7 Vagrant || Update 0.34 https://www.reddit.com/r/Games/comments/1v7sznv/nuclear_option_vt7_vagrant_update_034/
