@@ -3,10 +3,10 @@
 # source = https://bearblog.dev/discover/feed/
 # description = twtxt conversion of https://bearblog.dev/discover/feed/
 
-2026-07-21T17:12:00+00:00	“No AI” Statements Are Much More Than Mere Statements https://journal.james-zhan.com/no-ai-statements/
 2026-07-23T01:02:00+00:00	I ACCIDENTALLY DOWNLOADED THE ENTIRE NINTENDO 3DS LIBRARY https://briars.bearblog.dev/i-accidentally-downloaded-the-entire-nintendo-3ds-library/
 2026-07-23T01:40:00+00:00	Real AI changed the way I see fictional AI https://diels-daydreams.bearblog.dev/real-ai-changed-the-way-i-see-fictional-ai/
 2026-07-23T03:46:00+00:00	july 22 mle https://combatdavey.net/july-22-2026/
+2026-07-23T20:25:44.206981+00:00	Apparently I'm the Problem. https://betweentides.bearblog.dev/apparently-im-the-problem/
 2026-07-24T04:29:00+00:00	Should I have done more? https://doodhpeda.bearblog.dev/blog/should-i-have-done-more/
 2026-07-24T12:00:00+00:00	My old SoundCloud page is a time capsule https://www.simonjamesfrench.com/soundcloud-time-capsule/
 2026-07-24T15:51:00+00:00	Who would ever read this? https://piimyon.bearblog.dev/who-would-ever-read-this/
