@@ -10,7 +10,6 @@
 2026-07-24T04:29:00+00:00	Should I have done more? https://doodhpeda.bearblog.dev/blog/should-i-have-done-more/
 2026-07-24T12:00:00+00:00	My old SoundCloud page is a time capsule https://www.simonjamesfrench.com/soundcloud-time-capsule/
 2026-07-24T15:51:00+00:00	Who would ever read this? https://piimyon.bearblog.dev/who-would-ever-read-this/
-2026-07-24T21:10:00+00:00	Medusa Class https://elmc.at/medusa-class/
 2026-07-25T03:17:00+00:00	I have a confession to make. I check the "upvote" number every now and then. https://piimyon.bearblog.dev/i-have-a-confession-to-make-i-check-the-upvote-number-every-now-and-then/
 2026-07-25T06:06:00+00:00	RE: Why do people have multiple blogs https://fornoone.bearblog.dev/re-why-do-people-have-multiple-blogs/
 2026-07-25T06:50:00+00:00	Feeling violated, and maybe it's my fault https://toska.bearblog.dev/feeling-violated-and-maybe-its-my-fault/
@@ -22,4 +21,5 @@
 2026-07-27T04:15:00+00:00	any social media dyes you https://jottednotes.bearblog.dev/any-social-media-dyes-you/
 2026-07-27T06:45:00+00:00	bearblog is not a social media https://actualspine.bearblog.dev/bearblog-is-not-social-media/
 2026-07-27T10:16:00+00:00	Back to Bearblog https://dostoynikov.com/back-to-bearblog/
-2026-07-27T10:38:00+00:00	The Evil Labyrinth Retrospective https://unturnedhovel.bearblog.dev/the-evil-labyrinth-retrospective/
+2026-07-27T16:13:53.468522+00:00	Your Hell is Someone's Heaven https://livingkindfully.bearblog.dev/your-hell-is-someones-heaven/
+2026-07-27T22:00:00+00:00	Bye, bye, Bear Blog! https://4s.bearblog.dev/bye-bye-bear-blog/
