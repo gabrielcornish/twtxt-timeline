@@ -9,8 +9,6 @@
 2026-07-26T12:30:47+00:00	STRANGER THAN HEAVEN - Combat Gameplay https://www.reddit.com/r/Games/comments/1v72ln8/stranger_than_heaven_combat_gameplay/
 2026-07-26T17:32:16+00:00	If Rockstar Meant To Kill This Union, It Didn't Work - PMG Reports https://www.reddit.com/r/Games/comments/1v7actu/if_rockstar_meant_to_kill_this_union_it_didnt/
 2026-07-26T20:05:26+00:00	A path not taken: Project Anglerfish (Cancelled Myst sequel) https://www.reddit.com/r/Games/comments/1v7ei97/a_path_not_taken_project_anglerfish_cancelled/
-2026-07-26T21:11:06+00:00	A Mind Apart - Tiny Purple Cat - Narrative puzzle adventure about exploring a fractured world and uncovering a personal story about trauma and finding a way forward https://www.reddit.com/r/Games/comments/1v7g946/a_mind_apart_tiny_purple_cat_narrative_puzzle/
-2026-07-27T02:14:41+00:00	Nordic - Sunday Mondays - A cross-country skiing "foddylike" you can play with your friends! https://www.reddit.com/r/Games/comments/1v7nc3w/nordic_sunday_mondays_a_crosscountry_skiing/
 2026-07-27T07:06:26+00:00	Nuclear Option: VT-7 Vagrant || Update 0.34 https://www.reddit.com/r/Games/comments/1v7sznv/nuclear_option_vt7_vagrant_update_034/
 2026-07-27T11:02:54+00:00	Minecraft Java Edition raises recommended memory to 16GB ahead of Vulkan transition https://www.reddit.com/r/Games/comments/1v7x5ei/minecraft_java_edition_raises_recommended_memory/
 2026-07-27T12:59:24+00:00	S.T.A.L.K.E.R. 2: Cost of Hope — Release Date Reveal https://www.reddit.com/r/Games/comments/1v7zpci/stalker_2_cost_of_hope_release_date_reveal/
@@ -28,3 +26,5 @@
 2026-07-28T02:34:29+00:00	Mistfall Hunter - Launch Gameplay Trailer https://www.reddit.com/r/Games/comments/1v8l9z8/mistfall_hunter_launch_gameplay_trailer/
 2026-07-28T07:47:17+00:00	We’re PepperStones, creators of HIPS N NOSES — run a memory-restoring café by day and battle nightmares by night. Our Steam demo launches July 31. AMA! https://www.reddit.com/r/Games/comments/1v8rg50/were_pepperstones_creators_of_hips_n_noses_run_a/
 2026-07-28T08:00:47+00:00	Pragmata Has Sold Over 2.5 Million Copies, CAPCOM Confirms https://www.reddit.com/r/Games/comments/1v8ronu/pragmata_has_sold_over_25_million_copies_capcom/
+2026-07-28T12:04:29+00:00	Call for One Week PlayStation Boycott Gains Traction Online https://www.reddit.com/r/Games/comments/1v8wiu5/call_for_one_week_playstation_boycott_gains/
+2026-07-28T12:07:23+00:00	Capcom Q1 FY2026 Total Results So Far: (PRAGMATA 2.51M, RE4 2.43M, DMC5 1.29M, MH Worlds 780k) https://www.reddit.com/r/Games/comments/1v8wl3r/capcom_q1_fy2026_total_results_so_far_pragmata/

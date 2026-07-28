@@ -3,9 +3,6 @@
 # source = https://www.gamesindustry.biz/feed
 # description = twtxt conversion of https://www.gamesindustry.biz/feed
 
-2026-07-17T12:35:31+00:00	Gamecity Hamburg announces second round of prototype funding https://www.gamesindustry.biz/gamecity-hamburg-announces-second-round-of-prototype-funding
-2026-07-17T13:50:23+00:00	UKIE: 22% of UK games industry workforce affected by job losses in last three years https://www.gamesindustry.biz/ukie-22-of-uk-games-industry-workforce-affected-by-job-losses-in-last-three-years
-2026-07-17T14:00:00+00:00	Bethesda reveals plans for Fallout 5, The Elder Scrolls 6, and more https://www.gamesindustry.biz/bethesda-reveals-plans-for-fallout-5-the-elder-scrolls-6-and-more
 2026-07-17T14:53:58+00:00	Sky-high prices risk disaster for a console market struggling to grow | Opinion https://www.gamesindustry.biz/sky-high-prices-risk-disaster-for-a-console-market-struggling-to-grow-opinion
 2026-07-20T07:13:20+00:00	32 workers at ZA/UM laid off following release of Zero Parades: For Dead Spies https://www.gamesindustry.biz/32-workers-at-zaum-laid-off-following-release-of-zero-parades-for-dead-spies
 2026-07-20T08:47:45+00:00	"There has to be a reason for people to buy an Xbox" – Senior leadership reinforces commitment to console exclusivity https://www.gamesindustry.biz/there-has-to-be-a-reason-for-people-to-buy-an-xbox-senior-leadership-reinforces-commitment-to-console-exclusivity
@@ -53,3 +50,6 @@
 2026-07-27T21:11:39+00:00	Video Game History Foundation releases major new E3 archive collections https://www.gamesindustry.biz/video-game-history-foundation-releases-major-new-e3-archive-collections
 2026-07-28T07:47:53+00:00	Xbox explains outage preventing players from accessing games, CTO says it will "do better" https://www.gamesindustry.biz/xbox-explains-outage-preventing-players-from-accessing-games-cto-says-it-will-do-better
 2026-07-28T09:00:00+00:00	Games for Change Festival to expand and move to new cities https://www.gamesindustry.biz/games-for-change-festival-to-expand-and-move-to-new-cities
+2026-07-28T10:21:38+00:00	John Hight steps down as Wizards of the Coast president https://www.gamesindustry.biz/john-hight-steps-down-as-wizards-of-the-coast-president
+2026-07-28T11:00:00+00:00	Atari and Twin Galaxies announce Atari World Championships https://www.gamesindustry.biz/atari-and-twin-galaxies-announce-atari-world-championships
+2026-07-28T11:17:34+00:00	Pragmata and Resident Evil franchise boost Capcom's Q1 ordinary profit by 81% to $252.5m https://www.gamesindustry.biz/pragmata-and-resident-evil-franchise-boost-capcoms-q1-ordinary-profit-by-81-to-2525m

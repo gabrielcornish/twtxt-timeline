@@ -3,7 +3,6 @@
 # source = https://bearblog.dev/discover/feed/
 # description = twtxt conversion of https://bearblog.dev/discover/feed/
 
-2026-07-23T01:02:00+00:00	I ACCIDENTALLY DOWNLOADED THE ENTIRE NINTENDO 3DS LIBRARY https://briars.bearblog.dev/i-accidentally-downloaded-the-entire-nintendo-3ds-library/
 2026-07-23T01:40:00+00:00	Real AI changed the way I see fictional AI https://diels-daydreams.bearblog.dev/real-ai-changed-the-way-i-see-fictional-ai/
 2026-07-23T03:46:00+00:00	july 22 mle https://combatdavey.net/july-22-2026/
 2026-07-23T20:25:44.206981+00:00	Apparently I'm the Problem. https://betweentides.bearblog.dev/apparently-im-the-problem/
@@ -22,4 +21,5 @@
 2026-07-27T06:45:00+00:00	bearblog is not a social media https://actualspine.bearblog.dev/bearblog-is-not-social-media/
 2026-07-27T10:16:00+00:00	Back to Bearblog https://dostoynikov.com/back-to-bearblog/
 2026-07-27T16:13:53.468522+00:00	Your Hell is Someone's Heaven https://livingkindfully.bearblog.dev/your-hell-is-someones-heaven/
+2026-07-27T21:45:00+00:00	Keep posting. https://bx.bearblog.dev/keep-posting/
 2026-07-27T22:00:00+00:00	Bye, bye, Bear Blog! https://4s.bearblog.dev/bye-bye-bear-blog/
