@@ -3,7 +3,6 @@
 # source = https://bearblog.dev/discover/feed/
 # description = twtxt conversion of https://bearblog.dev/discover/feed/
 
-2026-07-23T01:40:00+00:00	Real AI changed the way I see fictional AI https://diels-daydreams.bearblog.dev/real-ai-changed-the-way-i-see-fictional-ai/
 2026-07-23T03:46:00+00:00	july 22 mle https://combatdavey.net/july-22-2026/
 2026-07-23T20:25:44.206981+00:00	Apparently I'm the Problem. https://betweentides.bearblog.dev/apparently-im-the-problem/
 2026-07-24T04:29:00+00:00	Should I have done more? https://doodhpeda.bearblog.dev/blog/should-i-have-done-more/
@@ -23,3 +22,4 @@
 2026-07-27T16:13:53.468522+00:00	Your Hell is Someone's Heaven https://livingkindfully.bearblog.dev/your-hell-is-someones-heaven/
 2026-07-27T21:45:00+00:00	Keep posting. https://bx.bearblog.dev/keep-posting/
 2026-07-27T22:00:00+00:00	Bye, bye, Bear Blog! https://4s.bearblog.dev/bye-bye-bear-blog/
+2026-07-28T15:35:00+00:00	Re: Reconsidering Bearblog https://nate.spot/re-reconsidering-bearblog/
