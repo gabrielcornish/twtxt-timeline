@@ -6,10 +6,8 @@
 2026-07-26T09:00:32+00:00	Weekly /r/Games Discussion - What have you been playing, and what are your thoughts? - July 26, 2026 https://www.reddit.com/r/Games/comments/1v6yj0e/weekly_rgames_discussion_what_have_you_been/
 2026-07-27T11:02:54+00:00	Minecraft Java Edition raises recommended memory to 16GB ahead of Vulkan transition https://www.reddit.com/r/Games/comments/1v7x5ei/minecraft_java_edition_raises_recommended_memory/
 2026-07-27T15:24:13+00:00	How Video Game Publishers Actually Work - Jason Schreier https://www.reddit.com/r/Games/comments/1v83jei/how_video_game_publishers_actually_work_jason/
-2026-07-27T16:58:28+00:00	Vampire: The Masquerade - Eternal Whispers - Bite-Sized Gameplay https://www.reddit.com/r/Games/comments/1v866h3/vampire_the_masquerade_eternal_whispers_bitesized/
 2026-07-27T17:43:16+00:00	Play More Ubisoft Games on PC: New Content Now Available for XBOX on PC, Plus Free PC Redemption https://www.reddit.com/r/Games/comments/1v87gq8/play_more_ubisoft_games_on_pc_new_content_now/
 2026-07-27T21:13:07+00:00	Game Pass Was Supposed To Save Xbox – Instead, It’s Killing the Company - IGN https://www.reddit.com/r/Games/comments/1v8dg07/game_pass_was_supposed_to_save_xbox_instead_its/
-2026-07-27T21:16:22+00:00	Jay and Silent Bob’s Joint Venture - Official Trailer https://www.reddit.com/r/Games/comments/1v8dj4r/jay_and_silent_bobs_joint_venture_official_trailer/
 2026-07-28T00:40:49+00:00	"This is an unacceptable situation, and we must do better" Xbox CTO apologizes for its biggest outage in recent memory https://www.reddit.com/r/Games/comments/1v8ioor/this_is_an_unacceptable_situation_and_we_must_do/
 2026-07-28T02:27:43+00:00	Nioh 3 - Hell Rising DLC Vol. 1 First Look Trailer https://www.reddit.com/r/Games/comments/1v8l4k1/nioh_3_hell_rising_dlc_vol_1_first_look_trailer/
 2026-07-28T02:34:29+00:00	Mistfall Hunter - Launch Gameplay Trailer https://www.reddit.com/r/Games/comments/1v8l9z8/mistfall_hunter_launch_gameplay_trailer/
@@ -26,5 +24,7 @@
 2026-07-28T17:04:25+00:00	Dragon Age creator says a Mass Effect-style remaster trilogy won’t happen as “no one understands” the games’ unique game engines https://www.reddit.com/r/Games/comments/1v94gep/dragon_age_creator_says_a_mass_effectstyle/
 2026-07-28T17:33:36+00:00	Resident Evil 5 Has Finally Been Dethroned as The Series' Best-Selling Game After 15 Years https://www.reddit.com/r/Games/comments/1v95ajv/resident_evil_5_has_finally_been_dethroned_as_the/
 2026-07-28T18:07:40+00:00	Crazy Taxi: World Tour | Welcome to the West Coast https://www.reddit.com/r/Games/comments/1v969od/crazy_taxi_world_tour_welcome_to_the_west_coast/
-2026-07-28T18:24:34+00:00	Capcom FY2026Q1: Sales Are 93% Digital, 6.7% Physical https://www.reddit.com/r/Games/comments/1v96raf/capcom_fy2026q1_sales_are_93_digital_67_physical/
 2026-07-28T18:33:25+00:00	Dear Magical Girls - Official Release Date Trailer https://www.reddit.com/r/Games/comments/1v970of/dear_magical_girls_official_release_date_trailer/
+2026-07-28T18:46:51+00:00	Psychonauts 2 Studio Double Fine Hit With Layoffs Amid Divestiture From Xbox https://www.reddit.com/r/Games/comments/1v97emo/psychonauts_2_studio_double_fine_hit_with_layoffs/
+2026-07-28T19:06:09+00:00	REX/M2EX - Community Patch for OG Rome Total War and Medieval 2 Total War https://www.reddit.com/r/Games/comments/1v97ycz/rexm2ex_community_patch_for_og_rome_total_war_and/
+2026-07-28T20:22:42+00:00	XBOX @ gamescom 2026 https://www.reddit.com/r/Games/comments/1v9a4ho/xbox_gamescom_2026/
