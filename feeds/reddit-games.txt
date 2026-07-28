@@ -4,10 +4,6 @@
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
 2026-07-26T09:00:32+00:00	Weekly /r/Games Discussion - What have you been playing, and what are your thoughts? - July 26, 2026 https://www.reddit.com/r/Games/comments/1v6yj0e/weekly_rgames_discussion_what_have_you_been/
-2026-07-26T12:05:12+00:00	IGN - Xbox Is Dismantling Its Future To Rebuild a Past It Can Never Recapture: Halo, Fallout and Gears can’t sustain Microsoft’s game business forever. https://www.reddit.com/r/Games/comments/1v721v9/ign_xbox_is_dismantling_its_future_to_rebuild_a/
-2026-07-26T17:32:16+00:00	If Rockstar Meant To Kill This Union, It Didn't Work - PMG Reports https://www.reddit.com/r/Games/comments/1v7actu/if_rockstar_meant_to_kill_this_union_it_didnt/
-2026-07-26T20:05:26+00:00	A path not taken: Project Anglerfish (Cancelled Myst sequel) https://www.reddit.com/r/Games/comments/1v7ei97/a_path_not_taken_project_anglerfish_cancelled/
-2026-07-27T07:06:26+00:00	Nuclear Option: VT-7 Vagrant || Update 0.34 https://www.reddit.com/r/Games/comments/1v7sznv/nuclear_option_vt7_vagrant_update_034/
 2026-07-27T11:02:54+00:00	Minecraft Java Edition raises recommended memory to 16GB ahead of Vulkan transition https://www.reddit.com/r/Games/comments/1v7x5ei/minecraft_java_edition_raises_recommended_memory/
 2026-07-27T12:59:24+00:00	S.T.A.L.K.E.R. 2: Cost of Hope — Release Date Reveal https://www.reddit.com/r/Games/comments/1v7zpci/stalker_2_cost_of_hope_release_date_reveal/
 2026-07-27T14:01:56+00:00	BeastLink: Official Early Access Launch Trailer https://www.reddit.com/r/Games/comments/1v81aod/beastlink_official_early_access_launch_trailer/
@@ -27,4 +23,8 @@
 2026-07-28T08:00:47+00:00	Pragmata Has Sold Over 2.5 Million Copies, CAPCOM Confirms https://www.reddit.com/r/Games/comments/1v8ronu/pragmata_has_sold_over_25_million_copies_capcom/
 2026-07-28T12:07:23+00:00	Capcom Q1 FY2026 Total Results So Far: (PRAGMATA 2.51M, RE4 2.43M, DMC5 1.29M, MH Worlds 780k) https://www.reddit.com/r/Games/comments/1v8wl3r/capcom_q1_fy2026_total_results_so_far_pragmata/
 2026-07-28T12:46:30+00:00	Game Freak admits Beast of Reincarnation "doesn’t really fit our vibe" after decades of stylized Pokemon but knew "photorealism would be the best fit" for the action RPG https://www.reddit.com/r/Games/comments/1v8xhba/game_freak_admits_beast_of_reincarnation_doesnt/
+2026-07-28T14:25:17+00:00	GOG confirm they are working towards GOG Galaxy on Linux https://www.reddit.com/r/Games/comments/1v901b7/gog_confirm_they_are_working_towards_gog_galaxy/
 2026-07-28T14:29:19+00:00	Fear Effect 2: Retro Helix | Sean Seanson https://www.reddit.com/r/Games/comments/1v90582/fear_effect_2_retro_helix_sean_seanson/
+2026-07-28T14:44:31+00:00	'I have been hunted down by HR reps, lawyers, and comms people:' Developers discuss the pain and prevalence of side work clauses https://www.reddit.com/r/Games/comments/1v90k22/i_have_been_hunted_down_by_hr_reps_lawyers_and/
+2026-07-28T15:04:49+00:00	Clair Obscur: Expedition 33 director says eliminating limitations in development is a “big mistake.” We talk to Sandfall Interactive about staying small, Japanese influences, and what’s next https://www.reddit.com/r/Games/comments/1v91478/clair_obscur_expedition_33_director_says/
+2026-07-28T15:31:17+00:00	PlayStation Plus Monthly Games for August – Dying Light 2 Stay Human: Reloaded Edition, Big Walk, Signalis https://www.reddit.com/r/Games/comments/1v91ukq/playstation_plus_monthly_games_for_august_dying/
