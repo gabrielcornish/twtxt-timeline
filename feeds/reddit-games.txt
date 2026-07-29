@@ -3,7 +3,6 @@
 # source = https://www.reddit.com/r/Games.rss
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
-2026-07-28T17:04:25+00:00	Dragon Age creator says a Mass Effect-style remaster trilogy won’t happen as “no one understands” the games’ unique game engines https://www.reddit.com/r/Games/comments/1v94gep/dragon_age_creator_says_a_mass_effectstyle/
 2026-07-28T18:46:51+00:00	Psychonauts 2 Studio Double Fine Hit With Layoffs Amid Divestiture From Xbox https://www.reddit.com/r/Games/comments/1v97emo/psychonauts_2_studio_double_fine_hit_with_layoffs/
 2026-07-29T03:54:18+00:00	Guns of Eschaton - Gameplay Video https://www.reddit.com/r/Games/comments/1v9kwrx/guns_of_eschaton_gameplay_video/
 2026-07-29T07:15:06+00:00	Half-Life: Alyx No-VR Mod – Demo Showcase & Announcement https://www.reddit.com/r/Games/comments/1v9osic/halflife_alyx_novr_mod_demo_showcase_announcement/
@@ -28,3 +27,4 @@
 2026-07-29T18:19:50+00:00	Welcome Back, Summoners | League of Legends Classic Cinematic https://www.reddit.com/r/Games/comments/1va4e4w/welcome_back_summoners_league_of_legends_classic/
 2026-07-29T19:34:56+00:00	Every Cancelled Zelda Game - DidYouKnowGaming https://www.reddit.com/r/Games/comments/1va6k0p/every_cancelled_zelda_game_didyouknowgaming/
 2026-07-29T20:24:44+00:00	Shrek, Fiona, Puss, and Donkey are now in Brawlhalla https://www.reddit.com/r/Games/comments/1va7ymw/shrek_fiona_puss_and_donkey_are_now_in_brawlhalla/
+2026-07-29T21:12:17+00:00	Xbox Revenue and Hardware Decline for the Third Straight Quarter https://www.reddit.com/r/Games/comments/1va98n0/xbox_revenue_and_hardware_decline_for_the_third/

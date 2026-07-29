@@ -3,7 +3,6 @@
 # source = https://bearblog.dev/discover/feed/
 # description = twtxt conversion of https://bearblog.dev/discover/feed/
 
-2026-07-25T18:39:13.569822+00:00	I’m done looking for ‘The One’. https://bx.bearblog.dev/im-done-looking-for-the-one/
 2026-07-25T20:22:19.877474+00:00	The dichotomy of blogging https://folkmoss.bearblog.dev/the-dichotomy-of-blogging/
 2026-07-26T11:57:41.194126+00:00	Reading books on your phone https://winther.sysctl.dk/reading-books-on-your-phone/
 2026-07-27T06:45:00+00:00	bearblog is not a social media https://actualspine.bearblog.dev/bearblog-is-not-social-media/
@@ -23,3 +22,4 @@
 2026-07-29T15:19:08.980259+00:00	Cocoa has crossed the rainbow bridge https://notes.jeddacp.com/cocoa-rainbowbridge/
 2026-07-29T16:03:00+00:00	Ugh: It's in the air and I am heartened to know that I'm not the only one https://pourthecoffee.bearblog.dev/ugh-its-in-the-air-and-i-am-heartened-to-know-that-im-not-the-only-one/
 2026-07-29T17:05:00+00:00	Re: Why I Left Wordpress for BearBlog https://onlinegoddess.net/2026/07/re-why-i-left-wordpress-for-bearblog/
+2026-07-29T19:46:05.340312+00:00	Healthy Discourse https://scholarch.bearblog.dev/healthy-discourse/
