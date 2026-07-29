@@ -3,7 +3,6 @@
 # source = https://www.gamesindustry.biz/feed
 # description = twtxt conversion of https://www.gamesindustry.biz/feed
 
-2026-07-20T15:23:07+00:00	"I'm not a creative. I like spreadsheets" – The low-profile team that powers Marathon, Subnautica 2, NBA 2K, and more https://www.gamesindustry.biz/im-not-a-creative-i-like-spreadsheets-the-low-profile-team-that-runs-servers-for-marathon-subnautica-2-nba-2k-and-more
 2026-07-20T15:51:31+00:00	Union slams Microsoft for "unfair labor practice", alleging Xbox "unlawfully" laid off staff https://www.gamesindustry.biz/union-slams-microsoft-for-unfair-labor-practice-alleging-xbox-unlawfully-laid-off-staff
 2026-07-20T18:00:29+00:00	Court orders Edge of Eternity dev Midgar Studio to liquidate after failing to secure a buyer https://www.gamesindustry.biz/court-orders-midgar-studio-to-liquidate-after-failing-to-secure-a-buyer
 2026-07-20T19:31:49+00:00	Valve suggests memory crisis is "still getting worse," admitting, "we're limited by memory capacity, for sure" https://www.gamesindustry.biz/valve-suggests-memory-crisis-is-still-getting-worse-admitting-were-limited-by-memory-capacity-for-sure
@@ -53,3 +52,4 @@
 2026-07-29T07:26:52+00:00	Double Fine Productions cuts 23 roles as it becomes independent from Xbox https://www.gamesindustry.biz/double-fine-productions-cuts-23-roles-as-it-becomes-independent-from-xbox
 2026-07-29T08:55:39+00:00	UK Games Fund announces largest cohort of indie studios to receive grants of up to £100,000 https://www.gamesindustry.biz/uk-games-fund-announces-largest-cohort-of-indie-studios-to-receive-grants-of-up-to-100000
 2026-07-29T10:18:13+00:00	Subnautica and PUBG franchises drive Krafton Q2 revenue up 94.9% to $889.1m https://www.gamesindustry.biz/subnautica-and-pubg-franchises-drive-krafton-q2-revenue-up-949-to-8891m
+2026-07-29T13:50:23+00:00	Capcom producer says Resident Evil remakes are providing financial support to develop new games and IP https://www.gamesindustry.biz/capcom-producer-says-resident-evil-remakes-are-providing-financial-support-to-develop-new-games-and-ip
