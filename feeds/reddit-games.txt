@@ -3,16 +3,12 @@
 # source = https://www.reddit.com/r/Games.rss
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
-2026-07-28T12:46:30+00:00	Game Freak admits Beast of Reincarnation "doesn’t really fit our vibe" after decades of stylized Pokemon but knew "photorealism would be the best fit" for the action RPG https://www.reddit.com/r/Games/comments/1v8xhba/game_freak_admits_beast_of_reincarnation_doesnt/
 2026-07-28T14:25:17+00:00	GOG confirm they are working towards GOG Galaxy on Linux https://www.reddit.com/r/Games/comments/1v901b7/gog_confirm_they_are_working_towards_gog_galaxy/
-2026-07-28T14:44:31+00:00	'I have been hunted down by HR reps, lawyers, and comms people:' Developers discuss the pain and prevalence of side work clauses https://www.reddit.com/r/Games/comments/1v90k22/i_have_been_hunted_down_by_hr_reps_lawyers_and/
-2026-07-28T15:04:49+00:00	Clair Obscur: Expedition 33 director says eliminating limitations in development is a “big mistake.” We talk to Sandfall Interactive about staying small, Japanese influences, and what’s next https://www.reddit.com/r/Games/comments/1v91478/clair_obscur_expedition_33_director_says/
 2026-07-28T17:04:25+00:00	Dragon Age creator says a Mass Effect-style remaster trilogy won’t happen as “no one understands” the games’ unique game engines https://www.reddit.com/r/Games/comments/1v94gep/dragon_age_creator_says_a_mass_effectstyle/
 2026-07-28T17:33:36+00:00	Resident Evil 5 Has Finally Been Dethroned as The Series' Best-Selling Game After 15 Years https://www.reddit.com/r/Games/comments/1v95ajv/resident_evil_5_has_finally_been_dethroned_as_the/
 2026-07-28T18:07:40+00:00	Crazy Taxi: World Tour | Welcome to the West Coast https://www.reddit.com/r/Games/comments/1v969od/crazy_taxi_world_tour_welcome_to_the_west_coast/
 2026-07-28T18:46:51+00:00	Psychonauts 2 Studio Double Fine Hit With Layoffs Amid Divestiture From Xbox https://www.reddit.com/r/Games/comments/1v97emo/psychonauts_2_studio_double_fine_hit_with_layoffs/
 2026-07-28T20:22:42+00:00	XBOX @ gamescom 2026 https://www.reddit.com/r/Games/comments/1v9a4ho/xbox_gamescom_2026/
-2026-07-29T03:03:55+00:00	Solium Infernum - 'Pinnacle to the Pit' Update Now Live! https://www.reddit.com/r/Games/comments/1v9jupj/solium_infernum_pinnacle_to_the_pit_update_now/
 2026-07-29T03:54:18+00:00	Guns of Eschaton - Gameplay Video https://www.reddit.com/r/Games/comments/1v9kwrx/guns_of_eschaton_gameplay_video/
 2026-07-29T07:15:06+00:00	Half-Life: Alyx No-VR Mod – Demo Showcase & Announcement https://www.reddit.com/r/Games/comments/1v9osic/halflife_alyx_novr_mod_demo_showcase_announcement/
 2026-07-29T07:45:37+00:00	AI in Strategy Games https://www.reddit.com/r/Games/comments/1v9pbzw/ai_in_strategy_games/
@@ -25,6 +21,10 @@
 2026-07-29T13:05:47+00:00	Pokémon Pokopia Expansion Pass Trailer https://www.reddit.com/r/Games/comments/1v9vnv2/pokémon_pokopia_expansion_pass_trailer/
 2026-07-29T14:16:08+00:00	UK Game Workers’ Union is “Very Confident” Ahead of Its Final Hearing Against Rockstar Games - This Week in Videogames https://www.reddit.com/r/Games/comments/1v9xh5d/uk_game_workers_union_is_very_confident_ahead_of/
 2026-07-29T14:37:34+00:00	The Sinking City 2 – Meat for the Grindmaws | Extended Gameplay Trailer https://www.reddit.com/r/Games/comments/1v9y1xx/the_sinking_city_2_meat_for_the_grindmaws/
-2026-07-29T14:43:47+00:00	Warframe is currently in a state of “massive growth” following the end of Destiny 2, devs say https://www.reddit.com/r/Games/comments/1v9y80x/warframe_is_currently_in_a_state_of_massive/
 2026-07-29T14:54:21+00:00	Truck-kun is Supporting Me from Another World - RELEASE TRAILER https://www.reddit.com/r/Games/comments/1v9yid2/truckkun_is_supporting_me_from_another_world/
 2026-07-29T15:07:19+00:00	5 Years Later, Cool Cyberpunk Shooter The Ascent Is Getting a Major Update — and It Sounds Like a Sequel Is in the Works https://www.reddit.com/r/Games/comments/1v9yvcg/5_years_later_cool_cyberpunk_shooter_the_ascent/
+2026-07-29T15:14:52+00:00	BeamNG.drive v0.39 Release Notes https://www.reddit.com/r/Games/comments/1v9z2x6/beamngdrive_v039_release_notes/
+2026-07-29T15:31:23+00:00	GOG: This October, GOG will become the digital home of Video Games From Poland, the first-ever national celebration of Polish video games, organized by the Creative Industries Institute under the auspices of the Polish Ministry of Culture and National Heritage. https://www.reddit.com/r/Games/comments/1v9zjof/gog_this_october_gog_will_become_the_digital_home/
+2026-07-29T16:02:42+00:00	Valve Sponsors Work Bringing Open-Source RADV Driver To Windows https://www.reddit.com/r/Games/comments/1va0g0w/valve_sponsors_work_bringing_opensource_radv/
+2026-07-29T16:05:02+00:00	Warhammer 40,000: Dawn of War IV - Necron Faction Trailer https://www.reddit.com/r/Games/comments/1va0ifu/warhammer_40000_dawn_of_war_iv_necron_faction/
+2026-07-29T17:05:16+00:00	Croc 2 Kingdom of the Gobbos Trailer https://www.reddit.com/r/Games/comments/1va299u/croc_2_kingdom_of_the_gobbos_trailer/
