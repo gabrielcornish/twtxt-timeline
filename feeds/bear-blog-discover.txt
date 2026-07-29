@@ -3,10 +3,8 @@
 # source = https://bearblog.dev/discover/feed/
 # description = twtxt conversion of https://bearblog.dev/discover/feed/
 
-2026-07-23T03:46:00+00:00	july 22 mle https://combatdavey.net/july-22-2026/
 2026-07-23T20:25:44.206981+00:00	Apparently I'm the Problem. https://betweentides.bearblog.dev/apparently-im-the-problem/
 2026-07-24T04:29:00+00:00	Should I have done more? https://doodhpeda.bearblog.dev/blog/should-i-have-done-more/
-2026-07-24T12:00:00+00:00	My old SoundCloud page is a time capsule https://www.simonjamesfrench.com/soundcloud-time-capsule/
 2026-07-24T15:51:00+00:00	Who would ever read this? https://piimyon.bearblog.dev/who-would-ever-read-this/
 2026-07-25T03:17:00+00:00	I have a confession to make. I check the "upvote" number every now and then. https://piimyon.bearblog.dev/i-have-a-confession-to-make-i-check-the-upvote-number-every-now-and-then/
 2026-07-25T06:06:00+00:00	RE: Why do people have multiple blogs https://fornoone.bearblog.dev/re-why-do-people-have-multiple-blogs/
@@ -22,4 +20,6 @@
 2026-07-27T16:13:53.468522+00:00	Your Hell is Someone's Heaven https://livingkindfully.bearblog.dev/your-hell-is-someones-heaven/
 2026-07-27T21:45:00+00:00	Keep posting. https://bx.bearblog.dev/keep-posting/
 2026-07-27T22:00:00+00:00	Bye, bye, Bear Blog! https://4s.bearblog.dev/bye-bye-bear-blog/
+2026-07-28T05:15:00+00:00	Things I Want to Actually Run Out Of https://www.hardrefresh.life/things-i-want-to-actually-run-out-of/
 2026-07-28T15:35:00+00:00	Re: Reconsidering Bearblog https://nate.spot/re-reconsidering-bearblog/
+2026-07-28T21:00:00+00:00	Why I Left WordPress for BearBlog https://catsandbirdsandstuff.com/why-i-left-wordpress-for-bearblog/
