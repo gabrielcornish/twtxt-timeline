@@ -3,8 +3,6 @@
 # source = https://www.gamesindustry.biz/feed
 # description = twtxt conversion of https://www.gamesindustry.biz/feed
 
-2026-07-20T08:47:45+00:00	"There has to be a reason for people to buy an Xbox" – Senior leadership reinforces commitment to console exclusivity https://www.gamesindustry.biz/there-has-to-be-a-reason-for-people-to-buy-an-xbox-senior-leadership-reinforces-commitment-to-console-exclusivity
-2026-07-20T10:53:11+00:00	Netflix Playground drives 600% surge in kids games engagement https://www.gamesindustry.biz/netflix-playground-drives-600-surge-in-kids-games-engagement
 2026-07-20T11:39:41+00:00	"The market is becoming much more diverse" – Will the proliferation of football video games last? https://www.gamesindustry.biz/the-market-is-becoming-much-more-diverse-will-the-proliferation-of-football-video-games-last
 2026-07-20T15:23:07+00:00	"I'm not a creative. I like spreadsheets" – The low-profile team that powers Marathon, Subnautica 2, NBA 2K, and more https://www.gamesindustry.biz/im-not-a-creative-i-like-spreadsheets-the-low-profile-team-that-runs-servers-for-marathon-subnautica-2-nba-2k-and-more
 2026-07-20T15:51:31+00:00	Union slams Microsoft for "unfair labor practice", alleging Xbox "unlawfully" laid off staff https://www.gamesindustry.biz/union-slams-microsoft-for-unfair-labor-practice-alleging-xbox-unlawfully-laid-off-staff
@@ -53,3 +51,5 @@
 2026-07-28T11:17:34+00:00	Pragmata and Resident Evil franchise boost Capcom's Q1 ordinary profit by 81% to $252.5m https://www.gamesindustry.biz/pragmata-and-resident-evil-franchise-boost-capcoms-q1-ordinary-profit-by-81-to-2525m
 2026-07-28T12:17:32+00:00	"Across the industry, we don't think enough about how we match the scope to what we're making" – Mike Bithell on why the world needs an im-slim https://www.gamesindustry.biz/across-the-industry-we-dont-think-enough-about-how-we-match-the-scope-to-what-were-making-mike-bithell-on-why-the-world-needs-an-im-slim
 2026-07-28T13:44:03+00:00	New data suggests layoffs will affect 14,259 people by the end of 2026, up 78% from first forecast of the year https://www.gamesindustry.biz/new-data-suggests-layoffs-will-affect-14259-people-by-the-end-of-2026-up-78-from-first-forecast-of-the-year
+2026-07-29T07:26:52+00:00	Double Fine Productions cuts 23 roles as it becomes independent from Xbox https://www.gamesindustry.biz/double-fine-productions-cuts-23-roles-as-it-becomes-independent-from-xbox
+2026-07-29T08:55:39+00:00	UK Games Fund announces largest cohort of indie studios to receive grants of up to £100,000 https://www.gamesindustry.biz/uk-games-fund-announces-largest-cohort-of-indie-studios-to-receive-grants-of-up-to-100000

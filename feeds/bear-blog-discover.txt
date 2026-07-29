@@ -3,7 +3,6 @@
 # source = https://bearblog.dev/discover/feed/
 # description = twtxt conversion of https://bearblog.dev/discover/feed/
 
-2026-07-24T04:29:00+00:00	Should I have done more? https://doodhpeda.bearblog.dev/blog/should-i-have-done-more/
 2026-07-24T15:51:00+00:00	Who would ever read this? https://piimyon.bearblog.dev/who-would-ever-read-this/
 2026-07-25T03:17:00+00:00	I have a confession to make. I check the "upvote" number every now and then. https://piimyon.bearblog.dev/i-have-a-confession-to-make-i-check-the-upvote-number-every-now-and-then/
 2026-07-25T06:06:00+00:00	RE: Why do people have multiple blogs https://fornoone.bearblog.dev/re-why-do-people-have-multiple-blogs/
@@ -23,3 +22,4 @@
 2026-07-28T20:29:24.065250+00:00	notes on overconsumption and instead of a self help book https://noahmickel.com/notes-on-overconsumption-and-instead-of-a-self-help-book/
 2026-07-28T21:00:00+00:00	Why I Left WordPress for BearBlog https://catsandbirdsandstuff.com/why-i-left-wordpress-for-bearblog/
 2026-07-28T22:18:00+00:00	Hiding toast button based on post tags https://departure.blog/toast-button-post-tags/
+2026-07-29T03:17:22.691369+00:00	I want to leave the internet https://chupacabra.bearblog.dev/i-want-to-leave-the-internet/

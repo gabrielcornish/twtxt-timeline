@@ -4,14 +4,10 @@
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
 2026-07-26T09:00:32+00:00	Weekly /r/Games Discussion - What have you been playing, and what are your thoughts? - July 26, 2026 https://www.reddit.com/r/Games/comments/1v6yj0e/weekly_rgames_discussion_what_have_you_been/
-2026-07-27T21:13:07+00:00	Game Pass Was Supposed To Save Xbox – Instead, It’s Killing the Company - IGN https://www.reddit.com/r/Games/comments/1v8dg07/game_pass_was_supposed_to_save_xbox_instead_its/
-2026-07-28T00:40:49+00:00	"This is an unacceptable situation, and we must do better" Xbox CTO apologizes for its biggest outage in recent memory https://www.reddit.com/r/Games/comments/1v8ioor/this_is_an_unacceptable_situation_and_we_must_do/
-2026-07-28T04:01:37+00:00	Something fishy is going on with Artifact again. https://www.reddit.com/r/Games/comments/1v8n5wb/something_fishy_is_going_on_with_artifact_again/
 2026-07-28T08:00:47+00:00	Pragmata Has Sold Over 2.5 Million Copies, CAPCOM Confirms https://www.reddit.com/r/Games/comments/1v8ronu/pragmata_has_sold_over_25_million_copies_capcom/
 2026-07-28T12:07:23+00:00	Capcom Q1 FY2026 Total Results So Far: (PRAGMATA 2.51M, RE4 2.43M, DMC5 1.29M, MH Worlds 780k) https://www.reddit.com/r/Games/comments/1v8wl3r/capcom_q1_fy2026_total_results_so_far_pragmata/
 2026-07-28T12:46:30+00:00	Game Freak admits Beast of Reincarnation "doesn’t really fit our vibe" after decades of stylized Pokemon but knew "photorealism would be the best fit" for the action RPG https://www.reddit.com/r/Games/comments/1v8xhba/game_freak_admits_beast_of_reincarnation_doesnt/
 2026-07-28T14:25:17+00:00	GOG confirm they are working towards GOG Galaxy on Linux https://www.reddit.com/r/Games/comments/1v901b7/gog_confirm_they_are_working_towards_gog_galaxy/
-2026-07-28T14:29:19+00:00	Fear Effect 2: Retro Helix | Sean Seanson https://www.reddit.com/r/Games/comments/1v90582/fear_effect_2_retro_helix_sean_seanson/
 2026-07-28T14:44:31+00:00	'I have been hunted down by HR reps, lawyers, and comms people:' Developers discuss the pain and prevalence of side work clauses https://www.reddit.com/r/Games/comments/1v90k22/i_have_been_hunted_down_by_hr_reps_lawyers_and/
 2026-07-28T15:04:49+00:00	Clair Obscur: Expedition 33 director says eliminating limitations in development is a “big mistake.” We talk to Sandfall Interactive about staying small, Japanese influences, and what’s next https://www.reddit.com/r/Games/comments/1v91478/clair_obscur_expedition_33_director_says/
 2026-07-28T15:31:17+00:00	PlayStation Plus Monthly Games for August – Dying Light 2 Stay Human: Reloaded Edition, Big Walk, Signalis https://www.reddit.com/r/Games/comments/1v91ukq/playstation_plus_monthly_games_for_august_dying/
@@ -28,3 +24,7 @@
 2026-07-29T01:57:57+00:00	The Dao of Life - Reveal Trailer https://www.reddit.com/r/Games/comments/1v9idne/the_dao_of_life_reveal_trailer/
 2026-07-29T03:03:55+00:00	Solium Infernum - 'Pinnacle to the Pit' Update Now Live! https://www.reddit.com/r/Games/comments/1v9jupj/solium_infernum_pinnacle_to_the_pit_update_now/
 2026-07-29T03:54:18+00:00	Guns of Eschaton - Gameplay Video https://www.reddit.com/r/Games/comments/1v9kwrx/guns_of_eschaton_gameplay_video/
+2026-07-29T07:15:06+00:00	Half-Life: Alyx No-VR Mod – Demo Showcase & Announcement https://www.reddit.com/r/Games/comments/1v9osic/halflife_alyx_novr_mod_demo_showcase_announcement/
+2026-07-29T07:31:34+00:00	Silent Hill: Townfall Might Be Exactly What the Series Needs | IGN Preview https://www.reddit.com/r/Games/comments/1v9p37p/silent_hill_townfall_might_be_exactly_what_the/
+2026-07-29T07:45:37+00:00	AI in Strategy Games https://www.reddit.com/r/Games/comments/1v9pbzw/ai_in_strategy_games/
+2026-07-29T08:40:29+00:00	Wuchang: Fallen Feathers Sequel Officially Announced as Original Creative Director Returns https://www.reddit.com/r/Games/comments/1v9qaf3/wuchang_fallen_feathers_sequel_officially/
