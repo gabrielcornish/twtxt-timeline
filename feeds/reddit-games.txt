@@ -4,11 +4,8 @@
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
 2026-07-28T18:46:51+00:00	Psychonauts 2 Studio Double Fine Hit With Layoffs Amid Divestiture From Xbox https://www.reddit.com/r/Games/comments/1v97emo/psychonauts_2_studio_double_fine_hit_with_layoffs/
-2026-07-29T03:54:18+00:00	Guns of Eschaton - Gameplay Video https://www.reddit.com/r/Games/comments/1v9kwrx/guns_of_eschaton_gameplay_video/
 2026-07-29T07:15:06+00:00	Half-Life: Alyx No-VR Mod – Demo Showcase & Announcement https://www.reddit.com/r/Games/comments/1v9osic/halflife_alyx_novr_mod_demo_showcase_announcement/
-2026-07-29T07:45:37+00:00	AI in Strategy Games https://www.reddit.com/r/Games/comments/1v9pbzw/ai_in_strategy_games/
 2026-07-29T08:40:29+00:00	Wuchang: Fallen Feathers Sequel Officially Announced as Original Creative Director Returns https://www.reddit.com/r/Games/comments/1v9qaf3/wuchang_fallen_feathers_sequel_officially/
-2026-07-29T10:15:22+00:00	Hyper Trigger - Official Reveal Trailer https://www.reddit.com/r/Games/comments/1v9rzpn/hyper_trigger_official_reveal_trailer/
 2026-07-29T11:00:42+00:00	Daily /r/Games Discussion - Suggest Me a Game - July 29, 2026 https://www.reddit.com/r/Games/comments/1v9svqn/daily_rgames_discussion_suggest_me_a_game_july_29/
 2026-07-29T11:04:10+00:00	Pragmata 2 Likely After Sales Success, Publisher Capcom Says https://www.reddit.com/r/Games/comments/1v9sydt/pragmata_2_likely_after_sales_success_publisher/
 2026-07-29T12:07:59+00:00	[AMA] I’m Bunny from the team behind Lunarium, an atmospheric fantasy action RPG is out now on Steam. Ask me anything! https://www.reddit.com/r/Games/comments/1v9ubn3/ama_im_bunny_from_the_team_behind_lunarium_an/
@@ -28,3 +25,6 @@
 2026-07-29T19:34:56+00:00	Every Cancelled Zelda Game - DidYouKnowGaming https://www.reddit.com/r/Games/comments/1va6k0p/every_cancelled_zelda_game_didyouknowgaming/
 2026-07-29T20:24:44+00:00	Shrek, Fiona, Puss, and Donkey are now in Brawlhalla https://www.reddit.com/r/Games/comments/1va7ymw/shrek_fiona_puss_and_donkey_are_now_in_brawlhalla/
 2026-07-29T21:12:17+00:00	Xbox Revenue and Hardware Decline for the Third Straight Quarter https://www.reddit.com/r/Games/comments/1va98n0/xbox_revenue_and_hardware_decline_for_the_third/
+2026-07-29T22:23:20+00:00	Thimbleweed Park 2 announced https://www.reddit.com/r/Games/comments/1vab3pf/thimbleweed_park_2_announced/
+2026-07-29T23:04:25+00:00	Xbox FY26 Q4 Results - Total Gaming Revenue (-10%), Content and Services Revenue (-10%) Hardware Revenue (-13%) https://www.reddit.com/r/Games/comments/1vac4ph/xbox_fy26_q4_results_total_gaming_revenue_10/
+2026-07-29T23:06:47+00:00	I spent 7 years and my personal savings making a game. I love space and puzzles, so I decided to combine them into a game that rewards curiosity over tutorials. Even the game engine was written from scratch. https://www.reddit.com/r/Games/comments/1vac6r6/i_spent_7_years_and_my_personal_savings_making_a/

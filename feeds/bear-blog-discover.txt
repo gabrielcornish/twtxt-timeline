@@ -9,7 +9,6 @@
 2026-07-27T10:16:00+00:00	Back to Bearblog https://dostoynikov.com/back-to-bearblog/
 2026-07-27T16:13:53.468522+00:00	Your Hell is Someone's Heaven https://livingkindfully.bearblog.dev/your-hell-is-someones-heaven/
 2026-07-27T21:45:00+00:00	Keep posting. https://bx.bearblog.dev/keep-posting/
-2026-07-27T22:00:00+00:00	Bye, bye, Bear Blog! https://4s.bearblog.dev/bye-bye-bear-blog/
 2026-07-28T05:15:00+00:00	Things I Want to Actually Run Out Of https://www.hardrefresh.life/things-i-want-to-actually-run-out-of/
 2026-07-28T14:21:00+00:00	I guess I’m trash https://robertbirming.com/guess-im-trash/
 2026-07-28T14:42:00+00:00	Why Didn't Silent Titans Change the World? https://valerialoves.com/why-didnt-silent-titans-change-the-world/
@@ -22,4 +21,5 @@
 2026-07-29T15:19:08.980259+00:00	Cocoa has crossed the rainbow bridge https://notes.jeddacp.com/cocoa-rainbowbridge/
 2026-07-29T16:03:00+00:00	Ugh: It's in the air and I am heartened to know that I'm not the only one https://pourthecoffee.bearblog.dev/ugh-its-in-the-air-and-i-am-heartened-to-know-that-im-not-the-only-one/
 2026-07-29T17:05:00+00:00	Re: Why I Left Wordpress for BearBlog https://onlinegoddess.net/2026/07/re-why-i-left-wordpress-for-bearblog/
+2026-07-29T17:25:04.313193+00:00	re: notes on overconsumption and instead of a self help book https://bearlyadiary.bearblog.dev/re-notes-on-overconsumption-and-instead-of-a-self-help-book/
 2026-07-29T19:46:05.340312+00:00	Healthy Discourse https://scholarch.bearblog.dev/healthy-discourse/
