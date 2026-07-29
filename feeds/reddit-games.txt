@@ -3,9 +3,7 @@
 # source = https://www.reddit.com/r/Games.rss
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
-2026-07-26T09:00:32+00:00	Weekly /r/Games Discussion - What have you been playing, and what are your thoughts? - July 26, 2026 https://www.reddit.com/r/Games/comments/1v6yj0e/weekly_rgames_discussion_what_have_you_been/
 2026-07-28T08:00:47+00:00	Pragmata Has Sold Over 2.5 Million Copies, CAPCOM Confirms https://www.reddit.com/r/Games/comments/1v8ronu/pragmata_has_sold_over_25_million_copies_capcom/
-2026-07-28T12:07:23+00:00	Capcom Q1 FY2026 Total Results So Far: (PRAGMATA 2.51M, RE4 2.43M, DMC5 1.29M, MH Worlds 780k) https://www.reddit.com/r/Games/comments/1v8wl3r/capcom_q1_fy2026_total_results_so_far_pragmata/
 2026-07-28T12:46:30+00:00	Game Freak admits Beast of Reincarnation "doesn’t really fit our vibe" after decades of stylized Pokemon but knew "photorealism would be the best fit" for the action RPG https://www.reddit.com/r/Games/comments/1v8xhba/game_freak_admits_beast_of_reincarnation_doesnt/
 2026-07-28T14:25:17+00:00	GOG confirm they are working towards GOG Galaxy on Linux https://www.reddit.com/r/Games/comments/1v901b7/gog_confirm_they_are_working_towards_gog_galaxy/
 2026-07-28T14:44:31+00:00	'I have been hunted down by HR reps, lawyers, and comms people:' Developers discuss the pain and prevalence of side work clauses https://www.reddit.com/r/Games/comments/1v90k22/i_have_been_hunted_down_by_hr_reps_lawyers_and/
@@ -14,7 +12,6 @@
 2026-07-28T17:04:25+00:00	Dragon Age creator says a Mass Effect-style remaster trilogy won’t happen as “no one understands” the games’ unique game engines https://www.reddit.com/r/Games/comments/1v94gep/dragon_age_creator_says_a_mass_effectstyle/
 2026-07-28T17:33:36+00:00	Resident Evil 5 Has Finally Been Dethroned as The Series' Best-Selling Game After 15 Years https://www.reddit.com/r/Games/comments/1v95ajv/resident_evil_5_has_finally_been_dethroned_as_the/
 2026-07-28T18:07:40+00:00	Crazy Taxi: World Tour | Welcome to the West Coast https://www.reddit.com/r/Games/comments/1v969od/crazy_taxi_world_tour_welcome_to_the_west_coast/
-2026-07-28T18:33:25+00:00	Dear Magical Girls - Official Release Date Trailer https://www.reddit.com/r/Games/comments/1v970of/dear_magical_girls_official_release_date_trailer/
 2026-07-28T18:46:51+00:00	Psychonauts 2 Studio Double Fine Hit With Layoffs Amid Divestiture From Xbox https://www.reddit.com/r/Games/comments/1v97emo/psychonauts_2_studio_double_fine_hit_with_layoffs/
 2026-07-28T19:06:09+00:00	REX/M2EX - Community Patch for OG Rome Total War and Medieval 2 Total War https://www.reddit.com/r/Games/comments/1v97ycz/rexm2ex_community_patch_for_og_rome_total_war_and/
 2026-07-28T20:22:42+00:00	XBOX @ gamescom 2026 https://www.reddit.com/r/Games/comments/1v9a4ho/xbox_gamescom_2026/
@@ -25,6 +22,9 @@
 2026-07-29T03:03:55+00:00	Solium Infernum - 'Pinnacle to the Pit' Update Now Live! https://www.reddit.com/r/Games/comments/1v9jupj/solium_infernum_pinnacle_to_the_pit_update_now/
 2026-07-29T03:54:18+00:00	Guns of Eschaton - Gameplay Video https://www.reddit.com/r/Games/comments/1v9kwrx/guns_of_eschaton_gameplay_video/
 2026-07-29T07:15:06+00:00	Half-Life: Alyx No-VR Mod – Demo Showcase & Announcement https://www.reddit.com/r/Games/comments/1v9osic/halflife_alyx_novr_mod_demo_showcase_announcement/
-2026-07-29T07:31:34+00:00	Silent Hill: Townfall Might Be Exactly What the Series Needs | IGN Preview https://www.reddit.com/r/Games/comments/1v9p37p/silent_hill_townfall_might_be_exactly_what_the/
 2026-07-29T07:45:37+00:00	AI in Strategy Games https://www.reddit.com/r/Games/comments/1v9pbzw/ai_in_strategy_games/
 2026-07-29T08:40:29+00:00	Wuchang: Fallen Feathers Sequel Officially Announced as Original Creative Director Returns https://www.reddit.com/r/Games/comments/1v9qaf3/wuchang_fallen_feathers_sequel_officially/
+2026-07-29T10:15:22+00:00	Hyper Trigger - Official Reveal Trailer https://www.reddit.com/r/Games/comments/1v9rzpn/hyper_trigger_official_reveal_trailer/
+2026-07-29T11:00:42+00:00	Daily /r/Games Discussion - Suggest Me a Game - July 29, 2026 https://www.reddit.com/r/Games/comments/1v9svqn/daily_rgames_discussion_suggest_me_a_game_july_29/
+2026-07-29T11:04:10+00:00	Pragmata 2 Likely After Sales Success, Publisher Capcom Says https://www.reddit.com/r/Games/comments/1v9sydt/pragmata_2_likely_after_sales_success_publisher/
+2026-07-29T12:07:59+00:00	[AMA] I’m Bunny from the team behind Lunarium, an atmospheric fantasy action RPG is out now on Steam. Ask me anything! https://www.reddit.com/r/Games/comments/1v9ubn3/ama_im_bunny_from_the_team_behind_lunarium_an/
