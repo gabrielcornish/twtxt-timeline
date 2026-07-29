@@ -7,7 +7,6 @@
 2026-07-25T20:22:19.877474+00:00	The dichotomy of blogging https://folkmoss.bearblog.dev/the-dichotomy-of-blogging/
 2026-07-25T21:14:00+00:00	my presidential platform now that i'm old enough to run https://cherrysroom.bearblog.dev/my-presidential-platform-now-that-im-old-enough-to-run/
 2026-07-26T11:57:41.194126+00:00	Reading books on your phone https://winther.sysctl.dk/reading-books-on-your-phone/
-2026-07-26T23:41:00+00:00	Reconsidering Bearblog; or, On the Value of Words https://scholarch.bearblog.dev/reconsidering-bearblog-or-on-the-value-of-words-new/
 2026-07-27T06:45:00+00:00	bearblog is not a social media https://actualspine.bearblog.dev/bearblog-is-not-social-media/
 2026-07-27T10:16:00+00:00	Back to Bearblog https://dostoynikov.com/back-to-bearblog/
 2026-07-27T16:13:53.468522+00:00	Your Hell is Someone's Heaven https://livingkindfully.bearblog.dev/your-hell-is-someones-heaven/
@@ -15,7 +14,6 @@
 2026-07-27T22:00:00+00:00	Bye, bye, Bear Blog! https://4s.bearblog.dev/bye-bye-bear-blog/
 2026-07-28T05:15:00+00:00	Things I Want to Actually Run Out Of https://www.hardrefresh.life/things-i-want-to-actually-run-out-of/
 2026-07-28T14:21:00+00:00	I guess I’m trash https://robertbirming.com/guess-im-trash/
-2026-07-28T14:42:00+00:00	Why Didn't Silent Titans Change the World? https://valerialoves.com/why-didnt-silent-titans-change-the-world/
 2026-07-28T15:35:00+00:00	Re: Reconsidering Bearblog https://nate.spot/re-reconsidering-bearblog/
 2026-07-28T20:29:00+00:00	notes on overconsumption and instead of a self help book https://noahmickel.com/notes-on-overconsumption-and-instead-of-a-self-help-book/
 2026-07-28T21:00:00+00:00	Why I Left WordPress for BearBlog https://catsandbirdsandstuff.com/why-i-left-wordpress-for-bearblog/
@@ -23,3 +21,5 @@
 2026-07-29T03:17:22.691369+00:00	I want to leave the internet https://chupacabra.bearblog.dev/i-want-to-leave-the-internet/
 2026-07-29T13:10:00+00:00	When Does Censorship Become Necessary? https://oracleofsages.bearblog.dev/when-does-censorship-become-necessary/
 2026-07-29T15:19:08.980259+00:00	Cocoa has crossed the rainbow bridge https://notes.jeddacp.com/cocoa-rainbowbridge/
+2026-07-29T16:03:00+00:00	Ugh: It's in the air and I am heartened to know that I'm not the only one https://pourthecoffee.bearblog.dev/ugh-its-in-the-air-and-i-am-heartened-to-know-that-im-not-the-only-one/
+2026-07-29T17:05:00+00:00	Re: Why I Left Wordpress for BearBlog https://onlinegoddess.net/2026/07/re-why-i-left-wordpress-for-bearblog/

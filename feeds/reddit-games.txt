@@ -6,9 +6,7 @@
 2026-07-28T14:25:17+00:00	GOG confirm they are working towards GOG Galaxy on Linux https://www.reddit.com/r/Games/comments/1v901b7/gog_confirm_they_are_working_towards_gog_galaxy/
 2026-07-28T17:04:25+00:00	Dragon Age creator says a Mass Effect-style remaster trilogy won’t happen as “no one understands” the games’ unique game engines https://www.reddit.com/r/Games/comments/1v94gep/dragon_age_creator_says_a_mass_effectstyle/
 2026-07-28T17:33:36+00:00	Resident Evil 5 Has Finally Been Dethroned as The Series' Best-Selling Game After 15 Years https://www.reddit.com/r/Games/comments/1v95ajv/resident_evil_5_has_finally_been_dethroned_as_the/
-2026-07-28T18:07:40+00:00	Crazy Taxi: World Tour | Welcome to the West Coast https://www.reddit.com/r/Games/comments/1v969od/crazy_taxi_world_tour_welcome_to_the_west_coast/
 2026-07-28T18:46:51+00:00	Psychonauts 2 Studio Double Fine Hit With Layoffs Amid Divestiture From Xbox https://www.reddit.com/r/Games/comments/1v97emo/psychonauts_2_studio_double_fine_hit_with_layoffs/
-2026-07-28T20:22:42+00:00	XBOX @ gamescom 2026 https://www.reddit.com/r/Games/comments/1v9a4ho/xbox_gamescom_2026/
 2026-07-29T03:54:18+00:00	Guns of Eschaton - Gameplay Video https://www.reddit.com/r/Games/comments/1v9kwrx/guns_of_eschaton_gameplay_video/
 2026-07-29T07:15:06+00:00	Half-Life: Alyx No-VR Mod – Demo Showcase & Announcement https://www.reddit.com/r/Games/comments/1v9osic/halflife_alyx_novr_mod_demo_showcase_announcement/
 2026-07-29T07:45:37+00:00	AI in Strategy Games https://www.reddit.com/r/Games/comments/1v9pbzw/ai_in_strategy_games/
@@ -28,3 +26,5 @@
 2026-07-29T16:02:42+00:00	Valve Sponsors Work Bringing Open-Source RADV Driver To Windows https://www.reddit.com/r/Games/comments/1va0g0w/valve_sponsors_work_bringing_opensource_radv/
 2026-07-29T16:05:02+00:00	Warhammer 40,000: Dawn of War IV - Necron Faction Trailer https://www.reddit.com/r/Games/comments/1va0ifu/warhammer_40000_dawn_of_war_iv_necron_faction/
 2026-07-29T17:05:16+00:00	Croc 2 Kingdom of the Gobbos Trailer https://www.reddit.com/r/Games/comments/1va299u/croc_2_kingdom_of_the_gobbos_trailer/
+2026-07-29T18:07:49+00:00	After laying off Battlefield 6 devs, EA boss Andrew Wilson's bonus rose $8m to $38m last year, thanks to the game's success across "all milestones" https://www.reddit.com/r/Games/comments/1va41ul/after_laying_off_battlefield_6_devs_ea_boss/
+2026-07-29T18:19:50+00:00	Welcome Back, Summoners | League of Legends Classic Cinematic https://www.reddit.com/r/Games/comments/1va4e4w/welcome_back_summoners_league_of_legends_classic/
