@@ -3,7 +3,6 @@
 # source = https://www.reddit.com/r/Games.rss
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
-2026-07-28T18:46:51+00:00	Psychonauts 2 Studio Double Fine Hit With Layoffs Amid Divestiture From Xbox https://www.reddit.com/r/Games/comments/1v97emo/psychonauts_2_studio_double_fine_hit_with_layoffs/
 2026-07-29T07:15:06+00:00	Half-Life: Alyx No-VR Mod – Demo Showcase & Announcement https://www.reddit.com/r/Games/comments/1v9osic/halflife_alyx_novr_mod_demo_showcase_announcement/
 2026-07-29T08:40:29+00:00	Wuchang: Fallen Feathers Sequel Officially Announced as Original Creative Director Returns https://www.reddit.com/r/Games/comments/1v9qaf3/wuchang_fallen_feathers_sequel_officially/
 2026-07-29T11:00:42+00:00	Daily /r/Games Discussion - Suggest Me a Game - July 29, 2026 https://www.reddit.com/r/Games/comments/1v9svqn/daily_rgames_discussion_suggest_me_a_game_july_29/
@@ -12,10 +11,8 @@
 2026-07-29T12:50:32+00:00	Project Zomboid - Build 42 Showcase [2026] https://www.reddit.com/r/Games/comments/1v9va6c/project_zomboid_build_42_showcase_2026/
 2026-07-29T13:05:47+00:00	Pokémon Pokopia Expansion Pass Trailer https://www.reddit.com/r/Games/comments/1v9vnv2/pokémon_pokopia_expansion_pass_trailer/
 2026-07-29T14:16:08+00:00	UK Game Workers’ Union is “Very Confident” Ahead of Its Final Hearing Against Rockstar Games - This Week in Videogames https://www.reddit.com/r/Games/comments/1v9xh5d/uk_game_workers_union_is_very_confident_ahead_of/
-2026-07-29T14:37:34+00:00	The Sinking City 2 – Meat for the Grindmaws | Extended Gameplay Trailer https://www.reddit.com/r/Games/comments/1v9y1xx/the_sinking_city_2_meat_for_the_grindmaws/
 2026-07-29T14:54:21+00:00	Truck-kun is Supporting Me from Another World - RELEASE TRAILER https://www.reddit.com/r/Games/comments/1v9yid2/truckkun_is_supporting_me_from_another_world/
 2026-07-29T15:07:19+00:00	5 Years Later, Cool Cyberpunk Shooter The Ascent Is Getting a Major Update — and It Sounds Like a Sequel Is in the Works https://www.reddit.com/r/Games/comments/1v9yvcg/5_years_later_cool_cyberpunk_shooter_the_ascent/
-2026-07-29T15:14:52+00:00	BeamNG.drive v0.39 Release Notes https://www.reddit.com/r/Games/comments/1v9z2x6/beamngdrive_v039_release_notes/
 2026-07-29T15:31:23+00:00	GOG: This October, GOG will become the digital home of Video Games From Poland, the first-ever national celebration of Polish video games, organized by the Creative Industries Institute under the auspices of the Polish Ministry of Culture and National Heritage. https://www.reddit.com/r/Games/comments/1v9zjof/gog_this_october_gog_will_become_the_digital_home/
 2026-07-29T16:02:42+00:00	Valve Sponsors Work Bringing Open-Source RADV Driver To Windows https://www.reddit.com/r/Games/comments/1va0g0w/valve_sponsors_work_bringing_opensource_radv/
 2026-07-29T16:05:02+00:00	Warhammer 40,000: Dawn of War IV - Necron Faction Trailer https://www.reddit.com/r/Games/comments/1va0ifu/warhammer_40000_dawn_of_war_iv_necron_faction/
@@ -26,5 +23,8 @@
 2026-07-29T21:12:17+00:00	Xbox Revenue and Hardware Decline for the Third Straight Quarter https://www.reddit.com/r/Games/comments/1va98n0/xbox_revenue_and_hardware_decline_for_the_third/
 2026-07-29T22:23:20+00:00	Thimbleweed Park 2 announced https://www.reddit.com/r/Games/comments/1vab3pf/thimbleweed_park_2_announced/
 2026-07-29T23:12:55+00:00	DRAGON BALL: Sparking! ZERO SUPER-LIMIT BREAKING NEO Launch Trailer https://www.reddit.com/r/Games/comments/1vacc1k/dragon_ball_sparking_zero_superlimit_breaking_neo/
-2026-07-30T00:23:39+00:00	[TheoryFighter] The Problem with Frame Data https://www.reddit.com/r/Games/comments/1vae0rk/theoryfighter_the_problem_with_frame_data/
 2026-07-30T01:29:08+00:00	NVIDIA reportedly planning 20–30% GPU price hike as DRAM crisis continues https://www.reddit.com/r/Games/comments/1vafhfj/nvidia_reportedly_planning_2030_gpu_price_hike_as/
+2026-07-30T02:39:45+00:00	Rules of Engagement: The Grey State – Official PvE Gameplay Trailer https://www.reddit.com/r/Games/comments/1vah1mp/rules_of_engagement_the_grey_state_official_pve/
+2026-07-30T03:44:14+00:00	Anyplace I Can Read the Myst Journals Online? https://www.reddit.com/r/Games/comments/1vaiem9/anyplace_i_can_read_the_myst_journals_online/
+2026-07-30T04:37:01+00:00	Steel Maiden - Official Demo Trailer https://www.reddit.com/r/Games/comments/1vajgz2/steel_maiden_official_demo_trailer/
+2026-07-30T05:36:49+00:00	The Defiant - New Gameplay Reveal https://www.reddit.com/r/Games/comments/1vakm2m/the_defiant_new_gameplay_reveal/
