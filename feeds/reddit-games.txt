@@ -5,19 +5,14 @@
 
 2026-07-29T11:00:42+00:00	Daily /r/Games Discussion - Suggest Me a Game - July 29, 2026 https://www.reddit.com/r/Games/comments/1v9svqn/daily_rgames_discussion_suggest_me_a_game_july_29/
 2026-07-29T18:07:49+00:00	After laying off Battlefield 6 devs, EA boss Andrew Wilson's bonus rose $8m to $38m last year, thanks to the game's success across "all milestones" https://www.reddit.com/r/Games/comments/1va41ul/after_laying_off_battlefield_6_devs_ea_boss/
-2026-07-29T21:12:17+00:00	Xbox Revenue and Hardware Decline for the Third Straight Quarter https://www.reddit.com/r/Games/comments/1va98n0/xbox_revenue_and_hardware_decline_for_the_third/
-2026-07-29T22:23:20+00:00	Thimbleweed Park 2 announced https://www.reddit.com/r/Games/comments/1vab3pf/thimbleweed_park_2_announced/
 2026-07-30T01:29:08+00:00	NVIDIA reportedly planning 20–30% GPU price hike as DRAM crisis continues https://www.reddit.com/r/Games/comments/1vafhfj/nvidia_reportedly_planning_2030_gpu_price_hike_as/
-2026-07-30T05:36:49+00:00	The Defiant - New Gameplay Reveal https://www.reddit.com/r/Games/comments/1vakm2m/the_defiant_new_gameplay_reveal/
 2026-07-30T07:35:45+00:00	Path of Exile 2: Shaders and Device Removed Issues Fixed https://www.reddit.com/r/Games/comments/1vamrpw/path_of_exile_2_shaders_and_device_removed_issues/
-2026-07-30T09:27:17+00:00	Demons’ Night Fever launches October 22 https://www.reddit.com/r/Games/comments/1vaookk/demons_night_fever_launches_october_22/
 2026-07-30T10:15:56+00:00	Control Resonant's gameplay designer has me convinced it'll be a big hit https://www.reddit.com/r/Games/comments/1vapk9s/control_resonants_gameplay_designer_has_me/
 2026-07-30T10:58:25+00:00	Expeditions: Samurai | Gameplay Trailer https://www.reddit.com/r/Games/comments/1vaqcnk/expeditions_samurai_gameplay_trailer/
 2026-07-30T12:01:12+00:00	HELLDIVERS™ 2 x Warhammer 40,000 Legendary Warbond https://www.reddit.com/r/Games/comments/1varmye/helldivers_2_x_warhammer_40000_legendary_warbond/
 2026-07-30T12:19:04+00:00	Guildrun | Official Reveal Trailer https://www.reddit.com/r/Games/comments/1vas182/guildrun_official_reveal_trailer/
 2026-07-30T13:00:25+00:00	Gears of War: E-Day | Official Multiplayer Reveal https://www.reddit.com/r/Games/comments/1vaszx9/gears_of_war_eday_official_multiplayer_reveal/
 2026-07-30T13:43:00+00:00	Gears of War: E-Day Horde Siege | Preview https://www.reddit.com/r/Games/comments/1vau1d5/gears_of_war_eday_horde_siege_preview/
-2026-07-30T13:46:11+00:00	Famitsu sales (7/20/26 - 7/26/26) - first week sales revealed for Splatoon Raiders, big Nintendo Switch 2 boost https://www.reddit.com/r/Games/comments/1vau44o/famitsu_sales_72026_72626_first_week_sales/
 2026-07-30T13:56:20+00:00	Fallout: New California Released https://www.reddit.com/r/Games/comments/1vaudet/fallout_new_california_released/
 2026-07-30T14:25:45+00:00	The truth behind the resurrection of Poinpy https://www.reddit.com/r/Games/comments/1vav5jv/the_truth_behind_the_resurrection_of_poinpy/
 2026-07-30T14:44:30+00:00	Ways to play Orbitals https://www.reddit.com/r/Games/comments/1vavnlj/ways_to_play_orbitals/
@@ -28,3 +23,8 @@
 2026-07-30T17:23:31+00:00	Star Wars: Galactic Racer Surprised Me With the Dangerous Depth of Its Roguelike Campaign https://www.reddit.com/r/Games/comments/1vb02vq/star_wars_galactic_racer_surprised_me_with_the/
 2026-07-30T18:01:09+00:00	Silly Sausage Buffet [By Nitrome] - Announcement Trailer https://www.reddit.com/r/Games/comments/1vb15kj/silly_sausage_buffet_by_nitrome_announcement/
 2026-07-30T18:12:23+00:00	Famitsu: Splatoon Raiders was the #1 best selling game in Japan with 474,684 physical units sold this week https://www.reddit.com/r/Games/comments/1vb1hh2/famitsu_splatoon_raiders_was_the_1_best_selling/
+2026-07-30T18:53:28+00:00	The Snakes Saga Trailer - METAL GEAR SOLID: MASTER COLLECTION Vol.2 https://www.reddit.com/r/Games/comments/1vb2mji/the_snakes_saga_trailer_metal_gear_solid_master/
+2026-07-30T19:17:25+00:00	Deadlock - Matchmaking Update - Steam News https://www.reddit.com/r/Games/comments/1vb3agc/deadlock_matchmaking_update_steam_news/
+2026-07-30T19:31:57+00:00	AMA (Ask Me Anything) with the producer Masaru Saito, for the game Brigandine Abyss, is now live on r/JRPG, come and join the discussion! https://www.reddit.com/r/Games/comments/1vb3ot4/ama_ask_me_anything_with_the_producer_masaru/
+2026-07-30T19:41:30+00:00	Celebrating Age [of Empires] in 2026 [+ Details on upcoming AoE3+4 DLC, new AoE2 Viking DLC announced] https://www.reddit.com/r/Games/comments/1vb3yg2/celebrating_age_of_empires_in_2026_details_on/
+2026-07-30T20:04:19+00:00	Do Not Buy The War Crime N64 - "There's so many ways to play the N64. You do not need to support Palmer Luckey's little project." https://www.reddit.com/r/Games/comments/1vb4l1t/do_not_buy_the_war_crime_n64_theres_so_many_ways/
