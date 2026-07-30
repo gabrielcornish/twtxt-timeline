@@ -3,7 +3,6 @@
 # source = https://bearblog.dev/discover/feed/
 # description = twtxt conversion of https://bearblog.dev/discover/feed/
 
-2026-07-25T20:22:19.877474+00:00	The dichotomy of blogging https://folkmoss.bearblog.dev/the-dichotomy-of-blogging/
 2026-07-26T11:57:41.194126+00:00	Reading books on your phone https://winther.sysctl.dk/reading-books-on-your-phone/
 2026-07-27T06:45:00+00:00	bearblog is not a social media https://actualspine.bearblog.dev/bearblog-is-not-social-media/
 2026-07-27T10:16:00+00:00	Back to Bearblog https://dostoynikov.com/back-to-bearblog/
@@ -23,3 +22,4 @@
 2026-07-29T17:05:00+00:00	Re: Why I Left Wordpress for BearBlog https://onlinegoddess.net/2026/07/re-why-i-left-wordpress-for-bearblog/
 2026-07-29T17:25:04.313193+00:00	re: notes on overconsumption and instead of a self help book https://bearlyadiary.bearblog.dev/re-notes-on-overconsumption-and-instead-of-a-self-help-book/
 2026-07-29T19:46:05.340312+00:00	Healthy Discourse https://scholarch.bearblog.dev/healthy-discourse/
+2026-07-29T21:17:00+00:00	Some advice: don't get your elbow tattooed or read things that bother you https://angrybunnyman.com/some-advice-dont-get-your-elbow-tattooed-or-reading-things-that-bother-you/
