@@ -16,8 +16,6 @@
 2026-07-30T13:56:20+00:00	Fallout: New California Released https://www.reddit.com/r/Games/comments/1vaudet/fallout_new_california_released/
 2026-07-30T14:25:45+00:00	The truth behind the resurrection of Poinpy https://www.reddit.com/r/Games/comments/1vav5jv/the_truth_behind_the_resurrection_of_poinpy/
 2026-07-30T14:44:30+00:00	Ways to play Orbitals https://www.reddit.com/r/Games/comments/1vavnlj/ways_to_play_orbitals/
-2026-07-30T14:55:53+00:00	Prospice: Official Announcement Trailer https://www.reddit.com/r/Games/comments/1vavyec/prospice_official_announcement_trailer/
-2026-07-30T15:15:36+00:00	Ghost Master Resurrection Solid Ice & Terror DLC Trailer https://www.reddit.com/r/Games/comments/1vawhrw/ghost_master_resurrection_solid_ice_terror_dlc/
 2026-07-30T16:27:40+00:00	LUMINES REMASTERED | iOS and Android Mobile Launch Trailer https://www.reddit.com/r/Games/comments/1vayidj/lumines_remastered_ios_and_android_mobile_launch/
 2026-07-30T17:04:12+00:00	Necesse Rust & Romance Update + Steam Free Weekend is now live! https://www.reddit.com/r/Games/comments/1vazj6e/necesse_rust_romance_update_steam_free_weekend_is/
 2026-07-30T17:23:31+00:00	Star Wars: Galactic Racer Surprised Me With the Dangerous Depth of Its Roguelike Campaign https://www.reddit.com/r/Games/comments/1vb02vq/star_wars_galactic_racer_surprised_me_with_the/
@@ -28,3 +26,5 @@
 2026-07-30T19:31:57+00:00	AMA (Ask Me Anything) with the producer Masaru Saito, for the game Brigandine Abyss, is now live on r/JRPG, come and join the discussion! https://www.reddit.com/r/Games/comments/1vb3ot4/ama_ask_me_anything_with_the_producer_masaru/
 2026-07-30T19:41:30+00:00	Celebrating Age [of Empires] in 2026 [+ Details on upcoming AoE3+4 DLC, new AoE2 Viking DLC announced] https://www.reddit.com/r/Games/comments/1vb3yg2/celebrating_age_of_empires_in_2026_details_on/
 2026-07-30T20:04:19+00:00	Do Not Buy The War Crime N64 - "There's so many ways to play the N64. You do not need to support Palmer Luckey's little project." https://www.reddit.com/r/Games/comments/1vb4l1t/do_not_buy_the_war_crime_n64_theres_so_many_ways/
+2026-07-30T21:13:15+00:00	Dev Stream: Gouie Art & Lore (Rivals of Aether 2) https://www.reddit.com/r/Games/comments/1vb6h12/dev_stream_gouie_art_lore_rivals_of_aether_2/
+2026-07-30T21:48:13+00:00	EA will officially become a privately owned company next week https://www.reddit.com/r/Games/comments/1vb7dqz/ea_will_officially_become_a_privately_owned/
