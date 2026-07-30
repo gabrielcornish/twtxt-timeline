@@ -3,9 +3,6 @@
 # source = https://www.gamesindustry.biz/feed
 # description = twtxt conversion of https://www.gamesindustry.biz/feed
 
-2026-07-21T07:44:28+00:00	Unity 7 to launch in Q1 2027; new engine is a "direct continuation" of Unity 6 https://www.gamesindustry.biz/unity-7-to-launch-in-q1-2027-new-engine-is-a-direct-continuation-of-unity-6
-2026-07-21T10:53:33+00:00	Nintendo files motion to dismiss consumer lawsuit over tariff refunds https://www.gamesindustry.biz/nintendo-files-motion-to-dismiss-consumer-lawsuit-over-tariff-refunds
-2026-07-21T11:00:03+00:00	Ethical, low-power, and on-device: Studio Atelico's vision for the future of generative AI https://www.gamesindustry.biz/ethical-low-power-and-on-device-studio-atelicos-vision-for-the-future-of-generative-ai
 2026-07-21T13:34:48+00:00	Esports consultancy The Story Mob rebrands to "strategic player culture advisory" https://www.gamesindustry.biz/esports-consultancy-the-story-mob-rebrands-to-strategic-player-culture-advisory
 2026-07-22T06:53:59+00:00	Alpha Dog Games founders reacquire studio from Microsoft following 2024 closure https://www.gamesindustry.biz/alpha-dog-games-founders-reacquire-studio-from-microsoft-following-2024-closure
 2026-07-22T07:43:47+00:00	Xbox brings starter edition of Game Pass to Meta Horizon+ https://www.gamesindustry.biz/xbox-brings-starter-edition-of-game-pass-to-meta-horizon
@@ -53,3 +50,6 @@
 2026-07-30T08:21:34+00:00	Xbox revenue plunges $1.7bn, with hardware dropping 29% YoY https://www.gamesindustry.biz/xbox-revenue-plunges-17bn-with-hardware-dropping-29-yoy
 2026-07-30T09:41:04+00:00	GTA 6 download codes will expire 170 days after launch in Japan https://www.gamesindustry.biz/gta-6-download-codes-to-expire-170-days-after-launch-in-japan
 2026-07-30T11:00:00+00:00	"I learnt a tonne about enamel pin manufacturing" – Brigador developer Stellar Jockeys on the secrets of selling video game merchandise https://www.gamesindustry.biz/i-learnt-a-tonne-about-enamel-pin-manufacturing-brigador-developer-stellar-jockeys-on-the-secrets-of-selling-video-game-merchandise
+2026-07-30T12:26:51+00:00	Gamesight: Creators are best predictor for a game's success, not viewership https://www.gamesindustry.biz/gamesight-creators-are-best-predictor-for-a-games-success-not-viewership
+2026-07-30T12:46:35+00:00	AppMagic: Pokémon Go generates $48.5m during 10th anniversary celebrations https://www.gamesindustry.biz/appmagic-pokemon-go-generates-485m-during-10th-anniversary-celebrations
+2026-07-30T14:04:55+00:00	Analyst data: Assassin's Creed Odyssey experiences surge in daily active users following Christopher Nolan film https://www.gamesindustry.biz/analyst-data-assassins-creed-odyssey-experiences-surge-in-daily-active-users-following-christopher-nolan-film
