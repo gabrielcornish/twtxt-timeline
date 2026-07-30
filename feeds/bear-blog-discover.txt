@@ -3,7 +3,6 @@
 # source = https://bearblog.dev/discover/feed/
 # description = twtxt conversion of https://bearblog.dev/discover/feed/
 
-2026-07-26T11:57:41.194126+00:00	Reading books on your phone https://winther.sysctl.dk/reading-books-on-your-phone/
 2026-07-27T06:45:00+00:00	bearblog is not a social media https://actualspine.bearblog.dev/bearblog-is-not-social-media/
 2026-07-27T10:16:00+00:00	Back to Bearblog https://dostoynikov.com/back-to-bearblog/
 2026-07-27T16:13:53.468522+00:00	Your Hell is Someone's Heaven https://livingkindfully.bearblog.dev/your-hell-is-someones-heaven/
@@ -13,6 +12,7 @@
 2026-07-28T14:42:00+00:00	Why Didn't Silent Titans Change the World? https://valerialoves.com/why-didnt-silent-titans-change-the-world/
 2026-07-28T20:29:00+00:00	notes on overconsumption and instead of a self help book https://noahmickel.com/notes-on-overconsumption-and-instead-of-a-self-help-book/
 2026-07-28T21:00:00+00:00	Why I Left WordPress for BearBlog https://catsandbirdsandstuff.com/why-i-left-wordpress-for-bearblog/
+2026-07-28T21:44:00+00:00	I Can't Stop Thinking About Majora's Mask https://questfortori.bearblog.dev/i-cant-stop-thinking-about-majoras-mask/
 2026-07-28T22:18:00+00:00	Hiding toast button based on post tags https://departure.blog/toast-button-post-tags/
 2026-07-29T03:17:22.691369+00:00	I want to leave the internet https://chupacabra.bearblog.dev/i-want-to-leave-the-internet/
 2026-07-29T13:10:00+00:00	When Does Censorship Become Necessary? https://oracleofsages.bearblog.dev/when-does-censorship-become-necessary/

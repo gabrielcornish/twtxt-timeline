@@ -3,18 +3,13 @@
 # source = https://www.reddit.com/r/Games.rss
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
-2026-07-29T07:15:06+00:00	Half-Life: Alyx No-VR Mod – Demo Showcase & Announcement https://www.reddit.com/r/Games/comments/1v9osic/halflife_alyx_novr_mod_demo_showcase_announcement/
-2026-07-29T08:40:29+00:00	Wuchang: Fallen Feathers Sequel Officially Announced as Original Creative Director Returns https://www.reddit.com/r/Games/comments/1v9qaf3/wuchang_fallen_feathers_sequel_officially/
 2026-07-29T11:00:42+00:00	Daily /r/Games Discussion - Suggest Me a Game - July 29, 2026 https://www.reddit.com/r/Games/comments/1v9svqn/daily_rgames_discussion_suggest_me_a_game_july_29/
 2026-07-29T11:04:10+00:00	Pragmata 2 Likely After Sales Success, Publisher Capcom Says https://www.reddit.com/r/Games/comments/1v9sydt/pragmata_2_likely_after_sales_success_publisher/
 2026-07-29T12:07:59+00:00	[AMA] I’m Bunny from the team behind Lunarium, an atmospheric fantasy action RPG is out now on Steam. Ask me anything! https://www.reddit.com/r/Games/comments/1v9ubn3/ama_im_bunny_from_the_team_behind_lunarium_an/
-2026-07-29T12:50:32+00:00	Project Zomboid - Build 42 Showcase [2026] https://www.reddit.com/r/Games/comments/1v9va6c/project_zomboid_build_42_showcase_2026/
 2026-07-29T13:05:47+00:00	Pokémon Pokopia Expansion Pass Trailer https://www.reddit.com/r/Games/comments/1v9vnv2/pokémon_pokopia_expansion_pass_trailer/
-2026-07-29T14:16:08+00:00	UK Game Workers’ Union is “Very Confident” Ahead of Its Final Hearing Against Rockstar Games - This Week in Videogames https://www.reddit.com/r/Games/comments/1v9xh5d/uk_game_workers_union_is_very_confident_ahead_of/
 2026-07-29T14:54:21+00:00	Truck-kun is Supporting Me from Another World - RELEASE TRAILER https://www.reddit.com/r/Games/comments/1v9yid2/truckkun_is_supporting_me_from_another_world/
 2026-07-29T15:07:19+00:00	5 Years Later, Cool Cyberpunk Shooter The Ascent Is Getting a Major Update — and It Sounds Like a Sequel Is in the Works https://www.reddit.com/r/Games/comments/1v9yvcg/5_years_later_cool_cyberpunk_shooter_the_ascent/
 2026-07-29T15:31:23+00:00	GOG: This October, GOG will become the digital home of Video Games From Poland, the first-ever national celebration of Polish video games, organized by the Creative Industries Institute under the auspices of the Polish Ministry of Culture and National Heritage. https://www.reddit.com/r/Games/comments/1v9zjof/gog_this_october_gog_will_become_the_digital_home/
-2026-07-29T16:02:42+00:00	Valve Sponsors Work Bringing Open-Source RADV Driver To Windows https://www.reddit.com/r/Games/comments/1va0g0w/valve_sponsors_work_bringing_opensource_radv/
 2026-07-29T16:05:02+00:00	Warhammer 40,000: Dawn of War IV - Necron Faction Trailer https://www.reddit.com/r/Games/comments/1va0ifu/warhammer_40000_dawn_of_war_iv_necron_faction/
 2026-07-29T17:05:16+00:00	Croc 2 Kingdom of the Gobbos Trailer https://www.reddit.com/r/Games/comments/1va299u/croc_2_kingdom_of_the_gobbos_trailer/
 2026-07-29T18:07:49+00:00	After laying off Battlefield 6 devs, EA boss Andrew Wilson's bonus rose $8m to $38m last year, thanks to the game's success across "all milestones" https://www.reddit.com/r/Games/comments/1va41ul/after_laying_off_battlefield_6_devs_ea_boss/
@@ -28,3 +23,8 @@
 2026-07-30T04:37:01+00:00	Steel Maiden - Official Demo Trailer https://www.reddit.com/r/Games/comments/1vajgz2/steel_maiden_official_demo_trailer/
 2026-07-30T05:36:49+00:00	The Defiant - New Gameplay Reveal https://www.reddit.com/r/Games/comments/1vakm2m/the_defiant_new_gameplay_reveal/
 2026-07-30T07:35:45+00:00	Path of Exile 2: Shaders and Device Removed Issues Fixed https://www.reddit.com/r/Games/comments/1vamrpw/path_of_exile_2_shaders_and_device_removed_issues/
+2026-07-30T09:26:47+00:00	Stupid Never Dies launches October 21 https://www.reddit.com/r/Games/comments/1vaoo9d/stupid_never_dies_launches_october_21/
+2026-07-30T09:27:17+00:00	Demons’ Night Fever launches October 22 https://www.reddit.com/r/Games/comments/1vaookk/demons_night_fever_launches_october_22/
+2026-07-30T09:57:23+00:00	Final Fantasy VII Revelation director Naoki Hamaguchi has expressed his support for preserving physical games. https://www.reddit.com/r/Games/comments/1vap77s/final_fantasy_vii_revelation_director_naoki/
+2026-07-30T10:15:56+00:00	Control Resonant's gameplay designer has me convinced it'll be a big hit https://www.reddit.com/r/Games/comments/1vapk9s/control_resonants_gameplay_designer_has_me/
+2026-07-30T10:58:25+00:00	Expeditions: Samurai | Gameplay Trailer https://www.reddit.com/r/Games/comments/1vaqcnk/expeditions_samurai_gameplay_trailer/

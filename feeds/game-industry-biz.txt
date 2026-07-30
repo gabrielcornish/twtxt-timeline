@@ -3,7 +3,6 @@
 # source = https://www.gamesindustry.biz/feed
 # description = twtxt conversion of https://www.gamesindustry.biz/feed
 
-2026-07-20T19:53:33+00:00	Judge halts Paramount-Warner Bros. merger for a minimum of 14 days https://www.gamesindustry.biz/judge-halts-paramount-warner-bros-merger-for-a-minimum-of-14-days
 2026-07-21T07:44:28+00:00	Unity 7 to launch in Q1 2027; new engine is a "direct continuation" of Unity 6 https://www.gamesindustry.biz/unity-7-to-launch-in-q1-2027-new-engine-is-a-direct-continuation-of-unity-6
 2026-07-21T10:53:33+00:00	Nintendo files motion to dismiss consumer lawsuit over tariff refunds https://www.gamesindustry.biz/nintendo-files-motion-to-dismiss-consumer-lawsuit-over-tariff-refunds
 2026-07-21T11:00:03+00:00	Ethical, low-power, and on-device: Studio Atelico's vision for the future of generative AI https://www.gamesindustry.biz/ethical-low-power-and-on-device-studio-atelicos-vision-for-the-future-of-generative-ai
@@ -53,3 +52,4 @@
 2026-07-29T15:56:07+00:00	"People want to play arcade racers again" – How the developer of Wreckreation went from a company-wide redundancy notice to working on a sequel https://www.gamesindustry.biz/people-want-to-play-arcade-racers-again-how-the-developer-of-wreckreation-went-from-a-company-wide-redundancy-notice-to-working-on-a-sequel
 2026-07-30T08:21:34+00:00	Xbox revenue plunges $1.7bn, with hardware dropping 29% YoY https://www.gamesindustry.biz/xbox-revenue-plunges-17bn-with-hardware-dropping-29-yoy
 2026-07-30T09:41:04+00:00	GTA 6 download codes will expire 170 days after launch in Japan https://www.gamesindustry.biz/gta-6-download-codes-to-expire-170-days-after-launch-in-japan
+2026-07-30T11:00:00+00:00	"I learnt a tonne about enamel pin manufacturing" – Brigador developer Stellar Jockeys on the secrets of selling video game merchandise https://www.gamesindustry.biz/i-learnt-a-tonne-about-enamel-pin-manufacturing-brigador-developer-stellar-jockeys-on-the-secrets-of-selling-video-game-merchandise
