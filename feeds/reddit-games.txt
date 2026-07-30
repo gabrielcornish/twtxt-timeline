@@ -4,15 +4,12 @@
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
 2026-07-29T11:00:42+00:00	Daily /r/Games Discussion - Suggest Me a Game - July 29, 2026 https://www.reddit.com/r/Games/comments/1v9svqn/daily_rgames_discussion_suggest_me_a_game_july_29/
-2026-07-29T15:31:23+00:00	GOG: This October, GOG will become the digital home of Video Games From Poland, the first-ever national celebration of Polish video games, organized by the Creative Industries Institute under the auspices of the Polish Ministry of Culture and National Heritage. https://www.reddit.com/r/Games/comments/1v9zjof/gog_this_october_gog_will_become_the_digital_home/
 2026-07-29T18:07:49+00:00	After laying off Battlefield 6 devs, EA boss Andrew Wilson's bonus rose $8m to $38m last year, thanks to the game's success across "all milestones" https://www.reddit.com/r/Games/comments/1va41ul/after_laying_off_battlefield_6_devs_ea_boss/
 2026-07-29T21:12:17+00:00	Xbox Revenue and Hardware Decline for the Third Straight Quarter https://www.reddit.com/r/Games/comments/1va98n0/xbox_revenue_and_hardware_decline_for_the_third/
 2026-07-29T22:23:20+00:00	Thimbleweed Park 2 announced https://www.reddit.com/r/Games/comments/1vab3pf/thimbleweed_park_2_announced/
 2026-07-30T01:29:08+00:00	NVIDIA reportedly planning 20–30% GPU price hike as DRAM crisis continues https://www.reddit.com/r/Games/comments/1vafhfj/nvidia_reportedly_planning_2030_gpu_price_hike_as/
-2026-07-30T04:37:01+00:00	Steel Maiden - Official Demo Trailer https://www.reddit.com/r/Games/comments/1vajgz2/steel_maiden_official_demo_trailer/
 2026-07-30T05:36:49+00:00	The Defiant - New Gameplay Reveal https://www.reddit.com/r/Games/comments/1vakm2m/the_defiant_new_gameplay_reveal/
 2026-07-30T07:35:45+00:00	Path of Exile 2: Shaders and Device Removed Issues Fixed https://www.reddit.com/r/Games/comments/1vamrpw/path_of_exile_2_shaders_and_device_removed_issues/
-2026-07-30T09:26:47+00:00	Stupid Never Dies launches October 21 https://www.reddit.com/r/Games/comments/1vaoo9d/stupid_never_dies_launches_october_21/
 2026-07-30T09:27:17+00:00	Demons’ Night Fever launches October 22 https://www.reddit.com/r/Games/comments/1vaookk/demons_night_fever_launches_october_22/
 2026-07-30T10:15:56+00:00	Control Resonant's gameplay designer has me convinced it'll be a big hit https://www.reddit.com/r/Games/comments/1vapk9s/control_resonants_gameplay_designer_has_me/
 2026-07-30T10:58:25+00:00	Expeditions: Samurai | Gameplay Trailer https://www.reddit.com/r/Games/comments/1vaqcnk/expeditions_samurai_gameplay_trailer/
@@ -26,5 +23,8 @@
 2026-07-30T14:44:30+00:00	Ways to play Orbitals https://www.reddit.com/r/Games/comments/1vavnlj/ways_to_play_orbitals/
 2026-07-30T14:55:53+00:00	Prospice: Official Announcement Trailer https://www.reddit.com/r/Games/comments/1vavyec/prospice_official_announcement_trailer/
 2026-07-30T15:15:36+00:00	Ghost Master Resurrection Solid Ice & Terror DLC Trailer https://www.reddit.com/r/Games/comments/1vawhrw/ghost_master_resurrection_solid_ice_terror_dlc/
-2026-07-30T16:02:49+00:00	Guild Wars 3 | Main Theme Reveal https://www.reddit.com/r/Games/comments/1vaxssz/guild_wars_3_main_theme_reveal/
 2026-07-30T16:27:40+00:00	LUMINES REMASTERED | iOS and Android Mobile Launch Trailer https://www.reddit.com/r/Games/comments/1vayidj/lumines_remastered_ios_and_android_mobile_launch/
+2026-07-30T17:04:12+00:00	Necesse Rust & Romance Update + Steam Free Weekend is now live! https://www.reddit.com/r/Games/comments/1vazj6e/necesse_rust_romance_update_steam_free_weekend_is/
+2026-07-30T17:23:31+00:00	Star Wars: Galactic Racer Surprised Me With the Dangerous Depth of Its Roguelike Campaign https://www.reddit.com/r/Games/comments/1vb02vq/star_wars_galactic_racer_surprised_me_with_the/
+2026-07-30T18:01:09+00:00	Silly Sausage Buffet [By Nitrome] - Announcement Trailer https://www.reddit.com/r/Games/comments/1vb15kj/silly_sausage_buffet_by_nitrome_announcement/
+2026-07-30T18:12:23+00:00	Famitsu: Splatoon Raiders was the #1 best selling game in Japan with 474,684 physical units sold this week https://www.reddit.com/r/Games/comments/1vb1hh2/famitsu_splatoon_raiders_was_the_1_best_selling/
