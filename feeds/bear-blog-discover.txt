@@ -15,7 +15,6 @@
 2026-07-28T21:44:00+00:00	I Can't Stop Thinking About Majora's Mask https://questfortori.bearblog.dev/i-cant-stop-thinking-about-majoras-mask/
 2026-07-28T22:18:00+00:00	Hiding toast button based on post tags https://departure.blog/toast-button-post-tags/
 2026-07-29T03:17:22.691369+00:00	I want to leave the internet https://chupacabra.bearblog.dev/i-want-to-leave-the-internet/
-2026-07-29T13:10:00+00:00	When Does Censorship Become Necessary? https://oracleofsages.bearblog.dev/when-does-censorship-become-necessary/
 2026-07-29T15:19:08.980259+00:00	Cocoa has crossed the rainbow bridge https://notes.jeddacp.com/cocoa-rainbowbridge/
 2026-07-29T16:03:00+00:00	Ugh: It's in the air and I am heartened to know that I'm not the only one https://pourthecoffee.bearblog.dev/ugh-its-in-the-air-and-i-am-heartened-to-know-that-im-not-the-only-one/
 2026-07-29T17:05:00+00:00	Re: Why I Left Wordpress for BearBlog https://onlinegoddess.net/2026/07/re-why-i-left-wordpress-for-bearblog/
@@ -23,3 +22,4 @@
 2026-07-29T19:46:05.340312+00:00	Healthy Discourse https://scholarch.bearblog.dev/healthy-discourse/
 2026-07-29T21:17:00+00:00	Some advice: don't get your elbow tattooed or read things that bother you https://angrybunnyman.com/some-advice-dont-get-your-elbow-tattooed-or-reading-things-that-bother-you/
 2026-07-30T02:08:00+00:00	Soaking in the slop https://moodywarlock.net/soaking-in-the-slop/
+2026-07-30T14:22:00+00:00	Goodbye Tech https://blog.aracine.net/goodbye/
