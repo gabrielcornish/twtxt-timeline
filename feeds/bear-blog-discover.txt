@@ -11,7 +11,6 @@
 2026-07-28T05:15:00+00:00	Things I Want to Actually Run Out Of https://www.hardrefresh.life/things-i-want-to-actually-run-out-of/
 2026-07-28T14:21:00+00:00	I guess I’m trash https://robertbirming.com/guess-im-trash/
 2026-07-28T14:42:00+00:00	Why Didn't Silent Titans Change the World? https://valerialoves.com/why-didnt-silent-titans-change-the-world/
-2026-07-28T15:35:00+00:00	Re: Reconsidering Bearblog https://nate.spot/re-reconsidering-bearblog/
 2026-07-28T20:29:00+00:00	notes on overconsumption and instead of a self help book https://noahmickel.com/notes-on-overconsumption-and-instead-of-a-self-help-book/
 2026-07-28T21:00:00+00:00	Why I Left WordPress for BearBlog https://catsandbirdsandstuff.com/why-i-left-wordpress-for-bearblog/
 2026-07-28T22:18:00+00:00	Hiding toast button based on post tags https://departure.blog/toast-button-post-tags/
@@ -23,3 +22,4 @@
 2026-07-29T17:25:04.313193+00:00	re: notes on overconsumption and instead of a self help book https://bearlyadiary.bearblog.dev/re-notes-on-overconsumption-and-instead-of-a-self-help-book/
 2026-07-29T19:46:05.340312+00:00	Healthy Discourse https://scholarch.bearblog.dev/healthy-discourse/
 2026-07-29T21:17:00+00:00	Some advice: don't get your elbow tattooed or read things that bother you https://angrybunnyman.com/some-advice-dont-get-your-elbow-tattooed-or-reading-things-that-bother-you/
+2026-07-30T02:08:00+00:00	Soaking in the slop https://moodywarlock.net/soaking-in-the-slop/

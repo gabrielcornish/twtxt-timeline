@@ -3,8 +3,6 @@
 # source = https://www.gamesindustry.biz/feed
 # description = twtxt conversion of https://www.gamesindustry.biz/feed
 
-2026-07-20T18:00:29+00:00	Court orders Edge of Eternity dev Midgar Studio to liquidate after failing to secure a buyer https://www.gamesindustry.biz/court-orders-midgar-studio-to-liquidate-after-failing-to-secure-a-buyer
-2026-07-20T19:31:49+00:00	Valve suggests memory crisis is "still getting worse," admitting, "we're limited by memory capacity, for sure" https://www.gamesindustry.biz/valve-suggests-memory-crisis-is-still-getting-worse-admitting-were-limited-by-memory-capacity-for-sure
 2026-07-20T19:53:33+00:00	Judge halts Paramount-Warner Bros. merger for a minimum of 14 days https://www.gamesindustry.biz/judge-halts-paramount-warner-bros-merger-for-a-minimum-of-14-days
 2026-07-21T07:44:28+00:00	Unity 7 to launch in Q1 2027; new engine is a "direct continuation" of Unity 6 https://www.gamesindustry.biz/unity-7-to-launch-in-q1-2027-new-engine-is-a-direct-continuation-of-unity-6
 2026-07-21T10:53:33+00:00	Nintendo files motion to dismiss consumer lawsuit over tariff refunds https://www.gamesindustry.biz/nintendo-files-motion-to-dismiss-consumer-lawsuit-over-tariff-refunds
@@ -53,3 +51,5 @@
 2026-07-29T10:18:13+00:00	Subnautica and PUBG franchises drive Krafton Q2 revenue up 94.9% to $889.1m https://www.gamesindustry.biz/subnautica-and-pubg-franchises-drive-krafton-q2-revenue-up-949-to-8891m
 2026-07-29T13:50:23+00:00	Capcom producer says Resident Evil remakes are providing financial support to develop new games and IP https://www.gamesindustry.biz/capcom-producer-says-resident-evil-remakes-are-providing-financial-support-to-develop-new-games-and-ip
 2026-07-29T15:56:07+00:00	"People want to play arcade racers again" – How the developer of Wreckreation went from a company-wide redundancy notice to working on a sequel https://www.gamesindustry.biz/people-want-to-play-arcade-racers-again-how-the-developer-of-wreckreation-went-from-a-company-wide-redundancy-notice-to-working-on-a-sequel
+2026-07-30T08:21:34+00:00	Xbox revenue plunges $1.7bn, with hardware dropping 29% YoY https://www.gamesindustry.biz/xbox-revenue-plunges-17bn-with-hardware-dropping-29-yoy
+2026-07-30T09:41:04+00:00	GTA 6 download codes will expire 170 days after launch in Japan https://www.gamesindustry.biz/gta-6-download-codes-to-expire-170-days-after-launch-in-japan
