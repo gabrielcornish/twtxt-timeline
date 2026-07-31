@@ -4,7 +4,6 @@
 # description = twtxt conversion of https://bearblog.dev/discover/feed/
 
 2026-07-27T06:45:00+00:00	bearblog is not a social media https://actualspine.bearblog.dev/bearblog-is-not-social-media/
-2026-07-27T10:16:00+00:00	Back to Bearblog https://dostoynikov.com/back-to-bearblog/
 2026-07-27T16:13:53.468522+00:00	Your Hell is Someone's Heaven https://livingkindfully.bearblog.dev/your-hell-is-someones-heaven/
 2026-07-27T21:45:00+00:00	Keep posting. https://bx.bearblog.dev/keep-posting/
 2026-07-28T05:15:00+00:00	Things I Want to Actually Run Out Of https://www.hardrefresh.life/things-i-want-to-actually-run-out-of/
@@ -19,6 +18,7 @@
 2026-07-29T17:05:00+00:00	Re: Why I Left Wordpress for BearBlog https://onlinegoddess.net/2026/07/re-why-i-left-wordpress-for-bearblog/
 2026-07-29T17:25:04.313193+00:00	re: notes on overconsumption and instead of a self help book https://bearlyadiary.bearblog.dev/re-notes-on-overconsumption-and-instead-of-a-self-help-book/
 2026-07-29T21:17:00+00:00	Some advice: don't get your elbow tattooed or read things that bother you https://angrybunnyman.com/some-advice-dont-get-your-elbow-tattooed-or-reading-things-that-bother-you/
+2026-07-29T23:40:38.666820+00:00	Re: Online Friends Are Real Friends https://toska.bearblog.dev/re-online-friends-are-real-friends/
 2026-07-30T02:08:00+00:00	Soaking in the slop https://moodywarlock.net/soaking-in-the-slop/
 2026-07-30T14:13:14.165819+00:00	No harm done https://robertbirming.com/no-harm-done/
 2026-07-30T14:22:00+00:00	Goodbye Tech https://blog.aracine.net/goodbye/
