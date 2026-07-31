@@ -8,14 +8,12 @@
 2026-07-30T01:29:08+00:00	NVIDIA reportedly planning 20–30% GPU price hike as DRAM crisis continues https://www.reddit.com/r/Games/comments/1vafhfj/nvidia_reportedly_planning_2030_gpu_price_hike_as/
 2026-07-30T07:35:45+00:00	Path of Exile 2: Shaders and Device Removed Issues Fixed https://www.reddit.com/r/Games/comments/1vamrpw/path_of_exile_2_shaders_and_device_removed_issues/
 2026-07-30T10:15:56+00:00	Control Resonant's gameplay designer has me convinced it'll be a big hit https://www.reddit.com/r/Games/comments/1vapk9s/control_resonants_gameplay_designer_has_me/
-2026-07-30T10:58:25+00:00	Expeditions: Samurai | Gameplay Trailer https://www.reddit.com/r/Games/comments/1vaqcnk/expeditions_samurai_gameplay_trailer/
 2026-07-30T12:01:12+00:00	HELLDIVERS™ 2 x Warhammer 40,000 Legendary Warbond https://www.reddit.com/r/Games/comments/1varmye/helldivers_2_x_warhammer_40000_legendary_warbond/
 2026-07-30T12:19:04+00:00	Guildrun | Official Reveal Trailer https://www.reddit.com/r/Games/comments/1vas182/guildrun_official_reveal_trailer/
 2026-07-30T13:00:25+00:00	Gears of War: E-Day | Official Multiplayer Reveal https://www.reddit.com/r/Games/comments/1vaszx9/gears_of_war_eday_official_multiplayer_reveal/
 2026-07-30T13:43:00+00:00	Gears of War: E-Day Horde Siege | Preview https://www.reddit.com/r/Games/comments/1vau1d5/gears_of_war_eday_horde_siege_preview/
 2026-07-30T13:56:20+00:00	Fallout: New California Released https://www.reddit.com/r/Games/comments/1vaudet/fallout_new_california_released/
 2026-07-30T14:25:45+00:00	The truth behind the resurrection of Poinpy https://www.reddit.com/r/Games/comments/1vav5jv/the_truth_behind_the_resurrection_of_poinpy/
-2026-07-30T14:44:30+00:00	Ways to play Orbitals https://www.reddit.com/r/Games/comments/1vavnlj/ways_to_play_orbitals/
 2026-07-30T16:27:40+00:00	LUMINES REMASTERED | iOS and Android Mobile Launch Trailer https://www.reddit.com/r/Games/comments/1vayidj/lumines_remastered_ios_and_android_mobile_launch/
 2026-07-30T17:23:31+00:00	Star Wars: Galactic Racer Surprised Me With the Dangerous Depth of Its Roguelike Campaign https://www.reddit.com/r/Games/comments/1vb02vq/star_wars_galactic_racer_surprised_me_with_the/
 2026-07-30T18:01:09+00:00	Silly Sausage Buffet [By Nitrome] - Announcement Trailer https://www.reddit.com/r/Games/comments/1vb15kj/silly_sausage_buffet_by_nitrome_announcement/
@@ -28,3 +26,5 @@
 2026-07-30T21:48:13+00:00	EA will officially become a privately owned company next week https://www.reddit.com/r/Games/comments/1vb7dqz/ea_will_officially_become_a_privately_owned/
 2026-07-31T01:02:47+00:00	Super Mario Sunshine is Coming to Nintendo GameCube – Nintendo Classics on Nintendo Switch 2 for Nintendo Switch Online + Expansion Pack on August 13th https://www.reddit.com/r/Games/comments/1vbc16p/super_mario_sunshine_is_coming_to_nintendo/
 2026-07-31T01:32:09+00:00	Enter the Third Dimension! – Virtual Boy – Nintendo Classics https://www.reddit.com/r/Games/comments/1vbcom2/enter_the_third_dimension_virtual_boy_nintendo/
+2026-07-31T05:11:48+00:00	PS5 shipments top 95.3 million https://www.reddit.com/r/Games/comments/1vbhc20/ps5_shipments_top_953_million/
+2026-07-31T05:36:00+00:00	Elder Scrolls Online - A Message from ESO's Game Director https://www.reddit.com/r/Games/comments/1vbht7s/elder_scrolls_online_a_message_from_esos_game/
