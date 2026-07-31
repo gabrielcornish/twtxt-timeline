@@ -7,7 +7,6 @@
 2026-07-30T13:00:25+00:00	Gears of War: E-Day | Official Multiplayer Reveal https://www.reddit.com/r/Games/comments/1vaszx9/gears_of_war_eday_official_multiplayer_reveal/
 2026-07-30T13:56:20+00:00	Fallout: New California Released https://www.reddit.com/r/Games/comments/1vaudet/fallout_new_california_released/
 2026-07-30T17:23:31+00:00	Star Wars: Galactic Racer Surprised Me With the Dangerous Depth of Its Roguelike Campaign https://www.reddit.com/r/Games/comments/1vb02vq/star_wars_galactic_racer_surprised_me_with_the/
-2026-07-30T18:12:23+00:00	Famitsu: Splatoon Raiders was the #1 best selling game in Japan with 474,684 physical units sold this week https://www.reddit.com/r/Games/comments/1vb1hh2/famitsu_splatoon_raiders_was_the_1_best_selling/
 2026-07-30T19:17:25+00:00	Deadlock - Matchmaking Update - Steam News https://www.reddit.com/r/Games/comments/1vb3agc/deadlock_matchmaking_update_steam_news/
 2026-07-30T20:04:19+00:00	Do Not Buy The War Crime N64 - "There's so many ways to play the N64. You do not need to support Palmer Luckey's little project." https://www.reddit.com/r/Games/comments/1vb4l1t/do_not_buy_the_war_crime_n64_theres_so_many_ways/
 2026-07-30T21:48:13+00:00	EA will officially become a privately owned company next week https://www.reddit.com/r/Games/comments/1vb7dqz/ea_will_officially_become_a_privately_owned/
@@ -28,3 +27,4 @@
 2026-07-31T15:53:44+00:00	Interview with the devs behind the cult classic turn-based RPG ‘Deathbulge: Battle Of The Bands' for their first console release! https://www.reddit.com/r/Games/comments/1vbuugo/interview_with_the_devs_behind_the_cult_classic/
 2026-07-31T17:12:16+00:00	Facepunch director Alistair McFarlane, who once offered to buy New World from Amazon and faked us out about Rust 2, has left the company https://www.reddit.com/r/Games/comments/1vbx156/facepunch_director_alistair_mcfarlane_who_once/
 2026-07-31T17:22:15+00:00	Bloomberg: Inside Tencent’s Failed Attempt to Take On ‘Grand Theft Auto’ https://www.reddit.com/r/Games/comments/1vbxb92/bloomberg_inside_tencents_failed_attempt_to_take/
+2026-07-31T22:41:06+00:00	Announcement Trailer: JobLoop (PC Game) https://www.reddit.com/r/Games/comments/1vc5poa/announcement_trailer_jobloop_pc_game/
