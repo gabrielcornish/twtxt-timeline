@@ -4,22 +4,17 @@
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
 2026-07-29T11:00:42+00:00	Daily /r/Games Discussion - Suggest Me a Game - July 29, 2026 https://www.reddit.com/r/Games/comments/1v9svqn/daily_rgames_discussion_suggest_me_a_game_july_29/
-2026-07-30T12:01:12+00:00	HELLDIVERS™ 2 x Warhammer 40,000 Legendary Warbond https://www.reddit.com/r/Games/comments/1varmye/helldivers_2_x_warhammer_40000_legendary_warbond/
 2026-07-30T13:00:25+00:00	Gears of War: E-Day | Official Multiplayer Reveal https://www.reddit.com/r/Games/comments/1vaszx9/gears_of_war_eday_official_multiplayer_reveal/
 2026-07-30T13:56:20+00:00	Fallout: New California Released https://www.reddit.com/r/Games/comments/1vaudet/fallout_new_california_released/
 2026-07-30T17:23:31+00:00	Star Wars: Galactic Racer Surprised Me With the Dangerous Depth of Its Roguelike Campaign https://www.reddit.com/r/Games/comments/1vb02vq/star_wars_galactic_racer_surprised_me_with_the/
 2026-07-30T18:12:23+00:00	Famitsu: Splatoon Raiders was the #1 best selling game in Japan with 474,684 physical units sold this week https://www.reddit.com/r/Games/comments/1vb1hh2/famitsu_splatoon_raiders_was_the_1_best_selling/
-2026-07-30T18:53:28+00:00	The Snakes Saga Trailer - METAL GEAR SOLID: MASTER COLLECTION Vol.2 https://www.reddit.com/r/Games/comments/1vb2mji/the_snakes_saga_trailer_metal_gear_solid_master/
 2026-07-30T19:17:25+00:00	Deadlock - Matchmaking Update - Steam News https://www.reddit.com/r/Games/comments/1vb3agc/deadlock_matchmaking_update_steam_news/
-2026-07-30T19:41:30+00:00	Celebrating Age [of Empires] in 2026 [+ Details on upcoming AoE3+4 DLC, new AoE2 Viking DLC announced] https://www.reddit.com/r/Games/comments/1vb3yg2/celebrating_age_of_empires_in_2026_details_on/
 2026-07-30T20:04:19+00:00	Do Not Buy The War Crime N64 - "There's so many ways to play the N64. You do not need to support Palmer Luckey's little project." https://www.reddit.com/r/Games/comments/1vb4l1t/do_not_buy_the_war_crime_n64_theres_so_many_ways/
 2026-07-30T21:48:13+00:00	EA will officially become a privately owned company next week https://www.reddit.com/r/Games/comments/1vb7dqz/ea_will_officially_become_a_privately_owned/
 2026-07-31T01:02:47+00:00	Super Mario Sunshine is Coming to Nintendo GameCube – Nintendo Classics on Nintendo Switch 2 for Nintendo Switch Online + Expansion Pack on August 13th https://www.reddit.com/r/Games/comments/1vbc16p/super_mario_sunshine_is_coming_to_nintendo/
 2026-07-31T01:32:09+00:00	Enter the Third Dimension! – Virtual Boy – Nintendo Classics https://www.reddit.com/r/Games/comments/1vbcom2/enter_the_third_dimension_virtual_boy_nintendo/
 2026-07-31T05:11:48+00:00	PS5 shipments top 95.3 million https://www.reddit.com/r/Games/comments/1vbhc20/ps5_shipments_top_953_million/
-2026-07-31T05:17:33+00:00	Dota 2 - Summer Scrub & 7.41e https://www.reddit.com/r/Games/comments/1vbhg4b/dota_2_summer_scrub_741e/
 2026-07-31T05:36:00+00:00	Elder Scrolls Online - A Message from ESO's Game Director https://www.reddit.com/r/Games/comments/1vbht7s/elder_scrolls_online_a_message_from_esos_game/
-2026-07-31T05:36:42+00:00	Project: Gorgon - Daily Login Rewards, Situational Awareness Skill, New Animal Models https://www.reddit.com/r/Games/comments/1vbhtpn/project_gorgon_daily_login_rewards_situational/
 2026-07-31T10:00:10+00:00	Sony Not Budging On Ending PlayStation Discs In The Face Of Fan Protests: ‘We’re Going To Cautiously Move This Forward’ https://www.reddit.com/r/Games/comments/1vbml47/sony_not_budging_on_ending_playstation_discs_in/
 2026-07-31T10:00:47+00:00	Daily /r/Games Discussion - Free Talk Friday - July 31, 2026 https://www.reddit.com/r/Games/comments/1vbmll2/daily_rgames_discussion_free_talk_friday_july_31/
 2026-07-31T13:18:00+00:00	Tariff compensation in the USA boosted PlayStation’s profits — and other insights from Sony’s report | Game World Observer https://www.reddit.com/r/Games/comments/1vbqq0o/tariff_compensation_in_the_usa_boosted/
@@ -27,4 +22,9 @@
 2026-07-31T13:43:48+00:00	Shinovi NEXUS: Senran Kagura - Announcement Trailer (new free-to-play game) https://www.reddit.com/r/Games/comments/1vbrd09/shinovi_nexus_senran_kagura_announcement_trailer/
 2026-07-31T13:59:31+00:00	Dragon’s Dogma 2: Dark Arisen - A Q&A with Director Kinoshita & Producer Oyama! :: Dragon's Dogma 2 Events & Announcements https://www.reddit.com/r/Games/comments/1vbrrad/dragons_dogma_2_dark_arisen_a_qa_with_director/
 2026-07-31T14:11:48+00:00	After Final Fantasy VII Revelation’s reveal, the trilogy has been "selling extremely well." Director Naoki Hamaguchi on player feedback, the blessing of a heated fandom, and physical games https://www.reddit.com/r/Games/comments/1vbs3ce/after_final_fantasy_vii_revelations_reveal_the/
-2026-07-31T15:25:35+00:00	Stellar Blade: Blood Rain Dev Shift Up Releases Entirely AI-Generated K-Pop Music Video Starring Evie and Pretty Much Everyone Hates It https://www.reddit.com/r/Games/comments/1vbu2ez/stellar_blade_blood_rain_dev_shift_up_releases/
+2026-07-31T14:56:52+00:00	Version 7.0 "Everwinter Without Mercy" Trailer | Genshin Impact https://www.reddit.com/r/Games/comments/1vbt9wo/version_70_everwinter_without_mercy_trailer/
+2026-07-31T15:31:57+00:00	Corsair Cove Launch Trailer | Pirate City Builder https://www.reddit.com/r/Games/comments/1vbu8sk/corsair_cove_launch_trailer_pirate_city_builder/
+2026-07-31T15:41:32+00:00	AMD is reportedly raising graphics card prices—it was just waiting for Nvidia to do it first https://www.reddit.com/r/Games/comments/1vbui6a/amd_is_reportedly_raising_graphics_card_pricesit/
+2026-07-31T15:53:44+00:00	Interview with the devs behind the cult classic turn-based RPG ‘Deathbulge: Battle Of The Bands' for their first console release! https://www.reddit.com/r/Games/comments/1vbuugo/interview_with_the_devs_behind_the_cult_classic/
+2026-07-31T17:12:16+00:00	Facepunch director Alistair McFarlane, who once offered to buy New World from Amazon and faked us out about Rust 2, has left the company https://www.reddit.com/r/Games/comments/1vbx156/facepunch_director_alistair_mcfarlane_who_once/
+2026-07-31T17:22:15+00:00	Bloomberg: Inside Tencent’s Failed Attempt to Take On ‘Grand Theft Auto’ https://www.reddit.com/r/Games/comments/1vbxb92/bloomberg_inside_tencents_failed_attempt_to_take/
