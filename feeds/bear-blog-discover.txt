@@ -22,4 +22,4 @@
 2026-07-30T02:08:00+00:00	Soaking in the slop https://moodywarlock.net/soaking-in-the-slop/
 2026-07-30T14:13:14.165819+00:00	No harm done https://robertbirming.com/no-harm-done/
 2026-07-30T14:22:00+00:00	Goodbye Tech https://blog.aracine.net/goodbye/
-2026-07-30T16:09:27.980908+00:00	Don’t Say the S-Word on Bear, Apparently https://sebastianmalloy.bearblog.dev/dont-say-the-s-word-on-bear-apparently/
+2026-07-30T16:09:00+00:00	Don’t Say the S-Word on Bear, Apparently (Update: I Was Wrong, So Oops and Hail Satan!) https://sebastianmalloy.bearblog.dev/dont-say-the-s-word-on-bear-apparently/
