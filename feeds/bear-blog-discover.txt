@@ -3,7 +3,6 @@
 # source = https://bearblog.dev/discover/feed/
 # description = twtxt conversion of https://bearblog.dev/discover/feed/
 
-2026-07-27T16:13:53.468522+00:00	Your Hell is Someone's Heaven https://livingkindfully.bearblog.dev/your-hell-is-someones-heaven/
 2026-07-28T05:15:00+00:00	Things I Want to Actually Run Out Of https://www.hardrefresh.life/things-i-want-to-actually-run-out-of/
 2026-07-28T14:42:00+00:00	Why Didn't Silent Titans Change the World? https://valerialoves.com/why-didnt-silent-titans-change-the-world/
 2026-07-28T18:32:00+00:00	you'll pay an emotional price for your inaction https://tala.bearblog.dev/youll-pay-an-emotional-price-for-your-inaction/
@@ -23,3 +22,4 @@
 2026-07-30T13:20:00+00:00	I want more stuff to end, and I'm NOT kidding! https://vidknight.bearblog.dev/i-want-more-stuff-to-end-and-im-not-kidding/
 2026-07-30T14:22:00+00:00	Goodbye Tech https://blog.aracine.net/goodbye/
 2026-07-30T22:43:00+00:00	I fucking love this; you don't https://graybeard.ing/i-fucking-love-this-you-dont/
+2026-08-01T15:21:00+00:00	Blaugust 2026, Year 3 https://notes.jeddacp.com/blaugust-2026-year-3/
