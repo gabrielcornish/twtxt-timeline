@@ -4,8 +4,6 @@
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
 2026-07-29T11:00:42+00:00	Daily /r/Games Discussion - Suggest Me a Game - July 29, 2026 https://www.reddit.com/r/Games/comments/1v9svqn/daily_rgames_discussion_suggest_me_a_game_july_29/
-2026-07-30T17:23:31+00:00	Star Wars: Galactic Racer Surprised Me With the Dangerous Depth of Its Roguelike Campaign https://www.reddit.com/r/Games/comments/1vb02vq/star_wars_galactic_racer_surprised_me_with_the/
-2026-07-30T19:17:25+00:00	Deadlock - Matchmaking Update - Steam News https://www.reddit.com/r/Games/comments/1vb3agc/deadlock_matchmaking_update_steam_news/
 2026-07-30T20:04:19+00:00	Do Not Buy The War Crime N64 - "There's so many ways to play the N64. You do not need to support Palmer Luckey's little project." https://www.reddit.com/r/Games/comments/1vb4l1t/do_not_buy_the_war_crime_n64_theres_so_many_ways/
 2026-07-30T21:48:13+00:00	EA will officially become a privately owned company next week https://www.reddit.com/r/Games/comments/1vb7dqz/ea_will_officially_become_a_privately_owned/
 2026-07-31T01:02:47+00:00	Super Mario Sunshine is Coming to Nintendo GameCube – Nintendo Classics on Nintendo Switch 2 for Nintendo Switch Online + Expansion Pack on August 13th https://www.reddit.com/r/Games/comments/1vbc16p/super_mario_sunshine_is_coming_to_nintendo/
@@ -28,3 +26,5 @@
 2026-07-31T22:41:06+00:00	Announcement Trailer: JobLoop (PC Game) https://www.reddit.com/r/Games/comments/1vc5poa/announcement_trailer_jobloop_pc_game/
 2026-08-01T01:50:55+00:00	Crazy Taxi: World Tour Multiplayer Closed Network Test details revealed: Test 2 online multiplayer modes, Up to 6 players, 2 maps,6 cars, 4 characters, Sept. 11-13 https://www.reddit.com/r/Games/comments/1vca1tn/crazy_taxi_world_tour_multiplayer_closed_network/
 2026-08-01T13:06:23+00:00	What if Stop Killing Games win? Anthem, SpaceCraft and Warframe devs on the "massive undertaking" of reverse engineering an always-online game https://www.reddit.com/r/Games/comments/1vcmybs/what_if_stop_killing_games_win_anthem_spacecraft/
+2026-08-01T14:37:48+00:00	Super Robot Wars Z2.1 (Hakai-hen) remaster + english localization announced. https://www.reddit.com/r/Games/comments/1vcp39h/super_robot_wars_z21_hakaihen_remaster_english/
+2026-08-01T14:57:06+00:00	Halo Campaign Evolved performed well on Xbox, but PS5 gamers give it a collective shrug — just 1% of PS5 gamers tried it, hurting Xbox's brand identity for no real return https://www.reddit.com/r/Games/comments/1vcpjkr/halo_campaign_evolved_performed_well_on_xbox_but/
