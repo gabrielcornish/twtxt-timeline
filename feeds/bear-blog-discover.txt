@@ -3,10 +3,10 @@
 # source = https://bearblog.dev/discover/feed/
 # description = twtxt conversion of https://bearblog.dev/discover/feed/
 
-2026-07-27T16:13:53.468522+00:00	Your Hell is Someone's Heaven https://livingkindfully.bearblog.dev/your-hell-is-someones-heaven/
 2026-07-27T21:45:00+00:00	Keep posting. https://bx.bearblog.dev/keep-posting/
 2026-07-28T05:15:00+00:00	Things I Want to Actually Run Out Of https://www.hardrefresh.life/things-i-want-to-actually-run-out-of/
 2026-07-28T14:42:00+00:00	Why Didn't Silent Titans Change the World? https://valerialoves.com/why-didnt-silent-titans-change-the-world/
+2026-07-28T18:32:00+00:00	you'll pay an emotional price for your inaction https://tala.bearblog.dev/youll-pay-an-emotional-price-for-your-inaction/
 2026-07-28T20:29:00+00:00	notes on overconsumption and instead of a self help book https://noahmickel.com/notes-on-overconsumption-and-instead-of-a-self-help-book/
 2026-07-28T21:00:00+00:00	Why I Left WordPress for BearBlog https://catsandbirdsandstuff.com/why-i-left-wordpress-for-bearblog/
 2026-07-28T21:44:00+00:00	I Can't Stop Thinking About Majora's Mask https://questfortori.bearblog.dev/i-cant-stop-thinking-about-majoras-mask/
@@ -20,6 +20,6 @@
 2026-07-29T23:40:38.666820+00:00	Re: Online Friends Are Real Friends https://toska.bearblog.dev/re-online-friends-are-real-friends/
 2026-07-30T02:08:00+00:00	Soaking in the slop https://moodywarlock.net/soaking-in-the-slop/
 2026-07-30T06:20:00+00:00	The cutest piece of shit camera (and I love it) https://alysterwho.blog/the-cutest-piece-of-shit-camera-and-i-love-it/
+2026-07-30T13:20:00+00:00	I want more stuff to end, and I'm NOT kidding! https://vidknight.bearblog.dev/i-want-more-stuff-to-end-and-im-not-kidding/
 2026-07-30T14:22:00+00:00	Goodbye Tech https://blog.aracine.net/goodbye/
-2026-07-30T20:02:41.265192+00:00	Online Gaming Best Practices https://bluemountain.bearblog.dev/online-gaming-best-practices/
 2026-07-30T22:43:00+00:00	I fucking love this; you don't https://graybeard.ing/i-fucking-love-this-you-dont/
