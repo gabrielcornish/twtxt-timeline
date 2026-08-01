@@ -4,7 +4,6 @@
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
 2026-07-29T11:00:42+00:00	Daily /r/Games Discussion - Suggest Me a Game - July 29, 2026 https://www.reddit.com/r/Games/comments/1v9svqn/daily_rgames_discussion_suggest_me_a_game_july_29/
-2026-07-30T13:56:20+00:00	Fallout: New California Released https://www.reddit.com/r/Games/comments/1vaudet/fallout_new_california_released/
 2026-07-30T17:23:31+00:00	Star Wars: Galactic Racer Surprised Me With the Dangerous Depth of Its Roguelike Campaign https://www.reddit.com/r/Games/comments/1vb02vq/star_wars_galactic_racer_surprised_me_with_the/
 2026-07-30T19:17:25+00:00	Deadlock - Matchmaking Update - Steam News https://www.reddit.com/r/Games/comments/1vb3agc/deadlock_matchmaking_update_steam_news/
 2026-07-30T20:04:19+00:00	Do Not Buy The War Crime N64 - "There's so many ways to play the N64. You do not need to support Palmer Luckey's little project." https://www.reddit.com/r/Games/comments/1vb4l1t/do_not_buy_the_war_crime_n64_theres_so_many_ways/
@@ -28,3 +27,4 @@
 2026-07-31T19:19:26+00:00	A path not taken: Project Anglerfish https://www.reddit.com/r/Games/comments/1vc0i0i/a_path_not_taken_project_anglerfish/
 2026-07-31T22:41:06+00:00	Announcement Trailer: JobLoop (PC Game) https://www.reddit.com/r/Games/comments/1vc5poa/announcement_trailer_jobloop_pc_game/
 2026-08-01T01:50:55+00:00	Crazy Taxi: World Tour Multiplayer Closed Network Test details revealed: Test 2 online multiplayer modes, Up to 6 players, 2 maps,6 cars, 4 characters, Sept. 11-13 https://www.reddit.com/r/Games/comments/1vca1tn/crazy_taxi_world_tour_multiplayer_closed_network/
+2026-08-01T13:06:23+00:00	What if Stop Killing Games win? Anthem, SpaceCraft and Warframe devs on the "massive undertaking" of reverse engineering an always-online game https://www.reddit.com/r/Games/comments/1vcmybs/what_if_stop_killing_games_win_anthem_spacecraft/
