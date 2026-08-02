@@ -3,13 +3,7 @@
 # source = https://www.reddit.com/r/Games.rss
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
-2026-07-29T11:00:42+00:00	Daily /r/Games Discussion - Suggest Me a Game - July 29, 2026 https://www.reddit.com/r/Games/comments/1v9svqn/daily_rgames_discussion_suggest_me_a_game_july_29/
-2026-07-30T21:48:13+00:00	EA will officially become a privately owned company next week https://www.reddit.com/r/Games/comments/1vb7dqz/ea_will_officially_become_a_privately_owned/
 2026-07-31T10:00:10+00:00	Sony Not Budging On Ending PlayStation Discs In The Face Of Fan Protests: ‘We’re Going To Cautiously Move This Forward’ https://www.reddit.com/r/Games/comments/1vbml47/sony_not_budging_on_ending_playstation_discs_in/
-2026-07-31T13:18:00+00:00	Tariff compensation in the USA boosted PlayStation’s profits — and other insights from Sony’s report | Game World Observer https://www.reddit.com/r/Games/comments/1vbqq0o/tariff_compensation_in_the_usa_boosted/
-2026-07-31T13:20:24+00:00	Mortal Shell II - Beta Available Now Trailer | https://www.reddit.com/r/Games/comments/1vbqs21/mortal_shell_ii_beta_available_now_trailer/
-2026-07-31T13:59:31+00:00	Dragon’s Dogma 2: Dark Arisen - A Q&A with Director Kinoshita & Producer Oyama! :: Dragon's Dogma 2 Events & Announcements https://www.reddit.com/r/Games/comments/1vbrrad/dragons_dogma_2_dark_arisen_a_qa_with_director/
-2026-07-31T14:11:48+00:00	After Final Fantasy VII Revelation’s reveal, the trilogy has been "selling extremely well." Director Naoki Hamaguchi on player feedback, the blessing of a heated fandom, and physical games https://www.reddit.com/r/Games/comments/1vbs3ce/after_final_fantasy_vii_revelations_reveal_the/
 2026-07-31T15:31:57+00:00	Corsair Cove Launch Trailer | Pirate City Builder https://www.reddit.com/r/Games/comments/1vbu8sk/corsair_cove_launch_trailer_pirate_city_builder/
 2026-07-31T15:41:32+00:00	AMD is reportedly raising graphics card prices—it was just waiting for Nvidia to do it first https://www.reddit.com/r/Games/comments/1vbui6a/amd_is_reportedly_raising_graphics_card_pricesit/
 2026-07-31T17:12:16+00:00	Facepunch director Alistair McFarlane, who once offered to buy New World from Amazon and faked us out about Rust 2, has left the company https://www.reddit.com/r/Games/comments/1vbx156/facepunch_director_alistair_mcfarlane_who_once/
@@ -28,3 +22,9 @@
 2026-08-02T04:11:51+00:00	One More Plate! - Okawari! - Physics-based couch co-op & VS party game where you serve food to hungry monsters on anything but proper plates https://www.reddit.com/r/Games/comments/1vd7x4i/one_more_plate_okawari_physicsbased_couch_coop_vs/
 2026-08-02T05:30:13+00:00	Zwamman & Incremental Retro Racing - Baardmoeder - Out now with 35% launch discount! https://www.reddit.com/r/Games/comments/1vd9etn/zwamman_incremental_retro_racing_baardmoeder_out/
 2026-08-02T06:12:13+00:00	Steel Maiden - Solo Dev - 2 Finger Action + Roguelite https://www.reddit.com/r/Games/comments/1vda6l1/steel_maiden_solo_dev_2_finger_action_roguelite/
+2026-08-02T08:14:45+00:00	Frost Protocol - Stonewake Studios (SoloDev) - Turnbased SciFi strategy game - XCOM-like stucture: Manage a base and its survivors at daytime and go on expeditions with a powerful squad of customizable combat robots at night. https://www.reddit.com/r/Games/comments/1vdcbvc/frost_protocol_stonewake_studios_solodev/
+2026-08-02T08:26:12+00:00	9 Yin Sutra Immortal - Reveal Trailer https://www.reddit.com/r/Games/comments/1vdciuq/9_yin_sutra_immortal_reveal_trailer/
+2026-08-02T08:36:01+00:00	Xbox console price increases in Europe and UK fully revealed, with Series X now costing €200 more https://www.reddit.com/r/Games/comments/1vdcoo8/xbox_console_price_increases_in_europe_and_uk/
+2026-08-02T08:54:18+00:00	Painted Kingdoms - Hectiq - Tower Defense where you paint, build, and defend your Kingdom of paper from relentless flames https://www.reddit.com/r/Games/comments/1vdczgo/painted_kingdoms_hectiq_tower_defense_where_you/
+2026-08-02T09:00:29+00:00	Weekly /r/Games Discussion - What have you been playing, and what are your thoughts? - August 02, 2026 https://www.reddit.com/r/Games/comments/1vdd39w/weekly_rgames_discussion_what_have_you_been/
+2026-08-02T09:02:57+00:00	Infinity: HexaDome Tactics - [Blindspot Games] - turn-based tactics game inspired by the Infinity tabletop wargame https://www.reddit.com/r/Games/comments/1vdd4vm/infinity_hexadome_tactics_blindspot_games/
