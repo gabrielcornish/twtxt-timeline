@@ -4,7 +4,6 @@
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
 2026-07-31T15:41:32+00:00	AMD is reportedly raising graphics card prices—it was just waiting for Nvidia to do it first https://www.reddit.com/r/Games/comments/1vbui6a/amd_is_reportedly_raising_graphics_card_pricesit/
-2026-07-31T17:22:15+00:00	Bloomberg: Inside Tencent’s Failed Attempt to Take On ‘Grand Theft Auto’ https://www.reddit.com/r/Games/comments/1vbxb92/bloomberg_inside_tencents_failed_attempt_to_take/
 2026-08-01T13:06:23+00:00	What if Stop Killing Games win? Anthem, SpaceCraft and Warframe devs on the "massive undertaking" of reverse engineering an always-online game https://www.reddit.com/r/Games/comments/1vcmybs/what_if_stop_killing_games_win_anthem_spacecraft/
 2026-08-01T14:37:48+00:00	Super Robot Wars Z2.1 (Hakai-hen) remaster + english localization announced. https://www.reddit.com/r/Games/comments/1vcp39h/super_robot_wars_z21_hakaihen_remaster_english/
 2026-08-01T15:27:18+00:00	Indies devs band together for 100-game, $10 bundle aiming to help an "unprecedented number" of laid off developers https://www.reddit.com/r/Games/comments/1vcqa6r/indies_devs_band_together_for_100game_10_bundle/
@@ -15,16 +14,17 @@
 2026-08-02T04:00:43+00:00	Indie Sunday Hub - August 2, 2026 https://www.reddit.com/r/Games/comments/1vd7owv/indie_sunday_hub_august_2_2026/
 2026-08-02T04:11:51+00:00	One More Plate! - Okawari! - Physics-based couch co-op & VS party game where you serve food to hungry monsters on anything but proper plates https://www.reddit.com/r/Games/comments/1vd7x4i/one_more_plate_okawari_physicsbased_couch_coop_vs/
 2026-08-02T08:14:45+00:00	Frost Protocol - Stonewake Studios (SoloDev) - Turnbased SciFi strategy game - XCOM-like stucture: Manage a base and its survivors at daytime and go on expeditions with a powerful squad of customizable combat robots at night. https://www.reddit.com/r/Games/comments/1vdcbvc/frost_protocol_stonewake_studios_solodev/
-2026-08-02T08:28:12+00:00	Infinity: HexaDome Tactics - [Blindspot Games] - turn-based tactics game inspired by the Infinity tabletop wargame. https://www.reddit.com/r/Games/comments/1vdck0o/infinity_hexadome_tactics_blindspot_games/
 2026-08-02T08:36:01+00:00	Xbox console price increases in Europe and UK fully revealed, with Series X now costing €200 more https://www.reddit.com/r/Games/comments/1vdcoo8/xbox_console_price_increases_in_europe_and_uk/
 2026-08-02T08:54:18+00:00	Painted Kingdoms - Hectiq - Tower Defense where you paint, build, and defend your Kingdom of paper from relentless flames https://www.reddit.com/r/Games/comments/1vdczgo/painted_kingdoms_hectiq_tower_defense_where_you/
 2026-08-02T09:00:29+00:00	Weekly /r/Games Discussion - What have you been playing, and what are your thoughts? - August 02, 2026 https://www.reddit.com/r/Games/comments/1vdd39w/weekly_rgames_discussion_what_have_you_been/
 2026-08-02T10:37:57+00:00	Dead Valley Demo V0.3 - akshay33169 - 3D Open World Zombie Shooter https://www.reddit.com/r/Games/comments/1vdeqo6/dead_valley_demo_v03_akshay33169_3d_open_world/
-2026-08-02T10:43:34+00:00	Rain Tactics - Ervya Studios - Cyberpunk Roguelite Tactical RPG where you play an invincible god who oneshot enemies https://www.reddit.com/r/Games/comments/1vdeu70/rain_tactics_ervya_studios_cyberpunk_roguelite/
 2026-08-02T10:59:52+00:00	Ultimate Wizard - Vector Interactive - 3D Survivor roguelite mixed with Path of Exile/Noita's augment system https://www.reddit.com/r/Games/comments/1vdf4ii/ultimate_wizard_vector_interactive_3d_survivor/
 2026-08-02T11:05:38+00:00	The Boss Gangster: Criminal Empire - BEF GAMES - Open-world crime and business management sandbox https://www.reddit.com/r/Games/comments/1vdf8ko/the_boss_gangster_criminal_empire_bef_games/
 2026-08-02T11:09:55+00:00	Ad Iterum - Krapao - A retro grimdark roguelike where you eat your enemies to mutate https://www.reddit.com/r/Games/comments/1vdfbev/ad_iterum_krapao_a_retro_grimdark_roguelike_where/
-2026-08-02T11:51:29+00:00	SCP Idle: SECURE. CONTAIN. PROGRESS. - Ahroma - An incremental management game where you automate SCP experiments and turn containment breaches into progress https://www.reddit.com/r/Games/comments/1vdg2uu/scp_idle_secure_contain_progress_ahroma_an/
 2026-08-02T11:51:51+00:00	What Makes a Hero - Divine Entertainment - A Pixelart "Papers, Please"-genre fantasy shopkeeper game where every customer is a puzzle https://www.reddit.com/r/Games/comments/1vdg342/what_makes_a_hero_divine_entertainment_a_pixelart/
 2026-08-02T12:52:11+00:00	Pumpkin Woods - Enchanted Pumpkin Co. - Witch Open World Survival https://www.reddit.com/r/Games/comments/1vdhbog/pumpkin_woods_enchanted_pumpkin_co_witch_open/
-2026-08-02T13:55:38+00:00	Rain Tactics - Ervya Studios - Cyberpunk Roguelite Tactical RPG where you play an invincible god who oneshot enemies https://www.reddit.com/r/Games/comments/1vdiqde/rain_tactics_ervya_studios_cyberpunk_roguelite/
+2026-08-02T14:31:06+00:00	TappyCat - qs2kgames - Cozy desktop pet & productivity companion https://www.reddit.com/r/Games/comments/1vdjkuj/tappycat_qs2kgames_cozy_desktop_pet_productivity/
+2026-08-02T14:45:58+00:00	Cell #31 - Lasse Malmberg - Twin-Stick Shooter https://www.reddit.com/r/Games/comments/1vdjxl2/cell_31_lasse_malmberg_twinstick_shooter/
+2026-08-02T14:49:08+00:00	Goeland - Maarti Games - be a chaotic (or helpful) seagull on a living island https://www.reddit.com/r/Games/comments/1vdk0cc/goeland_maarti_games_be_a_chaotic_or_helpful/
+2026-08-02T15:13:12+00:00	Burger Smash - Alnutmob - fast-paced singleplayer cooking game https://www.reddit.com/r/Games/comments/1vdklzq/burger_smash_alnutmob_fastpaced_singleplayer/
+2026-08-02T15:28:35+00:00	Crown Control - Melioarc - online co-op RPG roguelike deckbuilder for 1-4 players https://www.reddit.com/r/Games/comments/1vdkzl0/crown_control_melioarc_online_coop_rpg_roguelike/
