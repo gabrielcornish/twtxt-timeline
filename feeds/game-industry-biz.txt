@@ -3,9 +3,6 @@
 # source = https://www.gamesindustry.biz/feed
 # description = twtxt conversion of https://www.gamesindustry.biz/feed
 
-2026-07-22T20:37:44+00:00	Gamescom 2026's exhibition area is fully booked for the first time https://www.gamesindustry.biz/gamescom-2026s-exhibition-area-is-fully-booked-for-the-first-time
-2026-07-23T07:41:46+00:00	Xbox announces backwards compatibility for PC and handheld devices https://www.gamesindustry.biz/xbox-announces-backwards-compatibility-for-pc-and-handheld-devices
-2026-07-23T08:32:27+00:00	The GamesIndustry.biz Summer Party 2026 in photos https://www.gamesindustry.biz/the-gamesindustrybiz-summer-party-2026-in-photos
 2026-07-23T08:58:24+00:00	UK Games Growth Package driving "exceptional demand" one year on from launch https://www.gamesindustry.biz/uk-games-growth-package-driving-exceptional-demand-one-year-on-from-launch
 2026-07-23T10:34:37+00:00	Delphi Interactive's fan-first strategy draws major IP interest following success of James Bond and FIFA https://www.gamesindustry.biz/delphi-interactives-fan-first-strategy-draws-major-ip-interest-following-success-of-james-bond-and-fifa
 2026-07-23T13:00:00+00:00	Inside Amazon's plan to unite games, movies and TV – including "more games in development than at any point in our history" https://www.gamesindustry.biz/now-luna-is-integrated-into-prime-video-amazon-sees-potential-for-gaming-to-expand-beyond-pc-and-console-that-pie-isnt-really-growing
@@ -53,3 +50,6 @@
 2026-07-31T15:21:24+00:00	Xbox is (probably) not for sale | Opinion https://www.gamesindustry.biz/xbox-is-probably-not-for-sale-opinion
 2026-08-03T08:22:06+00:00	Microsoft confirms increased Xbox prices in the UK and Europe https://www.gamesindustry.biz/microsoft-confirms-increased-xbox-prices-in-the-uk-and-europe
 2026-08-03T09:57:28+00:00	Last Sentinel developer Lightspeed LA conducts layoffs, 80 roles reportedly cut https://www.gamesindustry.biz/last-sentinel-developer-lightspeed-la-conducts-layoffs-80-roles-reportedly-cut
+2026-08-03T12:45:46+00:00	Rokky teams up with Revolution Software to bring Broken Sword franchise to China https://www.gamesindustry.biz/rokky-teams-up-with-revolution-software-to-bring-broken-sword-franchise-to-china
+2026-08-03T13:47:44+00:00	AI startup Reforged Labs shuts down as the "gap we were selling into is closing" https://www.gamesindustry.biz/ai-startup-reforged-labs-shuts-down-as-the-gap-we-were-selling-into-is-closing
+2026-08-03T14:59:24+00:00	Ustwo Games was pushed out of mobile by the rise of free-to-play – but the mobile way of doing things is coming to PC https://www.gamesindustry.biz/ustwo-games-was-pushed-out-of-mobile-by-the-rise-of-free-to-play-but-the-mobile-way-of-doing-things-is-coming-to-pc
