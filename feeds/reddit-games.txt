@@ -4,9 +4,7 @@
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
 2026-08-01T15:27:18+00:00	Indies devs band together for 100-game, $10 bundle aiming to help an "unprecedented number" of laid off developers https://www.reddit.com/r/Games/comments/1vcqa6r/indies_devs_band_together_for_100game_10_bundle/
-2026-08-01T15:38:46+00:00	Silent Hill producer says gamers can tell when a company is "just testing the waters," so playing it safe would've doomed the series' comeback - AUTOMATON WEST https://www.reddit.com/r/Games/comments/1vcqkb6/silent_hill_producer_says_gamers_can_tell_when_a/
 2026-08-01T15:52:35+00:00	Xbox reportedly wanted disc support on Project Helix console as advantage over PS6 https://www.reddit.com/r/Games/comments/1vcqwgt/xbox_reportedly_wanted_disc_support_on_project/
-2026-08-02T08:14:45+00:00	Frost Protocol - Stonewake Studios (SoloDev) - Turnbased SciFi strategy game - XCOM-like stucture: Manage a base and its survivors at daytime and go on expeditions with a powerful squad of customizable combat robots at night. https://www.reddit.com/r/Games/comments/1vdcbvc/frost_protocol_stonewake_studios_solodev/
 2026-08-02T08:36:01+00:00	Xbox console price increases in Europe and UK fully revealed, with Series X now costing €200 more https://www.reddit.com/r/Games/comments/1vdcoo8/xbox_console_price_increases_in_europe_and_uk/
 2026-08-02T09:00:29+00:00	Weekly /r/Games Discussion - What have you been playing, and what are your thoughts? - August 02, 2026 https://www.reddit.com/r/Games/comments/1vdd39w/weekly_rgames_discussion_what_have_you_been/
 2026-08-02T11:51:51+00:00	What Makes a Hero - Divine Entertainment - A Pixelart "Papers, Please"-genre fantasy shopkeeper game where every customer is a puzzle https://www.reddit.com/r/Games/comments/1vdg342/what_makes_a_hero_divine_entertainment_a_pixelart/
@@ -28,3 +26,5 @@
 2026-08-03T18:37:36+00:00	Kamaitachi no Yoru, a legendary murder-mystery sound novel developed by Chunsoft (later known as Spike Chunsoft), has received a SNES English fan translation https://www.reddit.com/r/Games/comments/1velxt7/kamaitachi_no_yoru_a_legendary_murdermystery/
 2026-08-03T19:43:45+00:00	AC Black Flag Resynced Title Update 1.0.6 – Patch Notes https://www.reddit.com/r/Games/comments/1venr53/ac_black_flag_resynced_title_update_106_patch/
 2026-08-03T19:45:11+00:00	New details on Pokémon Pokopia's DLC update reveal an anti-motion sickness feature https://www.reddit.com/r/Games/comments/1vensi3/new_details_on_pokémon_pokopias_dlc_update_reveal/
+2026-08-03T20:03:37+00:00	Jason Schreier: The Video Game Publisher (Annapurna) That Lost Its Entire Staff Overnight https://www.reddit.com/r/Games/comments/1veoauv/jason_schreier_the_video_game_publisher_annapurna/
+2026-08-03T20:37:13+00:00	Mighty No. 9 10 years later https://www.reddit.com/r/Games/comments/1vep7ml/mighty_no_9_10_years_later/
