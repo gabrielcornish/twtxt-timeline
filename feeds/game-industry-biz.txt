@@ -3,8 +3,6 @@
 # source = https://www.gamesindustry.biz/feed
 # description = twtxt conversion of https://www.gamesindustry.biz/feed
 
-2026-07-22T16:41:27+00:00	Hasbro records $56m write-down and cancels "several games" scheduled for 2028 and beyond https://www.gamesindustry.biz/hasbro-records-56m-write-down-and-cancels-several-games-scheduled-for-2028-and-beyond
-2026-07-22T17:26:25+00:00	Despite Xbox console sales doubling YoY, hardware sales across the US are down 62% | US Monthly Charts https://www.gamesindustry.biz/despite-xbox-console-sales-doubling-yoy-hardware-sales-across-the-us-are-down-62-us-monthly-charts
 2026-07-22T20:37:44+00:00	Gamescom 2026's exhibition area is fully booked for the first time https://www.gamesindustry.biz/gamescom-2026s-exhibition-area-is-fully-booked-for-the-first-time
 2026-07-23T07:41:46+00:00	Xbox announces backwards compatibility for PC and handheld devices https://www.gamesindustry.biz/xbox-announces-backwards-compatibility-for-pc-and-handheld-devices
 2026-07-23T08:32:27+00:00	The GamesIndustry.biz Summer Party 2026 in photos https://www.gamesindustry.biz/the-gamesindustrybiz-summer-party-2026-in-photos
@@ -53,3 +51,5 @@
 2026-07-31T12:59:19+00:00	Unity announces dedicated engine support for Netflix Games https://www.gamesindustry.biz/unity-announces-dedicated-engine-for-netflix-games
 2026-07-31T13:40:23+00:00	"We will not live on past successes or be trapped by past failures" – Xbox CEO outlines priorities to turn platform around in FY27 https://www.gamesindustry.biz/we-will-not-live-on-past-successes-or-be-trapped-by-past-failures-xbox-ceo-outlines-priorities-to-turn-platform-around-in-fy27
 2026-07-31T15:21:24+00:00	Xbox is (probably) not for sale | Opinion https://www.gamesindustry.biz/xbox-is-probably-not-for-sale-opinion
+2026-08-03T08:22:06+00:00	Microsoft confirms increased Xbox prices in the UK and Europe https://www.gamesindustry.biz/microsoft-confirms-increased-xbox-prices-in-the-uk-and-europe
+2026-08-03T09:57:28+00:00	Last Sentinel developer Lightspeed LA conducts layoffs, 80 roles reportedly cut https://www.gamesindustry.biz/last-sentinel-developer-lightspeed-la-conducts-layoffs-80-roles-reportedly-cut

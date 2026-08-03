@@ -4,6 +4,7 @@
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
 2026-08-01T13:06:23+00:00	What if Stop Killing Games win? Anthem, SpaceCraft and Warframe devs on the "massive undertaking" of reverse engineering an always-online game https://www.reddit.com/r/Games/comments/1vcmybs/what_if_stop_killing_games_win_anthem_spacecraft/
+2026-08-01T14:37:48+00:00	Super Robot Wars Z2.1 (Hakai-hen) remaster + english localization announced. https://www.reddit.com/r/Games/comments/1vcp39h/super_robot_wars_z21_hakaihen_remaster_english/
 2026-08-01T15:27:18+00:00	Indies devs band together for 100-game, $10 bundle aiming to help an "unprecedented number" of laid off developers https://www.reddit.com/r/Games/comments/1vcqa6r/indies_devs_band_together_for_100game_10_bundle/
 2026-08-01T15:38:46+00:00	Silent Hill producer says gamers can tell when a company is "just testing the waters," so playing it safe would've doomed the series' comeback - AUTOMATON WEST https://www.reddit.com/r/Games/comments/1vcqkb6/silent_hill_producer_says_gamers_can_tell_when_a/
 2026-08-01T15:52:35+00:00	Xbox reportedly wanted disc support on Project Helix console as advantage over PS6 https://www.reddit.com/r/Games/comments/1vcqwgt/xbox_reportedly_wanted_disc_support_on_project/
@@ -14,8 +15,10 @@
 2026-08-02T08:54:18+00:00	Painted Kingdoms - Hectiq - Tower Defense where you paint, build, and defend your Kingdom of paper from relentless flames https://www.reddit.com/r/Games/comments/1vdczgo/painted_kingdoms_hectiq_tower_defense_where_you/
 2026-08-02T09:00:29+00:00	Weekly /r/Games Discussion - What have you been playing, and what are your thoughts? - August 02, 2026 https://www.reddit.com/r/Games/comments/1vdd39w/weekly_rgames_discussion_what_have_you_been/
 2026-08-02T11:51:51+00:00	What Makes a Hero - Divine Entertainment - A Pixelart "Papers, Please"-genre fantasy shopkeeper game where every customer is a puzzle https://www.reddit.com/r/Games/comments/1vdg342/what_makes_a_hero_divine_entertainment_a_pixelart/
+2026-08-02T12:52:11+00:00	Pumpkin Woods - Enchanted Pumpkin Co. - Witch Open World Survival https://www.reddit.com/r/Games/comments/1vdhbog/pumpkin_woods_enchanted_pumpkin_co_witch_open/
 2026-08-02T14:49:08+00:00	Goeland - Maarti Games - be a chaotic (or helpful) seagull on a living island https://www.reddit.com/r/Games/comments/1vdk0cc/goeland_maarti_games_be_a_chaotic_or_helpful/
 2026-08-02T16:25:09+00:00	Anomaly President - Phew Phew Games - Chaotic Presidential Roguelike https://www.reddit.com/r/Games/comments/1vdmf3n/anomaly_president_phew_phew_games_chaotic/
+2026-08-02T17:03:26+00:00	Alchemickal - rodbot - a skill-based action roguelite where you wreak havoc with alchemy https://www.reddit.com/r/Games/comments/1vdndh2/alchemickal_rodbot_a_skillbased_action_roguelite/
 2026-08-02T17:14:23+00:00	How 80s University Computer Groups influenced Japanese Gaming https://www.reddit.com/r/Games/comments/1vdnnig/how_80s_university_computer_groups_influenced/
 2026-08-02T18:06:57+00:00	Paper Perjury - Paper Cat games -An Ace Attorney inspired mystery game https://www.reddit.com/r/Games/comments/1vdozti/paper_perjury_paper_cat_games_an_ace_attorney/
 2026-08-02T18:08:54+00:00	NET.CRAWL - Everyone is Solid - A hacking puzzle roguelike in original cyber world. 1.0 Release tomorrow. https://www.reddit.com/r/Games/comments/1vdp1o8/netcrawl_everyone_is_solid_a_hacking_puzzle/
@@ -24,7 +27,4 @@
 2026-08-03T02:03:23+00:00	Mancalero - ArchiusDev - A strategy roguelike deckbuilder based on the boardgame Mancala https://www.reddit.com/r/Games/comments/1ve0bkh/mancalero_archiusdev_a_strategy_roguelike/
 2026-08-03T03:03:23+00:00	Forge of the Fae - Extended Gameplay Showcase https://www.reddit.com/r/Games/comments/1ve1kg1/forge_of_the_fae_extended_gameplay_showcase/
 2026-08-03T03:14:34+00:00	Star Spark - JoyFlow Games - A roguelite deckbuilder centered around a fighting tournament (inspired by DBZ: Legendary Super Warriors) https://www.reddit.com/r/Games/comments/1ve1som/star_spark_joyflow_games_a_roguelite_deckbuilder/
-2026-08-03T06:15:10+00:00	[UNSOLVED] Discover A Glitch For $300 | Ratchet: Deadlocked Multiplayer https://www.reddit.com/r/Games/comments/1ve57m0/unsolved_discover_a_glitch_for_300_ratchet/
-2026-08-03T06:38:39+00:00	Nordic - Sunday Mondays - A cross-country skiing game you can play with your friends! https://www.reddit.com/r/Games/comments/1ve5mar/nordic_sunday_mondays_a_crosscountry_skiing_game/
 2026-08-03T06:46:33+00:00	Palworld Online announced for iOS and Android https://www.reddit.com/r/Games/comments/1ve5r9p/palworld_online_announced_for_ios_and_android/
-2026-08-03T07:20:57+00:00	Beast of Reincarnation shows Game Freak has more to learn https://www.reddit.com/r/Games/comments/1ve6dgn/beast_of_reincarnation_shows_game_freak_has_more/
