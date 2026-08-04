@@ -3,8 +3,6 @@
 # source = https://bearblog.dev/discover/feed/
 # description = twtxt conversion of https://bearblog.dev/discover/feed/
 
-2026-07-29T21:17:00+00:00	Some advice: don't get your elbow tattooed or read things that bother you https://angrybunnyman.com/some-advice-dont-get-your-elbow-tattooed-or-reading-things-that-bother-you/
-2026-07-29T23:40:38.666820+00:00	Re: Online Friends Are Real Friends https://toska.bearblog.dev/re-online-friends-are-real-friends/
 2026-07-30T06:20:00+00:00	The cutest piece of shit camera (and I love it) https://alysterwho.blog/the-cutest-piece-of-shit-camera-and-i-love-it/
 2026-07-30T13:20:00+00:00	I want more stuff to end, and I'm NOT kidding! https://vidknight.bearblog.dev/i-want-more-stuff-to-end-and-im-not-kidding/
 2026-07-30T22:43:00+00:00	I fucking love this; you don't https://graybeard.ing/i-fucking-love-this-you-dont/
@@ -18,7 +16,9 @@
 2026-08-01T23:47:00+00:00	The story of my blog (AuguStory) https://departure.blog/story-of-my-blog/
 2026-08-02T06:45:00+00:00	My city is on fire and the sky is choked with smoke https://bonkposting.online/my-city-is-on-fire/
 2026-08-02T20:19:00+00:00	More Time in Nature https://notes.jeddacp.com/more-time-in-nature/
+2026-08-03T06:53:00+00:00	I have now been in a second tunnel https://blog.lauramichet.com/i-have-now-been-in-a-second-tunnel/
 2026-08-03T14:05:00+00:00	I Don't think Bearblog is a social media platform and that's ok https://blog.curiousquail.com/i-dont-think-bearblog-is-a-social-media-platform-and-thats-ok/
+2026-08-03T15:24:00+00:00	Things I believed as a child https://departure.blog/things-i-believed-as-a-child/
 2026-08-03T18:02:00+00:00	surveillance state stalking 1/? https://combatdavey.net/flock-police-surveillance/
 2026-08-03T18:30:00+00:00	2 years later and I'm still confused. https://siobhan.bearblog.dev/2-years-later-and-im-still-confused/
 2026-08-03T19:03:20.156244+00:00	Returning to Familiar Places https://notes.jeddacp.com/returning-to-familiar-places/

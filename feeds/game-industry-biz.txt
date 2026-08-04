@@ -3,9 +3,6 @@
 # source = https://www.gamesindustry.biz/feed
 # description = twtxt conversion of https://www.gamesindustry.biz/feed
 
-2026-07-23T13:06:55+00:00	ESA Foundation awards 31 university students scholarships to support careers in games and esports https://www.gamesindustry.biz/esa-foundation-awards-31-university-students-scholarships-to-support-careers-in-games-and-esports
-2026-07-23T13:39:10+00:00	Amazon clarifies stance on 007: First Light sequel – "Given the success of this one, I think you probably want IOI developing it" https://www.gamesindustry.biz/amazon-clarifies-stance-on-007-first-light-sequel-given-the-success-of-this-one-i-think-you-probably-want-ioi-developing-it
-2026-07-23T14:48:27+00:00	Union accuses Bethesda of violating labour laws in Canada following layoffs at Montreal studio https://www.gamesindustry.biz/union-accuses-bethesda-of-violating-labour-laws-in-canada-following-layoffs-at-montreal-studio
 2026-07-24T07:08:08+00:00	Microsoft starts testing ad-supported game streaming on Xbox https://www.gamesindustry.biz/microsoft-starts-testing-ad-supported-game-streaming-on-xbox
 2026-07-24T08:08:59+00:00	EU Commission approves $55bn EA buyout, says it "would not raise competition concerns" https://www.gamesindustry.biz/eu-commission-approves-55bn-ea-buyout-says-it-would-not-raise-competition-concerns
 2026-07-24T09:23:00+00:00	Ubisoft Q1 net bookings down 9.2%, attributes drop to "high comparison base" from same period last year https://www.gamesindustry.biz/ubisoft-q1-net-bookings-down-92-attributes-drop-to-high-comparison-base-from-same-period-last-year
@@ -53,3 +50,6 @@
 2026-08-03T19:44:13+00:00	Atari's core business returns to profit, but consolidated group posts $5.5m net loss as Thunderful drags on results https://www.gamesindustry.biz/ataris-core-business-returns-to-profit-but-consolidated-group-posts-55m-net-loss-as-thunderful-drags-on-results
 2026-08-03T20:15:39+00:00	FIFA World Cup developer Refactor Games cuts 85% of staff https://www.gamesindustry.biz/fifa-world-cup-developer-refactor-games-reportedly-shuttered-by-delphi-interactive
 2026-08-04T09:47:52+00:00	Roblox's reported user numbers will make it subject to additional EU legislation for regulating social networks https://www.gamesindustry.biz/robloxs-reported-user-numbers-will-make-it-subject-to-additional-eu-legislation-for-regulating-social-networks
+2026-08-04T11:00:00+00:00	The industry makes great games, but nobody can find them https://www.gamesindustry.biz/the-industry-makes-great-games-but-nobody-can-find-them
+2026-08-04T12:00:00+00:00	FirstLook launches creator-first platform Creators.gg with launch partners IO Interactive and Brain Jar Games https://www.gamesindustry.biz/firstlook-launches-creator-first-platform-creatorsgg-with-launch-partners-io-interactive-and-brain-jar-games
+2026-08-04T12:15:35+00:00	Ex-Sumo Group CEO Carl Cavers joins co-dev studio Vertpaint as non-exec director and shareholder https://www.gamesindustry.biz/ex-sumo-group-ceo-carl-cavers-joins-co-dev-studio-vertpaint-as-non-exec-director-and-shareholder

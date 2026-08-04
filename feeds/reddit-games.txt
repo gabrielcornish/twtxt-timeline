@@ -7,10 +7,8 @@
 2026-08-02T09:00:29+00:00	Weekly /r/Games Discussion - What have you been playing, and what are your thoughts? - August 02, 2026 https://www.reddit.com/r/Games/comments/1vdd39w/weekly_rgames_discussion_what_have_you_been/
 2026-08-02T17:14:23+00:00	How 80s University Computer Groups influenced Japanese Gaming https://www.reddit.com/r/Games/comments/1vdnnig/how_80s_university_computer_groups_influenced/
 2026-08-02T18:06:57+00:00	Paper Perjury - Paper Cat games -An Ace Attorney inspired mystery game https://www.reddit.com/r/Games/comments/1vdozti/paper_perjury_paper_cat_games_an_ace_attorney/
-2026-08-02T20:18:49+00:00	Alia Domus - Solo Developer - Isometric Survival RPG across 9 Technological Eras https://www.reddit.com/r/Games/comments/1vdseld/alia_domus_solo_developer_isometric_survival_rpg/
 2026-08-03T00:36:00+00:00	Raze The Realm - Solo dev - Large-scale roguelite strategy inspired by Total War https://www.reddit.com/r/Games/comments/1vdygxv/raze_the_realm_solo_dev_largescale_roguelite/
 2026-08-03T03:03:23+00:00	Forge of the Fae - Extended Gameplay Showcase https://www.reddit.com/r/Games/comments/1ve1kg1/forge_of_the_fae_extended_gameplay_showcase/
-2026-08-03T03:14:34+00:00	Star Spark - JoyFlow Games - A roguelite deckbuilder centered around a fighting tournament (inspired by DBZ: Legendary Super Warriors) https://www.reddit.com/r/Games/comments/1ve1som/star_spark_joyflow_games_a_roguelite_deckbuilder/
 2026-08-03T06:46:33+00:00	Palworld Online announced for iOS and Android https://www.reddit.com/r/Games/comments/1ve5r9p/palworld_online_announced_for_ios_and_android/
 2026-08-03T13:10:17+00:00	Big Walk - Review Thread https://www.reddit.com/r/Games/comments/1ved07j/big_walk_review_thread/
 2026-08-03T13:47:11+00:00	Fire Emblem: Fortune’s Weave Direct 8.4.2026 | Nintendo Today! https://www.reddit.com/r/Games/comments/1vedxia/fire_emblem_fortunes_weave_direct_842026_nintendo/
@@ -20,7 +18,6 @@
 2026-08-03T17:43:44+00:00	Microsoft is bringing Xbox 360 games to PC https://www.reddit.com/r/Games/comments/1vekfl8/microsoft_is_bringing_xbox_360_games_to_pc/
 2026-08-03T18:37:36+00:00	Kamaitachi no Yoru, a legendary murder-mystery sound novel developed by Chunsoft (later known as Spike Chunsoft), has received a SNES English fan translation https://www.reddit.com/r/Games/comments/1velxt7/kamaitachi_no_yoru_a_legendary_murdermystery/
 2026-08-03T19:43:45+00:00	AC Black Flag Resynced Title Update 1.0.6 – Patch Notes https://www.reddit.com/r/Games/comments/1venr53/ac_black_flag_resynced_title_update_106_patch/
-2026-08-03T19:45:11+00:00	New details on Pokémon Pokopia's DLC update reveal an anti-motion sickness feature https://www.reddit.com/r/Games/comments/1vensi3/new_details_on_pokémon_pokopias_dlc_update_reveal/
 2026-08-03T20:03:37+00:00	Jason Schreier: The Video Game Publisher (Annapurna) That Lost Its Entire Staff Overnight https://www.reddit.com/r/Games/comments/1veoauv/jason_schreier_the_video_game_publisher_annapurna/
 2026-08-03T20:37:13+00:00	Mighty No. 9 10 years later https://www.reddit.com/r/Games/comments/1vep7ml/mighty_no_9_10_years_later/
 2026-08-03T22:12:04+00:00	Ladder Lad - Official Game Announcement Trailer https://www.reddit.com/r/Games/comments/1verp75/ladder_lad_official_game_announcement_trailer/
@@ -28,3 +25,6 @@
 2026-08-04T00:01:09+00:00	Beast of Reincarnation Review Thread https://www.reddit.com/r/Games/comments/1veuba1/beast_of_reincarnation_review_thread/
 2026-08-04T04:01:04+00:00	Gears of War: E-Day Open Beta Details & FAQ https://www.reddit.com/r/Games/comments/1vezkrf/gears_of_war_eday_open_beta_details_faq/
 2026-08-04T06:52:24+00:00	MARVEL Tōkon: Fighting Souls | Hulk Character Guide https://www.reddit.com/r/Games/comments/1vf2qt4/marvel_tōkon_fighting_souls_hulk_character_guide/
+2026-08-04T11:14:50+00:00	Dungeon Lurker Demo Trailer https://www.reddit.com/r/Games/comments/1vf7edt/dungeon_lurker_demo_trailer/
+2026-08-04T12:18:08+00:00	Ojiro Fumoto's "Poinpy" Is Free, Because of Kids [Interview] https://www.reddit.com/r/Games/comments/1vf8pry/ojiro_fumotos_poinpy_is_free_because_of_kids/
+2026-08-04T12:19:10+00:00	Lootdeck - Offical Announcement Trailer https://www.reddit.com/r/Games/comments/1vf8qko/lootdeck_offical_announcement_trailer/
