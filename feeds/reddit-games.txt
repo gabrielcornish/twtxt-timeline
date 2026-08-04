@@ -3,7 +3,6 @@
 # source = https://www.reddit.com/r/Games.rss
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
-2026-08-01T15:52:35+00:00	Xbox reportedly wanted disc support on Project Helix console as advantage over PS6 https://www.reddit.com/r/Games/comments/1vcqwgt/xbox_reportedly_wanted_disc_support_on_project/
 2026-08-02T08:36:01+00:00	Xbox console price increases in Europe and UK fully revealed, with Series X now costing €200 more https://www.reddit.com/r/Games/comments/1vdcoo8/xbox_console_price_increases_in_europe_and_uk/
 2026-08-02T09:00:29+00:00	Weekly /r/Games Discussion - What have you been playing, and what are your thoughts? - August 02, 2026 https://www.reddit.com/r/Games/comments/1vdd39w/weekly_rgames_discussion_what_have_you_been/
 2026-08-02T17:14:23+00:00	How 80s University Computer Groups influenced Japanese Gaming https://www.reddit.com/r/Games/comments/1vdnnig/how_80s_university_computer_groups_influenced/
@@ -28,3 +27,4 @@
 2026-08-03T22:12:04+00:00	Ladder Lad - Official Game Announcement Trailer https://www.reddit.com/r/Games/comments/1verp75/ladder_lad_official_game_announcement_trailer/
 2026-08-03T23:14:42+00:00	Random: "What In The Name Of Copyright Infringement Is This Madness?" - Intellivision Amico Box Showcasing Nintendo Art Surfaces Online https://www.reddit.com/r/Games/comments/1vet7vt/random_what_in_the_name_of_copyright_infringement/
 2026-08-04T00:01:09+00:00	Beast of Reincarnation Review Thread https://www.reddit.com/r/Games/comments/1veuba1/beast_of_reincarnation_review_thread/
+2026-08-04T04:01:04+00:00	Gears of War: E-Day Open Beta Details & FAQ https://www.reddit.com/r/Games/comments/1vezkrf/gears_of_war_eday_open_beta_details_faq/
