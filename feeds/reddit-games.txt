@@ -3,12 +3,7 @@
 # source = https://www.reddit.com/r/Games.rss
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
-2026-08-02T08:36:01+00:00	Xbox console price increases in Europe and UK fully revealed, with Series X now costing €200 more https://www.reddit.com/r/Games/comments/1vdcoo8/xbox_console_price_increases_in_europe_and_uk/
 2026-08-02T09:00:29+00:00	Weekly /r/Games Discussion - What have you been playing, and what are your thoughts? - August 02, 2026 https://www.reddit.com/r/Games/comments/1vdd39w/weekly_rgames_discussion_what_have_you_been/
-2026-08-02T17:14:23+00:00	How 80s University Computer Groups influenced Japanese Gaming https://www.reddit.com/r/Games/comments/1vdnnig/how_80s_university_computer_groups_influenced/
-2026-08-02T18:06:57+00:00	Paper Perjury - Paper Cat games -An Ace Attorney inspired mystery game https://www.reddit.com/r/Games/comments/1vdozti/paper_perjury_paper_cat_games_an_ace_attorney/
-2026-08-03T00:36:00+00:00	Raze The Realm - Solo dev - Large-scale roguelite strategy inspired by Total War https://www.reddit.com/r/Games/comments/1vdygxv/raze_the_realm_solo_dev_largescale_roguelite/
-2026-08-03T03:03:23+00:00	Forge of the Fae - Extended Gameplay Showcase https://www.reddit.com/r/Games/comments/1ve1kg1/forge_of_the_fae_extended_gameplay_showcase/
 2026-08-03T06:46:33+00:00	Palworld Online announced for iOS and Android https://www.reddit.com/r/Games/comments/1ve5r9p/palworld_online_announced_for_ios_and_android/
 2026-08-03T13:10:17+00:00	Big Walk - Review Thread https://www.reddit.com/r/Games/comments/1ved07j/big_walk_review_thread/
 2026-08-03T13:47:11+00:00	Fire Emblem: Fortune’s Weave Direct 8.4.2026 | Nintendo Today! https://www.reddit.com/r/Games/comments/1vedxia/fire_emblem_fortunes_weave_direct_842026_nintendo/
@@ -28,3 +23,8 @@
 2026-08-04T11:14:50+00:00	Dungeon Lurker Demo Trailer https://www.reddit.com/r/Games/comments/1vf7edt/dungeon_lurker_demo_trailer/
 2026-08-04T12:18:08+00:00	Ojiro Fumoto's "Poinpy" Is Free, Because of Kids [Interview] https://www.reddit.com/r/Games/comments/1vf8pry/ojiro_fumotos_poinpy_is_free_because_of_kids/
 2026-08-04T12:19:10+00:00	Lootdeck - Offical Announcement Trailer https://www.reddit.com/r/Games/comments/1vf8qko/lootdeck_offical_announcement_trailer/
+2026-08-04T13:04:37+00:00	1.0 Release Date Trailer | ENDLESS Legend™ 2 https://www.reddit.com/r/Games/comments/1vf9sr1/10_release_date_trailer_endless_legend_2/
+2026-08-04T13:05:33+00:00	Jurassic World Evolution 3's Crocodilia Coast DLC Introduces a Giant Prehistoric Crocodile and More Surprising Species https://www.reddit.com/r/Games/comments/1vf9tic/jurassic_world_evolution_3s_crocodilia_coast_dlc/
+2026-08-04T13:44:42+00:00	Minecraft Is Helping Kids Redesign Their Cities https://www.reddit.com/r/Games/comments/1vfasb4/minecraft_is_helping_kids_redesign_their_cities/
+2026-08-04T13:46:36+00:00	Fire Emblem: Fortune’s Weave Direct 8.4.2026 https://www.reddit.com/r/Games/comments/1vfau3i/fire_emblem_fortunes_weave_direct_842026/
+2026-08-04T14:31:08+00:00	FINAL FANTASY XIV for Nintendo Switch 2 now available https://www.reddit.com/r/Games/comments/1vfc0t0/final_fantasy_xiv_for_nintendo_switch_2_now/
