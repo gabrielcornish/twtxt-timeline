@@ -4,18 +4,12 @@
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
 2026-08-02T09:00:29+00:00	Weekly /r/Games Discussion - What have you been playing, and what are your thoughts? - August 02, 2026 https://www.reddit.com/r/Games/comments/1vdd39w/weekly_rgames_discussion_what_have_you_been/
-2026-08-03T06:46:33+00:00	Palworld Online announced for iOS and Android https://www.reddit.com/r/Games/comments/1ve5r9p/palworld_online_announced_for_ios_and_android/
 2026-08-03T13:10:17+00:00	Big Walk - Review Thread https://www.reddit.com/r/Games/comments/1ved07j/big_walk_review_thread/
 2026-08-03T13:47:11+00:00	Fire Emblem: Fortune’s Weave Direct 8.4.2026 | Nintendo Today! https://www.reddit.com/r/Games/comments/1vedxia/fire_emblem_fortunes_weave_direct_842026_nintendo/
-2026-08-03T14:50:17+00:00	Attack on Titan 3 Official Release Date Announcement Broadcast https://www.reddit.com/r/Games/comments/1vefltz/attack_on_titan_3_official_release_date/
-2026-08-03T15:58:51+00:00	World War 3, the F2P Battlefield competitor from 2018, shuts its servers today https://www.reddit.com/r/Games/comments/1vehho9/world_war_3_the_f2p_battlefield_competitor_from/
 2026-08-03T16:06:43+00:00	Indie game bundle saving buyers over $1,000 in support of laid off developers has raised over $100,000 in three days https://www.reddit.com/r/Games/comments/1vehpwi/indie_game_bundle_saving_buyers_over_1000_in/
 2026-08-03T17:43:44+00:00	Microsoft is bringing Xbox 360 games to PC https://www.reddit.com/r/Games/comments/1vekfl8/microsoft_is_bringing_xbox_360_games_to_pc/
 2026-08-03T18:37:36+00:00	Kamaitachi no Yoru, a legendary murder-mystery sound novel developed by Chunsoft (later known as Spike Chunsoft), has received a SNES English fan translation https://www.reddit.com/r/Games/comments/1velxt7/kamaitachi_no_yoru_a_legendary_murdermystery/
-2026-08-03T19:43:45+00:00	AC Black Flag Resynced Title Update 1.0.6 – Patch Notes https://www.reddit.com/r/Games/comments/1venr53/ac_black_flag_resynced_title_update_106_patch/
 2026-08-03T20:03:37+00:00	Jason Schreier: The Video Game Publisher (Annapurna) That Lost Its Entire Staff Overnight https://www.reddit.com/r/Games/comments/1veoauv/jason_schreier_the_video_game_publisher_annapurna/
-2026-08-03T20:37:13+00:00	Mighty No. 9 10 years later https://www.reddit.com/r/Games/comments/1vep7ml/mighty_no_9_10_years_later/
-2026-08-03T22:12:04+00:00	Ladder Lad - Official Game Announcement Trailer https://www.reddit.com/r/Games/comments/1verp75/ladder_lad_official_game_announcement_trailer/
 2026-08-03T23:14:42+00:00	Random: "What In The Name Of Copyright Infringement Is This Madness?" - Intellivision Amico Box Showcasing Nintendo Art Surfaces Online https://www.reddit.com/r/Games/comments/1vet7vt/random_what_in_the_name_of_copyright_infringement/
 2026-08-04T00:01:09+00:00	Beast of Reincarnation Review Thread https://www.reddit.com/r/Games/comments/1veuba1/beast_of_reincarnation_review_thread/
 2026-08-04T04:01:04+00:00	Gears of War: E-Day Open Beta Details & FAQ https://www.reddit.com/r/Games/comments/1vezkrf/gears_of_war_eday_open_beta_details_faq/
@@ -28,3 +22,9 @@
 2026-08-04T13:44:42+00:00	Minecraft Is Helping Kids Redesign Their Cities https://www.reddit.com/r/Games/comments/1vfasb4/minecraft_is_helping_kids_redesign_their_cities/
 2026-08-04T13:46:36+00:00	Fire Emblem: Fortune’s Weave Direct 8.4.2026 https://www.reddit.com/r/Games/comments/1vfau3i/fire_emblem_fortunes_weave_direct_842026/
 2026-08-04T14:31:08+00:00	FINAL FANTASY XIV for Nintendo Switch 2 now available https://www.reddit.com/r/Games/comments/1vfc0t0/final_fantasy_xiv_for_nintendo_switch_2_now/
+2026-08-04T15:37:55+00:00	Quasimorph Is Out Now in 1.0! https://www.reddit.com/r/Games/comments/1vfdv3e/quasimorph_is_out_now_in_10/
+2026-08-04T15:54:40+00:00	Big Walk is available now as an August PlayStation Plus Monthly Game https://www.reddit.com/r/Games/comments/1vfebjn/big_walk_is_available_now_as_an_august/
+2026-08-04T16:02:30+00:00	'It Would Be a Real Shame for That Culture to Disappear': Final Fantasy 7 Revelation Director Says Physical Game Releases Must Continue https://www.reddit.com/r/Games/comments/1vfejhp/it_would_be_a_real_shame_for_that_culture_to/
+2026-08-04T16:14:37+00:00	Korea. IL-2 Series — Release Trailer https://www.reddit.com/r/Games/comments/1vfevo9/korea_il2_series_release_trailer/
+2026-08-04T17:00:52+00:00	Humble Choice August 2026 - Like a Dragon: Infinite Wealth, Teenage Mutant Ninja Turtles: Shredder's Revenge Ultimate Edition, Dead Cells + DLC and more https://www.reddit.com/r/Games/comments/1vfg70w/humble_choice_august_2026_like_a_dragon_infinite/
+2026-08-04T17:28:42+00:00	The Hood | Character Reveal Trailer | Marvel Rivals https://www.reddit.com/r/Games/comments/1vfgzwr/the_hood_character_reveal_trailer_marvel_rivals/
