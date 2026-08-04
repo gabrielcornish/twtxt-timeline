@@ -4,14 +4,11 @@
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
 2026-08-02T09:00:29+00:00	Weekly /r/Games Discussion - What have you been playing, and what are your thoughts? - August 02, 2026 https://www.reddit.com/r/Games/comments/1vdd39w/weekly_rgames_discussion_what_have_you_been/
-2026-08-03T13:47:11+00:00	Fire Emblem: Fortune’s Weave Direct 8.4.2026 | Nintendo Today! https://www.reddit.com/r/Games/comments/1vedxia/fire_emblem_fortunes_weave_direct_842026_nintendo/
 2026-08-03T16:06:43+00:00	Indie game bundle saving buyers over $1,000 in support of laid off developers has raised over $100,000 in three days https://www.reddit.com/r/Games/comments/1vehpwi/indie_game_bundle_saving_buyers_over_1000_in/
 2026-08-03T17:43:44+00:00	Microsoft is bringing Xbox 360 games to PC https://www.reddit.com/r/Games/comments/1vekfl8/microsoft_is_bringing_xbox_360_games_to_pc/
 2026-08-03T20:03:37+00:00	Jason Schreier: The Video Game Publisher (Annapurna) That Lost Its Entire Staff Overnight https://www.reddit.com/r/Games/comments/1veoauv/jason_schreier_the_video_game_publisher_annapurna/
-2026-08-03T23:14:42+00:00	Random: "What In The Name Of Copyright Infringement Is This Madness?" - Intellivision Amico Box Showcasing Nintendo Art Surfaces Online https://www.reddit.com/r/Games/comments/1vet7vt/random_what_in_the_name_of_copyright_infringement/
 2026-08-04T00:01:09+00:00	Beast of Reincarnation Review Thread https://www.reddit.com/r/Games/comments/1veuba1/beast_of_reincarnation_review_thread/
 2026-08-04T04:01:04+00:00	Gears of War: E-Day Open Beta Details & FAQ https://www.reddit.com/r/Games/comments/1vezkrf/gears_of_war_eday_open_beta_details_faq/
-2026-08-04T06:52:24+00:00	MARVEL Tōkon: Fighting Souls | Hulk Character Guide https://www.reddit.com/r/Games/comments/1vf2qt4/marvel_tōkon_fighting_souls_hulk_character_guide/
 2026-08-04T11:14:50+00:00	Dungeon Lurker Demo Trailer https://www.reddit.com/r/Games/comments/1vf7edt/dungeon_lurker_demo_trailer/
 2026-08-04T12:18:08+00:00	Ojiro Fumoto's "Poinpy" Is Free, Because of Kids [Interview] https://www.reddit.com/r/Games/comments/1vf8pry/ojiro_fumotos_poinpy_is_free_because_of_kids/
 2026-08-04T12:19:10+00:00	Lootdeck - Offical Announcement Trailer https://www.reddit.com/r/Games/comments/1vf8qko/lootdeck_offical_announcement_trailer/
@@ -28,3 +25,6 @@
 2026-08-04T17:28:42+00:00	The Hood | Character Reveal Trailer | Marvel Rivals https://www.reddit.com/r/Games/comments/1vfgzwr/the_hood_character_reveal_trailer_marvel_rivals/
 2026-08-04T18:12:21+00:00	We are Blue Bottle Games, the team behind Ostranauts (1.0 Out Now). Ask us anything! https://www.reddit.com/r/Games/comments/1vfi8v8/we_are_blue_bottle_games_the_team_behind/
 2026-08-04T18:22:57+00:00	Marvel Rivals Season 9.5 Cuts Install Size on PC and Consoles https://www.reddit.com/r/Games/comments/1vfijtx/marvel_rivals_season_95_cuts_install_size_on_pc/
+2026-08-04T19:29:24+00:00	Mafia: The Old Country - Man of Honor Gameplay First Look https://www.reddit.com/r/Games/comments/1vfkdtq/mafia_the_old_country_man_of_honor_gameplay_first/
+2026-08-04T20:30:48+00:00	EA Announces Completion of Acquisition by PIF, Silver Lake, and Affinity Partners https://www.reddit.com/r/Games/comments/1vfm363/ea_announces_completion_of_acquisition_by_pif/
+2026-08-04T21:17:00+00:00	Tomb Raider: Legacy of Atlantis - Puzzles & Traps https://www.reddit.com/r/Games/comments/1vfnbke/tomb_raider_legacy_of_atlantis_puzzles_traps/
