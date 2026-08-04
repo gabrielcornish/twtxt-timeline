@@ -4,11 +4,9 @@
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
 2026-08-02T09:00:29+00:00	Weekly /r/Games Discussion - What have you been playing, and what are your thoughts? - August 02, 2026 https://www.reddit.com/r/Games/comments/1vdd39w/weekly_rgames_discussion_what_have_you_been/
-2026-08-03T13:10:17+00:00	Big Walk - Review Thread https://www.reddit.com/r/Games/comments/1ved07j/big_walk_review_thread/
 2026-08-03T13:47:11+00:00	Fire Emblem: Fortune’s Weave Direct 8.4.2026 | Nintendo Today! https://www.reddit.com/r/Games/comments/1vedxia/fire_emblem_fortunes_weave_direct_842026_nintendo/
 2026-08-03T16:06:43+00:00	Indie game bundle saving buyers over $1,000 in support of laid off developers has raised over $100,000 in three days https://www.reddit.com/r/Games/comments/1vehpwi/indie_game_bundle_saving_buyers_over_1000_in/
 2026-08-03T17:43:44+00:00	Microsoft is bringing Xbox 360 games to PC https://www.reddit.com/r/Games/comments/1vekfl8/microsoft_is_bringing_xbox_360_games_to_pc/
-2026-08-03T18:37:36+00:00	Kamaitachi no Yoru, a legendary murder-mystery sound novel developed by Chunsoft (later known as Spike Chunsoft), has received a SNES English fan translation https://www.reddit.com/r/Games/comments/1velxt7/kamaitachi_no_yoru_a_legendary_murdermystery/
 2026-08-03T20:03:37+00:00	Jason Schreier: The Video Game Publisher (Annapurna) That Lost Its Entire Staff Overnight https://www.reddit.com/r/Games/comments/1veoauv/jason_schreier_the_video_game_publisher_annapurna/
 2026-08-03T23:14:42+00:00	Random: "What In The Name Of Copyright Infringement Is This Madness?" - Intellivision Amico Box Showcasing Nintendo Art Surfaces Online https://www.reddit.com/r/Games/comments/1vet7vt/random_what_in_the_name_of_copyright_infringement/
 2026-08-04T00:01:09+00:00	Beast of Reincarnation Review Thread https://www.reddit.com/r/Games/comments/1veuba1/beast_of_reincarnation_review_thread/
@@ -28,3 +26,5 @@
 2026-08-04T16:14:37+00:00	Korea. IL-2 Series — Release Trailer https://www.reddit.com/r/Games/comments/1vfevo9/korea_il2_series_release_trailer/
 2026-08-04T17:00:52+00:00	Humble Choice August 2026 - Like a Dragon: Infinite Wealth, Teenage Mutant Ninja Turtles: Shredder's Revenge Ultimate Edition, Dead Cells + DLC and more https://www.reddit.com/r/Games/comments/1vfg70w/humble_choice_august_2026_like_a_dragon_infinite/
 2026-08-04T17:28:42+00:00	The Hood | Character Reveal Trailer | Marvel Rivals https://www.reddit.com/r/Games/comments/1vfgzwr/the_hood_character_reveal_trailer_marvel_rivals/
+2026-08-04T18:12:21+00:00	We are Blue Bottle Games, the team behind Ostranauts (1.0 Out Now). Ask us anything! https://www.reddit.com/r/Games/comments/1vfi8v8/we_are_blue_bottle_games_the_team_behind/
+2026-08-04T18:22:57+00:00	Marvel Rivals Season 9.5 Cuts Install Size on PC and Consoles https://www.reddit.com/r/Games/comments/1vfijtx/marvel_rivals_season_95_cuts_install_size_on_pc/
