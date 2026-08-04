@@ -4,7 +4,6 @@
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
 2026-08-02T09:00:29+00:00	Weekly /r/Games Discussion - What have you been playing, and what are your thoughts? - August 02, 2026 https://www.reddit.com/r/Games/comments/1vdd39w/weekly_rgames_discussion_what_have_you_been/
-2026-08-03T16:06:43+00:00	Indie game bundle saving buyers over $1,000 in support of laid off developers has raised over $100,000 in three days https://www.reddit.com/r/Games/comments/1vehpwi/indie_game_bundle_saving_buyers_over_1000_in/
 2026-08-03T17:43:44+00:00	Microsoft is bringing Xbox 360 games to PC https://www.reddit.com/r/Games/comments/1vekfl8/microsoft_is_bringing_xbox_360_games_to_pc/
 2026-08-03T20:03:37+00:00	Jason Schreier: The Video Game Publisher (Annapurna) That Lost Its Entire Staff Overnight https://www.reddit.com/r/Games/comments/1veoauv/jason_schreier_the_video_game_publisher_annapurna/
 2026-08-04T00:01:09+00:00	Beast of Reincarnation Review Thread https://www.reddit.com/r/Games/comments/1veuba1/beast_of_reincarnation_review_thread/
@@ -28,3 +27,4 @@
 2026-08-04T19:29:24+00:00	Mafia: The Old Country - Man of Honor Gameplay First Look https://www.reddit.com/r/Games/comments/1vfkdtq/mafia_the_old_country_man_of_honor_gameplay_first/
 2026-08-04T20:30:48+00:00	EA Announces Completion of Acquisition by PIF, Silver Lake, and Affinity Partners https://www.reddit.com/r/Games/comments/1vfm363/ea_announces_completion_of_acquisition_by_pif/
 2026-08-04T21:17:00+00:00	Tomb Raider: Legacy of Atlantis - Puzzles & Traps https://www.reddit.com/r/Games/comments/1vfnbke/tomb_raider_legacy_of_atlantis_puzzles_traps/
+2026-08-04T23:06:31+00:00	GitHub - BlackLabelHQ/SymphonyRecomp: Recompilation project for Castlevania: Symphony of the Night - Released and playable https://www.reddit.com/r/Games/comments/1vfq1np/github_blacklabelhqsymphonyrecomp_recompilation/
