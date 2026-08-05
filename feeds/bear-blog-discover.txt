@@ -3,7 +3,6 @@
 # source = https://bearblog.dev/discover/feed/
 # description = twtxt conversion of https://bearblog.dev/discover/feed/
 
-2026-07-30T06:20:00+00:00	The cutest piece of shit camera (and I love it) https://alysterwho.blog/the-cutest-piece-of-shit-camera-and-i-love-it/
 2026-08-01T09:22:00+00:00	popular narrative says that we are all doomed. i refuse to be doomed https://skuka.online/popular-narrative-says-that-we-are-all-doomed-i-refuse-to-be-doomed/
 2026-08-01T14:18:00+00:00	AuguStory, the story of your blog https://robertbirming.com/augustory-story-blog/
 2026-08-01T14:35:00+00:00	💌 Newsletter #013 - On the Genie 🧞, its Biases, and Going Rogue https://technically-good.ca/newsletter/013-2026-08-01/
@@ -23,3 +22,4 @@
 2026-08-04T23:42:00+00:00	It's my birthday! Here's my wishlist https://folkmoss.bearblog.dev/its-my-birthday/
 2026-08-05T01:49:13.792203+00:00	Do you feel like unplugging? https://moodywarlock.net/do-you-feel-like-unplugging/
 2026-08-05T12:04:00+00:00	Committing to creativity https://herman.bearblog.dev/creativity/
+2026-08-05T16:25:26.523773+00:00	My baby nephew and AI https://folkmoss.bearblog.dev/my-baby-nephew-and-ai/
