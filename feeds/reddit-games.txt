@@ -3,28 +3,28 @@
 # source = https://www.reddit.com/r/Games.rss
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
-2026-08-04T12:18:08+00:00	Ojiro Fumoto's "Poinpy" Is Free, Because of Kids [Interview] https://www.reddit.com/r/Games/comments/1vf8pry/ojiro_fumotos_poinpy_is_free_because_of_kids/
-2026-08-04T12:19:10+00:00	Lootdeck - Offical Announcement Trailer https://www.reddit.com/r/Games/comments/1vf8qko/lootdeck_offical_announcement_trailer/
 2026-08-04T13:04:37+00:00	1.0 Release Date Trailer | ENDLESS Legend™ 2 https://www.reddit.com/r/Games/comments/1vf9sr1/10_release_date_trailer_endless_legend_2/
 2026-08-04T13:46:36+00:00	Fire Emblem: Fortune’s Weave Direct 8.4.2026 https://www.reddit.com/r/Games/comments/1vfau3i/fire_emblem_fortunes_weave_direct_842026/
 2026-08-04T14:31:08+00:00	FINAL FANTASY XIV for Nintendo Switch 2 now available https://www.reddit.com/r/Games/comments/1vfc0t0/final_fantasy_xiv_for_nintendo_switch_2_now/
 2026-08-04T15:37:55+00:00	Quasimorph Is Out Now in 1.0! https://www.reddit.com/r/Games/comments/1vfdv3e/quasimorph_is_out_now_in_10/
-2026-08-04T15:54:40+00:00	Big Walk is available now as an August PlayStation Plus Monthly Game https://www.reddit.com/r/Games/comments/1vfebjn/big_walk_is_available_now_as_an_august/
 2026-08-04T16:02:30+00:00	'It Would Be a Real Shame for That Culture to Disappear': Final Fantasy 7 Revelation Director Says Physical Game Releases Must Continue https://www.reddit.com/r/Games/comments/1vfejhp/it_would_be_a_real_shame_for_that_culture_to/
-2026-08-04T17:00:52+00:00	Humble Choice August 2026 - Like a Dragon: Infinite Wealth, Teenage Mutant Ninja Turtles: Shredder's Revenge Ultimate Edition, Dead Cells + DLC and more https://www.reddit.com/r/Games/comments/1vfg70w/humble_choice_august_2026_like_a_dragon_infinite/
 2026-08-04T17:28:42+00:00	The Hood | Character Reveal Trailer | Marvel Rivals https://www.reddit.com/r/Games/comments/1vfgzwr/the_hood_character_reveal_trailer_marvel_rivals/
-2026-08-04T18:12:21+00:00	We are Blue Bottle Games, the team behind Ostranauts (1.0 Out Now). Ask us anything! https://www.reddit.com/r/Games/comments/1vfi8v8/we_are_blue_bottle_games_the_team_behind/
 2026-08-04T18:22:57+00:00	Marvel Rivals Season 9.5 Cuts Install Size on PC and Consoles https://www.reddit.com/r/Games/comments/1vfijtx/marvel_rivals_season_95_cuts_install_size_on_pc/
 2026-08-04T19:29:24+00:00	Mafia: The Old Country - Man of Honor Gameplay First Look https://www.reddit.com/r/Games/comments/1vfkdtq/mafia_the_old_country_man_of_honor_gameplay_first/
 2026-08-04T20:30:48+00:00	EA Announces Completion of Acquisition by PIF, Silver Lake, and Affinity Partners https://www.reddit.com/r/Games/comments/1vfm363/ea_announces_completion_of_acquisition_by_pif/
-2026-08-04T21:17:00+00:00	Tomb Raider: Legacy of Atlantis - Puzzles & Traps https://www.reddit.com/r/Games/comments/1vfnbke/tomb_raider_legacy_of_atlantis_puzzles_traps/
 2026-08-04T23:06:31+00:00	GitHub - BlackLabelHQ/SymphonyRecomp: Recompilation project for Castlevania: Symphony of the Night - Released and playable https://www.reddit.com/r/Games/comments/1vfq1np/github_blacklabelhqsymphonyrecomp_recompilation/
 2026-08-04T23:24:08+00:00	Batman: Caped Crusader - Chronicles: Official Announcement Trailer https://www.reddit.com/r/Games/comments/1vfqgq7/batman_caped_crusader_chronicles_official/
 2026-08-04T23:41:33+00:00	Isle of Reveries: OFFICIAL TRAILER https://www.reddit.com/r/Games/comments/1vfqv3u/isle_of_reveries_official_trailer/
-2026-08-04T23:43:57+00:00	Cat Me If You Can - Release Date Announcement https://www.reddit.com/r/Games/comments/1vfqx43/cat_me_if_you_can_release_date_announcement/
 2026-08-05T03:38:15+00:00	Dead As Disco - Official Midsummer Update Trailer https://www.reddit.com/r/Games/comments/1vfw33k/dead_as_disco_official_midsummer_update_trailer/
 2026-08-05T07:01:04+00:00	Ostranauts 1.0 - Official Launch Trailer https://www.reddit.com/r/Games/comments/1vfzwz2/ostranauts_10_official_launch_trailer/
 2026-08-05T07:26:48+00:00	Pokémon Pokopia Version 2.0 Patch Notes https://www.reddit.com/r/Games/comments/1vg0dg1/pokémon_pokopia_version_20_patch_notes/
 2026-08-05T09:31:05+00:00	Here's how we sped up PS3 emulation on ARM by 60% https://www.reddit.com/r/Games/comments/1vg2h3s/heres_how_we_sped_up_ps3_emulation_on_arm_by_60/
 2026-08-05T11:00:42+00:00	Daily /r/Games Discussion - Suggest Me a Game - August 05, 2026 https://www.reddit.com/r/Games/comments/1vg45i2/daily_rgames_discussion_suggest_me_a_game_august/
 2026-08-05T11:45:26+00:00	Roblox loses $70 billion in value as company blames lack of viral games https://www.reddit.com/r/Games/comments/1vg51tf/roblox_loses_70_billion_in_value_as_company/
+2026-08-05T12:32:08+00:00	Assassin’s Creed Valhalla’s director has returned to Ubisoft, is now game director for the Assassin’s Creed brand https://www.reddit.com/r/Games/comments/1vg621b/assassins_creed_valhallas_director_has_returned/
+2026-08-05T13:10:15+00:00	Moonlighter 2: The Endless Vault | Date Reveal Trailer https://www.reddit.com/r/Games/comments/1vg6y4j/moonlighter_2_the_endless_vault_date_reveal/
+2026-08-05T14:11:51+00:00	Game Freak promises Beast of Reincarnation improvements following mixed reviews, starting with "story pacing improvements" within a week: "We take your feedback to heart" https://www.reddit.com/r/Games/comments/1vg8i0z/game_freak_promises_beast_of_reincarnation/
+2026-08-05T14:42:03+00:00	Face the Unknown - Helldivers 2 https://www.reddit.com/r/Games/comments/1vg9aiy/face_the_unknown_helldivers_2/
+2026-08-05T14:58:15+00:00	EA's annual Ebitda is around $1.5 billion, which should be enough to service the interest payments. But the publisher has told debt investors that it will cut $700 million in annual costs including $170 million in "organizational efficiencies," per Bloomberg. In other words: mass layoffs https://www.reddit.com/r/Games/comments/1vg9q8a/eas_annual_ebitda_is_around_15_billion_which/
+2026-08-05T14:59:09+00:00	Jason Schreier - The Truth Behind Sexual Harassment At Blizzard https://www.reddit.com/r/Games/comments/1vg9r30/jason_schreier_the_truth_behind_sexual_harassment/
+2026-08-05T15:23:59+00:00	Our Approach to Playable Species in Guild Wars 3 https://www.reddit.com/r/Games/comments/1vgagat/our_approach_to_playable_species_in_guild_wars_3/
