@@ -3,7 +3,6 @@
 # source = https://www.gamesindustry.biz/feed
 # description = twtxt conversion of https://www.gamesindustry.biz/feed
 
-2026-07-24T16:23:28+00:00	After half a decade of job losses, there is no "business as usual" | Opinion https://www.gamesindustry.biz/after-half-a-decade-of-job-losses-there-is-no-business-as-usual-opinion
 2026-07-27T08:51:45+00:00	Why new EU deepfake legislation means games need to be careful when featuring real-world people and locations https://www.gamesindustry.biz/why-new-eu-deepfake-legislation-means-games-need-to-be-careful-when-featuring-real-world-people-and-locations
 2026-07-27T11:57:03+00:00	John Romero announced as keynote speaker for Gamescom Asia x Thailand Game Show https://www.gamesindustry.biz/john-romero-announced-as-keynote-speaker-for-gamescom-asia-x-thailand-game-show
 2026-07-27T14:49:36+00:00	"This is us speaking to the world" – Why London is keen to host esports events like the Valorant Masters https://www.gamesindustry.biz/this-is-us-speaking-to-the-world-why-london-is-keen-to-host-esports-events-like-the-valorant-masters
@@ -53,3 +52,4 @@
 2026-08-05T10:57:10+00:00	Jobs roundup: August 2026 | Three new hires at Yogscast Games https://www.gamesindustry.biz/jobs-roundup-august-2026-three-new-hires-at-yogscast-games
 2026-08-05T13:11:29+00:00	Silver Lining Interactive launches first title from its development label Silver Bullet https://www.gamesindustry.biz/silver-lining-interactive-launches-first-title-from-its-development-label-silver-bullet
 2026-08-05T16:21:44+00:00	Phasmophobia developer's indie label Kinetic Publishing to reveal debut slate at showcase later this month https://www.gamesindustry.biz/phasmophobia-developers-indie-label-kinetic-publishing-to-reveal-debut-slate-at-showcase-this-august
+2026-08-05T18:41:43+00:00	King declines collective bargaining agreement with Swedish unions https://www.gamesindustry.biz/king-declines-collective-bargaining-agreement-with-swedish-unions
