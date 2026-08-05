@@ -3,18 +3,12 @@
 # source = https://www.reddit.com/r/Games.rss
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
-2026-08-04T13:04:37+00:00	1.0 Release Date Trailer | ENDLESS Legend™ 2 https://www.reddit.com/r/Games/comments/1vf9sr1/10_release_date_trailer_endless_legend_2/
 2026-08-04T13:46:36+00:00	Fire Emblem: Fortune’s Weave Direct 8.4.2026 https://www.reddit.com/r/Games/comments/1vfau3i/fire_emblem_fortunes_weave_direct_842026/
-2026-08-04T14:31:08+00:00	FINAL FANTASY XIV for Nintendo Switch 2 now available https://www.reddit.com/r/Games/comments/1vfc0t0/final_fantasy_xiv_for_nintendo_switch_2_now/
-2026-08-04T15:37:55+00:00	Quasimorph Is Out Now in 1.0! https://www.reddit.com/r/Games/comments/1vfdv3e/quasimorph_is_out_now_in_10/
 2026-08-04T16:02:30+00:00	'It Would Be a Real Shame for That Culture to Disappear': Final Fantasy 7 Revelation Director Says Physical Game Releases Must Continue https://www.reddit.com/r/Games/comments/1vfejhp/it_would_be_a_real_shame_for_that_culture_to/
-2026-08-04T17:28:42+00:00	The Hood | Character Reveal Trailer | Marvel Rivals https://www.reddit.com/r/Games/comments/1vfgzwr/the_hood_character_reveal_trailer_marvel_rivals/
 2026-08-04T18:22:57+00:00	Marvel Rivals Season 9.5 Cuts Install Size on PC and Consoles https://www.reddit.com/r/Games/comments/1vfijtx/marvel_rivals_season_95_cuts_install_size_on_pc/
-2026-08-04T19:29:24+00:00	Mafia: The Old Country - Man of Honor Gameplay First Look https://www.reddit.com/r/Games/comments/1vfkdtq/mafia_the_old_country_man_of_honor_gameplay_first/
 2026-08-04T20:30:48+00:00	EA Announces Completion of Acquisition by PIF, Silver Lake, and Affinity Partners https://www.reddit.com/r/Games/comments/1vfm363/ea_announces_completion_of_acquisition_by_pif/
 2026-08-04T23:06:31+00:00	GitHub - BlackLabelHQ/SymphonyRecomp: Recompilation project for Castlevania: Symphony of the Night - Released and playable https://www.reddit.com/r/Games/comments/1vfq1np/github_blacklabelhqsymphonyrecomp_recompilation/
 2026-08-04T23:24:08+00:00	Batman: Caped Crusader - Chronicles: Official Announcement Trailer https://www.reddit.com/r/Games/comments/1vfqgq7/batman_caped_crusader_chronicles_official/
-2026-08-04T23:41:33+00:00	Isle of Reveries: OFFICIAL TRAILER https://www.reddit.com/r/Games/comments/1vfqv3u/isle_of_reveries_official_trailer/
 2026-08-05T03:38:15+00:00	Dead As Disco - Official Midsummer Update Trailer https://www.reddit.com/r/Games/comments/1vfw33k/dead_as_disco_official_midsummer_update_trailer/
 2026-08-05T07:01:04+00:00	Ostranauts 1.0 - Official Launch Trailer https://www.reddit.com/r/Games/comments/1vfzwz2/ostranauts_10_official_launch_trailer/
 2026-08-05T07:26:48+00:00	Pokémon Pokopia Version 2.0 Patch Notes https://www.reddit.com/r/Games/comments/1vg0dg1/pokémon_pokopia_version_20_patch_notes/
@@ -27,4 +21,10 @@
 2026-08-05T14:42:03+00:00	Face the Unknown - Helldivers 2 https://www.reddit.com/r/Games/comments/1vg9aiy/face_the_unknown_helldivers_2/
 2026-08-05T14:58:15+00:00	EA's annual Ebitda is around $1.5 billion, which should be enough to service the interest payments. But the publisher has told debt investors that it will cut $700 million in annual costs including $170 million in "organizational efficiencies," per Bloomberg. In other words: mass layoffs https://www.reddit.com/r/Games/comments/1vg9q8a/eas_annual_ebitda_is_around_15_billion_which/
 2026-08-05T14:59:09+00:00	Jason Schreier - The Truth Behind Sexual Harassment At Blizzard https://www.reddit.com/r/Games/comments/1vg9r30/jason_schreier_the_truth_behind_sexual_harassment/
+2026-08-05T15:18:56+00:00	The games industry’s obsession with visual fidelity is costing them money and talent https://www.reddit.com/r/Games/comments/1vgab32/the_games_industrys_obsession_with_visual/
 2026-08-05T15:23:59+00:00	Our Approach to Playable Species in Guild Wars 3 https://www.reddit.com/r/Games/comments/1vgagat/our_approach_to_playable_species_in_guild_wars_3/
+2026-08-05T15:38:25+00:00	Fallen Tear : The Ascension | Official Full Release Date Announcement https://www.reddit.com/r/Games/comments/1vgauj4/fallen_tear_the_ascension_official_full_release/
+2026-08-05T15:38:54+00:00	"If Quantic Dream wants to destroy jobs, it must pay": French union call strike as they demand extension to layoff negotiations with Star Wars Eclipse studio https://www.reddit.com/r/Games/comments/1vgav1f/if_quantic_dream_wants_to_destroy_jobs_it_must/
+2026-08-05T16:10:36+00:00	Fields of Mistria's 1.0 Update & Patch Notes are here! https://www.reddit.com/r/Games/comments/1vgbr71/fields_of_mistrias_10_update_patch_notes_are_here/
+2026-08-05T16:33:18+00:00	EA’s Saudi takeover will be "a real waste" if it turns the publishers into a "sequel-and-mega-franchise machine", Helldivers 2 studio boss says https://www.reddit.com/r/Games/comments/1vgceib/eas_saudi_takeover_will_be_a_real_waste_if_it/
+2026-08-05T17:35:47+00:00	Confirmed: Xbox 'Platinum' completion achievements are coming "later this year" https://www.reddit.com/r/Games/comments/1vge5zd/confirmed_xbox_platinum_completion_achievements/
