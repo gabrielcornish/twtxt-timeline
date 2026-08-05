@@ -3,7 +3,6 @@
 # source = https://www.gamesindustry.biz/feed
 # description = twtxt conversion of https://www.gamesindustry.biz/feed
 
-2026-07-24T07:08:08+00:00	Microsoft starts testing ad-supported game streaming on Xbox https://www.gamesindustry.biz/microsoft-starts-testing-ad-supported-game-streaming-on-xbox
 2026-07-24T08:08:59+00:00	EU Commission approves $55bn EA buyout, says it "would not raise competition concerns" https://www.gamesindustry.biz/eu-commission-approves-55bn-ea-buyout-says-it-would-not-raise-competition-concerns
 2026-07-24T09:23:00+00:00	Ubisoft Q1 net bookings down 9.2%, attributes drop to "high comparison base" from same period last year https://www.gamesindustry.biz/ubisoft-q1-net-bookings-down-92-attributes-drop-to-high-comparison-base-from-same-period-last-year
 2026-07-24T10:50:17+00:00	Meccha Chameleon ranks second behind Fortnite in PC revenue for June | Newzoo charts https://www.gamesindustry.biz/meccha-chameleon-ranks-second-behind-fortnite-in-pc-revenue-for-june-newzoo-charts
@@ -53,3 +52,4 @@
 2026-08-04T11:00:00+00:00	The industry makes great games, but nobody can find them https://www.gamesindustry.biz/the-industry-makes-great-games-but-nobody-can-find-them
 2026-08-04T12:00:00+00:00	FirstLook launches creator-first platform Creators.gg with launch partners IO Interactive and Brain Jar Games https://www.gamesindustry.biz/firstlook-launches-creator-first-platform-creatorsgg-with-launch-partners-io-interactive-and-brain-jar-games
 2026-08-04T12:15:35+00:00	Ex-Sumo Group CEO Carl Cavers joins co-dev studio Vertpaint as non-exec director and shareholder https://www.gamesindustry.biz/ex-sumo-group-ceo-carl-cavers-joins-co-dev-studio-vertpaint-as-non-exec-director-and-shareholder
+2026-08-05T05:00:00+00:00	Secret Mode opens new Sheffield studio to support internal titles, starting with Escape the Backrooms and Chained Together https://www.gamesindustry.biz/secret-mode-opens-new-sheffield-studio-to-support-internal-titles-starting-with-escape-the-backrooms-and-chained-together
