@@ -5,14 +5,11 @@
 
 2026-08-02T09:00:29+00:00	Weekly /r/Games Discussion - What have you been playing, and what are your thoughts? - August 02, 2026 https://www.reddit.com/r/Games/comments/1vdd39w/weekly_rgames_discussion_what_have_you_been/
 2026-08-03T17:43:44+00:00	Microsoft is bringing Xbox 360 games to PC https://www.reddit.com/r/Games/comments/1vekfl8/microsoft_is_bringing_xbox_360_games_to_pc/
-2026-08-03T20:03:37+00:00	Jason Schreier: The Video Game Publisher (Annapurna) That Lost Its Entire Staff Overnight https://www.reddit.com/r/Games/comments/1veoauv/jason_schreier_the_video_game_publisher_annapurna/
 2026-08-04T00:01:09+00:00	Beast of Reincarnation Review Thread https://www.reddit.com/r/Games/comments/1veuba1/beast_of_reincarnation_review_thread/
-2026-08-04T04:01:04+00:00	Gears of War: E-Day Open Beta Details & FAQ https://www.reddit.com/r/Games/comments/1vezkrf/gears_of_war_eday_open_beta_details_faq/
 2026-08-04T11:14:50+00:00	Dungeon Lurker Demo Trailer https://www.reddit.com/r/Games/comments/1vf7edt/dungeon_lurker_demo_trailer/
 2026-08-04T12:18:08+00:00	Ojiro Fumoto's "Poinpy" Is Free, Because of Kids [Interview] https://www.reddit.com/r/Games/comments/1vf8pry/ojiro_fumotos_poinpy_is_free_because_of_kids/
 2026-08-04T12:19:10+00:00	Lootdeck - Offical Announcement Trailer https://www.reddit.com/r/Games/comments/1vf8qko/lootdeck_offical_announcement_trailer/
 2026-08-04T13:04:37+00:00	1.0 Release Date Trailer | ENDLESS Legend™ 2 https://www.reddit.com/r/Games/comments/1vf9sr1/10_release_date_trailer_endless_legend_2/
-2026-08-04T13:05:33+00:00	Jurassic World Evolution 3's Crocodilia Coast DLC Introduces a Giant Prehistoric Crocodile and More Surprising Species https://www.reddit.com/r/Games/comments/1vf9tic/jurassic_world_evolution_3s_crocodilia_coast_dlc/
 2026-08-04T13:44:42+00:00	Minecraft Is Helping Kids Redesign Their Cities https://www.reddit.com/r/Games/comments/1vfasb4/minecraft_is_helping_kids_redesign_their_cities/
 2026-08-04T13:46:36+00:00	Fire Emblem: Fortune’s Weave Direct 8.4.2026 https://www.reddit.com/r/Games/comments/1vfau3i/fire_emblem_fortunes_weave_direct_842026/
 2026-08-04T14:31:08+00:00	FINAL FANTASY XIV for Nintendo Switch 2 now available https://www.reddit.com/r/Games/comments/1vfc0t0/final_fantasy_xiv_for_nintendo_switch_2_now/
@@ -28,3 +25,6 @@
 2026-08-04T20:30:48+00:00	EA Announces Completion of Acquisition by PIF, Silver Lake, and Affinity Partners https://www.reddit.com/r/Games/comments/1vfm363/ea_announces_completion_of_acquisition_by_pif/
 2026-08-04T21:17:00+00:00	Tomb Raider: Legacy of Atlantis - Puzzles & Traps https://www.reddit.com/r/Games/comments/1vfnbke/tomb_raider_legacy_of_atlantis_puzzles_traps/
 2026-08-04T23:06:31+00:00	GitHub - BlackLabelHQ/SymphonyRecomp: Recompilation project for Castlevania: Symphony of the Night - Released and playable https://www.reddit.com/r/Games/comments/1vfq1np/github_blacklabelhqsymphonyrecomp_recompilation/
+2026-08-04T23:24:08+00:00	Batman: Caped Crusader - Chronicles: Official Announcement Trailer https://www.reddit.com/r/Games/comments/1vfqgq7/batman_caped_crusader_chronicles_official/
+2026-08-04T23:41:33+00:00	Isle of Reveries: OFFICIAL TRAILER https://www.reddit.com/r/Games/comments/1vfqv3u/isle_of_reveries_official_trailer/
+2026-08-04T23:43:57+00:00	Cat Me If You Can - Release Date Announcement https://www.reddit.com/r/Games/comments/1vfqx43/cat_me_if_you_can_release_date_announcement/
