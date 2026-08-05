@@ -3,10 +3,7 @@
 # source = https://www.reddit.com/r/Games.rss
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
-2026-08-04T16:02:30+00:00	'It Would Be a Real Shame for That Culture to Disappear': Final Fantasy 7 Revelation Director Says Physical Game Releases Must Continue https://www.reddit.com/r/Games/comments/1vfejhp/it_would_be_a_real_shame_for_that_culture_to/
 2026-08-04T20:30:48+00:00	EA Announces Completion of Acquisition by PIF, Silver Lake, and Affinity Partners https://www.reddit.com/r/Games/comments/1vfm363/ea_announces_completion_of_acquisition_by_pif/
-2026-08-04T23:24:08+00:00	Batman: Caped Crusader - Chronicles: Official Announcement Trailer https://www.reddit.com/r/Games/comments/1vfqgq7/batman_caped_crusader_chronicles_official/
-2026-08-05T03:38:15+00:00	Dead As Disco - Official Midsummer Update Trailer https://www.reddit.com/r/Games/comments/1vfw33k/dead_as_disco_official_midsummer_update_trailer/
 2026-08-05T07:01:04+00:00	Ostranauts 1.0 - Official Launch Trailer https://www.reddit.com/r/Games/comments/1vfzwz2/ostranauts_10_official_launch_trailer/
 2026-08-05T07:26:48+00:00	Pokémon Pokopia Version 2.0 Patch Notes https://www.reddit.com/r/Games/comments/1vg0dg1/pokémon_pokopia_version_20_patch_notes/
 2026-08-05T09:31:05+00:00	Here's how we sped up PS3 emulation on ARM by 60% https://www.reddit.com/r/Games/comments/1vg2h3s/heres_how_we_sped_up_ps3_emulation_on_arm_by_60/
@@ -28,3 +25,6 @@
 2026-08-05T17:59:06+00:00	Beaten Path - Official Announcement Trailer https://www.reddit.com/r/Games/comments/1vgetxx/beaten_path_official_announcement_trailer/
 2026-08-05T18:19:37+00:00	I left the God of War team and just released Gunstoppable as a solo dev. AMA! https://www.reddit.com/r/Games/comments/1vgfeol/i_left_the_god_of_war_team_and_just_released/
 2026-08-05T18:56:05+00:00	Once-bankrupt Atari returns to profit with decade-high revenue https://www.reddit.com/r/Games/comments/1vggfgz/oncebankrupt_atari_returns_to_profit_with/
+2026-08-05T21:43:55+00:00	Per Linked In several at Halo studios hit with a round of layoffs https://www.reddit.com/r/Games/comments/1vgl0j5/per_linked_in_several_at_halo_studios_hit_with_a/
+2026-08-05T21:58:24+00:00	Memory capacity for all of 2027 has reportedly been booked and sold, with no more DRAM or HBM available https://www.reddit.com/r/Games/comments/1vgldq5/memory_capacity_for_all_of_2027_has_reportedly/
+2026-08-05T21:58:42+00:00	Sony new PS5 disc based console boxes, now show label of discontinuation of discs starting January 2028. https://www.reddit.com/r/Games/comments/1vgldzq/sony_new_ps5_disc_based_console_boxes_now_show/
