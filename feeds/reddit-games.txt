@@ -3,8 +3,6 @@
 # source = https://www.reddit.com/r/Games.rss
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
-2026-08-02T09:00:29+00:00	Weekly /r/Games Discussion - What have you been playing, and what are your thoughts? - August 02, 2026 https://www.reddit.com/r/Games/comments/1vdd39w/weekly_rgames_discussion_what_have_you_been/
-2026-08-03T17:43:44+00:00	Microsoft is bringing Xbox 360 games to PC https://www.reddit.com/r/Games/comments/1vekfl8/microsoft_is_bringing_xbox_360_games_to_pc/
 2026-08-04T12:18:08+00:00	Ojiro Fumoto's "Poinpy" Is Free, Because of Kids [Interview] https://www.reddit.com/r/Games/comments/1vf8pry/ojiro_fumotos_poinpy_is_free_because_of_kids/
 2026-08-04T12:19:10+00:00	Lootdeck - Offical Announcement Trailer https://www.reddit.com/r/Games/comments/1vf8qko/lootdeck_offical_announcement_trailer/
 2026-08-04T13:04:37+00:00	1.0 Release Date Trailer | ENDLESS Legend™ 2 https://www.reddit.com/r/Games/comments/1vf9sr1/10_release_date_trailer_endless_legend_2/
@@ -28,3 +26,5 @@
 2026-08-05T07:01:04+00:00	Ostranauts 1.0 - Official Launch Trailer https://www.reddit.com/r/Games/comments/1vfzwz2/ostranauts_10_official_launch_trailer/
 2026-08-05T07:26:48+00:00	Pokémon Pokopia Version 2.0 Patch Notes https://www.reddit.com/r/Games/comments/1vg0dg1/pokémon_pokopia_version_20_patch_notes/
 2026-08-05T09:31:05+00:00	Here's how we sped up PS3 emulation on ARM by 60% https://www.reddit.com/r/Games/comments/1vg2h3s/heres_how_we_sped_up_ps3_emulation_on_arm_by_60/
+2026-08-05T11:00:42+00:00	Daily /r/Games Discussion - Suggest Me a Game - August 05, 2026 https://www.reddit.com/r/Games/comments/1vg45i2/daily_rgames_discussion_suggest_me_a_game_august/
+2026-08-05T11:45:26+00:00	Roblox loses $70 billion in value as company blames lack of viral games https://www.reddit.com/r/Games/comments/1vg51tf/roblox_loses_70_billion_in_value_as_company/
