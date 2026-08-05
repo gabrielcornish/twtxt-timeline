@@ -5,17 +5,14 @@
 
 2026-08-02T09:00:29+00:00	Weekly /r/Games Discussion - What have you been playing, and what are your thoughts? - August 02, 2026 https://www.reddit.com/r/Games/comments/1vdd39w/weekly_rgames_discussion_what_have_you_been/
 2026-08-03T17:43:44+00:00	Microsoft is bringing Xbox 360 games to PC https://www.reddit.com/r/Games/comments/1vekfl8/microsoft_is_bringing_xbox_360_games_to_pc/
-2026-08-04T11:14:50+00:00	Dungeon Lurker Demo Trailer https://www.reddit.com/r/Games/comments/1vf7edt/dungeon_lurker_demo_trailer/
 2026-08-04T12:18:08+00:00	Ojiro Fumoto's "Poinpy" Is Free, Because of Kids [Interview] https://www.reddit.com/r/Games/comments/1vf8pry/ojiro_fumotos_poinpy_is_free_because_of_kids/
 2026-08-04T12:19:10+00:00	Lootdeck - Offical Announcement Trailer https://www.reddit.com/r/Games/comments/1vf8qko/lootdeck_offical_announcement_trailer/
 2026-08-04T13:04:37+00:00	1.0 Release Date Trailer | ENDLESS Legend™ 2 https://www.reddit.com/r/Games/comments/1vf9sr1/10_release_date_trailer_endless_legend_2/
-2026-08-04T13:44:42+00:00	Minecraft Is Helping Kids Redesign Their Cities https://www.reddit.com/r/Games/comments/1vfasb4/minecraft_is_helping_kids_redesign_their_cities/
 2026-08-04T13:46:36+00:00	Fire Emblem: Fortune’s Weave Direct 8.4.2026 https://www.reddit.com/r/Games/comments/1vfau3i/fire_emblem_fortunes_weave_direct_842026/
 2026-08-04T14:31:08+00:00	FINAL FANTASY XIV for Nintendo Switch 2 now available https://www.reddit.com/r/Games/comments/1vfc0t0/final_fantasy_xiv_for_nintendo_switch_2_now/
 2026-08-04T15:37:55+00:00	Quasimorph Is Out Now in 1.0! https://www.reddit.com/r/Games/comments/1vfdv3e/quasimorph_is_out_now_in_10/
 2026-08-04T15:54:40+00:00	Big Walk is available now as an August PlayStation Plus Monthly Game https://www.reddit.com/r/Games/comments/1vfebjn/big_walk_is_available_now_as_an_august/
 2026-08-04T16:02:30+00:00	'It Would Be a Real Shame for That Culture to Disappear': Final Fantasy 7 Revelation Director Says Physical Game Releases Must Continue https://www.reddit.com/r/Games/comments/1vfejhp/it_would_be_a_real_shame_for_that_culture_to/
-2026-08-04T16:14:37+00:00	Korea. IL-2 Series — Release Trailer https://www.reddit.com/r/Games/comments/1vfevo9/korea_il2_series_release_trailer/
 2026-08-04T17:00:52+00:00	Humble Choice August 2026 - Like a Dragon: Infinite Wealth, Teenage Mutant Ninja Turtles: Shredder's Revenge Ultimate Edition, Dead Cells + DLC and more https://www.reddit.com/r/Games/comments/1vfg70w/humble_choice_august_2026_like_a_dragon_infinite/
 2026-08-04T17:28:42+00:00	The Hood | Character Reveal Trailer | Marvel Rivals https://www.reddit.com/r/Games/comments/1vfgzwr/the_hood_character_reveal_trailer_marvel_rivals/
 2026-08-04T18:12:21+00:00	We are Blue Bottle Games, the team behind Ostranauts (1.0 Out Now). Ask us anything! https://www.reddit.com/r/Games/comments/1vfi8v8/we_are_blue_bottle_games_the_team_behind/
@@ -28,3 +25,6 @@
 2026-08-04T23:41:33+00:00	Isle of Reveries: OFFICIAL TRAILER https://www.reddit.com/r/Games/comments/1vfqv3u/isle_of_reveries_official_trailer/
 2026-08-04T23:43:57+00:00	Cat Me If You Can - Release Date Announcement https://www.reddit.com/r/Games/comments/1vfqx43/cat_me_if_you_can_release_date_announcement/
 2026-08-05T03:38:15+00:00	Dead As Disco - Official Midsummer Update Trailer https://www.reddit.com/r/Games/comments/1vfw33k/dead_as_disco_official_midsummer_update_trailer/
+2026-08-05T07:01:04+00:00	Ostranauts 1.0 - Official Launch Trailer https://www.reddit.com/r/Games/comments/1vfzwz2/ostranauts_10_official_launch_trailer/
+2026-08-05T07:26:48+00:00	Pokémon Pokopia Version 2.0 Patch Notes https://www.reddit.com/r/Games/comments/1vg0dg1/pokémon_pokopia_version_20_patch_notes/
+2026-08-05T09:31:05+00:00	Here's how we sped up PS3 emulation on ARM by 60% https://www.reddit.com/r/Games/comments/1vg2h3s/heres_how_we_sped_up_ps3_emulation_on_arm_by_60/
