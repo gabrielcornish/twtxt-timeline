@@ -4,14 +4,12 @@
 # description = twtxt conversion of https://bearblog.dev/discover/feed/
 
 2026-08-01T09:22:00+00:00	popular narrative says that we are all doomed. i refuse to be doomed https://skuka.online/popular-narrative-says-that-we-are-all-doomed-i-refuse-to-be-doomed/
-2026-08-01T14:35:00+00:00	💌 Newsletter #013 - On the Genie 🧞, its Biases, and Going Rogue https://technically-good.ca/newsletter/013-2026-08-01/
 2026-08-01T20:35:00+00:00	Creating a Cosy Office Nook https://onlinegoddess.net/2026/08/creating-a-cosy-office-nook/
+2026-08-01T23:04:00+00:00	a small adventure to capture some stars on a monday night https://life.drsh.io/a-small-adventure-to-capture-some-stars-on-a-monday-night/
 2026-08-01T23:47:00+00:00	The story of my blog (AuguStory) https://departure.blog/story-of-my-blog/
-2026-08-02T06:45:00+00:00	My city is on fire and the sky is choked with smoke https://bonkposting.online/my-city-is-on-fire/
 2026-08-02T15:19:00+00:00	Holy Shit We Have A Berry Bush https://blog.curiousquail.com/holy-shit-we-have-a-berry-bush/
 2026-08-02T20:19:00+00:00	More Time in Nature https://notes.jeddacp.com/more-time-in-nature/
 2026-08-03T15:24:00+00:00	Things I believed as a child https://departure.blog/things-i-believed-as-a-child/
-2026-08-03T18:30:00+00:00	2 years later and I'm still confused. https://siobhan.bearblog.dev/2-years-later-and-im-still-confused/
 2026-08-03T19:03:20.156244+00:00	Returning to Familiar Places https://notes.jeddacp.com/returning-to-familiar-places/
 2026-08-03T19:11:00+00:00	the fallacy of disability accommodations at work https://topopa.bearblog.dev/the-fallacy-of-disability-accommodations-at-work/
 2026-08-04T23:42:00+00:00	It's my birthday! Here's my wishlist https://folkmoss.bearblog.dev/its-my-birthday/
@@ -23,3 +21,5 @@
 2026-08-06T04:16:00+00:00	Connectivity and Sensitivity, and the difference between the two https://vivian.bearblog.dev/connectivity-and-sensitivity-and-the-difference-between-the-two/
 2026-08-06T05:00:00+00:00	You’re So Bored You’re Even Reading This https://jdtorian.com/youre-so-bored-youre-even-reading-this/
 2026-08-06T06:08:00+00:00	Abandoned map project https://blog.lauramichet.com/abandoned-map-project/
+2026-08-06T08:15:00+00:00	seeing the person behind the piece https://blog.avas.space/behind-the-piece/
+2026-08-06T09:32:17.708601+00:00	sigh I know the law is stupid - but bloggers really https://yunzi.co.uk/sigh-i-know-the-law-is-stupid-but-bloggers-really/

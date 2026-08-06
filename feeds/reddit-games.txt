@@ -5,11 +5,9 @@
 
 2026-08-05T11:00:42+00:00	Daily /r/Games Discussion - Suggest Me a Game - August 05, 2026 https://www.reddit.com/r/Games/comments/1vg45i2/daily_rgames_discussion_suggest_me_a_game_august/
 2026-08-05T11:45:26+00:00	Roblox loses $70 billion in value as company blames lack of viral games https://www.reddit.com/r/Games/comments/1vg51tf/roblox_loses_70_billion_in_value_as_company/
-2026-08-05T14:11:51+00:00	Game Freak promises Beast of Reincarnation improvements following mixed reviews, starting with "story pacing improvements" within a week: "We take your feedback to heart" https://www.reddit.com/r/Games/comments/1vg8i0z/game_freak_promises_beast_of_reincarnation/
 2026-08-05T14:58:15+00:00	EA's annual Ebitda is around $1.5 billion, which should be enough to service the interest payments. But the publisher has told debt investors that it will cut $700 million in annual costs including $170 million in "organizational efficiencies," per Bloomberg. In other words: mass layoffs https://www.reddit.com/r/Games/comments/1vg9q8a/eas_annual_ebitda_is_around_15_billion_which/
 2026-08-05T14:59:09+00:00	Jason Schreier - The Truth Behind Sexual Harassment At Blizzard https://www.reddit.com/r/Games/comments/1vg9r30/jason_schreier_the_truth_behind_sexual_harassment/
 2026-08-05T15:18:56+00:00	The games industry’s obsession with visual fidelity is costing them money and talent https://www.reddit.com/r/Games/comments/1vgab32/the_games_industrys_obsession_with_visual/
-2026-08-05T15:23:59+00:00	Our Approach to Playable Species in Guild Wars 3 https://www.reddit.com/r/Games/comments/1vgagat/our_approach_to_playable_species_in_guild_wars_3/
 2026-08-05T16:10:36+00:00	Fields of Mistria's 1.0 Update & Patch Notes are here! https://www.reddit.com/r/Games/comments/1vgbr71/fields_of_mistrias_10_update_patch_notes_are_here/
 2026-08-05T18:19:37+00:00	I left the God of War team and just released Gunstoppable as a solo dev. AMA! https://www.reddit.com/r/Games/comments/1vgfeol/i_left_the_god_of_war_team_and_just_released/
 2026-08-05T18:56:05+00:00	Once-bankrupt Atari returns to profit with decade-high revenue https://www.reddit.com/r/Games/comments/1vggfgz/oncebankrupt_atari_returns_to_profit_with/
@@ -26,5 +24,7 @@
 2026-08-06T09:17:27+00:00	Digimon Story Time Stranger fastest selling title in series, drove Digimon IP to historical record profits, says Bandai Namco Entertainment President https://www.reddit.com/r/Games/comments/1vgz6ag/digimon_story_time_stranger_fastest_selling_title/
 2026-08-06T10:57:11+00:00	FTL Arena - async pvp mod for FTL: Faster Than Light https://www.reddit.com/r/Games/comments/1vh0ygj/ftl_arena_async_pvp_mod_for_ftl_faster_than_light/
 2026-08-06T11:22:36+00:00	Devolver Digital intends to go private https://www.reddit.com/r/Games/comments/1vh1gb8/devolver_digital_intends_to_go_private/
-2026-08-06T11:27:43+00:00	Schrodinger's Cat Burglar - Content Update Trailer https://www.reddit.com/r/Games/comments/1vh1jwr/schrodingers_cat_burglar_content_update_trailer/
 2026-08-06T12:02:58+00:00	Grand Theft Auto VI: An Extended Look premieres on Thursday, August 27 at 3 p.m. ET. https://www.reddit.com/r/Games/comments/1vh2ak7/grand_theft_auto_vi_an_extended_look_premieres_on/
+2026-08-06T12:17:01+00:00	Bringer - New Trailer https://www.reddit.com/r/Games/comments/1vh2lpr/bringer_new_trailer/
+2026-08-06T13:43:48+00:00	Warrior Cats: Clans of the Forest - Announce Trailer https://www.reddit.com/r/Games/comments/1vh4np7/warrior_cats_clans_of_the_forest_announce_trailer/
+2026-08-06T13:47:44+00:00	TOEM 2 - Release Date Trailer https://www.reddit.com/r/Games/comments/1vh4r4c/toem_2_release_date_trailer/

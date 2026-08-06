@@ -3,7 +3,6 @@
 # source = https://www.gamesindustry.biz/feed
 # description = twtxt conversion of https://www.gamesindustry.biz/feed
 
-2026-07-27T18:21:24+00:00	Cyan reveals abandoned prototype for new Myst game, confirms different Myst game is in development https://www.gamesindustry.biz/cyan-reveals-abandoned-prototype-for-new-myst-game-confirms-different-myst-game-is-in-development
 2026-07-27T18:39:58+00:00	Atari signs 10-title film deal with Universal https://www.gamesindustry.biz/atari-signs-10-title-film-deal-with-universal
 2026-07-27T21:11:39+00:00	Video Game History Foundation releases major new E3 archive collections https://www.gamesindustry.biz/video-game-history-foundation-releases-major-new-e3-archive-collections
 2026-07-28T07:47:53+00:00	Xbox explains outage preventing players from accessing games, CTO says it will "do better" https://www.gamesindustry.biz/xbox-explains-outage-preventing-players-from-accessing-games-cto-says-it-will-do-better
@@ -53,3 +52,4 @@
 2026-08-06T08:58:53+00:00	Devolver Digital intends to go private https://www.gamesindustry.biz/devolver-digital-intends-to-go-private
 2026-08-06T10:00:00+00:00	Kudos Games Services expands leadership team with Testronic and Team17 execs https://www.gamesindustry.biz/kudos-games-services-expands-leadership-team-with-testronic-and-team17-execs
 2026-08-06T11:01:00+00:00	UK Employment Rights Act 2025: Harassment law is getting tougher – and games companies need to be ready https://www.gamesindustry.biz/uk-employment-rights-act-2025-harassment-law-is-getting-tougher-and-games-companies-need-to-be-ready
+2026-08-06T13:17:27+00:00	Roblox shares fall 70% following lower-than-expected monetisation during Q2 https://www.gamesindustry.biz/roblox-shares-fall-70-following-lower-than-expected-monetisation-during-q2
