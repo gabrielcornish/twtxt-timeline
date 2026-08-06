@@ -4,7 +4,6 @@
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
 2026-08-04T20:30:48+00:00	EA Announces Completion of Acquisition by PIF, Silver Lake, and Affinity Partners https://www.reddit.com/r/Games/comments/1vfm363/ea_announces_completion_of_acquisition_by_pif/
-2026-08-05T07:01:04+00:00	Ostranauts 1.0 - Official Launch Trailer https://www.reddit.com/r/Games/comments/1vfzwz2/ostranauts_10_official_launch_trailer/
 2026-08-05T07:26:48+00:00	Pokémon Pokopia Version 2.0 Patch Notes https://www.reddit.com/r/Games/comments/1vg0dg1/pokémon_pokopia_version_20_patch_notes/
 2026-08-05T09:31:05+00:00	Here's how we sped up PS3 emulation on ARM by 60% https://www.reddit.com/r/Games/comments/1vg2h3s/heres_how_we_sped_up_ps3_emulation_on_arm_by_60/
 2026-08-05T11:00:42+00:00	Daily /r/Games Discussion - Suggest Me a Game - August 05, 2026 https://www.reddit.com/r/Games/comments/1vg45i2/daily_rgames_discussion_suggest_me_a_game_august/
@@ -17,7 +16,6 @@
 2026-08-05T14:59:09+00:00	Jason Schreier - The Truth Behind Sexual Harassment At Blizzard https://www.reddit.com/r/Games/comments/1vg9r30/jason_schreier_the_truth_behind_sexual_harassment/
 2026-08-05T15:18:56+00:00	The games industry’s obsession with visual fidelity is costing them money and talent https://www.reddit.com/r/Games/comments/1vgab32/the_games_industrys_obsession_with_visual/
 2026-08-05T15:23:59+00:00	Our Approach to Playable Species in Guild Wars 3 https://www.reddit.com/r/Games/comments/1vgagat/our_approach_to_playable_species_in_guild_wars_3/
-2026-08-05T15:38:25+00:00	Fallen Tear : The Ascension | Official Full Release Date Announcement https://www.reddit.com/r/Games/comments/1vgauj4/fallen_tear_the_ascension_official_full_release/
 2026-08-05T15:38:54+00:00	"If Quantic Dream wants to destroy jobs, it must pay": French union call strike as they demand extension to layoff negotiations with Star Wars Eclipse studio https://www.reddit.com/r/Games/comments/1vgav1f/if_quantic_dream_wants_to_destroy_jobs_it_must/
 2026-08-05T16:10:36+00:00	Fields of Mistria's 1.0 Update & Patch Notes are here! https://www.reddit.com/r/Games/comments/1vgbr71/fields_of_mistrias_10_update_patch_notes_are_here/
 2026-08-05T16:33:18+00:00	EA’s Saudi takeover will be "a real waste" if it turns the publishers into a "sequel-and-mega-franchise machine", Helldivers 2 studio boss says https://www.reddit.com/r/Games/comments/1vgceib/eas_saudi_takeover_will_be_a_real_waste_if_it/
@@ -28,3 +26,5 @@
 2026-08-05T21:43:55+00:00	Per Linked In several at Halo studios hit with a round of layoffs https://www.reddit.com/r/Games/comments/1vgl0j5/per_linked_in_several_at_halo_studios_hit_with_a/
 2026-08-05T21:58:24+00:00	Memory capacity for all of 2027 has reportedly been booked and sold, with no more DRAM or HBM available https://www.reddit.com/r/Games/comments/1vgldq5/memory_capacity_for_all_of_2027_has_reportedly/
 2026-08-05T21:58:42+00:00	Sony new PS5 disc based console boxes, now show label of discontinuation of discs starting January 2028. https://www.reddit.com/r/Games/comments/1vgldzq/sony_new_ps5_disc_based_console_boxes_now_show/
+2026-08-05T23:52:51+00:00	The Eventide - Reveal Trailer https://www.reddit.com/r/Games/comments/1vgo59f/the_eventide_reveal_trailer/
+2026-08-06T01:00:23+00:00	MARVEL Tōkon: Fighting Souls | Deadpool Character Guide https://www.reddit.com/r/Games/comments/1vgpotx/marvel_tōkon_fighting_souls_deadpool_character/
