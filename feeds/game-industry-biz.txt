@@ -3,7 +3,6 @@
 # source = https://www.gamesindustry.biz/feed
 # description = twtxt conversion of https://www.gamesindustry.biz/feed
 
-2026-07-27T16:12:10+00:00	CodeDev launches optimisation division The Performance Guys https://www.gamesindustry.biz/codedev-launches-optimisation-division-the-performance-guys
 2026-07-27T18:21:24+00:00	Cyan reveals abandoned prototype for new Myst game, confirms different Myst game is in development https://www.gamesindustry.biz/cyan-reveals-abandoned-prototype-for-new-myst-game-confirms-different-myst-game-is-in-development
 2026-07-27T18:39:58+00:00	Atari signs 10-title film deal with Universal https://www.gamesindustry.biz/atari-signs-10-title-film-deal-with-universal
 2026-07-27T21:11:39+00:00	Video Game History Foundation releases major new E3 archive collections https://www.gamesindustry.biz/video-game-history-foundation-releases-major-new-e3-archive-collections
@@ -52,4 +51,5 @@
 2026-08-05T18:41:43+00:00	King declines collective bargaining agreement with Swedish unions https://www.gamesindustry.biz/king-declines-collective-bargaining-agreement-with-swedish-unions
 2026-08-06T08:46:53+00:00	Nintendo Q1 sales drop 9.5%; operating profit soars following higher software sales and $300m in US tariff refunds https://www.gamesindustry.biz/nintendo-q1-sales-drop-95-operating-profit-soars-following-higher-software-sales-and-300m-in-us-tariff-refunds
 2026-08-06T08:58:53+00:00	Devolver Digital intends to go private https://www.gamesindustry.biz/devolver-digital-intends-to-go-private
-2026-08-06T10:00:00+00:00	Kudos Games Services expands leadership team with Testronic and Team17 veterans https://www.gamesindustry.biz/kudos-games-services-expands-leadership-team-with-testronic-and-team17-veterans
+2026-08-06T10:00:00+00:00	Kudos Games Services expands leadership team with Testronic and Team17 execs https://www.gamesindustry.biz/kudos-games-services-expands-leadership-team-with-testronic-and-team17-execs
+2026-08-06T11:01:00+00:00	UK Employment Rights Act 2025: Harassment law is getting tougher – and games companies need to be ready https://www.gamesindustry.biz/uk-employment-rights-act-2025-harassment-law-is-getting-tougher-and-games-companies-need-to-be-ready

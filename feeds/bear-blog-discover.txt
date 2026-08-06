@@ -4,6 +4,7 @@
 # description = twtxt conversion of https://bearblog.dev/discover/feed/
 
 2026-08-01T09:22:00+00:00	popular narrative says that we are all doomed. i refuse to be doomed https://skuka.online/popular-narrative-says-that-we-are-all-doomed-i-refuse-to-be-doomed/
+2026-08-01T14:35:00+00:00	💌 Newsletter #013 - On the Genie 🧞, its Biases, and Going Rogue https://technically-good.ca/newsletter/013-2026-08-01/
 2026-08-01T20:35:00+00:00	Creating a Cosy Office Nook https://onlinegoddess.net/2026/08/creating-a-cosy-office-nook/
 2026-08-01T23:47:00+00:00	The story of my blog (AuguStory) https://departure.blog/story-of-my-blog/
 2026-08-02T06:45:00+00:00	My city is on fire and the sky is choked with smoke https://bonkposting.online/my-city-is-on-fire/
@@ -22,4 +23,3 @@
 2026-08-06T04:16:00+00:00	Connectivity and Sensitivity, and the difference between the two https://vivian.bearblog.dev/connectivity-and-sensitivity-and-the-difference-between-the-two/
 2026-08-06T05:00:00+00:00	You’re So Bored You’re Even Reading This https://jdtorian.com/youre-so-bored-youre-even-reading-this/
 2026-08-06T06:08:00+00:00	Abandoned map project https://blog.lauramichet.com/abandoned-map-project/
-2026-08-06T09:40:00+00:00	A flexible mind https://robertbirming.com/flexible-mind/

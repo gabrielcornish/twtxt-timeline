@@ -5,16 +5,12 @@
 
 2026-08-05T11:00:42+00:00	Daily /r/Games Discussion - Suggest Me a Game - August 05, 2026 https://www.reddit.com/r/Games/comments/1vg45i2/daily_rgames_discussion_suggest_me_a_game_august/
 2026-08-05T11:45:26+00:00	Roblox loses $70 billion in value as company blames lack of viral games https://www.reddit.com/r/Games/comments/1vg51tf/roblox_loses_70_billion_in_value_as_company/
-2026-08-05T12:32:08+00:00	Assassin’s Creed Valhalla’s director has returned to Ubisoft, is now game director for the Assassin’s Creed brand https://www.reddit.com/r/Games/comments/1vg621b/assassins_creed_valhallas_director_has_returned/
 2026-08-05T14:11:51+00:00	Game Freak promises Beast of Reincarnation improvements following mixed reviews, starting with "story pacing improvements" within a week: "We take your feedback to heart" https://www.reddit.com/r/Games/comments/1vg8i0z/game_freak_promises_beast_of_reincarnation/
-2026-08-05T14:42:03+00:00	Face the Unknown - Helldivers 2 https://www.reddit.com/r/Games/comments/1vg9aiy/face_the_unknown_helldivers_2/
 2026-08-05T14:58:15+00:00	EA's annual Ebitda is around $1.5 billion, which should be enough to service the interest payments. But the publisher has told debt investors that it will cut $700 million in annual costs including $170 million in "organizational efficiencies," per Bloomberg. In other words: mass layoffs https://www.reddit.com/r/Games/comments/1vg9q8a/eas_annual_ebitda_is_around_15_billion_which/
 2026-08-05T14:59:09+00:00	Jason Schreier - The Truth Behind Sexual Harassment At Blizzard https://www.reddit.com/r/Games/comments/1vg9r30/jason_schreier_the_truth_behind_sexual_harassment/
 2026-08-05T15:18:56+00:00	The games industry’s obsession with visual fidelity is costing them money and talent https://www.reddit.com/r/Games/comments/1vgab32/the_games_industrys_obsession_with_visual/
 2026-08-05T15:23:59+00:00	Our Approach to Playable Species in Guild Wars 3 https://www.reddit.com/r/Games/comments/1vgagat/our_approach_to_playable_species_in_guild_wars_3/
-2026-08-05T15:38:54+00:00	"If Quantic Dream wants to destroy jobs, it must pay": French union call strike as they demand extension to layoff negotiations with Star Wars Eclipse studio https://www.reddit.com/r/Games/comments/1vgav1f/if_quantic_dream_wants_to_destroy_jobs_it_must/
 2026-08-05T16:10:36+00:00	Fields of Mistria's 1.0 Update & Patch Notes are here! https://www.reddit.com/r/Games/comments/1vgbr71/fields_of_mistrias_10_update_patch_notes_are_here/
-2026-08-05T16:33:18+00:00	EA’s Saudi takeover will be "a real waste" if it turns the publishers into a "sequel-and-mega-franchise machine", Helldivers 2 studio boss says https://www.reddit.com/r/Games/comments/1vgceib/eas_saudi_takeover_will_be_a_real_waste_if_it/
 2026-08-05T18:19:37+00:00	I left the God of War team and just released Gunstoppable as a solo dev. AMA! https://www.reddit.com/r/Games/comments/1vgfeol/i_left_the_god_of_war_team_and_just_released/
 2026-08-05T18:56:05+00:00	Once-bankrupt Atari returns to profit with decade-high revenue https://www.reddit.com/r/Games/comments/1vggfgz/oncebankrupt_atari_returns_to_profit_with/
 2026-08-05T21:43:55+00:00	Per Linked In several at Halo studios hit with a round of layoffs https://www.reddit.com/r/Games/comments/1vgl0j5/per_linked_in_several_at_halo_studios_hit_with_a/
@@ -28,3 +24,7 @@
 2026-08-06T08:28:38+00:00	UK Chart Analysis: Halo Campaigns for No.1, Splatoon Raiders Holding Strong https://www.reddit.com/r/Games/comments/1vgycu0/uk_chart_analysis_halo_campaigns_for_no1_splatoon/
 2026-08-06T08:53:28+00:00	Deltarune - Summer Newsletter 2026 https://www.reddit.com/r/Games/comments/1vgyrk1/deltarune_summer_newsletter_2026/
 2026-08-06T09:17:27+00:00	Digimon Story Time Stranger fastest selling title in series, drove Digimon IP to historical record profits, says Bandai Namco Entertainment President https://www.reddit.com/r/Games/comments/1vgz6ag/digimon_story_time_stranger_fastest_selling_title/
+2026-08-06T10:57:11+00:00	FTL Arena - async pvp mod for FTL: Faster Than Light https://www.reddit.com/r/Games/comments/1vh0ygj/ftl_arena_async_pvp_mod_for_ftl_faster_than_light/
+2026-08-06T11:22:36+00:00	Devolver Digital intends to go private https://www.reddit.com/r/Games/comments/1vh1gb8/devolver_digital_intends_to_go_private/
+2026-08-06T11:27:43+00:00	Schrodinger's Cat Burglar - Content Update Trailer https://www.reddit.com/r/Games/comments/1vh1jwr/schrodingers_cat_burglar_content_update_trailer/
+2026-08-06T12:02:58+00:00	Grand Theft Auto VI: An Extended Look premieres on Thursday, August 27 at 3 p.m. ET. https://www.reddit.com/r/Games/comments/1vh2ak7/grand_theft_auto_vi_an_extended_look_premieres_on/
