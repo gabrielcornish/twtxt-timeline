@@ -3,8 +3,6 @@
 # source = https://www.reddit.com/r/Games.rss
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
-2026-08-04T20:30:48+00:00	EA Announces Completion of Acquisition by PIF, Silver Lake, and Affinity Partners https://www.reddit.com/r/Games/comments/1vfm363/ea_announces_completion_of_acquisition_by_pif/
-2026-08-05T07:26:48+00:00	Pokémon Pokopia Version 2.0 Patch Notes https://www.reddit.com/r/Games/comments/1vg0dg1/pokémon_pokopia_version_20_patch_notes/
 2026-08-05T09:31:05+00:00	Here's how we sped up PS3 emulation on ARM by 60% https://www.reddit.com/r/Games/comments/1vg2h3s/heres_how_we_sped_up_ps3_emulation_on_arm_by_60/
 2026-08-05T11:00:42+00:00	Daily /r/Games Discussion - Suggest Me a Game - August 05, 2026 https://www.reddit.com/r/Games/comments/1vg45i2/daily_rgames_discussion_suggest_me_a_game_august/
 2026-08-05T11:45:26+00:00	Roblox loses $70 billion in value as company blames lack of viral games https://www.reddit.com/r/Games/comments/1vg51tf/roblox_loses_70_billion_in_value_as_company/
@@ -19,7 +17,6 @@
 2026-08-05T15:38:54+00:00	"If Quantic Dream wants to destroy jobs, it must pay": French union call strike as they demand extension to layoff negotiations with Star Wars Eclipse studio https://www.reddit.com/r/Games/comments/1vgav1f/if_quantic_dream_wants_to_destroy_jobs_it_must/
 2026-08-05T16:10:36+00:00	Fields of Mistria's 1.0 Update & Patch Notes are here! https://www.reddit.com/r/Games/comments/1vgbr71/fields_of_mistrias_10_update_patch_notes_are_here/
 2026-08-05T16:33:18+00:00	EA’s Saudi takeover will be "a real waste" if it turns the publishers into a "sequel-and-mega-franchise machine", Helldivers 2 studio boss says https://www.reddit.com/r/Games/comments/1vgceib/eas_saudi_takeover_will_be_a_real_waste_if_it/
-2026-08-05T17:56:53+00:00	Attack on Titan 3 - Gameplay Reveal Trailer https://www.reddit.com/r/Games/comments/1vgerp1/attack_on_titan_3_gameplay_reveal_trailer/
 2026-08-05T17:59:06+00:00	Beaten Path - Official Announcement Trailer https://www.reddit.com/r/Games/comments/1vgetxx/beaten_path_official_announcement_trailer/
 2026-08-05T18:19:37+00:00	I left the God of War team and just released Gunstoppable as a solo dev. AMA! https://www.reddit.com/r/Games/comments/1vgfeol/i_left_the_god_of_war_team_and_just_released/
 2026-08-05T18:56:05+00:00	Once-bankrupt Atari returns to profit with decade-high revenue https://www.reddit.com/r/Games/comments/1vggfgz/oncebankrupt_atari_returns_to_profit_with/
@@ -28,3 +25,6 @@
 2026-08-05T21:58:42+00:00	Sony new PS5 disc based console boxes, now show label of discontinuation of discs starting January 2028. https://www.reddit.com/r/Games/comments/1vgldzq/sony_new_ps5_disc_based_console_boxes_now_show/
 2026-08-05T23:52:51+00:00	The Eventide - Reveal Trailer https://www.reddit.com/r/Games/comments/1vgo59f/the_eventide_reveal_trailer/
 2026-08-06T01:00:23+00:00	MARVEL Tōkon: Fighting Souls | Deadpool Character Guide https://www.reddit.com/r/Games/comments/1vgpotx/marvel_tōkon_fighting_souls_deadpool_character/
+2026-08-06T04:30:12+00:00	MARVEL Tōkon: Fighting Souls | Carnage Character Guide https://www.reddit.com/r/Games/comments/1vgu3uz/marvel_tōkon_fighting_souls_carnage_character/
+2026-08-06T04:49:49+00:00	Debanked adult game developers in Japan face tax nightmare as they still get taxed on income they're blocked from receiving, indie creator says - AUTOMATON WEST https://www.reddit.com/r/Games/comments/1vguh9f/debanked_adult_game_developers_in_japan_face_tax/
+2026-08-06T06:33:49+00:00	Nintendo Switch has reached 156.59 million units sold. Nintendo Switch 2 has reached 23.68 million million units sold. https://www.reddit.com/r/Games/comments/1vgwdcw/nintendo_switch_has_reached_15659_million_units/
