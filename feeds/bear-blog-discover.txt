@@ -3,12 +3,9 @@
 # source = https://bearblog.dev/discover/feed/
 # description = twtxt conversion of https://bearblog.dev/discover/feed/
 
-2026-08-01T20:35:00+00:00	Creating a Cosy Office Nook https://onlinegoddess.net/2026/08/creating-a-cosy-office-nook/
-2026-08-01T23:04:00+00:00	a small adventure to capture some stars on a monday night https://life.drsh.io/a-small-adventure-to-capture-some-stars-on-a-monday-night/
-2026-08-02T15:19:00+00:00	Holy Shit We Have A Berry Bush https://blog.curiousquail.com/holy-shit-we-have-a-berry-bush/
-2026-08-02T20:19:00+00:00	More Time in Nature https://notes.jeddacp.com/more-time-in-nature/
 2026-08-03T15:24:00+00:00	Things I believed as a child https://departure.blog/things-i-believed-as-a-child/
-2026-08-03T19:03:20.156244+00:00	Returning to Familiar Places https://notes.jeddacp.com/returning-to-familiar-places/
+2026-08-04T18:12:35.456250+00:00	There are people around me, but I feel lonely. https://piimyon.bearblog.dev/there-are-people-around-me-but-i-feel-lonely/
+2026-08-04T19:58:17.262564+00:00	pick a lane https://mattiverse.online/pick-a-lane/
 2026-08-04T23:42:00+00:00	It's my birthday! Here's my wishlist https://folkmoss.bearblog.dev/its-my-birthday/
 2026-08-05T01:49:13.792203+00:00	Do you feel like unplugging? https://moodywarlock.net/do-you-feel-like-unplugging/
 2026-08-05T12:04:00+00:00	Committing to creativity https://herman.bearblog.dev/creativity/
@@ -20,6 +17,9 @@
 2026-08-06T05:00:00+00:00	You’re So Bored You’re Even Reading This https://jdtorian.com/youre-so-bored-youre-even-reading-this/
 2026-08-06T06:08:00+00:00	Abandoned map project https://blog.lauramichet.com/abandoned-map-project/
 2026-08-06T08:15:00+00:00	seeing the person behind the piece https://blog.avas.space/behind-the-piece/
+2026-08-06T18:40:00+00:00	Writing so bad it never gets flagged as AI https://tofukat.bearblog.dev/writing-so-bad-it-never-gets-flagged-as-ai/
 2026-08-06T19:19:00+00:00	I got a new bike for my birthday. https://jetgirl.art/i-got-a-new-bike-for-my-birthday/
 2026-08-06T19:34:00+00:00	I finally went to the Getty Villa https://blog.lauramichet.com/i-finally-went-to-the-getty-villa/
-2026-08-07T06:41:00+00:00	On why I am not a fan of the word “enshittification” https://bearlyadiary.bearblog.dev/on-why-i-am-not-a-fan-of-the-word-enshittification/
+2026-08-07T00:08:00+00:00	Do I need a course on friendship? https://vivian.bearblog.dev/do-i-need-a-course-on-friendship/
+2026-08-07T03:58:00+00:00	august 6 guh https://combatdavey.net/august-6-2026/
+2026-08-07T16:43:00+00:00	letting an LLM write an indie web parody post https://blog.avas.space/parody-post/
