@@ -4,7 +4,6 @@
 # description = twtxt conversion of https://bearblog.dev/discover/feed/
 
 2026-08-01T09:22:00+00:00	popular narrative says that we are all doomed. i refuse to be doomed https://skuka.online/popular-narrative-says-that-we-are-all-doomed-i-refuse-to-be-doomed/
-2026-08-01T14:35:00+00:00	💌 Newsletter #013 - On the Genie 🧞, its Biases, and Going Rogue https://technically-good.ca/newsletter/013-2026-08-01/
 2026-08-01T20:35:00+00:00	Creating a Cosy Office Nook https://onlinegoddess.net/2026/08/creating-a-cosy-office-nook/
 2026-08-01T23:04:00+00:00	a small adventure to capture some stars on a monday night https://life.drsh.io/a-small-adventure-to-capture-some-stars-on-a-monday-night/
 2026-08-01T23:47:00+00:00	The story of my blog (AuguStory) https://departure.blog/story-of-my-blog/
@@ -23,3 +22,4 @@
 2026-08-06T06:08:00+00:00	Abandoned map project https://blog.lauramichet.com/abandoned-map-project/
 2026-08-06T08:15:00+00:00	seeing the person behind the piece https://blog.avas.space/behind-the-piece/
 2026-08-06T19:34:00+00:00	I finally went to the Getty Villa https://blog.lauramichet.com/i-finally-went-to-the-getty-villa/
+2026-08-07T06:41:00+00:00	On why I am not a fan of the word “enshittification” https://bearlyadiary.bearblog.dev/on-why-i-am-not-a-fan-of-the-word-enshittification/

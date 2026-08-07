@@ -3,8 +3,6 @@
 # source = https://www.gamesindustry.biz/feed
 # description = twtxt conversion of https://www.gamesindustry.biz/feed
 
-2026-07-28T11:00:00+00:00	Atari and Twin Galaxies announce Atari World Championships https://www.gamesindustry.biz/atari-and-twin-galaxies-announce-atari-world-championships
-2026-07-28T11:17:34+00:00	Pragmata and Resident Evil franchise boost Capcom's Q1 ordinary profit by 81% to $252.5m https://www.gamesindustry.biz/pragmata-and-resident-evil-franchise-boost-capcoms-q1-ordinary-profit-by-81-to-2525m
 2026-07-28T12:17:32+00:00	"Across the industry, we don't think enough about how we match the scope to what we're making" – Mike Bithell on why the world needs an im-slim https://www.gamesindustry.biz/across-the-industry-we-dont-think-enough-about-how-we-match-the-scope-to-what-were-making-mike-bithell-on-why-the-world-needs-an-im-slim
 2026-07-28T13:44:03+00:00	New data suggests layoffs will affect 14,259 people by the end of 2026, up 78% from first forecast of the year https://www.gamesindustry.biz/new-data-suggests-layoffs-will-affect-14259-people-by-the-end-of-2026-up-78-from-first-forecast-of-the-year
 2026-07-29T07:26:52+00:00	Double Fine Productions cuts 23 roles as it becomes independent from Xbox https://www.gamesindustry.biz/double-fine-productions-cuts-23-roles-as-it-becomes-independent-from-xbox
@@ -51,5 +49,7 @@
 2026-08-07T08:02:24+00:00	Unity records "best quarter in history" following continued success of Vector AI https://www.gamesindustry.biz/unity-records-best-quarter-in-history-following-continued-success-of-vector-ai
 2026-08-07T10:04:32+00:00	Tripledot Studios acquires Supersonic from Unity for $40m https://www.gamesindustry.biz/tripledot-studios-acquires-supersonic-from-unity-for-40m
 2026-08-07T11:07:42+00:00	Charity bundle hosted by Necrosoft Games nears $200,000 goal to support workers affected by layoffs https://www.gamesindustry.biz/charity-bundle-hosted-by-necrosoft-games-nears-200000-goal-to-support-workers-affected-by-layoffs
-2026-08-07T13:01:40+00:00	Take-Two Q1 results include net bookings ahead of guidance, a slight increase in revenue, and cancellation of unannounced game https://www.gamesindustry.biz/take-two-q1-results-include-net-bookings-ahead-of-guidance-a-slight-increase-in-revenue-and-cancellation-of-unannounced-game
+2026-08-07T13:01:40+00:00	Take-Two Q1 results include net bookings ahead of guidance, a slight increase in revenue, and cancellation of unannounced "new core IP" game https://www.gamesindustry.biz/take-two-q1-results-include-net-bookings-ahead-of-guidance-a-slight-increase-in-revenue-and-cancellation-of-unannounced-game
 2026-08-07T13:40:25+00:00	Former Icelandic minister joins Fenris Creations to lead new AI partnerships https://www.gamesindustry.biz/former-icelandic-minister-joins-fenris-creations-to-lead-new-ai-partnerships
+2026-08-07T14:06:32+00:00	Analyst: AI-focused M&A deals are "weakening" the games investment landscape https://www.gamesindustry.biz/analyst-ai-focused-ma-deals-are-weakening-the-games-investment-landscape
+2026-08-07T14:53:37+00:00	Investors hate Roblox’ new direction – but a reversal may be impossible | Opinion https://www.gamesindustry.biz/investors-hate-roblox-new-direction-but-a-reversal-may-be-impossible-opinion
