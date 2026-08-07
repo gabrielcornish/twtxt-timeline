@@ -3,7 +3,6 @@
 # source = https://www.gamesindustry.biz/feed
 # description = twtxt conversion of https://www.gamesindustry.biz/feed
 
-2026-07-27T21:11:39+00:00	Video Game History Foundation releases major new E3 archive collections https://www.gamesindustry.biz/video-game-history-foundation-releases-major-new-e3-archive-collections
 2026-07-28T07:47:53+00:00	Xbox explains outage preventing players from accessing games, CTO says it will "do better" https://www.gamesindustry.biz/xbox-explains-outage-preventing-players-from-accessing-games-cto-says-it-will-do-better
 2026-07-28T09:00:00+00:00	Games for Change Festival to expand and move to new cities https://www.gamesindustry.biz/games-for-change-festival-to-expand-and-move-to-new-cities
 2026-07-28T10:21:38+00:00	John Hight steps down as Wizards of the Coast president https://www.gamesindustry.biz/john-hight-steps-down-as-wizards-of-the-coast-president
@@ -53,3 +52,4 @@
 2026-08-06T11:01:00+00:00	UK Employment Rights Act 2025: Harassment law is getting tougher – and games companies need to be ready https://www.gamesindustry.biz/uk-employment-rights-act-2025-harassment-law-is-getting-tougher-and-games-companies-need-to-be-ready
 2026-08-06T13:17:27+00:00	Roblox shares fall 70% following lower-than-expected monetisation during Q2 https://www.gamesindustry.biz/roblox-shares-fall-70-following-lower-than-expected-monetisation-during-q2
 2026-08-07T08:02:24+00:00	Unity records "best quarter in history" following continued success of Vector AI https://www.gamesindustry.biz/unity-records-best-quarter-in-history-following-continued-success-of-vector-ai
+2026-08-07T10:04:32+00:00	Tripledot Studios acquires Supersonic from Unity for $40m https://www.gamesindustry.biz/tripledot-studios-acquires-supersonic-from-unity-for-40m
