@@ -1,0 +1,30 @@
+# nick = 🎮-Reddit-Games
+# url = https://raw.githubusercontent.com/gabrielcornish/twtxt-timeline/main/feeds/reddit-games.txt
+# source = https://www.reddit.com/r/Games.rss
+# description = twtxt conversion of https://www.reddit.com/r/Games.rss
+
+2026-08-05T11:00:42+00:00	Daily /r/Games Discussion - Suggest Me a Game - August 05, 2026 https://www.reddit.com/r/Games/comments/1vg45i2/daily_rgames_discussion_suggest_me_a_game_august/
+2026-08-05T21:58:24+00:00	Memory capacity for all of 2027 has reportedly been booked and sold, with no more DRAM or HBM available https://www.reddit.com/r/Games/comments/1vgldq5/memory_capacity_for_all_of_2027_has_reportedly/
+2026-08-06T04:49:49+00:00	Debanked adult game developers in Japan face tax nightmare as they still get taxed on income they're blocked from receiving, indie creator says - AUTOMATON WEST https://www.reddit.com/r/Games/comments/1vguh9f/debanked_adult_game_developers_in_japan_face_tax/
+2026-08-06T06:33:49+00:00	Nintendo Switch has reached 156.59 million units sold. Nintendo Switch 2 has reached 23.68 million million units sold. https://www.reddit.com/r/Games/comments/1vgwdcw/nintendo_switch_has_reached_15659_million_units/
+2026-08-06T09:17:27+00:00	Digimon Story Time Stranger fastest selling title in series, drove Digimon IP to historical record profits, says Bandai Namco Entertainment President https://www.reddit.com/r/Games/comments/1vgz6ag/digimon_story_time_stranger_fastest_selling_title/
+2026-08-06T11:22:36+00:00	Devolver Digital intends to go private https://www.reddit.com/r/Games/comments/1vh1gb8/devolver_digital_intends_to_go_private/
+2026-08-06T12:02:58+00:00	Grand Theft Auto VI: An Extended Look premieres on Thursday, August 27 at 3 p.m. ET. https://www.reddit.com/r/Games/comments/1vh2ak7/grand_theft_auto_vi_an_extended_look_premieres_on/
+2026-08-06T13:43:48+00:00	Warrior Cats: Clans of the Forest - Announce Trailer https://www.reddit.com/r/Games/comments/1vh4np7/warrior_cats_clans_of_the_forest_announce_trailer/
+2026-08-06T13:47:44+00:00	TOEM 2 - Release Date Trailer https://www.reddit.com/r/Games/comments/1vh4r4c/toem_2_release_date_trailer/
+2026-08-06T15:46:11+00:00	Onimusha: Way of the Sword - Severing Fates Trailer https://www.reddit.com/r/Games/comments/1vh7xx7/onimusha_way_of_the_sword_severing_fates_trailer/
+2026-08-06T15:53:14+00:00	After 2 Hours, Capcom's New Onimusha Is My Most-Anticipated Action Game of 2026 https://www.reddit.com/r/Games/comments/1vh8532/after_2_hours_capcoms_new_onimusha_is_my/
+2026-08-06T16:03:49+00:00	Ghost Recon Wildlands: Last Rites – Everything you need to know https://www.reddit.com/r/Games/comments/1vh8g9z/ghost_recon_wildlands_last_rites_everything_you/
+2026-08-06T16:04:29+00:00	ReStory: Chill Electronics Repairs - Review Thread https://www.reddit.com/r/Games/comments/1vh8gz7/restory_chill_electronics_repairs_review_thread/
+2026-08-06T16:13:42+00:00	Sovereign Tower - story-rich, Round Table management RPG is out now! https://www.reddit.com/r/Games/comments/1vh8qe7/sovereign_tower_storyrich_round_table_management/
+2026-08-06T16:18:46+00:00	Tough Call | D.Mon Hero Trailer | Overwatch https://www.reddit.com/r/Games/comments/1vh8vh4/tough_call_dmon_hero_trailer_overwatch/
+2026-08-06T16:52:56+00:00	BALL x PIT releases final free update with new characters and balls, and teases "the adventure isn’t over – keep an eye out for some big, exciting BALL x PIT news coming very soon" https://www.reddit.com/r/Games/comments/1vh9tkr/ball_x_pit_releases_final_free_update_with_new/
+2026-08-06T17:03:19+00:00	Last Epoch Official Teaser Trailer | Season 5 - Rage of the Frostborn https://www.reddit.com/r/Games/comments/1vha44g/last_epoch_official_teaser_trailer_season_5_rage/
+2026-08-06T17:06:42+00:00	New Free Quake Episode Announced: Dawn Of The Machine https://www.reddit.com/r/Games/comments/1vha7f2/new_free_quake_episode_announced_dawn_of_the/
+2026-08-06T17:39:10+00:00	IRON NEST: OUT NOW | Official Launch Trailer https://www.reddit.com/r/Games/comments/1vhb4ds/iron_nest_out_now_official_launch_trailer/
+2026-08-06T17:44:28+00:00	Moomintroll: Winter's Warmth is coming to Playstation 5 & Nintendo Switch 2 on September 18th 🎉 https://www.reddit.com/r/Games/comments/1vhb9qw/moomintroll_winters_warmth_is_coming_to/
+2026-08-06T18:10:40+00:00	PEAK: The Final Ascent | Teaser Trailer https://www.reddit.com/r/Games/comments/1vhbzxa/peak_the_final_ascent_teaser_trailer/
+2026-08-06T18:12:43+00:00	Quake: Dawn of the Machine — Launch Trailer https://www.reddit.com/r/Games/comments/1vhc1xi/quake_dawn_of_the_machine_launch_trailer/
+2026-08-06T20:07:38+00:00	Digital Foundry Review: Quake's Free 30th Anniversary "Dawn of the Machine" Episode from MachineGames Is an Ambitious Celebration of the Game's History https://www.reddit.com/r/Games/comments/1vhf76s/digital_foundry_review_quakes_free_30th/
+2026-08-07T01:05:25+00:00	Marvel Tokon: Fighting Souls Has Day-One Issues On PC – Steam Deck players are also shut out from playing Marvel Tokon: Fighting Souls as the game makes its debut. https://www.reddit.com/r/Games/comments/1vhme0f/marvel_tokon_fighting_souls_has_dayone_issues_on/
+2026-08-07T05:37:31+00:00	Connie and the Essence of Chaos - the love child of Ryemanni, the creator of Rayman Redemption fangame https://www.reddit.com/r/Games/comments/1vhrw2y/connie_and_the_essence_of_chaos_the_love_child_of/
