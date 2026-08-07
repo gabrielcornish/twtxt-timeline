@@ -4,7 +4,6 @@
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
 2026-08-05T11:00:42+00:00	Daily /r/Games Discussion - Suggest Me a Game - August 05, 2026 https://www.reddit.com/r/Games/comments/1vg45i2/daily_rgames_discussion_suggest_me_a_game_august/
-2026-08-05T18:19:37+00:00	I left the God of War team and just released Gunstoppable as a solo dev. AMA! https://www.reddit.com/r/Games/comments/1vgfeol/i_left_the_god_of_war_team_and_just_released/
 2026-08-05T21:58:24+00:00	Memory capacity for all of 2027 has reportedly been booked and sold, with no more DRAM or HBM available https://www.reddit.com/r/Games/comments/1vgldq5/memory_capacity_for_all_of_2027_has_reportedly/
 2026-08-06T04:49:49+00:00	Debanked adult game developers in Japan face tax nightmare as they still get taxed on income they're blocked from receiving, indie creator says - AUTOMATON WEST https://www.reddit.com/r/Games/comments/1vguh9f/debanked_adult_game_developers_in_japan_face_tax/
 2026-08-06T06:33:49+00:00	Nintendo Switch has reached 156.59 million units sold. Nintendo Switch 2 has reached 23.68 million million units sold. https://www.reddit.com/r/Games/comments/1vgwdcw/nintendo_switch_has_reached_15659_million_units/
@@ -28,3 +27,4 @@
 2026-08-06T18:10:40+00:00	PEAK: The Final Ascent | Teaser Trailer https://www.reddit.com/r/Games/comments/1vhbzxa/peak_the_final_ascent_teaser_trailer/
 2026-08-06T18:12:43+00:00	Quake: Dawn of the Machine — Launch Trailer https://www.reddit.com/r/Games/comments/1vhc1xi/quake_dawn_of_the_machine_launch_trailer/
 2026-08-06T20:07:38+00:00	Digital Foundry Review: Quake's Free 30th Anniversary "Dawn of the Machine" Episode from MachineGames Is an Ambitious Celebration of the Game's History https://www.reddit.com/r/Games/comments/1vhf76s/digital_foundry_review_quakes_free_30th/
+2026-08-07T01:05:25+00:00	Marvel Tokon: Fighting Souls Has Day-One Issues On PC – Steam Deck players are also shut out from playing Marvel Tokon: Fighting Souls as the game makes its debut. https://www.reddit.com/r/Games/comments/1vhme0f/marvel_tokon_fighting_souls_has_dayone_issues_on/
