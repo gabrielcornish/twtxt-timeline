@@ -4,15 +4,10 @@
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
 2026-08-05T11:00:42+00:00	Daily /r/Games Discussion - Suggest Me a Game - August 05, 2026 https://www.reddit.com/r/Games/comments/1vg45i2/daily_rgames_discussion_suggest_me_a_game_august/
-2026-08-06T09:17:27+00:00	Digimon Story Time Stranger fastest selling title in series, drove Digimon IP to historical record profits, says Bandai Namco Entertainment President https://www.reddit.com/r/Games/comments/1vgz6ag/digimon_story_time_stranger_fastest_selling_title/
 2026-08-06T11:22:36+00:00	Devolver Digital intends to go private https://www.reddit.com/r/Games/comments/1vh1gb8/devolver_digital_intends_to_go_private/
 2026-08-06T12:02:58+00:00	Grand Theft Auto VI: An Extended Look premieres on Thursday, August 27 at 3 p.m. ET. https://www.reddit.com/r/Games/comments/1vh2ak7/grand_theft_auto_vi_an_extended_look_premieres_on/
-2026-08-06T13:43:48+00:00	Warrior Cats: Clans of the Forest - Announce Trailer https://www.reddit.com/r/Games/comments/1vh4np7/warrior_cats_clans_of_the_forest_announce_trailer/
-2026-08-06T15:53:14+00:00	After 2 Hours, Capcom's New Onimusha Is My Most-Anticipated Action Game of 2026 https://www.reddit.com/r/Games/comments/1vh8532/after_2_hours_capcoms_new_onimusha_is_my/
-2026-08-06T16:03:49+00:00	Ghost Recon Wildlands: Last Rites – Everything you need to know https://www.reddit.com/r/Games/comments/1vh8g9z/ghost_recon_wildlands_last_rites_everything_you/
 2026-08-06T16:18:46+00:00	Tough Call | D.Mon Hero Trailer | Overwatch https://www.reddit.com/r/Games/comments/1vh8vh4/tough_call_dmon_hero_trailer_overwatch/
 2026-08-06T16:52:56+00:00	BALL x PIT releases final free update with new characters and balls, and teases "the adventure isn’t over – keep an eye out for some big, exciting BALL x PIT news coming very soon" https://www.reddit.com/r/Games/comments/1vh9tkr/ball_x_pit_releases_final_free_update_with_new/
-2026-08-06T17:06:42+00:00	New Free Quake Episode Announced: Dawn Of The Machine https://www.reddit.com/r/Games/comments/1vha7f2/new_free_quake_episode_announced_dawn_of_the/
 2026-08-06T17:39:10+00:00	IRON NEST: OUT NOW | Official Launch Trailer https://www.reddit.com/r/Games/comments/1vhb4ds/iron_nest_out_now_official_launch_trailer/
 2026-08-06T18:10:40+00:00	PEAK: The Final Ascent | Teaser Trailer https://www.reddit.com/r/Games/comments/1vhbzxa/peak_the_final_ascent_teaser_trailer/
 2026-08-06T18:12:43+00:00	Quake: Dawn of the Machine — Launch Trailer https://www.reddit.com/r/Games/comments/1vhc1xi/quake_dawn_of_the_machine_launch_trailer/
@@ -28,3 +23,8 @@
 2026-08-07T14:18:09+00:00	IKARUS | Early Access Trailer – arcade SHMUP meets roguelike deck-builder https://www.reddit.com/r/Games/comments/1vi1wml/ikarus_early_access_trailer_arcade_shmup_meets/
 2026-08-07T16:03:06+00:00	Ambrosia Sky Act Two Launch Trailer https://www.reddit.com/r/Games/comments/1vi4oyw/ambrosia_sky_act_two_launch_trailer/
 2026-08-07T16:06:21+00:00	Star Wars: Galactic Racer - Landspeeders Trailer https://www.reddit.com/r/Games/comments/1vi4s4x/star_wars_galactic_racer_landspeeders_trailer/
+2026-08-07T16:25:03+00:00	D.Mon | New Hero Gameplay Trailer | Overwatch https://www.reddit.com/r/Games/comments/1vi5aka/dmon_new_hero_gameplay_trailer_overwatch/
+2026-08-07T16:29:48+00:00	Control Resonant: Exclusive Metro Fault Mission Gameplay — IGN First https://www.reddit.com/r/Games/comments/1vi5f6l/control_resonant_exclusive_metro_fault_mission/
+2026-08-07T16:37:10+00:00	Breathedge 2 — Early Access Launch Trailer https://www.reddit.com/r/Games/comments/1vi5mib/breathedge_2_early_access_launch_trailer/
+2026-08-07T16:40:04+00:00	Serious Sam: Shatterverse - Release Date Trailer https://www.reddit.com/r/Games/comments/1vi5pdt/serious_sam_shatterverse_release_date_trailer/
+2026-08-07T16:41:35+00:00	Control Resonant: Exclusive Metro Fault Mission Gameplay — IGN First https://www.reddit.com/r/Games/comments/1vi5qxi/control_resonant_exclusive_metro_fault_mission/

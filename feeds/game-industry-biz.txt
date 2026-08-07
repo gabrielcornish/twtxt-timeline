@@ -3,7 +3,6 @@
 # source = https://www.gamesindustry.biz/feed
 # description = twtxt conversion of https://www.gamesindustry.biz/feed
 
-2026-07-28T12:17:32+00:00	"Across the industry, we don't think enough about how we match the scope to what we're making" – Mike Bithell on why the world needs an im-slim https://www.gamesindustry.biz/across-the-industry-we-dont-think-enough-about-how-we-match-the-scope-to-what-were-making-mike-bithell-on-why-the-world-needs-an-im-slim
 2026-07-28T13:44:03+00:00	New data suggests layoffs will affect 14,259 people by the end of 2026, up 78% from first forecast of the year https://www.gamesindustry.biz/new-data-suggests-layoffs-will-affect-14259-people-by-the-end-of-2026-up-78-from-first-forecast-of-the-year
 2026-07-29T07:26:52+00:00	Double Fine Productions cuts 23 roles as it becomes independent from Xbox https://www.gamesindustry.biz/double-fine-productions-cuts-23-roles-as-it-becomes-independent-from-xbox
 2026-07-29T08:55:39+00:00	UK Games Fund announces largest cohort of indie studios to receive grants of up to £100,000 https://www.gamesindustry.biz/uk-games-fund-announces-largest-cohort-of-indie-studios-to-receive-grants-of-up-to-100000
@@ -53,3 +52,4 @@
 2026-08-07T13:40:25+00:00	Former Icelandic minister joins Fenris Creations to lead new AI partnerships https://www.gamesindustry.biz/former-icelandic-minister-joins-fenris-creations-to-lead-new-ai-partnerships
 2026-08-07T14:06:32+00:00	Analyst: AI-focused M&A deals are "weakening" the games investment landscape https://www.gamesindustry.biz/analyst-ai-focused-ma-deals-are-weakening-the-games-investment-landscape
 2026-08-07T14:53:37+00:00	Investors hate Roblox’ new direction – but a reversal may be impossible | Opinion https://www.gamesindustry.biz/investors-hate-roblox-new-direction-but-a-reversal-may-be-impossible-opinion
+2026-08-07T16:26:16+00:00	Strauss Zelnick: Netflix debut is merely "one of the hors d'oeuvres" for full GTA 6 launch; pre-order numbers are "unprecedented and astonishing" https://www.gamesindustry.biz/strauss-zelnick-netflix-debut-is-merely-one-of-the-hors-doeuvres-for-full-gta-6-launch-pre-order-numbers-are-unprecedented-and-astonishing
