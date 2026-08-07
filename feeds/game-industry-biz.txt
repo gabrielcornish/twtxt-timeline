@@ -3,7 +3,6 @@
 # source = https://www.gamesindustry.biz/feed
 # description = twtxt conversion of https://www.gamesindustry.biz/feed
 
-2026-07-27T18:39:58+00:00	Atari signs 10-title film deal with Universal https://www.gamesindustry.biz/atari-signs-10-title-film-deal-with-universal
 2026-07-27T21:11:39+00:00	Video Game History Foundation releases major new E3 archive collections https://www.gamesindustry.biz/video-game-history-foundation-releases-major-new-e3-archive-collections
 2026-07-28T07:47:53+00:00	Xbox explains outage preventing players from accessing games, CTO says it will "do better" https://www.gamesindustry.biz/xbox-explains-outage-preventing-players-from-accessing-games-cto-says-it-will-do-better
 2026-07-28T09:00:00+00:00	Games for Change Festival to expand and move to new cities https://www.gamesindustry.biz/games-for-change-festival-to-expand-and-move-to-new-cities
@@ -44,7 +43,7 @@
 2026-08-05T05:00:00+00:00	Secret Mode opens new Sheffield studio to support internal titles https://www.gamesindustry.biz/secret-mode-opens-new-sheffield-studio-to-support-internal-titles-starting-with-escape-the-backrooms-and-chained-together
 2026-08-05T08:00:00+00:00	Raptor PR launches Early Gaming Growth platform to help gaming startups navigate B2B communications https://www.gamesindustry.biz/raptor-pr-launches-early-gaming-growth-platform-to-help-gaming-startups-navigate-b2b-communications
 2026-08-05T08:07:24+00:00	Electronic Arts completes $55bn acquisition; CEO announces senior leadership changes https://www.gamesindustry.biz/electronic-arts-completes-55bn-acquisition-ceo-announces-senior-leadership-changes
-2026-08-05T10:57:10+00:00	Jobs roundup: August 2026 | Three new hires at Yogscast Games https://www.gamesindustry.biz/jobs-roundup-august-2026-three-new-hires-at-yogscast-games
+2026-08-05T10:57:10+00:00	Jobs roundup: August 2026 | Frontier Developments appoints Dan Lazarides as CMO https://www.gamesindustry.biz/jobs-roundup-august-2026-frontier-developments-appoints-dan-lazarides-as-cmo
 2026-08-05T13:11:29+00:00	Silver Lining Interactive launches first title from its development label Silver Bullet https://www.gamesindustry.biz/silver-lining-interactive-launches-first-title-from-its-development-label-silver-bullet
 2026-08-05T16:21:44+00:00	Phasmophobia developer's indie label Kinetic Publishing to reveal debut slate at showcase later this month https://www.gamesindustry.biz/phasmophobia-developers-indie-label-kinetic-publishing-to-reveal-debut-slate-at-showcase-this-august
 2026-08-05T18:41:43+00:00	King declines collective bargaining agreement with Swedish unions https://www.gamesindustry.biz/king-declines-collective-bargaining-agreement-with-swedish-unions
@@ -53,3 +52,4 @@
 2026-08-06T10:00:00+00:00	Kudos Games Services expands leadership team with Testronic and Team17 execs https://www.gamesindustry.biz/kudos-games-services-expands-leadership-team-with-testronic-and-team17-execs
 2026-08-06T11:01:00+00:00	UK Employment Rights Act 2025: Harassment law is getting tougher – and games companies need to be ready https://www.gamesindustry.biz/uk-employment-rights-act-2025-harassment-law-is-getting-tougher-and-games-companies-need-to-be-ready
 2026-08-06T13:17:27+00:00	Roblox shares fall 70% following lower-than-expected monetisation during Q2 https://www.gamesindustry.biz/roblox-shares-fall-70-following-lower-than-expected-monetisation-during-q2
+2026-08-07T08:02:24+00:00	Unity records "best quarter in history" following continued success of Vector AI https://www.gamesindustry.biz/unity-records-best-quarter-in-history-following-continued-success-of-vector-ai
