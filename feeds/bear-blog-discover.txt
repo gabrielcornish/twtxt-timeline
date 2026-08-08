@@ -3,23 +3,23 @@
 # source = https://bearblog.dev/discover/feed/
 # description = twtxt conversion of https://bearblog.dev/discover/feed/
 
-2026-08-03T15:24:00+00:00	Things I believed as a child https://departure.blog/things-i-believed-as-a-child/
-2026-08-04T18:12:35.456250+00:00	There are people around me, but I feel lonely. https://piimyon.bearblog.dev/there-are-people-around-me-but-i-feel-lonely/
-2026-08-04T19:58:17.262564+00:00	pick a lane https://mattiverse.online/pick-a-lane/
 2026-08-04T23:42:00+00:00	It's my birthday! Here's my wishlist https://folkmoss.bearblog.dev/its-my-birthday/
-2026-08-05T01:49:13.792203+00:00	Do you feel like unplugging? https://moodywarlock.net/do-you-feel-like-unplugging/
 2026-08-05T12:04:00+00:00	Committing to creativity https://herman.bearblog.dev/creativity/
 2026-08-05T16:25:26.523773+00:00	My baby nephew and AI https://folkmoss.bearblog.dev/my-baby-nephew-and-ai/
 2026-08-06T00:01:00+00:00	I'll do it by hand. https://bard.bearblog.dev/do-it-by-hand/
-2026-08-06T01:11:00+00:00	What I'm Doing Right Now https://vivian.bearblog.dev/now/
 2026-08-06T03:58:00+00:00	august 5 bro https://combatdavey.net/august-5-2026/
 2026-08-06T04:16:00+00:00	Connectivity and Sensitivity, and the difference between the two https://vivian.bearblog.dev/connectivity-and-sensitivity-and-the-difference-between-the-two/
 2026-08-06T05:00:00+00:00	You’re So Bored You’re Even Reading This https://jdtorian.com/youre-so-bored-youre-even-reading-this/
 2026-08-06T06:08:00+00:00	Abandoned map project https://blog.lauramichet.com/abandoned-map-project/
 2026-08-06T08:15:00+00:00	seeing the person behind the piece https://blog.avas.space/behind-the-piece/
+2026-08-06T14:52:00+00:00	Don't use your phone while you poop! https://nate.spot/no-phone-while-poop/
 2026-08-06T18:40:00+00:00	Writing so bad it never gets flagged as AI https://tofukat.bearblog.dev/writing-so-bad-it-never-gets-flagged-as-ai/
 2026-08-06T19:19:00+00:00	I got a new bike for my birthday. https://jetgirl.art/i-got-a-new-bike-for-my-birthday/
 2026-08-06T19:34:00+00:00	I finally went to the Getty Villa https://blog.lauramichet.com/i-finally-went-to-the-getty-villa/
 2026-08-07T00:08:00+00:00	Do I need a course on friendship? https://vivian.bearblog.dev/do-i-need-a-course-on-friendship/
 2026-08-07T03:58:00+00:00	august 6 guh https://combatdavey.net/august-6-2026/
 2026-08-07T16:43:00+00:00	letting an LLM write an indie web parody post https://blog.avas.space/parody-post/
+2026-08-07T17:59:00+00:00	Why I made a DeGoogle directory https://mgx.bearblog.dev/why-i-made-a-degoogle-directory/
+2026-08-07T18:29:00+00:00	On "AI" https://awespren.bearblog.dev/on-ai/
+2026-08-07T18:33:00+00:00	Laugh 3 times at AI https://itsme.bearblog.dev/laugh-3-times-at-ai/
+2026-08-07T22:06:00+00:00	If Buying Isn't Owning https://householderkarl.com/if-buying-isnt-owning/
