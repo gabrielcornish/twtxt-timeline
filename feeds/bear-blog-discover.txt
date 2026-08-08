@@ -3,8 +3,6 @@
 # source = https://bearblog.dev/discover/feed/
 # description = twtxt conversion of https://bearblog.dev/discover/feed/
 
-2026-08-05T14:56:00+00:00	heard you was... https://blog.curiousquail.com/heard-you-was-blaugust26/
-2026-08-05T16:25:26.523773+00:00	My baby nephew and AI https://folkmoss.bearblog.dev/my-baby-nephew-and-ai/
 2026-08-06T00:01:00+00:00	I'll do it by hand. https://bard.bearblog.dev/do-it-by-hand/
 2026-08-06T03:58:00+00:00	august 5 bro https://combatdavey.net/august-5-2026/
 2026-08-06T04:16:00+00:00	Connectivity and Sensitivity, and the difference between the two https://vivian.bearblog.dev/connectivity-and-sensitivity-and-the-difference-between-the-two/
@@ -23,3 +21,5 @@
 2026-08-07T18:33:00+00:00	Laugh 3 times at AI https://itsme.bearblog.dev/laugh-3-times-at-ai/
 2026-08-07T22:06:00+00:00	If Buying Isn't Owning https://householderkarl.com/if-buying-isnt-owning/
 2026-08-08T01:20:00+00:00	Rally against Flock cameras in Melbourne, FL - Aug 19 https://fldigitalrights.org/rally-against-flock-cameras-in-melbourne-fl/
+2026-08-08T02:03:04.232602+00:00	Are search engines obtuse on purpose? https://itsme.bearblog.dev/are-search-engines-obtuse-on-purpose/
+2026-08-08T05:57:00+00:00	i also hate fictional AIs now https://cherrysroom.bearblog.dev/i-also-hate-fictional-ais-now/
