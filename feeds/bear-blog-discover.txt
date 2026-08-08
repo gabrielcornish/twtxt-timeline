@@ -3,7 +3,6 @@
 # source = https://bearblog.dev/discover/feed/
 # description = twtxt conversion of https://bearblog.dev/discover/feed/
 
-2026-08-04T23:42:00+00:00	It's my birthday! Here's my wishlist https://folkmoss.bearblog.dev/its-my-birthday/
 2026-08-05T12:04:00+00:00	Committing to creativity https://herman.bearblog.dev/creativity/
 2026-08-05T16:25:26.523773+00:00	My baby nephew and AI https://folkmoss.bearblog.dev/my-baby-nephew-and-ai/
 2026-08-06T00:01:00+00:00	I'll do it by hand. https://bard.bearblog.dev/do-it-by-hand/
@@ -23,3 +22,4 @@
 2026-08-07T18:29:00+00:00	On "AI" https://awespren.bearblog.dev/on-ai/
 2026-08-07T18:33:00+00:00	Laugh 3 times at AI https://itsme.bearblog.dev/laugh-3-times-at-ai/
 2026-08-07T22:06:00+00:00	If Buying Isn't Owning https://householderkarl.com/if-buying-isnt-owning/
+2026-08-08T01:20:00+00:00	Rally against Flock cameras in Melbourne, FL - Aug 19 https://fldigitalrights.org/rally-against-flock-cameras-in-melbourne-fl/
