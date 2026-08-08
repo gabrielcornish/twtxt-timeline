@@ -4,7 +4,6 @@
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
 2026-08-05T11:00:42+00:00	Daily /r/Games Discussion - Suggest Me a Game - August 05, 2026 https://www.reddit.com/r/Games/comments/1vg45i2/daily_rgames_discussion_suggest_me_a_game_august/
-2026-08-06T12:02:58+00:00	Grand Theft Auto VI: An Extended Look premieres on Thursday, August 27 at 3 p.m. ET. https://www.reddit.com/r/Games/comments/1vh2ak7/grand_theft_auto_vi_an_extended_look_premieres_on/
 2026-08-07T01:05:25+00:00	Marvel Tokon: Fighting Souls Has Day-One Issues On PC – Steam Deck players are also shut out from playing Marvel Tokon: Fighting Souls as the game makes its debut. https://www.reddit.com/r/Games/comments/1vhme0f/marvel_tokon_fighting_souls_has_dayone_issues_on/
 2026-08-07T08:59:42+00:00	Trails in the Sky 2nd Chapter — Final Trailer https://www.reddit.com/r/Games/comments/1vhvbt1/trails_in_the_sky_2nd_chapter_final_trailer/
 2026-08-07T09:45:44+00:00	Contractors lose jobs but Xbox source says no layoffs of staff at Halo Studios https://www.reddit.com/r/Games/comments/1vhw3rd/contractors_lose_jobs_but_xbox_source_says_no/
@@ -28,3 +27,4 @@
 2026-08-08T02:25:22+00:00	Sovereign Tower looks like a cosy management game, but it's ruthless, full of murder and impossible choices, and features one of the best time travel systems I've ever encountered https://www.reddit.com/r/Games/comments/1vijvz4/sovereign_tower_looks_like_a_cosy_management_game/
 2026-08-08T03:45:41+00:00	Who Gets Left Behind In Sony's All-Digital Future? https://www.reddit.com/r/Games/comments/1viliba/who_gets_left_behind_in_sonys_alldigital_future/
 2026-08-08T05:12:20+00:00	Marvel Says Popularity Was Only One Of Three Main Criteria For Marvel Tokon's Roster https://www.reddit.com/r/Games/comments/1vin68e/marvel_says_popularity_was_only_one_of_three_main/
+2026-08-08T08:58:24+00:00	Beastfolk Barber Demo Trailer | Wholesome Games Celebration https://www.reddit.com/r/Games/comments/1vir13l/beastfolk_barber_demo_trailer_wholesome_games/
