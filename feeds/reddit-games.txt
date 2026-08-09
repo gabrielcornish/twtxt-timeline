@@ -4,7 +4,6 @@
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
 2026-08-05T11:00:42+00:00	Daily /r/Games Discussion - Suggest Me a Game - August 05, 2026 https://www.reddit.com/r/Games/comments/1vg45i2/daily_rgames_discussion_suggest_me_a_game_august/
-2026-08-08T08:58:24+00:00	Beastfolk Barber Demo Trailer | Wholesome Games Celebration https://www.reddit.com/r/Games/comments/1vir13l/beastfolk_barber_demo_trailer_wholesome_games/
 2026-08-08T15:18:52+00:00	New Kingdom Hearts 4 Details Revealed Early Through D23: Kingdom Hearts 4 will be co-directed by Tai Yasue. David Gallagher will return as the voice of Riku in Kingdom Hearts 4. https://www.reddit.com/r/Games/comments/1viyn84/new_kingdom_hearts_4_details_revealed_early/
 2026-08-08T15:25:45+00:00	Red Dead Redemption 2 has now Sold 87 Million Units https://www.reddit.com/r/Games/comments/1viyt61/red_dead_redemption_2_has_now_sold_87_million/
 2026-08-08T17:42:41+00:00	‘Star Trek: Legends’ Is The Latest Trek Game To Be Pulled From Storefronts https://www.reddit.com/r/Games/comments/1vj26jk/star_trek_legends_is_the_latest_trek_game_to_be/
@@ -17,6 +16,7 @@
 2026-08-09T07:55:38+00:00	Into The Grid - Flatline Studios - Live your cyberpunk hacker fantasy, infiltrate servers and explore cyberspace! https://www.reddit.com/r/Games/comments/1vjjvue/into_the_grid_flatline_studios_live_your/
 2026-08-09T10:09:15+00:00	Wizardry - The RPG that invented RPGs https://www.reddit.com/r/Games/comments/1vjm3cd/wizardry_the_rpg_that_invented_rpgs/
 2026-08-09T10:48:31+00:00	Rewindead Demo - Spellwork - Tactical third-person shooter https://www.reddit.com/r/Games/comments/1vjmrgs/rewindead_demo_spellwork_tactical_thirdperson/
+2026-08-09T11:25:07+00:00	Pit Panic - Flying Rat Studio - Arcade-style score driven roguelike platformer https://www.reddit.com/r/Games/comments/1vjnfac/pit_panic_flying_rat_studio_arcadestyle_score/
 2026-08-09T11:46:54+00:00	Sepulchron - Lunar Blank - Immersive sim Puzzle Action Game https://www.reddit.com/r/Games/comments/1vjntkv/sepulchron_lunar_blank_immersive_sim_puzzle/
 2026-08-09T12:15:15+00:00	SHADOW RUSH - Andrew Teo - Fast paced Isometric ARPG/Roguelite hybrid focused on quick runs, rerolling and experimentation, where attacks trigger automatic spells based on your build https://www.reddit.com/r/Games/comments/1vjodbi/shadow_rush_andrew_teo_fast_paced_isometric/
 2026-08-09T12:18:31+00:00	Future Knight - Official Release Date Trailer https://www.reddit.com/r/Games/comments/1vjofrp/future_knight_official_release_date_trailer/
