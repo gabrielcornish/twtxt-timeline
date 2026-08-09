@@ -5,8 +5,6 @@
 
 2026-08-05T11:00:42+00:00	Daily /r/Games Discussion - Suggest Me a Game - August 05, 2026 https://www.reddit.com/r/Games/comments/1vg45i2/daily_rgames_discussion_suggest_me_a_game_august/
 2026-08-07T13:49:53+00:00	Take-Two Boss Defends No Disc Version of GTA 6, Equates Physical Releases to Vinyl Records https://www.reddit.com/r/Games/comments/1vi16w4/taketwo_boss_defends_no_disc_version_of_gta_6/
-2026-08-07T16:06:21+00:00	Star Wars: Galactic Racer - Landspeeders Trailer https://www.reddit.com/r/Games/comments/1vi4s4x/star_wars_galactic_racer_landspeeders_trailer/
-2026-08-07T16:25:03+00:00	D.Mon | New Hero Gameplay Trailer | Overwatch https://www.reddit.com/r/Games/comments/1vi5aka/dmon_new_hero_gameplay_trailer_overwatch/
 2026-08-07T20:18:01+00:00	Jason Schreier - Grand Theft Auto VI Pre-Orders 'Vastly' Beat Expectations, Take-Two CEO Tells Me https://www.reddit.com/r/Games/comments/1vibkkq/jason_schreier_grand_theft_auto_vi_preorders/
 2026-08-08T02:25:22+00:00	Sovereign Tower looks like a cosy management game, but it's ruthless, full of murder and impossible choices, and features one of the best time travel systems I've ever encountered https://www.reddit.com/r/Games/comments/1vijvz4/sovereign_tower_looks_like_a_cosy_management_game/
 2026-08-08T05:12:20+00:00	Marvel Says Popularity Was Only One Of Three Main Criteria For Marvel Tokon's Roster https://www.reddit.com/r/Games/comments/1vin68e/marvel_says_popularity_was_only_one_of_three_main/
@@ -28,3 +26,5 @@
 2026-08-09T09:00:32+00:00	Weekly /r/Games Discussion - What have you been playing, and what are your thoughts? - August 09, 2026 https://www.reddit.com/r/Games/comments/1vjkyi7/weekly_rgames_discussion_what_have_you_been/
 2026-08-09T10:09:15+00:00	Wizardry - The RPG that invented RPGs https://www.reddit.com/r/Games/comments/1vjm3cd/wizardry_the_rpg_that_invented_rpgs/
 2026-08-09T10:48:31+00:00	Rewindead Demo - Spellwork - Tactical third-person shooter https://www.reddit.com/r/Games/comments/1vjmrgs/rewindead_demo_spellwork_tactical_thirdperson/
+2026-08-09T11:08:47+00:00	Circulo - Zyneros Studio - Fast-paced 2D arena survival built around geometric chaos https://www.reddit.com/r/Games/comments/1vjn4it/circulo_zyneros_studio_fastpaced_2d_arena/
+2026-08-09T11:25:07+00:00	Pit Panic - Flying Rat Studio - Arcade-style score driven roguelike platformer https://www.reddit.com/r/Games/comments/1vjnfac/pit_panic_flying_rat_studio_arcadestyle_score/
