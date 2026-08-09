@@ -11,13 +11,10 @@
 2026-08-08T22:42:51+00:00	Jazz Jackrabbit 2 Plus | Trailer [GOG] https://www.reddit.com/r/Games/comments/1vj99o5/jazz_jackrabbit_2_plus_trailer_gog/
 2026-08-09T04:00:46+00:00	Indie Sunday Hub - August 9, 2026 https://www.reddit.com/r/Games/comments/1vjfpsm/indie_sunday_hub_august_9_2026/
 2026-08-09T04:15:06+00:00	Moomin: Midsummer Madness Release Timing Announcement Trailer (Autumn 2026) https://www.reddit.com/r/Games/comments/1vjfzkw/moomin_midsummer_madness_release_timing/
-2026-08-09T05:43:58+00:00	Cozy Home Designer - Jonas Tag - relaxing isometric home decoration game https://www.reddit.com/r/Games/comments/1vjhlxo/cozy_home_designer_jonas_tag_relaxing_isometric/
 2026-08-09T06:46:48+00:00	Doom dev blasts Xbox after Microsoft 'Gutted' id Sofware with layoffs: “they fundamentally don’t understand art” and “it’s hard to make a game when there are entire departments that are gutted that you need, entire disciplines that are gone”. https://www.reddit.com/r/Games/comments/1vjip33/doom_dev_blasts_xbox_after_microsoft_gutted_id/
 2026-08-09T07:55:38+00:00	Into The Grid - Flatline Studios - Live your cyberpunk hacker fantasy, infiltrate servers and explore cyberspace! https://www.reddit.com/r/Games/comments/1vjjvue/into_the_grid_flatline_studios_live_your/
 2026-08-09T10:09:15+00:00	Wizardry - The RPG that invented RPGs https://www.reddit.com/r/Games/comments/1vjm3cd/wizardry_the_rpg_that_invented_rpgs/
 2026-08-09T10:48:31+00:00	Rewindead Demo - Spellwork - Tactical third-person shooter https://www.reddit.com/r/Games/comments/1vjmrgs/rewindead_demo_spellwork_tactical_thirdperson/
-2026-08-09T11:25:07+00:00	Pit Panic - Flying Rat Studio - Arcade-style score driven roguelike platformer https://www.reddit.com/r/Games/comments/1vjnfac/pit_panic_flying_rat_studio_arcadestyle_score/
-2026-08-09T11:46:54+00:00	Sepulchron - Lunar Blank - Immersive sim Puzzle Action Game https://www.reddit.com/r/Games/comments/1vjntkv/sepulchron_lunar_blank_immersive_sim_puzzle/
 2026-08-09T12:15:15+00:00	SHADOW RUSH - Andrew Teo - Fast paced Isometric ARPG/Roguelite hybrid focused on quick runs, rerolling and experimentation, where attacks trigger automatic spells based on your build https://www.reddit.com/r/Games/comments/1vjodbi/shadow_rush_andrew_teo_fast_paced_isometric/
 2026-08-09T12:18:31+00:00	Future Knight - Official Release Date Trailer https://www.reddit.com/r/Games/comments/1vjofrp/future_knight_official_release_date_trailer/
 2026-08-09T12:20:17+00:00	Buy Happiness - Wayne Made A Game - An incremental deckbuilder about achieving enlightenment by amassing more wealth than the current GDP of the planet https://www.reddit.com/r/Games/comments/1vjoh42/buy_happiness_wayne_made_a_game_an_incremental/
@@ -28,3 +25,6 @@
 2026-08-09T14:21:04+00:00	Making Of PS5 And Xbox Discs Is An "Industry Secret", Nobody Was Allowed To Speak On Record https://www.reddit.com/r/Games/comments/1vjr4a3/making_of_ps5_and_xbox_discs_is_an_industry/
 2026-08-09T15:39:31+00:00	Dungeons of Shalnor: The New Age - Johnny Ostad - Dark Fantasy First-Person CRPG https://www.reddit.com/r/Games/comments/1vjt1hs/dungeons_of_shalnor_the_new_age_johnny_ostad_dark/
 2026-08-09T16:28:33+00:00	Katanaut - Voidmaw - An action-roguelite with a cosmic horror twist! https://www.reddit.com/r/Games/comments/1vju9rk/katanaut_voidmaw_an_actionroguelite_with_a_cosmic/
+2026-08-09T17:59:26+00:00	Reality Drift - Arganoid Industries - new trailer and demo for surreal roguelike racing game https://www.reddit.com/r/Games/comments/1vjwknh/reality_drift_arganoid_industries_new_trailer_and/
+2026-08-09T18:11:51+00:00	Dead Stop - No Vacancy. A short first-person horror game set in an isolated roadside motel https://www.reddit.com/r/Games/comments/1vjwwlx/dead_stop_no_vacancy_a_short_firstperson_horror/
+2026-08-09T19:02:57+00:00	Maseylia: Echoes of the past - Sol Brothers - A 3D Metroidvania inspired by the art of Moebius and Nausicaä of the Valley of the Wind https://www.reddit.com/r/Games/comments/1vjy8k7/maseylia_echoes_of_the_past_sol_brothers_a_3d/
