@@ -4,9 +4,7 @@
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
 2026-08-05T11:00:42+00:00	Daily /r/Games Discussion - Suggest Me a Game - August 05, 2026 https://www.reddit.com/r/Games/comments/1vg45i2/daily_rgames_discussion_suggest_me_a_game_august/
-2026-08-08T02:25:22+00:00	Sovereign Tower looks like a cosy management game, but it's ruthless, full of murder and impossible choices, and features one of the best time travel systems I've ever encountered https://www.reddit.com/r/Games/comments/1vijvz4/sovereign_tower_looks_like_a_cosy_management_game/
 2026-08-08T08:58:24+00:00	Beastfolk Barber Demo Trailer | Wholesome Games Celebration https://www.reddit.com/r/Games/comments/1vir13l/beastfolk_barber_demo_trailer_wholesome_games/
-2026-08-08T11:03:17+00:00	How Final Fantasy XIV Looks & Runs on Switch 2, Steam Deck, and PS5 [Port Comparison] https://www.reddit.com/r/Games/comments/1vit3ul/how_final_fantasy_xiv_looks_runs_on_switch_2/
 2026-08-08T13:40:08+00:00	The Tiny Teams 2026 Steam Festival is now live! Celebrate micro studios with massive ideas! What titles are you most hyped for? https://www.reddit.com/r/Games/comments/1viwbin/the_tiny_teams_2026_steam_festival_is_now_live/
 2026-08-08T15:18:52+00:00	New Kingdom Hearts 4 Details Revealed Early Through D23: Kingdom Hearts 4 will be co-directed by Tai Yasue. David Gallagher will return as the voice of Riku in Kingdom Hearts 4. https://www.reddit.com/r/Games/comments/1viyn84/new_kingdom_hearts_4_details_revealed_early/
 2026-08-08T15:25:45+00:00	Red Dead Redemption 2 has now Sold 87 Million Units https://www.reddit.com/r/Games/comments/1viyt61/red_dead_redemption_2_has_now_sold_87_million/
@@ -18,13 +16,15 @@
 2026-08-09T05:43:58+00:00	Cozy Home Designer - Jonas Tag - relaxing isometric home decoration game https://www.reddit.com/r/Games/comments/1vjhlxo/cozy_home_designer_jonas_tag_relaxing_isometric/
 2026-08-09T06:46:48+00:00	Doom dev blasts Xbox after Microsoft 'Gutted' id Sofware with layoffs: “they fundamentally don’t understand art” and “it’s hard to make a game when there are entire departments that are gutted that you need, entire disciplines that are gone”. https://www.reddit.com/r/Games/comments/1vjip33/doom_dev_blasts_xbox_after_microsoft_gutted_id/
 2026-08-09T07:55:38+00:00	Into The Grid - Flatline Studios - Live your cyberpunk hacker fantasy, infiltrate servers and explore cyberspace! https://www.reddit.com/r/Games/comments/1vjjvue/into_the_grid_flatline_studios_live_your/
-2026-08-09T09:00:32+00:00	Weekly /r/Games Discussion - What have you been playing, and what are your thoughts? - August 09, 2026 https://www.reddit.com/r/Games/comments/1vjkyi7/weekly_rgames_discussion_what_have_you_been/
 2026-08-09T10:09:15+00:00	Wizardry - The RPG that invented RPGs https://www.reddit.com/r/Games/comments/1vjm3cd/wizardry_the_rpg_that_invented_rpgs/
 2026-08-09T10:48:31+00:00	Rewindead Demo - Spellwork - Tactical third-person shooter https://www.reddit.com/r/Games/comments/1vjmrgs/rewindead_demo_spellwork_tactical_thirdperson/
-2026-08-09T11:08:47+00:00	Circulo - Zyneros Studio - Fast-paced 2D arena survival built around geometric chaos https://www.reddit.com/r/Games/comments/1vjn4it/circulo_zyneros_studio_fastpaced_2d_arena/
 2026-08-09T11:25:07+00:00	Pit Panic - Flying Rat Studio - Arcade-style score driven roguelike platformer https://www.reddit.com/r/Games/comments/1vjnfac/pit_panic_flying_rat_studio_arcadestyle_score/
-2026-08-09T11:46:54+00:00	Sepulchron - Lunar Blank - Immersive sim Puzzle Action Game https://www.reddit.com/r/Games/comments/1vjntkv/sepulchron_lunar_blank_immersive_sim_puzzle/
 2026-08-09T12:15:15+00:00	SHADOW RUSH - Andrew Teo - Fast paced Isometric ARPG/Roguelite hybrid focused on quick runs, rerolling and experimentation, where attacks trigger automatic spells based on your build https://www.reddit.com/r/Games/comments/1vjodbi/shadow_rush_andrew_teo_fast_paced_isometric/
 2026-08-09T12:18:31+00:00	Future Knight - Official Release Date Trailer https://www.reddit.com/r/Games/comments/1vjofrp/future_knight_official_release_date_trailer/
 2026-08-09T12:20:17+00:00	Buy Happiness - Wayne Made A Game - An incremental deckbuilder about achieving enlightenment by amassing more wealth than the current GDP of the planet https://www.reddit.com/r/Games/comments/1vjoh42/buy_happiness_wayne_made_a_game_an_incremental/
 2026-08-09T13:00:26+00:00	Blizzard is now the "top performing" Xbox studio, says internal emails — as the Overwatch-maker ends FY26 over-delivering on Microsoft's projections https://www.reddit.com/r/Games/comments/1vjpagy/blizzard_is_now_the_top_performing_xbox_studio/
+2026-08-09T14:03:41+00:00	Chaotic World - technologicalpixel - top-down PvE arena shooter with interactive maps https://www.reddit.com/r/Games/comments/1vjqpql/chaotic_world_technologicalpixel_topdown_pve/
+2026-08-09T14:16:04+00:00	OrbGuard - Twigstick - Defend Earth by placing down Celestials and create powerful synergies https://www.reddit.com/r/Games/comments/1vjr04b/orbguard_twigstick_defend_earth_by_placing_down/
+2026-08-09T14:16:35+00:00	Borbs - MadeByLisk/SoPeculiar - a cute bird puzzle game with art from a longtime birdkeeper https://www.reddit.com/r/Games/comments/1vjr0js/borbs_madebylisksopeculiar_a_cute_bird_puzzle/
+2026-08-09T14:21:04+00:00	Making Of PS5 And Xbox Discs Is An "Industry Secret", Nobody Was Allowed To Speak On Record https://www.reddit.com/r/Games/comments/1vjr4a3/making_of_ps5_and_xbox_discs_is_an_industry/
+2026-08-09T14:53:02+00:00	Palm Sugar: A Village Story - Mono Tusk Studios - A Pixel action RPG inspired by Rural South India https://www.reddit.com/r/Games/comments/1vjrvsl/palm_sugar_a_village_story_mono_tusk_studios_a/
