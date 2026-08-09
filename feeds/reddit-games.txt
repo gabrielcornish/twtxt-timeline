@@ -4,13 +4,11 @@
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
 2026-08-05T11:00:42+00:00	Daily /r/Games Discussion - Suggest Me a Game - August 05, 2026 https://www.reddit.com/r/Games/comments/1vg45i2/daily_rgames_discussion_suggest_me_a_game_august/
-2026-08-07T10:00:43+00:00	Daily /r/Games Discussion - Free Talk Friday - August 07, 2026 https://www.reddit.com/r/Games/comments/1vhwd6d/daily_rgames_discussion_free_talk_friday_august/
 2026-08-07T12:34:57+00:00	Take-Two Interactive Reaches $1.4 Billion in Sales During ‘GTA 6’ Preorder Opening Quarter https://www.reddit.com/r/Games/comments/1vhzf1r/taketwo_interactive_reaches_14_billion_in_sales/
 2026-08-07T13:38:27+00:00	FROMSOFTWARE - "We sincerely thank you for the numerous applications to the『The Duskbloods』network test. You can check your participation status by logging into the My Page on the network test site. https://www.reddit.com/r/Games/comments/1vi0wtm/fromsoftware_we_sincerely_thank_you_for_the/
 2026-08-07T13:49:53+00:00	Take-Two Boss Defends No Disc Version of GTA 6, Equates Physical Releases to Vinyl Records https://www.reddit.com/r/Games/comments/1vi16w4/taketwo_boss_defends_no_disc_version_of_gta_6/
 2026-08-07T16:06:21+00:00	Star Wars: Galactic Racer - Landspeeders Trailer https://www.reddit.com/r/Games/comments/1vi4s4x/star_wars_galactic_racer_landspeeders_trailer/
 2026-08-07T16:25:03+00:00	D.Mon | New Hero Gameplay Trailer | Overwatch https://www.reddit.com/r/Games/comments/1vi5aka/dmon_new_hero_gameplay_trailer_overwatch/
-2026-08-07T16:25:14+00:00	demon's souls prototype presentation for gameshare iv https://www.reddit.com/r/Games/comments/1vi5apn/demons_souls_prototype_presentation_for_gameshare/
 2026-08-07T16:29:48+00:00	Control Resonant: Exclusive Metro Fault Mission Gameplay — IGN First https://www.reddit.com/r/Games/comments/1vi5f6l/control_resonant_exclusive_metro_fault_mission/
 2026-08-07T16:40:04+00:00	Serious Sam: Shatterverse - Release Date Trailer https://www.reddit.com/r/Games/comments/1vi5pdt/serious_sam_shatterverse_release_date_trailer/
 2026-08-07T19:13:33+00:00	Titan Quest II | Spirit Mastery Deep Dive Trailer https://www.reddit.com/r/Games/comments/1vi9vcz/titan_quest_ii_spirit_mastery_deep_dive_trailer/
@@ -28,3 +26,5 @@
 2026-08-08T17:42:41+00:00	‘Star Trek: Legends’ Is The Latest Trek Game To Be Pulled From Storefronts https://www.reddit.com/r/Games/comments/1vj26jk/star_trek_legends_is_the_latest_trek_game_to_be/
 2026-08-08T19:18:27+00:00	The Eternal Life of Goldman | What Would I Draw? https://www.reddit.com/r/Games/comments/1vj4k2w/the_eternal_life_of_goldman_what_would_i_draw/
 2026-08-08T22:42:51+00:00	Jazz Jackrabbit 2 Plus | Trailer [GOG] https://www.reddit.com/r/Games/comments/1vj99o5/jazz_jackrabbit_2_plus_trailer_gog/
+2026-08-09T04:00:46+00:00	Indie Sunday Hub - August 9, 2026 https://www.reddit.com/r/Games/comments/1vjfpsm/indie_sunday_hub_august_9_2026/
+2026-08-09T04:15:06+00:00	Moomin: Midsummer Madness Release Timing Announcement Trailer (Autumn 2026) https://www.reddit.com/r/Games/comments/1vjfzkw/moomin_midsummer_madness_release_timing/
