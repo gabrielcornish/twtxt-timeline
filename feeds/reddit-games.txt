@@ -4,7 +4,6 @@
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
 2026-08-09T06:46:48+00:00	Doom dev blasts Xbox after Microsoft 'Gutted' id Sofware with layoffs: “they fundamentally don’t understand art” and “it’s hard to make a game when there are entire departments that are gutted that you need, entire disciplines that are gone”. https://www.reddit.com/r/Games/comments/1vjip33/doom_dev_blasts_xbox_after_microsoft_gutted_id/
-2026-08-09T13:00:26+00:00	Blizzard is now the "top performing" Xbox studio, says internal emails — as the Overwatch-maker ends FY26 over-delivering on Microsoft's projections https://www.reddit.com/r/Games/comments/1vjpagy/blizzard_is_now_the_top_performing_xbox_studio/
 2026-08-09T14:21:04+00:00	Making Of PS5 And Xbox Discs Is An "Industry Secret", Nobody Was Allowed To Speak On Record https://www.reddit.com/r/Games/comments/1vjr4a3/making_of_ps5_and_xbox_discs_is_an_industry/
 2026-08-09T21:16:03+00:00	Breath Of The Wild VR Mod Is WAY Better Now! And Its Being Ported... https://www.reddit.com/r/Games/comments/1vk1jxq/breath_of_the_wild_vr_mod_is_way_better_now_and/
 2026-08-09T22:59:56+00:00	Skyreap - Entin Games - An incremental game on islands, with resource gathering, processing, and upgrading! https://www.reddit.com/r/Games/comments/1vk3ztn/skyreap_entin_games_an_incremental_game_on/
@@ -28,3 +27,4 @@
 2026-08-10T16:07:55+00:00	1666: Amsterdam - Official Day & Night Cycle: Game Feature Video #3 https://www.reddit.com/r/Games/comments/1vkp4bp/1666_amsterdam_official_day_night_cycle_game/
 2026-08-10T16:31:25+00:00	Updating the rules of /r/Games https://www.reddit.com/r/Games/comments/1vkps1c/updating_the_rules_of_rgames/
 2026-08-10T17:10:20+00:00	Season 4: Heroes of Busan Official Trailer | Overwatch https://www.reddit.com/r/Games/comments/1vkqvp1/season_4_heroes_of_busan_official_trailer/
+2026-08-10T17:16:15+00:00	14 Minutes Exclusive Hellraiser: Revival Gameplay https://www.reddit.com/r/Games/comments/1vkr1tz/14_minutes_exclusive_hellraiser_revival_gameplay/
