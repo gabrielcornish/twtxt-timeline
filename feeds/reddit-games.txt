@@ -4,12 +4,12 @@
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
 2026-08-05T11:00:42+00:00	Daily /r/Games Discussion - Suggest Me a Game - August 05, 2026 https://www.reddit.com/r/Games/comments/1vg45i2/daily_rgames_discussion_suggest_me_a_game_august/
+2026-08-08T08:58:24+00:00	Beastfolk Barber Demo Trailer | Wholesome Games Celebration https://www.reddit.com/r/Games/comments/1vir13l/beastfolk_barber_demo_trailer_wholesome_games/
 2026-08-08T15:18:52+00:00	New Kingdom Hearts 4 Details Revealed Early Through D23: Kingdom Hearts 4 will be co-directed by Tai Yasue. David Gallagher will return as the voice of Riku in Kingdom Hearts 4. https://www.reddit.com/r/Games/comments/1viyn84/new_kingdom_hearts_4_details_revealed_early/
 2026-08-08T15:25:45+00:00	Red Dead Redemption 2 has now Sold 87 Million Units https://www.reddit.com/r/Games/comments/1viyt61/red_dead_redemption_2_has_now_sold_87_million/
 2026-08-08T17:42:41+00:00	‘Star Trek: Legends’ Is The Latest Trek Game To Be Pulled From Storefronts https://www.reddit.com/r/Games/comments/1vj26jk/star_trek_legends_is_the_latest_trek_game_to_be/
 2026-08-08T19:18:27+00:00	The Eternal Life of Goldman | What Would I Draw? https://www.reddit.com/r/Games/comments/1vj4k2w/the_eternal_life_of_goldman_what_would_i_draw/
 2026-08-08T22:42:51+00:00	Jazz Jackrabbit 2 Plus | Trailer [GOG] https://www.reddit.com/r/Games/comments/1vj99o5/jazz_jackrabbit_2_plus_trailer_gog/
-2026-08-09T04:00:46+00:00	Indie Sunday Hub - August 9, 2026 https://www.reddit.com/r/Games/comments/1vjfpsm/indie_sunday_hub_august_9_2026/
 2026-08-09T04:15:06+00:00	Moomin: Midsummer Madness Release Timing Announcement Trailer (Autumn 2026) https://www.reddit.com/r/Games/comments/1vjfzkw/moomin_midsummer_madness_release_timing/
 2026-08-09T06:46:48+00:00	Doom dev blasts Xbox after Microsoft 'Gutted' id Sofware with layoffs: “they fundamentally don’t understand art” and “it’s hard to make a game when there are entire departments that are gutted that you need, entire disciplines that are gone”. https://www.reddit.com/r/Games/comments/1vjip33/doom_dev_blasts_xbox_after_microsoft_gutted_id/
 2026-08-09T07:55:38+00:00	Into The Grid - Flatline Studios - Live your cyberpunk hacker fantasy, infiltrate servers and explore cyberspace! https://www.reddit.com/r/Games/comments/1vjjvue/into_the_grid_flatline_studios_live_your/

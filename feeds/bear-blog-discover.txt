@@ -3,8 +3,6 @@
 # source = https://bearblog.dev/discover/feed/
 # description = twtxt conversion of https://bearblog.dev/discover/feed/
 
-2026-08-06T03:58:00+00:00	august 5 bro https://combatdavey.net/august-5-2026/
-2026-08-06T04:16:00+00:00	Connectivity and Sensitivity, and the difference between the two https://vivian.bearblog.dev/connectivity-and-sensitivity-and-the-difference-between-the-two/
 2026-08-06T08:15:00+00:00	seeing the person behind the piece https://blog.avas.space/behind-the-piece/
 2026-08-06T14:52:00+00:00	Don't use your phone while you poop! https://nate.spot/no-phone-while-poop/
 2026-08-06T18:40:00+00:00	Writing so bad it never gets flagged as AI https://tofukat.bearblog.dev/writing-so-bad-it-never-gets-flagged-as-ai/
@@ -23,3 +21,5 @@
 2026-08-08T05:34:00+00:00	Dear Dad, thank you, i'm sorry, and I love you https://forsomeone.bearblog.dev/dear-dad-thank-you-im-sorry-and-i-love-you/
 2026-08-08T05:57:00+00:00	i also hate fictional AIs now https://cherrysroom.bearblog.dev/i-also-hate-fictional-ais-now/
 2026-08-08T08:48:00+00:00	i'm making a website! https://blog.clairebot.world/im-making-a-website/
+2026-08-09T15:28:00+00:00	They know it’s out of control https://justinkerby.com/they-know-its-out-of-control/
+2026-08-09T16:27:00+00:00	Heatwave No. ??? https://onlinegoddess.net/2026/08/heatwave-no/
