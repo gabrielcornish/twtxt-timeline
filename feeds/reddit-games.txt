@@ -8,7 +8,6 @@
 2026-08-10T08:37:52+00:00	Halloween The Game Has Been Refused Classification In Australia https://www.reddit.com/r/Games/comments/1vkf6ej/halloween_the_game_has_been_refused/
 2026-08-10T09:42:03+00:00	Cancelled Quake 4 expansion gets surprise GitHub release after former XCOM 2 developer discovers it on an old hard drive https://www.reddit.com/r/Games/comments/1vkg8iu/cancelled_quake_4_expansion_gets_surprise_github/
 2026-08-10T11:06:34+00:00	Valve emailed about a cyberattack against their shipping partner CEVA Logistics in Europe https://www.reddit.com/r/Games/comments/1vkhr1s/valve_emailed_about_a_cyberattack_against_their/
-2026-08-10T11:43:57+00:00	Half Grip - Official Trailer https://www.reddit.com/r/Games/comments/1vkih5h/half_grip_official_trailer/
 2026-08-10T12:55:20+00:00	Black Myth: Zhong Kui Team Plans To Avoid Generative AI For Game Design And Asset Production https://www.reddit.com/r/Games/comments/1vkk2ct/black_myth_zhong_kui_team_plans_to_avoid/
 2026-08-10T12:56:45+00:00	Japan's Mobile Game Bankruptcies Reach Historic Levels In 2026 https://www.reddit.com/r/Games/comments/1vkk3kq/japans_mobile_game_bankruptcies_reach_historic/
 2026-08-10T13:05:13+00:00	Fans Were Originally Supposed To Have Seen Much More Of Light No Fire By Now, But Sean Murray Is Just Having Too Much Fun Working On It: ‘I Don’t Think People Realize Just How Ambitious And Crazy It Is’ https://www.reddit.com/r/Games/comments/1vkkb6t/fans_were_originally_supposed_to_have_seen_much/
@@ -28,3 +27,4 @@
 2026-08-10T19:19:40+00:00	Overwatch: Battle Pass Revamp https://www.reddit.com/r/Games/comments/1vkuh7q/overwatch_battle_pass_revamp/
 2026-08-10T20:05:13+00:00	Big Walk Sells One Million Copies In Less Than A Week https://www.reddit.com/r/Games/comments/1vkvq90/big_walk_sells_one_million_copies_in_less_than_a/
 2026-08-10T20:22:56+00:00	Restart, Walmart's Gaming Site, Lays Off Entire Editorial Team https://www.reddit.com/r/Games/comments/1vkw7q1/restart_walmarts_gaming_site_lays_off_entire/
+2026-08-10T20:52:28+00:00	Arc System Launches Marvel Tokon PC Update, and Some Players Are Saying It's Fixing Most of Their Issues https://www.reddit.com/r/Games/comments/1vkx0gb/arc_system_launches_marvel_tokon_pc_update_and/
