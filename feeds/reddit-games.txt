@@ -3,10 +3,7 @@
 # source = https://www.reddit.com/r/Games.rss
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
-2026-08-09T06:46:48+00:00	Doom dev blasts Xbox after Microsoft 'Gutted' id Sofware with layoffs: “they fundamentally don’t understand art” and “it’s hard to make a game when there are entire departments that are gutted that you need, entire disciplines that are gone”. https://www.reddit.com/r/Games/comments/1vjip33/doom_dev_blasts_xbox_after_microsoft_gutted_id/
 2026-08-09T14:21:04+00:00	Making Of PS5 And Xbox Discs Is An "Industry Secret", Nobody Was Allowed To Speak On Record https://www.reddit.com/r/Games/comments/1vjr4a3/making_of_ps5_and_xbox_discs_is_an_industry/
-2026-08-09T21:16:03+00:00	Breath Of The Wild VR Mod Is WAY Better Now! And Its Being Ported... https://www.reddit.com/r/Games/comments/1vk1jxq/breath_of_the_wild_vr_mod_is_way_better_now_and/
-2026-08-09T22:59:56+00:00	Skyreap - Entin Games - An incremental game on islands, with resource gathering, processing, and upgrading! https://www.reddit.com/r/Games/comments/1vk3ztn/skyreap_entin_games_an_incremental_game_on/
 2026-08-10T06:06:08+00:00	[AMA] Developer of Pax Autocratica here, a totalitarian colony sim and FPS roguelite launching in Early Access today on Steam. Ask me anything! https://www.reddit.com/r/Games/comments/1vkcn3d/ama_developer_of_pax_autocratica_here_a/
 2026-08-10T07:47:57+00:00	Marvel Tokon's massive problems on PC are causing players to try wacky solutions https://www.reddit.com/r/Games/comments/1vked4o/marvel_tokons_massive_problems_on_pc_are_causing/
 2026-08-10T08:37:52+00:00	Halloween The Game Has Been Refused Classification In Australia https://www.reddit.com/r/Games/comments/1vkf6ej/halloween_the_game_has_been_refused/
@@ -24,7 +21,10 @@
 2026-08-10T15:56:22+00:00	New Zone Loading // August 20th (Sonic x Fortnite) https://www.reddit.com/r/Games/comments/1vkosl0/new_zone_loading_august_20th_sonic_x_fortnite/
 2026-08-10T16:04:51+00:00	Village in the Shade - Release Date Announcement Trailer https://www.reddit.com/r/Games/comments/1vkp189/village_in_the_shade_release_date_announcement/
 2026-08-10T16:05:58+00:00	Aliens: Fireteam Elite on Nintendo Switch Shut Down With No Refunds, as Owners Become The Latest Victims of Gaming's Increasingly Digital Future https://www.reddit.com/r/Games/comments/1vkp2e5/aliens_fireteam_elite_on_nintendo_switch_shut/
-2026-08-10T16:07:55+00:00	1666: Amsterdam - Official Day & Night Cycle: Game Feature Video #3 https://www.reddit.com/r/Games/comments/1vkp4bp/1666_amsterdam_official_day_night_cycle_game/
+2026-08-10T16:14:37+00:00	1666: Amsterdam Hands-on Preview https://www.reddit.com/r/Games/comments/1vkpb4h/1666_amsterdam_handson_preview/
 2026-08-10T16:31:25+00:00	Updating the rules of /r/Games https://www.reddit.com/r/Games/comments/1vkps1c/updating_the_rules_of_rgames/
 2026-08-10T17:10:20+00:00	Season 4: Heroes of Busan Official Trailer | Overwatch https://www.reddit.com/r/Games/comments/1vkqvp1/season_4_heroes_of_busan_official_trailer/
 2026-08-10T17:16:15+00:00	14 Minutes Exclusive Hellraiser: Revival Gameplay https://www.reddit.com/r/Games/comments/1vkr1tz/14_minutes_exclusive_hellraiser_revival_gameplay/
+2026-08-10T18:03:06+00:00	Terraria's biggest mod, Calamity, is shutting down after 10 years over what the makers call a "troubled past" and "irrecoverably tainted reputation" https://www.reddit.com/r/Games/comments/1vksd44/terrarias_biggest_mod_calamity_is_shutting_down/
+2026-08-10T18:17:27+00:00	Wo Long 2 producer talks about open-world design, increased three-dimensionality in combat, and addressing parry criticism from the previous game - AUTOMATON WEST https://www.reddit.com/r/Games/comments/1vksrko/wo_long_2_producer_talks_about_openworld_design/
+2026-08-10T18:27:58+00:00	Geoff Keighley Reveals Date for The Game Awards 2026 (Dec 10) https://www.reddit.com/r/Games/comments/1vkt227/geoff_keighley_reveals_date_for_the_game_awards/
