@@ -3,12 +3,11 @@
 # source = https://bearblog.dev/discover/feed/
 # description = twtxt conversion of https://bearblog.dev/discover/feed/
 
-2026-08-07T16:43:00+00:00	letting an LLM write an indie web parody post https://blog.avas.space/parody-post/
 2026-08-07T17:59:00+00:00	Why I made a DeGoogle directory https://mgx.bearblog.dev/why-i-made-a-degoogle-directory/
 2026-08-07T18:29:00+00:00	On "AI" https://awespren.bearblog.dev/on-ai/
-2026-08-07T18:33:00+00:00	Laugh 3 times at AI https://itsme.bearblog.dev/laugh-3-times-at-ai/
 2026-08-07T22:06:00+00:00	If Buying Isn't Owning https://householderkarl.com/if-buying-isnt-owning/
 2026-08-08T01:20:00+00:00	Rally against Flock cameras in Melbourne, FL - Aug 19 https://fldigitalrights.org/rally-against-flock-cameras-in-melbourne-fl/
+2026-08-08T01:38:00+00:00	We The People Matter https://notes.jeddacp.com/we-the-people-matter/
 2026-08-08T02:03:04.232602+00:00	Are search engines obtuse on purpose? https://itsme.bearblog.dev/are-search-engines-obtuse-on-purpose/
 2026-08-08T02:50:00+00:00	forget the "best beginner" typewriter. just buy a good typewriter. https://blog.typewritermechanic.com/best-beginner-typewriter/
 2026-08-08T05:34:00+00:00	Dear Dad, thank you, i'm sorry, and I love you https://forsomeone.bearblog.dev/dear-dad-thank-you-im-sorry-and-i-love-you/
@@ -16,10 +15,11 @@
 2026-08-08T08:48:00+00:00	i'm making a website! https://blog.clairebot.world/im-making-a-website/
 2026-08-08T13:50:00+00:00	Beginnings and Minimal Tech https://annoflo.net/beginnings-and-minimal-tech/
 2026-08-09T10:56:00+00:00	Tinkering with ʕ•ᴥ•ʔ BearCode https://siobhan.bearblog.dev/tinkering-with-bearcode/
-2026-08-09T15:28:00+00:00	They know it’s out of control https://justinkerby.com/they-know-its-out-of-control/
 2026-08-09T15:30:00+00:00	Enjoying Multiple Blog Platforms https://binarydigit.net/enjoying-multiple-blog-platforms/
 2026-08-09T15:39:00+00:00	nine: quick digression for a bear customization. Subtitle: read the $%^#ing manual? https://angrybunnyman.com/nine-quick-digression-for-a-bear-customization/
 2026-08-09T16:27:00+00:00	Heatwave No. ??? https://onlinegoddess.net/2026/08/heatwave-no/
 2026-08-09T16:57:00+00:00	📸 my cute cat https://blahg.online/my-cute-cat/
 2026-08-09T20:12:17.667949+00:00	cancer changes everything https://blog.clairebot.world/cancer-changes-everything/
 2026-08-10T00:19:00+00:00	The Racism in the Redwall Books Sure Is Fascinating https://blog.curiousquail.com/the-racism-in-the-redwall-books-sure-is-fascinating/
+2026-08-10T02:56:00+00:00	One of the least interesting things about me https://magmacranes.bearblog.dev/one-of-the-least-interesting-things-about-me/
+2026-08-10T04:36:00+00:00	Are you a dragonfly now? https://forsomeone.bearblog.dev/are-you-a-dragonfly-now/
