@@ -3,7 +3,6 @@
 # source = https://www.reddit.com/r/Games.rss
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
-2026-08-09T14:21:04+00:00	Making Of PS5 And Xbox Discs Is An "Industry Secret", Nobody Was Allowed To Speak On Record https://www.reddit.com/r/Games/comments/1vjr4a3/making_of_ps5_and_xbox_discs_is_an_industry/
 2026-08-10T06:06:08+00:00	[AMA] Developer of Pax Autocratica here, a totalitarian colony sim and FPS roguelite launching in Early Access today on Steam. Ask me anything! https://www.reddit.com/r/Games/comments/1vkcn3d/ama_developer_of_pax_autocratica_here_a/
 2026-08-10T07:47:57+00:00	Marvel Tokon's massive problems on PC are causing players to try wacky solutions https://www.reddit.com/r/Games/comments/1vked4o/marvel_tokons_massive_problems_on_pc_are_causing/
 2026-08-10T08:37:52+00:00	Halloween The Game Has Been Refused Classification In Australia https://www.reddit.com/r/Games/comments/1vkf6ej/halloween_the_game_has_been_refused/
@@ -16,9 +15,7 @@
 2026-08-10T13:29:21+00:00	Knytt Classic Launch Trailer https://www.reddit.com/r/Games/comments/1vkkwdm/knytt_classic_launch_trailer/
 2026-08-10T14:14:14+00:00	Patlabor The Case Files - Release Date Trailer https://www.reddit.com/r/Games/comments/1vkm1ho/patlabor_the_case_files_release_date_trailer/
 2026-08-10T14:19:08+00:00	Bankruptcies among Japanese mobile game developers surge to record pace in 2026, data shows - AUTOMATON WEST https://www.reddit.com/r/Games/comments/1vkm66e/bankruptcies_among_japanese_mobile_game/
-2026-08-10T14:27:00+00:00	Spears & Spirits - Official Teaser Trailer https://www.reddit.com/r/Games/comments/1vkmdxf/spears_spirits_official_teaser_trailer/
 2026-08-10T15:42:46+00:00	Hello Games - No Man's Sky 10th Anniversary Trailer https://www.reddit.com/r/Games/comments/1vkof8n/hello_games_no_mans_sky_10th_anniversary_trailer/
-2026-08-10T15:56:22+00:00	New Zone Loading // August 20th (Sonic x Fortnite) https://www.reddit.com/r/Games/comments/1vkosl0/new_zone_loading_august_20th_sonic_x_fortnite/
 2026-08-10T16:04:51+00:00	Village in the Shade - Release Date Announcement Trailer https://www.reddit.com/r/Games/comments/1vkp189/village_in_the_shade_release_date_announcement/
 2026-08-10T16:05:58+00:00	Aliens: Fireteam Elite on Nintendo Switch Shut Down With No Refunds, as Owners Become The Latest Victims of Gaming's Increasingly Digital Future https://www.reddit.com/r/Games/comments/1vkp2e5/aliens_fireteam_elite_on_nintendo_switch_shut/
 2026-08-10T16:14:37+00:00	1666: Amsterdam Hands-on Preview https://www.reddit.com/r/Games/comments/1vkpb4h/1666_amsterdam_handson_preview/
@@ -28,3 +25,6 @@
 2026-08-10T18:03:06+00:00	Terraria's biggest mod, Calamity, is shutting down after 10 years over what the makers call a "troubled past" and "irrecoverably tainted reputation" https://www.reddit.com/r/Games/comments/1vksd44/terrarias_biggest_mod_calamity_is_shutting_down/
 2026-08-10T18:17:27+00:00	Wo Long 2 producer talks about open-world design, increased three-dimensionality in combat, and addressing parry criticism from the previous game - AUTOMATON WEST https://www.reddit.com/r/Games/comments/1vksrko/wo_long_2_producer_talks_about_openworld_design/
 2026-08-10T18:27:58+00:00	Geoff Keighley Reveals Date for The Game Awards 2026 (Dec 10) https://www.reddit.com/r/Games/comments/1vkt227/geoff_keighley_reveals_date_for_the_game_awards/
+2026-08-10T19:19:40+00:00	Overwatch: Battle Pass Revamp https://www.reddit.com/r/Games/comments/1vkuh7q/overwatch_battle_pass_revamp/
+2026-08-10T20:05:13+00:00	Big Walk Sells One Million Copies In Less Than A Week https://www.reddit.com/r/Games/comments/1vkvq90/big_walk_sells_one_million_copies_in_less_than_a/
+2026-08-10T20:22:56+00:00	Restart, Walmart's Gaming Site, Lays Off Entire Editorial Team https://www.reddit.com/r/Games/comments/1vkw7q1/restart_walmarts_gaming_site_lays_off_entire/
