@@ -3,20 +3,12 @@
 # source = https://www.reddit.com/r/Games.rss
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
-2026-08-05T11:00:42+00:00	Daily /r/Games Discussion - Suggest Me a Game - August 05, 2026 https://www.reddit.com/r/Games/comments/1vg45i2/daily_rgames_discussion_suggest_me_a_game_august/
-2026-08-08T15:25:45+00:00	Red Dead Redemption 2 has now Sold 87 Million Units https://www.reddit.com/r/Games/comments/1viyt61/red_dead_redemption_2_has_now_sold_87_million/
-2026-08-09T04:15:06+00:00	Moomin: Midsummer Madness Release Timing Announcement Trailer (Autumn 2026) https://www.reddit.com/r/Games/comments/1vjfzkw/moomin_midsummer_madness_release_timing/
 2026-08-09T06:46:48+00:00	Doom dev blasts Xbox after Microsoft 'Gutted' id Sofware with layoffs: “they fundamentally don’t understand art” and “it’s hard to make a game when there are entire departments that are gutted that you need, entire disciplines that are gone”. https://www.reddit.com/r/Games/comments/1vjip33/doom_dev_blasts_xbox_after_microsoft_gutted_id/
-2026-08-09T10:09:15+00:00	Wizardry - The RPG that invented RPGs https://www.reddit.com/r/Games/comments/1vjm3cd/wizardry_the_rpg_that_invented_rpgs/
-2026-08-09T12:18:31+00:00	Future Knight - Official Release Date Trailer https://www.reddit.com/r/Games/comments/1vjofrp/future_knight_official_release_date_trailer/
 2026-08-09T13:00:26+00:00	Blizzard is now the "top performing" Xbox studio, says internal emails — as the Overwatch-maker ends FY26 over-delivering on Microsoft's projections https://www.reddit.com/r/Games/comments/1vjpagy/blizzard_is_now_the_top_performing_xbox_studio/
 2026-08-09T14:21:04+00:00	Making Of PS5 And Xbox Discs Is An "Industry Secret", Nobody Was Allowed To Speak On Record https://www.reddit.com/r/Games/comments/1vjr4a3/making_of_ps5_and_xbox_discs_is_an_industry/
-2026-08-09T15:39:31+00:00	Dungeons of Shalnor: The New Age - Johnny Ostad - Dark Fantasy First-Person CRPG https://www.reddit.com/r/Games/comments/1vjt1hs/dungeons_of_shalnor_the_new_age_johnny_ostad_dark/
-2026-08-09T16:28:33+00:00	Katanaut - Voidmaw - An action-roguelite with a cosmic horror twist! https://www.reddit.com/r/Games/comments/1vju9rk/katanaut_voidmaw_an_actionroguelite_with_a_cosmic/
 2026-08-09T21:16:03+00:00	Breath Of The Wild VR Mod Is WAY Better Now! And Its Being Ported... https://www.reddit.com/r/Games/comments/1vk1jxq/breath_of_the_wild_vr_mod_is_way_better_now_and/
 2026-08-09T22:59:56+00:00	Skyreap - Entin Games - An incremental game on islands, with resource gathering, processing, and upgrading! https://www.reddit.com/r/Games/comments/1vk3ztn/skyreap_entin_games_an_incremental_game_on/
 2026-08-10T06:06:08+00:00	[AMA] Developer of Pax Autocratica here, a totalitarian colony sim and FPS roguelite launching in Early Access today on Steam. Ask me anything! https://www.reddit.com/r/Games/comments/1vkcn3d/ama_developer_of_pax_autocratica_here_a/
-2026-08-10T06:41:24+00:00	Gambeat - Official Announcement Trailer https://www.reddit.com/r/Games/comments/1vkd8p0/gambeat_official_announcement_trailer/
 2026-08-10T07:47:57+00:00	Marvel Tokon's massive problems on PC are causing players to try wacky solutions https://www.reddit.com/r/Games/comments/1vked4o/marvel_tokons_massive_problems_on_pc_are_causing/
 2026-08-10T08:37:52+00:00	Halloween The Game Has Been Refused Classification In Australia https://www.reddit.com/r/Games/comments/1vkf6ej/halloween_the_game_has_been_refused/
 2026-08-10T09:42:03+00:00	Cancelled Quake 4 expansion gets surprise GitHub release after former XCOM 2 developer discovers it on an old hard drive https://www.reddit.com/r/Games/comments/1vkg8iu/cancelled_quake_4_expansion_gets_surprise_github/
@@ -28,3 +20,11 @@
 2026-08-10T13:29:21+00:00	Knytt Classic Launch Trailer https://www.reddit.com/r/Games/comments/1vkkwdm/knytt_classic_launch_trailer/
 2026-08-10T14:14:14+00:00	Patlabor The Case Files - Release Date Trailer https://www.reddit.com/r/Games/comments/1vkm1ho/patlabor_the_case_files_release_date_trailer/
 2026-08-10T14:19:08+00:00	Bankruptcies among Japanese mobile game developers surge to record pace in 2026, data shows - AUTOMATON WEST https://www.reddit.com/r/Games/comments/1vkm66e/bankruptcies_among_japanese_mobile_game/
+2026-08-10T14:27:00+00:00	Spears & Spirits - Official Teaser Trailer https://www.reddit.com/r/Games/comments/1vkmdxf/spears_spirits_official_teaser_trailer/
+2026-08-10T15:42:46+00:00	Hello Games - No Man's Sky 10th Anniversary Trailer https://www.reddit.com/r/Games/comments/1vkof8n/hello_games_no_mans_sky_10th_anniversary_trailer/
+2026-08-10T15:56:22+00:00	New Zone Loading // August 20th (Sonic x Fortnite) https://www.reddit.com/r/Games/comments/1vkosl0/new_zone_loading_august_20th_sonic_x_fortnite/
+2026-08-10T16:04:51+00:00	Village in the Shade - Release Date Announcement Trailer https://www.reddit.com/r/Games/comments/1vkp189/village_in_the_shade_release_date_announcement/
+2026-08-10T16:05:58+00:00	Aliens: Fireteam Elite on Nintendo Switch Shut Down With No Refunds, as Owners Become The Latest Victims of Gaming's Increasingly Digital Future https://www.reddit.com/r/Games/comments/1vkp2e5/aliens_fireteam_elite_on_nintendo_switch_shut/
+2026-08-10T16:07:55+00:00	1666: Amsterdam - Official Day & Night Cycle: Game Feature Video #3 https://www.reddit.com/r/Games/comments/1vkp4bp/1666_amsterdam_official_day_night_cycle_game/
+2026-08-10T16:31:25+00:00	Updating the rules of /r/Games https://www.reddit.com/r/Games/comments/1vkps1c/updating_the_rules_of_rgames/
+2026-08-10T17:10:20+00:00	Season 4: Heroes of Busan Official Trailer | Overwatch https://www.reddit.com/r/Games/comments/1vkqvp1/season_4_heroes_of_busan_official_trailer/
