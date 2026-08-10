@@ -4,7 +4,6 @@
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
 2026-08-05T11:00:42+00:00	Daily /r/Games Discussion - Suggest Me a Game - August 05, 2026 https://www.reddit.com/r/Games/comments/1vg45i2/daily_rgames_discussion_suggest_me_a_game_august/
-2026-08-08T08:58:24+00:00	Beastfolk Barber Demo Trailer | Wholesome Games Celebration https://www.reddit.com/r/Games/comments/1vir13l/beastfolk_barber_demo_trailer_wholesome_games/
 2026-08-08T15:18:52+00:00	New Kingdom Hearts 4 Details Revealed Early Through D23: Kingdom Hearts 4 will be co-directed by Tai Yasue. David Gallagher will return as the voice of Riku in Kingdom Hearts 4. https://www.reddit.com/r/Games/comments/1viyn84/new_kingdom_hearts_4_details_revealed_early/
 2026-08-08T15:25:45+00:00	Red Dead Redemption 2 has now Sold 87 Million Units https://www.reddit.com/r/Games/comments/1viyt61/red_dead_redemption_2_has_now_sold_87_million/
 2026-08-08T17:42:41+00:00	‘Star Trek: Legends’ Is The Latest Trek Game To Be Pulled From Storefronts https://www.reddit.com/r/Games/comments/1vj26jk/star_trek_legends_is_the_latest_trek_game_to_be/
@@ -28,3 +27,4 @@
 2026-08-09T20:59:42+00:00	Survive 10,000 B.C. - Echoes of Existence - Prehistoric Survival Game https://www.reddit.com/r/Games/comments/1vk15ge/survive_10000_bc_echoes_of_existence_prehistoric/
 2026-08-09T21:16:03+00:00	Breath Of The Wild VR Mod Is WAY Better Now! And Its Being Ported... https://www.reddit.com/r/Games/comments/1vk1jxq/breath_of_the_wild_vr_mod_is_way_better_now_and/
 2026-08-09T22:59:56+00:00	Skyreap - Entin Games - An incremental game on islands, with resource gathering, processing, and upgrading! https://www.reddit.com/r/Games/comments/1vk3ztn/skyreap_entin_games_an_incremental_game_on/
+2026-08-10T06:06:08+00:00	[AMA] Developer of Pax Autocratica here, a totalitarian colony sim and FPS roguelite launching in Early Access today on Steam. Ask me anything! https://www.reddit.com/r/Games/comments/1vkcn3d/ama_developer_of_pax_autocratica_here_a/
