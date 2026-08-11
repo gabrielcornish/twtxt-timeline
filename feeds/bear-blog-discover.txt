@@ -3,7 +3,6 @@
 # source = https://bearblog.dev/discover/feed/
 # description = twtxt conversion of https://bearblog.dev/discover/feed/
 
-2026-08-08T01:20:00+00:00	Rally against Flock cameras in Melbourne, FL - Aug 19 https://fldigitalrights.org/rally-against-flock-cameras-in-melbourne-fl/
 2026-08-08T02:03:04.232602+00:00	Are search engines obtuse on purpose? https://itsme.bearblog.dev/are-search-engines-obtuse-on-purpose/
 2026-08-08T02:50:00+00:00	forget the "best beginner" typewriter. just buy a good typewriter. https://blog.typewritermechanic.com/best-beginner-typewriter/
 2026-08-08T05:34:00+00:00	Dear Dad, thank you, i'm sorry, and I love you https://forsomeone.bearblog.dev/dear-dad-thank-you-im-sorry-and-i-love-you/
@@ -23,3 +22,4 @@
 2026-08-10T11:40:00+00:00	Defending my own brain against enshittification https://mrmarket.lol/how-i-feel-calmin-control-of-my-life-in-the-time-of-enshittification/
 2026-08-10T15:25:00+00:00	book: muskism by quinn slobodian and ben tarnoff https://blog.avas.space/muskism/
 2026-08-10T17:54:00+00:00	My Homelab Got Hacked - A Postmortem https://phunky.cafe/my-homelab-got-hacked/
+2026-08-10T22:00:00+00:00	If You See a Dragonfly https://notes.jeddacp.com/if-you-see-a-dragonfly/

@@ -3,7 +3,7 @@
 # source = https://www.reddit.com/r/Games.rss
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
-2026-08-10T06:06:08+00:00	[AMA] Developer of Pax Autocratica here, a totalitarian colony sim and FPS roguelite launching in Early Access today on Steam. Ask me anything! https://www.reddit.com/r/Games/comments/1vkcn3d/ama_developer_of_pax_autocratica_here_a/
+2026-08-09T09:00:32+00:00	Weekly /r/Games Discussion - What have you been playing, and what are your thoughts? - August 09, 2026 https://www.reddit.com/r/Games/comments/1vjkyi7/weekly_rgames_discussion_what_have_you_been/
 2026-08-10T07:47:57+00:00	Marvel Tokon's massive problems on PC are causing players to try wacky solutions https://www.reddit.com/r/Games/comments/1vked4o/marvel_tokons_massive_problems_on_pc_are_causing/
 2026-08-10T08:37:52+00:00	Halloween The Game Has Been Refused Classification In Australia https://www.reddit.com/r/Games/comments/1vkf6ej/halloween_the_game_has_been_refused/
 2026-08-10T09:42:03+00:00	Cancelled Quake 4 expansion gets surprise GitHub release after former XCOM 2 developer discovers it on an old hard drive https://www.reddit.com/r/Games/comments/1vkg8iu/cancelled_quake_4_expansion_gets_surprise_github/
@@ -11,7 +11,6 @@
 2026-08-10T12:55:20+00:00	Black Myth: Zhong Kui Team Plans To Avoid Generative AI For Game Design And Asset Production https://www.reddit.com/r/Games/comments/1vkk2ct/black_myth_zhong_kui_team_plans_to_avoid/
 2026-08-10T12:56:45+00:00	Japan's Mobile Game Bankruptcies Reach Historic Levels In 2026 https://www.reddit.com/r/Games/comments/1vkk3kq/japans_mobile_game_bankruptcies_reach_historic/
 2026-08-10T13:05:13+00:00	Fans Were Originally Supposed To Have Seen Much More Of Light No Fire By Now, But Sean Murray Is Just Having Too Much Fun Working On It: ‘I Don’t Think People Realize Just How Ambitious And Crazy It Is’ https://www.reddit.com/r/Games/comments/1vkkb6t/fans_were_originally_supposed_to_have_seen_much/
-2026-08-10T13:29:21+00:00	Knytt Classic Launch Trailer https://www.reddit.com/r/Games/comments/1vkkwdm/knytt_classic_launch_trailer/
 2026-08-10T14:19:08+00:00	Bankruptcies among Japanese mobile game developers surge to record pace in 2026, data shows - AUTOMATON WEST https://www.reddit.com/r/Games/comments/1vkm66e/bankruptcies_among_japanese_mobile_game/
 2026-08-10T15:42:46+00:00	Hello Games - No Man's Sky 10th Anniversary Trailer https://www.reddit.com/r/Games/comments/1vkof8n/hello_games_no_mans_sky_10th_anniversary_trailer/
 2026-08-10T16:05:58+00:00	Aliens: Fireteam Elite on Nintendo Switch Shut Down With No Refunds, as Owners Become The Latest Victims of Gaming's Increasingly Digital Future https://www.reddit.com/r/Games/comments/1vkp2e5/aliens_fireteam_elite_on_nintendo_switch_shut/
@@ -28,3 +27,4 @@
 2026-08-10T21:49:07+00:00	over the hill - Release Date Announcement https://www.reddit.com/r/Games/comments/1vkyhgf/over_the_hill_release_date_announcement/
 2026-08-10T23:36:50+00:00	"It's time to sue Sony": Stop Killing Games joins lawsuit over PlayStation's digital "monopoly" amid death of physical games https://www.reddit.com/r/Games/comments/1vl13k5/its_time_to_sue_sony_stop_killing_games_joins/
 2026-08-10T23:51:38+00:00	IRON NEST: Heavy Turret Simulator | Official Launch Trailer https://www.reddit.com/r/Games/comments/1vl1fq0/iron_nest_heavy_turret_simulator_official_launch/
+2026-08-11T03:10:06+00:00	Square Enix sees 88% profit growth, citing strong performance across all categories of its video game business https://www.reddit.com/r/Games/comments/1vl5szo/square_enix_sees_88_profit_growth_citing_strong/
