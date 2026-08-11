@@ -3,10 +3,7 @@
 # source = https://bearblog.dev/discover/feed/
 # description = twtxt conversion of https://bearblog.dev/discover/feed/
 
-2026-08-07T17:59:00+00:00	Why I made a DeGoogle directory https://mgx.bearblog.dev/why-i-made-a-degoogle-directory/
-2026-08-07T18:29:00+00:00	On "AI" https://awespren.bearblog.dev/on-ai/
 2026-08-08T01:20:00+00:00	Rally against Flock cameras in Melbourne, FL - Aug 19 https://fldigitalrights.org/rally-against-flock-cameras-in-melbourne-fl/
-2026-08-08T01:38:00+00:00	We The People Matter https://notes.jeddacp.com/we-the-people-matter/
 2026-08-08T02:03:04.232602+00:00	Are search engines obtuse on purpose? https://itsme.bearblog.dev/are-search-engines-obtuse-on-purpose/
 2026-08-08T02:50:00+00:00	forget the "best beginner" typewriter. just buy a good typewriter. https://blog.typewritermechanic.com/best-beginner-typewriter/
 2026-08-08T05:34:00+00:00	Dear Dad, thank you, i'm sorry, and I love you https://forsomeone.bearblog.dev/dear-dad-thank-you-im-sorry-and-i-love-you/
@@ -22,4 +19,7 @@
 2026-08-10T02:56:00+00:00	One of the least interesting things about me https://magmacranes.bearblog.dev/one-of-the-least-interesting-things-about-me/
 2026-08-10T04:36:00+00:00	Are you a dragonfly now? https://forsomeone.bearblog.dev/are-you-a-dragonfly-now/
 2026-08-10T04:40:00+00:00	Big Walk is really good https://blog.lauramichet.com/big-walk-is-really-good/
+2026-08-10T10:54:00+00:00	Don’t Lock User Data Behind Paywalls https://onlinegoddess.net/2026/08/dont-lock-user-data-behind-paywalls/
 2026-08-10T11:40:00+00:00	Defending my own brain against enshittification https://mrmarket.lol/how-i-feel-calmin-control-of-my-life-in-the-time-of-enshittification/
+2026-08-10T15:25:00+00:00	book: muskism by quinn slobodian and ben tarnoff https://blog.avas.space/muskism/
+2026-08-10T17:54:00+00:00	My Homelab Got Hacked - A Postmortem https://phunky.cafe/my-homelab-got-hacked/
