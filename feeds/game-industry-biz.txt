@@ -3,7 +3,6 @@
 # source = https://www.gamesindustry.biz/feed
 # description = twtxt conversion of https://www.gamesindustry.biz/feed
 
-2026-07-30T12:46:35+00:00	AppMagic: Pokémon Go generates $48.5m during 10th anniversary celebrations https://www.gamesindustry.biz/appmagic-pokemon-go-generates-485m-during-10th-anniversary-celebrations
 2026-07-30T14:04:55+00:00	Analyst data: Assassin's Creed Odyssey experiences surge in daily active users following Christopher Nolan film https://www.gamesindustry.biz/analyst-data-assassins-creed-odyssey-experiences-surge-in-daily-active-users-following-christopher-nolan-film
 2026-07-31T07:52:59+00:00	Roblox Q2 revenue rises 36% to $1.5bn https://www.gamesindustry.biz/roblox-q2-revenue-rises-36-to-15bn
 2026-07-31T09:47:25+00:00	EA acquisition set to close on August 4 following approval from required regulatory bodies https://www.gamesindustry.biz/ea-acquisition-set-to-close-on-august-4-following-approval-from-required-regulatory-bodies
@@ -53,3 +52,4 @@
 2026-08-10T17:46:04+00:00	Valve confirms Steam hardware buyers' data exposed in CEVA Logistics cyberattack https://www.gamesindustry.biz/valve-confirms-steam-hardware-buyers-data-exposed-in-ceva-logistics-cyberattack
 2026-08-10T19:20:17+00:00	Halloween: The Game denied classification in Australia and New Zealand over drug depiction https://www.gamesindustry.biz/halloween-the-game-denied-classification-in-australia-and-new-zealand-over-drug-depiction
 2026-08-11T08:26:52+00:00	Square Enix Q1 profit soars following Final Fantasy 7 Rebirth launch on Switch 2 and Xbox https://www.gamesindustry.biz/square-enix-q1-profit-soars-following-final-fantasy-7-rebirth-launch-on-switch-2-and-xbox
+2026-08-11T10:00:44+00:00	GamesAid appoints six new trustees as it raises £82,000 in funding during 2025/26 https://www.gamesindustry.biz/gamesaid-appoints-six-new-trustees-as-it-raises-82000-in-funding-during-202526
