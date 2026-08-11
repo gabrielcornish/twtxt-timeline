@@ -7,7 +7,6 @@
 2026-08-10T16:31:25+00:00	Updating the rules of /r/Games https://www.reddit.com/r/Games/comments/1vkps1c/updating_the_rules_of_rgames/
 2026-08-10T18:03:06+00:00	Terraria's biggest mod, Calamity, is shutting down after 10 years over what the makers call a "troubled past" and "irrecoverably tainted reputation" https://www.reddit.com/r/Games/comments/1vksd44/terrarias_biggest_mod_calamity_is_shutting_down/
 2026-08-10T20:05:13+00:00	Big Walk Sells One Million Copies In Less Than A Week https://www.reddit.com/r/Games/comments/1vkvq90/big_walk_sells_one_million_copies_in_less_than_a/
-2026-08-10T20:22:56+00:00	Restart, Walmart's Gaming Site, Lays Off Entire Editorial Team https://www.reddit.com/r/Games/comments/1vkw7q1/restart_walmarts_gaming_site_lays_off_entire/
 2026-08-10T23:51:38+00:00	IRON NEST: Heavy Turret Simulator | Official Launch Trailer https://www.reddit.com/r/Games/comments/1vl1fq0/iron_nest_heavy_turret_simulator_official_launch/
 2026-08-11T03:10:06+00:00	Square Enix sees 88% profit growth, citing strong performance across all categories of its video game business https://www.reddit.com/r/Games/comments/1vl5szo/square_enix_sees_88_profit_growth_citing_strong/
 2026-08-11T06:16:48+00:00	According to Remedy's financial report, Alan Wake 2 has reached 3 million copies sold https://www.reddit.com/r/Games/comments/1vl9cpv/according_to_remedys_financial_report_alan_wake_2/
@@ -28,3 +27,4 @@
 2026-08-11T16:05:19+00:00	WARDOGS | 10 Reasons NOT to Buy https://www.reddit.com/r/Games/comments/1vlloos/wardogs_10_reasons_not_to_buy/
 2026-08-11T16:05:23+00:00	The Lord of the Rings War in the North - Legacy Edition Launch Trailer | PS5 & PS4 Games https://www.reddit.com/r/Games/comments/1vllorf/the_lord_of_the_rings_war_in_the_north_legacy/
 2026-08-11T16:36:22+00:00	Control Resonant Combat deep dive https://www.reddit.com/r/Games/comments/1vlmjsn/control_resonant_combat_deep_dive/
+2026-08-11T17:01:33+00:00	Iron Nest: Heavy Turret Simulator - Official Launch Trailer https://www.reddit.com/r/Games/comments/1vln98v/iron_nest_heavy_turret_simulator_official_launch/
