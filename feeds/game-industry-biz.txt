@@ -3,7 +3,6 @@
 # source = https://www.gamesindustry.biz/feed
 # description = twtxt conversion of https://www.gamesindustry.biz/feed
 
-2026-07-31T11:21:17+00:00	PlayStation reports flat Q1 sales, says it's "cautiously moving forward" with halting physical disc production https://www.gamesindustry.biz/playstation-reports-flat-q1-sales-says-its-cautiously-moving-forward-with-halting-physical-disc-production
 2026-07-31T12:59:19+00:00	Unity announces dedicated engine support for Netflix Games https://www.gamesindustry.biz/unity-announces-dedicated-engine-for-netflix-games
 2026-07-31T13:40:23+00:00	"We will not live on past successes or be trapped by past failures" – Xbox CEO outlines priorities to turn platform around in FY27 https://www.gamesindustry.biz/we-will-not-live-on-past-successes-or-be-trapped-by-past-failures-xbox-ceo-outlines-priorities-to-turn-platform-around-in-fy27
 2026-07-31T15:21:24+00:00	Xbox is (probably) not for sale | Opinion https://www.gamesindustry.biz/xbox-is-probably-not-for-sale-opinion
@@ -53,3 +52,4 @@
 2026-08-11T11:08:45+00:00	Remedy reports revenue declines in Q2 and H1 as it prepares for Control Resonant launch https://www.gamesindustry.biz/remedy-reports-revenue-declines-in-q2-and-h1-as-it-prepares-for-control-resonant-launch
 2026-08-11T12:26:32+00:00	Reforj developer 4J Studios unveils Rixels: modified pixels that reduce texture memory requirements by 98% https://www.gamesindustry.biz/reforj-developer-4j-studios-unveils-rixels-modified-pixels-that-reduce-texture-memory-requirements-by-98
 2026-08-11T13:05:23+00:00	Supermassive Games announces layoffs, up to 75 workers may be affected https://www.gamesindustry.biz/supermassive-games-announces-layoffs-up-to-75-workers-may-be-affected
+2026-08-11T14:05:37+00:00	Gamescom Dev speaker survey identifies potential impacts of AI on team structure and productivity https://www.gamesindustry.biz/gamescom-dev-speaker-survey-identifies-potential-impacts-of-ai-on-team-structure-and-productivity

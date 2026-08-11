@@ -3,23 +3,16 @@
 # source = https://www.reddit.com/r/Games.rss
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
-2026-08-10T07:47:57+00:00	Marvel Tokon's massive problems on PC are causing players to try wacky solutions https://www.reddit.com/r/Games/comments/1vked4o/marvel_tokons_massive_problems_on_pc_are_causing/
 2026-08-10T09:42:03+00:00	Cancelled Quake 4 expansion gets surprise GitHub release after former XCOM 2 developer discovers it on an old hard drive https://www.reddit.com/r/Games/comments/1vkg8iu/cancelled_quake_4_expansion_gets_surprise_github/
-2026-08-10T11:06:34+00:00	Valve emailed about a cyberattack against their shipping partner CEVA Logistics in Europe https://www.reddit.com/r/Games/comments/1vkhr1s/valve_emailed_about_a_cyberattack_against_their/
-2026-08-10T12:55:20+00:00	Black Myth: Zhong Kui Team Plans To Avoid Generative AI For Game Design And Asset Production https://www.reddit.com/r/Games/comments/1vkk2ct/black_myth_zhong_kui_team_plans_to_avoid/
-2026-08-10T12:56:45+00:00	Japan's Mobile Game Bankruptcies Reach Historic Levels In 2026 https://www.reddit.com/r/Games/comments/1vkk3kq/japans_mobile_game_bankruptcies_reach_historic/
-2026-08-10T13:05:13+00:00	Fans Were Originally Supposed To Have Seen Much More Of Light No Fire By Now, But Sean Murray Is Just Having Too Much Fun Working On It: ‘I Don’t Think People Realize Just How Ambitious And Crazy It Is’ https://www.reddit.com/r/Games/comments/1vkkb6t/fans_were_originally_supposed_to_have_seen_much/
 2026-08-10T15:42:46+00:00	Hello Games - No Man's Sky 10th Anniversary Trailer https://www.reddit.com/r/Games/comments/1vkof8n/hello_games_no_mans_sky_10th_anniversary_trailer/
 2026-08-10T16:05:58+00:00	Aliens: Fireteam Elite on Nintendo Switch Shut Down With No Refunds, as Owners Become The Latest Victims of Gaming's Increasingly Digital Future https://www.reddit.com/r/Games/comments/1vkp2e5/aliens_fireteam_elite_on_nintendo_switch_shut/
 2026-08-10T16:31:25+00:00	Updating the rules of /r/Games https://www.reddit.com/r/Games/comments/1vkps1c/updating_the_rules_of_rgames/
 2026-08-10T17:16:15+00:00	14 Minutes Exclusive Hellraiser: Revival Gameplay https://www.reddit.com/r/Games/comments/1vkr1tz/14_minutes_exclusive_hellraiser_revival_gameplay/
 2026-08-10T18:03:06+00:00	Terraria's biggest mod, Calamity, is shutting down after 10 years over what the makers call a "troubled past" and "irrecoverably tainted reputation" https://www.reddit.com/r/Games/comments/1vksd44/terrarias_biggest_mod_calamity_is_shutting_down/
 2026-08-10T18:27:58+00:00	Geoff Keighley Reveals Date for The Game Awards 2026 (Dec 10) https://www.reddit.com/r/Games/comments/1vkt227/geoff_keighley_reveals_date_for_the_game_awards/
-2026-08-10T19:19:40+00:00	Overwatch: Battle Pass Revamp https://www.reddit.com/r/Games/comments/1vkuh7q/overwatch_battle_pass_revamp/
 2026-08-10T20:05:13+00:00	Big Walk Sells One Million Copies In Less Than A Week https://www.reddit.com/r/Games/comments/1vkvq90/big_walk_sells_one_million_copies_in_less_than_a/
 2026-08-10T20:22:56+00:00	Restart, Walmart's Gaming Site, Lays Off Entire Editorial Team https://www.reddit.com/r/Games/comments/1vkw7q1/restart_walmarts_gaming_site_lays_off_entire/
 2026-08-10T20:52:28+00:00	Arc System Launches Marvel Tokon PC Update, and Some Players Are Saying It's Fixing Most of Their Issues https://www.reddit.com/r/Games/comments/1vkx0gb/arc_system_launches_marvel_tokon_pc_update_and/
-2026-08-10T21:49:07+00:00	over the hill - Release Date Announcement https://www.reddit.com/r/Games/comments/1vkyhgf/over_the_hill_release_date_announcement/
 2026-08-10T23:51:38+00:00	IRON NEST: Heavy Turret Simulator | Official Launch Trailer https://www.reddit.com/r/Games/comments/1vl1fq0/iron_nest_heavy_turret_simulator_official_launch/
 2026-08-11T03:10:06+00:00	Square Enix sees 88% profit growth, citing strong performance across all categories of its video game business https://www.reddit.com/r/Games/comments/1vl5szo/square_enix_sees_88_profit_growth_citing_strong/
 2026-08-11T06:16:48+00:00	According to Remedy's financial report, Alan Wake 2 has reached 3 million copies sold https://www.reddit.com/r/Games/comments/1vl9cpv/according_to_remedys_financial_report_alan_wake_2/
@@ -28,3 +21,10 @@
 2026-08-11T13:01:25+00:00	Dark Pictures Anthology studio Supermassive Games is laying off up to 75 staff ‘to ensure sustainability’ https://www.reddit.com/r/Games/comments/1vlgu0x/dark_pictures_anthology_studio_supermassive_games/
 2026-08-11T13:02:23+00:00	GOBBLE - Announcement Trailer (Nintendo Switch, Nintendo Switch 2, PS5 and Steam) https://www.reddit.com/r/Games/comments/1vlguw3/gobble_announcement_trailer_nintendo_switch/
 2026-08-11T13:28:26+00:00	Helldivers 2: Castellan's Creed Legendary Warbond https://www.reddit.com/r/Games/comments/1vlhhjt/helldivers_2_castellans_creed_legendary_warbond/
+2026-08-11T13:44:35+00:00	Layoffs Hit Staff at 'Crossfire' Developer That’s No Moon https://www.reddit.com/r/Games/comments/1vlhvy7/layoffs_hit_staff_at_crossfire_developer_thats_no/
+2026-08-11T14:01:48+00:00	PREVIEW // Star Wars Zero Company might be a new hope for turn-based tactics fans https://www.reddit.com/r/Games/comments/1vlibli/preview_star_wars_zero_company_might_be_a_new/
+2026-08-11T14:02:25+00:00	Star Wars Zero Company Hands-On Preview – Mid Rim Sons https://www.reddit.com/r/Games/comments/1vlic69/star_wars_zero_company_handson_preview_mid_rim/
+2026-08-11T14:06:26+00:00	Star Wars Zero Company Hands-on Preview and Impressions https://www.reddit.com/r/Games/comments/1vlift4/star_wars_zero_company_handson_preview_and/
+2026-08-11T14:25:38+00:00	Crystals Of Irm Release Window Announcement https://www.reddit.com/r/Games/comments/1vliy18/crystals_of_irm_release_window_announcement/
+2026-08-11T14:37:57+00:00	Echoes of Mystralia - Echoes of Mystralia is OUT NOW! 🧙‍♂️ - Steam News https://www.reddit.com/r/Games/comments/1vlja0i/echoes_of_mystralia_echoes_of_mystralia_is_out/
+2026-08-11T15:05:31+00:00	Battlefield 6 Wake Island Gameplay Trailer https://www.reddit.com/r/Games/comments/1vlk0rn/battlefield_6_wake_island_gameplay_trailer/
