@@ -4,13 +4,11 @@
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
 2026-08-10T16:31:25+00:00	Updating the rules of /r/Games https://www.reddit.com/r/Games/comments/1vkps1c/updating_the_rules_of_rgames/
-2026-08-10T18:03:06+00:00	Terraria's biggest mod, Calamity, is shutting down after 10 years over what the makers call a "troubled past" and "irrecoverably tainted reputation" https://www.reddit.com/r/Games/comments/1vksd44/terrarias_biggest_mod_calamity_is_shutting_down/
 2026-08-11T03:10:06+00:00	Square Enix sees 88% profit growth, citing strong performance across all categories of its video game business https://www.reddit.com/r/Games/comments/1vl5szo/square_enix_sees_88_profit_growth_citing_strong/
 2026-08-11T06:16:48+00:00	According to Remedy's financial report, Alan Wake 2 has reached 3 million copies sold https://www.reddit.com/r/Games/comments/1vl9cpv/according_to_remedys_financial_report_alan_wake_2/
 2026-08-11T06:33:50+00:00	Nintendo is entering Indonesia - launches official website, Switch 1/2 launching in December 2026 https://www.reddit.com/r/Games/comments/1vl9neq/nintendo_is_entering_indonesia_launches_official/
 2026-08-11T08:59:03+00:00	AMA: I spent 7 years making a game from scratch. I made everything myself, including the art, music and game engine! https://www.reddit.com/r/Games/comments/1vlc4ie/ama_i_spent_7_years_making_a_game_from_scratch_i/
 2026-08-11T13:01:25+00:00	Dark Pictures Anthology studio Supermassive Games is laying off up to 75 staff ‘to ensure sustainability’ https://www.reddit.com/r/Games/comments/1vlgu0x/dark_pictures_anthology_studio_supermassive_games/
-2026-08-11T13:02:23+00:00	GOBBLE - Announcement Trailer (Nintendo Switch, Nintendo Switch 2, PS5 and Steam) https://www.reddit.com/r/Games/comments/1vlguw3/gobble_announcement_trailer_nintendo_switch/
 2026-08-11T13:28:26+00:00	Helldivers 2: Castellan's Creed Legendary Warbond https://www.reddit.com/r/Games/comments/1vlhhjt/helldivers_2_castellans_creed_legendary_warbond/
 2026-08-11T13:44:35+00:00	Layoffs Hit Staff at 'Crossfire' Developer That’s No Moon https://www.reddit.com/r/Games/comments/1vlhvy7/layoffs_hit_staff_at_crossfire_developer_thats_no/
 2026-08-11T14:01:48+00:00	PREVIEW // Star Wars Zero Company might be a new hope for turn-based tactics fans https://www.reddit.com/r/Games/comments/1vlibli/preview_star_wars_zero_company_might_be_a_new/
@@ -25,6 +23,8 @@
 2026-08-11T16:36:22+00:00	Control Resonant Combat deep dive https://www.reddit.com/r/Games/comments/1vlmjsn/control_resonant_combat_deep_dive/
 2026-08-11T18:01:12+00:00	Star Wars: Galactic Racer Podracing PS5 Gameplay https://www.reddit.com/r/Games/comments/1vloxio/star_wars_galactic_racer_podracing_ps5_gameplay/
 2026-08-11T18:37:38+00:00	Void War - The Jewel Worlds https://www.reddit.com/r/Games/comments/1vlpyss/void_war_the_jewel_worlds/
+2026-08-11T19:02:19+00:00	The Elder Scrolls IV: Oblivion Remastered – Launch Trailer – Nintendo Switch 2 https://www.reddit.com/r/Games/comments/1vlqnxr/the_elder_scrolls_iv_oblivion_remastered_launch/
 2026-08-11T19:48:03+00:00	Marvel Tokon: Fighting Souls Review https://www.reddit.com/r/Games/comments/1vlrxd7/marvel_tokon_fighting_souls_review/
 2026-08-11T21:00:59+00:00	Marvel Tokon: Fighting Souls - Review Thread https://www.reddit.com/r/Games/comments/1vltwh5/marvel_tokon_fighting_souls_review_thread/
 2026-08-11T21:39:01+00:00	Xbox Boss Asha Sharma Says Elder Scrolls VI Looks Great, So Stop Talking About That Giant Rat Outside Bethesda’s Office https://www.reddit.com/r/Games/comments/1vluw55/xbox_boss_asha_sharma_says_elder_scrolls_vi_looks/
+2026-08-11T22:20:38+00:00	Phantom Blade Zero: 11-Minute Extended Gameplay Trailer Livestream Link. The stream starts today at 7 PM PT which is 3 hours, 43 minutes from now. https://www.reddit.com/r/Games/comments/1vlvy7h/phantom_blade_zero_11minute_extended_gameplay/
