@@ -1,0 +1,30 @@
+# nick = 🎮-Reddit-Games
+# url = https://raw.githubusercontent.com/gabrielcornish/twtxt-timeline/main/feeds/reddit-games.txt
+# source = https://www.reddit.com/r/Games.rss
+# description = twtxt conversion of https://www.reddit.com/r/Games.rss
+
+2026-08-10T16:31:25+00:00	Updating the rules of /r/Games https://www.reddit.com/r/Games/comments/1vkps1c/updating_the_rules_of_rgames/
+2026-08-11T06:16:48+00:00	According to Remedy's financial report, Alan Wake 2 has reached 3 million copies sold https://www.reddit.com/r/Games/comments/1vl9cpv/according_to_remedys_financial_report_alan_wake_2/
+2026-08-11T08:59:03+00:00	AMA: I spent 7 years making a game from scratch. I made everything myself, including the art, music and game engine! https://www.reddit.com/r/Games/comments/1vlc4ie/ama_i_spent_7_years_making_a_game_from_scratch_i/
+2026-08-11T13:01:25+00:00	Dark Pictures Anthology studio Supermassive Games is laying off up to 75 staff ‘to ensure sustainability’ https://www.reddit.com/r/Games/comments/1vlgu0x/dark_pictures_anthology_studio_supermassive_games/
+2026-08-11T13:28:26+00:00	Helldivers 2: Castellan's Creed Legendary Warbond https://www.reddit.com/r/Games/comments/1vlhhjt/helldivers_2_castellans_creed_legendary_warbond/
+2026-08-11T13:44:35+00:00	Layoffs Hit Staff at 'Crossfire' Developer That’s No Moon https://www.reddit.com/r/Games/comments/1vlhvy7/layoffs_hit_staff_at_crossfire_developer_thats_no/
+2026-08-11T14:06:26+00:00	Star Wars Zero Company Hands-on Preview and Impressions https://www.reddit.com/r/Games/comments/1vlift4/star_wars_zero_company_handson_preview_and/
+2026-08-11T14:25:38+00:00	Crystals Of Irm Release Window Announcement https://www.reddit.com/r/Games/comments/1vliy18/crystals_of_irm_release_window_announcement/
+2026-08-11T15:05:31+00:00	Battlefield 6 Wake Island Gameplay Trailer https://www.reddit.com/r/Games/comments/1vlk0rn/battlefield_6_wake_island_gameplay_trailer/
+2026-08-11T15:27:59+00:00	Agent 64: Spies Never Die | Official Launch Trailer https://www.reddit.com/r/Games/comments/1vlknn2/agent_64_spies_never_die_official_launch_trailer/
+2026-08-11T15:31:07+00:00	ACE COMBAT 8 The Art of Aircraft Trailer https://www.reddit.com/r/Games/comments/1vlkqt8/ace_combat_8_the_art_of_aircraft_trailer/
+2026-08-11T15:43:00+00:00	SPRAWL zero | Release Date Reveal https://www.reddit.com/r/Games/comments/1vll2il/sprawl_zero_release_date_reveal/
+2026-08-11T16:05:19+00:00	WARDOGS | 10 Reasons NOT to Buy https://www.reddit.com/r/Games/comments/1vlloos/wardogs_10_reasons_not_to_buy/
+2026-08-11T16:05:23+00:00	The Lord of the Rings War in the North - Legacy Edition Launch Trailer | PS5 & PS4 Games https://www.reddit.com/r/Games/comments/1vllorf/the_lord_of_the_rings_war_in_the_north_legacy/
+2026-08-11T16:36:22+00:00	Control Resonant Combat deep dive https://www.reddit.com/r/Games/comments/1vlmjsn/control_resonant_combat_deep_dive/
+2026-08-11T18:01:12+00:00	Star Wars: Galactic Racer Podracing PS5 Gameplay https://www.reddit.com/r/Games/comments/1vloxio/star_wars_galactic_racer_podracing_ps5_gameplay/
+2026-08-11T18:37:38+00:00	Void War - The Jewel Worlds https://www.reddit.com/r/Games/comments/1vlpyss/void_war_the_jewel_worlds/
+2026-08-11T19:02:19+00:00	The Elder Scrolls IV: Oblivion Remastered – Launch Trailer – Nintendo Switch 2 https://www.reddit.com/r/Games/comments/1vlqnxr/the_elder_scrolls_iv_oblivion_remastered_launch/
+2026-08-11T21:00:59+00:00	Marvel Tokon: Fighting Souls - Review Thread https://www.reddit.com/r/Games/comments/1vltwh5/marvel_tokon_fighting_souls_review_thread/
+2026-08-11T21:39:01+00:00	Xbox Boss Asha Sharma Says Elder Scrolls VI Looks Great, So Stop Talking About That Giant Rat Outside Bethesda’s Office https://www.reddit.com/r/Games/comments/1vluw55/xbox_boss_asha_sharma_says_elder_scrolls_vi_looks/
+2026-08-11T23:08:03+00:00	Crimson Desert on Switch 2 is targeting the first half of 2027 https://www.reddit.com/r/Games/comments/1vlx47n/crimson_desert_on_switch_2_is_targeting_the_first/
+2026-08-12T01:58:10+00:00	Phantom Blade Zero: 11-Minute Extended Gameplay Trailer https://www.reddit.com/r/Games/comments/1vm0xti/phantom_blade_zero_11minute_extended_gameplay/
+2026-08-12T02:11:28+00:00	Watch the Phantom Blade Zero gameplay deep dive State of Play on August 17, pre-orders live today https://www.reddit.com/r/Games/comments/1vm18cb/watch_the_phantom_blade_zero_gameplay_deep_dive/
+2026-08-12T02:32:32+00:00	We're the devs behind Pro Jank Footy (Powerbomb Games & Umbrella Gaming) and our chaotic arcade footy roguelike is about to launch on PC/PS5/Xbox/Switch. AMA! https://www.reddit.com/r/Games/comments/1vm1ook/were_the_devs_behind_pro_jank_footy_powerbomb/
+2026-08-12T04:05:42+00:00	Tune-in to a livestream of the DEEP DIVE into KINGDOM HEARTS panel at D23 on Disney YouTube on August 15 at 4:30 PM PT! https://www.reddit.com/r/Games/comments/1vm3kzf/tunein_to_a_livestream_of_the_deep_dive_into/
