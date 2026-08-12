@@ -3,9 +3,7 @@
 # source = https://www.reddit.com/r/Games.rss
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
-2026-08-11T13:01:25+00:00	Dark Pictures Anthology studio Supermassive Games is laying off up to 75 staff ‘to ensure sustainability’ https://www.reddit.com/r/Games/comments/1vlgu0x/dark_pictures_anthology_studio_supermassive_games/
 2026-08-11T15:05:31+00:00	Battlefield 6 Wake Island Gameplay Trailer https://www.reddit.com/r/Games/comments/1vlk0rn/battlefield_6_wake_island_gameplay_trailer/
-2026-08-11T21:00:59+00:00	Marvel Tokon: Fighting Souls - Review Thread https://www.reddit.com/r/Games/comments/1vltwh5/marvel_tokon_fighting_souls_review_thread/
 2026-08-11T21:39:01+00:00	Xbox Boss Asha Sharma Says Elder Scrolls VI Looks Great, So Stop Talking About That Giant Rat Outside Bethesda’s Office https://www.reddit.com/r/Games/comments/1vluw55/xbox_boss_asha_sharma_says_elder_scrolls_vi_looks/
 2026-08-12T02:32:32+00:00	We're the devs behind Pro Jank Footy (Powerbomb Games & Umbrella Gaming) and our chaotic arcade footy roguelike is about to launch on PC/PS5/Xbox/Switch. AMA! https://www.reddit.com/r/Games/comments/1vm1ook/were_the_devs_behind_pro_jank_footy_powerbomb/
 2026-08-12T04:05:42+00:00	Tune-in to a livestream of the DEEP DIVE into KINGDOM HEARTS panel at D23 on Disney YouTube on August 15 at 4:30 PM PT! https://www.reddit.com/r/Games/comments/1vm3kzf/tunein_to_a_livestream_of_the_deep_dive_into/
@@ -28,3 +26,5 @@
 2026-08-12T15:31:52+00:00	Capcom Friendly Club Vol. 1 - May 1996 - An EXTREMELY rare look inside CAPCOM'S 1996 studios (English Subtitles) https://www.reddit.com/r/Games/comments/1vmhfzz/capcom_friendly_club_vol_1_may_1996_an_extremely/
 2026-08-12T15:51:15+00:00	Eufloria 2 Reveal Trailer - Intergalactic floral conquest has EVOLVED! https://www.reddit.com/r/Games/comments/1vmhz33/eufloria_2_reveal_trailer_intergalactic_floral/
 2026-08-12T16:04:17+00:00	Warhammer 40,000: Dawn of War IV – Release Date Update (delayed to December 3rd) https://www.reddit.com/r/Games/comments/1vmic0w/warhammer_40000_dawn_of_war_iv_release_date/
+2026-08-12T16:47:42+00:00	The Sinking City 2 – Game Overview Trailer https://www.reddit.com/r/Games/comments/1vmjjx9/the_sinking_city_2_game_overview_trailer/
+2026-08-12T16:55:26+00:00	Resonance: A Plague Tale Legacy - Story Trailer https://www.reddit.com/r/Games/comments/1vmjrop/resonance_a_plague_tale_legacy_story_trailer/
