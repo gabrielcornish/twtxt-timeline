@@ -5,7 +5,6 @@
 
 2026-08-10T16:31:25+00:00	Updating the rules of /r/Games https://www.reddit.com/r/Games/comments/1vkps1c/updating_the_rules_of_rgames/
 2026-08-11T06:16:48+00:00	According to Remedy's financial report, Alan Wake 2 has reached 3 million copies sold https://www.reddit.com/r/Games/comments/1vl9cpv/according_to_remedys_financial_report_alan_wake_2/
-2026-08-11T08:59:03+00:00	AMA: I spent 7 years making a game from scratch. I made everything myself, including the art, music and game engine! https://www.reddit.com/r/Games/comments/1vlc4ie/ama_i_spent_7_years_making_a_game_from_scratch_i/
 2026-08-11T13:01:25+00:00	Dark Pictures Anthology studio Supermassive Games is laying off up to 75 staff ‘to ensure sustainability’ https://www.reddit.com/r/Games/comments/1vlgu0x/dark_pictures_anthology_studio_supermassive_games/
 2026-08-11T13:28:26+00:00	Helldivers 2: Castellan's Creed Legendary Warbond https://www.reddit.com/r/Games/comments/1vlhhjt/helldivers_2_castellans_creed_legendary_warbond/
 2026-08-11T13:44:35+00:00	Layoffs Hit Staff at 'Crossfire' Developer That’s No Moon https://www.reddit.com/r/Games/comments/1vlhvy7/layoffs_hit_staff_at_crossfire_developer_thats_no/
@@ -24,7 +23,8 @@
 2026-08-11T21:00:59+00:00	Marvel Tokon: Fighting Souls - Review Thread https://www.reddit.com/r/Games/comments/1vltwh5/marvel_tokon_fighting_souls_review_thread/
 2026-08-11T21:39:01+00:00	Xbox Boss Asha Sharma Says Elder Scrolls VI Looks Great, So Stop Talking About That Giant Rat Outside Bethesda’s Office https://www.reddit.com/r/Games/comments/1vluw55/xbox_boss_asha_sharma_says_elder_scrolls_vi_looks/
 2026-08-11T23:08:03+00:00	Crimson Desert on Switch 2 is targeting the first half of 2027 https://www.reddit.com/r/Games/comments/1vlx47n/crimson_desert_on_switch_2_is_targeting_the_first/
-2026-08-12T01:58:10+00:00	Phantom Blade Zero: 11-Minute Extended Gameplay Trailer https://www.reddit.com/r/Games/comments/1vm0xti/phantom_blade_zero_11minute_extended_gameplay/
 2026-08-12T02:11:28+00:00	Watch the Phantom Blade Zero gameplay deep dive State of Play on August 17, pre-orders live today https://www.reddit.com/r/Games/comments/1vm18cb/watch_the_phantom_blade_zero_gameplay_deep_dive/
 2026-08-12T02:32:32+00:00	We're the devs behind Pro Jank Footy (Powerbomb Games & Umbrella Gaming) and our chaotic arcade footy roguelike is about to launch on PC/PS5/Xbox/Switch. AMA! https://www.reddit.com/r/Games/comments/1vm1ook/were_the_devs_behind_pro_jank_footy_powerbomb/
 2026-08-12T04:05:42+00:00	Tune-in to a livestream of the DEEP DIVE into KINGDOM HEARTS panel at D23 on Disney YouTube on August 15 at 4:30 PM PT! https://www.reddit.com/r/Games/comments/1vm3kzf/tunein_to_a_livestream_of_the_deep_dive_into/
+2026-08-12T07:39:16+00:00	Warhounds - Official 1.0 Launch Trailer https://www.reddit.com/r/Games/comments/1vm7f7h/warhounds_official_10_launch_trailer/
+2026-08-12T08:42:44+00:00	Nihon Falcom reports 111% revenue growth and 485% profit growth in the past three quarters, citing worldwide success of Trails in the Sky 1st Chapter - AUTOMATON WEST https://www.reddit.com/r/Games/comments/1vm8gpa/nihon_falcom_reports_111_revenue_growth_and_485/
