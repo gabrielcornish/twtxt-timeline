@@ -3,8 +3,6 @@
 # source = https://www.gamesindustry.biz/feed
 # description = twtxt conversion of https://www.gamesindustry.biz/feed
 
-2026-07-31T15:21:24+00:00	Xbox is (probably) not for sale | Opinion https://www.gamesindustry.biz/xbox-is-probably-not-for-sale-opinion
-2026-08-03T08:22:06+00:00	Microsoft confirms increased Xbox prices in the UK and Europe https://www.gamesindustry.biz/microsoft-confirms-increased-xbox-prices-in-the-uk-and-europe
 2026-08-03T09:57:28+00:00	Last Sentinel developer Lightspeed LA conducts layoffs, 80 roles reportedly cut https://www.gamesindustry.biz/last-sentinel-developer-lightspeed-la-conducts-layoffs-80-roles-reportedly-cut
 2026-08-03T12:45:46+00:00	Rokky teams up with Revolution Software to bring Broken Sword franchise to China https://www.gamesindustry.biz/rokky-teams-up-with-revolution-software-to-bring-broken-sword-franchise-to-china
 2026-08-03T13:47:44+00:00	AI startup Reforged Labs shuts down as the "gap we were selling into is closing" https://www.gamesindustry.biz/ai-startup-reforged-labs-shuts-down-as-the-gap-we-were-selling-into-is-closing
@@ -53,3 +51,5 @@
 2026-08-11T14:05:37+00:00	Gamescom Dev speaker survey identifies potential impacts of AI on team structure and productivity https://www.gamesindustry.biz/gamescom-dev-speaker-survey-identifies-potential-impacts-of-ai-on-team-structure-and-productivity
 2026-08-12T08:59:53+00:00	UKIE-backed Digital Schoolhouse partners with Roblox to provide suite of tools for students to develop Roblox games in-class https://www.gamesindustry.biz/ukie-backed-digital-schoolhouse-partners-with-roblox-to-provide-suite-of-tools-for-students-to-develop-roblox-games-in-class
 2026-08-12T09:51:42+00:00	Pearl Abyss Q2 earnings decline as impact of Crimson Desert's launch period subsides https://www.gamesindustry.biz/pearl-abyss-q2-earnings-decline-as-impact-of-crimson-deserts-launch-period-subsides
+2026-08-12T10:46:01+00:00	BAFTA Games Awards updates voting requirements and entry fees as it opens entries for 2027 ceremony https://www.gamesindustry.biz/bafta-games-awards-updates-voting-requirements-and-entry-fees-as-it-opens-entries-for-2027-ceremony
+2026-08-12T11:00:00+00:00	How Planet of Lana became a hit through dogged determination after being rejected "hundreds" of times https://www.gamesindustry.biz/how-planet-of-lana-became-a-hit-through-dogged-determination-after-being-rejected-hundreds-of-times
