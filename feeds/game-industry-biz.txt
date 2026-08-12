@@ -3,7 +3,6 @@
 # source = https://www.gamesindustry.biz/feed
 # description = twtxt conversion of https://www.gamesindustry.biz/feed
 
-2026-08-03T12:45:46+00:00	Rokky teams up with Revolution Software to bring Broken Sword franchise to China https://www.gamesindustry.biz/rokky-teams-up-with-revolution-software-to-bring-broken-sword-franchise-to-china
 2026-08-03T13:47:44+00:00	AI startup Reforged Labs shuts down as the "gap we were selling into is closing" https://www.gamesindustry.biz/ai-startup-reforged-labs-shuts-down-as-the-gap-we-were-selling-into-is-closing
 2026-08-03T14:59:24+00:00	Ustwo Games was pushed out of mobile by the rise of free-to-play – but the mobile way of doing things is coming to PC https://www.gamesindustry.biz/ustwo-games-was-pushed-out-of-mobile-by-the-rise-of-free-to-play-but-the-mobile-way-of-doing-things-is-coming-to-pc
 2026-08-03T15:56:47+00:00	Razer acquires StreamElements assets https://www.gamesindustry.biz/razer-acquires-streamelements-assets
@@ -53,3 +52,4 @@
 2026-08-12T10:46:01+00:00	BAFTA Games Awards updates voting requirements and entry fees as it opens entries for 2027 ceremony https://www.gamesindustry.biz/bafta-games-awards-updates-voting-requirements-and-entry-fees-as-it-opens-entries-for-2027-ceremony
 2026-08-12T11:00:00+00:00	How Planet of Lana became a hit through dogged determination after being rejected "hundreds" of times https://www.gamesindustry.biz/how-planet-of-lana-became-a-hit-through-dogged-determination-after-being-rejected-hundreds-of-times
 2026-08-12T13:07:48+00:00	MMORPG Throne and Liberty transitions from Amazon Game Studios to NC (formerly NCSoft) https://www.gamesindustry.biz/mmorpg-throne-and-liberty-transitions-from-amazon-game-studios-to-nc-formerly-ncsoft
+2026-08-12T13:58:09+00:00	CodeDev Group launches dev studio Full Spectrum Interactive https://www.gamesindustry.biz/codedev-group-launches-dev-studio-full-spectrum-interactive

@@ -3,20 +3,16 @@
 # source = https://www.reddit.com/r/Games.rss
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
-2026-08-10T16:31:25+00:00	Updating the rules of /r/Games https://www.reddit.com/r/Games/comments/1vkps1c/updating_the_rules_of_rgames/
 2026-08-11T13:01:25+00:00	Dark Pictures Anthology studio Supermassive Games is laying off up to 75 staff ‘to ensure sustainability’ https://www.reddit.com/r/Games/comments/1vlgu0x/dark_pictures_anthology_studio_supermassive_games/
 2026-08-11T14:06:26+00:00	Star Wars Zero Company Hands-on Preview and Impressions https://www.reddit.com/r/Games/comments/1vlift4/star_wars_zero_company_handson_preview_and/
 2026-08-11T15:05:31+00:00	Battlefield 6 Wake Island Gameplay Trailer https://www.reddit.com/r/Games/comments/1vlk0rn/battlefield_6_wake_island_gameplay_trailer/
 2026-08-11T15:27:59+00:00	Agent 64: Spies Never Die | Official Launch Trailer https://www.reddit.com/r/Games/comments/1vlknn2/agent_64_spies_never_die_official_launch_trailer/
-2026-08-11T15:31:07+00:00	ACE COMBAT 8 The Art of Aircraft Trailer https://www.reddit.com/r/Games/comments/1vlkqt8/ace_combat_8_the_art_of_aircraft_trailer/
-2026-08-11T16:05:19+00:00	WARDOGS | 10 Reasons NOT to Buy https://www.reddit.com/r/Games/comments/1vlloos/wardogs_10_reasons_not_to_buy/
 2026-08-11T16:05:23+00:00	The Lord of the Rings War in the North - Legacy Edition Launch Trailer | PS5 & PS4 Games https://www.reddit.com/r/Games/comments/1vllorf/the_lord_of_the_rings_war_in_the_north_legacy/
 2026-08-11T16:36:22+00:00	Control Resonant Combat deep dive https://www.reddit.com/r/Games/comments/1vlmjsn/control_resonant_combat_deep_dive/
 2026-08-11T18:01:12+00:00	Star Wars: Galactic Racer Podracing PS5 Gameplay https://www.reddit.com/r/Games/comments/1vloxio/star_wars_galactic_racer_podracing_ps5_gameplay/
 2026-08-11T21:00:59+00:00	Marvel Tokon: Fighting Souls - Review Thread https://www.reddit.com/r/Games/comments/1vltwh5/marvel_tokon_fighting_souls_review_thread/
 2026-08-11T21:39:01+00:00	Xbox Boss Asha Sharma Says Elder Scrolls VI Looks Great, So Stop Talking About That Giant Rat Outside Bethesda’s Office https://www.reddit.com/r/Games/comments/1vluw55/xbox_boss_asha_sharma_says_elder_scrolls_vi_looks/
 2026-08-11T23:08:03+00:00	Crimson Desert on Switch 2 is targeting the first half of 2027 https://www.reddit.com/r/Games/comments/1vlx47n/crimson_desert_on_switch_2_is_targeting_the_first/
-2026-08-12T02:11:28+00:00	Watch the Phantom Blade Zero gameplay deep dive State of Play on August 17, pre-orders live today https://www.reddit.com/r/Games/comments/1vm18cb/watch_the_phantom_blade_zero_gameplay_deep_dive/
 2026-08-12T02:32:32+00:00	We're the devs behind Pro Jank Footy (Powerbomb Games & Umbrella Gaming) and our chaotic arcade footy roguelike is about to launch on PC/PS5/Xbox/Switch. AMA! https://www.reddit.com/r/Games/comments/1vm1ook/were_the_devs_behind_pro_jank_footy_powerbomb/
 2026-08-12T04:05:42+00:00	Tune-in to a livestream of the DEEP DIVE into KINGDOM HEARTS panel at D23 on Disney YouTube on August 15 at 4:30 PM PT! https://www.reddit.com/r/Games/comments/1vm3kzf/tunein_to_a_livestream_of_the_deep_dive_into/
 2026-08-12T07:39:16+00:00	Warhounds - Official 1.0 Launch Trailer https://www.reddit.com/r/Games/comments/1vm7f7h/warhounds_official_10_launch_trailer/
@@ -27,4 +23,8 @@
 2026-08-12T12:59:35+00:00	Phantom Blade Zero — Pre-Order Trailer https://www.reddit.com/r/Games/comments/1vmdgh8/phantom_blade_zero_preorder_trailer/
 2026-08-12T13:30:56+00:00	Bubsy 4D - Black Hole Update - Launch Trailer https://www.reddit.com/r/Games/comments/1vme8fd/bubsy_4d_black_hole_update_launch_trailer/
 2026-08-12T13:33:36+00:00	Agent 64: Spies Never Die Review Thread https://www.reddit.com/r/Games/comments/1vmeavd/agent_64_spies_never_die_review_thread/
-2026-08-12T13:44:34+00:00	Meccha Chameleon Hits 20 Million Sales https://www.reddit.com/r/Games/comments/1vmeks3/meccha_chameleon_hits_20_million_sales/
+2026-08-12T14:02:18+00:00	Ghost of Yōtei Complete Edition Comes to PS5 October 1 https://www.reddit.com/r/Games/comments/1vmf0qq/ghost_of_yōtei_complete_edition_comes_to_ps5/
+2026-08-12T14:08:28+00:00	MECCHA CHAMELEON - Over 20 million units sold! https://www.reddit.com/r/Games/comments/1vmf6fd/meccha_chameleon_over_20_million_units_sold/
+2026-08-12T14:25:46+00:00	Ghost of Yōtei Complete Edition - Announce Trailer | PS5 Games https://www.reddit.com/r/Games/comments/1vmfnbu/ghost_of_yōtei_complete_edition_announce_trailer/
+2026-08-12T14:32:34+00:00	Witcher Multiplayer Project Suffers Another Round Of Layoffs https://www.reddit.com/r/Games/comments/1vmftmo/witcher_multiplayer_project_suffers_another_round/
+2026-08-12T14:51:45+00:00	More Lord of the Rings Remasters Are in the Works Following War in the North Re-Release, Confirms Aspyr https://www.reddit.com/r/Games/comments/1vmgc6l/more_lord_of_the_rings_remasters_are_in_the_works/
