@@ -3,12 +3,6 @@
 # source = https://bearblog.dev/discover/feed/
 # description = twtxt conversion of https://bearblog.dev/discover/feed/
 
-2026-08-09T10:56:00+00:00	Tinkering with ʕ•ᴥ•ʔ BearCode https://siobhan.bearblog.dev/tinkering-with-bearcode/
-2026-08-09T15:30:00+00:00	Enjoying Multiple Blog Platforms https://binarydigit.net/enjoying-multiple-blog-platforms/
-2026-08-09T15:39:00+00:00	nine: quick digression for a bear customization. Subtitle: read the $%^#ing manual? https://angrybunnyman.com/nine-quick-digression-for-a-bear-customization/
-2026-08-09T16:27:00+00:00	Heatwave No. ??? https://onlinegoddess.net/2026/08/heatwave-no/
-2026-08-09T16:57:00+00:00	📸 my cute cat https://blahg.online/my-cute-cat/
-2026-08-10T02:56:00+00:00	One of the least interesting things about me https://magmacranes.bearblog.dev/one-of-the-least-interesting-things-about-me/
 2026-08-10T04:36:00+00:00	Are you a dragonfly now? https://forsomeone.bearblog.dev/are-you-a-dragonfly-now/
 2026-08-10T04:40:00+00:00	Big Walk is really good https://blog.lauramichet.com/big-walk-is-really-good/
 2026-08-10T10:54:00+00:00	Don’t Lock User Data Behind Paywalls https://onlinegoddess.net/2026/08/dont-lock-user-data-behind-paywalls/
@@ -19,7 +13,13 @@
 2026-08-10T20:42:26.144146+00:00	When "free" is not free https://itsme.bearblog.dev/when-free-is-not-free/
 2026-08-10T22:00:00+00:00	If You See a Dragonfly https://notes.jeddacp.com/if-you-see-a-dragonfly/
 2026-08-11T01:56:00+00:00	Happy International Pirate Month! https://blog.absurdpirate.com/happy-international-pirate-month/
+2026-08-11T03:05:49.775825+00:00	be a body https://blahg.online/be-a-body/
+2026-08-11T06:04:00+00:00	Australia: Famous for its breaches not beaches https://lost-number.bearblog.dev/aus-breaches-not-beaches/
 2026-08-11T06:48:00+00:00	Rewatched The Story of Yangawa's Canals https://blog.lauramichet.com/rewatched-the-story-of-yangawas-canals/
+2026-08-11T14:41:00+00:00	Tabbed content for your blog https://futureperfect.bearblog.dev/tabbed-content-for-your-blog/
 2026-08-11T15:44:56.184357+00:00	i'm discoverable now! https://peelingtheonion.bearblog.dev/im-discoverable-now/
 2026-08-11T20:23:00+00:00	Vaporwave is Dead, Long Live Vaporwave https://householderkarl.com/vaporwave-is-dead-long-live-vaporwave/
+2026-08-11T23:08:06.237410+00:00	Gotcha https://toska.bearblog.dev/gotcha/
 2026-08-12T02:18:00+00:00	Tradwives: Where Feminism Goes to Off Itself https://blog.absurdpirate.com/tradwives-where-feminism-goes-to-off-itself/
+2026-08-12T17:04:36.759997+00:00	Fighting for what I believe in https://annoflo.net/fighting-for-what-i-believe-in/
+2026-08-13T00:48:00+00:00	21 days since saying goodbye https://notes.jeddacp.com/21-days-since-saying-goodbye/
