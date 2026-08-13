@@ -3,7 +3,6 @@
 # source = https://www.gamesindustry.biz/feed
 # description = twtxt conversion of https://www.gamesindustry.biz/feed
 
-2026-08-03T15:56:47+00:00	Razer acquires StreamElements assets https://www.gamesindustry.biz/razer-acquires-streamelements-assets
 2026-08-03T19:44:13+00:00	Atari's core business returns to profit, but consolidated group posts $5.5m net loss as Thunderful drags on results https://www.gamesindustry.biz/ataris-core-business-returns-to-profit-but-consolidated-group-posts-55m-net-loss-as-thunderful-drags-on-results
 2026-08-03T20:15:39+00:00	FIFA World Cup developer Refactor Games cuts 85% of staff https://www.gamesindustry.biz/fifa-world-cup-developer-refactor-games-reportedly-shuttered-by-delphi-interactive
 2026-08-04T09:47:52+00:00	Roblox's reported user numbers will make it subject to additional EU legislation for regulating social networks https://www.gamesindustry.biz/robloxs-reported-user-numbers-will-make-it-subject-to-additional-eu-legislation-for-regulating-social-networks
@@ -53,3 +52,4 @@
 2026-08-12T13:58:09+00:00	CodeDev Group launches dev studio Full Spectrum Interactive https://www.gamesindustry.biz/codedev-group-launches-dev-studio-full-spectrum-interactive
 2026-08-12T15:45:01+00:00	Saber Interactive CEO responds to claims that a writer was replaced with AI https://www.gamesindustry.biz/saber-interactive-denies-replacing-writer-with-ai
 2026-08-12T16:33:08+00:00	Witcher multiplayer spin-off Project Sirius hit by fresh layoffs https://www.gamesindustry.biz/witcher-multiplayer-spin-off-project-sirius-hit-by-fresh-layoffs
+2026-08-13T13:06:36+00:00	Testronic appoints Sonia Kerr as CEO, Sharon Baylay-Bell becomes company chair https://www.gamesindustry.biz/testronic-appoints-sonia-kerr-as-ceo-sharon-baylay-bell-becomes-company-chair
