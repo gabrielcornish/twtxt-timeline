@@ -3,18 +3,11 @@
 # source = https://www.reddit.com/r/Games.rss
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
-2026-08-12T08:42:44+00:00	Nihon Falcom reports 111% revenue growth and 485% profit growth in the past three quarters, citing worldwide success of Trails in the Sky 1st Chapter - AUTOMATON WEST https://www.reddit.com/r/Games/comments/1vm8gpa/nihon_falcom_reports_111_revenue_growth_and_485/
 2026-08-12T11:00:30+00:00	Daily /r/Games Discussion - Suggest Me a Game - August 12, 2026 https://www.reddit.com/r/Games/comments/1vmax5h/daily_rgames_discussion_suggest_me_a_game_august/
-2026-08-12T13:33:36+00:00	Agent 64: Spies Never Die Review Thread https://www.reddit.com/r/Games/comments/1vmeavd/agent_64_spies_never_die_review_thread/
-2026-08-12T14:02:18+00:00	Ghost of Yōtei Complete Edition Comes to PS5 October 1 https://www.reddit.com/r/Games/comments/1vmf0qq/ghost_of_yōtei_complete_edition_comes_to_ps5/
 2026-08-12T14:08:28+00:00	MECCHA CHAMELEON - Over 20 million units sold! https://www.reddit.com/r/Games/comments/1vmf6fd/meccha_chameleon_over_20_million_units_sold/
-2026-08-12T14:32:34+00:00	Witcher Multiplayer Project Suffers Another Round Of Layoffs https://www.reddit.com/r/Games/comments/1vmftmo/witcher_multiplayer_project_suffers_another_round/
 2026-08-12T14:51:45+00:00	More Lord of the Rings Remasters Are in the Works Following War in the North Re-Release, Confirms Aspyr https://www.reddit.com/r/Games/comments/1vmgc6l/more_lord_of_the_rings_remasters_are_in_the_works/
 2026-08-12T15:27:55+00:00	Former Saber writer claims she was replaced by ChatGPT during development on its ridesharing game https://www.reddit.com/r/Games/comments/1vmhbzo/former_saber_writer_claims_she_was_replaced_by/
-2026-08-12T15:31:27+00:00	PlayStation Plus Game Catalog for August: Helldivers 2, Kingdom Come Deliverance II, Vampire Survivors, Hell is Us and more https://www.reddit.com/r/Games/comments/1vmhfkx/playstation_plus_game_catalog_for_august/
 2026-08-12T16:04:17+00:00	Warhammer 40,000: Dawn of War IV – Release Date Update (delayed to December 3rd) https://www.reddit.com/r/Games/comments/1vmic0w/warhammer_40000_dawn_of_war_iv_release_date/
-2026-08-12T16:47:42+00:00	The Sinking City 2 – Game Overview Trailer https://www.reddit.com/r/Games/comments/1vmjjx9/the_sinking_city_2_game_overview_trailer/
-2026-08-12T16:55:26+00:00	Resonance: A Plague Tale Legacy - Story Trailer https://www.reddit.com/r/Games/comments/1vmjrop/resonance_a_plague_tale_legacy_story_trailer/
 2026-08-12T19:40:43+00:00	Immortality creator Sam Barlow's new video-scouring game is sci-fi horror Precognition, a collab with filmmaker Brandon Cronenberg, in which you see and change the future https://www.reddit.com/r/Games/comments/1vmodsp/immortality_creator_sam_barlows_new_videoscouring/
 2026-08-13T13:14:13+00:00	PAYDAY 2: Update 247 Changelog https://www.reddit.com/r/Games/comments/1vnadti/payday_2_update_247_changelog/
 2026-08-13T13:17:22+00:00	Embracer Financial Report: new Kingdom Come installment and Darksiders 4 will be released during the 2027-2028 fiscal year https://www.reddit.com/r/Games/comments/1vnagna/embracer_financial_report_new_kingdom_come/
@@ -22,9 +15,16 @@
 2026-08-13T13:47:43+00:00	I just couldn't stop playing Fire Emblem: Fortune's Weave (Hands-On Impressions) https://www.reddit.com/r/Games/comments/1vnb80h/i_just_couldnt_stop_playing_fire_emblem_fortunes/
 2026-08-13T14:10:46+00:00	Gray Zone Warfare developer Madfinger Games 'Steals' ARMA Creative Director https://www.reddit.com/r/Games/comments/1vnbtp5/gray_zone_warfare_developer_madfinger_games/
 2026-08-13T14:10:50+00:00	Total War: WARHAMMER III - Lords of The End Times - Cinematic trailer https://www.reddit.com/r/Games/comments/1vnbtrq/total_war_warhammer_iii_lords_of_the_end_times/
-2026-08-13T14:30:43+00:00	Saber Interactive CEO responds to claims that a writer was replaced with AI https://www.reddit.com/r/Games/comments/1vnccn9/saber_interactive_ceo_responds_to_claims_that_a/
 2026-08-13T14:42:43+00:00	Total War: WARHAMMER III - Lords of the End Times - DLC Overview https://www.reddit.com/r/Games/comments/1vncnze/total_war_warhammer_iii_lords_of_the_end_times/
 2026-08-13T15:06:52+00:00	20 hours in, I cannot believe the scale, complexity, and ambition of Fire Emblem: Fortune's Weave - Eurogamer https://www.reddit.com/r/Games/comments/1vndcdz/20_hours_in_i_cannot_believe_the_scale_complexity/
 2026-08-13T15:07:08+00:00	Battlefield 6 x Top Gun: Carrier Strike Cinematic Trailer https://www.reddit.com/r/Games/comments/1vndcns/battlefield_6_x_top_gun_carrier_strike_cinematic/
-2026-08-13T15:11:31+00:00	Marvel's Wolverine Preview: Not The Superhero Revelation That Spider-Man Was, But Still Fun So Far https://www.reddit.com/r/Games/comments/1vndgu3/marvels_wolverine_preview_not_the_superhero/
 2026-08-13T15:14:25+00:00	We're ATICO, developers of Die in the Dungeon! AMA starting now! https://www.reddit.com/r/Games/comments/1vndjne/were_atico_developers_of_die_in_the_dungeon_ama/
+2026-08-13T15:16:50+00:00	Insomniac Confirms Marvel's Wolverine Performance Mode Details - 60 frames-per-second with ray tracing is the default mode on base PS5 — a first for Insomniac https://www.reddit.com/r/Games/comments/1vndm1u/insomniac_confirms_marvels_wolverine_performance/
+2026-08-13T15:28:28+00:00	"Wolverine is our only playable character": Insomniac won't repeat Spider-Man's worst sections in Marvel's Wolverine https://www.reddit.com/r/Games/comments/1vndxl0/wolverine_is_our_only_playable_character/
+2026-08-13T15:34:35+00:00	Duskfade Review Thread https://www.reddit.com/r/Games/comments/1vne3qk/duskfade_review_thread/
+2026-08-13T15:42:38+00:00	Duskfade | Launch Trailer https://www.reddit.com/r/Games/comments/1vnebx6/duskfade_launch_trailer/
+2026-08-13T16:02:27+00:00	Mafia: The Omertà Collection - Announce Trailer https://www.reddit.com/r/Games/comments/1vnevyd/mafia_the_omertà_collection_announce_trailer/
+2026-08-13T16:10:26+00:00	"The world's becoming so bleak": How Soulframe hopes to escape Warframe's shadow, with a little insight from Elden Ring https://www.reddit.com/r/Games/comments/1vnf4dr/the_worlds_becoming_so_bleak_how_soulframe_hopes/
+2026-08-13T16:23:00+00:00	Shot One Fighters, a roguelite mixing Street Fighter and Slay the Spire, was fully funded on Kickstarter in 6 hours https://www.reddit.com/r/Games/comments/1vnfh8n/shot_one_fighters_a_roguelite_mixing_street/
+2026-08-13T16:58:20+00:00	Pokémon Bank will shut down in February 2027, with players advised to transfer data to Pokémon Home https://www.reddit.com/r/Games/comments/1vngghg/pokémon_bank_will_shut_down_in_february_2027_with/
+2026-08-13T16:58:49+00:00	Tactical Gameplay Breakdown | STAR WARS Zero Company https://www.reddit.com/r/Games/comments/1vnggyt/tactical_gameplay_breakdown_star_wars_zero_company/

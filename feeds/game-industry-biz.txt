@@ -3,7 +3,6 @@
 # source = https://www.gamesindustry.biz/feed
 # description = twtxt conversion of https://www.gamesindustry.biz/feed
 
-2026-08-03T20:15:39+00:00	FIFA World Cup developer Refactor Games cuts 85% of staff https://www.gamesindustry.biz/fifa-world-cup-developer-refactor-games-reportedly-shuttered-by-delphi-interactive
 2026-08-04T09:47:52+00:00	Roblox's reported user numbers will make it subject to additional EU legislation for regulating social networks https://www.gamesindustry.biz/robloxs-reported-user-numbers-will-make-it-subject-to-additional-eu-legislation-for-regulating-social-networks
 2026-08-04T11:00:00+00:00	The industry makes great games, but nobody can find them https://www.gamesindustry.biz/the-industry-makes-great-games-but-nobody-can-find-them
 2026-08-04T12:00:00+00:00	FirstLook launches creator-first platform Creators.gg with launch partners IO Interactive and Brain Jar Games https://www.gamesindustry.biz/firstlook-launches-creator-first-platform-creatorsgg-with-launch-partners-io-interactive-and-brain-jar-games
@@ -53,3 +52,4 @@
 2026-08-12T16:33:08+00:00	Witcher multiplayer spin-off Project Sirius hit by fresh layoffs https://www.gamesindustry.biz/witcher-multiplayer-spin-off-project-sirius-hit-by-fresh-layoffs
 2026-08-13T13:06:36+00:00	Testronic appoints Sonia Kerr as CEO, Sharon Baylay-Bell becomes company chair https://www.gamesindustry.biz/testronic-appoints-sonia-kerr-as-ceo-sharon-baylay-bell-becomes-company-chair
 2026-08-13T14:00:44+00:00	Sensor Tower: 89% of GTA6 preorders are for the $100 ultimate edition https://www.gamesindustry.biz/sensor-tower-89-of-gta6-preorders-are-for-the-100-ultimate-edition
+2026-08-13T16:55:14+00:00	Mattel launches new global studios business to develop games based on its IP https://www.gamesindustry.biz/mattel-launches-new-global-studios-business-to-develop-games-based-on-its-ip
