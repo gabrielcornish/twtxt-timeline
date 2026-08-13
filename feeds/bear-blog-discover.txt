@@ -4,7 +4,6 @@
 # description = twtxt conversion of https://bearblog.dev/discover/feed/
 
 2026-08-10T04:40:00+00:00	Big Walk is really good https://blog.lauramichet.com/big-walk-is-really-good/
-2026-08-10T10:54:00+00:00	Don’t Lock User Data Behind Paywalls https://onlinegoddess.net/2026/08/dont-lock-user-data-behind-paywalls/
 2026-08-10T11:40:00+00:00	Defending my own brain against enshittification https://mrmarket.lol/how-i-feel-calmin-control-of-my-life-in-the-time-of-enshittification/
 2026-08-10T12:33:00+00:00	I'm done using AI https://brettcodes.com/im-done-using-ai/
 2026-08-10T15:25:00+00:00	book: muskism by quinn slobodian and ben tarnoff https://blog.avas.space/muskism/
@@ -15,6 +14,7 @@
 2026-08-11T06:04:00+00:00	Australia: Famous for its breaches not beaches https://lost-number.bearblog.dev/aus-breaches-not-beaches/
 2026-08-11T06:48:00+00:00	Rewatched The Story of Yangawa's Canals https://blog.lauramichet.com/rewatched-the-story-of-yangawas-canals/
 2026-08-11T11:42:00+00:00	Death, Taxes and Enshittification https://explorator.dev/death-taxes-and-enshittification/
+2026-08-11T13:33:00+00:00	Please consider using Bartholomew to defend your systems. https://thecynicalnerd.bearblog.dev/please-consider-using-bartholmew-to-defend-your-systems/
 2026-08-11T14:41:00+00:00	Tabbed content for your blog https://futureperfect.bearblog.dev/tabbed-content-for-your-blog/
 2026-08-11T15:44:56.184357+00:00	i'm discoverable now! https://peelingtheonion.bearblog.dev/im-discoverable-now/
 2026-08-11T20:23:00+00:00	Vaporwave is Dead, Long Live Vaporwave https://householderkarl.com/vaporwave-is-dead-long-live-vaporwave/
