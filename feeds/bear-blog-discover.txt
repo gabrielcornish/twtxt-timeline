@@ -4,7 +4,6 @@
 # description = twtxt conversion of https://bearblog.dev/discover/feed/
 
 2026-08-10T11:40:00+00:00	Defending my own brain against enshittification https://mrmarket.lol/how-i-feel-calmin-control-of-my-life-in-the-time-of-enshittification/
-2026-08-10T17:54:00+00:00	My Homelab Got Hacked - A Postmortem https://phunky.cafe/my-homelab-got-hacked/
 2026-08-10T21:42:41.052923+00:00	not every story works in every medium https://rnotte.art/not-every-story-works-in-every-medium/
 2026-08-10T22:00:00+00:00	If You See a Dragonfly https://notes.jeddacp.com/if-you-see-a-dragonfly/
 2026-08-11T03:05:49.775825+00:00	be a body https://blahg.online/be-a-body/
@@ -18,6 +17,7 @@
 2026-08-11T23:08:06.237410+00:00	Gotcha https://toska.bearblog.dev/gotcha/
 2026-08-12T02:18:00+00:00	Tradwives: Where Feminism Goes to Off Itself https://blog.absurdpirate.com/tradwives-where-feminism-goes-to-off-itself/
 2026-08-12T10:21:00+00:00	film photos from the south of France https://bluebottles.bearblog.dev/film-photos-from-the-south-of-france/
+2026-08-12T12:52:00+00:00	Your blog is loved https://robertbirming.com/your-blog-loved/
 2026-08-12T16:35:00+00:00	Dear people who work at the airport https://life-after-ssri.bearblog.dev/dear-people-who-work-at-the-airport/
 2026-08-12T17:04:36.759997+00:00	Fighting for what I believe in https://annoflo.net/fighting-for-what-i-believe-in/
 2026-08-13T00:48:00+00:00	21 days since saying goodbye https://notes.jeddacp.com/21-days-since-saying-goodbye/

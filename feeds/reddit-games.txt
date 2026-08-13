@@ -4,8 +4,6 @@
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
 2026-08-12T11:00:30+00:00	Daily /r/Games Discussion - Suggest Me a Game - August 12, 2026 https://www.reddit.com/r/Games/comments/1vmax5h/daily_rgames_discussion_suggest_me_a_game_august/
-2026-08-12T15:27:55+00:00	Former Saber writer claims she was replaced by ChatGPT during development on its ridesharing game https://www.reddit.com/r/Games/comments/1vmhbzo/former_saber_writer_claims_she_was_replaced_by/
-2026-08-12T19:40:43+00:00	Immortality creator Sam Barlow's new video-scouring game is sci-fi horror Precognition, a collab with filmmaker Brandon Cronenberg, in which you see and change the future https://www.reddit.com/r/Games/comments/1vmodsp/immortality_creator_sam_barlows_new_videoscouring/
 2026-08-13T13:14:13+00:00	PAYDAY 2: Update 247 Changelog https://www.reddit.com/r/Games/comments/1vnadti/payday_2_update_247_changelog/
 2026-08-13T13:17:22+00:00	Embracer Financial Report: new Kingdom Come installment and Darksiders 4 will be released during the 2027-2028 fiscal year https://www.reddit.com/r/Games/comments/1vnagna/embracer_financial_report_new_kingdom_come/
 2026-08-13T13:22:37+00:00	Pokémon Bank is hitting End of Service as of 26/02/2027 https://www.reddit.com/r/Games/comments/1vnaldk/pokémon_bank_is_hitting_end_of_service_as_of/
@@ -23,8 +21,10 @@
 2026-08-13T16:02:27+00:00	Mafia: The Omertà Collection - Announce Trailer https://www.reddit.com/r/Games/comments/1vnevyd/mafia_the_omertà_collection_announce_trailer/
 2026-08-13T16:10:26+00:00	"The world's becoming so bleak": How Soulframe hopes to escape Warframe's shadow, with a little insight from Elden Ring https://www.reddit.com/r/Games/comments/1vnf4dr/the_worlds_becoming_so_bleak_how_soulframe_hopes/
 2026-08-13T16:23:00+00:00	Shot One Fighters, a roguelite mixing Street Fighter and Slay the Spire, was fully funded on Kickstarter in 6 hours https://www.reddit.com/r/Games/comments/1vnfh8n/shot_one_fighters_a_roguelite_mixing_street/
-2026-08-13T16:49:19+00:00	Geneforge 3: Detonation - Remake of third game from Geneforge pentalogy was fully funded on Kickstarter with all goals reached https://www.reddit.com/r/Games/comments/1vng7o2/geneforge_3_detonation_remake_of_third_game_from/
 2026-08-13T16:55:27+00:00	LOTRO: Wolves of Mordor New expansion overview https://www.reddit.com/r/Games/comments/1vngdpk/lotro_wolves_of_mordor_new_expansion_overview/
 2026-08-13T16:58:49+00:00	Tactical Gameplay Breakdown | STAR WARS Zero Company https://www.reddit.com/r/Games/comments/1vnggyt/tactical_gameplay_breakdown_star_wars_zero_company/
-2026-08-13T17:06:24+00:00	The Artistry in 8-bit and 16-bit pixel art [Strafefox] https://www.reddit.com/r/Games/comments/1vngoky/the_artistry_in_8bit_and_16bit_pixel_art_strafefox/
 2026-08-13T17:19:51+00:00	Fortnite x Persona 5 - Official Collaboration Teaser Trailer https://www.reddit.com/r/Games/comments/1vnh234/fortnite_x_persona_5_official_collaboration/
+2026-08-13T18:02:05+00:00	The Blood of Dawnwalker — Everything You Need to Know [4K] [subtitles available] https://www.reddit.com/r/Games/comments/1vni9wt/the_blood_of_dawnwalker_everything_you_need_to/
+2026-08-13T18:22:49+00:00	Star Wars: The Old Republic - Masters of the Force Revealed https://www.reddit.com/r/Games/comments/1vniv4g/star_wars_the_old_republic_masters_of_the_force/
+2026-08-13T18:53:03+00:00	BREAKING: Netflix to shut down two more game studios https://www.reddit.com/r/Games/comments/1vnjpwm/breaking_netflix_to_shut_down_two_more_game/
+2026-08-13T18:56:08+00:00	System Shock VR - Reveal Trailer https://www.reddit.com/r/Games/comments/1vnjt7x/system_shock_vr_reveal_trailer/
