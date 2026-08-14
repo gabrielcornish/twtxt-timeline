@@ -15,9 +15,7 @@
 2026-08-13T18:22:49+00:00	Star Wars: The Old Republic - Masters of the Force Revealed https://www.reddit.com/r/Games/comments/1vniv4g/star_wars_the_old_republic_masters_of_the_force/
 2026-08-13T18:53:03+00:00	BREAKING: Netflix to shut down two more game studios https://www.reddit.com/r/Games/comments/1vnjpwm/breaking_netflix_to_shut_down_two_more_game/
 2026-08-13T18:56:08+00:00	System Shock VR - Reveal Trailer https://www.reddit.com/r/Games/comments/1vnjt7x/system_shock_vr_reveal_trailer/
-2026-08-13T21:16:36+00:00	Neo Berlin 2087 - Official Gamescom 2026 Release Announcement Trailer https://www.reddit.com/r/Games/comments/1vnnm8g/neo_berlin_2087_official_gamescom_2026_release/
 2026-08-14T00:16:20+00:00	Global Sales of Pokémon Pokopia for Nintendo Switch 2 Surpass 5 Million Units https://www.reddit.com/r/Games/comments/1vnry38/global_sales_of_pokémon_pokopia_for_nintendo/
-2026-08-14T00:35:21+00:00	Former Ubisoft Halifax developer reveals first video game from new indie studio https://www.reddit.com/r/Games/comments/1vnsd9r/former_ubisoft_halifax_developer_reveals_first/
 2026-08-14T01:25:12+00:00	Sandustry Launch Trailer https://www.reddit.com/r/Games/comments/1vntgac/sandustry_launch_trailer/
 2026-08-14T06:01:40+00:00	Swords & Slippers - Gameplay Showcase https://www.reddit.com/r/Games/comments/1vnyynz/swords_slippers_gameplay_showcase/
 2026-08-14T06:45:39+00:00	WASTE THE FALLEN - Official Gameplay Reveal https://www.reddit.com/r/Games/comments/1vnzqui/waste_the_fallen_official_gameplay_reveal/
@@ -28,3 +26,5 @@
 2026-08-14T14:21:35+00:00	Compulsion Games becomes publisher of South of Midnight on Steam, suggesting departure from Xbox amid major restructuring is now complete https://www.reddit.com/r/Games/comments/1vo8n0q/compulsion_games_becomes_publisher_of_south_of/
 2026-08-14T15:27:57+00:00	S.T.A.L.K.E.R. 2: Heart of Chornobyl — Back to the Zone Showcase | Update 2.0 https://www.reddit.com/r/Games/comments/1voadt4/stalker_2_heart_of_chornobyl_back_to_the_zone/
 2026-08-14T15:53:13+00:00	Eschatology Entertainment | Guns of Eschaton | AMA! https://www.reddit.com/r/Games/comments/1vob2c4/eschatology_entertainment_guns_of_eschaton_ama/
+2026-08-14T16:15:51+00:00	Ascend to New Commercial Heights | Stick it to the Stickman Leaves Early Access on September 23 https://www.reddit.com/r/Games/comments/1vobokp/ascend_to_new_commercial_heights_stick_it_to_the/
+2026-08-14T16:21:39+00:00	‘Monkey Island’ Creator Finds Wealthy Investor for Next Game https://www.reddit.com/r/Games/comments/1vobukv/monkey_island_creator_finds_wealthy_investor_for/
