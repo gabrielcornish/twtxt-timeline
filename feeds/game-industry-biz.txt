@@ -3,7 +3,6 @@
 # source = https://www.gamesindustry.biz/feed
 # description = twtxt conversion of https://www.gamesindustry.biz/feed
 
-2026-08-05T05:00:00+00:00	Secret Mode opens new Sheffield studio to support internal titles https://www.gamesindustry.biz/secret-mode-opens-new-sheffield-studio-to-support-internal-titles-starting-with-escape-the-backrooms-and-chained-together
 2026-08-05T08:00:00+00:00	Raptor PR launches Early Gaming Growth platform to help gaming startups navigate B2B communications https://www.gamesindustry.biz/raptor-pr-launches-early-gaming-growth-platform-to-help-gaming-startups-navigate-b2b-communications
 2026-08-05T08:07:24+00:00	Electronic Arts completes $55bn acquisition; CEO announces senior leadership changes https://www.gamesindustry.biz/electronic-arts-completes-55bn-acquisition-ceo-announces-senior-leadership-changes
 2026-08-05T10:57:10+00:00	Jobs roundup: August 2026 | Frontier Developments appoints Dan Lazarides as CMO https://www.gamesindustry.biz/jobs-roundup-august-2026-frontier-developments-appoints-dan-lazarides-as-cmo
@@ -53,3 +52,4 @@
 2026-08-14T08:58:19+00:00	"I don't see why people are scared of it" –  ShipShaper developer Tomas Sala on why indies shouldn't be stressing about GTA6 https://www.gamesindustry.biz/i-dont-see-why-people-are-scared-of-it-why-shipshaper-developer-tomas-sala-doesnt-think-indies-should-be-stressing-about-gta6
 2026-08-14T10:28:03+00:00	Arc Raiders generates $114.9m during Nexon's Q2, sells an additional 800,000 units https://www.gamesindustry.biz/arc-raiders-generates-1149m-during-nexons-q2-sells-an-additional-800000-units
 2026-08-14T11:06:51+00:00	2K establishes AAA sports developer Small Axe Studios https://www.gamesindustry.biz/2k-establishes-aaa-sports-developer-small-axe-studios
+2026-08-14T13:47:08+00:00	Niko Partners: India games market exceeds $1bn, forecast to reach $1.2bn by end of 2026 https://www.gamesindustry.biz/niko-partners-india-games-market-exceeds-1bn-forecast-to-reach-12bn-by-end-of-2026

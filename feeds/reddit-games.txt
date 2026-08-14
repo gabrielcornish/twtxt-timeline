@@ -4,7 +4,6 @@
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
 2026-08-12T11:00:30+00:00	Daily /r/Games Discussion - Suggest Me a Game - August 12, 2026 https://www.reddit.com/r/Games/comments/1vmax5h/daily_rgames_discussion_suggest_me_a_game_august/
-2026-08-13T13:14:13+00:00	PAYDAY 2: Update 247 Changelog https://www.reddit.com/r/Games/comments/1vnadti/payday_2_update_247_changelog/
 2026-08-13T13:22:37+00:00	Pokémon Bank is hitting End of Service as of 26/02/2027 https://www.reddit.com/r/Games/comments/1vnaldk/pokémon_bank_is_hitting_end_of_service_as_of/
 2026-08-13T13:47:43+00:00	I just couldn't stop playing Fire Emblem: Fortune's Weave (Hands-On Impressions) https://www.reddit.com/r/Games/comments/1vnb80h/i_just_couldnt_stop_playing_fire_emblem_fortunes/
 2026-08-13T14:10:50+00:00	Total War: WARHAMMER III - Lords of The End Times - Cinematic trailer https://www.reddit.com/r/Games/comments/1vnbtrq/total_war_warhammer_iii_lords_of_the_end_times/
@@ -25,6 +24,7 @@
 2026-08-14T01:25:12+00:00	Sandustry Launch Trailer https://www.reddit.com/r/Games/comments/1vntgac/sandustry_launch_trailer/
 2026-08-14T06:01:40+00:00	Swords & Slippers - Gameplay Showcase https://www.reddit.com/r/Games/comments/1vnyynz/swords_slippers_gameplay_showcase/
 2026-08-14T06:45:39+00:00	WASTE THE FALLEN - Official Gameplay Reveal https://www.reddit.com/r/Games/comments/1vnzqui/waste_the_fallen_official_gameplay_reveal/
-2026-08-14T10:00:32+00:00	Daily /r/Games Discussion - Free Talk Friday - August 14, 2026 https://www.reddit.com/r/Games/comments/1vo30sz/daily_rgames_discussion_free_talk_friday_august/
 2026-08-14T11:05:55+00:00	Rogue Eclipse | Official Launch Trailer https://www.reddit.com/r/Games/comments/1vo47ia/rogue_eclipse_official_launch_trailer/
 2026-08-14T12:59:14+00:00	2K announces new Vancouver-based studio led by EA veteran https://www.reddit.com/r/Games/comments/1vo6m2s/2k_announces_new_vancouverbased_studio_led_by_ea/
+2026-08-14T14:15:00+00:00	Today, we’re heading to r/Games for a Guns of Eschaton AMA! https://www.reddit.com/r/Games/comments/1vo8gtu/today_were_heading_to_rgames_for_a_guns_of/
+2026-08-14T14:21:35+00:00	Compulsion Games becomes publisher of South of Midnight on Steam, suggesting departure from Xbox amid major restructuring is now complete https://www.reddit.com/r/Games/comments/1vo8n0q/compulsion_games_becomes_publisher_of_south_of/
