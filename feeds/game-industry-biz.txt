@@ -3,7 +3,6 @@
 # source = https://www.gamesindustry.biz/feed
 # description = twtxt conversion of https://www.gamesindustry.biz/feed
 
-2026-08-04T11:00:00+00:00	The industry makes great games, but nobody can find them https://www.gamesindustry.biz/the-industry-makes-great-games-but-nobody-can-find-them
 2026-08-04T12:00:00+00:00	FirstLook launches creator-first platform Creators.gg with launch partners IO Interactive and Brain Jar Games https://www.gamesindustry.biz/firstlook-launches-creator-first-platform-creatorsgg-with-launch-partners-io-interactive-and-brain-jar-games
 2026-08-04T12:15:35+00:00	Ex-Sumo Group CEO Carl Cavers joins co-dev studio Vertpaint as non-exec director and shareholder https://www.gamesindustry.biz/ex-sumo-group-ceo-carl-cavers-joins-co-dev-studio-vertpaint-as-non-exec-director-and-shareholder
 2026-08-05T05:00:00+00:00	Secret Mode opens new Sheffield studio to support internal titles https://www.gamesindustry.biz/secret-mode-opens-new-sheffield-studio-to-support-internal-titles-starting-with-escape-the-backrooms-and-chained-together
@@ -53,3 +52,4 @@
 2026-08-13T14:00:44+00:00	Sensor Tower: 89% of GTA6 preorders are for the $100 ultimate edition https://www.gamesindustry.biz/sensor-tower-89-of-gta6-preorders-are-for-the-100-ultimate-edition
 2026-08-13T16:55:14+00:00	Mattel launches new global studios business to develop games based on its IP https://www.gamesindustry.biz/mattel-launches-new-global-studios-business-to-develop-games-based-on-its-ip
 2026-08-14T08:11:46+00:00	Netflix shutters Night School Studio and Moonloot Games https://www.gamesindustry.biz/netflix-shutters-night-school-studio-and-moonloot-games
+2026-08-14T08:58:19+00:00	"I don't see why people are scared of it" –  ShipShaper developer Tomas Sala on why indies shouldn't be stressing about GTA6 https://www.gamesindustry.biz/i-dont-see-why-people-are-scared-of-it-why-shipshaper-developer-tomas-sala-doesnt-think-indies-should-be-stressing-about-gta6
