@@ -3,16 +3,13 @@
 # source = https://www.reddit.com/r/Games.rss
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
-2026-08-12T11:00:30+00:00	Daily /r/Games Discussion - Suggest Me a Game - August 12, 2026 https://www.reddit.com/r/Games/comments/1vmax5h/daily_rgames_discussion_suggest_me_a_game_august/
 2026-08-13T13:22:37+00:00	Pokémon Bank is hitting End of Service as of 26/02/2027 https://www.reddit.com/r/Games/comments/1vnaldk/pokémon_bank_is_hitting_end_of_service_as_of/
 2026-08-13T13:47:43+00:00	I just couldn't stop playing Fire Emblem: Fortune's Weave (Hands-On Impressions) https://www.reddit.com/r/Games/comments/1vnb80h/i_just_couldnt_stop_playing_fire_emblem_fortunes/
 2026-08-13T14:10:50+00:00	Total War: WARHAMMER III - Lords of The End Times - Cinematic trailer https://www.reddit.com/r/Games/comments/1vnbtrq/total_war_warhammer_iii_lords_of_the_end_times/
-2026-08-13T14:42:43+00:00	Total War: WARHAMMER III - Lords of the End Times - DLC Overview https://www.reddit.com/r/Games/comments/1vncnze/total_war_warhammer_iii_lords_of_the_end_times/
 2026-08-13T15:06:52+00:00	20 hours in, I cannot believe the scale, complexity, and ambition of Fire Emblem: Fortune's Weave - Eurogamer https://www.reddit.com/r/Games/comments/1vndcdz/20_hours_in_i_cannot_believe_the_scale_complexity/
 2026-08-13T15:07:08+00:00	Battlefield 6 x Top Gun: Carrier Strike Cinematic Trailer https://www.reddit.com/r/Games/comments/1vndcns/battlefield_6_x_top_gun_carrier_strike_cinematic/
 2026-08-13T15:16:50+00:00	Insomniac Confirms Marvel's Wolverine Performance Mode Details - 60 frames-per-second with ray tracing is the default mode on base PS5 — a first for Insomniac https://www.reddit.com/r/Games/comments/1vndm1u/insomniac_confirms_marvels_wolverine_performance/
 2026-08-13T15:28:28+00:00	"Wolverine is our only playable character": Insomniac won't repeat Spider-Man's worst sections in Marvel's Wolverine https://www.reddit.com/r/Games/comments/1vndxl0/wolverine_is_our_only_playable_character/
-2026-08-13T15:34:35+00:00	Duskfade Review Thread https://www.reddit.com/r/Games/comments/1vne3qk/duskfade_review_thread/
 2026-08-13T16:58:49+00:00	Tactical Gameplay Breakdown | STAR WARS Zero Company https://www.reddit.com/r/Games/comments/1vnggyt/tactical_gameplay_breakdown_star_wars_zero_company/
 2026-08-13T18:02:05+00:00	The Blood of Dawnwalker — Everything You Need to Know [4K] [subtitles available] https://www.reddit.com/r/Games/comments/1vni9wt/the_blood_of_dawnwalker_everything_you_need_to/
 2026-08-13T18:22:49+00:00	Star Wars: The Old Republic - Masters of the Force Revealed https://www.reddit.com/r/Games/comments/1vniv4g/star_wars_the_old_republic_masters_of_the_force/
@@ -24,7 +21,10 @@
 2026-08-14T01:25:12+00:00	Sandustry Launch Trailer https://www.reddit.com/r/Games/comments/1vntgac/sandustry_launch_trailer/
 2026-08-14T06:01:40+00:00	Swords & Slippers - Gameplay Showcase https://www.reddit.com/r/Games/comments/1vnyynz/swords_slippers_gameplay_showcase/
 2026-08-14T06:45:39+00:00	WASTE THE FALLEN - Official Gameplay Reveal https://www.reddit.com/r/Games/comments/1vnzqui/waste_the_fallen_official_gameplay_reveal/
+2026-08-14T10:00:32+00:00	Daily /r/Games Discussion - Free Talk Friday - August 14, 2026 https://www.reddit.com/r/Games/comments/1vo30sz/daily_rgames_discussion_free_talk_friday_august/
 2026-08-14T11:05:55+00:00	Rogue Eclipse | Official Launch Trailer https://www.reddit.com/r/Games/comments/1vo47ia/rogue_eclipse_official_launch_trailer/
 2026-08-14T12:59:14+00:00	2K announces new Vancouver-based studio led by EA veteran https://www.reddit.com/r/Games/comments/1vo6m2s/2k_announces_new_vancouverbased_studio_led_by_ea/
 2026-08-14T14:15:00+00:00	Today, we’re heading to r/Games for a Guns of Eschaton AMA! https://www.reddit.com/r/Games/comments/1vo8gtu/today_were_heading_to_rgames_for_a_guns_of/
 2026-08-14T14:21:35+00:00	Compulsion Games becomes publisher of South of Midnight on Steam, suggesting departure from Xbox amid major restructuring is now complete https://www.reddit.com/r/Games/comments/1vo8n0q/compulsion_games_becomes_publisher_of_south_of/
+2026-08-14T15:27:57+00:00	S.T.A.L.K.E.R. 2: Heart of Chornobyl — Back to the Zone Showcase | Update 2.0 https://www.reddit.com/r/Games/comments/1voadt4/stalker_2_heart_of_chornobyl_back_to_the_zone/
+2026-08-14T15:53:13+00:00	Eschatology Entertainment | Guns of Eschaton | AMA! https://www.reddit.com/r/Games/comments/1vob2c4/eschatology_entertainment_guns_of_eschaton_ama/
