@@ -3,7 +3,6 @@
 # source = https://bearblog.dev/discover/feed/
 # description = twtxt conversion of https://bearblog.dev/discover/feed/
 
-2026-08-11T03:05:49.775825+00:00	be a body https://blahg.online/be-a-body/
 2026-08-11T06:04:00+00:00	Australia: Famous for its breaches not beaches https://lost-number.bearblog.dev/aus-breaches-not-beaches/
 2026-08-11T06:48:00+00:00	Rewatched The Story of Yangawa's Canals https://blog.lauramichet.com/rewatched-the-story-of-yangawas-canals/
 2026-08-11T13:33:00+00:00	Please consider using Bartholomew to defend your systems. https://thecynicalnerd.bearblog.dev/please-consider-using-bartholmew-to-defend-your-systems/
@@ -23,3 +22,4 @@
 2026-08-13T14:30:47.961120+00:00	Twitch's GenAI And Opt-Out https://turbiegaming.bearblog.dev/twitchs-genai-and-opt-out/
 2026-08-14T03:36:57.315197+00:00	The Phone Features I Can't Believe We Don't Have https://curvise.net/the-phone-features-i-cant-believe-we-dont-have/
 2026-08-14T07:03:34.179666+00:00	AI halted a budding friendship. https://defjuan.bearblog.dev/ai-halted-a-budding-friendship/
+2026-08-14T14:42:00+00:00	Where do YOU draw the AI line? https://blog.curiousquail.com/where-do-you-draw-the-ai-line/
