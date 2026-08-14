@@ -5,14 +5,10 @@
 
 2026-08-13T13:22:37+00:00	Pokémon Bank is hitting End of Service as of 26/02/2027 https://www.reddit.com/r/Games/comments/1vnaldk/pokémon_bank_is_hitting_end_of_service_as_of/
 2026-08-13T13:47:43+00:00	I just couldn't stop playing Fire Emblem: Fortune's Weave (Hands-On Impressions) https://www.reddit.com/r/Games/comments/1vnb80h/i_just_couldnt_stop_playing_fire_emblem_fortunes/
-2026-08-13T14:10:50+00:00	Total War: WARHAMMER III - Lords of The End Times - Cinematic trailer https://www.reddit.com/r/Games/comments/1vnbtrq/total_war_warhammer_iii_lords_of_the_end_times/
 2026-08-13T15:06:52+00:00	20 hours in, I cannot believe the scale, complexity, and ambition of Fire Emblem: Fortune's Weave - Eurogamer https://www.reddit.com/r/Games/comments/1vndcdz/20_hours_in_i_cannot_believe_the_scale_complexity/
-2026-08-13T15:07:08+00:00	Battlefield 6 x Top Gun: Carrier Strike Cinematic Trailer https://www.reddit.com/r/Games/comments/1vndcns/battlefield_6_x_top_gun_carrier_strike_cinematic/
 2026-08-13T15:16:50+00:00	Insomniac Confirms Marvel's Wolverine Performance Mode Details - 60 frames-per-second with ray tracing is the default mode on base PS5 — a first for Insomniac https://www.reddit.com/r/Games/comments/1vndm1u/insomniac_confirms_marvels_wolverine_performance/
 2026-08-13T15:28:28+00:00	"Wolverine is our only playable character": Insomniac won't repeat Spider-Man's worst sections in Marvel's Wolverine https://www.reddit.com/r/Games/comments/1vndxl0/wolverine_is_our_only_playable_character/
 2026-08-13T16:58:49+00:00	Tactical Gameplay Breakdown | STAR WARS Zero Company https://www.reddit.com/r/Games/comments/1vnggyt/tactical_gameplay_breakdown_star_wars_zero_company/
-2026-08-13T18:02:05+00:00	The Blood of Dawnwalker — Everything You Need to Know [4K] [subtitles available] https://www.reddit.com/r/Games/comments/1vni9wt/the_blood_of_dawnwalker_everything_you_need_to/
-2026-08-13T18:22:49+00:00	Star Wars: The Old Republic - Masters of the Force Revealed https://www.reddit.com/r/Games/comments/1vniv4g/star_wars_the_old_republic_masters_of_the_force/
 2026-08-13T18:53:03+00:00	BREAKING: Netflix to shut down two more game studios https://www.reddit.com/r/Games/comments/1vnjpwm/breaking_netflix_to_shut_down_two_more_game/
 2026-08-13T18:56:08+00:00	System Shock VR - Reveal Trailer https://www.reddit.com/r/Games/comments/1vnjt7x/system_shock_vr_reveal_trailer/
 2026-08-14T00:16:20+00:00	Global Sales of Pokémon Pokopia for Nintendo Switch 2 Surpass 5 Million Units https://www.reddit.com/r/Games/comments/1vnry38/global_sales_of_pokémon_pokopia_for_nintendo/
@@ -28,3 +24,7 @@
 2026-08-14T15:53:13+00:00	Eschatology Entertainment | Guns of Eschaton | AMA! https://www.reddit.com/r/Games/comments/1vob2c4/eschatology_entertainment_guns_of_eschaton_ama/
 2026-08-14T16:15:51+00:00	Ascend to New Commercial Heights | Stick it to the Stickman Leaves Early Access on September 23 https://www.reddit.com/r/Games/comments/1vobokp/ascend_to_new_commercial_heights_stick_it_to_the/
 2026-08-14T16:21:39+00:00	‘Monkey Island’ Creator Finds Wealthy Investor for Next Game https://www.reddit.com/r/Games/comments/1vobukv/monkey_island_creator_finds_wealthy_investor_for/
+2026-08-14T17:01:35+00:00	How Games Are Helping Shape Disney’s Next Chapter https://www.reddit.com/r/Games/comments/1vocxq8/how_games_are_helping_shape_disneys_next_chapter/
+2026-08-14T17:12:51+00:00	Phantom Blade Zero - State of Play. Gameplay Deep Dive on August 17, 2026 https://www.reddit.com/r/Games/comments/1vod8wb/phantom_blade_zero_state_of_play_gameplay_deep/
+2026-08-14T17:19:54+00:00	Rideshare Stimulator posts AI disclosure on Steam for voice generation, Free Ride missions, and in-game music https://www.reddit.com/r/Games/comments/1vodftd/rideshare_stimulator_posts_ai_disclosure_on_steam/
+2026-08-14T17:26:58+00:00	Windowscentral: I checked GOG's most popular games and found shocking gaps in updates, DLC, languages, soundtracks, and more — 1,140 games are affected with 1,531 issues https://www.reddit.com/r/Games/comments/1vodmon/windowscentral_i_checked_gogs_most_popular_games/
