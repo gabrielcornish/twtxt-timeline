@@ -6,7 +6,6 @@
 2026-08-13T18:53:03+00:00	BREAKING: Netflix to shut down two more game studios https://www.reddit.com/r/Games/comments/1vnjpwm/breaking_netflix_to_shut_down_two_more_game/
 2026-08-14T06:01:40+00:00	Swords & Slippers - Gameplay Showcase https://www.reddit.com/r/Games/comments/1vnyynz/swords_slippers_gameplay_showcase/
 2026-08-14T10:00:32+00:00	Daily /r/Games Discussion - Free Talk Friday - August 14, 2026 https://www.reddit.com/r/Games/comments/1vo30sz/daily_rgames_discussion_free_talk_friday_august/
-2026-08-14T11:05:55+00:00	Rogue Eclipse | Official Launch Trailer https://www.reddit.com/r/Games/comments/1vo47ia/rogue_eclipse_official_launch_trailer/
 2026-08-14T12:59:14+00:00	2K announces new Vancouver-based studio led by EA veteran https://www.reddit.com/r/Games/comments/1vo6m2s/2k_announces_new_vancouverbased_studio_led_by_ea/
 2026-08-14T14:21:35+00:00	Compulsion Games becomes publisher of South of Midnight on Steam, suggesting departure from Xbox amid major restructuring is now complete https://www.reddit.com/r/Games/comments/1vo8n0q/compulsion_games_becomes_publisher_of_south_of/
 2026-08-14T15:27:57+00:00	S.T.A.L.K.E.R. 2: Heart of Chornobyl — Back to the Zone Showcase | Update 2.0 https://www.reddit.com/r/Games/comments/1voadt4/stalker_2_heart_of_chornobyl_back_to_the_zone/
@@ -27,4 +26,5 @@
 2026-08-15T13:09:44+00:00	The Lord of the Rings: War in the North Dev Warned Warner Bros. Not to Go Up Against Skyrim Back in 2011 https://www.reddit.com/r/Games/comments/1vp2hso/the_lord_of_the_rings_war_in_the_north_dev_warned/
 2026-08-15T15:37:49+00:00	Sonic Project Hero Rewired - Release Trailer https://www.reddit.com/r/Games/comments/1vp5yg9/sonic_project_hero_rewired_release_trailer/
 2026-08-15T15:56:01+00:00	Oblivion Remastered - Switch 2 DF Review - Impressive Visuals, Frustrating Performance https://www.reddit.com/r/Games/comments/1vp6eh1/oblivion_remastered_switch_2_df_review_impressive/
+2026-08-15T17:49:57+00:00	Thief designer says that the immersive sim audience is too small for AAA games https://www.reddit.com/r/Games/comments/1vp9afv/thief_designer_says_that_the_immersive_sim/
 2026-08-15T18:18:23+00:00	TCG Card Shop Simulator 1.0 - Official Release Date Announcement https://www.reddit.com/r/Games/comments/1vpa0du/tcg_card_shop_simulator_10_official_release_date/
