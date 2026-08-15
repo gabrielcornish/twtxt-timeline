@@ -4,12 +4,10 @@
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
 2026-08-13T13:22:37+00:00	Pokémon Bank is hitting End of Service as of 26/02/2027 https://www.reddit.com/r/Games/comments/1vnaldk/pokémon_bank_is_hitting_end_of_service_as_of/
-2026-08-13T13:47:43+00:00	I just couldn't stop playing Fire Emblem: Fortune's Weave (Hands-On Impressions) https://www.reddit.com/r/Games/comments/1vnb80h/i_just_couldnt_stop_playing_fire_emblem_fortunes/
 2026-08-13T15:06:52+00:00	20 hours in, I cannot believe the scale, complexity, and ambition of Fire Emblem: Fortune's Weave - Eurogamer https://www.reddit.com/r/Games/comments/1vndcdz/20_hours_in_i_cannot_believe_the_scale_complexity/
 2026-08-13T15:28:28+00:00	"Wolverine is our only playable character": Insomniac won't repeat Spider-Man's worst sections in Marvel's Wolverine https://www.reddit.com/r/Games/comments/1vndxl0/wolverine_is_our_only_playable_character/
 2026-08-13T18:53:03+00:00	BREAKING: Netflix to shut down two more game studios https://www.reddit.com/r/Games/comments/1vnjpwm/breaking_netflix_to_shut_down_two_more_game/
 2026-08-14T00:16:20+00:00	Global Sales of Pokémon Pokopia for Nintendo Switch 2 Surpass 5 Million Units https://www.reddit.com/r/Games/comments/1vnry38/global_sales_of_pokémon_pokopia_for_nintendo/
-2026-08-14T01:25:12+00:00	Sandustry Launch Trailer https://www.reddit.com/r/Games/comments/1vntgac/sandustry_launch_trailer/
 2026-08-14T06:01:40+00:00	Swords & Slippers - Gameplay Showcase https://www.reddit.com/r/Games/comments/1vnyynz/swords_slippers_gameplay_showcase/
 2026-08-14T06:45:39+00:00	WASTE THE FALLEN - Official Gameplay Reveal https://www.reddit.com/r/Games/comments/1vnzqui/waste_the_fallen_official_gameplay_reveal/
 2026-08-14T10:00:32+00:00	Daily /r/Games Discussion - Free Talk Friday - August 14, 2026 https://www.reddit.com/r/Games/comments/1vo30sz/daily_rgames_discussion_free_talk_friday_august/
@@ -17,6 +15,7 @@
 2026-08-14T12:59:14+00:00	2K announces new Vancouver-based studio led by EA veteran https://www.reddit.com/r/Games/comments/1vo6m2s/2k_announces_new_vancouverbased_studio_led_by_ea/
 2026-08-14T14:15:00+00:00	Today, we’re heading to r/Games for a Guns of Eschaton AMA! https://www.reddit.com/r/Games/comments/1vo8gtu/today_were_heading_to_rgames_for_a_guns_of/
 2026-08-14T14:21:35+00:00	Compulsion Games becomes publisher of South of Midnight on Steam, suggesting departure from Xbox amid major restructuring is now complete https://www.reddit.com/r/Games/comments/1vo8n0q/compulsion_games_becomes_publisher_of_south_of/
+2026-08-14T14:51:12+00:00	Over The Top: WWI - United States Announcement Teaser https://www.reddit.com/r/Games/comments/1vo9elv/over_the_top_wwi_united_states_announcement_teaser/
 2026-08-14T15:27:57+00:00	S.T.A.L.K.E.R. 2: Heart of Chornobyl — Back to the Zone Showcase | Update 2.0 https://www.reddit.com/r/Games/comments/1voadt4/stalker_2_heart_of_chornobyl_back_to_the_zone/
 2026-08-14T15:53:13+00:00	Eschatology Entertainment | Guns of Eschaton | AMA! https://www.reddit.com/r/Games/comments/1vob2c4/eschatology_entertainment_guns_of_eschaton_ama/
 2026-08-14T16:15:51+00:00	Ascend to New Commercial Heights | Stick it to the Stickman Leaves Early Access on September 23 https://www.reddit.com/r/Games/comments/1vobokp/ascend_to_new_commercial_heights_stick_it_to_the/
@@ -25,6 +24,7 @@
 2026-08-14T17:19:54+00:00	Rideshare Stimulator posts AI disclosure on Steam for voice generation, Free Ride missions, and in-game music https://www.reddit.com/r/Games/comments/1vodftd/rideshare_stimulator_posts_ai_disclosure_on_steam/
 2026-08-14T17:26:58+00:00	Windowscentral: I checked GOG's most popular games and found shocking gaps in updates, DLC, languages, soundtracks, and more — 1,140 games are affected with 1,531 issues https://www.reddit.com/r/Games/comments/1vodmon/windowscentral_i_checked_gogs_most_popular_games/
 2026-08-14T19:44:49+00:00	Sony Engineer Reveals PSSR 2.0 Secrets in SIGGRAPH 2026 Talk https://www.reddit.com/r/Games/comments/1vohf49/sony_engineer_reveals_pssr_20_secrets_in_siggraph/
+2026-08-14T20:39:31+00:00	Lord Of The Mysteries Game - Motion Capture Trailer https://www.reddit.com/r/Games/comments/1voiuzm/lord_of_the_mysteries_game_motion_capture_trailer/
 2026-08-14T22:04:43+00:00	CICADAMATA release date trailer https://www.reddit.com/r/Games/comments/1vol058/cicadamata_release_date_trailer/
 2026-08-14T22:47:10+00:00	Invincible VS Developer Reportedly Laid Off "Something Like 75%" of Staff https://www.reddit.com/r/Games/comments/1volzsk/invincible_vs_developer_reportedly_laid_off/
 2026-08-15T02:57:42+00:00	KINGDOM HEARTS IV | D23 2026 Showcase Trailer https://www.reddit.com/r/Games/comments/1vorde0/kingdom_hearts_iv_d23_2026_showcase_trailer/
