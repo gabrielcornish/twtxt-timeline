@@ -4,7 +4,6 @@
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
 2026-08-13T13:22:37+00:00	Pokémon Bank is hitting End of Service as of 26/02/2027 https://www.reddit.com/r/Games/comments/1vnaldk/pokémon_bank_is_hitting_end_of_service_as_of/
-2026-08-13T15:06:52+00:00	20 hours in, I cannot believe the scale, complexity, and ambition of Fire Emblem: Fortune's Weave - Eurogamer https://www.reddit.com/r/Games/comments/1vndcdz/20_hours_in_i_cannot_believe_the_scale_complexity/
 2026-08-13T15:28:28+00:00	"Wolverine is our only playable character": Insomniac won't repeat Spider-Man's worst sections in Marvel's Wolverine https://www.reddit.com/r/Games/comments/1vndxl0/wolverine_is_our_only_playable_character/
 2026-08-13T18:53:03+00:00	BREAKING: Netflix to shut down two more game studios https://www.reddit.com/r/Games/comments/1vnjpwm/breaking_netflix_to_shut_down_two_more_game/
 2026-08-14T00:16:20+00:00	Global Sales of Pokémon Pokopia for Nintendo Switch 2 Surpass 5 Million Units https://www.reddit.com/r/Games/comments/1vnry38/global_sales_of_pokémon_pokopia_for_nintendo/
@@ -28,3 +27,4 @@
 2026-08-14T22:47:10+00:00	Invincible VS Developer Reportedly Laid Off "Something Like 75%" of Staff https://www.reddit.com/r/Games/comments/1volzsk/invincible_vs_developer_reportedly_laid_off/
 2026-08-15T02:57:42+00:00	KINGDOM HEARTS IV | D23 2026 Showcase Trailer https://www.reddit.com/r/Games/comments/1vorde0/kingdom_hearts_iv_d23_2026_showcase_trailer/
 2026-08-15T06:03:27+00:00	Marvel’s Wolverine - D23 Showcase Sizzle https://www.reddit.com/r/Games/comments/1vouw70/marvels_wolverine_d23_showcase_sizzle/
+2026-08-15T07:22:47+00:00	NO MORE LIGHT - NEW 4K Gameplay Teaser https://www.reddit.com/r/Games/comments/1vowada/no_more_light_new_4k_gameplay_teaser/

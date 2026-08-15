@@ -7,7 +7,6 @@
 2026-08-11T14:41:00+00:00	Tabbed content for your blog https://futureperfect.bearblog.dev/tabbed-content-for-your-blog/
 2026-08-11T15:44:56.184357+00:00	i'm discoverable now! https://peelingtheonion.bearblog.dev/im-discoverable-now/
 2026-08-11T20:23:00+00:00	Vaporwave is Dead, Long Live Vaporwave https://householderkarl.com/vaporwave-is-dead-long-live-vaporwave/
-2026-08-12T02:18:00+00:00	Tradwives: Where Feminism Goes to Off Itself https://blog.absurdpirate.com/tradwives-where-feminism-goes-to-off-itself/
 2026-08-12T10:21:00+00:00	film photos from the south of France https://bluebottles.bearblog.dev/film-photos-from-the-south-of-france/
 2026-08-12T16:35:00+00:00	Dear people who work at the airport https://life-after-ssri.bearblog.dev/dear-people-who-work-at-the-airport/
 2026-08-12T17:04:36.759997+00:00	Fighting for what I believe in https://annoflo.net/fighting-for-what-i-believe-in/
@@ -21,5 +20,6 @@
 2026-08-14T07:03:34.179666+00:00	AI halted a budding friendship. https://defjuan.bearblog.dev/ai-halted-a-budding-friendship/
 2026-08-14T14:42:00+00:00	Where do YOU draw the AI line? https://blog.curiousquail.com/where-do-you-draw-the-ai-line/
 2026-08-14T16:45:05.635610+00:00	alright, we get it, LLMs suck https://rnotte.art/alright-we-get-it-llms-suck/
+2026-08-14T17:14:00+00:00	MixTape: A Postmortem https://shoujo.gay/mixtape-a-postmortem/
 2026-08-14T18:37:00+00:00	Social Media is Mirroring Itself Out https://metanomad.blog/social-mirroring/
 2026-08-14T21:27:00+00:00	Enough AI Scrapping! https://sweaterpockets.bearblog.dev/enough-ai-scrapping/
