@@ -3,7 +3,6 @@
 # source = https://bearblog.dev/discover/feed/
 # description = twtxt conversion of https://bearblog.dev/discover/feed/
 
-2026-08-11T13:33:00+00:00	Please consider using Bartholomew to defend your systems. https://thecynicalnerd.bearblog.dev/please-consider-using-bartholmew-to-defend-your-systems/
 2026-08-11T14:41:00+00:00	Tabbed content for your blog https://futureperfect.bearblog.dev/tabbed-content-for-your-blog/
 2026-08-11T15:44:56.184357+00:00	i'm discoverable now! https://peelingtheonion.bearblog.dev/im-discoverable-now/
 2026-08-11T20:23:00+00:00	Vaporwave is Dead, Long Live Vaporwave https://householderkarl.com/vaporwave-is-dead-long-live-vaporwave/
@@ -17,6 +16,7 @@
 2026-08-13T14:00:00+00:00	AI's Frictionless Road to Hell https://blog.joshgrey.uk/ais-frictionless-road-to-hell/
 2026-08-13T14:30:47.961120+00:00	Twitch's GenAI And Opt-Out https://turbiegaming.bearblog.dev/twitchs-genai-and-opt-out/
 2026-08-14T03:36:57.315197+00:00	The Phone Features I Can't Believe We Don't Have https://curvise.net/the-phone-features-i-cant-believe-we-dont-have/
+2026-08-14T03:40:55.853529+00:00	Stop, It's Art! https://notes.jeddacp.com/stop-its-art/
 2026-08-14T07:03:34.179666+00:00	AI halted a budding friendship. https://defjuan.bearblog.dev/ai-halted-a-budding-friendship/
 2026-08-14T14:42:00+00:00	Where do YOU draw the AI line? https://blog.curiousquail.com/where-do-you-draw-the-ai-line/
 2026-08-14T16:45:05.635610+00:00	alright, we get it, LLMs suck https://rnotte.art/alright-we-get-it-llms-suck/
