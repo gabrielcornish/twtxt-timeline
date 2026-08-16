@@ -8,6 +8,7 @@
 2026-08-13T10:50:00+00:00	Please Mr AI Would You Kindly Desist https://galacticman.bearblog.dev/please-mr-ai-would-you-kindly-desist/
 2026-08-13T11:38:00+00:00	bring back shitty web design https://thecommabandit.bearblog.dev/bring-back-shitty-web-design/
 2026-08-13T14:00:00+00:00	AI's Frictionless Road to Hell https://blog.joshgrey.uk/ais-frictionless-road-to-hell/
+2026-08-13T14:30:47.961120+00:00	Twitch's GenAI And Opt-Out https://turbiegaming.bearblog.dev/twitchs-genai-and-opt-out/
 2026-08-14T03:36:57.315197+00:00	The Phone Features I Can't Believe We Don't Have https://curvise.net/the-phone-features-i-cant-believe-we-dont-have/
 2026-08-14T03:40:55.853529+00:00	Stop, It's Art! https://notes.jeddacp.com/stop-its-art/
 2026-08-14T03:54:04.902683+00:00	i feel like the last sane person left https://icyti.me/i-feel-like-the-last-sane-person-left/
@@ -22,4 +23,3 @@
 2026-08-15T15:32:00+00:00	Everything Is Suffering https://householderkarl.com/everything-is-suffering/
 2026-08-15T15:58:52.759767+00:00	i went to germany! https://blog.sulimans.space/i-went-to-germany/
 2026-08-15T17:33:00+00:00	Who is Art for? https://atta-thing.bearblog.dev/who-is-art-for/
-2026-08-16T04:42:40.136902+00:00	social media causes brain fog https://curiously.bearblog.dev/social-media-causes-brain-fog/
