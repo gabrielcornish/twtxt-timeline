@@ -4,11 +4,9 @@
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
 2026-08-14T10:00:32+00:00	Daily /r/Games Discussion - Free Talk Friday - August 14, 2026 https://www.reddit.com/r/Games/comments/1vo30sz/daily_rgames_discussion_free_talk_friday_august/
-2026-08-14T12:59:14+00:00	2K announces new Vancouver-based studio led by EA veteran https://www.reddit.com/r/Games/comments/1vo6m2s/2k_announces_new_vancouverbased_studio_led_by_ea/
 2026-08-14T14:21:35+00:00	Compulsion Games becomes publisher of South of Midnight on Steam, suggesting departure from Xbox amid major restructuring is now complete https://www.reddit.com/r/Games/comments/1vo8n0q/compulsion_games_becomes_publisher_of_south_of/
 2026-08-14T15:27:57+00:00	S.T.A.L.K.E.R. 2: Heart of Chornobyl — Back to the Zone Showcase | Update 2.0 https://www.reddit.com/r/Games/comments/1voadt4/stalker_2_heart_of_chornobyl_back_to_the_zone/
 2026-08-14T16:21:39+00:00	‘Monkey Island’ Creator Finds Wealthy Investor for Next Game https://www.reddit.com/r/Games/comments/1vobukv/monkey_island_creator_finds_wealthy_investor_for/
-2026-08-14T17:12:51+00:00	Phantom Blade Zero - State of Play. Gameplay Deep Dive on August 17, 2026 https://www.reddit.com/r/Games/comments/1vod8wb/phantom_blade_zero_state_of_play_gameplay_deep/
 2026-08-14T17:19:54+00:00	Rideshare Stimulator posts AI disclosure on Steam for voice generation, Free Ride missions, and in-game music https://www.reddit.com/r/Games/comments/1vodftd/rideshare_stimulator_posts_ai_disclosure_on_steam/
 2026-08-14T17:26:58+00:00	Windowscentral: I checked GOG's most popular games and found shocking gaps in updates, DLC, languages, soundtracks, and more — 1,140 games are affected with 1,531 issues https://www.reddit.com/r/Games/comments/1vodmon/windowscentral_i_checked_gogs_most_popular_games/
 2026-08-14T19:44:49+00:00	Sony Engineer Reveals PSSR 2.0 Secrets in SIGGRAPH 2026 Talk https://www.reddit.com/r/Games/comments/1vohf49/sony_engineer_reveals_pssr_20_secrets_in_siggraph/
@@ -28,3 +26,5 @@
 2026-08-15T18:18:23+00:00	TCG Card Shop Simulator 1.0 - Official Release Date Announcement https://www.reddit.com/r/Games/comments/1vpa0du/tcg_card_shop_simulator_10_official_release_date/
 2026-08-15T23:27:40+00:00	DEEP DIVE Into KINGDOM HEARTS | D23: The Ultimate Disney Fan Event https://www.reddit.com/r/Games/comments/1vphbbo/deep_dive_into_kingdom_hearts_d23_the_ultimate/
 2026-08-16T00:03:12+00:00	Kingdom Hearts 4 - Official Coco Gameplay Trailer | D23 2026 https://www.reddit.com/r/Games/comments/1vpi2w6/kingdom_hearts_4_official_coco_gameplay_trailer/
+2026-08-16T04:00:45+00:00	Indie Sunday Hub - August 16, 2026 https://www.reddit.com/r/Games/comments/1vpmtxi/indie_sunday_hub_august_16_2026/
+2026-08-16T04:01:17+00:00	Venison County - Cutter Oyster - roguelike boomer shooter with redneck deer/man hybrids, IGN just covered our demo launch! https://www.reddit.com/r/Games/comments/1vpmudt/venison_county_cutter_oyster_roguelike_boomer/
