@@ -3,16 +3,12 @@
 # source = https://www.reddit.com/r/Games.rss
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
-2026-08-14T10:00:32+00:00	Daily /r/Games Discussion - Free Talk Friday - August 14, 2026 https://www.reddit.com/r/Games/comments/1vo30sz/daily_rgames_discussion_free_talk_friday_august/
 2026-08-14T14:21:35+00:00	Compulsion Games becomes publisher of South of Midnight on Steam, suggesting departure from Xbox amid major restructuring is now complete https://www.reddit.com/r/Games/comments/1vo8n0q/compulsion_games_becomes_publisher_of_south_of/
-2026-08-14T15:27:57+00:00	S.T.A.L.K.E.R. 2: Heart of Chornobyl — Back to the Zone Showcase | Update 2.0 https://www.reddit.com/r/Games/comments/1voadt4/stalker_2_heart_of_chornobyl_back_to_the_zone/
-2026-08-14T16:21:39+00:00	‘Monkey Island’ Creator Finds Wealthy Investor for Next Game https://www.reddit.com/r/Games/comments/1vobukv/monkey_island_creator_finds_wealthy_investor_for/
 2026-08-14T17:19:54+00:00	Rideshare Stimulator posts AI disclosure on Steam for voice generation, Free Ride missions, and in-game music https://www.reddit.com/r/Games/comments/1vodftd/rideshare_stimulator_posts_ai_disclosure_on_steam/
 2026-08-14T17:26:58+00:00	Windowscentral: I checked GOG's most popular games and found shocking gaps in updates, DLC, languages, soundtracks, and more — 1,140 games are affected with 1,531 issues https://www.reddit.com/r/Games/comments/1vodmon/windowscentral_i_checked_gogs_most_popular_games/
 2026-08-14T22:47:10+00:00	Invincible VS Developer Reportedly Laid Off "Something Like 75%" of Staff https://www.reddit.com/r/Games/comments/1volzsk/invincible_vs_developer_reportedly_laid_off/
 2026-08-15T02:57:42+00:00	KINGDOM HEARTS IV | D23 2026 Showcase Trailer https://www.reddit.com/r/Games/comments/1vorde0/kingdom_hearts_iv_d23_2026_showcase_trailer/
 2026-08-15T06:03:27+00:00	Marvel’s Wolverine - D23 Showcase Sizzle https://www.reddit.com/r/Games/comments/1vouw70/marvels_wolverine_d23_showcase_sizzle/
-2026-08-15T07:22:47+00:00	NO MORE LIGHT - NEW 4K Gameplay Teaser https://www.reddit.com/r/Games/comments/1vowada/no_more_light_new_4k_gameplay_teaser/
 2026-08-15T08:43:00+00:00	The Simpsons: Hit & Run 'Coming Back in Some Form,' Creator Matt Groening Says https://www.reddit.com/r/Games/comments/1voxm5a/the_simpsons_hit_run_coming_back_in_some_form/
 2026-08-15T10:07:20+00:00	Nocturne. A Rhythm Fighting Game by Pracy Studios. https://www.reddit.com/r/Games/comments/1voyzu3/nocturne_a_rhythm_fighting_game_by_pracy_studios/
 2026-08-15T12:33:12+00:00	Tides of Annihilation 40 minutes of new gameplay https://www.reddit.com/r/Games/comments/1vp1pgg/tides_of_annihilation_40_minutes_of_new_gameplay/
@@ -28,3 +24,7 @@
 2026-08-16T07:08:56+00:00	Last Light Island - akshay33169 - 2D Top Down Zombie Shooter Where your Flashlight is your only Resource! https://www.reddit.com/r/Games/comments/1vpq92w/last_light_island_akshay33169_2d_top_down_zombie/
 2026-08-16T08:07:21+00:00	Action games where momentum affects the damage dealt? https://www.reddit.com/r/Games/comments/1vpr8xs/action_games_where_momentum_affects_the_damage/
 2026-08-16T08:09:54+00:00	FEED IT - Games On A Chair - PSX-Style Horror about living with a Monster, releases tomorrow! https://www.reddit.com/r/Games/comments/1vprae8/feed_it_games_on_a_chair_psxstyle_horror_about/
+2026-08-16T09:00:42+00:00	Weekly /r/Games Discussion - What have you been playing, and what are your thoughts? - August 16, 2026 https://www.reddit.com/r/Games/comments/1vps46t/weekly_rgames_discussion_what_have_you_been/
+2026-08-16T09:21:14+00:00	Beards Go Underground - PandaBee Studios - Strategy Mining Game https://www.reddit.com/r/Games/comments/1vpsg7d/beards_go_underground_pandabee_studios_strategy/
+2026-08-16T09:29:33+00:00	Supermarket Guard Simulator - Borrowed Games - Job sim about being a security guard + reddit user shoutout! https://www.reddit.com/r/Games/comments/1vpskwm/supermarket_guard_simulator_borrowed_games_job/
+2026-08-16T09:32:03+00:00	Sucks to be in the sticks - coAction - 2D vampires in a post-Soviet decaying town https://www.reddit.com/r/Games/comments/1vpsmdu/sucks_to_be_in_the_sticks_coaction_2d_vampires_in/
