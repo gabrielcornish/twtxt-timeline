@@ -9,7 +9,6 @@
 2026-08-14T16:21:39+00:00	‘Monkey Island’ Creator Finds Wealthy Investor for Next Game https://www.reddit.com/r/Games/comments/1vobukv/monkey_island_creator_finds_wealthy_investor_for/
 2026-08-14T17:19:54+00:00	Rideshare Stimulator posts AI disclosure on Steam for voice generation, Free Ride missions, and in-game music https://www.reddit.com/r/Games/comments/1vodftd/rideshare_stimulator_posts_ai_disclosure_on_steam/
 2026-08-14T17:26:58+00:00	Windowscentral: I checked GOG's most popular games and found shocking gaps in updates, DLC, languages, soundtracks, and more — 1,140 games are affected with 1,531 issues https://www.reddit.com/r/Games/comments/1vodmon/windowscentral_i_checked_gogs_most_popular_games/
-2026-08-14T19:44:49+00:00	Sony Engineer Reveals PSSR 2.0 Secrets in SIGGRAPH 2026 Talk https://www.reddit.com/r/Games/comments/1vohf49/sony_engineer_reveals_pssr_20_secrets_in_siggraph/
 2026-08-14T22:04:43+00:00	CICADAMATA release date trailer https://www.reddit.com/r/Games/comments/1vol058/cicadamata_release_date_trailer/
 2026-08-14T22:47:10+00:00	Invincible VS Developer Reportedly Laid Off "Something Like 75%" of Staff https://www.reddit.com/r/Games/comments/1volzsk/invincible_vs_developer_reportedly_laid_off/
 2026-08-15T02:57:42+00:00	KINGDOM HEARTS IV | D23 2026 Showcase Trailer https://www.reddit.com/r/Games/comments/1vorde0/kingdom_hearts_iv_d23_2026_showcase_trailer/
@@ -28,3 +27,4 @@
 2026-08-16T00:03:12+00:00	Kingdom Hearts 4 - Official Coco Gameplay Trailer | D23 2026 https://www.reddit.com/r/Games/comments/1vpi2w6/kingdom_hearts_4_official_coco_gameplay_trailer/
 2026-08-16T04:00:45+00:00	Indie Sunday Hub - August 16, 2026 https://www.reddit.com/r/Games/comments/1vpmtxi/indie_sunday_hub_august_16_2026/
 2026-08-16T06:12:57+00:00	Down Is Forever - Joginder Tanikella - An endless faller where you descend into a mind instead of running through a world [Android/iOS] https://www.reddit.com/r/Games/comments/1vpp9ob/down_is_forever_joginder_tanikella_an_endless/
+2026-08-16T07:08:56+00:00	Last Light Island - akshay33169 - 2D Top Down Zombie Shooter Where your Flashlight is your only Resource! https://www.reddit.com/r/Games/comments/1vpq92w/last_light_island_akshay33169_2d_top_down_zombie/
