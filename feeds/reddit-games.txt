@@ -3,7 +3,6 @@
 # source = https://www.reddit.com/r/Games.rss
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
-2026-08-15T02:57:42+00:00	KINGDOM HEARTS IV | D23 2026 Showcase Trailer https://www.reddit.com/r/Games/comments/1vorde0/kingdom_hearts_iv_d23_2026_showcase_trailer/
 2026-08-15T08:43:00+00:00	The Simpsons: Hit & Run 'Coming Back in Some Form,' Creator Matt Groening Says https://www.reddit.com/r/Games/comments/1voxm5a/the_simpsons_hit_run_coming_back_in_some_form/
 2026-08-15T13:09:44+00:00	The Lord of the Rings: War in the North Dev Warned Warner Bros. Not to Go Up Against Skyrim Back in 2011 https://www.reddit.com/r/Games/comments/1vp2hso/the_lord_of_the_rings_war_in_the_north_dev_warned/
 2026-08-15T15:56:01+00:00	Oblivion Remastered - Switch 2 DF Review - Impressive Visuals, Frustrating Performance https://www.reddit.com/r/Games/comments/1vp6eh1/oblivion_remastered_switch_2_df_review_impressive/
@@ -16,7 +15,6 @@
 2026-08-16T09:32:03+00:00	Sucks to be in the sticks - coAction - 2D vampires in a post-Soviet decaying town https://www.reddit.com/r/Games/comments/1vpsmdu/sucks_to_be_in_the_sticks_coaction_2d_vampires_in/
 2026-08-16T10:57:43+00:00	Wagotabi: A Japanese Journey – Wagotabi Ltd – An educational game that gradually replaces English with Japanese as you progress - One-Year Anniversary Sale: 35% off on Steam! https://www.reddit.com/r/Games/comments/1vpu1x6/wagotabi_a_japanese_journey_wagotabi_ltd_an/
 2026-08-16T12:57:50+00:00	Old School RuneScape began when a dev 'found the 2007 server in their desk drawer:' 13 years later, it's setting subscriber records for the long-lived MMO https://www.reddit.com/r/Games/comments/1vpweg8/old_school_runescape_began_when_a_dev_found_the/
-2026-08-16T13:15:06+00:00	Dual Protocol - AEGEAN CRAFTERS - Co-op Detective Puzzle Game https://www.reddit.com/r/Games/comments/1vpws72/dual_protocol_aegean_crafters_coop_detective/
 2026-08-16T13:21:54+00:00	Time Distortionists - Fluxionary Studios - Turn-based strategy where you manage all of history https://www.reddit.com/r/Games/comments/1vpwxme/time_distortionists_fluxionary_studios_turnbased/
 2026-08-16T13:51:01+00:00	Chocolate Parade - Browser Land - A roguelike action game about rolling, collecting sweets, and building a parade https://www.reddit.com/r/Games/comments/1vpxlb5/chocolate_parade_browser_land_a_roguelike_action/
 2026-08-16T14:09:18+00:00	Isles of Innsmouth - Zugalu Entertainment - Cozy Horror City Builder https://www.reddit.com/r/Games/comments/1vpy0vt/isles_of_innsmouth_zugalu_entertainment_cozy/
@@ -28,3 +26,5 @@
 2026-08-16T18:25:35+00:00	Noblesse Oblige: Legacy of the Sorcerer Kings - Lord Forte Games - Free 2D RPG combining innovative turn-based combat with kingdom management and narrative choices https://www.reddit.com/r/Games/comments/1vq4k2w/noblesse_oblige_legacy_of_the_sorcerer_kings_lord/
 2026-08-16T20:06:35+00:00	Mafia Series: An Oral History https://www.reddit.com/r/Games/comments/1vq75oi/mafia_series_an_oral_history/
 2026-08-16T20:38:48+00:00	LIVORA - Shift The Story - A life simulation where your choices shape what comes next https://www.reddit.com/r/Games/comments/1vq7yuy/livora_shift_the_story_a_life_simulation_where/
+2026-08-16T22:43:13+00:00	.curator - STRTL LIMITED - a hand-drawn detective adventure written by Richard K. Morgan (Altered Carbon) https://www.reddit.com/r/Games/comments/1vqayh1/curator_strtl_limited_a_handdrawn_detective/
+2026-08-16T22:57:12+00:00	Reapers Edge - Testers and Feedback Needed - Fast Paced FPS with Soul Absorption Mechanics from Onimusha https://www.reddit.com/r/Games/comments/1vqb9sl/reapers_edge_testers_and_feedback_needed_fast/
