@@ -4,9 +4,10 @@
 # description = twtxt conversion of https://bearblog.dev/discover/feed/
 
 2026-08-12T10:21:00+00:00	film photos from the south of France https://bluebottles.bearblog.dev/film-photos-from-the-south-of-france/
+2026-08-12T16:35:00+00:00	Dear people who work at the airport https://life-after-ssri.bearblog.dev/dear-people-who-work-at-the-airport/
 2026-08-12T17:04:36.759997+00:00	Fighting for what I believe in https://annoflo.net/fighting-for-what-i-believe-in/
 2026-08-12T22:11:00+00:00	Wages of Sin Gave Me a Midlife Crisis https://valerialoves.com/wages-of-sin-gave-me-a-midlife-crisis/
-2026-08-13T03:58:00+00:00	august 12 oso https://combatdavey.net/august-12-2026/
+2026-08-13T00:48:00+00:00	21 days since saying goodbye https://notes.jeddacp.com/21-days-since-saying-goodbye/
 2026-08-13T10:50:00+00:00	Please Mr AI Would You Kindly Desist https://galacticman.bearblog.dev/please-mr-ai-would-you-kindly-desist/
 2026-08-13T11:38:00+00:00	bring back shitty web design https://thecommabandit.bearblog.dev/bring-back-shitty-web-design/
 2026-08-13T14:00:00+00:00	AI's Frictionless Road to Hell https://blog.joshgrey.uk/ais-frictionless-road-to-hell/
@@ -14,7 +15,6 @@
 2026-08-14T03:36:57.315197+00:00	The Phone Features I Can't Believe We Don't Have https://curvise.net/the-phone-features-i-cant-believe-we-dont-have/
 2026-08-14T03:40:55.853529+00:00	Stop, It's Art! https://notes.jeddacp.com/stop-its-art/
 2026-08-14T03:54:04.902683+00:00	i feel like the last sane person left https://icyti.me/i-feel-like-the-last-sane-person-left/
-2026-08-14T03:58:00+00:00	august 13 vhs https://combatdavey.net/august-13-2026/
 2026-08-14T07:03:34.179666+00:00	AI halted a budding friendship. https://defjuan.bearblog.dev/ai-halted-a-budding-friendship/
 2026-08-14T14:42:00+00:00	Where do YOU draw the AI line? https://blog.curiousquail.com/where-do-you-draw-the-ai-line/
 2026-08-14T16:45:05.635610+00:00	alright, we get it, LLMs suck https://rnotte.art/alright-we-get-it-llms-suck/
