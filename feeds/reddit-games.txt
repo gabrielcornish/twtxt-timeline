@@ -3,7 +3,6 @@
 # source = https://www.reddit.com/r/Games.rss
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
-2026-08-14T17:19:54+00:00	Rideshare Stimulator posts AI disclosure on Steam for voice generation, Free Ride missions, and in-game music https://www.reddit.com/r/Games/comments/1vodftd/rideshare_stimulator_posts_ai_disclosure_on_steam/
 2026-08-14T22:47:10+00:00	Invincible VS Developer Reportedly Laid Off "Something Like 75%" of Staff https://www.reddit.com/r/Games/comments/1volzsk/invincible_vs_developer_reportedly_laid_off/
 2026-08-15T02:57:42+00:00	KINGDOM HEARTS IV | D23 2026 Showcase Trailer https://www.reddit.com/r/Games/comments/1vorde0/kingdom_hearts_iv_d23_2026_showcase_trailer/
 2026-08-15T06:03:27+00:00	Marvel’s Wolverine - D23 Showcase Sizzle https://www.reddit.com/r/Games/comments/1vouw70/marvels_wolverine_d23_showcase_sizzle/
@@ -19,12 +18,13 @@
 2026-08-16T00:03:12+00:00	Kingdom Hearts 4 - Official Coco Gameplay Trailer | D23 2026 https://www.reddit.com/r/Games/comments/1vpi2w6/kingdom_hearts_4_official_coco_gameplay_trailer/
 2026-08-16T04:00:45+00:00	Indie Sunday Hub - August 16, 2026 https://www.reddit.com/r/Games/comments/1vpmtxi/indie_sunday_hub_august_16_2026/
 2026-08-16T08:07:21+00:00	Action games where momentum affects the damage dealt? https://www.reddit.com/r/Games/comments/1vpr8xs/action_games_where_momentum_affects_the_damage/
-2026-08-16T08:09:54+00:00	FEED IT - Games On A Chair - PSX-Style Horror about living with a Monster, releases tomorrow! https://www.reddit.com/r/Games/comments/1vprae8/feed_it_games_on_a_chair_psxstyle_horror_about/
 2026-08-16T09:00:42+00:00	Weekly /r/Games Discussion - What have you been playing, and what are your thoughts? - August 16, 2026 https://www.reddit.com/r/Games/comments/1vps46t/weekly_rgames_discussion_what_have_you_been/
-2026-08-16T09:21:14+00:00	Beards Go Underground - PandaBee Studios - Strategy Mining Game https://www.reddit.com/r/Games/comments/1vpsg7d/beards_go_underground_pandabee_studios_strategy/
 2026-08-16T09:29:33+00:00	Supermarket Guard Simulator - Borrowed Games - Job sim about being a security guard + reddit user shoutout! https://www.reddit.com/r/Games/comments/1vpskwm/supermarket_guard_simulator_borrowed_games_job/
 2026-08-16T09:32:03+00:00	Sucks to be in the sticks - coAction - 2D vampires in a post-Soviet decaying town https://www.reddit.com/r/Games/comments/1vpsmdu/sucks_to_be_in_the_sticks_coaction_2d_vampires_in/
-2026-08-16T10:00:04+00:00	Chess of the Hidden Gates - AgentGameLab - A roguelike deckbuilder where your cards move like Chinese chess pieces https://www.reddit.com/r/Games/comments/1vpt2hc/chess_of_the_hidden_gates_agentgamelab_a/
 2026-08-16T10:27:34+00:00	Nerts ! - Romain Bitard - Competitive Quick Multiplayer Klondike https://www.reddit.com/r/Games/comments/1vptjg8/nerts_romain_bitard_competitive_quick_multiplayer/
 2026-08-16T10:49:37+00:00	The Harbinger of the Deep - CraftedCircuitry - 2D Twin-stick Shooter where your shootable Actions decide the fate of a submerged world https://www.reddit.com/r/Games/comments/1vptwvm/the_harbinger_of_the_deep_craftedcircuitry_2d/
 2026-08-16T10:57:43+00:00	Wagotabi: A Japanese Journey – Wagotabi Ltd – An educational game that gradually replaces English with Japanese as you progress - One-Year Anniversary Sale: 35% off on Steam! https://www.reddit.com/r/Games/comments/1vpu1x6/wagotabi_a_japanese_journey_wagotabi_ltd_an/
+2026-08-16T11:54:11+00:00	Zero-G - Zero-G Team - A persistent hard sci-fi space MMO in a browser tab, built on real NASA topography: now with hand-flown asteroid mining and a full player-run industry https://www.reddit.com/r/Games/comments/1vpv372/zerog_zerog_team_a_persistent_hard_scifi_space/
+2026-08-16T11:58:43+00:00	Orby vs Rects - Oleg Sereda - Incremental Bullet-Hell https://www.reddit.com/r/Games/comments/1vpv6bd/orby_vs_rects_oleg_sereda_incremental_bullethell/
+2026-08-16T12:17:32+00:00	Cash is King! - BlackBeak Games - The new demo of our Miami Beach business simulator is out now. https://www.reddit.com/r/Games/comments/1vpvk5e/cash_is_king_blackbeak_games_the_new_demo_of_our/
+2026-08-16T12:33:25+00:00	The Bigger Picture - McRitchie - A visual puzzle game with 15 hidden clues disguised throughout each picture https://www.reddit.com/r/Games/comments/1vpvvtk/the_bigger_picture_mcritchie_a_visual_puzzle_game/
