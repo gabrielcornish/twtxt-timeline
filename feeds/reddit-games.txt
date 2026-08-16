@@ -3,14 +3,12 @@
 # source = https://www.reddit.com/r/Games.rss
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
-2026-08-14T14:21:35+00:00	Compulsion Games becomes publisher of South of Midnight on Steam, suggesting departure from Xbox amid major restructuring is now complete https://www.reddit.com/r/Games/comments/1vo8n0q/compulsion_games_becomes_publisher_of_south_of/
 2026-08-14T17:19:54+00:00	Rideshare Stimulator posts AI disclosure on Steam for voice generation, Free Ride missions, and in-game music https://www.reddit.com/r/Games/comments/1vodftd/rideshare_stimulator_posts_ai_disclosure_on_steam/
 2026-08-14T17:26:58+00:00	Windowscentral: I checked GOG's most popular games and found shocking gaps in updates, DLC, languages, soundtracks, and more — 1,140 games are affected with 1,531 issues https://www.reddit.com/r/Games/comments/1vodmon/windowscentral_i_checked_gogs_most_popular_games/
 2026-08-14T22:47:10+00:00	Invincible VS Developer Reportedly Laid Off "Something Like 75%" of Staff https://www.reddit.com/r/Games/comments/1volzsk/invincible_vs_developer_reportedly_laid_off/
 2026-08-15T02:57:42+00:00	KINGDOM HEARTS IV | D23 2026 Showcase Trailer https://www.reddit.com/r/Games/comments/1vorde0/kingdom_hearts_iv_d23_2026_showcase_trailer/
 2026-08-15T06:03:27+00:00	Marvel’s Wolverine - D23 Showcase Sizzle https://www.reddit.com/r/Games/comments/1vouw70/marvels_wolverine_d23_showcase_sizzle/
 2026-08-15T08:43:00+00:00	The Simpsons: Hit & Run 'Coming Back in Some Form,' Creator Matt Groening Says https://www.reddit.com/r/Games/comments/1voxm5a/the_simpsons_hit_run_coming_back_in_some_form/
-2026-08-15T10:07:20+00:00	Nocturne. A Rhythm Fighting Game by Pracy Studios. https://www.reddit.com/r/Games/comments/1voyzu3/nocturne_a_rhythm_fighting_game_by_pracy_studios/
 2026-08-15T12:33:12+00:00	Tides of Annihilation 40 minutes of new gameplay https://www.reddit.com/r/Games/comments/1vp1pgg/tides_of_annihilation_40_minutes_of_new_gameplay/
 2026-08-15T13:09:44+00:00	The Lord of the Rings: War in the North Dev Warned Warner Bros. Not to Go Up Against Skyrim Back in 2011 https://www.reddit.com/r/Games/comments/1vp2hso/the_lord_of_the_rings_war_in_the_north_dev_warned/
 2026-08-15T15:37:49+00:00	Sonic Project Hero Rewired - Release Trailer https://www.reddit.com/r/Games/comments/1vp5yg9/sonic_project_hero_rewired_release_trailer/
@@ -28,3 +26,5 @@
 2026-08-16T09:21:14+00:00	Beards Go Underground - PandaBee Studios - Strategy Mining Game https://www.reddit.com/r/Games/comments/1vpsg7d/beards_go_underground_pandabee_studios_strategy/
 2026-08-16T09:29:33+00:00	Supermarket Guard Simulator - Borrowed Games - Job sim about being a security guard + reddit user shoutout! https://www.reddit.com/r/Games/comments/1vpskwm/supermarket_guard_simulator_borrowed_games_job/
 2026-08-16T09:32:03+00:00	Sucks to be in the sticks - coAction - 2D vampires in a post-Soviet decaying town https://www.reddit.com/r/Games/comments/1vpsmdu/sucks_to_be_in_the_sticks_coaction_2d_vampires_in/
+2026-08-16T10:00:04+00:00	Chess of the Hidden Gates - AgentGameLab - A roguelike deckbuilder where your cards move like Chinese chess pieces https://www.reddit.com/r/Games/comments/1vpt2hc/chess_of_the_hidden_gates_agentgamelab_a/
+2026-08-16T10:27:34+00:00	Nerts ! - Romain Bitard - Competitive Quick Multiplayer Klondike https://www.reddit.com/r/Games/comments/1vptjg8/nerts_romain_bitard_competitive_quick_multiplayer/
