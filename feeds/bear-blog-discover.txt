@@ -3,7 +3,6 @@
 # source = https://bearblog.dev/discover/feed/
 # description = twtxt conversion of https://bearblog.dev/discover/feed/
 
-2026-08-12T10:21:00+00:00	film photos from the south of France https://bluebottles.bearblog.dev/film-photos-from-the-south-of-france/
 2026-08-13T14:00:00+00:00	AI's Frictionless Road to Hell https://blog.joshgrey.uk/ais-frictionless-road-to-hell/
 2026-08-14T03:36:57.315197+00:00	The Phone Features I Can't Believe We Don't Have https://curvise.net/the-phone-features-i-cant-believe-we-dont-have/
 2026-08-14T03:40:55.853529+00:00	Stop, It's Art! https://notes.jeddacp.com/stop-its-art/
@@ -19,6 +18,7 @@
 2026-08-15T15:32:00+00:00	Everything Is Suffering https://householderkarl.com/everything-is-suffering/
 2026-08-15T15:58:52.759767+00:00	i went to germany! https://blog.sulimans.space/i-went-to-germany/
 2026-08-15T17:33:00+00:00	Who is Art for? https://atta-thing.bearblog.dev/who-is-art-for/
+2026-08-15T21:51:22.402802+00:00	SOLD https://rickw.bearblog.dev/sold/
 2026-08-16T05:20:55.743910+00:00	Sad but happy https://glonk.bearblog.dev/sad-but-happy/
 2026-08-16T15:11:00+00:00	💌 Newsletter #014 - Many, Many Leaks; Being "Opted In;" and Cursed "Podcasts" for your Children https://technically-good.ca/newsletter/014-2026-08-16/
 2026-08-16T17:06:00+00:00	E Pluribus Odium https://householderkarl.com/e-pluribus-odium/
