@@ -3,7 +3,6 @@
 # source = https://bearblog.dev/discover/feed/
 # description = twtxt conversion of https://bearblog.dev/discover/feed/
 
-2026-08-13T14:00:00+00:00	AI's Frictionless Road to Hell https://blog.joshgrey.uk/ais-frictionless-road-to-hell/
 2026-08-14T03:36:57.315197+00:00	The Phone Features I Can't Believe We Don't Have https://curvise.net/the-phone-features-i-cant-believe-we-dont-have/
 2026-08-14T03:40:55.853529+00:00	Stop, It's Art! https://notes.jeddacp.com/stop-its-art/
 2026-08-14T05:43:00+00:00	Animal Reincarnation Table https://gorgonbones.bearblog.dev/animal-reincarnation-table/
@@ -21,5 +20,6 @@
 2026-08-16T17:06:00+00:00	E Pluribus Odium https://householderkarl.com/e-pluribus-odium/
 2026-08-17T01:17:00+00:00	Fifteen: something something AI creeping towards subjugation of the working class something something https://angrybunnyman.com/fifteen-something-something-ai-creeping-towards-subjugation-of-the-working-class-something-something/
 2026-08-17T12:25:00+00:00	shop milking their customers for social media content https://blog.avas.space/shop-social-media/
+2026-08-17T13:17:00+00:00	The Elephant In The Room https://chakkie.bearblog.dev/the-elephant/
 2026-08-17T15:27:00+00:00	re:Things to do after your dad dies https://blog.absurdpirate.com/rethings-to-do-after-your-dad-dies/
 2026-08-17T16:25:06.889661+00:00	GitHub Has an Availability Problem. Is It Time to Look Elsewhere? https://dhruv2038.bearblog.dev/github-has-an-availability-problem-is-it-time-to-look-elsewhere/
