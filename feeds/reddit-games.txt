@@ -3,20 +3,16 @@
 # source = https://www.reddit.com/r/Games.rss
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
-2026-08-15T17:49:57+00:00	Thief designer says that the immersive sim audience is too small for AAA games https://www.reddit.com/r/Games/comments/1vp9afv/thief_designer_says_that_the_immersive_sim/
 2026-08-16T00:03:12+00:00	Kingdom Hearts 4 - Official Coco Gameplay Trailer | D23 2026 https://www.reddit.com/r/Games/comments/1vpi2w6/kingdom_hearts_4_official_coco_gameplay_trailer/
 2026-08-16T09:00:42+00:00	Weekly /r/Games Discussion - What have you been playing, and what are your thoughts? - August 16, 2026 https://www.reddit.com/r/Games/comments/1vps46t/weekly_rgames_discussion_what_have_you_been/
 2026-08-16T10:57:43+00:00	Wagotabi: A Japanese Journey – Wagotabi Ltd – An educational game that gradually replaces English with Japanese as you progress - One-Year Anniversary Sale: 35% off on Steam! https://www.reddit.com/r/Games/comments/1vpu1x6/wagotabi_a_japanese_journey_wagotabi_ltd_an/
 2026-08-16T12:57:50+00:00	Old School RuneScape began when a dev 'found the 2007 server in their desk drawer:' 13 years later, it's setting subscriber records for the long-lived MMO https://www.reddit.com/r/Games/comments/1vpweg8/old_school_runescape_began_when_a_dev_found_the/
-2026-08-16T15:03:39+00:00	Nightbound - Crooked Cats Studio - an '80s horror love story with side-scrolling turn-based tactics https://www.reddit.com/r/Games/comments/1vpzct7/nightbound_crooked_cats_studio_an_80s_horror_love/
-2026-08-16T15:55:01+00:00	Barnburners - In2itiv Gaming - 90s and 00s style arcade hockey with big hits, fights and a full franchise mode https://www.reddit.com/r/Games/comments/1vq0n7m/barnburners_in2itiv_gaming_90s_and_00s_style/
 2026-08-16T16:17:37+00:00	Leviathan: Rhino - Amortiz Games - Psychological horror about an old man living in a dying village that will soon be crushed by a giant Leviathan. https://www.reddit.com/r/Games/comments/1vq186a/leviathan_rhino_amortiz_games_psychological/
 2026-08-16T18:25:35+00:00	Noblesse Oblige: Legacy of the Sorcerer Kings - Lord Forte Games - Free 2D RPG combining innovative turn-based combat with kingdom management and narrative choices https://www.reddit.com/r/Games/comments/1vq4k2w/noblesse_oblige_legacy_of_the_sorcerer_kings_lord/
 2026-08-16T20:06:35+00:00	Mafia Series: An Oral History https://www.reddit.com/r/Games/comments/1vq75oi/mafia_series_an_oral_history/
 2026-08-16T21:10:51+00:00	Cancelled "Star Wars: Magellan" Action-RPG Revealed With Gameplay Footage and Animations https://www.reddit.com/r/Games/comments/1vq8rrk/cancelled_star_wars_magellan_actionrpg_revealed/
 2026-08-16T22:43:13+00:00	.curator - STRTL LIMITED - a hand-drawn detective adventure written by Richard K. Morgan (Altered Carbon) https://www.reddit.com/r/Games/comments/1vqayh1/curator_strtl_limited_a_handdrawn_detective/
 2026-08-17T03:03:45+00:00	Hayden Panettiere dies at 36 https://www.reddit.com/r/Games/comments/1vqgjyf/hayden_panettiere_dies_at_36/
-2026-08-17T03:55:15+00:00	Edicts of the Truthsinger: The Orb of Artemagus - Triple Cerberus Studios - D&D Inspired Nonlinear Narrative Detective Game https://www.reddit.com/r/Games/comments/1vqhlbl/edicts_of_the_truthsinger_the_orb_of_artemagus/
 2026-08-17T04:23:31+00:00	Onimusha Curious Cases: Miyamoto Musashi https://www.reddit.com/r/Games/comments/1vqi58n/onimusha_curious_cases_miyamoto_musashi/
 2026-08-17T06:53:23+00:00	STONKS-9800 developer (Ternox Games) says Sony terminated their PlayStation agreement without explanation. Entire game catalog set to be delisted - AUTOMATON WEST https://www.reddit.com/r/Games/comments/1vqkuis/stonks9800_developer_ternox_games_says_sony/
 2026-08-17T12:27:13+00:00	Halloween: The Game Will Actually Be Available in New Zealand After All https://www.reddit.com/r/Games/comments/1vqqxej/halloween_the_game_will_actually_be_available_in/
@@ -28,3 +24,7 @@
 2026-08-17T15:39:35+00:00	Marvel Rivals players are messing with their config files 'to cancel games with no consequence' before they get a loss https://www.reddit.com/r/Games/comments/1vqvu2u/marvel_rivals_players_are_messing_with_their/
 2026-08-17T15:49:17+00:00	Tamriel Rebuilt Update Overview https://www.reddit.com/r/Games/comments/1vqw3ji/tamriel_rebuilt_update_overview/
 2026-08-17T16:14:58+00:00	JUST. ONE. MORE. DROP. | HYPERDROP: A Pachinko Roguelite Announce Trailer https://www.reddit.com/r/Games/comments/1vqwkeo/just_one_more_drop_hyperdrop_a_pachinko_roguelite/
+2026-08-17T16:52:38+00:00	Showa American Story - gamescom 2026 Hands-On Demo Guide https://www.reddit.com/r/Games/comments/1vqxpxf/showa_american_story_gamescom_2026_handson_demo/
+2026-08-17T17:02:54+00:00	Remothered: Red Nun's Legacy | Release Date Trailer https://www.reddit.com/r/Games/comments/1vqy0ms/remothered_red_nuns_legacy_release_date_trailer/
+2026-08-17T17:24:11+00:00	18 years after its inception, Metal Gear Online (MGO2) gets a massive netcode improvement thanks to the SaveMGO team https://www.reddit.com/r/Games/comments/1vqyngt/18_years_after_its_inception_metal_gear_online/
+2026-08-17T17:36:45+00:00	The Sinking City 2 - Review Thread https://www.reddit.com/r/Games/comments/1vqz0s6/the_sinking_city_2_review_thread/
