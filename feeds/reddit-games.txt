@@ -4,16 +4,13 @@
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
 2026-08-15T17:49:57+00:00	Thief designer says that the immersive sim audience is too small for AAA games https://www.reddit.com/r/Games/comments/1vp9afv/thief_designer_says_that_the_immersive_sim/
-2026-08-15T23:27:40+00:00	DEEP DIVE Into KINGDOM HEARTS | D23: The Ultimate Disney Fan Event https://www.reddit.com/r/Games/comments/1vphbbo/deep_dive_into_kingdom_hearts_d23_the_ultimate/
 2026-08-16T00:03:12+00:00	Kingdom Hearts 4 - Official Coco Gameplay Trailer | D23 2026 https://www.reddit.com/r/Games/comments/1vpi2w6/kingdom_hearts_4_official_coco_gameplay_trailer/
 2026-08-16T09:00:42+00:00	Weekly /r/Games Discussion - What have you been playing, and what are your thoughts? - August 16, 2026 https://www.reddit.com/r/Games/comments/1vps46t/weekly_rgames_discussion_what_have_you_been/
 2026-08-16T10:57:43+00:00	Wagotabi: A Japanese Journey – Wagotabi Ltd – An educational game that gradually replaces English with Japanese as you progress - One-Year Anniversary Sale: 35% off on Steam! https://www.reddit.com/r/Games/comments/1vpu1x6/wagotabi_a_japanese_journey_wagotabi_ltd_an/
 2026-08-16T12:57:50+00:00	Old School RuneScape began when a dev 'found the 2007 server in their desk drawer:' 13 years later, it's setting subscriber records for the long-lived MMO https://www.reddit.com/r/Games/comments/1vpweg8/old_school_runescape_began_when_a_dev_found_the/
-2026-08-16T13:21:54+00:00	Time Distortionists - Fluxionary Studios - Turn-based strategy where you manage all of history https://www.reddit.com/r/Games/comments/1vpwxme/time_distortionists_fluxionary_studios_turnbased/
 2026-08-16T15:03:39+00:00	Nightbound - Crooked Cats Studio - an '80s horror love story with side-scrolling turn-based tactics https://www.reddit.com/r/Games/comments/1vpzct7/nightbound_crooked_cats_studio_an_80s_horror_love/
 2026-08-16T15:55:01+00:00	Barnburners - In2itiv Gaming - 90s and 00s style arcade hockey with big hits, fights and a full franchise mode https://www.reddit.com/r/Games/comments/1vq0n7m/barnburners_in2itiv_gaming_90s_and_00s_style/
 2026-08-16T16:17:37+00:00	Leviathan: Rhino - Amortiz Games - Psychological horror about an old man living in a dying village that will soon be crushed by a giant Leviathan. https://www.reddit.com/r/Games/comments/1vq186a/leviathan_rhino_amortiz_games_psychological/
-2026-08-16T16:27:30+00:00	ROBOSCAV - Smiley Face Games - A turn-based extraction roguelite where you rip parts off robots and attach them to yourself - Demo Available Now! https://www.reddit.com/r/Games/comments/1vq1h9j/roboscav_smiley_face_games_a_turnbased_extraction/
 2026-08-16T18:25:35+00:00	Noblesse Oblige: Legacy of the Sorcerer Kings - Lord Forte Games - Free 2D RPG combining innovative turn-based combat with kingdom management and narrative choices https://www.reddit.com/r/Games/comments/1vq4k2w/noblesse_oblige_legacy_of_the_sorcerer_kings_lord/
 2026-08-16T20:06:35+00:00	Mafia Series: An Oral History https://www.reddit.com/r/Games/comments/1vq75oi/mafia_series_an_oral_history/
 2026-08-16T21:10:51+00:00	Cancelled "Star Wars: Magellan" Action-RPG Revealed With Gameplay Footage and Animations https://www.reddit.com/r/Games/comments/1vq8rrk/cancelled_star_wars_magellan_actionrpg_revealed/
@@ -28,3 +25,6 @@
 2026-08-17T15:11:18+00:00	New Footage for Elden Ring Tarnished Edition on Switch 2 in both handheld and docked https://www.reddit.com/r/Games/comments/1vqv2pf/new_footage_for_elden_ring_tarnished_edition_on/
 2026-08-17T15:27:22+00:00	Ithaca: a scintillating eco-thriller RPG that aims to confront our violent moment | Games https://www.reddit.com/r/Games/comments/1vqvihj/ithaca_a_scintillating_ecothriller_rpg_that_aims/
 2026-08-17T15:33:11+00:00	Star Wars Zero Company | Official Final Trailer https://www.reddit.com/r/Games/comments/1vqvo0l/star_wars_zero_company_official_final_trailer/
+2026-08-17T15:39:35+00:00	Marvel Rivals players are messing with their config files 'to cancel games with no consequence' before they get a loss https://www.reddit.com/r/Games/comments/1vqvu2u/marvel_rivals_players_are_messing_with_their/
+2026-08-17T15:49:17+00:00	Tamriel Rebuilt Update Overview https://www.reddit.com/r/Games/comments/1vqw3ji/tamriel_rebuilt_update_overview/
+2026-08-17T16:14:58+00:00	JUST. ONE. MORE. DROP. | HYPERDROP: A Pachinko Roguelite Announce Trailer https://www.reddit.com/r/Games/comments/1vqwkeo/just_one_more_drop_hyperdrop_a_pachinko_roguelite/
