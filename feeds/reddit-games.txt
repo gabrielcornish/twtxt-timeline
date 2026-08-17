@@ -4,7 +4,6 @@
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
 2026-08-15T08:43:00+00:00	The Simpsons: Hit & Run 'Coming Back in Some Form,' Creator Matt Groening Says https://www.reddit.com/r/Games/comments/1voxm5a/the_simpsons_hit_run_coming_back_in_some_form/
-2026-08-15T13:09:44+00:00	The Lord of the Rings: War in the North Dev Warned Warner Bros. Not to Go Up Against Skyrim Back in 2011 https://www.reddit.com/r/Games/comments/1vp2hso/the_lord_of_the_rings_war_in_the_north_dev_warned/
 2026-08-15T17:49:57+00:00	Thief designer says that the immersive sim audience is too small for AAA games https://www.reddit.com/r/Games/comments/1vp9afv/thief_designer_says_that_the_immersive_sim/
 2026-08-15T18:18:23+00:00	TCG Card Shop Simulator 1.0 - Official Release Date Announcement https://www.reddit.com/r/Games/comments/1vpa0du/tcg_card_shop_simulator_10_official_release_date/
 2026-08-15T23:27:40+00:00	DEEP DIVE Into KINGDOM HEARTS | D23: The Ultimate Disney Fan Event https://www.reddit.com/r/Games/comments/1vphbbo/deep_dive_into_kingdom_hearts_d23_the_ultimate/
@@ -28,3 +27,4 @@
 2026-08-17T03:03:45+00:00	Hayden Panettiere dies at 36 https://www.reddit.com/r/Games/comments/1vqgjyf/hayden_panettiere_dies_at_36/
 2026-08-17T03:55:15+00:00	Edicts of the Truthsinger: The Orb of Artemagus - Triple Cerberus Studios - D&D Inspired Nonlinear Narrative Detective Game https://www.reddit.com/r/Games/comments/1vqhlbl/edicts_of_the_truthsinger_the_orb_of_artemagus/
 2026-08-17T04:23:31+00:00	Onimusha Curious Cases: Miyamoto Musashi https://www.reddit.com/r/Games/comments/1vqi58n/onimusha_curious_cases_miyamoto_musashi/
+2026-08-17T06:53:23+00:00	STONKS-9800 developer (Ternox Games) says Sony terminated their PlayStation agreement without explanation. Entire game catalog set to be delisted - AUTOMATON WEST https://www.reddit.com/r/Games/comments/1vqkuis/stonks9800_developer_ternox_games_says_sony/
