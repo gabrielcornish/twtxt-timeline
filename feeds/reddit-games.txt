@@ -4,10 +4,7 @@
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
 2026-08-16T09:00:42+00:00	Weekly /r/Games Discussion - What have you been playing, and what are your thoughts? - August 16, 2026 https://www.reddit.com/r/Games/comments/1vps46t/weekly_rgames_discussion_what_have_you_been/
-2026-08-16T10:57:43+00:00	Wagotabi: A Japanese Journey – Wagotabi Ltd – An educational game that gradually replaces English with Japanese as you progress - One-Year Anniversary Sale: 35% off on Steam! https://www.reddit.com/r/Games/comments/1vpu1x6/wagotabi_a_japanese_journey_wagotabi_ltd_an/
 2026-08-16T12:57:50+00:00	Old School RuneScape began when a dev 'found the 2007 server in their desk drawer:' 13 years later, it's setting subscriber records for the long-lived MMO https://www.reddit.com/r/Games/comments/1vpweg8/old_school_runescape_began_when_a_dev_found_the/
-2026-08-16T16:17:37+00:00	Leviathan: Rhino - Amortiz Games - Psychological horror about an old man living in a dying village that will soon be crushed by a giant Leviathan. https://www.reddit.com/r/Games/comments/1vq186a/leviathan_rhino_amortiz_games_psychological/
-2026-08-16T18:25:35+00:00	Noblesse Oblige: Legacy of the Sorcerer Kings - Lord Forte Games - Free 2D RPG combining innovative turn-based combat with kingdom management and narrative choices https://www.reddit.com/r/Games/comments/1vq4k2w/noblesse_oblige_legacy_of_the_sorcerer_kings_lord/
 2026-08-16T20:06:35+00:00	Mafia Series: An Oral History https://www.reddit.com/r/Games/comments/1vq75oi/mafia_series_an_oral_history/
 2026-08-16T21:10:51+00:00	Cancelled "Star Wars: Magellan" Action-RPG Revealed With Gameplay Footage and Animations https://www.reddit.com/r/Games/comments/1vq8rrk/cancelled_star_wars_magellan_actionrpg_revealed/
 2026-08-16T22:43:13+00:00	[ Removed by Reddit ] https://www.reddit.com/r/Games/comments/1vqayh1/removed_by_reddit/
@@ -28,3 +25,6 @@
 2026-08-17T17:24:11+00:00	18 years after its inception, Metal Gear Online (MGO2) gets a massive netcode improvement thanks to the SaveMGO team https://www.reddit.com/r/Games/comments/1vqyngt/18_years_after_its_inception_metal_gear_online/
 2026-08-17T17:36:45+00:00	The Sinking City 2 - Review Thread https://www.reddit.com/r/Games/comments/1vqz0s6/the_sinking_city_2_review_thread/
 2026-08-17T19:01:37+00:00	Darkest Dungeon: The Fire's Edge Launch Trailer https://www.reddit.com/r/Games/comments/1vr1gok/darkest_dungeon_the_fires_edge_launch_trailer/
+2026-08-17T19:46:35+00:00	Panzer Dragoon Zwei: Remake - Updated Steam Demo Teaser https://www.reddit.com/r/Games/comments/1vr2pq8/panzer_dragoon_zwei_remake_updated_steam_demo/
+2026-08-17T20:14:25+00:00	Memory prices climb 500% in 12 months, up to 10x the lowest ever tracked prices — 128GB of DDR5 now $3,399 (lowest-ever price was $329) https://www.reddit.com/r/Games/comments/1vr3hic/memory_prices_climb_500_in_12_months_up_to_10x/
+2026-08-17T20:22:42+00:00	Tomb Raider: Legacy of Atlantis - Combat & Progression Reimagined https://www.reddit.com/r/Games/comments/1vr3po1/tomb_raider_legacy_of_atlantis_combat_progression/
