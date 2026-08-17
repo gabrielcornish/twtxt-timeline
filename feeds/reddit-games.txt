@@ -3,7 +3,6 @@
 # source = https://www.reddit.com/r/Games.rss
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
-2026-08-15T08:43:00+00:00	The Simpsons: Hit & Run 'Coming Back in Some Form,' Creator Matt Groening Says https://www.reddit.com/r/Games/comments/1voxm5a/the_simpsons_hit_run_coming_back_in_some_form/
 2026-08-15T17:49:57+00:00	Thief designer says that the immersive sim audience is too small for AAA games https://www.reddit.com/r/Games/comments/1vp9afv/thief_designer_says_that_the_immersive_sim/
 2026-08-15T18:18:23+00:00	TCG Card Shop Simulator 1.0 - Official Release Date Announcement https://www.reddit.com/r/Games/comments/1vpa0du/tcg_card_shop_simulator_10_official_release_date/
 2026-08-15T23:27:40+00:00	DEEP DIVE Into KINGDOM HEARTS | D23: The Ultimate Disney Fan Event https://www.reddit.com/r/Games/comments/1vphbbo/deep_dive_into_kingdom_hearts_d23_the_ultimate/
@@ -13,8 +12,6 @@
 2026-08-16T10:57:43+00:00	Wagotabi: A Japanese Journey – Wagotabi Ltd – An educational game that gradually replaces English with Japanese as you progress - One-Year Anniversary Sale: 35% off on Steam! https://www.reddit.com/r/Games/comments/1vpu1x6/wagotabi_a_japanese_journey_wagotabi_ltd_an/
 2026-08-16T12:57:50+00:00	Old School RuneScape began when a dev 'found the 2007 server in their desk drawer:' 13 years later, it's setting subscriber records for the long-lived MMO https://www.reddit.com/r/Games/comments/1vpweg8/old_school_runescape_began_when_a_dev_found_the/
 2026-08-16T13:21:54+00:00	Time Distortionists - Fluxionary Studios - Turn-based strategy where you manage all of history https://www.reddit.com/r/Games/comments/1vpwxme/time_distortionists_fluxionary_studios_turnbased/
-2026-08-16T13:51:01+00:00	Chocolate Parade - Browser Land - A roguelike action game about rolling, collecting sweets, and building a parade https://www.reddit.com/r/Games/comments/1vpxlb5/chocolate_parade_browser_land_a_roguelike_action/
-2026-08-16T14:09:18+00:00	Isles of Innsmouth - Zugalu Entertainment - Cozy Horror City Builder https://www.reddit.com/r/Games/comments/1vpy0vt/isles_of_innsmouth_zugalu_entertainment_cozy/
 2026-08-16T14:36:30+00:00	Ice Pond: An Ice Fishing Adventure - Snails Arcade - A cozy winter fishing game with cute animals and fictional fish https://www.reddit.com/r/Games/comments/1vpyoih/ice_pond_an_ice_fishing_adventure_snails_arcade_a/
 2026-08-16T15:03:39+00:00	Nightbound - Crooked Cats Studio - an '80s horror love story with side-scrolling turn-based tactics https://www.reddit.com/r/Games/comments/1vpzct7/nightbound_crooked_cats_studio_an_80s_horror_love/
 2026-08-16T15:55:01+00:00	Barnburners - In2itiv Gaming - 90s and 00s style arcade hockey with big hits, fights and a full franchise mode https://www.reddit.com/r/Games/comments/1vq0n7m/barnburners_in2itiv_gaming_90s_and_00s_style/
@@ -28,3 +25,6 @@
 2026-08-17T03:55:15+00:00	Edicts of the Truthsinger: The Orb of Artemagus - Triple Cerberus Studios - D&D Inspired Nonlinear Narrative Detective Game https://www.reddit.com/r/Games/comments/1vqhlbl/edicts_of_the_truthsinger_the_orb_of_artemagus/
 2026-08-17T04:23:31+00:00	Onimusha Curious Cases: Miyamoto Musashi https://www.reddit.com/r/Games/comments/1vqi58n/onimusha_curious_cases_miyamoto_musashi/
 2026-08-17T06:53:23+00:00	STONKS-9800 developer (Ternox Games) says Sony terminated their PlayStation agreement without explanation. Entire game catalog set to be delisted - AUTOMATON WEST https://www.reddit.com/r/Games/comments/1vqkuis/stonks9800_developer_ternox_games_says_sony/
+2026-08-17T12:27:13+00:00	Halloween: The Game Will Actually Be Available in New Zealand After All https://www.reddit.com/r/Games/comments/1vqqxej/halloween_the_game_will_actually_be_available_in/
+2026-08-17T12:31:51+00:00	AMA: We are Frogwares - the developers of The Sinking City 2. Ask Us Anything! https://www.reddit.com/r/Games/comments/1vqr167/ama_we_are_frogwares_the_developers_of_the/
+2026-08-17T13:01:31+00:00	Mortal Shell II Review Thread https://www.reddit.com/r/Games/comments/1vqrpud/mortal_shell_ii_review_thread/

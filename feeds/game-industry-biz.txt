@@ -3,7 +3,6 @@
 # source = https://www.gamesindustry.biz/feed
 # description = twtxt conversion of https://www.gamesindustry.biz/feed
 
-2026-08-05T13:11:29+00:00	Silver Lining Interactive launches first title from its development label Silver Bullet https://www.gamesindustry.biz/silver-lining-interactive-launches-first-title-from-its-development-label-silver-bullet
 2026-08-05T16:21:44+00:00	Phasmophobia developer's indie label Kinetic Publishing to reveal debut slate at showcase later this month https://www.gamesindustry.biz/phasmophobia-developers-indie-label-kinetic-publishing-to-reveal-debut-slate-at-showcase-this-august
 2026-08-05T18:41:43+00:00	King declines collective bargaining agreement with Swedish unions https://www.gamesindustry.biz/king-declines-collective-bargaining-agreement-with-swedish-unions
 2026-08-06T08:46:53+00:00	Nintendo Q1 sales drop 9.5%; operating profit soars following higher software sales and $300m in US tariff refunds https://www.gamesindustry.biz/nintendo-q1-sales-drop-95-operating-profit-soars-following-higher-software-sales-and-300m-in-us-tariff-refunds
@@ -53,3 +52,4 @@
 2026-08-14T16:39:59+00:00	Modern consumers crave "events", and the games industry needs to provide them | Opinion https://www.gamesindustry.biz/modern-consumers-crave-events-and-the-games-industry-needs-to-provide-them-opinion
 2026-08-17T07:33:37+00:00	Matchmaking platform Sail.game launches free tier for devs ahead of Gamescom https://www.gamesindustry.biz/matchmaking-platform-sailgame-launches-free-tier-for-devs-ahead-of-gamescom
 2026-08-17T10:24:45+00:00	Saber Interactive adds AI disclaimer to Rideshare on Steam; CEO Matt Karch apologises to former lead writer https://www.gamesindustry.biz/saber-interactive-adds-ai-disclaimer-to-rideshare-on-steam-ceo-matt-karch-apologises-to-former-lead-writer
+2026-08-17T12:47:28+00:00	US Senate to investigate Roblox following claims it "prioritises revenue and engagement" over child safety https://www.gamesindustry.biz/us-senate-to-investigate-roblox-following-claims-it-prioritises-revenue-and-engagement-over-child-safety
