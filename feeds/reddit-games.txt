@@ -3,7 +3,6 @@
 # source = https://www.reddit.com/r/Games.rss
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
-2026-08-16T00:03:12+00:00	Kingdom Hearts 4 - Official Coco Gameplay Trailer | D23 2026 https://www.reddit.com/r/Games/comments/1vpi2w6/kingdom_hearts_4_official_coco_gameplay_trailer/
 2026-08-16T09:00:42+00:00	Weekly /r/Games Discussion - What have you been playing, and what are your thoughts? - August 16, 2026 https://www.reddit.com/r/Games/comments/1vps46t/weekly_rgames_discussion_what_have_you_been/
 2026-08-16T10:57:43+00:00	Wagotabi: A Japanese Journey – Wagotabi Ltd – An educational game that gradually replaces English with Japanese as you progress - One-Year Anniversary Sale: 35% off on Steam! https://www.reddit.com/r/Games/comments/1vpu1x6/wagotabi_a_japanese_journey_wagotabi_ltd_an/
 2026-08-16T12:57:50+00:00	Old School RuneScape began when a dev 'found the 2007 server in their desk drawer:' 13 years later, it's setting subscriber records for the long-lived MMO https://www.reddit.com/r/Games/comments/1vpweg8/old_school_runescape_began_when_a_dev_found_the/
@@ -28,3 +27,4 @@
 2026-08-17T17:02:54+00:00	Remothered: Red Nun's Legacy | Release Date Trailer https://www.reddit.com/r/Games/comments/1vqy0ms/remothered_red_nuns_legacy_release_date_trailer/
 2026-08-17T17:24:11+00:00	18 years after its inception, Metal Gear Online (MGO2) gets a massive netcode improvement thanks to the SaveMGO team https://www.reddit.com/r/Games/comments/1vqyngt/18_years_after_its_inception_metal_gear_online/
 2026-08-17T17:36:45+00:00	The Sinking City 2 - Review Thread https://www.reddit.com/r/Games/comments/1vqz0s6/the_sinking_city_2_review_thread/
+2026-08-17T19:01:37+00:00	Darkest Dungeon: The Fire's Edge Launch Trailer https://www.reddit.com/r/Games/comments/1vr1gok/darkest_dungeon_the_fires_edge_launch_trailer/
