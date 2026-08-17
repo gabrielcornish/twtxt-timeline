@@ -3,7 +3,6 @@
 # source = https://www.gamesindustry.biz/feed
 # description = twtxt conversion of https://www.gamesindustry.biz/feed
 
-2026-08-05T08:07:24+00:00	Electronic Arts completes $55bn acquisition; CEO announces senior leadership changes https://www.gamesindustry.biz/electronic-arts-completes-55bn-acquisition-ceo-announces-senior-leadership-changes
 2026-08-05T10:57:10+00:00	Jobs roundup: August 2026 | Frontier Developments appoints Dan Lazarides as CMO https://www.gamesindustry.biz/jobs-roundup-august-2026-frontier-developments-appoints-dan-lazarides-as-cmo
 2026-08-05T13:11:29+00:00	Silver Lining Interactive launches first title from its development label Silver Bullet https://www.gamesindustry.biz/silver-lining-interactive-launches-first-title-from-its-development-label-silver-bullet
 2026-08-05T16:21:44+00:00	Phasmophobia developer's indie label Kinetic Publishing to reveal debut slate at showcase later this month https://www.gamesindustry.biz/phasmophobia-developers-indie-label-kinetic-publishing-to-reveal-debut-slate-at-showcase-this-august
@@ -53,3 +52,4 @@
 2026-08-14T11:06:51+00:00	2K establishes AAA sports developer Small Axe Studios https://www.gamesindustry.biz/2k-establishes-aaa-sports-developer-small-axe-studios
 2026-08-14T13:47:08+00:00	Niko Partners: India games market exceeds $1bn, forecast to reach $1.2bn by end of 2026 https://www.gamesindustry.biz/niko-partners-india-games-market-exceeds-1bn-forecast-to-reach-12bn-by-end-of-2026
 2026-08-14T16:39:59+00:00	Modern consumers crave "events", and the games industry needs to provide them | Opinion https://www.gamesindustry.biz/modern-consumers-crave-events-and-the-games-industry-needs-to-provide-them-opinion
+2026-08-17T07:33:37+00:00	Matchmaking platform Sail.game launches free tier for devs ahead of Gamescom https://www.gamesindustry.biz/matchmaking-platform-sailgame-launches-free-tier-for-devs-ahead-of-gamescom
