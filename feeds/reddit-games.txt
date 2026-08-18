@@ -4,7 +4,6 @@
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
 2026-08-16T09:00:42+00:00	Weekly /r/Games Discussion - What have you been playing, and what are your thoughts? - August 16, 2026 https://www.reddit.com/r/Games/comments/1vps46t/weekly_rgames_discussion_what_have_you_been/
-2026-08-17T12:31:51+00:00	AMA: We are Frogwares - the developers of The Sinking City 2. Ask Us Anything! https://www.reddit.com/r/Games/comments/1vqr167/ama_we_are_frogwares_the_developers_of_the/
 2026-08-17T13:01:31+00:00	Mortal Shell II Review Thread https://www.reddit.com/r/Games/comments/1vqrpud/mortal_shell_ii_review_thread/
 2026-08-17T15:33:11+00:00	Star Wars Zero Company | Official Final Trailer https://www.reddit.com/r/Games/comments/1vqvo0l/star_wars_zero_company_official_final_trailer/
 2026-08-17T15:39:35+00:00	Marvel Rivals players are messing with their config files 'to cancel games with no consequence' before they get a loss https://www.reddit.com/r/Games/comments/1vqvu2u/marvel_rivals_players_are_messing_with_their/
@@ -25,6 +24,7 @@
 2026-08-18T14:53:14+00:00	Orbitals Opening Theme | ~ Accelerating Destiny ~ (加速する運命) - Official Music Video https://www.reddit.com/r/Games/comments/1vrrfz7/orbitals_opening_theme_accelerating_destiny/
 2026-08-18T15:02:30+00:00	CONTROL Resonant has gone gold! https://www.reddit.com/r/Games/comments/1vrrp9q/control_resonant_has_gone_gold/
 2026-08-18T15:03:10+00:00	Little old one and the witch | Trailer https://www.reddit.com/r/Games/comments/1vrrq0o/little_old_one_and_the_witch_trailer/
+2026-08-18T15:41:10+00:00	Subnautica 2 | Update Vlog: Early Access 1.2 - Buddy System https://www.reddit.com/r/Games/comments/1vrsqjq/subnautica_2_update_vlog_early_access_12_buddy/
 2026-08-18T15:46:39+00:00	[GOG] Remakes are cancelled; classics are reborn. https://www.reddit.com/r/Games/comments/1vrsvri/gog_remakes_are_cancelled_classics_are_reborn/
 2026-08-18T15:51:16+00:00	[HELLDIVERS 2] Deep Dive: The Heart of the Void https://www.reddit.com/r/Games/comments/1vrt0bg/helldivers_2_deep_dive_the_heart_of_the_void/
 2026-08-18T16:18:47+00:00	Twisted Tower - Launch Trailer https://www.reddit.com/r/Games/comments/1vrtvyy/twisted_tower_launch_trailer/

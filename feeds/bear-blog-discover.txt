@@ -3,7 +3,6 @@
 # source = https://bearblog.dev/discover/feed/
 # description = twtxt conversion of https://bearblog.dev/discover/feed/
 
-2026-08-14T17:14:00+00:00	MixTape: A Postmortem https://shoujo.gay/mixtape-a-postmortem/
 2026-08-14T18:37:00+00:00	Social Media is Mirroring Itself Out https://metanomad.blog/social-mirroring/
 2026-08-15T05:12:00+00:00	Things to do after your dad dies https://fornoone.bearblog.dev/things-to-do-after-your-dad-dies/
 2026-08-15T15:32:00+00:00	Everything Is Suffering https://householderkarl.com/everything-is-suffering/
@@ -23,3 +22,4 @@
 2026-08-17T13:17:00+00:00	The Elephant In The Room https://chakkie.bearblog.dev/the-elephant/
 2026-08-17T15:27:00+00:00	re:Things to do after your dad dies https://blog.absurdpirate.com/rethings-to-do-after-your-dad-dies/
 2026-08-17T16:25:06.889661+00:00	GitHub Has an Availability Problem. Is It Time to Look Elsewhere? https://dhruv2038.bearblog.dev/github-has-an-availability-problem-is-it-time-to-look-elsewhere/
+2026-08-18T13:43:00+00:00	The Transparency Report Was an AirTag https://thecynicalnerd.bearblog.dev/the-transparency-report-was-an-airtag/
