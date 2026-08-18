@@ -4,7 +4,6 @@
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
 2026-08-16T09:00:42+00:00	Weekly /r/Games Discussion - What have you been playing, and what are your thoughts? - August 16, 2026 https://www.reddit.com/r/Games/comments/1vps46t/weekly_rgames_discussion_what_have_you_been/
-2026-08-16T12:57:50+00:00	Old School RuneScape began when a dev 'found the 2007 server in their desk drawer:' 13 years later, it's setting subscriber records for the long-lived MMO https://www.reddit.com/r/Games/comments/1vpweg8/old_school_runescape_began_when_a_dev_found_the/
 2026-08-17T03:03:45+00:00	Hayden Panettiere dies at 36 https://www.reddit.com/r/Games/comments/1vqgjyf/hayden_panettiere_dies_at_36/
 2026-08-17T06:53:23+00:00	STONKS-9800 developer (Ternox Games) says Sony terminated their PlayStation agreement without explanation. Entire game catalog set to be delisted - AUTOMATON WEST https://www.reddit.com/r/Games/comments/1vqkuis/stonks9800_developer_ternox_games_says_sony/
 2026-08-17T12:27:13+00:00	Halloween: The Game Will Actually Be Available in New Zealand After All https://www.reddit.com/r/Games/comments/1vqqxej/halloween_the_game_will_actually_be_available_in/
@@ -28,3 +27,4 @@
 2026-08-18T03:17:54+00:00	Quantic River (Coming soon™) Censored Trailer https://www.reddit.com/r/Games/comments/1vrdjyq/quantic_river_coming_soon_censored_trailer/
 2026-08-18T03:39:36+00:00	Trails in the Sky 1st Chapter Version 1.07 Legacy Patch is now available | Updates terminology and voice lines to be more consistent with existing series terminology/pronunciations; changes will be reflected in Sky 2nd Chapter https://www.reddit.com/r/Games/comments/1vre04l/trails_in_the_sky_1st_chapter_version_107_legacy/
 2026-08-18T04:53:25+00:00	Warren Spector announces likely retirement https://www.reddit.com/r/Games/comments/1vrffum/warren_spector_announces_likely_retirement/
+2026-08-18T08:22:02+00:00	Stormforge: Official Gameplay Trailer https://www.reddit.com/r/Games/comments/1vrj4zj/stormforge_official_gameplay_trailer/
