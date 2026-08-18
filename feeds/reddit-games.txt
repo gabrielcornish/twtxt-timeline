@@ -4,16 +4,13 @@
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
 2026-08-16T09:00:42+00:00	Weekly /r/Games Discussion - What have you been playing, and what are your thoughts? - August 16, 2026 https://www.reddit.com/r/Games/comments/1vps46t/weekly_rgames_discussion_what_have_you_been/
-2026-08-17T03:03:45+00:00	Hayden Panettiere dies at 36 https://www.reddit.com/r/Games/comments/1vqgjyf/hayden_panettiere_dies_at_36/
 2026-08-17T12:31:51+00:00	AMA: We are Frogwares - the developers of The Sinking City 2. Ask Us Anything! https://www.reddit.com/r/Games/comments/1vqr167/ama_we_are_frogwares_the_developers_of_the/
 2026-08-17T13:01:31+00:00	Mortal Shell II Review Thread https://www.reddit.com/r/Games/comments/1vqrpud/mortal_shell_ii_review_thread/
 2026-08-17T15:33:11+00:00	Star Wars Zero Company | Official Final Trailer https://www.reddit.com/r/Games/comments/1vqvo0l/star_wars_zero_company_official_final_trailer/
 2026-08-17T15:39:35+00:00	Marvel Rivals players are messing with their config files 'to cancel games with no consequence' before they get a loss https://www.reddit.com/r/Games/comments/1vqvu2u/marvel_rivals_players_are_messing_with_their/
-2026-08-17T17:24:11+00:00	18 years after its inception, Metal Gear Online (MGO2) gets a massive netcode improvement thanks to the SaveMGO team https://www.reddit.com/r/Games/comments/1vqyngt/18_years_after_its_inception_metal_gear_online/
 2026-08-17T17:36:45+00:00	The Sinking City 2 - Review Thread https://www.reddit.com/r/Games/comments/1vqz0s6/the_sinking_city_2_review_thread/
 2026-08-17T19:01:37+00:00	Darkest Dungeon: The Fire's Edge Launch Trailer https://www.reddit.com/r/Games/comments/1vr1gok/darkest_dungeon_the_fires_edge_launch_trailer/
 2026-08-17T20:14:25+00:00	Memory prices climb 500% in 12 months, up to 10x the lowest ever tracked prices — 128GB of DDR5 now $3,399 (lowest-ever price was $329) https://www.reddit.com/r/Games/comments/1vr3hic/memory_prices_climb_500_in_12_months_up_to_10x/
-2026-08-17T22:03:29+00:00	Castlevania: Grimoire of Souls - Important Notice Regarding the End of Service https://www.reddit.com/r/Games/comments/1vr6d2y/castlevania_grimoire_of_souls_important_notice/
 2026-08-17T22:30:13+00:00	Star Citizen Developer Stream Goes Horribly Off the Rails, Creating Further Distrust Among Players https://www.reddit.com/r/Games/comments/1vr7177/star_citizen_developer_stream_goes_horribly_off/
 2026-08-18T01:44:24+00:00	Phantom Blade Zero – State of Play Gameplay Deep Dive https://www.reddit.com/r/Games/comments/1vrbj99/phantom_blade_zero_state_of_play_gameplay_deep/
 2026-08-18T02:24:16+00:00	Enter the Wulin: Gameplay & Story Deep Dive of Phantom Blade Zero https://www.reddit.com/r/Games/comments/1vrcek2/enter_the_wulin_gameplay_story_deep_dive_of/
@@ -28,3 +25,6 @@
 2026-08-18T14:53:14+00:00	Orbitals Opening Theme | ~ Accelerating Destiny ~ (加速する運命) - Official Music Video https://www.reddit.com/r/Games/comments/1vrrfz7/orbitals_opening_theme_accelerating_destiny/
 2026-08-18T15:02:30+00:00	CONTROL Resonant has gone gold! https://www.reddit.com/r/Games/comments/1vrrp9q/control_resonant_has_gone_gold/
 2026-08-18T15:03:10+00:00	Little old one and the witch | Trailer https://www.reddit.com/r/Games/comments/1vrrq0o/little_old_one_and_the_witch_trailer/
+2026-08-18T15:46:39+00:00	[GOG] Remakes are cancelled; classics are reborn. https://www.reddit.com/r/Games/comments/1vrsvri/gog_remakes_are_cancelled_classics_are_reborn/
+2026-08-18T15:51:16+00:00	[HELLDIVERS 2] Deep Dive: The Heart of the Void https://www.reddit.com/r/Games/comments/1vrt0bg/helldivers_2_deep_dive_the_heart_of_the_void/
+2026-08-18T16:18:47+00:00	Twisted Tower - Launch Trailer https://www.reddit.com/r/Games/comments/1vrtvyy/twisted_tower_launch_trailer/
