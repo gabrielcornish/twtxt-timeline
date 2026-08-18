@@ -3,7 +3,6 @@
 # source = https://www.gamesindustry.biz/feed
 # description = twtxt conversion of https://www.gamesindustry.biz/feed
 
-2026-08-06T11:01:00+00:00	UK Employment Rights Act 2025: Harassment law is getting tougher – and games companies need to be ready https://www.gamesindustry.biz/uk-employment-rights-act-2025-harassment-law-is-getting-tougher-and-games-companies-need-to-be-ready
 2026-08-06T13:17:27+00:00	Roblox shares fall 70% following lower-than-expected monetisation during Q2 https://www.gamesindustry.biz/roblox-shares-fall-70-following-lower-than-expected-monetisation-during-q2
 2026-08-07T08:02:24+00:00	Unity records "best quarter in history" following continued success of Vector AI https://www.gamesindustry.biz/unity-records-best-quarter-in-history-following-continued-success-of-vector-ai
 2026-08-07T10:04:32+00:00	Tripledot Studios acquires Supersonic from Unity for $40m https://www.gamesindustry.biz/tripledot-studios-acquires-supersonic-from-unity-for-40m
@@ -53,3 +52,4 @@
 2026-08-18T08:53:12+00:00	Save the Children announces its first game and streaming fundraising event called Save Point https://www.gamesindustry.biz/save-the-children-announces-its-first-game-and-streaming-fundraising-event-called-save-point
 2026-08-18T12:08:03+00:00	Deus Ex creator Warren Spector announces retirement – "it's time to ride off into the sunset" https://www.gamesindustry.biz/deus-ex-creator-warren-spector-announces-retirement-its-time-to-ride-off-into-the-sunset
 2026-08-18T13:00:00+00:00	Bain & Co: Research shows only one in five players seek out new titles https://www.gamesindustry.biz/bain-co-research-shows-only-one-in-five-players-seek-out-new-titles
+2026-08-18T13:32:01+00:00	Three Epic veterans are building an AI-powered game engine to break the industry's doom cycle https://www.gamesindustry.biz/three-epic-veterans-are-building-an-ai-powered-game-engine-to-break-the-industrys-doom-cycle
