@@ -3,7 +3,6 @@
 # source = https://www.gamesindustry.biz/feed
 # description = twtxt conversion of https://www.gamesindustry.biz/feed
 
-2026-08-06T08:46:53+00:00	Nintendo Q1 sales drop 9.5%; operating profit soars following higher software sales and $300m in US tariff refunds https://www.gamesindustry.biz/nintendo-q1-sales-drop-95-operating-profit-soars-following-higher-software-sales-and-300m-in-us-tariff-refunds
 2026-08-06T08:58:53+00:00	Devolver Digital intends to go private https://www.gamesindustry.biz/devolver-digital-intends-to-go-private
 2026-08-06T10:00:00+00:00	Kudos Games Services expands leadership team with Testronic and Team17 execs https://www.gamesindustry.biz/kudos-games-services-expands-leadership-team-with-testronic-and-team17-execs
 2026-08-06T11:01:00+00:00	UK Employment Rights Act 2025: Harassment law is getting tougher – and games companies need to be ready https://www.gamesindustry.biz/uk-employment-rights-act-2025-harassment-law-is-getting-tougher-and-games-companies-need-to-be-ready
@@ -52,4 +51,5 @@
 2026-08-17T10:24:45+00:00	Saber Interactive adds AI disclaimer to Rideshare on Steam; CEO Matt Karch apologises to former lead writer https://www.gamesindustry.biz/saber-interactive-adds-ai-disclaimer-to-rideshare-on-steam-ceo-matt-karch-apologises-to-former-lead-writer
 2026-08-17T12:47:28+00:00	US Senate to investigate Roblox following claims it "prioritises revenue and engagement" over child safety https://www.gamesindustry.biz/us-senate-to-investigate-roblox-following-claims-it-prioritises-revenue-and-engagement-over-child-safety
 2026-08-17T17:43:23+00:00	The Hollywood disruptors making a large-scale game with a 12-person team – and no generative AI https://www.gamesindustry.biz/the-hollywood-disruptors-making-a-large-scale-game-with-a-12-person-team-and-no-generative-ai
+2026-08-18T07:00:00+00:00	GYLD raises $1m to fund proprietary games research system that marked Clair Obscur as a potential hit https://www.gamesindustry.biz/gyld-raises-1m-to-fund-proprietary-games-research-system-that-marked-clair-obscur-as-a-potential-hit
 2026-08-18T08:53:12+00:00	Save the Children announces its first game and streaming fundraising event called Save Point https://www.gamesindustry.biz/save-the-children-announces-its-first-game-and-streaming-fundraising-event-called-save-point
