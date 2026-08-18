@@ -4,15 +4,12 @@
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
 2026-08-16T09:00:42+00:00	Weekly /r/Games Discussion - What have you been playing, and what are your thoughts? - August 16, 2026 https://www.reddit.com/r/Games/comments/1vps46t/weekly_rgames_discussion_what_have_you_been/
-2026-08-17T13:01:31+00:00	Mortal Shell II Review Thread https://www.reddit.com/r/Games/comments/1vqrpud/mortal_shell_ii_review_thread/
 2026-08-17T15:33:11+00:00	Star Wars Zero Company | Official Final Trailer https://www.reddit.com/r/Games/comments/1vqvo0l/star_wars_zero_company_official_final_trailer/
 2026-08-17T15:39:35+00:00	Marvel Rivals players are messing with their config files 'to cancel games with no consequence' before they get a loss https://www.reddit.com/r/Games/comments/1vqvu2u/marvel_rivals_players_are_messing_with_their/
-2026-08-17T17:36:45+00:00	The Sinking City 2 - Review Thread https://www.reddit.com/r/Games/comments/1vqz0s6/the_sinking_city_2_review_thread/
 2026-08-17T19:01:37+00:00	Darkest Dungeon: The Fire's Edge Launch Trailer https://www.reddit.com/r/Games/comments/1vr1gok/darkest_dungeon_the_fires_edge_launch_trailer/
 2026-08-17T20:14:25+00:00	Memory prices climb 500% in 12 months, up to 10x the lowest ever tracked prices — 128GB of DDR5 now $3,399 (lowest-ever price was $329) https://www.reddit.com/r/Games/comments/1vr3hic/memory_prices_climb_500_in_12_months_up_to_10x/
 2026-08-17T22:30:13+00:00	Star Citizen Developer Stream Goes Horribly Off the Rails, Creating Further Distrust Among Players https://www.reddit.com/r/Games/comments/1vr7177/star_citizen_developer_stream_goes_horribly_off/
 2026-08-18T01:44:24+00:00	Phantom Blade Zero – State of Play Gameplay Deep Dive https://www.reddit.com/r/Games/comments/1vrbj99/phantom_blade_zero_state_of_play_gameplay_deep/
-2026-08-18T02:24:16+00:00	Enter the Wulin: Gameplay & Story Deep Dive of Phantom Blade Zero https://www.reddit.com/r/Games/comments/1vrcek2/enter_the_wulin_gameplay_story_deep_dive_of/
 2026-08-18T03:39:36+00:00	Trails in the Sky 1st Chapter Version 1.07 Legacy Patch is now available | Updates terminology and voice lines to be more consistent with existing series terminology/pronunciations; changes will be reflected in Sky 2nd Chapter https://www.reddit.com/r/Games/comments/1vre04l/trails_in_the_sky_1st_chapter_version_107_legacy/
 2026-08-18T04:53:25+00:00	Warren Spector announces likely retirement https://www.reddit.com/r/Games/comments/1vrffum/warren_spector_announces_likely_retirement/
 2026-08-18T08:22:02+00:00	Stormforge: Official Gameplay Trailer https://www.reddit.com/r/Games/comments/1vrj4zj/stormforge_official_gameplay_trailer/
@@ -28,3 +25,6 @@
 2026-08-18T15:46:39+00:00	[GOG] Remakes are cancelled; classics are reborn. https://www.reddit.com/r/Games/comments/1vrsvri/gog_remakes_are_cancelled_classics_are_reborn/
 2026-08-18T15:51:16+00:00	[HELLDIVERS 2] Deep Dive: The Heart of the Void https://www.reddit.com/r/Games/comments/1vrt0bg/helldivers_2_deep_dive_the_heart_of_the_void/
 2026-08-18T16:18:47+00:00	Twisted Tower - Launch Trailer https://www.reddit.com/r/Games/comments/1vrtvyy/twisted_tower_launch_trailer/
+2026-08-18T17:35:31+00:00	Digiphile - RTS Renaissance https://www.reddit.com/r/Games/comments/1vrw4qo/digiphile_rts_renaissance/
+2026-08-18T18:09:38+00:00	TMNT Splintered Fate - Official "The King's Gambit" Update Launch Trailer https://www.reddit.com/r/Games/comments/1vrx3n1/tmnt_splintered_fate_official_the_kings_gambit/
+2026-08-18T18:41:25+00:00	Physical editions of 1000xRESIST have been revealed for Playstation 5 and Nintendo Switch 2 https://www.reddit.com/r/Games/comments/1vry06v/physical_editions_of_1000xresist_have_been/
