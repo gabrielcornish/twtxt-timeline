@@ -6,9 +6,7 @@
 2026-08-16T09:00:42+00:00	Weekly /r/Games Discussion - What have you been playing, and what are your thoughts? - August 16, 2026 https://www.reddit.com/r/Games/comments/1vps46t/weekly_rgames_discussion_what_have_you_been/
 2026-08-17T20:14:25+00:00	Memory prices climb 500% in 12 months, up to 10x the lowest ever tracked prices — 128GB of DDR5 now $3,399 (lowest-ever price was $329) https://www.reddit.com/r/Games/comments/1vr3hic/memory_prices_climb_500_in_12_months_up_to_10x/
 2026-08-17T22:30:13+00:00	Star Citizen Developer Stream Goes Horribly Off the Rails, Creating Further Distrust Among Players https://www.reddit.com/r/Games/comments/1vr7177/star_citizen_developer_stream_goes_horribly_off/
-2026-08-18T03:39:36+00:00	Trails in the Sky 1st Chapter Version 1.07 Legacy Patch is now available | Updates terminology and voice lines to be more consistent with existing series terminology/pronunciations; changes will be reflected in Sky 2nd Chapter https://www.reddit.com/r/Games/comments/1vre04l/trails_in_the_sky_1st_chapter_version_107_legacy/
 2026-08-18T04:53:25+00:00	Warren Spector announces likely retirement https://www.reddit.com/r/Games/comments/1vrffum/warren_spector_announces_likely_retirement/
-2026-08-18T08:22:02+00:00	Stormforge: Official Gameplay Trailer https://www.reddit.com/r/Games/comments/1vrj4zj/stormforge_official_gameplay_trailer/
 2026-08-18T12:48:08+00:00	Ananta Gameplay Demo Announced for Gamescom Opening Night Live https://www.reddit.com/r/Games/comments/1vro7t4/ananta_gameplay_demo_announced_for_gamescom/
 2026-08-18T13:19:43+00:00	Order of the Sinking Star | Release Date Announcement (October 8, 2026) https://www.reddit.com/r/Games/comments/1vroze1/order_of_the_sinking_star_release_date/
 2026-08-18T13:56:08+00:00	According to S-Game CEO, Phantom Blade Zero pre-order sales have far exceeded expectations https://www.reddit.com/r/Games/comments/1vrpwn1/according_to_sgame_ceo_phantom_blade_zero/
@@ -28,3 +26,5 @@
 2026-08-18T20:28:13+00:00	The Creators Of Big Walk Break Down The GOTY Contender’s Development, Puzzles, And Stunning Ending https://www.reddit.com/r/Games/comments/1vs10az/the_creators_of_big_walk_break_down_the_goty/
 2026-08-18T20:47:46+00:00	Alan Wake 2 update adds FSR 4 and FSR Frame Generation to PC https://www.reddit.com/r/Games/comments/1vs1jg5/alan_wake_2_update_adds_fsr_4_and_fsr_frame/
 2026-08-18T21:32:26+00:00	Updating the rules of /r/Games: Part II: Implementation Boogaloo https://www.reddit.com/r/Games/comments/1vs2pvu/updating_the_rules_of_rgames_part_ii/
+2026-08-18T21:42:32+00:00	Simcity 4 - Network Addon Mod version 50 released https://www.reddit.com/r/Games/comments/1vs2yy3/simcity_4_network_addon_mod_version_50_released/
+2026-08-18T21:50:53+00:00	The Binding of Isaac Repentance + Online Teaser https://www.reddit.com/r/Games/comments/1vs36oi/the_binding_of_isaac_repentance_online_teaser/
