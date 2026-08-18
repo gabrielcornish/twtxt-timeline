@@ -7,7 +7,6 @@
 2026-08-16T12:57:50+00:00	Old School RuneScape began when a dev 'found the 2007 server in their desk drawer:' 13 years later, it's setting subscriber records for the long-lived MMO https://www.reddit.com/r/Games/comments/1vpweg8/old_school_runescape_began_when_a_dev_found_the/
 2026-08-16T21:10:51+00:00	Cancelled "Star Wars: Magellan" Action-RPG Revealed With Gameplay Footage and Animations https://www.reddit.com/r/Games/comments/1vq8rrk/cancelled_star_wars_magellan_actionrpg_revealed/
 2026-08-17T03:03:45+00:00	Hayden Panettiere dies at 36 https://www.reddit.com/r/Games/comments/1vqgjyf/hayden_panettiere_dies_at_36/
-2026-08-17T04:23:31+00:00	Onimusha Curious Cases: Miyamoto Musashi https://www.reddit.com/r/Games/comments/1vqi58n/onimusha_curious_cases_miyamoto_musashi/
 2026-08-17T06:53:23+00:00	STONKS-9800 developer (Ternox Games) says Sony terminated their PlayStation agreement without explanation. Entire game catalog set to be delisted - AUTOMATON WEST https://www.reddit.com/r/Games/comments/1vqkuis/stonks9800_developer_ternox_games_says_sony/
 2026-08-17T12:27:13+00:00	Halloween: The Game Will Actually Be Available in New Zealand After All https://www.reddit.com/r/Games/comments/1vqqxej/halloween_the_game_will_actually_be_available_in/
 2026-08-17T12:31:51+00:00	AMA: We are Frogwares - the developers of The Sinking City 2. Ask Us Anything! https://www.reddit.com/r/Games/comments/1vqr167/ama_we_are_frogwares_the_developers_of_the/
@@ -28,3 +27,4 @@
 2026-08-17T22:03:29+00:00	Castlevania: Grimoire of Souls - Important Notice Regarding the End of Service https://www.reddit.com/r/Games/comments/1vr6d2y/castlevania_grimoire_of_souls_important_notice/
 2026-08-17T22:30:13+00:00	Star Citizen Developer Stream Goes Horribly Off the Rails, Creating Further Distrust Among Players https://www.reddit.com/r/Games/comments/1vr7177/star_citizen_developer_stream_goes_horribly_off/
 2026-08-18T01:44:24+00:00	Phantom Blade Zero – State of Play Gameplay Deep Dive https://www.reddit.com/r/Games/comments/1vrbj99/phantom_blade_zero_state_of_play_gameplay_deep/
+2026-08-18T02:24:16+00:00	Enter the Wulin: Gameplay & Story Deep Dive of Phantom Blade Zero https://www.reddit.com/r/Games/comments/1vrcek2/enter_the_wulin_gameplay_story_deep_dive_of/
