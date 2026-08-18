@@ -3,8 +3,6 @@
 # source = https://www.gamesindustry.biz/feed
 # description = twtxt conversion of https://www.gamesindustry.biz/feed
 
-2026-08-06T08:58:53+00:00	Devolver Digital intends to go private https://www.gamesindustry.biz/devolver-digital-intends-to-go-private
-2026-08-06T10:00:00+00:00	Kudos Games Services expands leadership team with Testronic and Team17 execs https://www.gamesindustry.biz/kudos-games-services-expands-leadership-team-with-testronic-and-team17-execs
 2026-08-06T11:01:00+00:00	UK Employment Rights Act 2025: Harassment law is getting tougher – and games companies need to be ready https://www.gamesindustry.biz/uk-employment-rights-act-2025-harassment-law-is-getting-tougher-and-games-companies-need-to-be-ready
 2026-08-06T13:17:27+00:00	Roblox shares fall 70% following lower-than-expected monetisation during Q2 https://www.gamesindustry.biz/roblox-shares-fall-70-following-lower-than-expected-monetisation-during-q2
 2026-08-07T08:02:24+00:00	Unity records "best quarter in history" following continued success of Vector AI https://www.gamesindustry.biz/unity-records-best-quarter-in-history-following-continued-success-of-vector-ai
@@ -53,3 +51,5 @@
 2026-08-17T17:43:23+00:00	The Hollywood disruptors making a large-scale game with a 12-person team – and no generative AI https://www.gamesindustry.biz/the-hollywood-disruptors-making-a-large-scale-game-with-a-12-person-team-and-no-generative-ai
 2026-08-18T07:00:00+00:00	GYLD raises $1m to fund proprietary games research system that marked Clair Obscur as a potential hit https://www.gamesindustry.biz/gyld-raises-1m-to-fund-proprietary-games-research-system-that-marked-clair-obscur-as-a-potential-hit
 2026-08-18T08:53:12+00:00	Save the Children announces its first game and streaming fundraising event called Save Point https://www.gamesindustry.biz/save-the-children-announces-its-first-game-and-streaming-fundraising-event-called-save-point
+2026-08-18T12:08:03+00:00	Deus Ex creator Warren Spector announces retirement – "it's time to ride off into the sunset" https://www.gamesindustry.biz/deus-ex-creator-warren-spector-announces-retirement-its-time-to-ride-off-into-the-sunset
+2026-08-18T13:00:00+00:00	Bain & Co: Research shows only one in five players seek out new titles https://www.gamesindustry.biz/bain-co-research-shows-only-one-in-five-players-seek-out-new-titles
