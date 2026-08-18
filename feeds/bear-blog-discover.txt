@@ -3,7 +3,7 @@
 # source = https://bearblog.dev/discover/feed/
 # description = twtxt conversion of https://bearblog.dev/discover/feed/
 
-2026-08-14T03:40:55.853529+00:00	Stop, It's Art! https://notes.jeddacp.com/stop-its-art/
+2026-08-14T03:40:00+00:00	Stop, It's Art! https://notes.jeddacp.com/stop-its-art/
 2026-08-14T18:37:00+00:00	Social Media is Mirroring Itself Out https://metanomad.blog/social-mirroring/
 2026-08-15T05:12:00+00:00	Things to do after your dad dies https://fornoone.bearblog.dev/things-to-do-after-your-dad-dies/
 2026-08-15T15:32:00+00:00	Everything Is Suffering https://householderkarl.com/everything-is-suffering/
