@@ -3,9 +3,7 @@
 # source = https://www.reddit.com/r/Games.rss
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
-2026-08-18T18:59:34+00:00	Alleged GTA 6 Gameplay Footage Leaks Online https://www.reddit.com/r/Games/comments/1vryj1m/alleged_gta_6_gameplay_footage_leaks_online/
 2026-08-18T21:32:26+00:00	Updating the rules of /r/Games: Part II: Implementation Boogaloo https://www.reddit.com/r/Games/comments/1vs2pvu/updating_the_rules_of_rgames_part_ii/
-2026-08-19T09:24:45+00:00	Nioh 3 - Hell Rising DLC Vol. 1 Launch Trailer https://www.reddit.com/r/Games/comments/1vshfff/nioh_3_hell_rising_dlc_vol_1_launch_trailer/
 2026-08-19T09:41:01+00:00	Bodycam: Official 'Road to Locked and Loaded' Dev Diary https://www.reddit.com/r/Games/comments/1vshpjk/bodycam_official_road_to_locked_and_loaded_dev/
 2026-08-19T09:49:58+00:00	"That's unacceptable": Red Dead Redemption dev says crunch at Rockstar was to "put on the show" for executives, not to fix bugs https://www.reddit.com/r/Games/comments/1vshv3t/thats_unacceptable_red_dead_redemption_dev_says/
 2026-08-19T11:00:50+00:00	Daily /r/Games Discussion - Suggest Me a Game - August 19, 2026 https://www.reddit.com/r/Games/comments/1vsj6g4/daily_rgames_discussion_suggest_me_a_game_august/
@@ -25,6 +23,8 @@
 2026-08-19T16:47:22+00:00	FPS Games Show announced for September 3rd https://www.reddit.com/r/Games/comments/1vsrwou/fps_games_show_announced_for_september_3rd/
 2026-08-19T17:28:56+00:00	Exclusive: Marvel’s Wolverine Game Director On X-Men Origins Inspirations, A Lengthier Development Time, And The Online Backlash https://www.reddit.com/r/Games/comments/1vst3fz/exclusive_marvels_wolverine_game_director_on_xmen/
 2026-08-19T18:13:37+00:00	Tides of Annihilation - The First Preview https://www.reddit.com/r/Games/comments/1vsudwl/tides_of_annihilation_the_first_preview/
-2026-08-19T18:32:02+00:00	NightRunner - Official Announcement Trailer https://www.reddit.com/r/Games/comments/1vsux0v/nightrunner_official_announcement_trailer/
 2026-08-19T18:33:57+00:00	Tides of Annihilation - 7 Minutes of Boss Fight Gameplay https://www.reddit.com/r/Games/comments/1vsuyw6/tides_of_annihilation_7_minutes_of_boss_fight/
 2026-08-19T19:13:48+00:00	Neverness To Everness Devs Forget To Remove Watermark For Free Trial Of AI Software https://www.reddit.com/r/Games/comments/1vsw364/neverness_to_everness_devs_forget_to_remove/
+2026-08-19T20:27:21+00:00	Onimusha: Way of the Sword - The Legend of the Onimusha https://www.reddit.com/r/Games/comments/1vsy407/onimusha_way_of_the_sword_the_legend_of_the/
+2026-08-19T20:32:12+00:00	Sengoku Rance - Official Trailer https://www.reddit.com/r/Games/comments/1vsy8nc/sengoku_rance_official_trailer/
+2026-08-19T20:51:52+00:00	‘You Don’t Get XP, But Zones Do’ — How Control Resonant Is Rewriting the Action RPG Rule Book https://www.reddit.com/r/Games/comments/1vsys06/you_dont_get_xp_but_zones_do_how_control_resonant/
