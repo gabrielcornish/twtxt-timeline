@@ -3,23 +3,23 @@
 # source = https://bearblog.dev/discover/feed/
 # description = twtxt conversion of https://bearblog.dev/discover/feed/
 
-2026-08-14T18:37:00+00:00	Social Media is Mirroring Itself Out https://metanomad.blog/social-mirroring/
-2026-08-15T05:12:00+00:00	Things to do after your dad dies https://fornoone.bearblog.dev/things-to-do-after-your-dad-dies/
 2026-08-15T15:32:00+00:00	Everything Is Suffering https://householderkarl.com/everything-is-suffering/
 2026-08-15T15:58:52.759767+00:00	i went to germany! https://blog.sulimans.space/i-went-to-germany/
 2026-08-15T17:33:00+00:00	Who is Art for? https://atta-thing.bearblog.dev/who-is-art-for/
-2026-08-15T21:51:22.402802+00:00	SOLD https://rickw.bearblog.dev/sold/
-2026-08-15T23:46:00+00:00	Dear Slop Cannon Engineer https://lance.bearblog.dev/dear-slop-cannon-engineer/
 2026-08-16T04:42:40.136902+00:00	social media causes brain fog https://curiously.bearblog.dev/social-media-causes-brain-fog/
 2026-08-16T05:20:55.743910+00:00	Sad but happy https://glonk.bearblog.dev/sad-but-happy/
 2026-08-16T15:11:00+00:00	💌 Newsletter #014 - Many, Many Leaks; Being "Opted In;" and Cursed "Podcasts" for your Children https://technically-good.ca/newsletter/014-2026-08-16/
 2026-08-16T15:45:00+00:00	What should you blog about? https://robertbirming.com/what-blog-about/
 2026-08-16T17:06:00+00:00	E Pluribus Odium https://householderkarl.com/e-pluribus-odium/
-2026-08-16T17:59:48.711711+00:00	Making an RPG Maker game https://kami.bearblog.dev/making-an-rpg-maker-game/
 2026-08-16T20:00:00+00:00	Money Worship https://nisa.la/money-worship/
+2026-08-17T01:01:00+00:00	The elephaint in the room. https://itsme.bearblog.dev/the-elephaint-in-the-room/
 2026-08-17T07:25:00+00:00	I Am Not in the USA https://kennyqin.com/i-am-not-in-the-usa/
 2026-08-17T12:25:00+00:00	shop milking their customers for social media content https://blog.avas.space/shop-social-media/
 2026-08-17T13:17:00+00:00	The Elephant In The Room https://chakkie.bearblog.dev/the-elephant/
 2026-08-17T15:27:00+00:00	re:Things to do after your dad dies https://blog.absurdpirate.com/rethings-to-do-after-your-dad-dies/
 2026-08-18T08:29:00+00:00	thinking about friendships https://blog.avas.space/friendships/
 2026-08-18T13:43:00+00:00	The Transparency Report Was an AirTag https://thecynicalnerd.bearblog.dev/the-transparency-report-was-an-airtag/
+2026-08-18T21:26:00+00:00	The Emptiness of Self Help https://permanentreset.bearblog.dev/the-emptiness-of-self-help/
+2026-08-18T22:41:21.369957+00:00	Quiet Influence https://freyncis.bearblog.dev/quiet-influence/
+2026-08-18T23:35:00+00:00	Corporate Work is a Humiliation Ritual https://householderkarl.com/corporate-work-humiliation/
+2026-08-19T00:48:19.752035+00:00	Bear-blinded https://itsme.bearblog.dev/bear-blinded/
