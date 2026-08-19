@@ -4,9 +4,7 @@
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
 2026-08-18T18:59:34+00:00	Alleged GTA 6 Gameplay Footage Leaks Online https://www.reddit.com/r/Games/comments/1vryj1m/alleged_gta_6_gameplay_footage_leaks_online/
-2026-08-18T20:47:46+00:00	Alan Wake 2 update adds FSR 4 and FSR Frame Generation to PC https://www.reddit.com/r/Games/comments/1vs1jg5/alan_wake_2_update_adds_fsr_4_and_fsr_frame/
 2026-08-18T21:32:26+00:00	Updating the rules of /r/Games: Part II: Implementation Boogaloo https://www.reddit.com/r/Games/comments/1vs2pvu/updating_the_rules_of_rgames_part_ii/
-2026-08-18T22:57:15+00:00	Grand Theft Auto 6 leaker says they won't stop until Rockstar and Take-Two apologize for 'anti-consumerism' and make a 'concrete commitment to do better' https://www.reddit.com/r/Games/comments/1vs4txt/grand_theft_auto_6_leaker_says_they_wont_stop/
 2026-08-19T09:24:45+00:00	Nioh 3 - Hell Rising DLC Vol. 1 Launch Trailer https://www.reddit.com/r/Games/comments/1vshfff/nioh_3_hell_rising_dlc_vol_1_launch_trailer/
 2026-08-19T09:41:01+00:00	Bodycam: Official 'Road to Locked and Loaded' Dev Diary https://www.reddit.com/r/Games/comments/1vshpjk/bodycam_official_road_to_locked_and_loaded_dev/
 2026-08-19T09:49:58+00:00	"That's unacceptable": Red Dead Redemption dev says crunch at Rockstar was to "put on the show" for executives, not to fix bugs https://www.reddit.com/r/Games/comments/1vshv3t/thats_unacceptable_red_dead_redemption_dev_says/
@@ -28,3 +26,5 @@
 2026-08-19T16:47:22+00:00	FPS Games Show announced for September 3rd https://www.reddit.com/r/Games/comments/1vsrwou/fps_games_show_announced_for_september_3rd/
 2026-08-19T17:28:56+00:00	Exclusive: Marvel’s Wolverine Game Director On X-Men Origins Inspirations, A Lengthier Development Time, And The Online Backlash https://www.reddit.com/r/Games/comments/1vst3fz/exclusive_marvels_wolverine_game_director_on_xmen/
 2026-08-19T18:13:37+00:00	Tides of Annihilation - The First Preview https://www.reddit.com/r/Games/comments/1vsudwl/tides_of_annihilation_the_first_preview/
+2026-08-19T18:32:02+00:00	NightRunner - Official Announcement Trailer https://www.reddit.com/r/Games/comments/1vsux0v/nightrunner_official_announcement_trailer/
+2026-08-19T19:13:48+00:00	Neverness To Everness Devs Forget To Remove Watermark For Free Trial Of AI Software https://www.reddit.com/r/Games/comments/1vsw364/neverness_to_everness_devs_forget_to_remove/
