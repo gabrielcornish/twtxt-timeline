@@ -3,7 +3,6 @@
 # source = https://bearblog.dev/discover/feed/
 # description = twtxt conversion of https://bearblog.dev/discover/feed/
 
-2026-08-15T15:32:00+00:00	Everything Is Suffering https://householderkarl.com/everything-is-suffering/
 2026-08-15T15:58:52.759767+00:00	i went to germany! https://blog.sulimans.space/i-went-to-germany/
 2026-08-15T17:33:00+00:00	Who is Art for? https://atta-thing.bearblog.dev/who-is-art-for/
 2026-08-16T04:42:40.136902+00:00	social media causes brain fog https://curiously.bearblog.dev/social-media-causes-brain-fog/
@@ -21,5 +20,6 @@
 2026-08-18T13:43:00+00:00	The Transparency Report Was an AirTag https://thecynicalnerd.bearblog.dev/the-transparency-report-was-an-airtag/
 2026-08-18T21:26:00+00:00	The Emptiness of Self Help https://permanentreset.bearblog.dev/the-emptiness-of-self-help/
 2026-08-18T22:41:21.369957+00:00	Quiet Influence https://freyncis.bearblog.dev/quiet-influence/
+2026-08-18T23:30:46.283675+00:00	crickets https://tallywinkle.bearblog.dev/crickets/
 2026-08-18T23:35:00+00:00	Corporate Work is a Humiliation Ritual https://householderkarl.com/corporate-work-humiliation/
 2026-08-19T00:48:19.752035+00:00	Bear-blinded https://itsme.bearblog.dev/bear-blinded/
