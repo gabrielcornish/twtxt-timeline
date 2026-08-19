@@ -3,11 +3,7 @@
 # source = https://www.reddit.com/r/Games.rss
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
-2026-08-17T20:14:25+00:00	Memory prices climb 500% in 12 months, up to 10x the lowest ever tracked prices — 128GB of DDR5 now $3,399 (lowest-ever price was $329) https://www.reddit.com/r/Games/comments/1vr3hic/memory_prices_climb_500_in_12_months_up_to_10x/
 2026-08-17T22:30:13+00:00	Star Citizen Developer Stream Goes Horribly Off the Rails, Creating Further Distrust Among Players https://www.reddit.com/r/Games/comments/1vr7177/star_citizen_developer_stream_goes_horribly_off/
-2026-08-18T04:53:25+00:00	Warren Spector announces likely retirement https://www.reddit.com/r/Games/comments/1vrffum/warren_spector_announces_likely_retirement/
-2026-08-18T12:48:08+00:00	Ananta Gameplay Demo Announced for Gamescom Opening Night Live https://www.reddit.com/r/Games/comments/1vro7t4/ananta_gameplay_demo_announced_for_gamescom/
-2026-08-18T13:56:08+00:00	According to S-Game CEO, Phantom Blade Zero pre-order sales have far exceeded expectations https://www.reddit.com/r/Games/comments/1vrpwn1/according_to_sgame_ceo_phantom_blade_zero/
 2026-08-18T14:01:02+00:00	The Sinking City 2 – Launch Trailer https://www.reddit.com/r/Games/comments/1vrq1ap/the_sinking_city_2_launch_trailer/
 2026-08-18T14:30:59+00:00	Polish actor Jan Frycz (voice of Regis in Witcher 3 Blood and Wine) has passed away at the age of 72 https://www.reddit.com/r/Games/comments/1vrquk2/polish_actor_jan_frycz_voice_of_regis_in_witcher/
 2026-08-18T14:53:14+00:00	Orbitals Opening Theme | ~ Accelerating Destiny ~ (加速する運命) - Official Music Video https://www.reddit.com/r/Games/comments/1vrrfz7/orbitals_opening_theme_accelerating_destiny/
@@ -23,8 +19,12 @@
 2026-08-18T21:32:26+00:00	Updating the rules of /r/Games: Part II: Implementation Boogaloo https://www.reddit.com/r/Games/comments/1vs2pvu/updating_the_rules_of_rgames_part_ii/
 2026-08-18T21:42:32+00:00	Simcity 4 - Network Addon Mod version 50 released https://www.reddit.com/r/Games/comments/1vs2yy3/simcity_4_network_addon_mod_version_50_released/
 2026-08-18T21:50:53+00:00	The Binding of Isaac Repentance + Online Teaser https://www.reddit.com/r/Games/comments/1vs36oi/the_binding_of_isaac_repentance_online_teaser/
+2026-08-18T22:57:15+00:00	Grand Theft Auto 6 leaker says they won't stop until Rockstar and Take-Two apologize for 'anti-consumerism' and make a 'concrete commitment to do better' https://www.reddit.com/r/Games/comments/1vs4txt/grand_theft_auto_6_leaker_says_they_wont_stop/
 2026-08-19T03:13:32+00:00	Ninja Baseball League-Man: Bases Loaded Announcement Trailer https://www.reddit.com/r/Games/comments/1vsamn4/ninja_baseball_leagueman_bases_loaded/
 2026-08-19T09:24:45+00:00	Nioh 3 - Hell Rising DLC Vol. 1 Launch Trailer https://www.reddit.com/r/Games/comments/1vshfff/nioh_3_hell_rising_dlc_vol_1_launch_trailer/
 2026-08-19T09:41:01+00:00	Bodycam: Official 'Road to Locked and Loaded' Dev Diary https://www.reddit.com/r/Games/comments/1vshpjk/bodycam_official_road_to_locked_and_loaded_dev/
 2026-08-19T09:49:58+00:00	"That's unacceptable": Red Dead Redemption dev says crunch at Rockstar was to "put on the show" for executives, not to fix bugs https://www.reddit.com/r/Games/comments/1vshv3t/thats_unacceptable_red_dead_redemption_dev_says/
 2026-08-19T11:00:50+00:00	Daily /r/Games Discussion - Suggest Me a Game - August 19, 2026 https://www.reddit.com/r/Games/comments/1vsj6g4/daily_rgames_discussion_suggest_me_a_game_august/
+2026-08-19T11:39:59+00:00	Metal Gear Solid two-player Coop Mod Trailer(Pré-Alpha) https://www.reddit.com/r/Games/comments/1vsjyoq/metal_gear_solid_twoplayer_coop_mod/
+2026-08-19T12:27:45+00:00	PlayStation Reboots ‘Horizon Hunters Gathering’ as Live-Service Strategy Struggles https://www.reddit.com/r/Games/comments/1vsl0pv/playstation_reboots_horizon_hunters_gathering_as/
+2026-08-19T12:57:57+00:00	Clive Barker’s Hellraiser: Revival - Pre-Order Trailer https://www.reddit.com/r/Games/comments/1vslpat/clive_barkers_hellraiser_revival_preorder_trailer/
