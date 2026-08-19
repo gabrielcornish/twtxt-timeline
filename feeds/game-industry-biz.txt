@@ -3,7 +3,6 @@
 # source = https://www.gamesindustry.biz/feed
 # description = twtxt conversion of https://www.gamesindustry.biz/feed
 
-2026-08-07T13:40:25+00:00	Former Icelandic minister joins Fenris Creations to lead new AI partnerships https://www.gamesindustry.biz/former-icelandic-minister-joins-fenris-creations-to-lead-new-ai-partnerships
 2026-08-07T14:06:32+00:00	Analyst: AI-focused M&A deals are "weakening" the games investment landscape https://www.gamesindustry.biz/analyst-ai-focused-ma-deals-are-weakening-the-games-investment-landscape
 2026-08-07T14:53:37+00:00	Investors hate Roblox’ new direction – but a reversal may be impossible | Opinion https://www.gamesindustry.biz/investors-hate-roblox-new-direction-but-a-reversal-may-be-impossible-opinion
 2026-08-07T16:26:16+00:00	Strauss Zelnick: Netflix debut is merely "one of the hors d'oeuvres" for full GTA 6 launch; pre-order numbers are "unprecedented and astonishing" https://www.gamesindustry.biz/strauss-zelnick-netflix-debut-is-merely-one-of-the-hors-doeuvres-for-full-gta-6-launch-pre-order-numbers-are-unprecedented-and-astonishing
@@ -53,3 +52,4 @@
 2026-08-19T07:50:27+00:00	Konami's Castlevania: Grimoire of Souls to be taken offline next month https://www.gamesindustry.biz/konamis-castlevania-grimoire-of-souls-to-be-taken-offline-next-month
 2026-08-19T10:00:00+00:00	Human: Fall Flat veterans launch new UK studio Pretty Cool Games with funding from Arknights developer Hypergraph https://www.gamesindustry.biz/human-fall-flat-veterans-launch-new-uk-studio-pretty-cool-games-with-funding-from-arknights-developer-hypergraph
 2026-08-19T13:00:00+00:00	"We chose the worst time in history" – Harvey Smith on starting his own studio after Arkane https://www.gamesindustry.biz/we-chose-the-worst-time-in-history-harvey-smith-on-starting-his-own-studio-after-arkane
+2026-08-19T13:55:38+00:00	Report: Live-service removed from Horizon Hunters Gathering following negative player feedback https://www.gamesindustry.biz/report-live-service-removed-from-horizon-hunters-gathering-following-negative-player-feedback
