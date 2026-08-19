@@ -3,7 +3,6 @@
 # source = https://www.gamesindustry.biz/feed
 # description = twtxt conversion of https://www.gamesindustry.biz/feed
 
-2026-08-07T08:02:24+00:00	Unity records "best quarter in history" following continued success of Vector AI https://www.gamesindustry.biz/unity-records-best-quarter-in-history-following-continued-success-of-vector-ai
 2026-08-07T10:04:32+00:00	Tripledot Studios acquires Supersonic from Unity for $40m https://www.gamesindustry.biz/tripledot-studios-acquires-supersonic-from-unity-for-40m
 2026-08-07T11:07:42+00:00	Charity bundle hosted by Necrosoft Games nears $200,000 goal to support workers affected by layoffs https://www.gamesindustry.biz/charity-bundle-hosted-by-necrosoft-games-nears-200000-goal-to-support-workers-affected-by-layoffs
 2026-08-07T13:01:40+00:00	Take-Two Q1 results include net bookings ahead of guidance, a slight increase in revenue, and cancellation of unannounced "new core IP" game https://www.gamesindustry.biz/take-two-q1-results-include-net-bookings-ahead-of-guidance-a-slight-increase-in-revenue-and-cancellation-of-unannounced-game
@@ -53,3 +52,4 @@
 2026-08-18T13:00:00+00:00	Bain & Co: Research shows only one in five players seek out new titles https://www.gamesindustry.biz/bain-co-research-shows-only-one-in-five-players-seek-out-new-titles
 2026-08-18T13:32:01+00:00	Three Epic veterans are building an AI-powered game engine to break the industry's doom cycle https://www.gamesindustry.biz/three-epic-veterans-are-building-an-ai-powered-game-engine-to-break-the-industrys-doom-cycle
 2026-08-18T14:15:40+00:00	Gamescom 2026 sets new record as number of country pavilions increases by 25% https://www.gamesindustry.biz/gamescom-2026-sets-new-record-as-number-of-country-pavilions-increases-by-25
+2026-08-19T06:49:31+00:00	VS Studio adds another Tekken veteran as Kohei Ikeda joins as game designer https://www.gamesindustry.biz/vs-studio-adds-another-tekken-veteran-as-kohei-ikeda-joins-as-game-designer
