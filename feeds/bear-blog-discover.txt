@@ -3,11 +3,13 @@
 # source = https://bearblog.dev/discover/feed/
 # description = twtxt conversion of https://bearblog.dev/discover/feed/
 
+2026-08-15T15:58:52.759767+00:00	i went to germany! https://blog.sulimans.space/i-went-to-germany/
 2026-08-16T04:42:40.136902+00:00	social media causes brain fog https://curiously.bearblog.dev/social-media-causes-brain-fog/
 2026-08-16T05:20:55.743910+00:00	Sad but happy https://glonk.bearblog.dev/sad-but-happy/
 2026-08-16T15:11:00+00:00	💌 Newsletter #014 - Many, Many Leaks; Being "Opted In;" and Cursed "Podcasts" for your Children https://technically-good.ca/newsletter/014-2026-08-16/
 2026-08-16T15:45:00+00:00	What should you blog about? https://robertbirming.com/what-blog-about/
 2026-08-16T17:06:00+00:00	E Pluribus Odium https://householderkarl.com/e-pluribus-odium/
+2026-08-16T20:00:00+00:00	Money Worship https://nisa.la/money-worship/
 2026-08-17T01:01:00+00:00	The elephaint in the room. https://itsme.bearblog.dev/the-elephaint-in-the-room/
 2026-08-17T07:25:00+00:00	I Am Not in the USA https://kennyqin.com/i-am-not-in-the-usa/
 2026-08-17T12:25:00+00:00	shop milking their customers for social media content https://blog.avas.space/shop-social-media/
@@ -21,5 +23,3 @@
 2026-08-18T22:41:21.369957+00:00	Quiet Influence https://freyncis.bearblog.dev/quiet-influence/
 2026-08-18T23:30:46.283675+00:00	crickets https://tallywinkle.bearblog.dev/crickets/
 2026-08-18T23:35:00+00:00	Corporate Work is a Humiliation Ritual https://householderkarl.com/corporate-work-humiliation/
-2026-08-19T00:48:19.752035+00:00	Bear-blinded https://itsme.bearblog.dev/bear-blinded/
-2026-08-19T03:31:01.257640+00:00	Re: "Die Mad About AI" by Kristin McTiernan https://trialandfailure.net/re-die-mad-about-ai-by-kristin-mctiernan/
