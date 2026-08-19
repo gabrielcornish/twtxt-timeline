@@ -6,7 +6,6 @@
 2026-08-16T09:00:42+00:00	Weekly /r/Games Discussion - What have you been playing, and what are your thoughts? - August 16, 2026 https://www.reddit.com/r/Games/comments/1vps46t/weekly_rgames_discussion_what_have_you_been/
 2026-08-17T20:14:25+00:00	Memory prices climb 500% in 12 months, up to 10x the lowest ever tracked prices — 128GB of DDR5 now $3,399 (lowest-ever price was $329) https://www.reddit.com/r/Games/comments/1vr3hic/memory_prices_climb_500_in_12_months_up_to_10x/
 2026-08-17T22:30:13+00:00	Star Citizen Developer Stream Goes Horribly Off the Rails, Creating Further Distrust Among Players https://www.reddit.com/r/Games/comments/1vr7177/star_citizen_developer_stream_goes_horribly_off/
-2026-08-18T03:39:36+00:00	Trails in the Sky 1st Chapter Version 1.07 Legacy Patch is now available | Updates terminology and voice lines to be more consistent with existing series terminology/pronunciations; changes will be reflected in Sky 2nd Chapter https://www.reddit.com/r/Games/comments/1vre04l/trails_in_the_sky_1st_chapter_version_107_legacy/
 2026-08-18T04:53:25+00:00	Warren Spector announces likely retirement https://www.reddit.com/r/Games/comments/1vrffum/warren_spector_announces_likely_retirement/
 2026-08-18T12:48:08+00:00	Ananta Gameplay Demo Announced for Gamescom Opening Night Live https://www.reddit.com/r/Games/comments/1vro7t4/ananta_gameplay_demo_announced_for_gamescom/
 2026-08-18T13:56:08+00:00	According to S-Game CEO, Phantom Blade Zero pre-order sales have far exceeded expectations https://www.reddit.com/r/Games/comments/1vrpwn1/according_to_sgame_ceo_phantom_blade_zero/
@@ -14,7 +13,6 @@
 2026-08-18T14:30:59+00:00	Polish actor Jan Frycz (voice of Regis in Witcher 3 Blood and Wine) has passed away at the age of 72 https://www.reddit.com/r/Games/comments/1vrquk2/polish_actor_jan_frycz_voice_of_regis_in_witcher/
 2026-08-18T14:53:14+00:00	Orbitals Opening Theme | ~ Accelerating Destiny ~ (加速する運命) - Official Music Video https://www.reddit.com/r/Games/comments/1vrrfz7/orbitals_opening_theme_accelerating_destiny/
 2026-08-18T15:02:30+00:00	CONTROL Resonant has gone gold! https://www.reddit.com/r/Games/comments/1vrrp9q/control_resonant_has_gone_gold/
-2026-08-18T15:03:10+00:00	Little old one and the witch | Trailer https://www.reddit.com/r/Games/comments/1vrrq0o/little_old_one_and_the_witch_trailer/
 2026-08-18T15:41:10+00:00	Subnautica 2 | Update Vlog: Early Access 1.2 - Buddy System https://www.reddit.com/r/Games/comments/1vrsqjq/subnautica_2_update_vlog_early_access_12_buddy/
 2026-08-18T15:46:39+00:00	[GOG] Remakes are cancelled; classics are reborn. https://www.reddit.com/r/Games/comments/1vrsvri/gog_remakes_are_cancelled_classics_are_reborn/
 2026-08-18T15:51:16+00:00	[HELLDIVERS 2] Deep Dive: The Heart of the Void https://www.reddit.com/r/Games/comments/1vrt0bg/helldivers_2_deep_dive_the_heart_of_the_void/
@@ -28,3 +26,5 @@
 2026-08-18T21:42:32+00:00	Simcity 4 - Network Addon Mod version 50 released https://www.reddit.com/r/Games/comments/1vs2yy3/simcity_4_network_addon_mod_version_50_released/
 2026-08-18T21:50:53+00:00	The Binding of Isaac Repentance + Online Teaser https://www.reddit.com/r/Games/comments/1vs36oi/the_binding_of_isaac_repentance_online_teaser/
 2026-08-19T03:13:32+00:00	Ninja Baseball League-Man: Bases Loaded Announcement Trailer https://www.reddit.com/r/Games/comments/1vsamn4/ninja_baseball_leagueman_bases_loaded/
+2026-08-19T09:24:45+00:00	Nioh 3 - Hell Rising DLC Vol. 1 Launch Trailer https://www.reddit.com/r/Games/comments/1vshfff/nioh_3_hell_rising_dlc_vol_1_launch_trailer/
+2026-08-19T09:41:01+00:00	Bodycam: Official 'Road to Locked and Loaded' Dev Diary https://www.reddit.com/r/Games/comments/1vshpjk/bodycam_official_road_to_locked_and_loaded_dev/
