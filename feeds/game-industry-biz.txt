@@ -3,7 +3,6 @@
 # source = https://www.gamesindustry.biz/feed
 # description = twtxt conversion of https://www.gamesindustry.biz/feed
 
-2026-08-07T14:06:32+00:00	Analyst: AI-focused M&A deals are "weakening" the games investment landscape https://www.gamesindustry.biz/analyst-ai-focused-ma-deals-are-weakening-the-games-investment-landscape
 2026-08-07T14:53:37+00:00	Investors hate Roblox’ new direction – but a reversal may be impossible | Opinion https://www.gamesindustry.biz/investors-hate-roblox-new-direction-but-a-reversal-may-be-impossible-opinion
 2026-08-07T16:26:16+00:00	Strauss Zelnick: Netflix debut is merely "one of the hors d'oeuvres" for full GTA 6 launch; pre-order numbers are "unprecedented and astonishing" https://www.gamesindustry.biz/strauss-zelnick-netflix-debut-is-merely-one-of-the-hors-doeuvres-for-full-gta-6-launch-pre-order-numbers-are-unprecedented-and-astonishing
 2026-08-10T07:50:16+00:00	Sega reports 17.3% rise in Q3 net sales; games segment exceeds expectations https://www.gamesindustry.biz/sega-reports-173-rise-in-q3-net-sales-games-segment-exceeds-expectations
@@ -53,3 +52,4 @@
 2026-08-19T10:00:00+00:00	Human: Fall Flat veterans launch new UK studio Pretty Cool Games with funding from Arknights developer Hypergraph https://www.gamesindustry.biz/human-fall-flat-veterans-launch-new-uk-studio-pretty-cool-games-with-funding-from-arknights-developer-hypergraph
 2026-08-19T13:00:00+00:00	"We chose the worst time in history" – Harvey Smith on starting his own studio after Arkane https://www.gamesindustry.biz/we-chose-the-worst-time-in-history-harvey-smith-on-starting-his-own-studio-after-arkane
 2026-08-19T13:55:38+00:00	Report: Live-service removed from Horizon Hunters Gathering following negative player feedback https://www.gamesindustry.biz/report-live-service-removed-from-horizon-hunters-gathering-following-negative-player-feedback
+2026-08-19T14:57:11+00:00	"As more people play games, even the tiniest niches find a bigger audience" – Why Matt Webster is convinced people want Star Wars: Galactic Racer https://www.gamesindustry.biz/as-more-people-play-games-even-the-tiniest-niches-find-a-bigger-audience-why-matt-webster-is-convinced-people-want-star-wars-galactic-racer
