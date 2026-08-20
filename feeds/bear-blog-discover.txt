@@ -3,23 +3,23 @@
 # source = https://bearblog.dev/discover/feed/
 # description = twtxt conversion of https://bearblog.dev/discover/feed/
 
-2026-08-16T15:11:00+00:00	💌 Newsletter #014 - Many, Many Leaks; Being "Opted In;" and Cursed "Podcasts" for your Children https://technically-good.ca/newsletter/014-2026-08-16/
-2026-08-16T16:33:52.750739+00:00	male living spaces https://tiramisu.bearblog.dev/male-living-spaces/
-2026-08-16T17:06:00+00:00	E Pluribus Odium https://householderkarl.com/e-pluribus-odium/
-2026-08-16T17:59:48.711711+00:00	Making an RPG Maker game https://kami.bearblog.dev/making-an-rpg-maker-game/
 2026-08-17T12:25:00+00:00	shop milking their customers for social media content https://blog.avas.space/shop-social-media/
-2026-08-17T13:17:00+00:00	The Elephant In The Room https://chakkie.bearblog.dev/the-elephant/
 2026-08-17T15:27:00+00:00	re:Things to do after your dad dies https://blog.absurdpirate.com/rethings-to-do-after-your-dad-dies/
+2026-08-17T16:25:06.889661+00:00	GitHub Has an Availability Problem. Is It Time to Look Elsewhere? https://dhruv2038.bearblog.dev/github-has-an-availability-problem-is-it-time-to-look-elsewhere/
 2026-08-17T19:47:00+00:00	When the Bees Go, We're All Buggered https://catsandbirdsandstuff.com/when-the-bees-go-were-all-buggered/
 2026-08-18T08:29:00+00:00	thinking about friendships https://blog.avas.space/friendships/
 2026-08-18T13:43:00+00:00	The Transparency Report Was an AirTag https://thecynicalnerd.bearblog.dev/the-transparency-report-was-an-airtag/
 2026-08-18T14:03:00+00:00	The Bee&B https://catsandbirdsandstuff.com/the-beeb/
+2026-08-18T21:26:00+00:00	The Emptiness of Self Help https://permanentreset.bearblog.dev/the-emptiness-of-self-help/
 2026-08-18T22:41:21.369957+00:00	Quiet Influence https://freyncis.bearblog.dev/quiet-influence/
 2026-08-18T23:30:46.283675+00:00	crickets https://tallywinkle.bearblog.dev/crickets/
-2026-08-18T23:35:00+00:00	Corporate Work is a Humiliation Ritual https://householderkarl.com/corporate-work-humiliation/
 2026-08-19T01:05:24.411536+00:00	Fitness Boot Camp at 54 https://reedwrite.org/fitness-boot-camp-at-54/
 2026-08-19T02:59:00+00:00	august 18 hmm https://combatdavey.net/august-18-2026/
 2026-08-19T03:31:01.257640+00:00	Re: "Die Mad About AI" by Kristin McTiernan https://trialandfailure.net/re-die-mad-about-ai-by-kristin-mctiernan/
 2026-08-19T04:05:00+00:00	i did not know i was allowed to miss myself https://beingalmost.com/i-did-not-know-i-was-allowed-to-miss-myself/
 2026-08-19T05:52:25.237705+00:00	How My Brother and I Nearly Killed Each Other (Twice) https://catsandbirdsandstuff.com/how-my-brother-and-i-nearly-killed-each-other-twice/
 2026-08-19T16:44:00+00:00	Showing Post Titles in Previous and Next Links https://notes.jeddacp.com/showing-post-titles-in-previous-and-next-links/
+2026-08-19T18:48:12.327054+00:00	I Spent Twenty Years Becoming Good at the Wrong Game https://savvynormie.com/i-spent-twenty-years-becoming-good-at-the-wrong-game/
+2026-08-19T22:00:00+00:00	My Japanese Comfort Shows https://householderkarl.com/my-japanese-comfort-shows/
+2026-08-20T00:00:00+00:00	二〇二六，北京 https://kusai.bearblog.dev/2026-08-20/
+2026-08-20T03:31:00+00:00	I drew my first comic :) https://leeyuhsolve.bearblog.dev/i-drew-my-first-comic/
