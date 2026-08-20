@@ -5,7 +5,6 @@
 
 2026-08-18T21:32:26+00:00	Updating the rules of /r/Games: Part II: Implementation Boogaloo https://www.reddit.com/r/Games/comments/1vs2pvu/updating_the_rules_of_rgames_part_ii/
 2026-08-19T11:00:50+00:00	Daily /r/Games Discussion - Suggest Me a Game - August 19, 2026 https://www.reddit.com/r/Games/comments/1vsj6g4/daily_rgames_discussion_suggest_me_a_game_august/
-2026-08-19T19:13:48+00:00	Neverness To Everness Devs Forget To Remove Watermark For Free Trial Of AI Software https://www.reddit.com/r/Games/comments/1vsw364/neverness_to_everness_devs_forget_to_remove/
 2026-08-20T05:53:42+00:00	'Who’s Deciding The Fate Of This Game?' The Secretive Process Of Getting A Game With Sexual Content On Steam https://www.reddit.com/r/Games/comments/1vtax6z/whos_deciding_the_fate_of_this_game_the_secretive/
 2026-08-20T10:38:52+00:00	GTA 6 Leaker ‘Proves’ They Have Build Access https://www.reddit.com/r/Games/comments/1vtfun3/gta_6_leaker_proves_they_have_build_access/
 2026-08-20T10:55:24+00:00	SNK Entertainment dissolved after 10 years. Most of its businesses transferred to parent company SNK https://www.reddit.com/r/Games/comments/1vtg675/snk_entertainment_dissolved_after_10_years_most/
@@ -28,3 +27,4 @@
 2026-08-20T19:21:57+00:00	The Elder Scrolls V: Skyrim - Update 1.7.99 https://www.reddit.com/r/Games/comments/1vtt8jg/the_elder_scrolls_v_skyrim_update_1799/
 2026-08-20T19:46:01+00:00	Xbox Is No Longer Sharing Digital Sales Data With Circana https://www.reddit.com/r/Games/comments/1vttwil/xbox_is_no_longer_sharing_digital_sales_data_with/
 2026-08-20T20:07:28+00:00	Physical Video Game Software Dollar Sales Plunged to an All-Time July Low of Just $85 Million in the US — the Worst Total Since Tracking Began in 1995 https://www.reddit.com/r/Games/comments/1vtuhqi/physical_video_game_software_dollar_sales_plunged/
+2026-08-20T20:50:47+00:00	Resonance: A Plague Tale Legacy Leaks And Is Being Pirated On PC 7 Days Before Release https://www.reddit.com/r/Games/comments/1vtvnxi/resonance_a_plague_tale_legacy_leaks_and_is_being/
