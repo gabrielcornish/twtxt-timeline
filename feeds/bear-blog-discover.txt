@@ -3,8 +3,6 @@
 # source = https://bearblog.dev/discover/feed/
 # description = twtxt conversion of https://bearblog.dev/discover/feed/
 
-2026-08-17T19:47:00+00:00	When the Bees Go, We're All Buggered https://catsandbirdsandstuff.com/when-the-bees-go-were-all-buggered/
-2026-08-18T08:29:00+00:00	thinking about friendships https://blog.avas.space/friendships/
 2026-08-18T13:43:00+00:00	The Transparency Report Was an AirTag https://thecynicalnerd.bearblog.dev/the-transparency-report-was-an-airtag/
 2026-08-18T14:03:00+00:00	The Bee&B https://catsandbirdsandstuff.com/the-beeb/
 2026-08-18T22:41:21.369957+00:00	Quiet Influence https://freyncis.bearblog.dev/quiet-influence/
@@ -23,3 +21,5 @@
 2026-08-20T03:31:00+00:00	I drew my first comic :) https://leeyuhsolve.bearblog.dev/i-drew-my-first-comic/
 2026-08-20T06:43:00+00:00	All the things I didn't say yesterday https://forsomeone.bearblog.dev/all-the-things-i-didnt-say-yesterday/
 2026-08-20T12:02:00+00:00	I Made a Font! https://crescendo.bearblog.dev/i-made-a-font/
+2026-08-20T16:29:29.976865+00:00	Fruitcake (self-titled) https://morningmusic.bearblog.dev/fruitcake-self-titled/
+2026-08-20T17:12:16.994617+00:00	my phone died and it sucks https://monocyte.blog/my-phone-died-and-it-sucks/
