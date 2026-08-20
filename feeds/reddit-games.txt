@@ -4,7 +4,6 @@
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
 2026-08-18T21:32:26+00:00	Updating the rules of /r/Games: Part II: Implementation Boogaloo https://www.reddit.com/r/Games/comments/1vs2pvu/updating_the_rules_of_rgames_part_ii/
-2026-08-19T09:41:01+00:00	Bodycam: Official 'Road to Locked and Loaded' Dev Diary https://www.reddit.com/r/Games/comments/1vshpjk/bodycam_official_road_to_locked_and_loaded_dev/
 2026-08-19T09:49:58+00:00	"That's unacceptable": Red Dead Redemption dev says crunch at Rockstar was to "put on the show" for executives, not to fix bugs https://www.reddit.com/r/Games/comments/1vshv3t/thats_unacceptable_red_dead_redemption_dev_says/
 2026-08-19T11:00:50+00:00	Daily /r/Games Discussion - Suggest Me a Game - August 19, 2026 https://www.reddit.com/r/Games/comments/1vsj6g4/daily_rgames_discussion_suggest_me_a_game_august/
 2026-08-19T11:39:59+00:00	Metal Gear Solid two-player Coop Mod Trailer(Pré-Alpha) https://www.reddit.com/r/Games/comments/1vsjyoq/metal_gear_solid_twoplayer_coop_mod/
@@ -13,7 +12,6 @@
 2026-08-19T14:01:40+00:00	PlayStation's Live-Service Initiative Could Not Have Gone Worse https://www.reddit.com/r/Games/comments/1vsnb6u/playstations_liveservice_initiative_could_not/
 2026-08-19T15:25:31+00:00	Ukrainian Games Festival 2026 https://www.reddit.com/r/Games/comments/1vsplhk/ukrainian_games_festival_2026/
 2026-08-19T15:30:51+00:00	Car Park Capital - Early Access Release Date Trailer (October 9th) https://www.reddit.com/r/Games/comments/1vspqsl/car_park_capital_early_access_release_date/
-2026-08-19T15:34:32+00:00	SiN: Reloaded releasing September 24 on PC, Playstation, Xbox, and Nintendo Switch. https://www.reddit.com/r/Games/comments/1vspuco/sin_reloaded_releasing_september_24_on_pc/
 2026-08-19T16:20:22+00:00	Jackbox Games Sets ‘Party Pack 12,’ ‘Trivia Murder Party 3’ Releases as CEO Teases New Streaming Service (EXCLUSIVE) https://www.reddit.com/r/Games/comments/1vsr4xh/jackbox_games_sets_party_pack_12_trivia_murder/
 2026-08-19T16:22:57+00:00	213 Rapid-Fire Questions About The Legend Of California https://www.reddit.com/r/Games/comments/1vsr7tu/213_rapidfire_questions_about_the_legend_of/
 2026-08-19T16:28:15+00:00	[Jacob Geller] - Ace Combat Changed Me As A Person https://www.reddit.com/r/Games/comments/1vsrd9t/jacob_geller_ace_combat_changed_me_as_a_person/
@@ -28,3 +26,5 @@
 2026-08-19T23:40:06+00:00	Dumb Ways to Build | Official Announcement Trailer https://www.reddit.com/r/Games/comments/1vt31d6/dumb_ways_to_build_official_announcement_trailer/
 2026-08-19T23:47:34+00:00	Silent Hill: Townfall | Gameplay Trailer https://www.reddit.com/r/Games/comments/1vt37my/silent_hill_townfall_gameplay_trailer/
 2026-08-20T02:35:56+00:00	Black Myth: Zhong Kui – 15 Minutes Gameplay Trailer https://www.reddit.com/r/Games/comments/1vt7147/black_myth_zhong_kui_15_minutes_gameplay_trailer/
+2026-08-20T02:42:27+00:00	Total War: Warhammer III - Lords of The End Times - Free-LC | Neferata https://www.reddit.com/r/Games/comments/1vt768w/total_war_warhammer_iii_lords_of_the_end_times/
+2026-08-20T03:18:27+00:00	Trails in the Sky 2nd Chapter demo now available on PS5, Switch 1/2 and Steam - contains Prologue and Chapter 1, save data can be carried over to the full game which releases on Sept 17 https://www.reddit.com/r/Games/comments/1vt7xd9/trails_in_the_sky_2nd_chapter_demo_now_available/

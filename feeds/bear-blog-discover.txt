@@ -3,7 +3,6 @@
 # source = https://bearblog.dev/discover/feed/
 # description = twtxt conversion of https://bearblog.dev/discover/feed/
 
-2026-08-15T15:58:52.759767+00:00	i went to germany! https://blog.sulimans.space/i-went-to-germany/
 2026-08-16T15:11:00+00:00	💌 Newsletter #014 - Many, Many Leaks; Being "Opted In;" and Cursed "Podcasts" for your Children https://technically-good.ca/newsletter/014-2026-08-16/
 2026-08-16T15:45:00+00:00	What should you blog about? https://robertbirming.com/what-blog-about/
 2026-08-16T17:06:00+00:00	E Pluribus Odium https://householderkarl.com/e-pluribus-odium/
@@ -23,3 +22,4 @@
 2026-08-19T03:31:01.257640+00:00	Re: "Die Mad About AI" by Kristin McTiernan https://trialandfailure.net/re-die-mad-about-ai-by-kristin-mctiernan/
 2026-08-19T04:05:00+00:00	i did not know i was allowed to miss myself https://beingalmost.com/i-did-not-know-i-was-allowed-to-miss-myself/
 2026-08-19T05:52:25.237705+00:00	How My Brother and I Nearly Killed Each Other (Twice) https://catsandbirdsandstuff.com/how-my-brother-and-i-nearly-killed-each-other-twice/
+2026-08-19T16:44:00+00:00	Showing Post Titles in Previous and Next Links https://notes.jeddacp.com/showing-post-titles-in-previous-and-next-links/
