@@ -6,9 +6,6 @@
 2026-08-18T21:32:26+00:00	Updating the rules of /r/Games: Part II: Implementation Boogaloo https://www.reddit.com/r/Games/comments/1vs2pvu/updating_the_rules_of_rgames_part_ii/
 2026-08-19T11:00:50+00:00	Daily /r/Games Discussion - Suggest Me a Game - August 19, 2026 https://www.reddit.com/r/Games/comments/1vsj6g4/daily_rgames_discussion_suggest_me_a_game_august/
 2026-08-19T19:13:48+00:00	Neverness To Everness Devs Forget To Remove Watermark For Free Trial Of AI Software https://www.reddit.com/r/Games/comments/1vsw364/neverness_to_everness_devs_forget_to_remove/
-2026-08-19T20:51:52+00:00	‘You Don’t Get XP, But Zones Do’ — How Control Resonant Is Rewriting the Action RPG Rule Book https://www.reddit.com/r/Games/comments/1vsys06/you_dont_get_xp_but_zones_do_how_control_resonant/
-2026-08-19T22:58:33+00:00	S.T.A.L.K.E.R. 2: Heart of Chornobyl - Cost of Hope & Update 2.0 - All You Need to Know https://www.reddit.com/r/Games/comments/1vt210f/stalker_2_heart_of_chornobyl_cost_of_hope_update/
-2026-08-20T03:18:27+00:00	Trails in the Sky 2nd Chapter demo now available on PS5, Switch 1/2 and Steam - contains Prologue and Chapter 1, save data can be carried over to the full game which releases on Sept 17 https://www.reddit.com/r/Games/comments/1vt7xd9/trails_in_the_sky_2nd_chapter_demo_now_available/
 2026-08-20T05:53:42+00:00	'Who’s Deciding The Fate Of This Game?' The Secretive Process Of Getting A Game With Sexual Content On Steam https://www.reddit.com/r/Games/comments/1vtax6z/whos_deciding_the_fate_of_this_game_the_secretive/
 2026-08-20T10:38:52+00:00	GTA 6 Leaker ‘Proves’ They Have Build Access https://www.reddit.com/r/Games/comments/1vtfun3/gta_6_leaker_proves_they_have_build_access/
 2026-08-20T10:55:24+00:00	SNK Entertainment dissolved after 10 years. Most of its businesses transferred to parent company SNK https://www.reddit.com/r/Games/comments/1vtg675/snk_entertainment_dissolved_after_10_years_most/
@@ -24,7 +21,10 @@
 2026-08-20T14:14:55+00:00	Interview with Hidetaka Miyazaki: TTRPGs Influencing The Duskbloods, FromSoftware's Future, and How the Nintendo Partnership Happened - IGN https://www.reddit.com/r/Games/comments/1vtkpvc/interview_with_hidetaka_miyazaki_ttrpgs/
 2026-08-20T15:03:42+00:00	The Jackbox Party Pack 12 | Cinematic Trailer & Release Date https://www.reddit.com/r/Games/comments/1vtm00k/the_jackbox_party_pack_12_cinematic_trailer/
 2026-08-20T15:20:01+00:00	S.T.A.L.K.E.R. 2 - Update 2.0 Back to the Zone - Major Content and Technical Update https://www.reddit.com/r/Games/comments/1vtmfid/stalker_2_update_20_back_to_the_zone_major/
-2026-08-20T15:38:47+00:00	Medium Rare - Announcement Trailer https://www.reddit.com/r/Games/comments/1vtmy0l/medium_rare_announcement_trailer/
 2026-08-20T15:42:18+00:00	Minecraft Dungeons II | Official Gameplay Trailer https://www.reddit.com/r/Games/comments/1vtn1nw/minecraft_dungeons_ii_official_gameplay_trailer/
 2026-08-20T16:50:13+00:00	Compulsion Games pulls off management buyout and separates from Xbox | exclusive interview https://www.reddit.com/r/Games/comments/1vtox5s/compulsion_games_pulls_off_management_buyout_and/
 2026-08-20T17:42:10+00:00	Another Crab's Treasure | Nintendo Switch 2 Edition OUT NOW! https://www.reddit.com/r/Games/comments/1vtqd0s/another_crabs_treasure_nintendo_switch_2_edition/
+2026-08-20T19:04:31+00:00	2XKO Active Development Will End In December 2026 https://www.reddit.com/r/Games/comments/1vtsqg7/2xko_active_development_will_end_in_december_2026/
+2026-08-20T19:11:42+00:00	Denshattack!: The Platinum Update - Out Now! https://www.reddit.com/r/Games/comments/1vtsxvn/denshattack_the_platinum_update_out_now/
+2026-08-20T19:20:05+00:00	Starship Troopers Extermination - Update 12 - X-11 Map Expansion, Morita III Weapon, and more https://www.reddit.com/r/Games/comments/1vtt6l3/starship_troopers_extermination_update_12_x11_map/
+2026-08-20T19:21:57+00:00	The Elder Scrolls V: Skyrim - Update 1.7.99 https://www.reddit.com/r/Games/comments/1vtt8jg/the_elder_scrolls_v_skyrim_update_1799/
