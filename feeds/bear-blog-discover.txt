@@ -4,12 +4,10 @@
 # description = twtxt conversion of https://bearblog.dev/discover/feed/
 
 2026-08-15T15:58:52.759767+00:00	i went to germany! https://blog.sulimans.space/i-went-to-germany/
-2026-08-16T04:42:40.136902+00:00	social media causes brain fog https://curiously.bearblog.dev/social-media-causes-brain-fog/
-2026-08-16T05:20:55.743910+00:00	Sad but happy https://glonk.bearblog.dev/sad-but-happy/
 2026-08-16T15:11:00+00:00	💌 Newsletter #014 - Many, Many Leaks; Being "Opted In;" and Cursed "Podcasts" for your Children https://technically-good.ca/newsletter/014-2026-08-16/
 2026-08-16T15:45:00+00:00	What should you blog about? https://robertbirming.com/what-blog-about/
 2026-08-16T17:06:00+00:00	E Pluribus Odium https://householderkarl.com/e-pluribus-odium/
-2026-08-17T07:25:00+00:00	I Am Not in the USA https://kennyqin.com/i-am-not-in-the-usa/
+2026-08-16T17:59:48.711711+00:00	Making an RPG Maker game https://kami.bearblog.dev/making-an-rpg-maker-game/
 2026-08-17T12:25:00+00:00	shop milking their customers for social media content https://blog.avas.space/shop-social-media/
 2026-08-17T13:17:00+00:00	The Elephant In The Room https://chakkie.bearblog.dev/the-elephant/
 2026-08-17T15:27:00+00:00	re:Things to do after your dad dies https://blog.absurdpirate.com/rethings-to-do-after-your-dad-dies/
@@ -17,9 +15,11 @@
 2026-08-18T08:29:00+00:00	thinking about friendships https://blog.avas.space/friendships/
 2026-08-18T13:43:00+00:00	The Transparency Report Was an AirTag https://thecynicalnerd.bearblog.dev/the-transparency-report-was-an-airtag/
 2026-08-18T14:03:00+00:00	The Bee&B https://catsandbirdsandstuff.com/the-beeb/
-2026-08-18T21:26:00+00:00	The Emptiness of Self Help https://permanentreset.bearblog.dev/the-emptiness-of-self-help/
 2026-08-18T22:41:21.369957+00:00	Quiet Influence https://freyncis.bearblog.dev/quiet-influence/
 2026-08-18T23:30:46.283675+00:00	crickets https://tallywinkle.bearblog.dev/crickets/
 2026-08-18T23:35:00+00:00	Corporate Work is a Humiliation Ritual https://householderkarl.com/corporate-work-humiliation/
+2026-08-19T01:05:24.411536+00:00	Fitness Boot Camp at 54 https://reedwrite.org/fitness-boot-camp-at-54/
+2026-08-19T02:59:00+00:00	august 18 hmm https://combatdavey.net/august-18-2026/
 2026-08-19T03:31:01.257640+00:00	Re: "Die Mad About AI" by Kristin McTiernan https://trialandfailure.net/re-die-mad-about-ai-by-kristin-mctiernan/
-2026-08-19T16:44:00+00:00	Showing Post Titles in Previous and Next Links https://notes.jeddacp.com/showing-post-titles-in-previous-and-next-links/
+2026-08-19T04:05:00+00:00	i did not know i was allowed to miss myself https://beingalmost.com/i-did-not-know-i-was-allowed-to-miss-myself/
+2026-08-19T05:52:25.237705+00:00	How My Brother and I Nearly Killed Each Other (Twice) https://catsandbirdsandstuff.com/how-my-brother-and-i-nearly-killed-each-other-twice/
