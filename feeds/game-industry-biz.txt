@@ -3,7 +3,6 @@
 # source = https://www.gamesindustry.biz/feed
 # description = twtxt conversion of https://www.gamesindustry.biz/feed
 
-2026-08-10T10:07:24+00:00	Bandai Namco achieves record Q1 sales, but Digital segment operating profit drops 30.9% https://www.gamesindustry.biz/bandai-namco-achieves-record-q1-sales-but-digital-segment-operating-profit-drops-309
 2026-08-10T12:39:11+00:00	Former Ubisoft Barcelona workers launch Dark Ritual Studios, an indie developer focused on "craftsmanship over scale" https://www.gamesindustry.biz/former-ubisoft-barcelona-workers-launch-dark-ritual-studios-an-indie-developer-focused-on-craftsmanship-over-scale
 2026-08-10T13:50:22+00:00	Xbox to implement age verification in Australia on console and PC in late August https://www.gamesindustry.biz/xbox-to-implement-age-verification-in-australia-on-console-and-pc-in-late-august
 2026-08-10T15:19:18+00:00	How Vampire Survivors became Vampire Crawlers: Six lessons from building a game based on another developer's IP https://www.gamesindustry.biz/how-vampire-survivors-became-vampire-crawlers-six-lessons-from-building-a-game-based-on-another-developers-ip-1
@@ -53,3 +52,4 @@
 2026-08-20T10:21:28+00:00	Inner Pocket Publishing is "building a quiet corner for people who love thoughtful single-player games" https://www.gamesindustry.biz/inner-pocket-publishing-is-building-a-quiet-corner-for-people-who-love-thoughtful-single-player-games
 2026-08-20T11:02:20+00:00	Why a publisher you've probably not heard of is spending millions of dollars on its Gamescom presence https://www.gamesindustry.biz/why-a-publisher-youve-probably-not-heard-of-is-spending-millions-of-dollars-on-its-gamescom-presence
 2026-08-20T11:09:56+00:00	Rockstar hit with more leaks as GTA 6 gameplay and assets appear to circulate on social media https://www.gamesindustry.biz/rockstar-hit-with-more-leaks-as-gta-6-gameplay-and-assets-appear-to-circulate-on-social-media
+2026-08-20T13:00:00+00:00	Makers Fund raises $250m in fourth round to support interactive entertainment startups https://www.gamesindustry.biz/makers-fund-raises-250m-in-fourth-round-to-support-interactive-entertainment-startups
