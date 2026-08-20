@@ -9,9 +9,7 @@
 2026-08-20T05:53:42+00:00	'Who’s Deciding The Fate Of This Game?' The Secretive Process Of Getting A Game With Sexual Content On Steam https://www.reddit.com/r/Games/comments/1vtax6z/whos_deciding_the_fate_of_this_game_the_secretive/
 2026-08-20T10:38:52+00:00	GTA 6 Leaker ‘Proves’ They Have Build Access https://www.reddit.com/r/Games/comments/1vtfun3/gta_6_leaker_proves_they_have_build_access/
 2026-08-20T10:55:24+00:00	SNK Entertainment dissolved after 10 years. Most of its businesses transferred to parent company SNK https://www.reddit.com/r/Games/comments/1vtg675/snk_entertainment_dissolved_after_10_years_most/
-2026-08-20T12:00:10+00:00	'Yet Another Zombie Survivors' is out of Early Access and has launched its 1.0 Full Release https://www.reddit.com/r/Games/comments/1vthhlv/yet_another_zombie_survivors_is_out_of_early/
 2026-08-20T13:00:50+00:00	Beyond These Stars - 1.0 Release Date Trailer | City-Builder On A Space Whale https://www.reddit.com/r/Games/comments/1vtiv11/beyond_these_stars_10_release_date_trailer/
-2026-08-20T13:03:42+00:00	Embark has addressed the gyro ban wave in THE FINALS https://www.reddit.com/r/Games/comments/1vtixo2/embark_has_addressed_the_gyro_ban_wave_in_the/
 2026-08-20T13:05:56+00:00	Hardware spending in the US was so low in July that it nearly matched the 2020 Pandemic days when everything was out of stock https://www.reddit.com/r/Games/comments/1vtizmm/hardware_spending_in_the_us_was_so_low_in_july/
 2026-08-20T13:55:48+00:00	PAYDAY 3: The Future of PAYDAY with Paul - Episode 4 https://www.reddit.com/r/Games/comments/1vtk7p9/payday_3_the_future_of_payday_with_paul_episode_4/
 2026-08-20T14:00:50+00:00	The Duskbloods Preview: FromSoftware's Switch 2 Exclusive Is Special; Here's How It Plays https://www.reddit.com/r/Games/comments/1vtkcgf/the_duskbloods_preview_fromsoftwares_switch_2/
@@ -28,3 +26,5 @@
 2026-08-20T19:11:42+00:00	Denshattack!: The Platinum Update - Out Now! https://www.reddit.com/r/Games/comments/1vtsxvn/denshattack_the_platinum_update_out_now/
 2026-08-20T19:20:05+00:00	Starship Troopers Extermination - Update 12 - X-11 Map Expansion, Morita III Weapon, and more https://www.reddit.com/r/Games/comments/1vtt6l3/starship_troopers_extermination_update_12_x11_map/
 2026-08-20T19:21:57+00:00	The Elder Scrolls V: Skyrim - Update 1.7.99 https://www.reddit.com/r/Games/comments/1vtt8jg/the_elder_scrolls_v_skyrim_update_1799/
+2026-08-20T19:46:01+00:00	Xbox Is No Longer Sharing Digital Sales Data With Circana https://www.reddit.com/r/Games/comments/1vttwil/xbox_is_no_longer_sharing_digital_sales_data_with/
+2026-08-20T20:07:28+00:00	Physical Video Game Software Dollar Sales Plunged to an All-Time July Low of Just $85 Million in the US — the Worst Total Since Tracking Began in 1995 https://www.reddit.com/r/Games/comments/1vtuhqi/physical_video_game_software_dollar_sales_plunged/
