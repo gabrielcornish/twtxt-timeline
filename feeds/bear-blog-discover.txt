@@ -9,7 +9,6 @@
 2026-08-16T15:11:00+00:00	💌 Newsletter #014 - Many, Many Leaks; Being "Opted In;" and Cursed "Podcasts" for your Children https://technically-good.ca/newsletter/014-2026-08-16/
 2026-08-16T15:45:00+00:00	What should you blog about? https://robertbirming.com/what-blog-about/
 2026-08-16T17:06:00+00:00	E Pluribus Odium https://householderkarl.com/e-pluribus-odium/
-2026-08-16T20:00:00+00:00	Money Worship https://nisa.la/money-worship/
 2026-08-17T07:25:00+00:00	I Am Not in the USA https://kennyqin.com/i-am-not-in-the-usa/
 2026-08-17T12:25:00+00:00	shop milking their customers for social media content https://blog.avas.space/shop-social-media/
 2026-08-17T13:17:00+00:00	The Elephant In The Room https://chakkie.bearblog.dev/the-elephant/
@@ -23,3 +22,4 @@
 2026-08-18T23:30:46.283675+00:00	crickets https://tallywinkle.bearblog.dev/crickets/
 2026-08-18T23:35:00+00:00	Corporate Work is a Humiliation Ritual https://householderkarl.com/corporate-work-humiliation/
 2026-08-19T03:31:01.257640+00:00	Re: "Die Mad About AI" by Kristin McTiernan https://trialandfailure.net/re-die-mad-about-ai-by-kristin-mctiernan/
+2026-08-19T16:44:00+00:00	Showing Post Titles in Previous and Next Links https://notes.jeddacp.com/showing-post-titles-in-previous-and-next-links/
