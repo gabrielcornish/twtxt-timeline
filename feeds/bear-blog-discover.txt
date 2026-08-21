@@ -3,9 +3,7 @@
 # source = https://bearblog.dev/discover/feed/
 # description = twtxt conversion of https://bearblog.dev/discover/feed/
 
-2026-08-18T22:41:21.369957+00:00	Quiet Influence https://freyncis.bearblog.dev/quiet-influence/
 2026-08-19T04:05:00+00:00	i did not know i was allowed to miss myself https://beingalmost.com/i-did-not-know-i-was-allowed-to-miss-myself/
-2026-08-19T09:19:00+00:00	museums i recently visited iv https://blog.sulimans.space/museums-i-recently-visited-iv/
 2026-08-19T18:31:00+00:00	I'm Upset Again About a Co-Creator of RSS Being Prosecuted For Something Meta Is Doing With Little Consequence https://blog.curiousquail.com/im-upset-again-about-a-co-creator-of-rss-being-prosecuted-for-something-meta-is-doing-with-little-consequence/
 2026-08-19T18:48:12.327054+00:00	I Spent Twenty Years Becoming Good at the Wrong Game https://savvynormie.com/i-spent-twenty-years-becoming-good-at-the-wrong-game/
 2026-08-19T22:00:00+00:00	My Japanese Comfort Shows https://householderkarl.com/my-japanese-comfort-shows/
@@ -22,4 +20,6 @@
 2026-08-21T00:25:00+00:00	things that I think are objectively cool https://sususol.bearblog.dev/things-that-i-think-are-objectively-cool/
 2026-08-21T02:04:00+00:00	What We Lost When Search Stopped Making Us Think https://blog.8ball.space/what-we-lost-when-search/
 2026-08-21T09:35:00+00:00	Fat https://rickw.bearblog.dev/fat/
+2026-08-21T11:00:00+00:00	Planetocopia is Gone! https://davidmcgee.xyz/planetocopiaisgone/
 2026-08-21T16:53:00+00:00	Shutting down for a while https://bonkposting.online/shutting-down-for-a-while/
+2026-08-21T18:51:11.222723+00:00	Eighteen: an addendum to next/previous styling and feeling shame about missing a screen reader bug https://angrybunnyman.com/eighteen-an-addendum-to-nextprevious-styling-and-feeling-shame-about-missing-a-screen-reader-bug/
