@@ -4,7 +4,6 @@
 # description = twtxt conversion of https://bearblog.dev/discover/feed/
 
 2026-08-18T22:41:21.369957+00:00	Quiet Influence https://freyncis.bearblog.dev/quiet-influence/
-2026-08-18T23:30:46.283675+00:00	crickets https://tallywinkle.bearblog.dev/crickets/
 2026-08-19T04:05:00+00:00	i did not know i was allowed to miss myself https://beingalmost.com/i-did-not-know-i-was-allowed-to-miss-myself/
 2026-08-19T09:19:00+00:00	museums i recently visited iv https://blog.sulimans.space/museums-i-recently-visited-iv/
 2026-08-19T18:31:00+00:00	I'm Upset Again About a Co-Creator of RSS Being Prosecuted For Something Meta Is Doing With Little Consequence https://blog.curiousquail.com/im-upset-again-about-a-co-creator-of-rss-being-prosecuted-for-something-meta-is-doing-with-little-consequence/
@@ -19,6 +18,7 @@
 2026-08-20T16:29:29.976865+00:00	Fruitcake (self-titled) https://morningmusic.bearblog.dev/fruitcake-self-titled/
 2026-08-20T17:12:16.994617+00:00	my phone died and it sucks https://monocyte.blog/my-phone-died-and-it-sucks/
 2026-08-20T17:29:00+00:00	Freeing The Studios https://blog.curiousquail.com/freeing-the-studios/
+2026-08-20T18:12:00+00:00	If you struggle drawing people https://leeyuhsolve.bearblog.dev/if-you-struggle-drawing-people/
 2026-08-20T21:58:02.986754+00:00	Same As It Ever Was https://onsong.bearblog.dev/same-as-it-ever-was/
 2026-08-21T00:25:00+00:00	things that I think are objectively cool https://sususol.bearblog.dev/things-that-i-think-are-objectively-cool/
 2026-08-21T02:04:00+00:00	What We Lost When Search Stopped Making Us Think https://blog.8ball.space/what-we-lost-when-search/
