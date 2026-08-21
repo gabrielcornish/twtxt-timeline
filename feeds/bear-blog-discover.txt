@@ -9,7 +9,6 @@
 2026-08-20T02:01:00+00:00	A friend Went to a Korean Pharmacy for Skincare. Things Escalated. https://cesence.bearblog.dev/a-friend-went-to-a-korean-pharmacy-for-skincare-things-escalated/
 2026-08-20T06:43:00+00:00	All the things I didn't say yesterday https://forsomeone.bearblog.dev/all-the-things-i-didnt-say-yesterday/
 2026-08-20T12:02:00+00:00	I Made a Font! https://crescendo.bearblog.dev/i-made-a-font/
-2026-08-20T15:37:59.611693+00:00	The Fediverse has an antisemitism problem. https://straybun.bearblog.dev/blog/2026/fedi-antisemitism/
 2026-08-20T15:41:17.220003+00:00	Re: Where did my friends go? https://blighttown.bearblog.dev/re-where-did-my-friends-go/
 2026-08-20T16:29:29.976865+00:00	Fruitcake (self-titled) https://morningmusic.bearblog.dev/fruitcake-self-titled/
 2026-08-20T17:12:00+00:00	my phone died and it sucks https://monocyte.blog/my-phone-died-and-it-sucks/
@@ -22,4 +21,5 @@
 2026-08-21T11:00:00+00:00	Planetocopia is Gone! https://davidmcgee.xyz/planetocopiaisgone/
 2026-08-21T13:25:00+00:00	Blogging As A Private Person https://sweaterpockets.bearblog.dev/blogging-as-a-private-person/
 2026-08-21T16:53:00+00:00	Shutting down for a while https://bonkposting.online/shutting-down-for-a-while/
+2026-08-21T17:39:00+00:00	Will I ever catch up? https://fornoone.bearblog.dev/will-i-ever-catch-up/
 2026-08-21T18:51:11.222723+00:00	Eighteen: an addendum to next/previous styling and feeling shame about missing a screen reader bug https://angrybunnyman.com/eighteen-an-addendum-to-nextprevious-styling-and-feeling-shame-about-missing-a-screen-reader-bug/
