@@ -10,7 +10,6 @@
 2026-08-19T18:48:12.327054+00:00	I Spent Twenty Years Becoming Good at the Wrong Game https://savvynormie.com/i-spent-twenty-years-becoming-good-at-the-wrong-game/
 2026-08-19T22:00:00+00:00	My Japanese Comfort Shows https://householderkarl.com/my-japanese-comfort-shows/
 2026-08-20T02:01:00+00:00	A friend Went to a Korean Pharmacy for Skincare. Things Escalated. https://cesence.bearblog.dev/a-friend-went-to-a-korean-pharmacy-for-skincare-things-escalated/
-2026-08-20T03:31:00+00:00	I drew my first comic :) https://leeyuhsolve.bearblog.dev/i-drew-my-first-comic/
 2026-08-20T06:43:00+00:00	All the things I didn't say yesterday https://forsomeone.bearblog.dev/all-the-things-i-didnt-say-yesterday/
 2026-08-20T12:02:00+00:00	I Made a Font! https://crescendo.bearblog.dev/i-made-a-font/
 2026-08-20T15:37:59.611693+00:00	The Fediverse has an antisemitism problem. https://straybun.bearblog.dev/blog/2026/fedi-antisemitism/
@@ -23,3 +22,4 @@
 2026-08-21T00:25:00+00:00	things that I think are objectively cool https://sususol.bearblog.dev/things-that-i-think-are-objectively-cool/
 2026-08-21T02:04:00+00:00	What We Lost When Search Stopped Making Us Think https://blog.8ball.space/what-we-lost-when-search/
 2026-08-21T09:35:00+00:00	Fat https://rickw.bearblog.dev/fat/
+2026-08-21T11:00:00+00:00	Planetocopia is Gone! https://davidmcgee.xyz/planetocopiaisgone/
