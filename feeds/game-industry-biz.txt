@@ -3,7 +3,6 @@
 # source = https://www.gamesindustry.biz/feed
 # description = twtxt conversion of https://www.gamesindustry.biz/feed
 
-2026-08-10T17:10:00+00:00	HandyGames rebrands as THQ Nordic Mobile https://www.gamesindustry.biz/handygames-rebrands-as-thq-nordic-mobile
 2026-08-10T17:46:04+00:00	Valve confirms Steam hardware buyers' data exposed in CEVA Logistics cyberattack https://www.gamesindustry.biz/valve-confirms-steam-hardware-buyers-data-exposed-in-ceva-logistics-cyberattack
 2026-08-10T19:20:17+00:00	Halloween: The Game denied classification in Australia and New Zealand over drug depiction https://www.gamesindustry.biz/halloween-the-game-denied-classification-in-australia-and-new-zealand-over-drug-depiction
 2026-08-11T08:26:52+00:00	Square Enix Q1 profit soars following Final Fantasy 7 Rebirth launch on Switch 2 and Xbox https://www.gamesindustry.biz/square-enix-q1-profit-soars-following-final-fantasy-7-rebirth-launch-on-switch-2-and-xbox
@@ -53,3 +52,4 @@
 2026-08-20T15:20:49+00:00	US physical game sales drop to lowest monthly total since 1995 | US Monthly Charts https://www.gamesindustry.biz/us-physical-game-sales-drop-to-lowest-monthly-total-since-1995-us-monthly-charts
 2026-08-20T19:19:08+00:00	Geoff Keighley clarifies how trailers are selected for Gamescom Opening Night Live https://www.gamesindustry.biz/geoff-keighley-clarifies-how-trailers-are-selected-for-gamescom-opening-night-live
 2026-08-21T08:06:41+00:00	Riot Games sunsets active development on 2XKO as it costs "substantially more to operate than it brings in" https://www.gamesindustry.biz/riot-games-sunsets-active-development-on-2xko-as-it-costs-substantially-more-to-operate-than-it-brings-in
+2026-08-21T10:35:36+00:00	Roblox makes three of its AI safety tools open source https://www.gamesindustry.biz/roblox-makes-three-of-its-ai-safety-tools-open-source
