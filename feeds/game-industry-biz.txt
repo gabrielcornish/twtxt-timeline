@@ -3,8 +3,6 @@
 # source = https://www.gamesindustry.biz/feed
 # description = twtxt conversion of https://www.gamesindustry.biz/feed
 
-2026-08-10T19:20:17+00:00	Halloween: The Game denied classification in Australia and New Zealand over drug depiction https://www.gamesindustry.biz/halloween-the-game-denied-classification-in-australia-and-new-zealand-over-drug-depiction
-2026-08-11T08:26:52+00:00	Square Enix Q1 profit soars following Final Fantasy 7 Rebirth launch on Switch 2 and Xbox https://www.gamesindustry.biz/square-enix-q1-profit-soars-following-final-fantasy-7-rebirth-launch-on-switch-2-and-xbox
 2026-08-11T10:00:44+00:00	GamesAid appoints six new trustees as it raises £82,000 in funding during 2025/26 https://www.gamesindustry.biz/gamesaid-appoints-six-new-trustees-as-it-raises-82000-in-funding-during-202526
 2026-08-11T11:08:45+00:00	Remedy reports revenue declines in Q2 and H1 as it prepares for Control Resonant launch https://www.gamesindustry.biz/remedy-reports-revenue-declines-in-q2-and-h1-as-it-prepares-for-control-resonant-launch
 2026-08-11T12:26:32+00:00	Reforj developer 4J Studios unveils Rixels: modified pixels that reduce texture memory requirements by 98% https://www.gamesindustry.biz/reforj-developer-4j-studios-unveils-rixels-modified-pixels-that-reduce-texture-memory-requirements-by-98
@@ -53,3 +51,5 @@
 2026-08-21T08:06:41+00:00	Riot Games sunsets active development on 2XKO as it costs "substantially more to operate than it brings in" https://www.gamesindustry.biz/riot-games-sunsets-active-development-on-2xko-as-it-costs-substantially-more-to-operate-than-it-brings-in
 2026-08-21T10:35:36+00:00	Roblox makes three of its AI safety tools open source https://www.gamesindustry.biz/roblox-makes-three-of-its-ai-safety-tools-open-source
 2026-08-21T11:00:00+00:00	Why Xbox's console ads could be a good thing for gaming | Opinion https://www.gamesindustry.biz/why-xboxs-console-ads-could-be-a-good-thing-for-gaming-opinion
+2026-08-21T13:26:55+00:00	Rover's Tale developer Observer Interactive parts ways with Team17 as it moves to self-publishing https://www.gamesindustry.biz/rovers-tale-developer-observer-interactive-parts-ways-with-team17-as-it-moves-to-self-publishing
+2026-08-21T13:52:33+00:00	Compulsion Games officially separates from Xbox – "The team told me we would rather eat rocks and drink gasoline than be split up" https://www.gamesindustry.biz/compulsion-games-officially-separates-from-xbox-the-team-told-me-we-would-rather-eat-rocks-and-drink-gasoline-than-be-split-up
