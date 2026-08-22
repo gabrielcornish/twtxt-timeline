@@ -10,7 +10,6 @@
 2026-08-21T02:04:00+00:00	What We Lost When Search Stopped Making Us Think https://blog.8ball.space/what-we-lost-when-search/
 2026-08-21T09:35:00+00:00	Fat https://rickw.bearblog.dev/fat/
 2026-08-21T13:25:00+00:00	Blogging As A Private Person https://sweaterpockets.bearblog.dev/blogging-as-a-private-person/
-2026-08-21T14:34:00+00:00	Bad posts on social media are probably part of what makes them addicting https://blighttown.bearblog.dev/bad-posts-on-social-media-are-probably-part-of-what-makes-them-addicting/
 2026-08-21T16:53:00+00:00	Shutting down for a while https://bonkposting.online/shutting-down-for-a-while/
 2026-08-21T17:39:00+00:00	Will I ever catch up? https://fornoone.bearblog.dev/will-i-ever-catch-up/
 2026-08-21T18:27:00+00:00	Now entering Hobbit Mode https://tadaima.bearblog.dev/now-entering-hobbit-mode/
@@ -23,3 +22,4 @@
 2026-08-22T06:30:38.298761+00:00	oh twitter, what did they do to you https://yttervia.bearblog.dev/oh-twitter-what-did-they-do-to-you/
 2026-08-22T14:41:00+00:00	Stop Trying to Distinguish AI-Generated Writing From Human Writing Because You Can’t https://journal.james-zhan.com/ai-writing/
 2026-08-22T15:27:00+00:00	The internet makes us lonely https://blog.gshelter.me/the-internet-makes-us-lonely/
+2026-08-22T16:02:00+00:00	The Future of Single-Player Final Fantasy https://blog.curiousquail.com/the-future-of-single-player-final-fantasy/
