@@ -4,7 +4,6 @@
 # description = twtxt conversion of https://bearblog.dev/discover/feed/
 
 2026-08-19T18:31:00+00:00	I'm Upset Again About a Co-Creator of RSS Being Prosecuted For Something Meta Is Doing With Little Consequence https://blog.curiousquail.com/im-upset-again-about-a-co-creator-of-rss-being-prosecuted-for-something-meta-is-doing-with-little-consequence/
-2026-08-19T22:00:00+00:00	My Japanese Comfort Shows https://householderkarl.com/my-japanese-comfort-shows/
 2026-08-20T06:43:00+00:00	All the things I didn't say yesterday https://forsomeone.bearblog.dev/all-the-things-i-didnt-say-yesterday/
 2026-08-20T12:02:00+00:00	I Made a Font! https://crescendo.bearblog.dev/i-made-a-font/
 2026-08-20T18:12:00+00:00	If you struggle drawing people https://leeyuhsolve.bearblog.dev/if-you-struggle-drawing-people/
@@ -23,3 +22,4 @@
 2026-08-22T04:41:00+00:00	Demolition：我们为什么用悲伤证明爱 https://notesagainstcertainty.bearblog.dev/demolition/
 2026-08-22T06:30:38.298761+00:00	oh twitter, what did they do to you https://yttervia.bearblog.dev/oh-twitter-what-did-they-do-to-you/
 2026-08-22T14:41:00+00:00	Stop Trying to Distinguish AI-Generated Writing From Human Writing Because You Can’t https://journal.james-zhan.com/ai-writing/
+2026-08-22T15:27:00+00:00	The internet makes us lonely https://blog.gshelter.me/the-internet-makes-us-lonely/
