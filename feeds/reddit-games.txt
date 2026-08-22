@@ -4,12 +4,10 @@
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
 2026-08-19T11:00:50+00:00	Daily /r/Games Discussion - Suggest Me a Game - August 19, 2026 https://www.reddit.com/r/Games/comments/1vsj6g4/daily_rgames_discussion_suggest_me_a_game_august/
-2026-08-21T06:01:45+00:00	Fight Forever was a massive loss for AEW. The company lost at least $30 million that they had to mark down for the game. “We sold about half of what we were expecting, leading to a big reason why we lost so much.” https://www.reddit.com/r/Games/comments/1vu7vgf/fight_forever_was_a_massive_loss_for_aew_the/
 2026-08-21T07:40:26+00:00	Metal Gear Solid: Master Collection Vol. 2 - Review Thread https://www.reddit.com/r/Games/comments/1vu9l9m/metal_gear_solid_master_collection_vol_2_review/
 2026-08-21T10:00:52+00:00	Daily /r/Games Discussion - Free Talk Friday - August 21, 2026 https://www.reddit.com/r/Games/comments/1vubzy7/daily_rgames_discussion_free_talk_friday_august/
 2026-08-21T10:34:59+00:00	Marvel Tōkon launches to under 3,000 retail sales in Japan, the worst debut for a major Arc System Works fighter https://www.reddit.com/r/Games/comments/1vucndd/marvel_tōkon_launches_to_under_3000_retail_sales/
 2026-08-21T13:51:39+00:00	Take-Two Subpoenas Microsoft And Discord Over GTA 6 Leaks https://www.reddit.com/r/Games/comments/1vugz1d/taketwo_subpoenas_microsoft_and_discord_over_gta/
-2026-08-21T15:00:50+00:00	Marvel's Wolverine has GONE GOLD! https://www.reddit.com/r/Games/comments/1vuis6a/marvels_wolverine_has_gone_gold/
 2026-08-21T18:11:11+00:00	Double Fine launches Amnesia Fortnight 2026, Indie Reboot https://www.reddit.com/r/Games/comments/1vunzad/double_fine_launches_amnesia_fortnight_2026_indie/
 2026-08-21T18:39:33+00:00	Stray Dog: nobody cares - Announcement Trailer https://www.reddit.com/r/Games/comments/1vuorv8/stray_dog_nobody_cares_announcement_trailer/
 2026-08-21T18:57:08+00:00	Rockstar Rattled As ‘Grand Theft Auto VI’ Leaks Again https://www.reddit.com/r/Games/comments/1vup9ju/rockstar_rattled_as_grand_theft_auto_vi_leaks/
@@ -20,7 +18,6 @@
 2026-08-22T03:19:00+00:00	Heatwarped - Official Reveal Trailer https://www.reddit.com/r/Games/comments/1vv131j/heatwarped_official_reveal_trailer/
 2026-08-22T06:16:15+00:00	Bodycam | This Is What a Gunshot Really Sounds Like | Devlog [2/4] https://www.reddit.com/r/Games/comments/1vv4hds/bodycam_this_is_what_a_gunshot_really_sounds_like/
 2026-08-22T07:16:53+00:00	MapleStory Classic official Grand Launch date: October 21, 2026, Founder's Access launch October 6, 2026 https://www.reddit.com/r/Games/comments/1vv5kcw/maplestory_classic_official_grand_launch_date/
-2026-08-22T07:45:12+00:00	FISH - Sandstorm Update Trailer https://www.reddit.com/r/Games/comments/1vv61fx/fish_sandstorm_update_trailer/
 2026-08-22T11:41:32+00:00	Over the Top: WWI – Official USA DLC Launch Trailer https://www.reddit.com/r/Games/comments/1vva78a/over_the_top_wwi_official_usa_dlc_launch_trailer/
 2026-08-22T13:54:03+00:00	Roguecraft DX - PC Gameplay Trailer https://www.reddit.com/r/Games/comments/1vvd2g3/roguecraft_dx_pc_gameplay_trailer/
 2026-08-22T15:00:27+00:00	[SkillUp] Marvel's Wolverine - Preview https://www.reddit.com/r/Games/comments/1vveo23/skillup_marvels_wolverine_preview/
@@ -28,3 +25,6 @@
 2026-08-22T15:20:37+00:00	SNK sees operating loss of $125 million and widening deficit despite revenue growth https://www.reddit.com/r/Games/comments/1vvf69v/snk_sees_operating_loss_of_125_million_and/
 2026-08-22T16:10:36+00:00	Final Fantasy XI Unlimited Free Trial Releasing In September 2026, Level Cap Increases To 75 https://www.reddit.com/r/Games/comments/1vvgfh1/final_fantasy_xi_unlimited_free_trial_releasing/
 2026-08-22T16:18:23+00:00	The opportunity cost of Sony's live service pivot is enormous | Opinion https://www.reddit.com/r/Games/comments/1vvgmep/the_opportunity_cost_of_sonys_live_service_pivot/
+2026-08-22T19:54:46+00:00	NEW Tides of Annihilation Gameplay Showcase (Gamescom 2026) https://www.reddit.com/r/Games/comments/1vvm6fs/new_tides_of_annihilation_gameplay_showcase/
+2026-08-22T19:56:40+00:00	Dig, Dig, Die - Official Release Date Trailer https://www.reddit.com/r/Games/comments/1vvm84p/dig_dig_die_official_release_date_trailer/
+2026-08-22T20:37:56+00:00	Star Wars Galactic Racer Exclusive Multiplayer Overview Trailer https://www.reddit.com/r/Games/comments/1vvn9pm/star_wars_galactic_racer_exclusive_multiplayer/
