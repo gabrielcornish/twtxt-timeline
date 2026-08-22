@@ -4,7 +4,6 @@
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
 2026-08-19T11:00:50+00:00	Daily /r/Games Discussion - Suggest Me a Game - August 19, 2026 https://www.reddit.com/r/Games/comments/1vsj6g4/daily_rgames_discussion_suggest_me_a_game_august/
-2026-08-20T14:01:55+00:00	007 First Light has sold 4 million copies since launch https://www.reddit.com/r/Games/comments/1vtkdk6/007_first_light_has_sold_4_million_copies_since/
 2026-08-20T19:04:31+00:00	2XKO Active Development Will End In December 2026 https://www.reddit.com/r/Games/comments/1vtsqg7/2xko_active_development_will_end_in_december_2026/
 2026-08-20T19:46:01+00:00	Xbox Is No Longer Sharing Digital Sales Data With Circana https://www.reddit.com/r/Games/comments/1vttwil/xbox_is_no_longer_sharing_digital_sales_data_with/
 2026-08-20T20:50:47+00:00	Resonance: A Plague Tale Legacy Leaks And Is Being Pirated On PC 7 Days Before Release https://www.reddit.com/r/Games/comments/1vtvnxi/resonance_a_plague_tale_legacy_leaks_and_is_being/
@@ -28,3 +27,4 @@
 2026-08-22T07:16:53+00:00	MapleStory Classic official Grand Launch date: October 21, 2026, Founder's Access launch October 6, 2026 https://www.reddit.com/r/Games/comments/1vv5kcw/maplestory_classic_official_grand_launch_date/
 2026-08-22T07:45:12+00:00	FISH - Sandstorm Update Trailer https://www.reddit.com/r/Games/comments/1vv61fx/fish_sandstorm_update_trailer/
 2026-08-22T11:41:32+00:00	Over the Top: WWI – Official USA DLC Launch Trailer https://www.reddit.com/r/Games/comments/1vva78a/over_the_top_wwi_official_usa_dlc_launch_trailer/
+2026-08-22T13:54:03+00:00	Roguecraft DX - PC Gameplay Trailer https://www.reddit.com/r/Games/comments/1vvd2g3/roguecraft_dx_pc_gameplay_trailer/
