@@ -3,7 +3,6 @@
 # source = https://www.reddit.com/r/Games.rss
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
-2026-08-21T18:57:08+00:00	Rockstar Rattled As ‘Grand Theft Auto VI’ Leaks Again https://www.reddit.com/r/Games/comments/1vup9ju/rockstar_rattled_as_grand_theft_auto_vi_leaks/
 2026-08-22T15:00:27+00:00	[SkillUp] Marvel's Wolverine - Preview https://www.reddit.com/r/Games/comments/1vveo23/skillup_marvels_wolverine_preview/
 2026-08-22T15:14:02+00:00	The Blood of Dawnwalker — Console Footage https://www.reddit.com/r/Games/comments/1vvf0et/the_blood_of_dawnwalker_console_footage/
 2026-08-22T15:20:37+00:00	SNK sees operating loss of $125 million and widening deficit despite revenue growth https://www.reddit.com/r/Games/comments/1vvf69v/snk_sees_operating_loss_of_125_million_and/
@@ -18,13 +17,14 @@
 2026-08-23T07:44:49+00:00	Zefyr - Oneiric Worlds - A super feel-good & colorful odyssey where you climb everywhere & ride a turtle (Zelda Windwaker X Sly Cooper) - [OUT NOW] https://www.reddit.com/r/Games/comments/1vw0u2e/zefyr_oneiric_worlds_a_super_feelgood_colorful/
 2026-08-23T09:00:30+00:00	Weekly /r/Games Discussion - What have you been playing, and what are your thoughts? - August 23, 2026 https://www.reddit.com/r/Games/comments/1vw24i4/weekly_rgames_discussion_what_have_you_been/
 2026-08-23T09:03:27+00:00	Valve is now 30 years old. https://www.reddit.com/r/Games/comments/1vw26fa/valve_is_now_30_years_old/
-2026-08-23T09:49:53+00:00	Ski Lines - Yunogames - A minimalist ski map strategy game inspired by Mini Metro https://www.reddit.com/r/Games/comments/1vw2yyl/ski_lines_yunogames_a_minimalist_ski_map_strategy/
-2026-08-23T10:12:38+00:00	Scream Operator - Japhet Interactive - Haunted House Operator Simulator https://www.reddit.com/r/Games/comments/1vw3cs6/scream_operator_japhet_interactive_haunted_house/
-2026-08-23T10:44:40+00:00	Crowded - Nestwork Games - a cozy city builder with crows https://www.reddit.com/r/Games/comments/1vw3x65/crowded_nestwork_games_a_cozy_city_builder_with/
 2026-08-23T11:02:13+00:00	Zero To South - VoxelBytes - Post-apocalyptic taxi simulator. https://www.reddit.com/r/Games/comments/1vw491f/zero_to_south_voxelbytes_postapocalyptic_taxi/
-2026-08-23T11:25:17+00:00	Banshee Protocol - Ivan Pichugin - Space simulator of a missile defense operator https://www.reddit.com/r/Games/comments/1vw4oj5/banshee_protocol_ivan_pichugin_space_simulator_of/
 2026-08-23T11:48:52+00:00	Her Last Wish - RSNova Studio - A physics-based 2D puzzle game set in a vintage cardboard diorama world https://www.reddit.com/r/Games/comments/1vw54c7/her_last_wish_rsnova_studio_a_physicsbased_2d/
-2026-08-23T12:34:32+00:00	Home Sweet Gnome - Elva Entertainment - A cozy management game about Nordic folklore can now be played during our Open Playtest! https://www.reddit.com/r/Games/comments/1vw61gw/home_sweet_gnome_elva_entertainment_a_cozy/
 2026-08-23T13:22:50+00:00	Gran Turismo creator Kazunori Yamauchi on the challenges of car game development - For example to reproduce the Nordschleife – the Nürburgring – took us four years.’ https://www.reddit.com/r/Games/comments/1vw73hg/gran_turismo_creator_kazunori_yamauchi_on_the/
 2026-08-23T13:31:00+00:00	Luminids - Luminids Studios - cozy world-building game where you guide a colony of small creatures back to their home https://www.reddit.com/r/Games/comments/1vw7a8t/luminids_luminids_studios_cozy_worldbuilding_game/
 2026-08-23T13:40:35+00:00	White Hound - Bosse E. - A cozy Guild management game where you step in as a Guildmaster and have to make it work somehow! https://www.reddit.com/r/Games/comments/1vw7i9j/white_hound_bosse_e_a_cozy_guild_management_game/
+2026-08-23T14:08:00+00:00	Age After Age - Farom Studio - city building strategy with deep logistics and management , no AI art used during dev https://www.reddit.com/r/Games/comments/1vw85pt/age_after_age_farom_studio_city_building_strategy/
+2026-08-23T14:09:31+00:00	Cannon Keep - Brainflick - Inventory Management Tower Defense https://www.reddit.com/r/Games/comments/1vw870h/cannon_keep_brainflick_inventory_management_tower/
+2026-08-23T14:26:12+00:00	How to Fish sold 1 million copies in 2 days https://www.reddit.com/r/Games/comments/1vw8lee/how_to_fish_sold_1_million_copies_in_2_days/
+2026-08-23T14:30:56+00:00	Wardogs beta been going this weekend? How are ppl liking it? https://www.reddit.com/r/Games/comments/1vw8pnm/wardogs_beta_been_going_this_weekend_how_are_ppl/
+2026-08-23T14:40:14+00:00	Protocol Non-Human - DreadGear Games - "Papers, Please" meets "The Thing" in a paranoid new horror-deduction game https://www.reddit.com/r/Games/comments/1vw8xmz/protocol_nonhuman_dreadgear_games_papers_please/
+2026-08-23T14:41:33+00:00	Withering Realms - Official Early Access Date Trailer https://www.reddit.com/r/Games/comments/1vw8yte/withering_realms_official_early_access_date/
