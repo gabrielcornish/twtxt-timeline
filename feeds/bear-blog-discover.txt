@@ -3,6 +3,7 @@
 # source = https://bearblog.dev/discover/feed/
 # description = twtxt conversion of https://bearblog.dev/discover/feed/
 
+2026-08-21T22:35:46.535775+00:00	you SHOULD be bored sometimes https://rnotte.art/you-should-be-bored-sometimes/
 2026-08-21T23:45:00+00:00	The disability in the ADHD https://folkmoss.bearblog.dev/the-disability-in-the-adhd/
 2026-08-22T06:30:38.298761+00:00	oh twitter, what did they do to you https://yttervia.bearblog.dev/oh-twitter-what-did-they-do-to-you/
 2026-08-22T14:41:00+00:00	Stop Trying to Distinguish AI-Generated Writing From Human Writing Because You Can’t https://journal.james-zhan.com/ai-writing/
@@ -14,7 +15,6 @@
 2026-08-22T21:22:00+00:00	Speak To Me Like A Human Please / Mental Illness Sucks / RE: Sacrificing accessibility... https://blog.agnes.love/speak-to-me-like-a-human-please-mental-illness-sucks-re-sacrificing-accessibility/
 2026-08-22T21:48:45.025263+00:00	My exercise masks a shit diet https://in-circles.uk/my-exercise-masks-a-shit-diet/
 2026-08-22T22:51:00+00:00	An unlikely experiment https://rushed-reflections.bearblog.dev/an-unlikely-experiment/
-2026-08-22T23:23:14.634717+00:00	📸 wild horses https://pixelzaddy.com/wild-horses/
 2026-08-23T00:56:09.429744+00:00	twenty: bees! I have been remiss in posting BEEEEEssssss https://angrybunnyman.com/twenty-bees-i-have-been-remiss-in-posting-beeeeessssss/
 2026-08-23T00:59:26.468572+00:00	some cherry flavored drinks, rated https://cherrysroom.bearblog.dev/some-cherry-flavored-drinks-rated/
 2026-08-23T01:58:00+00:00	Freedom, in the form of a penis. https://boogerdiary.bearblog.dev/freedom-in-the-form-of-a-penis/
