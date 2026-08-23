@@ -4,22 +4,22 @@
 # description = twtxt conversion of https://bearblog.dev/discover/feed/
 
 2026-08-20T06:43:00+00:00	All the things I didn't say yesterday https://forsomeone.bearblog.dev/all-the-things-i-didnt-say-yesterday/
-2026-08-20T12:02:00+00:00	I Made a Font! https://crescendo.bearblog.dev/i-made-a-font/
-2026-08-20T18:12:00+00:00	If you struggle drawing people https://leeyuhsolve.bearblog.dev/if-you-struggle-drawing-people/
 2026-08-21T02:04:00+00:00	What We Lost When Search Stopped Making Us Think https://blog.8ball.space/what-we-lost-when-search/
-2026-08-21T09:35:00+00:00	Fat https://rickw.bearblog.dev/fat/
 2026-08-21T13:25:00+00:00	Blogging As A Private Person https://sweaterpockets.bearblog.dev/blogging-as-a-private-person/
 2026-08-21T16:53:00+00:00	Shutting down for a while https://bonkposting.online/shutting-down-for-a-while/
 2026-08-21T17:39:00+00:00	Will I ever catch up? https://fornoone.bearblog.dev/will-i-ever-catch-up/
-2026-08-21T18:27:00+00:00	Now entering Hobbit Mode https://tadaima.bearblog.dev/now-entering-hobbit-mode/
 2026-08-21T18:51:00+00:00	Eighteen: an addendum to next/previous styling and feeling shame about missing a screen reader bug https://angrybunnyman.com/eighteen-an-addendum-to-nextprevious-styling-and-feeling-shame-about-missing-a-screen-reader-bug/
 2026-08-21T22:35:46.535775+00:00	you SHOULD be bored sometimes https://rnotte.art/you-should-be-bored-sometimes/
 2026-08-21T23:45:00+00:00	The disability in the ADHD https://folkmoss.bearblog.dev/the-disability-in-the-adhd/
-2026-08-22T01:09:00+00:00	Unfortunately Frequently Asked Questions About Transphobic Pinball Events https://posts.arborelia.net/unfortunately-frequently-asked-questions-about-transphobic-pinball-events/
 2026-08-22T04:00:07.544160+00:00	re: re: things to do after your dad dies https://s0ykaf.bearblog.dev/re-re-things-to-do-after-your-dad-dies/
 2026-08-22T04:41:00+00:00	Demolition：我们为什么用悲伤证明爱 https://notesagainstcertainty.bearblog.dev/demolition/
 2026-08-22T06:30:38.298761+00:00	oh twitter, what did they do to you https://yttervia.bearblog.dev/oh-twitter-what-did-they-do-to-you/
-2026-08-22T11:04:00+00:00	Your voice is here https://robertbirming.com/your-voice-is-here/
+2026-08-22T06:48:00+00:00	Weird, Madness, Chaos https://blog.lauramichet.com/weird-madness-chaos/
 2026-08-22T14:41:00+00:00	Stop Trying to Distinguish AI-Generated Writing From Human Writing Because You Can’t https://journal.james-zhan.com/ai-writing/
 2026-08-22T15:27:00+00:00	The internet makes us lonely https://blog.gshelter.me/the-internet-makes-us-lonely/
 2026-08-22T16:02:00+00:00	The Future of Single-Player Final Fantasy https://blog.curiousquail.com/the-future-of-single-player-final-fantasy/
+2026-08-22T17:07:43.437934+00:00	Black kites are everywhere! https://prasatt.me/black-kites-are-everywhere/
+2026-08-22T19:12:00+00:00	I will never support America https://rocketcapsule.bearblog.dev/i-will-never-support-america/
+2026-08-22T19:24:00+00:00	being an artist doesn't mean drawing https://leeyuhsolve.bearblog.dev/being-an-artist-doesnt-mean-drawing/
+2026-08-22T21:16:00+00:00	Through a Glass, Darkly https://householderkarl.com/through-a-glass-darkly/
+2026-08-22T21:22:00+00:00	Speak To Me Like A Human Please / Mental Illness Sucks / RE: Sacrificing accessibility... https://blog.agnes.love/speak-to-me-like-a-human-please-mental-illness-sucks-re-sacrificing-accessibility/
