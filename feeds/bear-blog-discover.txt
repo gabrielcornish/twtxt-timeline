@@ -4,7 +4,6 @@
 # description = twtxt conversion of https://bearblog.dev/discover/feed/
 
 2026-08-21T02:04:00+00:00	What We Lost When Search Stopped Making Us Think https://blog.8ball.space/what-we-lost-when-search/
-2026-08-21T16:53:00+00:00	Shutting down for a while https://bonkposting.online/shutting-down-for-a-while/
 2026-08-21T17:39:00+00:00	Will I ever catch up? https://fornoone.bearblog.dev/will-i-ever-catch-up/
 2026-08-21T18:51:00+00:00	Eighteen: an addendum to next/previous styling and feeling shame about missing a screen reader bug https://angrybunnyman.com/eighteen-an-addendum-to-nextprevious-styling-and-feeling-shame-about-missing-a-screen-reader-bug/
 2026-08-21T22:35:46.535775+00:00	you SHOULD be bored sometimes https://rnotte.art/you-should-be-bored-sometimes/
@@ -14,12 +13,13 @@
 2026-08-22T09:46:00+00:00	a bad deploy https://yak.bearblog.dev/a-bad-deploy/
 2026-08-22T14:41:00+00:00	Stop Trying to Distinguish AI-Generated Writing From Human Writing Because You Can’t https://journal.james-zhan.com/ai-writing/
 2026-08-22T15:27:00+00:00	The internet makes us lonely https://blog.gshelter.me/the-internet-makes-us-lonely/
+2026-08-22T16:02:00+00:00	The Future of Single-Player Final Fantasy https://blog.curiousquail.com/the-future-of-single-player-final-fantasy/
 2026-08-22T18:25:00+00:00	A book that quickly aged badly. And battleships. https://annoflo.net/fr-history/
 2026-08-22T19:12:00+00:00	I will never support America https://rocketcapsule.bearblog.dev/i-will-never-support-america/
 2026-08-22T19:24:00+00:00	being an artist doesn't mean drawing https://leeyuhsolve.bearblog.dev/being-an-artist-doesnt-mean-drawing/
 2026-08-22T19:25:00+00:00	Slow journalling https://piimyon.bearblog.dev/slow-journalling/
 2026-08-22T21:16:00+00:00	Through a Glass, Darkly https://householderkarl.com/through-a-glass-darkly/
 2026-08-22T21:22:00+00:00	Speak To Me Like A Human Please / Mental Illness Sucks / RE: Sacrificing accessibility... https://blog.agnes.love/speak-to-me-like-a-human-please-mental-illness-sucks-re-sacrificing-accessibility/
-2026-08-22T22:51:00+00:00	An unlikely experiment https://rushed-reflections.bearblog.dev/an-unlikely-experiment/
 2026-08-23T00:56:09.429744+00:00	twenty: bees! I have been remiss in posting BEEEEEssssss https://angrybunnyman.com/twenty-bees-i-have-been-remiss-in-posting-beeeeessssss/
 2026-08-23T00:59:26.468572+00:00	some cherry flavored drinks, rated https://cherrysroom.bearblog.dev/some-cherry-flavored-drinks-rated/
+2026-08-23T01:58:00+00:00	Freedom, in the form of a penis. https://boogerdiary.bearblog.dev/freedom-in-the-form-of-a-penis/

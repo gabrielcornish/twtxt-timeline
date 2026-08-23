@@ -4,7 +4,6 @@
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
 2026-08-19T11:00:50+00:00	Daily /r/Games Discussion - Suggest Me a Game - August 19, 2026 https://www.reddit.com/r/Games/comments/1vsj6g4/daily_rgames_discussion_suggest_me_a_game_august/
-2026-08-21T10:34:59+00:00	Marvel Tōkon launches to under 3,000 retail sales in Japan, the worst debut for a major Arc System Works fighter https://www.reddit.com/r/Games/comments/1vucndd/marvel_tōkon_launches_to_under_3000_retail_sales/
 2026-08-21T13:51:39+00:00	Take-Two Subpoenas Microsoft And Discord Over GTA 6 Leaks https://www.reddit.com/r/Games/comments/1vugz1d/taketwo_subpoenas_microsoft_and_discord_over_gta/
 2026-08-21T18:11:11+00:00	Double Fine launches Amnesia Fortnight 2026, Indie Reboot https://www.reddit.com/r/Games/comments/1vunzad/double_fine_launches_amnesia_fortnight_2026_indie/
 2026-08-21T18:57:08+00:00	Rockstar Rattled As ‘Grand Theft Auto VI’ Leaks Again https://www.reddit.com/r/Games/comments/1vup9ju/rockstar_rattled_as_grand_theft_auto_vi_leaks/
@@ -28,3 +27,4 @@
 2026-08-23T04:00:45+00:00	Indie Sunday Hub - August 23, 2026 https://www.reddit.com/r/Games/comments/1vvwtde/indie_sunday_hub_august_23_2026/
 2026-08-23T05:16:05+00:00	Confession of murder - Birparaq Team - psychological horror about a detective transferred to a small town to investigate a series of murders. https://www.reddit.com/r/Games/comments/1vvy7vx/confession_of_murder_birparaq_team_psychological/
 2026-08-23T06:59:10+00:00	Lofi Cozy Room - Bloomery - a cozy 3D desktop companion/life sim for Windows https://www.reddit.com/r/Games/comments/1vw01hr/lofi_cozy_room_bloomery_a_cozy_3d_desktop/
+2026-08-23T07:44:49+00:00	Zefyr - Oneiric Worlds - A super feel-good & colorful odyssey where you climb everywhere & ride a turtle (Zelda Windwaker X Sly Cooper) - [OUT NOW] https://www.reddit.com/r/Games/comments/1vw0u2e/zefyr_oneiric_worlds_a_super_feelgood_colorful/
