@@ -3,7 +3,6 @@
 # source = https://bearblog.dev/discover/feed/
 # description = twtxt conversion of https://bearblog.dev/discover/feed/
 
-2026-08-20T06:43:00+00:00	All the things I didn't say yesterday https://forsomeone.bearblog.dev/all-the-things-i-didnt-say-yesterday/
 2026-08-21T02:04:00+00:00	What We Lost When Search Stopped Making Us Think https://blog.8ball.space/what-we-lost-when-search/
 2026-08-21T13:25:00+00:00	Blogging As A Private Person https://sweaterpockets.bearblog.dev/blogging-as-a-private-person/
 2026-08-21T16:53:00+00:00	Shutting down for a while https://bonkposting.online/shutting-down-for-a-while/
@@ -21,5 +20,6 @@
 2026-08-22T17:07:43.437934+00:00	Black kites are everywhere! https://prasatt.me/black-kites-are-everywhere/
 2026-08-22T19:12:00+00:00	I will never support America https://rocketcapsule.bearblog.dev/i-will-never-support-america/
 2026-08-22T19:24:00+00:00	being an artist doesn't mean drawing https://leeyuhsolve.bearblog.dev/being-an-artist-doesnt-mean-drawing/
+2026-08-22T19:25:00+00:00	Slow journalling https://piimyon.bearblog.dev/slow-journalling/
 2026-08-22T21:16:00+00:00	Through a Glass, Darkly https://householderkarl.com/through-a-glass-darkly/
 2026-08-22T21:22:00+00:00	Speak To Me Like A Human Please / Mental Illness Sucks / RE: Sacrificing accessibility... https://blog.agnes.love/speak-to-me-like-a-human-please-mental-illness-sucks-re-sacrificing-accessibility/
