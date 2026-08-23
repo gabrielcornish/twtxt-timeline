@@ -9,7 +9,6 @@
 2026-08-21T23:45:00+00:00	The disability in the ADHD https://folkmoss.bearblog.dev/the-disability-in-the-adhd/
 2026-08-22T04:41:00+00:00	Demolition：我们为什么用悲伤证明爱 https://notesagainstcertainty.bearblog.dev/demolition/
 2026-08-22T06:30:38.298761+00:00	oh twitter, what did they do to you https://yttervia.bearblog.dev/oh-twitter-what-did-they-do-to-you/
-2026-08-22T09:46:00+00:00	a bad deploy https://yak.bearblog.dev/a-bad-deploy/
 2026-08-22T14:41:00+00:00	Stop Trying to Distinguish AI-Generated Writing From Human Writing Because You Can’t https://journal.james-zhan.com/ai-writing/
 2026-08-22T15:27:00+00:00	The internet makes us lonely https://blog.gshelter.me/the-internet-makes-us-lonely/
 2026-08-22T16:02:00+00:00	The Future of Single-Player Final Fantasy https://blog.curiousquail.com/the-future-of-single-player-final-fantasy/
@@ -23,3 +22,4 @@
 2026-08-23T00:56:09.429744+00:00	twenty: bees! I have been remiss in posting BEEEEEssssss https://angrybunnyman.com/twenty-bees-i-have-been-remiss-in-posting-beeeeessssss/
 2026-08-23T00:59:26.468572+00:00	some cherry flavored drinks, rated https://cherrysroom.bearblog.dev/some-cherry-flavored-drinks-rated/
 2026-08-23T01:58:00+00:00	Freedom, in the form of a penis. https://boogerdiary.bearblog.dev/freedom-in-the-form-of-a-penis/
+2026-08-23T06:57:00+00:00	Write like no one's reading https://robertbirming.com/write-like-no-reading/
