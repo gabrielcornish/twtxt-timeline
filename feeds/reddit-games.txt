@@ -3,12 +3,10 @@
 # source = https://www.reddit.com/r/Games.rss
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
-2026-08-21T13:51:39+00:00	Take-Two Subpoenas Microsoft And Discord Over GTA 6 Leaks https://www.reddit.com/r/Games/comments/1vugz1d/taketwo_subpoenas_microsoft_and_discord_over_gta/
 2026-08-21T18:57:08+00:00	Rockstar Rattled As ‘Grand Theft Auto VI’ Leaks Again https://www.reddit.com/r/Games/comments/1vup9ju/rockstar_rattled_as_grand_theft_auto_vi_leaks/
 2026-08-21T19:00:59+00:00	Psychonauts Dev Now Owns All Its Games Made Under Xbox And Their Publishing Rights: ‘Buying Any Of Our Games Helps Support The Studio’ https://www.reddit.com/r/Games/comments/1vupdf0/psychonauts_dev_now_owns_all_its_games_made_under/
 2026-08-22T00:49:33+00:00	BioShock Review - Mandalore Gaming https://www.reddit.com/r/Games/comments/1vuxyet/bioshock_review_mandalore_gaming/
 2026-08-22T00:51:04+00:00	Doublefine's Keeper and Kiln will soon be getting permanent price reductions https://www.reddit.com/r/Games/comments/1vuxzmp/doublefines_keeper_and_kiln_will_soon_be_getting/
-2026-08-22T03:19:00+00:00	Heatwarped - Official Reveal Trailer https://www.reddit.com/r/Games/comments/1vv131j/heatwarped_official_reveal_trailer/
 2026-08-22T06:16:15+00:00	Bodycam | This Is What a Gunshot Really Sounds Like | Devlog [2/4] https://www.reddit.com/r/Games/comments/1vv4hds/bodycam_this_is_what_a_gunshot_really_sounds_like/
 2026-08-22T07:16:53+00:00	MapleStory Classic official Grand Launch date: October 21, 2026, Founder's Access launch October 6, 2026 https://www.reddit.com/r/Games/comments/1vv5kcw/maplestory_classic_official_grand_launch_date/
 2026-08-22T11:41:32+00:00	Over the Top: WWI – Official USA DLC Launch Trailer https://www.reddit.com/r/Games/comments/1vva78a/over_the_top_wwi_official_usa_dlc_launch_trailer/
@@ -28,3 +26,5 @@
 2026-08-23T09:00:30+00:00	Weekly /r/Games Discussion - What have you been playing, and what are your thoughts? - August 23, 2026 https://www.reddit.com/r/Games/comments/1vw24i4/weekly_rgames_discussion_what_have_you_been/
 2026-08-23T09:03:27+00:00	Valve is now 30 years old. https://www.reddit.com/r/Games/comments/1vw26fa/valve_is_now_30_years_old/
 2026-08-23T09:49:53+00:00	Ski Lines - Yunogames - A minimalist ski map strategy game inspired by Mini Metro https://www.reddit.com/r/Games/comments/1vw2yyl/ski_lines_yunogames_a_minimalist_ski_map_strategy/
+2026-08-23T10:46:15+00:00	La Spaghetti - A fast & chaotic 2D pixel-art platformer where you play as a strand of spaghetti 🍝 https://www.reddit.com/r/Games/comments/1vw3y82/la_spaghetti_a_fast_chaotic_2d_pixelart/
+2026-08-23T11:25:17+00:00	Banshee Protocol - Ivan Pichugin - Space simulator of a missile defense operator https://www.reddit.com/r/Games/comments/1vw4oj5/banshee_protocol_ivan_pichugin_space_simulator_of/
