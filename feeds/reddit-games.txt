@@ -3,10 +3,7 @@
 # source = https://www.reddit.com/r/Games.rss
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
-2026-08-22T15:00:27+00:00	[SkillUp] Marvel's Wolverine - Preview https://www.reddit.com/r/Games/comments/1vveo23/skillup_marvels_wolverine_preview/
 2026-08-22T16:10:36+00:00	Final Fantasy XI Unlimited Free Trial Releasing In September 2026, Level Cap Increases To 75 https://www.reddit.com/r/Games/comments/1vvgfh1/final_fantasy_xi_unlimited_free_trial_releasing/
-2026-08-22T16:18:23+00:00	The opportunity cost of Sony's live service pivot is enormous | Opinion https://www.reddit.com/r/Games/comments/1vvgmep/the_opportunity_cost_of_sonys_live_service_pivot/
-2026-08-22T19:54:46+00:00	NEW Tides of Annihilation Gameplay Showcase (Gamescom 2026) https://www.reddit.com/r/Games/comments/1vvm6fs/new_tides_of_annihilation_gameplay_showcase/
 2026-08-22T20:37:56+00:00	Star Wars Galactic Racer Exclusive Multiplayer Overview Trailer https://www.reddit.com/r/Games/comments/1vvn9pm/star_wars_galactic_racer_exclusive_multiplayer/
 2026-08-22T21:23:56+00:00	Final Fantasy XII CO OP Mod Trailer Ivalice Together https://www.reddit.com/r/Games/comments/1vvodxg/final_fantasy_xii_co_op_mod_trailer_ivalice/
 2026-08-23T00:21:06+00:00	New Studio From Arkane Austin Devs Promises They Won’t Commit Another Redfall https://www.reddit.com/r/Games/comments/1vvse63/new_studio_from_arkane_austin_devs_promises_they/
@@ -27,4 +24,7 @@
 2026-08-23T19:19:03+00:00	Tamriel Rebuilt: Poison Song Expansion - Release Trailer https://www.reddit.com/r/Games/comments/1vwg928/tamriel_rebuilt_poison_song_expansion_release/
 2026-08-23T19:44:16+00:00	SHRIMP GAME: OVERKRILL - Gas God Games - A solo or multiplayer third-person shooter RPG. Pilot your SHRIMP platform to fight giant sea monsters, master elemental classes, and unearth secrets in the Co-Op/SP campaign, or krill your friends in PVP. https://www.reddit.com/r/Games/comments/1vwgwfe/shrimp_game_overkrill_gas_god_games_a_solo_or/
 2026-08-23T21:55:49+00:00	THROWN - Grimtek - A roguelite dicebuilder where you're held hostage and forced to play a twisted tabletop game against your kidnapper. https://www.reddit.com/r/Games/comments/1vwk80r/thrown_grimtek_a_roguelite_dicebuilder_where/
-2026-08-23T23:33:28+00:00	Heaven Maybe Later - A dark comedy where you act as the judge between Heaven and Hell https://www.reddit.com/r/Games/comments/1vwmihw/heaven_maybe_later_a_dark_comedy_where_you_act_as/
+2026-08-24T00:58:19+00:00	Hidetaka Miyazaki suggests FromSoftware is keen to return to single-player games after The Duskbloods and Elden Ring: Nightreign https://www.reddit.com/r/Games/comments/1vwodut/hidetaka_miyazaki_suggests_fromsoftware_is_keen/
+2026-08-24T01:08:53+00:00	BORE - Bavel - 4-player co-op extraction horror where you crew the drilling machine from the inside https://www.reddit.com/r/Games/comments/1vwom7l/bore_bavel_4player_coop_extraction_horror_where/
+2026-08-24T01:52:21+00:00	Our digging game is launching 11th September! DIG Raiders-Wishlist on Steam https://www.reddit.com/r/Games/comments/1vwpjbt/our_digging_game_is_launching_11th_september_dig/
+2026-08-24T01:52:44+00:00	Crushing on the Clock - Furnace Street Studio - Fun interactive dating sim with turn based fighting dates, several dating choices, a work/personal life sim with an interactive town. https://www.reddit.com/r/Games/comments/1vwpjn0/crushing_on_the_clock_furnace_street_studio_fun/
