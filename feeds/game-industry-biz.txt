@@ -3,7 +3,6 @@
 # source = https://www.gamesindustry.biz/feed
 # description = twtxt conversion of https://www.gamesindustry.biz/feed
 
-2026-08-11T13:05:23+00:00	Supermassive Games announces layoffs, up to 75 workers may be affected https://www.gamesindustry.biz/supermassive-games-announces-layoffs-up-to-75-workers-may-be-affected
 2026-08-11T14:05:37+00:00	Gamescom Dev speaker survey identifies potential impacts of AI on team structure and productivity https://www.gamesindustry.biz/gamescom-dev-speaker-survey-identifies-potential-impacts-of-ai-on-team-structure-and-productivity
 2026-08-12T08:59:53+00:00	UKIE-backed Digital Schoolhouse partners with Roblox to provide suite of tools for students to develop Roblox games in-class https://www.gamesindustry.biz/ukie-backed-digital-schoolhouse-partners-with-roblox-to-provide-suite-of-tools-for-students-to-develop-roblox-games-in-class
 2026-08-12T09:51:42+00:00	Pearl Abyss Q2 earnings decline as impact of Crimson Desert's launch period subsides https://www.gamesindustry.biz/pearl-abyss-q2-earnings-decline-as-impact-of-crimson-deserts-launch-period-subsides
@@ -53,3 +52,4 @@
 2026-08-21T14:00:36+00:00	IGN Entertainment brings Women In Gaming networking event to Gamescom https://www.gamesindustry.biz/ign-entertainment-brings-women-in-gaming-networking-event-to-gamescom
 2026-08-21T14:15:36+00:00	The opportunity cost of Sony's live service pivot is enormous | Opinion https://www.gamesindustry.biz/the-opportunity-cost-of-sonys-live-service-pivot-is-enormous-opinion
 2026-08-24T09:53:53+00:00	Take-Two Interactive files subpoenas against Microsoft, Discord, and X amid ongoing GTA 6 leaks https://www.gamesindustry.biz/take-two-interactive-files-subpoenas-against-microsoft-discord-and-x-amid-ongoing-gta-6-leaks
+2026-08-24T11:05:37+00:00	Double Fine Productions regains ownership of IP and publishing rights following independence from Xbox https://www.gamesindustry.biz/double-fine-productions-regains-ownership-of-ip-and-publishing-rights-following-independence-from-xbox

@@ -11,7 +11,6 @@
 2026-08-23T09:03:27+00:00	Valve is now 30 years old. https://www.reddit.com/r/Games/comments/1vw26fa/valve_is_now_30_years_old/
 2026-08-23T13:22:50+00:00	Gran Turismo creator Kazunori Yamauchi on the challenges of car game development - For example to reproduce the Nordschleife – the Nürburgring – took us four years.’ https://www.reddit.com/r/Games/comments/1vw73hg/gran_turismo_creator_kazunori_yamauchi_on_the/
 2026-08-23T13:31:00+00:00	Luminids - Luminids Studios - cozy world-building game where you guide a colony of small creatures back to their home https://www.reddit.com/r/Games/comments/1vw7a8t/luminids_luminids_studios_cozy_worldbuilding_game/
-2026-08-23T14:08:00+00:00	Age After Age - Farom Studio - city building strategy with deep logistics and management , no AI art used during dev https://www.reddit.com/r/Games/comments/1vw85pt/age_after_age_farom_studio_city_building_strategy/
 2026-08-23T14:26:12+00:00	How to Fish sold 1 million copies in 2 days https://www.reddit.com/r/Games/comments/1vw8lee/how_to_fish_sold_1_million_copies_in_2_days/
 2026-08-23T14:41:33+00:00	Withering Realms - Official Early Access Date Trailer https://www.reddit.com/r/Games/comments/1vw8yte/withering_realms_official_early_access_date/
 2026-08-23T15:33:17+00:00	Ardenfall - Spellcast Studios - Morrowind-like RPG set in a strange fantasy world https://www.reddit.com/r/Games/comments/1vwaad4/ardenfall_spellcast_studios_morrowindlike_rpg_set/
@@ -28,3 +27,4 @@
 2026-08-24T03:12:40+00:00	Witch War 1 - Nic Buzzanca - Battlefront-like Roguelite where you capture enemy bases to take over the world https://www.reddit.com/r/Games/comments/1vwr7k1/witch_war_1_nic_buzzanca_battlefrontlike/
 2026-08-24T09:28:02+00:00	The Blood of Dawnwalker is getting a 60 FPS Performance Mode Day 1 https://www.reddit.com/r/Games/comments/1vwxuzl/the_blood_of_dawnwalker_is_getting_a_60_fps/
 2026-08-24T09:32:48+00:00	Modern Warfare 4's Switch 2 Retail Version Is Apparently A Code-In-A-Box https://www.reddit.com/r/Games/comments/1vwxxyq/modern_warfare_4s_switch_2_retail_version_is/
+2026-08-24T11:28:35+00:00	No More Room in Hell 2 1.0 has been out for a few days - What are your thoughts? https://www.reddit.com/r/Games/comments/1vx050k/no_more_room_in_hell_2_10_has_been_out_for_a_few/
