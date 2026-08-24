@@ -7,10 +7,7 @@
 2026-08-23T09:03:27+00:00	Valve is now 30 years old. https://www.reddit.com/r/Games/comments/1vw26fa/valve_is_now_30_years_old/
 2026-08-23T13:22:50+00:00	Gran Turismo creator Kazunori Yamauchi on the challenges of car game development - For example to reproduce the Nordschleife – the Nürburgring – took us four years.’ https://www.reddit.com/r/Games/comments/1vw73hg/gran_turismo_creator_kazunori_yamauchi_on_the/
 2026-08-23T14:26:12+00:00	How to Fish sold 1 million copies in 2 days https://www.reddit.com/r/Games/comments/1vw8lee/how_to_fish_sold_1_million_copies_in_2_days/
-2026-08-23T14:41:33+00:00	Withering Realms - Official Early Access Date Trailer https://www.reddit.com/r/Games/comments/1vw8yte/withering_realms_official_early_access_date/
-2026-08-23T15:33:17+00:00	Ardenfall - Spellcast Studios - Morrowind-like RPG set in a strange fantasy world https://www.reddit.com/r/Games/comments/1vwaad4/ardenfall_spellcast_studios_morrowindlike_rpg_set/
 2026-08-23T15:41:11+00:00	Dishonored was a last-ditch effort by Arkane Studios after years of fruitless contract work, according to the game's co-creator: 'I think we had four months of money left' https://www.reddit.com/r/Games/comments/1vwahm0/dishonored_was_a_lastditch_effort_by_arkane/
-2026-08-23T17:22:44+00:00	Kaperfahrt - Kleinod Games - Open-world pirate sandbox where you rise from a single sloop to a feared legend in a Caribbean of 200 rival captains https://www.reddit.com/r/Games/comments/1vwd512/kaperfahrt_kleinod_games_openworld_pirate_sandbox/
 2026-08-23T18:17:09+00:00	Maps, Spawn Issues And Overall Lack Of Razzle Dazzle Leaves Players Cold On Modern Warfare 4 Beta https://www.reddit.com/r/Games/comments/1vwelkj/maps_spawn_issues_and_overall_lack_of_razzle/
 2026-08-23T18:22:39+00:00	The Aftermath of QUAKE - FUNKe STUDY https://www.reddit.com/r/Games/comments/1vwer20/the_aftermath_of_quake_funke_study/
 2026-08-23T19:19:03+00:00	Tamriel Rebuilt: Poison Song Expansion - Release Trailer https://www.reddit.com/r/Games/comments/1vwg928/tamriel_rebuilt_poison_song_expansion_release/
@@ -28,3 +25,6 @@
 2026-08-24T16:35:12+00:00	Ultrapool | Launch Trailer https://www.reddit.com/r/Games/comments/1vx7v70/ultrapool_launch_trailer/
 2026-08-24T16:39:26+00:00	Well Dweller ► Release Date Reveal [September 22] https://www.reddit.com/r/Games/comments/1vx7zdw/well_dweller_release_date_reveal_september_22/
 2026-08-24T16:50:07+00:00	CAA Launches Indie Game Acceleration Fund Frame1Games https://www.reddit.com/r/Games/comments/1vx8a4c/caa_launches_indie_game_acceleration_fund/
+2026-08-24T17:02:35+00:00	‘We heard your feedback’: Blood of Dawnwalker is getting a 60fps mode, after backlash https://www.reddit.com/r/Games/comments/1vx8mn2/we_heard_your_feedback_blood_of_dawnwalker_is/
+2026-08-24T17:38:32+00:00	[GTV Japan]Crash Bandicoot: How Naughty Dog Changed the Course of PlayStation and American Video Games https://www.reddit.com/r/Games/comments/1vx9nqn/gtv_japancrash_bandicoot_how_naughty_dog_changed/
+2026-08-24T17:42:46+00:00	Solasta II - Early Access - Update 1 Teaser Trailer https://www.reddit.com/r/Games/comments/1vx9rzx/solasta_ii_early_access_update_1_teaser_trailer/
