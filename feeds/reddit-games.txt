@@ -4,6 +4,7 @@
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
 2026-08-22T16:10:36+00:00	Final Fantasy XI Unlimited Free Trial Releasing In September 2026, Level Cap Increases To 75 https://www.reddit.com/r/Games/comments/1vvgfh1/final_fantasy_xi_unlimited_free_trial_releasing/
+2026-08-22T16:18:23+00:00	The opportunity cost of Sony's live service pivot is enormous | Opinion https://www.reddit.com/r/Games/comments/1vvgmep/the_opportunity_cost_of_sonys_live_service_pivot/
 2026-08-22T20:37:56+00:00	Star Wars Galactic Racer Exclusive Multiplayer Overview Trailer https://www.reddit.com/r/Games/comments/1vvn9pm/star_wars_galactic_racer_exclusive_multiplayer/
 2026-08-22T21:23:56+00:00	Final Fantasy XII CO OP Mod Trailer Ivalice Together https://www.reddit.com/r/Games/comments/1vvodxg/final_fantasy_xii_co_op_mod_trailer_ivalice/
 2026-08-23T00:21:06+00:00	New Studio From Arkane Austin Devs Promises They Won’t Commit Another Redfall https://www.reddit.com/r/Games/comments/1vvse63/new_studio_from_arkane_austin_devs_promises_they/
@@ -26,5 +27,4 @@
 2026-08-23T21:55:49+00:00	THROWN - Grimtek - A roguelite dicebuilder where you're held hostage and forced to play a twisted tabletop game against your kidnapper. https://www.reddit.com/r/Games/comments/1vwk80r/thrown_grimtek_a_roguelite_dicebuilder_where/
 2026-08-24T00:58:19+00:00	Hidetaka Miyazaki suggests FromSoftware is keen to return to single-player games after The Duskbloods and Elden Ring: Nightreign https://www.reddit.com/r/Games/comments/1vwodut/hidetaka_miyazaki_suggests_fromsoftware_is_keen/
 2026-08-24T01:08:53+00:00	BORE - Bavel - 4-player co-op extraction horror where you crew the drilling machine from the inside https://www.reddit.com/r/Games/comments/1vwom7l/bore_bavel_4player_coop_extraction_horror_where/
-2026-08-24T01:52:21+00:00	Our digging game is launching 11th September! DIG Raiders-Wishlist on Steam https://www.reddit.com/r/Games/comments/1vwpjbt/our_digging_game_is_launching_11th_september_dig/
-2026-08-24T01:52:44+00:00	Crushing on the Clock - Furnace Street Studio - Fun interactive dating sim with turn based fighting dates, several dating choices, a work/personal life sim with an interactive town. https://www.reddit.com/r/Games/comments/1vwpjn0/crushing_on_the_clock_furnace_street_studio_fun/
+2026-08-24T03:12:40+00:00	Witch War 1 - Nic Buzzanca - Battlefront-like Roguelite where you capture enemy bases to take over the world https://www.reddit.com/r/Games/comments/1vwr7k1/witch_war_1_nic_buzzanca_battlefrontlike/
