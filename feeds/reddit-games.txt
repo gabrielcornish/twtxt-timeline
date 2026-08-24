@@ -3,13 +3,11 @@
 # source = https://www.reddit.com/r/Games.rss
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
-2026-08-22T16:10:36+00:00	Final Fantasy XI Unlimited Free Trial Releasing In September 2026, Level Cap Increases To 75 https://www.reddit.com/r/Games/comments/1vvgfh1/final_fantasy_xi_unlimited_free_trial_releasing/
 2026-08-22T21:23:56+00:00	Final Fantasy XII CO OP Mod Trailer Ivalice Together https://www.reddit.com/r/Games/comments/1vvodxg/final_fantasy_xii_co_op_mod_trailer_ivalice/
 2026-08-23T00:21:06+00:00	New Studio From Arkane Austin Devs Promises They Won’t Commit Another Redfall https://www.reddit.com/r/Games/comments/1vvse63/new_studio_from_arkane_austin_devs_promises_they/
 2026-08-23T09:00:30+00:00	Weekly /r/Games Discussion - What have you been playing, and what are your thoughts? - August 23, 2026 https://www.reddit.com/r/Games/comments/1vw24i4/weekly_rgames_discussion_what_have_you_been/
 2026-08-23T09:03:27+00:00	Valve is now 30 years old. https://www.reddit.com/r/Games/comments/1vw26fa/valve_is_now_30_years_old/
 2026-08-23T13:22:50+00:00	Gran Turismo creator Kazunori Yamauchi on the challenges of car game development - For example to reproduce the Nordschleife – the Nürburgring – took us four years.’ https://www.reddit.com/r/Games/comments/1vw73hg/gran_turismo_creator_kazunori_yamauchi_on_the/
-2026-08-23T13:31:00+00:00	Luminids - Luminids Studios - cozy world-building game where you guide a colony of small creatures back to their home https://www.reddit.com/r/Games/comments/1vw7a8t/luminids_luminids_studios_cozy_worldbuilding_game/
 2026-08-23T14:26:12+00:00	How to Fish sold 1 million copies in 2 days https://www.reddit.com/r/Games/comments/1vw8lee/how_to_fish_sold_1_million_copies_in_2_days/
 2026-08-23T14:41:33+00:00	Withering Realms - Official Early Access Date Trailer https://www.reddit.com/r/Games/comments/1vw8yte/withering_realms_official_early_access_date/
 2026-08-23T15:33:17+00:00	Ardenfall - Spellcast Studios - Morrowind-like RPG set in a strange fantasy world https://www.reddit.com/r/Games/comments/1vwaad4/ardenfall_spellcast_studios_morrowindlike_rpg_set/
@@ -28,3 +26,5 @@
 2026-08-24T13:01:28+00:00	Study of best-selling genres on Steam shows sandbox games continue to stand out in revenue https://www.reddit.com/r/Games/comments/1vx26dn/study_of_bestselling_genres_on_steam_shows/
 2026-08-24T14:21:35+00:00	Story of Seasons - New Title Work-in-Progress Video https://www.reddit.com/r/Games/comments/1vx47wt/story_of_seasons_new_title_workinprogress_video/
 2026-08-24T14:22:19+00:00	Rune Factory 6 - Work-in-Progress Video https://www.reddit.com/r/Games/comments/1vx48ma/rune_factory_6_workinprogress_video/
+2026-08-24T15:11:03+00:00	Game Freak suggests Pokémon Champions was built partly so it could change battles in future games https://www.reddit.com/r/Games/comments/1vx5jfq/game_freak_suggests_pokémon_champions_was_built/
+2026-08-24T15:26:24+00:00	The Witcher IV will release in 2028 https://www.reddit.com/r/Games/comments/1vx5y93/the_witcher_iv_will_release_in_2028/

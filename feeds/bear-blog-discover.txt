@@ -3,8 +3,6 @@
 # source = https://bearblog.dev/discover/feed/
 # description = twtxt conversion of https://bearblog.dev/discover/feed/
 
-2026-08-21T22:35:46.535775+00:00	you SHOULD be bored sometimes https://rnotte.art/you-should-be-bored-sometimes/
-2026-08-21T23:45:00+00:00	The disability in the ADHD https://folkmoss.bearblog.dev/the-disability-in-the-adhd/
 2026-08-22T06:30:38.298761+00:00	oh twitter, what did they do to you https://yttervia.bearblog.dev/oh-twitter-what-did-they-do-to-you/
 2026-08-22T14:41:00+00:00	Stop Trying to Distinguish AI-Generated Writing From Human Writing Because You Can’t https://journal.james-zhan.com/ai-writing/
 2026-08-22T15:27:00+00:00	The internet makes us lonely https://blog.gshelter.me/the-internet-makes-us-lonely/
@@ -21,5 +19,7 @@
 2026-08-23T12:08:00+00:00	Random Differences We Noticed In Portugal https://carlosacollazo.com/random-differences-we-noticed-in-portugal/
 2026-08-23T12:50:00+00:00	Death of a Hobby https://elmc.at/death-of-a-hobby/
 2026-08-23T16:00:00+00:00	Summer Recess https://forkingmad.blog/summer-recess/
+2026-08-23T16:28:00+00:00	I think we all need to get over ourselves https://tala.bearblog.dev/i-think-we-all-need-to-get-over-ourselves/
 2026-08-23T19:14:00+00:00	Tea as a Cure For Brainrot https://blog.absurdpirate.com/tea-as-a-cure-for-brainrot/
 2026-08-24T03:59:00+00:00	experience being bald https://icyti.me/experience-being-bald/
+2026-08-24T12:13:00+00:00	Cara Needs Support From Us! https://sweaterpockets.bearblog.dev/cara-needs-support-from-us/
