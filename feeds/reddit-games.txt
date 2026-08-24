@@ -4,7 +4,6 @@
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
 2026-08-22T16:10:36+00:00	Final Fantasy XI Unlimited Free Trial Releasing In September 2026, Level Cap Increases To 75 https://www.reddit.com/r/Games/comments/1vvgfh1/final_fantasy_xi_unlimited_free_trial_releasing/
-2026-08-22T20:37:56+00:00	Star Wars Galactic Racer Exclusive Multiplayer Overview Trailer https://www.reddit.com/r/Games/comments/1vvn9pm/star_wars_galactic_racer_exclusive_multiplayer/
 2026-08-22T21:23:56+00:00	Final Fantasy XII CO OP Mod Trailer Ivalice Together https://www.reddit.com/r/Games/comments/1vvodxg/final_fantasy_xii_co_op_mod_trailer_ivalice/
 2026-08-23T00:21:06+00:00	New Studio From Arkane Austin Devs Promises They Won’t Commit Another Redfall https://www.reddit.com/r/Games/comments/1vvse63/new_studio_from_arkane_austin_devs_promises_they/
 2026-08-23T09:00:30+00:00	Weekly /r/Games Discussion - What have you been playing, and what are your thoughts? - August 23, 2026 https://www.reddit.com/r/Games/comments/1vw24i4/weekly_rgames_discussion_what_have_you_been/
@@ -18,7 +17,6 @@
 2026-08-23T17:22:44+00:00	Kaperfahrt - Kleinod Games - Open-world pirate sandbox where you rise from a single sloop to a feared legend in a Caribbean of 200 rival captains https://www.reddit.com/r/Games/comments/1vwd512/kaperfahrt_kleinod_games_openworld_pirate_sandbox/
 2026-08-23T18:17:09+00:00	Maps, Spawn Issues And Overall Lack Of Razzle Dazzle Leaves Players Cold On Modern Warfare 4 Beta https://www.reddit.com/r/Games/comments/1vwelkj/maps_spawn_issues_and_overall_lack_of_razzle/
 2026-08-23T18:22:39+00:00	The Aftermath of QUAKE - FUNKe STUDY https://www.reddit.com/r/Games/comments/1vwer20/the_aftermath_of_quake_funke_study/
-2026-08-23T18:41:30+00:00	Beetle Grove - Sawyer Kling - Pet Simulator inspired by Chao Garden https://www.reddit.com/r/Games/comments/1vwf97z/beetle_grove_sawyer_kling_pet_simulator_inspired/
 2026-08-23T19:19:03+00:00	Tamriel Rebuilt: Poison Song Expansion - Release Trailer https://www.reddit.com/r/Games/comments/1vwg928/tamriel_rebuilt_poison_song_expansion_release/
 2026-08-23T19:44:16+00:00	SHRIMP GAME: OVERKRILL - Gas God Games - A solo or multiplayer third-person shooter RPG. Pilot your SHRIMP platform to fight giant sea monsters, master elemental classes, and unearth secrets in the Co-Op/SP campaign, or krill your friends in PVP. https://www.reddit.com/r/Games/comments/1vwgwfe/shrimp_game_overkrill_gas_god_games_a_solo_or/
 2026-08-23T21:55:49+00:00	THROWN - Grimtek - A roguelite dicebuilder where you're held hostage and forced to play a twisted tabletop game against your kidnapper. https://www.reddit.com/r/Games/comments/1vwk80r/thrown_grimtek_a_roguelite_dicebuilder_where/
@@ -28,3 +26,5 @@
 2026-08-24T09:28:02+00:00	The Blood of Dawnwalker is getting a 60 FPS Performance Mode Day 1 https://www.reddit.com/r/Games/comments/1vwxuzl/the_blood_of_dawnwalker_is_getting_a_60_fps/
 2026-08-24T09:32:48+00:00	Modern Warfare 4's Switch 2 Retail Version Is Apparently A Code-In-A-Box https://www.reddit.com/r/Games/comments/1vwxxyq/modern_warfare_4s_switch_2_retail_version_is/
 2026-08-24T11:28:35+00:00	No More Room in Hell 2 1.0 has been out for a few days - What are your thoughts? https://www.reddit.com/r/Games/comments/1vx050k/no_more_room_in_hell_2_10_has_been_out_for_a_few/
+2026-08-24T12:43:33+00:00	Call of Duty: Modern Warfare 4 beta's first weekend numbers are in, and they're good - just not as high as Modern Warfare 2 https://www.reddit.com/r/Games/comments/1vx1rah/call_of_duty_modern_warfare_4_betas_first_weekend/
+2026-08-24T13:01:28+00:00	Study of best-selling genres on Steam shows sandbox games continue to stand out in revenue https://www.reddit.com/r/Games/comments/1vx26dn/study_of_bestselling_genres_on_steam_shows/
