@@ -3,7 +3,6 @@
 # source = https://www.gamesindustry.biz/feed
 # description = twtxt conversion of https://www.gamesindustry.biz/feed
 
-2026-08-11T12:26:32+00:00	Reforj developer 4J Studios unveils Rixels: modified pixels that reduce texture memory requirements by 98% https://www.gamesindustry.biz/reforj-developer-4j-studios-unveils-rixels-modified-pixels-that-reduce-texture-memory-requirements-by-98
 2026-08-11T13:05:23+00:00	Supermassive Games announces layoffs, up to 75 workers may be affected https://www.gamesindustry.biz/supermassive-games-announces-layoffs-up-to-75-workers-may-be-affected
 2026-08-11T14:05:37+00:00	Gamescom Dev speaker survey identifies potential impacts of AI on team structure and productivity https://www.gamesindustry.biz/gamescom-dev-speaker-survey-identifies-potential-impacts-of-ai-on-team-structure-and-productivity
 2026-08-12T08:59:53+00:00	UKIE-backed Digital Schoolhouse partners with Roblox to provide suite of tools for students to develop Roblox games in-class https://www.gamesindustry.biz/ukie-backed-digital-schoolhouse-partners-with-roblox-to-provide-suite-of-tools-for-students-to-develop-roblox-games-in-class
@@ -53,3 +52,4 @@
 2026-08-21T13:52:33+00:00	Compulsion Games officially separates from Xbox – "The team told me we would rather eat rocks and drink gasoline than be split up" https://www.gamesindustry.biz/compulsion-games-officially-separates-from-xbox-the-team-told-me-we-would-rather-eat-rocks-and-drink-gasoline-than-be-split-up
 2026-08-21T14:00:36+00:00	IGN Entertainment brings Women In Gaming networking event to Gamescom https://www.gamesindustry.biz/ign-entertainment-brings-women-in-gaming-networking-event-to-gamescom
 2026-08-21T14:15:36+00:00	The opportunity cost of Sony's live service pivot is enormous | Opinion https://www.gamesindustry.biz/the-opportunity-cost-of-sonys-live-service-pivot-is-enormous-opinion
+2026-08-24T09:53:53+00:00	Take-Two Interactive files subpoenas against Microsoft, Discord, and X amid ongoing GTA 6 leaks https://www.gamesindustry.biz/take-two-interactive-files-subpoenas-against-microsoft-discord-and-x-amid-ongoing-gta-6-leaks
