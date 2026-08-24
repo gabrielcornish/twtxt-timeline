@@ -3,7 +3,6 @@
 # source = https://www.gamesindustry.biz/feed
 # description = twtxt conversion of https://www.gamesindustry.biz/feed
 
-2026-08-12T08:59:53+00:00	UKIE-backed Digital Schoolhouse partners with Roblox to provide suite of tools for students to develop Roblox games in-class https://www.gamesindustry.biz/ukie-backed-digital-schoolhouse-partners-with-roblox-to-provide-suite-of-tools-for-students-to-develop-roblox-games-in-class
 2026-08-12T09:51:42+00:00	Pearl Abyss Q2 earnings decline as impact of Crimson Desert's launch period subsides https://www.gamesindustry.biz/pearl-abyss-q2-earnings-decline-as-impact-of-crimson-deserts-launch-period-subsides
 2026-08-12T10:46:01+00:00	BAFTA Games Awards updates voting requirements and entry fees as it opens entries for 2027 ceremony https://www.gamesindustry.biz/bafta-games-awards-updates-voting-requirements-and-entry-fees-as-it-opens-entries-for-2027-ceremony
 2026-08-12T11:00:00+00:00	How Planet of Lana became a hit through dogged determination after being rejected "hundreds" of times https://www.gamesindustry.biz/how-planet-of-lana-became-a-hit-through-dogged-determination-after-being-rejected-hundreds-of-times
@@ -53,3 +52,4 @@
 2026-08-24T09:53:53+00:00	Take-Two Interactive files subpoenas against Microsoft, Discord, and X amid ongoing GTA 6 leaks https://www.gamesindustry.biz/take-two-interactive-files-subpoenas-against-microsoft-discord-and-x-amid-ongoing-gta-6-leaks
 2026-08-24T11:05:37+00:00	Double Fine Productions regains ownership of IP and publishing rights following independence from Xbox https://www.gamesindustry.biz/double-fine-productions-regains-ownership-of-ip-and-publishing-rights-following-independence-from-xbox
 2026-08-24T14:01:44+00:00	Data: 96% of studios now run a direct-to-consumer web store or plan to https://www.gamesindustry.biz/data-96-of-studios-now-run-a-direct-to-consumer-web-store-or-plan-to
+2026-08-24T14:23:55+00:00	Maria Redin of mobile giant MTG on rebranding, buying Raid: Shadow Legends, and plans to double the company's size https://www.gamesindustry.biz/maria-redin-of-mobile-giant-mtg-on-rebranding-buying-raid-shadow-legends-and-plans-to-double-the-companys-size
