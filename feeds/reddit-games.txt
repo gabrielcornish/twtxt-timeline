@@ -1,0 +1,30 @@
+# nick = 🎮-Reddit-Games
+# url = https://raw.githubusercontent.com/gabrielcornish/twtxt-timeline/main/feeds/reddit-games.txt
+# source = https://www.reddit.com/r/Games.rss
+# description = twtxt conversion of https://www.reddit.com/r/Games.rss
+
+2026-08-22T16:10:36+00:00	Final Fantasy XI Unlimited Free Trial Releasing In September 2026, Level Cap Increases To 75 https://www.reddit.com/r/Games/comments/1vvgfh1/final_fantasy_xi_unlimited_free_trial_releasing/
+2026-08-22T20:37:56+00:00	Star Wars Galactic Racer Exclusive Multiplayer Overview Trailer https://www.reddit.com/r/Games/comments/1vvn9pm/star_wars_galactic_racer_exclusive_multiplayer/
+2026-08-22T21:23:56+00:00	Final Fantasy XII CO OP Mod Trailer Ivalice Together https://www.reddit.com/r/Games/comments/1vvodxg/final_fantasy_xii_co_op_mod_trailer_ivalice/
+2026-08-23T00:21:06+00:00	New Studio From Arkane Austin Devs Promises They Won’t Commit Another Redfall https://www.reddit.com/r/Games/comments/1vvse63/new_studio_from_arkane_austin_devs_promises_they/
+2026-08-23T09:00:30+00:00	Weekly /r/Games Discussion - What have you been playing, and what are your thoughts? - August 23, 2026 https://www.reddit.com/r/Games/comments/1vw24i4/weekly_rgames_discussion_what_have_you_been/
+2026-08-23T09:03:27+00:00	Valve is now 30 years old. https://www.reddit.com/r/Games/comments/1vw26fa/valve_is_now_30_years_old/
+2026-08-23T13:22:50+00:00	Gran Turismo creator Kazunori Yamauchi on the challenges of car game development - For example to reproduce the Nordschleife – the Nürburgring – took us four years.’ https://www.reddit.com/r/Games/comments/1vw73hg/gran_turismo_creator_kazunori_yamauchi_on_the/
+2026-08-23T13:31:00+00:00	Luminids - Luminids Studios - cozy world-building game where you guide a colony of small creatures back to their home https://www.reddit.com/r/Games/comments/1vw7a8t/luminids_luminids_studios_cozy_worldbuilding_game/
+2026-08-23T14:08:00+00:00	Age After Age - Farom Studio - city building strategy with deep logistics and management , no AI art used during dev https://www.reddit.com/r/Games/comments/1vw85pt/age_after_age_farom_studio_city_building_strategy/
+2026-08-23T14:26:12+00:00	How to Fish sold 1 million copies in 2 days https://www.reddit.com/r/Games/comments/1vw8lee/how_to_fish_sold_1_million_copies_in_2_days/
+2026-08-23T14:41:33+00:00	Withering Realms - Official Early Access Date Trailer https://www.reddit.com/r/Games/comments/1vw8yte/withering_realms_official_early_access_date/
+2026-08-23T15:33:17+00:00	Ardenfall - Spellcast Studios - Morrowind-like RPG set in a strange fantasy world https://www.reddit.com/r/Games/comments/1vwaad4/ardenfall_spellcast_studios_morrowindlike_rpg_set/
+2026-08-23T15:41:11+00:00	Dishonored was a last-ditch effort by Arkane Studios after years of fruitless contract work, according to the game's co-creator: 'I think we had four months of money left' https://www.reddit.com/r/Games/comments/1vwahm0/dishonored_was_a_lastditch_effort_by_arkane/
+2026-08-23T17:22:44+00:00	Kaperfahrt - Kleinod Games - Open-world pirate sandbox where you rise from a single sloop to a feared legend in a Caribbean of 200 rival captains https://www.reddit.com/r/Games/comments/1vwd512/kaperfahrt_kleinod_games_openworld_pirate_sandbox/
+2026-08-23T18:17:09+00:00	Maps, Spawn Issues And Overall Lack Of Razzle Dazzle Leaves Players Cold On Modern Warfare 4 Beta https://www.reddit.com/r/Games/comments/1vwelkj/maps_spawn_issues_and_overall_lack_of_razzle/
+2026-08-23T18:22:39+00:00	The Aftermath of QUAKE - FUNKe STUDY https://www.reddit.com/r/Games/comments/1vwer20/the_aftermath_of_quake_funke_study/
+2026-08-23T18:41:30+00:00	Beetle Grove - Sawyer Kling - Pet Simulator inspired by Chao Garden https://www.reddit.com/r/Games/comments/1vwf97z/beetle_grove_sawyer_kling_pet_simulator_inspired/
+2026-08-23T19:19:03+00:00	Tamriel Rebuilt: Poison Song Expansion - Release Trailer https://www.reddit.com/r/Games/comments/1vwg928/tamriel_rebuilt_poison_song_expansion_release/
+2026-08-23T19:44:16+00:00	SHRIMP GAME: OVERKRILL - Gas God Games - A solo or multiplayer third-person shooter RPG. Pilot your SHRIMP platform to fight giant sea monsters, master elemental classes, and unearth secrets in the Co-Op/SP campaign, or krill your friends in PVP. https://www.reddit.com/r/Games/comments/1vwgwfe/shrimp_game_overkrill_gas_god_games_a_solo_or/
+2026-08-23T21:55:49+00:00	THROWN - Grimtek - A roguelite dicebuilder where you're held hostage and forced to play a twisted tabletop game against your kidnapper. https://www.reddit.com/r/Games/comments/1vwk80r/thrown_grimtek_a_roguelite_dicebuilder_where/
+2026-08-24T00:58:19+00:00	Hidetaka Miyazaki suggests FromSoftware is keen to return to single-player games after The Duskbloods and Elden Ring: Nightreign https://www.reddit.com/r/Games/comments/1vwodut/hidetaka_miyazaki_suggests_fromsoftware_is_keen/
+2026-08-24T01:08:53+00:00	BORE - Bavel - 4-player co-op extraction horror where you crew the drilling machine from the inside https://www.reddit.com/r/Games/comments/1vwom7l/bore_bavel_4player_coop_extraction_horror_where/
+2026-08-24T03:12:40+00:00	Witch War 1 - Nic Buzzanca - Battlefront-like Roguelite where you capture enemy bases to take over the world https://www.reddit.com/r/Games/comments/1vwr7k1/witch_war_1_nic_buzzanca_battlefrontlike/
+2026-08-24T09:28:02+00:00	The Blood of Dawnwalker is getting a 60 FPS Performance Mode Day 1 https://www.reddit.com/r/Games/comments/1vwxuzl/the_blood_of_dawnwalker_is_getting_a_60_fps/
+2026-08-24T09:32:48+00:00	Modern Warfare 4's Switch 2 Retail Version Is Apparently A Code-In-A-Box https://www.reddit.com/r/Games/comments/1vwxxyq/modern_warfare_4s_switch_2_retail_version_is/
