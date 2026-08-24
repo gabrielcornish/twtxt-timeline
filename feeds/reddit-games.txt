@@ -4,7 +4,6 @@
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
 2026-08-23T09:00:30+00:00	Weekly /r/Games Discussion - What have you been playing, and what are your thoughts? - August 23, 2026 https://www.reddit.com/r/Games/comments/1vw24i4/weekly_rgames_discussion_what_have_you_been/
-2026-08-23T15:41:11+00:00	Dishonored was a last-ditch effort by Arkane Studios after years of fruitless contract work, according to the game's co-creator: 'I think we had four months of money left' https://www.reddit.com/r/Games/comments/1vwahm0/dishonored_was_a_lastditch_effort_by_arkane/
 2026-08-24T00:58:19+00:00	Hidetaka Miyazaki suggests FromSoftware is keen to return to single-player games after The Duskbloods and Elden Ring: Nightreign https://www.reddit.com/r/Games/comments/1vwodut/hidetaka_miyazaki_suggests_fromsoftware_is_keen/
 2026-08-24T09:32:48+00:00	Modern Warfare 4's Switch 2 Retail Version Is Apparently A Code-In-A-Box https://www.reddit.com/r/Games/comments/1vwxxyq/modern_warfare_4s_switch_2_retail_version_is/
 2026-08-24T11:28:35+00:00	No More Room in Hell 2 1.0 has been out for a few days - What are your thoughts? https://www.reddit.com/r/Games/comments/1vx050k/no_more_room_in_hell_2_10_has_been_out_for_a_few/
@@ -18,7 +17,6 @@
 2026-08-24T16:31:44+00:00	As Hideo Kojima Turns 63, the Metal Gear Solid Creator Says He Has More Ideas Than Ever but Less Time Left to Make Them https://www.reddit.com/r/Games/comments/1vx7rqs/as_hideo_kojima_turns_63_the_metal_gear_solid/
 2026-08-24T16:35:12+00:00	Ultrapool | Launch Trailer https://www.reddit.com/r/Games/comments/1vx7v70/ultrapool_launch_trailer/
 2026-08-24T16:39:26+00:00	Well Dweller ► Release Date Reveal [September 22] https://www.reddit.com/r/Games/comments/1vx7zdw/well_dweller_release_date_reveal_september_22/
-2026-08-24T16:50:07+00:00	CAA Launches Indie Game Acceleration Fund Frame1Games https://www.reddit.com/r/Games/comments/1vx8a4c/caa_launches_indie_game_acceleration_fund/
 2026-08-24T17:02:35+00:00	‘We heard your feedback’: Blood of Dawnwalker is getting a 60fps mode, after backlash https://www.reddit.com/r/Games/comments/1vx8mn2/we_heard_your_feedback_blood_of_dawnwalker_is/
 2026-08-24T17:38:32+00:00	[GTV Japan]Crash Bandicoot: How Naughty Dog Changed the Course of PlayStation and American Video Games https://www.reddit.com/r/Games/comments/1vx9nqn/gtv_japancrash_bandicoot_how_naughty_dog_changed/
 2026-08-24T17:42:46+00:00	Solasta II - Early Access - Update 1 Teaser Trailer https://www.reddit.com/r/Games/comments/1vx9rzx/solasta_ii_early_access_update_1_teaser_trailer/
@@ -28,3 +26,5 @@
 2026-08-24T18:22:26+00:00	The Blood of Dawnwalker — Updated Console Footage (Performance Mode 60fps) https://www.reddit.com/r/Games/comments/1vxax1e/the_blood_of_dawnwalker_updated_console_footage/
 2026-08-24T19:27:17+00:00	Alien Breed Is Getting A 35th Anniversary Collection https://www.reddit.com/r/Games/comments/1vxcsua/alien_breed_is_getting_a_35th_anniversary/
 2026-08-24T19:29:10+00:00	Sanitarium Enhanced - Announcement Trailer https://www.reddit.com/r/Games/comments/1vxcuqv/sanitarium_enhanced_announcement_trailer/
+2026-08-24T20:48:55+00:00	Acts of Blood - HARGAI 2026 Teaser https://www.reddit.com/r/Games/comments/1vxf1kf/acts_of_blood_hargai_2026_teaser/
+2026-08-24T21:01:18+00:00	Trine 6: New Release Date and Development Update https://www.reddit.com/r/Games/comments/1vxfdu3/trine_6_new_release_date_and_development_update/

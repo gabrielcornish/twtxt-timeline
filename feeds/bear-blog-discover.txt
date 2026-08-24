@@ -3,19 +3,18 @@
 # source = https://bearblog.dev/discover/feed/
 # description = twtxt conversion of https://bearblog.dev/discover/feed/
 
-2026-08-22T06:30:38.298761+00:00	oh twitter, what did they do to you https://yttervia.bearblog.dev/oh-twitter-what-did-they-do-to-you/
 2026-08-22T14:41:00+00:00	Stop Trying to Distinguish AI-Generated Writing From Human Writing Because You Can’t https://journal.james-zhan.com/ai-writing/
 2026-08-22T19:25:00+00:00	Slow journalling https://piimyon.bearblog.dev/slow-journalling/
 2026-08-22T21:16:00+00:00	Through a Glass, Darkly https://householderkarl.com/through-a-glass-darkly/
 2026-08-22T21:48:45.025263+00:00	My exercise masks a shit diet https://in-circles.uk/my-exercise-masks-a-shit-diet/
 2026-08-23T00:56:09.429744+00:00	twenty: bees! I have been remiss in posting BEEEEEssssss https://angrybunnyman.com/twenty-bees-i-have-been-remiss-in-posting-beeeeessssss/
 2026-08-23T01:58:00+00:00	Freedom, in the form of a penis. https://boogerdiary.bearblog.dev/freedom-in-the-form-of-a-penis/
-2026-08-23T04:39:00+00:00	ZLDA: Items & Dungeons https://hilanderrpgs.bearblog.dev/zlda-items-dungeons/
 2026-08-23T06:45:00+00:00	Hey!!! LisaGUI now has Printing! https://blog.yaros.ae/hey-lisagui-now-has-printing/
 2026-08-23T08:05:00+00:00	I haven’t watched The Odyssey, but my respect towards Christopher Nolan is now lower than the floor of the Aegean Sea https://halloumiseason.evdokimovas.com/misleading-marketing-and-the-odyssey-2026/
 2026-08-23T12:08:00+00:00	Random Differences We Noticed In Portugal https://carlosacollazo.com/random-differences-we-noticed-in-portugal/
 2026-08-23T12:50:00+00:00	Death of a Hobby https://elmc.at/death-of-a-hobby/
 2026-08-23T16:00:00+00:00	Summer Recess https://forkingmad.blog/summer-recess/
+2026-08-23T16:28:00+00:00	I think we all need to get over ourselves https://tala.bearblog.dev/i-think-we-all-need-to-get-over-ourselves/
 2026-08-23T19:14:00+00:00	Tea as a Cure For Brainrot https://blog.absurdpirate.com/tea-as-a-cure-for-brainrot/
 2026-08-24T00:57:00+00:00	The bike wasn't as fucked as I Thought it would be https://blog.lauramichet.com/the-bike-wasnt-as-fucked-as-i-thought-it-would-be/
 2026-08-24T03:59:00+00:00	experience being bald https://icyti.me/experience-being-bald/
@@ -23,3 +22,4 @@
 2026-08-24T12:13:00+00:00	Cara Needs Support From Us! https://sweaterpockets.bearblog.dev/cara-needs-support-from-us/
 2026-08-24T14:02:00+00:00	re: AI Writing Is Trash, But AI “Writers” Will Never Notice https://emersonwick.page/re-ai-writing-is-trash-but-ai-writers-will-never-notice/
 2026-08-24T16:02:27.625545+00:00	The world was sold 🌋 https://thinks.mikonian.ca/the-world-was-sold/
+2026-08-24T20:49:00+00:00	I have eliminated Microsoft from my life once and for all! https://skuth.us/i-have-eliminated-microsoft/
