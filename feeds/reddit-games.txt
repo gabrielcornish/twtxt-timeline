@@ -4,19 +4,12 @@
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
 2026-08-23T09:00:30+00:00	Weekly /r/Games Discussion - What have you been playing, and what are your thoughts? - August 23, 2026 https://www.reddit.com/r/Games/comments/1vw24i4/weekly_rgames_discussion_what_have_you_been/
-2026-08-25T07:15:05+00:00	Online PS3 trophies arrive on PC with PS3 emulator RPCS3 https://www.reddit.com/r/Games/comments/1vxso8n/online_ps3_trophies_arrive_on_pc_with_ps3/
-2026-08-25T14:39:13+00:00	ROG XBOX Ally X20 Pre-Order Now Open | Ships Oct 15 ($1299 USD for a standalone unit/$2499 bundled with AR glasses and other stuff) https://www.reddit.com/r/Games/comments/1vy1pmb/rog_xbox_ally_x20_preorder_now_open_ships_oct_15/
 2026-08-25T15:25:42+00:00	Ylem's Cat - Official Announcement Trailer https://www.reddit.com/r/Games/comments/1vy2yd8/ylems_cat_official_announcement_trailer/
 2026-08-25T15:37:20+00:00	Journey studio Thatgamecompany launches Thatgamepublisher to champion games that "move people through play" https://www.reddit.com/r/Games/comments/1vy39py/journey_studio_thatgamecompany_launches/
-2026-08-25T16:56:56+00:00	[Hardware Unboxed] The Best DLSS 4.5 Update Yet - Ray Reconstruction https://www.reddit.com/r/Games/comments/1vy5htp/hardware_unboxed_the_best_dlss_45_update_yet_ray/
 2026-08-25T17:39:34+00:00	Official /r/Games Gamescom Opening Night Live 2026 Megathread https://www.reddit.com/r/Games/comments/1vy6pad/official_rgames_gamescom_opening_night_live_2026/
 2026-08-25T17:42:37+00:00	Rollercoaster Tycoon Wonderworks (Official Early Access Announcement Trailer) https://www.reddit.com/r/Games/comments/1vy6sgi/rollercoaster_tycoon_wonderworks_official_early/
-2026-08-25T18:03:09+00:00	Valor Mortis - Story Trailer | Launching October 13 https://www.reddit.com/r/Games/comments/1vy7dek/valor_mortis_story_trailer_launching_october_13/
 2026-08-25T18:11:48+00:00	Nodusfall World Premiere Trailer | gamescom Opening Night Live 2026 https://www.reddit.com/r/Games/comments/1vy7mli/nodusfall_world_premiere_trailer_gamescom_opening/
 2026-08-25T18:19:49+00:00	Tom Clancy's Rainbow 6 Tactics World Premiere Trailer https://www.reddit.com/r/Games/comments/1vy7v20/tom_clancys_rainbow_6_tactics_world_premiere/
-2026-08-25T18:22:06+00:00	SILENT HILL: Townfall | Cast Reveal Trailer (4K: EN/ESRB) | KONAMI https://www.reddit.com/r/Games/comments/1vy7xfv/silent_hill_townfall_cast_reveal_trailer_4k/
-2026-08-25T18:22:11+00:00	Resonance: A Plague Tale Legacy - Launch Trailer https://www.reddit.com/r/Games/comments/1vy7xii/resonance_a_plague_tale_legacy_launch_trailer/
-2026-08-25T18:31:39+00:00	Crimson Desert Enhanced - Official Announcement Trailer | gamescom ONL 2026 https://www.reddit.com/r/Games/comments/1vy87dg/crimson_desert_enhanced_official_announcement/
 2026-08-25T18:32:59+00:00	Gears of War: E-Day | Official Story Trailer https://www.reddit.com/r/Games/comments/1vy88oq/gears_of_war_eday_official_story_trailer/
 2026-08-25T18:35:47+00:00	Mega Man: Dual Override - 1st Trailer - Mega Man Gameplay https://www.reddit.com/r/Games/comments/1vy8bkn/mega_man_dual_override_1st_trailer_mega_man/
 2026-08-25T18:43:02+00:00	Game of Thrones: War for Westeros | Official Gameplay Reveal Trailer https://www.reddit.com/r/Games/comments/1vy8iya/game_of_thrones_war_for_westeros_official/
@@ -24,7 +17,14 @@
 2026-08-25T18:47:41+00:00	Warlock: Dungeons & Dragons - Official Gameplay Reveal https://www.reddit.com/r/Games/comments/1vy8nnv/warlock_dungeons_dragons_official_gameplay_reveal/
 2026-08-25T18:50:09+00:00	Mariachi Legends - Release Date Announce Trailer | Gamescom Opening Night Live https://www.reddit.com/r/Games/comments/1vy8q2n/mariachi_legends_release_date_announce_trailer/
 2026-08-25T19:01:24+00:00	METRO 2039 | Gameplay Trailer - Renegade (4K) https://www.reddit.com/r/Games/comments/1vy91mb/metro_2039_gameplay_trailer_renegade_4k/
-2026-08-25T19:13:24+00:00	[Paradox Interactive] Afterworld: Official Announcement Trailer https://www.reddit.com/r/Games/comments/1vy9e2k/paradox_interactive_afterworld_official/
-2026-08-25T19:24:35+00:00	Stage Tour - Official Launch Date Trailer https://www.reddit.com/r/Games/comments/1vy9pqf/stage_tour_official_launch_date_trailer/
+2026-08-25T19:22:59+00:00	Showa American Story - gamescom In-Game Trailer https://www.reddit.com/r/Games/comments/1vy9o31/showa_american_story_gamescom_ingame_trailer/
 2026-08-25T19:32:58+00:00	LEGO Skylines | Announcement Trailer https://www.reddit.com/r/Games/comments/1vy9y2z/lego_skylines_announcement_trailer/
 2026-08-25T19:35:19+00:00	Path of Exile 2 Full Release | Play 1.0 for Free on December 11 https://www.reddit.com/r/Games/comments/1vya0k8/path_of_exile_2_full_release_play_10_for_free_on/
+2026-08-25T19:36:47+00:00	CONTROL Resonant - Altered State Trailer https://www.reddit.com/r/Games/comments/1vya1zg/control_resonant_altered_state_trailer/
+2026-08-25T19:42:09+00:00	ONTOS - Gameplay Reveal Trailer https://www.reddit.com/r/Games/comments/1vya7d9/ontos_gameplay_reveal_trailer/
+2026-08-25T19:44:25+00:00	NO LAW — Official Trailer | Gamescom ONL 2026 | 4K https://www.reddit.com/r/Games/comments/1vya9mj/no_law_official_trailer_gamescom_onl_2026_4k/
+2026-08-25T19:44:57+00:00	EXODUS Official Release Date Trailer | gamescom ONL 2026 https://www.reddit.com/r/Games/comments/1vyaa5e/exodus_official_release_date_trailer_gamescom_onl/
+2026-08-25T19:45:31+00:00	Heroes of Might and Magic III Remake - Reveal Trailer https://www.reddit.com/r/Games/comments/1vyaaq0/heroes_of_might_and_magic_iii_remake_reveal/
+2026-08-25T20:00:08+00:00	The Witcher 3: Wild Hunt — Remastered | Official Announcement Trailer https://www.reddit.com/r/Games/comments/1vyapfs/the_witcher_3_wild_hunt_remastered_official/
+2026-08-25T20:00:44+00:00	『FINAL FANTASY VII REVELATION』2ndトレーラー｜星の守護者 https://www.reddit.com/r/Games/comments/1vyaq8c/final_fantasy_vii_revelation2ndトレーラー星の守護者/
+2026-08-25T20:03:48+00:00	The Witcher 3: Wild Hunt – Songs of the Past World Premiere Trailer | gamescom Opening Night Live 20 https://www.reddit.com/r/Games/comments/1vyatgj/the_witcher_3_wild_hunt_songs_of_the_past_world/
