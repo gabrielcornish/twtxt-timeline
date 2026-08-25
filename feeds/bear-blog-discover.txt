@@ -3,9 +3,7 @@
 # source = https://bearblog.dev/discover/feed/
 # description = twtxt conversion of https://bearblog.dev/discover/feed/
 
-2026-08-22T19:25:00+00:00	Slow journalling https://piimyon.bearblog.dev/slow-journalling/
 2026-08-22T21:16:00+00:00	Through a Glass, Darkly https://householderkarl.com/through-a-glass-darkly/
-2026-08-22T21:48:45.025263+00:00	My exercise masks a shit diet https://in-circles.uk/my-exercise-masks-a-shit-diet/
 2026-08-23T00:56:09.429744+00:00	twenty: bees! I have been remiss in posting BEEEEEssssss https://angrybunnyman.com/twenty-bees-i-have-been-remiss-in-posting-beeeeessssss/
 2026-08-23T01:58:00+00:00	Freedom, in the form of a penis. https://boogerdiary.bearblog.dev/freedom-in-the-form-of-a-penis/
 2026-08-23T06:45:00+00:00	Hey!!! LisaGUI now has Printing! https://blog.yaros.ae/hey-lisagui-now-has-printing/
@@ -19,6 +17,8 @@
 2026-08-24T03:59:00+00:00	experience being bald https://icyti.me/experience-being-bald/
 2026-08-24T06:14:00+00:00	a bearblogger taught me this word... https://leeyuhsolve.bearblog.dev/neologisms/
 2026-08-24T12:13:00+00:00	Cara Needs Support From Us! https://sweaterpockets.bearblog.dev/cara-needs-support-from-us/
+2026-08-24T16:02:27.625545+00:00	The world was sold 🌋 https://thinks.mikonian.ca/the-world-was-sold/
+2026-08-24T17:02:00+00:00	Questioning what death does to those left behind https://forsomeone.bearblog.dev/questioning-what-death-does-to-those-left-behind/
 2026-08-24T20:49:00+00:00	I have eliminated Microsoft from my life once and for all! https://skuth.us/i-have-eliminated-microsoft/
 2026-08-24T23:07:00+00:00	My Mom Has Cancer https://blog.absurdpirate.com/my-mom-has-cancer/
 2026-08-24T23:48:00+00:00	Amathia, or: How I Lost Respect for My Father https://householderkarl.com/amathia/
