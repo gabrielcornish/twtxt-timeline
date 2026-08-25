@@ -3,7 +3,6 @@
 # source = https://www.gamesindustry.biz/feed
 # description = twtxt conversion of https://www.gamesindustry.biz/feed
 
-2026-08-12T10:46:01+00:00	BAFTA Games Awards updates voting requirements and entry fees as it opens entries for 2027 ceremony https://www.gamesindustry.biz/bafta-games-awards-updates-voting-requirements-and-entry-fees-as-it-opens-entries-for-2027-ceremony
 2026-08-12T11:00:00+00:00	How Planet of Lana became a hit through dogged determination after being rejected "hundreds" of times https://www.gamesindustry.biz/how-planet-of-lana-became-a-hit-through-dogged-determination-after-being-rejected-hundreds-of-times
 2026-08-12T13:07:48+00:00	Amazon steps back from MMOs, transfers operations of Throne and Liberty and Lost Art to NC and Smilegate https://www.gamesindustry.biz/mmorpg-throne-and-liberty-transitions-from-amazon-game-studios-to-nc-formerly-ncsoft
 2026-08-12T13:58:09+00:00	CodeDev Group launches dev studio Full Spectrum Interactive https://www.gamesindustry.biz/codedev-group-launches-dev-studio-full-spectrum-interactive
@@ -53,3 +52,4 @@
 2026-08-24T14:01:44+00:00	Data: 96% of studios now run a direct-to-consumer web store or plan to https://www.gamesindustry.biz/data-96-of-studios-now-run-a-direct-to-consumer-web-store-or-plan-to
 2026-08-24T14:23:55+00:00	Maria Redin of mobile giant MTG on rebranding, buying Raid: Shadow Legends, and plans to double the company's size https://www.gamesindustry.biz/maria-redin-of-mobile-giant-mtg-on-rebranding-buying-raid-shadow-legends-and-plans-to-double-the-companys-size
 2026-08-25T07:04:11+00:00	GDC Festival of Gaming announces changes to 2027 event, including new Business Hall at Moscone West https://www.gamesindustry.biz/gdc-festival-of-gaming-announces-changes-to-2027-event-including-new-business-hall-at-moscone-west
+2026-08-25T08:00:00+00:00	Godot Engine partner firm W4 Games secures $18m Series B funding, signs deal with Tencent to bolster Asia ecosystem https://www.gamesindustry.biz/godot-engine-partner-firm-w4-games-secures-18m-series-b-funding-signs-deal-with-tencent-to-bolster-asia-ecosystem
