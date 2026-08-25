@@ -4,9 +4,6 @@
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
 2026-08-23T09:00:30+00:00	Weekly /r/Games Discussion - What have you been playing, and what are your thoughts? - August 23, 2026 https://www.reddit.com/r/Games/comments/1vw24i4/weekly_rgames_discussion_what_have_you_been/
-2026-08-24T15:26:24+00:00	The Witcher IV will release in 2028 https://www.reddit.com/r/Games/comments/1vx5y93/the_witcher_iv_will_release_in_2028/
-2026-08-25T04:46:16+00:00	"EARTH DEFENSE FORCE 6.2 INVADERS FROM ANOTHER WORLD" Announcement Trailer https://www.reddit.com/r/Games/comments/1vxq0xg/earth_defense_force_62_invaders_from_another/
-2026-08-25T06:13:50+00:00	The Duskbloods - What are your impressions following the Network Test over the weekend? https://www.reddit.com/r/Games/comments/1vxrlz4/the_duskbloods_what_are_your_impressions/
 2026-08-25T07:15:05+00:00	Online PS3 trophies arrive on PC with PS3 emulator RPCS3 https://www.reddit.com/r/Games/comments/1vxso8n/online_ps3_trophies_arrive_on_pc_with_ps3/
 2026-08-25T14:39:13+00:00	ROG XBOX Ally X20 Pre-Order Now Open | Ships Oct 15 ($1299 USD for a standalone unit/$2499 bundled with AR glasses and other stuff) https://www.reddit.com/r/Games/comments/1vy1pmb/rog_xbox_ally_x20_preorder_now_open_ships_oct_15/
 2026-08-25T15:25:42+00:00	Ylem's Cat - Official Announcement Trailer https://www.reddit.com/r/Games/comments/1vy2yd8/ylems_cat_official_announcement_trailer/
@@ -14,7 +11,6 @@
 2026-08-25T16:56:56+00:00	[Hardware Unboxed] The Best DLSS 4.5 Update Yet - Ray Reconstruction https://www.reddit.com/r/Games/comments/1vy5htp/hardware_unboxed_the_best_dlss_45_update_yet_ray/
 2026-08-25T17:39:34+00:00	Official /r/Games Gamescom Opening Night Live 2026 Megathread https://www.reddit.com/r/Games/comments/1vy6pad/official_rgames_gamescom_opening_night_live_2026/
 2026-08-25T17:42:37+00:00	Rollercoaster Tycoon Wonderworks (Official Early Access Announcement Trailer) https://www.reddit.com/r/Games/comments/1vy6sgi/rollercoaster_tycoon_wonderworks_official_early/
-2026-08-25T17:53:15+00:00	Murals - Official Reveal Trailer https://www.reddit.com/r/Games/comments/1vy7313/murals_official_reveal_trailer/
 2026-08-25T18:03:09+00:00	Valor Mortis - Story Trailer | Launching October 13 https://www.reddit.com/r/Games/comments/1vy7dek/valor_mortis_story_trailer_launching_october_13/
 2026-08-25T18:11:48+00:00	Nodusfall World Premiere Trailer | gamescom Opening Night Live 2026 https://www.reddit.com/r/Games/comments/1vy7mli/nodusfall_world_premiere_trailer_gamescom_opening/
 2026-08-25T18:19:49+00:00	Tom Clancy's Rainbow 6 Tactics World Premiere Trailer https://www.reddit.com/r/Games/comments/1vy7v20/tom_clancys_rainbow_6_tactics_world_premiere/
@@ -25,6 +21,10 @@
 2026-08-25T18:35:47+00:00	Mega Man: Dual Override - 1st Trailer - Mega Man Gameplay https://www.reddit.com/r/Games/comments/1vy8bkn/mega_man_dual_override_1st_trailer_mega_man/
 2026-08-25T18:43:02+00:00	Game of Thrones: War for Westeros | Official Gameplay Reveal Trailer https://www.reddit.com/r/Games/comments/1vy8iya/game_of_thrones_war_for_westeros_official/
 2026-08-25T18:43:07+00:00	ANANTA Launch Date Trailer | Global Release January 15th, 2027 https://www.reddit.com/r/Games/comments/1vy8j1t/ananta_launch_date_trailer_global_release_january/
-2026-08-25T18:45:04+00:00	Game of Thrones: War for Westeros | Official Gameplay Reveal Trailer https://www.reddit.com/r/Games/comments/1vy8kwp/game_of_thrones_war_for_westeros_official/
 2026-08-25T18:47:41+00:00	Warlock: Dungeons & Dragons - Official Gameplay Reveal https://www.reddit.com/r/Games/comments/1vy8nnv/warlock_dungeons_dragons_official_gameplay_reveal/
 2026-08-25T18:50:09+00:00	Mariachi Legends - Release Date Announce Trailer | Gamescom Opening Night Live https://www.reddit.com/r/Games/comments/1vy8q2n/mariachi_legends_release_date_announce_trailer/
+2026-08-25T19:01:24+00:00	METRO 2039 | Gameplay Trailer - Renegade (4K) https://www.reddit.com/r/Games/comments/1vy91mb/metro_2039_gameplay_trailer_renegade_4k/
+2026-08-25T19:13:24+00:00	[Paradox Interactive] Afterworld: Official Announcement Trailer https://www.reddit.com/r/Games/comments/1vy9e2k/paradox_interactive_afterworld_official/
+2026-08-25T19:24:35+00:00	Stage Tour - Official Launch Date Trailer https://www.reddit.com/r/Games/comments/1vy9pqf/stage_tour_official_launch_date_trailer/
+2026-08-25T19:32:58+00:00	LEGO Skylines | Announcement Trailer https://www.reddit.com/r/Games/comments/1vy9y2z/lego_skylines_announcement_trailer/
+2026-08-25T19:35:19+00:00	Path of Exile 2 Full Release | Play 1.0 for Free on December 11 https://www.reddit.com/r/Games/comments/1vya0k8/path_of_exile_2_full_release_play_10_for_free_on/
