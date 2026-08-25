@@ -4,7 +4,6 @@
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
 2026-08-23T09:00:30+00:00	Weekly /r/Games Discussion - What have you been playing, and what are your thoughts? - August 23, 2026 https://www.reddit.com/r/Games/comments/1vw24i4/weekly_rgames_discussion_what_have_you_been/
-2026-08-24T09:32:48+00:00	Modern Warfare 4's Switch 2 Retail Version Is Apparently A Code-In-A-Box https://www.reddit.com/r/Games/comments/1vwxxyq/modern_warfare_4s_switch_2_retail_version_is/
 2026-08-24T13:01:28+00:00	Study of best-selling genres on Steam shows sandbox games continue to stand out in revenue https://www.reddit.com/r/Games/comments/1vx26dn/study_of_bestselling_genres_on_steam_shows/
 2026-08-24T14:21:35+00:00	Story of Seasons - New Title Work-in-Progress Video https://www.reddit.com/r/Games/comments/1vx47wt/story_of_seasons_new_title_workinprogress_video/
 2026-08-24T14:22:19+00:00	Rune Factory 6 - Work-in-Progress Video https://www.reddit.com/r/Games/comments/1vx48ma/rune_factory_6_workinprogress_video/
@@ -14,7 +13,6 @@
 2026-08-24T16:31:44+00:00	As Hideo Kojima Turns 63, the Metal Gear Solid Creator Says He Has More Ideas Than Ever but Less Time Left to Make Them https://www.reddit.com/r/Games/comments/1vx7rqs/as_hideo_kojima_turns_63_the_metal_gear_solid/
 2026-08-24T17:42:46+00:00	Solasta II - Early Access - Update 1 Teaser Trailer https://www.reddit.com/r/Games/comments/1vx9rzx/solasta_ii_early_access_update_1_teaser_trailer/
 2026-08-24T18:09:41+00:00	Terranigma - Rebirth Trailer https://www.reddit.com/r/Games/comments/1vxajub/terranigma_rebirth_trailer/
-2026-08-24T18:18:50+00:00	Carrier Command 2 - Official Console Announcement Trailer https://www.reddit.com/r/Games/comments/1vxat76/carrier_command_2_official_console_announcement/
 2026-08-24T18:22:26+00:00	The Blood of Dawnwalker — Updated Console Footage (Performance Mode 60fps) https://www.reddit.com/r/Games/comments/1vxax1e/the_blood_of_dawnwalker_updated_console_footage/
 2026-08-24T19:27:17+00:00	Alien Breed Is Getting A 35th Anniversary Collection https://www.reddit.com/r/Games/comments/1vxcsua/alien_breed_is_getting_a_35th_anniversary/
 2026-08-24T19:29:10+00:00	Sanitarium Enhanced - Announcement Trailer https://www.reddit.com/r/Games/comments/1vxcuqv/sanitarium_enhanced_announcement_trailer/
@@ -28,3 +26,5 @@
 2026-08-25T06:13:50+00:00	The Duskbloods - What are your impressions following the Network Test over the weekend? https://www.reddit.com/r/Games/comments/1vxrlz4/the_duskbloods_what_are_your_impressions/
 2026-08-25T07:15:05+00:00	Online PS3 trophies arrive on PC with PS3 emulator RPCS3 https://www.reddit.com/r/Games/comments/1vxso8n/online_ps3_trophies_arrive_on_pc_with_ps3/
 2026-08-25T14:39:13+00:00	ROG XBOX Ally X20 Pre-Order Now Open | Ships Oct 15 ($1299 USD for a standalone unit/$2499 bundled with AR glasses and other stuff) https://www.reddit.com/r/Games/comments/1vy1pmb/rog_xbox_ally_x20_preorder_now_open_ships_oct_15/
+2026-08-25T15:25:42+00:00	Ylem's Cat - Official Announcement Trailer https://www.reddit.com/r/Games/comments/1vy2yd8/ylems_cat_official_announcement_trailer/
+2026-08-25T15:37:20+00:00	Journey studio Thatgamecompany launches Thatgamepublisher to champion games that "move people through play" https://www.reddit.com/r/Games/comments/1vy39py/journey_studio_thatgamecompany_launches/

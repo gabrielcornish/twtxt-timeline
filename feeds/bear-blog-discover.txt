@@ -3,7 +3,6 @@
 # source = https://bearblog.dev/discover/feed/
 # description = twtxt conversion of https://bearblog.dev/discover/feed/
 
-2026-08-23T00:56:09.429744+00:00	twenty: bees! I have been remiss in posting BEEEEEssssss https://angrybunnyman.com/twenty-bees-i-have-been-remiss-in-posting-beeeeessssss/
 2026-08-23T08:05:00+00:00	I haven’t watched The Odyssey, but my respect towards Christopher Nolan is now lower than the floor of the Aegean Sea https://halloumiseason.evdokimovas.com/misleading-marketing-and-the-odyssey-2026/
 2026-08-23T12:08:00+00:00	Random Differences We Noticed In Portugal https://carlosacollazo.com/random-differences-we-noticed-in-portugal/
 2026-08-23T12:50:00+00:00	Death of a Hobby https://elmc.at/death-of-a-hobby/
@@ -23,3 +22,4 @@
 2026-08-25T01:40:00+00:00	The Part of Our Friendship We Kept https://notes.jeddacp.com/the-part-of-our-friendship-we-kept/
 2026-08-25T10:21:00+00:00	It's OK to Take a Break from Thinking About Digital Privacy https://theprivacydad.com/its-ok-to-take-a-break-from-thinking-about-digital-privacy/
 2026-08-25T11:59:44.764730+00:00	Extending life perception https://herman.bearblog.dev/extending-life-perception/
+2026-08-25T12:31:00+00:00	Merchants of Insecurity https://blog.happyfellow.dev/merchants-of-insecurity/
