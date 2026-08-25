@@ -4,7 +4,6 @@
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
 2026-08-23T09:00:30+00:00	Weekly /r/Games Discussion - What have you been playing, and what are your thoughts? - August 23, 2026 https://www.reddit.com/r/Games/comments/1vw24i4/weekly_rgames_discussion_what_have_you_been/
-2026-08-25T15:37:20+00:00	Journey studio Thatgamecompany launches Thatgamepublisher to champion games that "move people through play" https://www.reddit.com/r/Games/comments/1vy39py/journey_studio_thatgamecompany_launches/
 2026-08-25T17:39:34+00:00	Official /r/Games Gamescom Opening Night Live 2026 Megathread https://www.reddit.com/r/Games/comments/1vy6pad/official_rgames_gamescom_opening_night_live_2026/
 2026-08-25T17:42:37+00:00	Rollercoaster Tycoon Wonderworks (Official Early Access Announcement Trailer) https://www.reddit.com/r/Games/comments/1vy6sgi/rollercoaster_tycoon_wonderworks_official_early/
 2026-08-25T18:11:48+00:00	Nodusfall World Premiere Trailer | gamescom Opening Night Live 2026 https://www.reddit.com/r/Games/comments/1vy7mli/nodusfall_world_premiere_trailer_gamescom_opening/
@@ -28,3 +27,4 @@
 2026-08-25T20:00:08+00:00	The Witcher 3: Wild Hunt — Remastered | Official Announcement Trailer https://www.reddit.com/r/Games/comments/1vyapfs/the_witcher_3_wild_hunt_remastered_official/
 2026-08-25T20:00:44+00:00	『FINAL FANTASY VII REVELATION』2ndトレーラー｜星の守護者 https://www.reddit.com/r/Games/comments/1vyaq8c/final_fantasy_vii_revelation2ndトレーラー星の守護者/
 2026-08-25T20:03:48+00:00	The Witcher 3: Wild Hunt – Songs of the Past World Premiere Trailer | gamescom Opening Night Live 20 https://www.reddit.com/r/Games/comments/1vyatgj/the_witcher_3_wild_hunt_songs_of_the_past_world/
+2026-08-25T20:54:43+00:00	Pony Island 2: Panda Circus - Release Date Trailer https://www.reddit.com/r/Games/comments/1vyc97s/pony_island_2_panda_circus_release_date_trailer/
