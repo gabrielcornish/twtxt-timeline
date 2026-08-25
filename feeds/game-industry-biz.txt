@@ -3,7 +3,6 @@
 # source = https://www.gamesindustry.biz/feed
 # description = twtxt conversion of https://www.gamesindustry.biz/feed
 
-2026-08-12T16:33:08+00:00	Witcher multiplayer spin-off Project Sirius hit by fresh layoffs https://www.gamesindustry.biz/witcher-multiplayer-spin-off-project-sirius-hit-by-fresh-layoffs
 2026-08-13T13:06:36+00:00	Testronic appoints Sonia Kerr as CEO, Sharon Baylay-Bell becomes company chair https://www.gamesindustry.biz/testronic-appoints-sonia-kerr-as-ceo-sharon-baylay-bell-becomes-company-chair
 2026-08-13T14:00:44+00:00	Sensor Tower: 89% of GTA6 preorders are for the $100 ultimate edition https://www.gamesindustry.biz/sensor-tower-89-of-gta6-preorders-are-for-the-100-ultimate-edition
 2026-08-13T16:55:14+00:00	Mattel launches new global studios business to develop games based on its IP https://www.gamesindustry.biz/mattel-launches-new-global-studios-business-to-develop-games-based-on-its-ip
@@ -53,3 +52,4 @@
 2026-08-25T11:00:00+00:00	Gamescom Dev head says smaller studios represent the biggest opportunity in the games market https://www.gamesindustry.biz/gamescom-dev-head-says-smaller-studios-represent-the-biggest-opportunity-in-the-games-market
 2026-08-25T11:31:09+00:00	EU games industry generated €24bn in 2024, studios reached 6,600 and workforce exceeded 95,000 https://www.gamesindustry.biz/eu-games-industry-generated-24bn-in-2024-studios-reached-6600-and-workforce-exceeded-95000
 2026-08-25T13:00:00+00:00	Journey studio Thatgamecompany launches Thatgamepublisher to champion games that "move people through play" https://www.gamesindustry.biz/journey-studio-thatgamecompany-launches-thatgamepublisher-to-champion-games-that-move-people-through-play
+2026-08-25T13:41:50+00:00	Maverick Games partners with Focus Entertainment to publish debut racing title Clutch https://www.gamesindustry.biz/maverick-games-partners-with-focus-entertainment-to-publish-debut-racing-title-clutch
