@@ -4,6 +4,7 @@
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
 2026-08-23T09:00:30+00:00	Weekly /r/Games Discussion - What have you been playing, and what are your thoughts? - August 23, 2026 https://www.reddit.com/r/Games/comments/1vw24i4/weekly_rgames_discussion_what_have_you_been/
+2026-08-24T00:58:19+00:00	Hidetaka Miyazaki suggests FromSoftware is keen to return to single-player games after The Duskbloods and Elden Ring: Nightreign https://www.reddit.com/r/Games/comments/1vwodut/hidetaka_miyazaki_suggests_fromsoftware_is_keen/
 2026-08-24T09:32:48+00:00	Modern Warfare 4's Switch 2 Retail Version Is Apparently A Code-In-A-Box https://www.reddit.com/r/Games/comments/1vwxxyq/modern_warfare_4s_switch_2_retail_version_is/
 2026-08-24T13:01:28+00:00	Study of best-selling genres on Steam shows sandbox games continue to stand out in revenue https://www.reddit.com/r/Games/comments/1vx26dn/study_of_bestselling_genres_on_steam_shows/
 2026-08-24T14:21:35+00:00	Story of Seasons - New Title Work-in-Progress Video https://www.reddit.com/r/Games/comments/1vx47wt/story_of_seasons_new_title_workinprogress_video/
@@ -14,7 +15,6 @@
 2026-08-24T16:31:44+00:00	As Hideo Kojima Turns 63, the Metal Gear Solid Creator Says He Has More Ideas Than Ever but Less Time Left to Make Them https://www.reddit.com/r/Games/comments/1vx7rqs/as_hideo_kojima_turns_63_the_metal_gear_solid/
 2026-08-24T16:35:12+00:00	Ultrapool | Launch Trailer https://www.reddit.com/r/Games/comments/1vx7v70/ultrapool_launch_trailer/
 2026-08-24T16:39:26+00:00	Well Dweller ► Release Date Reveal [September 22] https://www.reddit.com/r/Games/comments/1vx7zdw/well_dweller_release_date_reveal_september_22/
-2026-08-24T17:02:35+00:00	‘We heard your feedback’: Blood of Dawnwalker is getting a 60fps mode, after backlash https://www.reddit.com/r/Games/comments/1vx8mn2/we_heard_your_feedback_blood_of_dawnwalker_is/
 2026-08-24T17:42:46+00:00	Solasta II - Early Access - Update 1 Teaser Trailer https://www.reddit.com/r/Games/comments/1vx9rzx/solasta_ii_early_access_update_1_teaser_trailer/
 2026-08-24T18:09:41+00:00	Terranigma - Rebirth Trailer https://www.reddit.com/r/Games/comments/1vxajub/terranigma_rebirth_trailer/
 2026-08-24T18:18:50+00:00	Carrier Command 2 - Official Console Announcement Trailer https://www.reddit.com/r/Games/comments/1vxat76/carrier_command_2_official_console_announcement/
