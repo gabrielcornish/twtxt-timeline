@@ -9,7 +9,6 @@
 2026-08-23T16:28:00+00:00	I think we all need to get over ourselves https://tala.bearblog.dev/i-think-we-all-need-to-get-over-ourselves/
 2026-08-23T19:14:00+00:00	Tea as a Cure For Brainrot https://blog.absurdpirate.com/tea-as-a-cure-for-brainrot/
 2026-08-24T00:57:00+00:00	The bike wasn't as fucked as I Thought it would be https://blog.lauramichet.com/the-bike-wasnt-as-fucked-as-i-thought-it-would-be/
-2026-08-24T03:59:00+00:00	experience being bald https://icyti.me/experience-being-bald/
 2026-08-24T06:14:00+00:00	a bearblogger taught me this word... https://leeyuhsolve.bearblog.dev/neologisms/
 2026-08-24T12:13:00+00:00	Cara Needs Support From Us! https://sweaterpockets.bearblog.dev/cara-needs-support-from-us/
 2026-08-24T16:02:27.625545+00:00	The world was sold 🌋 https://thinks.mikonian.ca/the-world-was-sold/
@@ -23,3 +22,4 @@
 2026-08-25T10:21:00+00:00	It's OK to Take a Break from Thinking About Digital Privacy https://theprivacydad.com/its-ok-to-take-a-break-from-thinking-about-digital-privacy/
 2026-08-25T11:59:44.764730+00:00	Extending life perception https://herman.bearblog.dev/extending-life-perception/
 2026-08-25T12:31:00+00:00	Merchants of Insecurity https://blog.happyfellow.dev/merchants-of-insecurity/
+2026-08-25T12:41:00+00:00	WIX is a mess! https://itsme.bearblog.dev/wix-is-a-mess/
