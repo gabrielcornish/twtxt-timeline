@@ -4,21 +4,7 @@
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
 2026-08-23T09:00:30+00:00	Weekly /r/Games Discussion - What have you been playing, and what are your thoughts? - August 23, 2026 https://www.reddit.com/r/Games/comments/1vw24i4/weekly_rgames_discussion_what_have_you_been/
-2026-08-24T13:01:28+00:00	Study of best-selling genres on Steam shows sandbox games continue to stand out in revenue https://www.reddit.com/r/Games/comments/1vx26dn/study_of_bestselling_genres_on_steam_shows/
-2026-08-24T14:22:19+00:00	Rune Factory 6 - Work-in-Progress Video https://www.reddit.com/r/Games/comments/1vx48ma/rune_factory_6_workinprogress_video/
-2026-08-24T15:11:03+00:00	Game Freak suggests Pokémon Champions was built partly so it could change battles in future games https://www.reddit.com/r/Games/comments/1vx5jfq/game_freak_suggests_pokémon_champions_was_built/
 2026-08-24T15:26:24+00:00	The Witcher IV will release in 2028 https://www.reddit.com/r/Games/comments/1vx5y93/the_witcher_iv_will_release_in_2028/
-2026-08-24T16:02:22+00:00	Castlevania: Belmont‘s Curse English Voice Cast Reveal https://www.reddit.com/r/Games/comments/1vx6xur/castlevania_belmonts_curse_english_voice_cast/
-2026-08-24T16:31:44+00:00	As Hideo Kojima Turns 63, the Metal Gear Solid Creator Says He Has More Ideas Than Ever but Less Time Left to Make Them https://www.reddit.com/r/Games/comments/1vx7rqs/as_hideo_kojima_turns_63_the_metal_gear_solid/
-2026-08-24T18:09:41+00:00	Terranigma - Rebirth Trailer https://www.reddit.com/r/Games/comments/1vxajub/terranigma_rebirth_trailer/
-2026-08-24T18:22:26+00:00	The Blood of Dawnwalker — Updated Console Footage (Performance Mode 60fps) https://www.reddit.com/r/Games/comments/1vxax1e/the_blood_of_dawnwalker_updated_console_footage/
-2026-08-24T19:27:17+00:00	Alien Breed Is Getting A 35th Anniversary Collection https://www.reddit.com/r/Games/comments/1vxcsua/alien_breed_is_getting_a_35th_anniversary/
-2026-08-24T19:29:10+00:00	Sanitarium Enhanced - Announcement Trailer https://www.reddit.com/r/Games/comments/1vxcuqv/sanitarium_enhanced_announcement_trailer/
-2026-08-24T21:01:18+00:00	Trine 6: New Release Date and Development Update https://www.reddit.com/r/Games/comments/1vxfdu3/trine_6_new_release_date_and_development_update/
-2026-08-24T21:10:42+00:00	WARDOGS | Beta Recap & Next Steps https://www.reddit.com/r/Games/comments/1vxfn55/wardogs_beta_recap_next_steps/
-2026-08-24T21:39:53+00:00	"Thank you, 2XKO" 2XKO developer shares their thoughts on the game's development https://www.reddit.com/r/Games/comments/1vxgewt/thank_you_2xko_2xko_developer_shares_their/
-2026-08-24T23:39:02+00:00	Blasterbug: Last Bug Standing! - Shadowdrop Trailer https://www.reddit.com/r/Games/comments/1vxjdhg/blasterbug_last_bug_standing_shadowdrop_trailer/
-2026-08-25T03:27:26+00:00	Control Resonant Made Me Feel Foolish For Ever Doubting It https://www.reddit.com/r/Games/comments/1vxohs9/control_resonant_made_me_feel_foolish_for_ever/
 2026-08-25T04:46:16+00:00	"EARTH DEFENSE FORCE 6.2 INVADERS FROM ANOTHER WORLD" Announcement Trailer https://www.reddit.com/r/Games/comments/1vxq0xg/earth_defense_force_62_invaders_from_another/
 2026-08-25T06:13:50+00:00	The Duskbloods - What are your impressions following the Network Test over the weekend? https://www.reddit.com/r/Games/comments/1vxrlz4/the_duskbloods_what_are_your_impressions/
 2026-08-25T07:15:05+00:00	Online PS3 trophies arrive on PC with PS3 emulator RPCS3 https://www.reddit.com/r/Games/comments/1vxso8n/online_ps3_trophies_arrive_on_pc_with_ps3/
@@ -28,3 +14,17 @@
 2026-08-25T16:56:56+00:00	[Hardware Unboxed] The Best DLSS 4.5 Update Yet - Ray Reconstruction https://www.reddit.com/r/Games/comments/1vy5htp/hardware_unboxed_the_best_dlss_45_update_yet_ray/
 2026-08-25T17:39:34+00:00	Official /r/Games Gamescom Opening Night Live 2026 Megathread https://www.reddit.com/r/Games/comments/1vy6pad/official_rgames_gamescom_opening_night_live_2026/
 2026-08-25T17:42:37+00:00	Rollercoaster Tycoon Wonderworks (Official Early Access Announcement Trailer) https://www.reddit.com/r/Games/comments/1vy6sgi/rollercoaster_tycoon_wonderworks_official_early/
+2026-08-25T17:53:15+00:00	Murals - Official Reveal Trailer https://www.reddit.com/r/Games/comments/1vy7313/murals_official_reveal_trailer/
+2026-08-25T18:03:09+00:00	Valor Mortis - Story Trailer | Launching October 13 https://www.reddit.com/r/Games/comments/1vy7dek/valor_mortis_story_trailer_launching_october_13/
+2026-08-25T18:11:48+00:00	Nodusfall World Premiere Trailer | gamescom Opening Night Live 2026 https://www.reddit.com/r/Games/comments/1vy7mli/nodusfall_world_premiere_trailer_gamescom_opening/
+2026-08-25T18:19:49+00:00	Tom Clancy's Rainbow 6 Tactics World Premiere Trailer https://www.reddit.com/r/Games/comments/1vy7v20/tom_clancys_rainbow_6_tactics_world_premiere/
+2026-08-25T18:22:06+00:00	SILENT HILL: Townfall | Cast Reveal Trailer (4K: EN/ESRB) | KONAMI https://www.reddit.com/r/Games/comments/1vy7xfv/silent_hill_townfall_cast_reveal_trailer_4k/
+2026-08-25T18:22:11+00:00	Resonance: A Plague Tale Legacy - Launch Trailer https://www.reddit.com/r/Games/comments/1vy7xii/resonance_a_plague_tale_legacy_launch_trailer/
+2026-08-25T18:31:39+00:00	Crimson Desert Enhanced - Official Announcement Trailer | gamescom ONL 2026 https://www.reddit.com/r/Games/comments/1vy87dg/crimson_desert_enhanced_official_announcement/
+2026-08-25T18:32:59+00:00	Gears of War: E-Day | Official Story Trailer https://www.reddit.com/r/Games/comments/1vy88oq/gears_of_war_eday_official_story_trailer/
+2026-08-25T18:35:47+00:00	Mega Man: Dual Override - 1st Trailer - Mega Man Gameplay https://www.reddit.com/r/Games/comments/1vy8bkn/mega_man_dual_override_1st_trailer_mega_man/
+2026-08-25T18:43:02+00:00	Game of Thrones: War for Westeros | Official Gameplay Reveal Trailer https://www.reddit.com/r/Games/comments/1vy8iya/game_of_thrones_war_for_westeros_official/
+2026-08-25T18:43:07+00:00	ANANTA Launch Date Trailer | Global Release January 15th, 2027 https://www.reddit.com/r/Games/comments/1vy8j1t/ananta_launch_date_trailer_global_release_january/
+2026-08-25T18:45:04+00:00	Game of Thrones: War for Westeros | Official Gameplay Reveal Trailer https://www.reddit.com/r/Games/comments/1vy8kwp/game_of_thrones_war_for_westeros_official/
+2026-08-25T18:47:41+00:00	Warlock: Dungeons & Dragons - Official Gameplay Reveal https://www.reddit.com/r/Games/comments/1vy8nnv/warlock_dungeons_dragons_official_gameplay_reveal/
+2026-08-25T18:50:09+00:00	Mariachi Legends - Release Date Announce Trailer | Gamescom Opening Night Live https://www.reddit.com/r/Games/comments/1vy8q2n/mariachi_legends_release_date_announce_trailer/

@@ -3,7 +3,6 @@
 # source = https://www.gamesindustry.biz/feed
 # description = twtxt conversion of https://www.gamesindustry.biz/feed
 
-2026-08-13T16:55:14+00:00	Mattel launches new global studios business to develop games based on its IP https://www.gamesindustry.biz/mattel-launches-new-global-studios-business-to-develop-games-based-on-its-ip
 2026-08-14T08:11:46+00:00	Netflix shutters Night School Studio and Moonloot Games https://www.gamesindustry.biz/netflix-shutters-night-school-studio-and-moonloot-games
 2026-08-14T08:58:19+00:00	"I don't see why people are scared of it" –  ShipShaper developer Tomas Sala on why indies shouldn't be stressing about GTA6 https://www.gamesindustry.biz/i-dont-see-why-people-are-scared-of-it-why-shipshaper-developer-tomas-sala-doesnt-think-indies-should-be-stressing-about-gta6
 2026-08-14T10:28:03+00:00	Arc Raiders generates $114.9m during Nexon's Q2, sells an additional 800,000 units https://www.gamesindustry.biz/arc-raiders-generates-1149m-during-nexons-q2-sells-an-additional-800000-units
@@ -53,3 +52,4 @@
 2026-08-25T13:41:50+00:00	Maverick Games partners with Focus Entertainment to publish debut racing title Clutch https://www.gamesindustry.biz/maverick-games-partners-with-focus-entertainment-to-publish-debut-racing-title-clutch
 2026-08-25T15:42:22+00:00	Game Developer Association of India picks 15 studios for first Supernova cohort https://www.gamesindustry.biz/game-developer-association-of-india-picks-15-studios-for-first-supernova-cohort
 2026-08-25T16:56:48+00:00	Entity raises $5.8 million to build browser-based "console-quality" gaming platform https://www.gamesindustry.biz/entity-raises-58-million-to-build-browser-based-console-quality-gaming-platform
+2026-08-25T18:44:44+00:00	Nvidia announces ray-traced Nanite, native anti-cheat, and DLSS 4.5 at Gamescom 2026 https://www.gamesindustry.biz/nvidia-brings-ray-traced-nanite-native-anti-cheat-and-dlss-45-to-gamescom-2026-lineup
