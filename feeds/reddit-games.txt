@@ -4,7 +4,6 @@
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
 2026-08-23T09:00:30+00:00	Weekly /r/Games Discussion - What have you been playing, and what are your thoughts? - August 23, 2026 https://www.reddit.com/r/Games/comments/1vw24i4/weekly_rgames_discussion_what_have_you_been/
-2026-08-24T00:58:19+00:00	Hidetaka Miyazaki suggests FromSoftware is keen to return to single-player games after The Duskbloods and Elden Ring: Nightreign https://www.reddit.com/r/Games/comments/1vwodut/hidetaka_miyazaki_suggests_fromsoftware_is_keen/
 2026-08-24T09:32:48+00:00	Modern Warfare 4's Switch 2 Retail Version Is Apparently A Code-In-A-Box https://www.reddit.com/r/Games/comments/1vwxxyq/modern_warfare_4s_switch_2_retail_version_is/
 2026-08-24T13:01:28+00:00	Study of best-selling genres on Steam shows sandbox games continue to stand out in revenue https://www.reddit.com/r/Games/comments/1vx26dn/study_of_bestselling_genres_on_steam_shows/
 2026-08-24T14:21:35+00:00	Story of Seasons - New Title Work-in-Progress Video https://www.reddit.com/r/Games/comments/1vx47wt/story_of_seasons_new_title_workinprogress_video/
@@ -28,3 +27,4 @@
 2026-08-25T04:46:16+00:00	"EARTH DEFENSE FORCE 6.2 INVADERS FROM ANOTHER WORLD" Announcement Trailer https://www.reddit.com/r/Games/comments/1vxq0xg/earth_defense_force_62_invaders_from_another/
 2026-08-25T06:13:50+00:00	The Duskbloods - What are your impressions following the Network Test over the weekend? https://www.reddit.com/r/Games/comments/1vxrlz4/the_duskbloods_what_are_your_impressions/
 2026-08-25T07:15:05+00:00	Online PS3 trophies arrive on PC with PS3 emulator RPCS3 https://www.reddit.com/r/Games/comments/1vxso8n/online_ps3_trophies_arrive_on_pc_with_ps3/
+2026-08-25T09:24:38+00:00	PS5 will be the only platform with physical copies of Persona 6, SEGA confirms https://www.reddit.com/r/Games/comments/1vxuu4h/ps5_will_be_the_only_platform_with_physical/
