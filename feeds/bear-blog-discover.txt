@@ -7,8 +7,6 @@
 2026-08-23T19:14:00+00:00	Tea as a Cure For Brainrot https://blog.absurdpirate.com/tea-as-a-cure-for-brainrot/
 2026-08-24T06:14:00+00:00	a bearblogger taught me this word... https://leeyuhsolve.bearblog.dev/neologisms/
 2026-08-24T12:13:00+00:00	Cara Needs Support From Us! https://sweaterpockets.bearblog.dev/cara-needs-support-from-us/
-2026-08-24T16:02:27.625545+00:00	The world was sold 🌋 https://thinks.mikonian.ca/the-world-was-sold/
-2026-08-24T20:17:18.146640+00:00	Is there no real information? https://itsme.bearblog.dev/is-there-no-real-information/
 2026-08-24T20:49:00+00:00	I have eliminated Microsoft from my life once and for all! https://skuth.us/i-have-eliminated-microsoft/
 2026-08-24T23:07:00+00:00	My Mom Has Cancer https://blog.absurdpirate.com/my-mom-has-cancer/
 2026-08-24T23:48:00+00:00	Amathia, or: How I Lost Respect for My Father https://householderkarl.com/amathia/
@@ -22,4 +20,6 @@
 2026-08-25T14:50:00+00:00	"what aesthetic is this?" https://pinewind.bearblog.dev/what-aesthetic-is-this/
 2026-08-25T16:28:00+00:00	Signal…Kind of Sucks as a Messaging App https://journal.james-zhan.com/signal-sucks/
 2026-08-25T16:41:00+00:00	Taking My Lumps: A Frydheld Sector Session Report https://unturnedhovel.bearblog.dev/difficult-session-report/
+2026-08-25T19:30:00+00:00	nitter needs support https://imperfect.bearblog.dev/nitter-needs-support/
 2026-08-25T20:44:39.073129+00:00	Four Years in the House We Chose for Her https://notes.jeddacp.com/four-years-in-the-house-we-chose-for-her/
+2026-08-25T23:50:00+00:00	Some blogs are ugly, but many need better accessibility https://diels-daydreams.bearblog.dev/some-blogs-are-ugly-but-many-need-better-accessibility/
