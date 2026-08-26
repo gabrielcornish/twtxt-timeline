@@ -3,7 +3,6 @@
 # source = https://www.gamesindustry.biz/feed
 # description = twtxt conversion of https://www.gamesindustry.biz/feed
 
-2026-08-14T13:47:08+00:00	Niko Partners: India games market exceeds $1bn, forecast to reach $1.2bn by end of 2026 https://www.gamesindustry.biz/niko-partners-india-games-market-exceeds-1bn-forecast-to-reach-12bn-by-end-of-2026
 2026-08-14T16:39:59+00:00	Modern consumers crave "events", and the games industry needs to provide them | Opinion https://www.gamesindustry.biz/modern-consumers-crave-events-and-the-games-industry-needs-to-provide-them-opinion
 2026-08-17T07:33:37+00:00	Matchmaking platform Sail.game launches free tier for devs ahead of Gamescom https://www.gamesindustry.biz/matchmaking-platform-sailgame-launches-free-tier-for-devs-ahead-of-gamescom
 2026-08-17T10:24:45+00:00	Saber Interactive adds AI disclaimer to Rideshare on Steam; CEO Matt Karch apologises to former lead writer https://www.gamesindustry.biz/saber-interactive-adds-ai-disclaimer-to-rideshare-on-steam-ceo-matt-karch-apologises-to-former-lead-writer
@@ -53,3 +52,4 @@
 2026-08-25T23:23:11+00:00	The highlights of Gamescom Opening Night Live 2026 https://www.gamesindustry.biz/the-highlights-of-gamescom-opening-night-live-2026
 2026-08-26T05:56:36+00:00	Executives from EA and Tencent to speak alongside Netflix, Sony, and Disney at FT Business of Entertainment summit https://www.gamesindustry.biz/executives-from-ea-and-tencent-to-speak-alongside-netflix-sony-and-disney-at-ft-business-of-entertainment-summit
 2026-08-26T08:10:26+00:00	Roblox applies restrictions to games featuring "reward-driven media feeds" available in Roblox Kids and Select https://www.gamesindustry.biz/roblox-applies-restrictions-to-games-featuring-reward-driven-media-feeds-available-in-roblox-kids-and-select
+2026-08-26T09:39:21+00:00	Testronic expands senior leadership, Mike Guttman appointed vice president of senior partnerships https://www.gamesindustry.biz/testronic-expands-senior-leadership-mike-guttman-appointed-vice-president-of-senior-partnerships
