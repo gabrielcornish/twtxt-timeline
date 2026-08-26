@@ -3,7 +3,6 @@
 # source = https://www.gamesindustry.biz/feed
 # description = twtxt conversion of https://www.gamesindustry.biz/feed
 
-2026-08-14T10:28:03+00:00	Arc Raiders generates $114.9m during Nexon's Q2, sells an additional 800,000 units https://www.gamesindustry.biz/arc-raiders-generates-1149m-during-nexons-q2-sells-an-additional-800000-units
 2026-08-14T11:06:51+00:00	2K establishes AAA sports developer Small Axe Studios https://www.gamesindustry.biz/2k-establishes-aaa-sports-developer-small-axe-studios
 2026-08-14T13:47:08+00:00	Niko Partners: India games market exceeds $1bn, forecast to reach $1.2bn by end of 2026 https://www.gamesindustry.biz/niko-partners-india-games-market-exceeds-1bn-forecast-to-reach-12bn-by-end-of-2026
 2026-08-14T16:39:59+00:00	Modern consumers crave "events", and the games industry needs to provide them | Opinion https://www.gamesindustry.biz/modern-consumers-crave-events-and-the-games-industry-needs-to-provide-them-opinion
@@ -53,3 +52,4 @@
 2026-08-25T18:44:44+00:00	Nvidia announces ray-traced Nanite, native anti-cheat, and DLSS 4.5 at Gamescom 2026 https://www.gamesindustry.biz/nvidia-brings-ray-traced-nanite-native-anti-cheat-and-dlss-45-to-gamescom-2026-lineup
 2026-08-25T19:45:19+00:00	Schell Games reportedly lays off staff https://www.gamesindustry.biz/schell-games-reportedly-lays-off-staff
 2026-08-25T23:23:11+00:00	The highlights of Gamescom Opening Night Live 2026 https://www.gamesindustry.biz/the-highlights-of-gamescom-opening-night-live-2026
+2026-08-26T05:56:36+00:00	Executives from EA and Tencent to speak alongside Netflix, Sony, and Disney at FT Business of Entertainment summit https://www.gamesindustry.biz/executives-from-ea-and-tencent-to-speak-alongside-netflix-sony-and-disney-at-ft-business-of-entertainment-summit
