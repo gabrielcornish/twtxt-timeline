@@ -3,7 +3,6 @@
 # source = https://www.gamesindustry.biz/feed
 # description = twtxt conversion of https://www.gamesindustry.biz/feed
 
-2026-08-17T07:33:37+00:00	Matchmaking platform Sail.game launches free tier for devs ahead of Gamescom https://www.gamesindustry.biz/matchmaking-platform-sailgame-launches-free-tier-for-devs-ahead-of-gamescom
 2026-08-17T10:24:45+00:00	Saber Interactive adds AI disclaimer to Rideshare on Steam; CEO Matt Karch apologises to former lead writer https://www.gamesindustry.biz/saber-interactive-adds-ai-disclaimer-to-rideshare-on-steam-ceo-matt-karch-apologises-to-former-lead-writer
 2026-08-17T12:47:28+00:00	US Senate to investigate Roblox following claims it "prioritises revenue and engagement" over child safety https://www.gamesindustry.biz/us-senate-to-investigate-roblox-following-claims-it-prioritises-revenue-and-engagement-over-child-safety
 2026-08-17T17:43:23+00:00	The Hollywood disruptors making a large-scale game with a 12-person team – and no generative AI https://www.gamesindustry.biz/the-hollywood-disruptors-making-a-large-scale-game-with-a-12-person-team-and-no-generative-ai
@@ -53,3 +52,4 @@
 2026-08-26T08:10:26+00:00	Roblox applies restrictions to games featuring "reward-driven media feeds" available in Roblox Kids and Select https://www.gamesindustry.biz/roblox-applies-restrictions-to-games-featuring-reward-driven-media-feeds-available-in-roblox-kids-and-select
 2026-08-26T09:39:21+00:00	Testronic expands senior leadership, Mike Guttman appointed vice president of senior partnerships https://www.gamesindustry.biz/testronic-expands-senior-leadership-mike-guttman-appointed-vice-president-of-senior-partnerships
 2026-08-26T12:57:20+00:00	Rockstar responds to GTA 6 leaks – "This is obviously not how we intended for you to see the game after all this time" https://www.gamesindustry.biz/rockstar-responds-to-gta-6-leaks-this-is-obviously-not-how-we-intended-for-you-to-see-the-game-after-all-this-time
+2026-08-26T13:30:00+00:00	Ubisoft announces playstest platform The Player Council https://www.gamesindustry.biz/ubisoft-announces-playstest-platform-the-player-council

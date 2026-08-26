@@ -4,23 +4,16 @@
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
 2026-08-25T17:39:34+00:00	Official /r/Games Gamescom Opening Night Live 2026 Megathread https://www.reddit.com/r/Games/comments/1vy6pad/official_rgames_gamescom_opening_night_live_2026/
-2026-08-25T17:42:37+00:00	Rollercoaster Tycoon Wonderworks (Official Early Access Announcement Trailer) https://www.reddit.com/r/Games/comments/1vy6sgi/rollercoaster_tycoon_wonderworks_official_early/
 2026-08-25T18:19:49+00:00	Tom Clancy's Rainbow 6 Tactics World Premiere Trailer https://www.reddit.com/r/Games/comments/1vy7v20/tom_clancys_rainbow_6_tactics_world_premiere/
-2026-08-25T18:35:47+00:00	Mega Man: Dual Override - 1st Trailer - Mega Man Gameplay https://www.reddit.com/r/Games/comments/1vy8bkn/mega_man_dual_override_1st_trailer_mega_man/
 2026-08-25T18:43:07+00:00	ANANTA Launch Date Trailer | Global Release January 15th, 2027 https://www.reddit.com/r/Games/comments/1vy8j1t/ananta_launch_date_trailer_global_release_january/
 2026-08-25T18:47:41+00:00	Warlock: Dungeons & Dragons - Official Gameplay Reveal https://www.reddit.com/r/Games/comments/1vy8nnv/warlock_dungeons_dragons_official_gameplay_reveal/
 2026-08-25T19:01:24+00:00	METRO 2039 | Gameplay Trailer - Renegade (4K) https://www.reddit.com/r/Games/comments/1vy91mb/metro_2039_gameplay_trailer_renegade_4k/
-2026-08-25T19:22:59+00:00	Showa American Story - gamescom In-Game Trailer https://www.reddit.com/r/Games/comments/1vy9o31/showa_american_story_gamescom_ingame_trailer/
 2026-08-25T19:32:58+00:00	LEGO Skylines | Announcement Trailer https://www.reddit.com/r/Games/comments/1vy9y2z/lego_skylines_announcement_trailer/
 2026-08-25T19:35:19+00:00	Path of Exile 2 Full Release | Play 1.0 for Free on December 11 https://www.reddit.com/r/Games/comments/1vya0k8/path_of_exile_2_full_release_play_10_for_free_on/
 2026-08-25T19:36:47+00:00	CONTROL Resonant - Altered State Trailer https://www.reddit.com/r/Games/comments/1vya1zg/control_resonant_altered_state_trailer/
-2026-08-25T19:42:09+00:00	ONTOS - Gameplay Reveal Trailer https://www.reddit.com/r/Games/comments/1vya7d9/ontos_gameplay_reveal_trailer/
-2026-08-25T19:44:25+00:00	NO LAW — Official Trailer | Gamescom ONL 2026 | 4K https://www.reddit.com/r/Games/comments/1vya9mj/no_law_official_trailer_gamescom_onl_2026_4k/
-2026-08-25T19:44:57+00:00	EXODUS Official Release Date Trailer | gamescom ONL 2026 https://www.reddit.com/r/Games/comments/1vyaa5e/exodus_official_release_date_trailer_gamescom_onl/
 2026-08-25T20:00:08+00:00	The Witcher 3: Wild Hunt — Remastered | Official Announcement Trailer https://www.reddit.com/r/Games/comments/1vyapfs/the_witcher_3_wild_hunt_remastered_official/
 2026-08-25T20:00:44+00:00	『FINAL FANTASY VII REVELATION』2ndトレーラー｜星の守護者 https://www.reddit.com/r/Games/comments/1vyaq8c/final_fantasy_vii_revelation2ndトレーラー星の守護者/
 2026-08-25T20:03:48+00:00	The Witcher 3: Wild Hunt – Songs of the Past World Premiere Trailer | gamescom Opening Night Live 20 https://www.reddit.com/r/Games/comments/1vyatgj/the_witcher_3_wild_hunt_songs_of_the_past_world/
-2026-08-25T20:54:43+00:00	Pony Island 2: Panda Circus - Release Date Trailer https://www.reddit.com/r/Games/comments/1vyc97s/pony_island_2_panda_circus_release_date_trailer/
 2026-08-26T09:02:07+00:00	TankRat - Official Release Date Trailer https://www.reddit.com/r/Games/comments/1vyroo2/tankrat_official_release_date_trailer/
 2026-08-26T10:19:36+00:00	Heroes of Might and Magic III Remake - Gameplay Overview Trailer https://www.reddit.com/r/Games/comments/1vyt2oo/heroes_of_might_and_magic_iii_remake_gameplay/
 2026-08-26T11:00:50+00:00	Daily /r/Games Discussion - Suggest Me a Game - August 26, 2026 https://www.reddit.com/r/Games/comments/1vytuip/daily_rgames_discussion_suggest_me_a_game_august/
@@ -28,3 +21,10 @@
 2026-08-26T11:45:33+00:00	GameSpot - Almost 1 Hour of Persona 4 Revival Gameplay https://www.reddit.com/r/Games/comments/1vyuqwv/gamespot_almost_1_hour_of_persona_4_revival/
 2026-08-26T12:35:22+00:00	Atari and Activision team up to re-release 39 classic Atari 2600 games on real, physical cartridges https://www.reddit.com/r/Games/comments/1vyvuds/atari_and_activision_team_up_to_rerelease_39/
 2026-08-26T13:01:17+00:00	Star Wars Zero Company Review Thread https://www.reddit.com/r/Games/comments/1vywgjg/star_wars_zero_company_review_thread/
+2026-08-26T13:06:11+00:00	Bloodstained: The Scarlet Engagement | A Development Update from IGA (Delayed to 2027) https://www.reddit.com/r/Games/comments/1vywkty/bloodstained_the_scarlet_engagement_a_development/
+2026-08-26T13:10:12+00:00	Total War: Warhammer 40k Makes Customization a Big Part of the Package | IGN Preview - Gamescom 2026 https://www.reddit.com/r/Games/comments/1vywob3/total_war_warhammer_40k_makes_customization_a_big/
+2026-08-26T13:21:53+00:00	The Witcher 3: Songs of the Past DLC - 13 Minutes of Gameplay https://www.reddit.com/r/Games/comments/1vywyih/the_witcher_3_songs_of_the_past_dlc_13_minutes_of/
+2026-08-26T14:34:01+00:00	State of Decay 3: Closed Beta Playtests Will Open the Game to Even More Players This Year https://www.reddit.com/r/Games/comments/1vyythr/state_of_decay_3_closed_beta_playtests_will_open/
+2026-08-26T14:34:33+00:00	Xbox announces disc-to-digital feature that digitizes your physical games https://www.reddit.com/r/Games/comments/1vyyu1l/xbox_announces_disctodigital_feature_that/
+2026-08-26T15:03:55+00:00	Sentinel Shell Cinematic | Marathon https://www.reddit.com/r/Games/comments/1vyzml9/sentinel_shell_cinematic_marathon/
+2026-08-26T15:18:52+00:00	Fable: We Got a Very Impressive New Look at 2027’s Most Exciting RPG https://www.reddit.com/r/Games/comments/1vz00yz/fable_we_got_a_very_impressive_new_look_at_2027s/
