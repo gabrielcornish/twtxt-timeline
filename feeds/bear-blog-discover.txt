@@ -3,23 +3,23 @@
 # source = https://bearblog.dev/discover/feed/
 # description = twtxt conversion of https://bearblog.dev/discover/feed/
 
+2026-08-23T12:50:00+00:00	Death of a Hobby https://elmc.at/death-of-a-hobby/
 2026-08-23T19:14:00+00:00	Tea as a Cure For Brainrot https://blog.absurdpirate.com/tea-as-a-cure-for-brainrot/
 2026-08-24T12:13:00+00:00	Cara Needs Support From Us! https://sweaterpockets.bearblog.dev/cara-needs-support-from-us/
-2026-08-24T20:17:18.146640+00:00	Is there no real information? https://itsme.bearblog.dev/is-there-no-real-information/
 2026-08-24T20:49:00+00:00	I have eliminated Microsoft from my life once and for all! https://skuth.us/i-have-eliminated-microsoft/
 2026-08-24T23:07:00+00:00	My Mom Has Cancer https://blog.absurdpirate.com/my-mom-has-cancer/
 2026-08-24T23:48:00+00:00	Amathia, or: How I Lost Respect for My Father https://householderkarl.com/amathia/
 2026-08-25T00:17:00+00:00	Re: Cara Needs Support From Us! | I got an idea https://leeyuhsolve.bearblog.dev/idea-to-help-cara/
+2026-08-25T01:40:00+00:00	The Part of Our Friendship We Kept https://notes.jeddacp.com/the-part-of-our-friendship-we-kept/
 2026-08-25T10:21:00+00:00	It's OK to Take a Break from Thinking About Digital Privacy https://theprivacydad.com/its-ok-to-take-a-break-from-thinking-about-digital-privacy/
 2026-08-25T11:59:44.764730+00:00	Extending life perception https://herman.bearblog.dev/extending-life-perception/
 2026-08-25T12:31:00+00:00	Merchants of Insecurity https://blog.happyfellow.dev/merchants-of-insecurity/
 2026-08-25T12:41:00+00:00	WIX is a mess! https://itsme.bearblog.dev/wix-is-a-mess/
 2026-08-25T14:50:00+00:00	"what aesthetic is this?" https://pinewind.bearblog.dev/what-aesthetic-is-this/
 2026-08-25T16:28:00+00:00	Signal…Kind of Sucks as a Messaging App https://journal.james-zhan.com/signal-sucks/
-2026-08-25T17:47:36.051061+00:00	That Time I Was Almost a Vtuber https://joshgriffiths.site/that-time-i-was-almost-a-vtuber/
-2026-08-25T20:15:21.348504+00:00	There Are No Good Billionaires… https://sebastianmalloy.bearblog.dev/there-are-no-good-billionaires/
+2026-08-25T16:41:00+00:00	Taking My Lumps: A Frydheld Sector Session Report https://unturnedhovel.bearblog.dev/difficult-session-report/
+2026-08-25T19:30:00+00:00	nitter needs support https://imperfect.bearblog.dev/nitter-needs-support/
 2026-08-25T20:41:00+00:00	You're not you when you draw. https://leeyuhsolve.bearblog.dev/youre-not-you-when-you-draw/
 2026-08-25T20:44:39.073129+00:00	Four Years in the House We Chose for Her https://notes.jeddacp.com/four-years-in-the-house-we-chose-for-her/
 2026-08-25T23:29:25.569698+00:00	A day of mourning for Dolly https://ole.computer/a-day-of-mourning-for-dolly/
 2026-08-25T23:50:00+00:00	Some blogs are ugly, but many need better accessibility https://diels-daydreams.bearblog.dev/some-blogs-are-ugly-but-many-need-better-accessibility/
-2026-08-26T01:22:00+00:00	The Best And Worst Time To Be Alive https://www.hardrefresh.life/the-best-and-worst-time-to-be-alive/
