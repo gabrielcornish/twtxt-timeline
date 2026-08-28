@@ -3,11 +3,6 @@
 # source = https://www.gamesindustry.biz/feed
 # description = twtxt conversion of https://www.gamesindustry.biz/feed
 
-2026-08-19T13:00:00+00:00	"We chose the worst time in history" – Harvey Smith on starting his own studio after Arkane https://www.gamesindustry.biz/we-chose-the-worst-time-in-history-harvey-smith-on-starting-his-own-studio-after-arkane
-2026-08-19T13:55:38+00:00	Report: Live-service removed from Horizon Hunters Gathering following negative player feedback https://www.gamesindustry.biz/report-live-service-removed-from-horizon-hunters-gathering-following-negative-player-feedback
-2026-08-19T14:57:11+00:00	"As more people play games, even the tiniest niches find a bigger audience" – Why Matt Webster is convinced people want Star Wars: Galactic Racer https://www.gamesindustry.biz/as-more-people-play-games-even-the-tiniest-niches-find-a-bigger-audience-why-matt-webster-is-convinced-people-want-star-wars-galactic-racer
-2026-08-20T10:21:28+00:00	Inner Pocket Publishing is "building a quiet corner for people who love thoughtful single-player games" https://www.gamesindustry.biz/inner-pocket-publishing-is-building-a-quiet-corner-for-people-who-love-thoughtful-single-player-games
-2026-08-20T11:02:20+00:00	Why a publisher you've probably not heard of is spending millions of dollars on its Gamescom presence https://www.gamesindustry.biz/why-a-publisher-youve-probably-not-heard-of-is-spending-millions-of-dollars-on-its-gamescom-presence
 2026-08-20T11:09:56+00:00	Rockstar hit with more leaks as GTA 6 gameplay and assets appear to circulate on social media https://www.gamesindustry.biz/rockstar-hit-with-more-leaks-as-gta-6-gameplay-and-assets-appear-to-circulate-on-social-media
 2026-08-20T13:00:00+00:00	Makers Fund raises $250m in fourth round to support interactive entertainment startups https://www.gamesindustry.biz/makers-fund-raises-250m-in-fourth-round-to-support-interactive-entertainment-startups
 2026-08-20T14:33:37+00:00	GamesIndustry.biz HR Summit reveals new People and Workplace focus, dedicated to shaping the future of games workplaces https://www.gamesindustry.biz/gamesindustrybiz-hr-summit-reveals-new-people-and-workplace-focus-dedicated-to-shaping-the-future-of-games-workplaces
@@ -53,3 +48,8 @@
 2026-08-27T13:39:30+00:00	European games industry revenue reached €30bn in 2025 https://www.gamesindustry.biz/european-games-industry-revenue-reached-30bn-in-2025
 2026-08-27T18:26:08+00:00	Playdate maker Panic refunds tariff surcharges to customers https://www.gamesindustry.biz/playdate-maker-panic-refunds-tariff-surcharges-to-customers
 2026-08-27T19:33:45+00:00	Grand Theft Auto 6 30-minute teaser debuts on Netflix https://www.gamesindustry.biz/grand-theft-auto-6-30-minute-teaser-debuts-on-netflix
+2026-08-28T08:09:05+00:00	Sensor Tower: Netflix US mobile viewership increased 35% during GTA 6 extended preview https://www.gamesindustry.biz/sensor-tower-netflix-us-mobile-viewership-increased-35-during-gta-6-extended-preview
+2026-08-28T09:32:46+00:00	Rockstar formed a new LA-based team to develop more realistic NPCs for Grand Theft Auto 6 https://www.gamesindustry.biz/rockstar-formed-a-new-la-based-team-to-develop-more-realistic-npcs-for-grand-theft-auto-6
+2026-08-28T11:17:59+00:00	Cloud Imperium delays Squadron 42 to 2027 – "There is no way I want to launch into the attention buzz saw of GTA 6" https://www.gamesindustry.biz/cloud-imperium-delays-squadron-42-to-2027-there-is-no-way-i-want-to-launch-into-the-attention-buzz-saw-of-gta-6
+2026-08-28T12:05:08+00:00	Limbic Entertainment on life after Bandai Namco https://www.gamesindustry.biz/limbic-entertainment-on-life-after-bandai-namco
+2026-08-28T14:27:12+00:00	GTA 6 will have a halo effect for the entire industry | Opinion https://www.gamesindustry.biz/gta-6-will-have-a-halo-effect-for-the-entire-industry-opinion

@@ -4,27 +4,27 @@
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
 2026-08-26T11:00:50+00:00	Daily /r/Games Discussion - Suggest Me a Game - August 26, 2026 https://www.reddit.com/r/Games/comments/1vytuip/daily_rgames_discussion_suggest_me_a_game_august/
-2026-08-26T23:25:35+00:00	Brütal Legend is free on Itch.io for 666 minutes in honor of Tim Curry https://www.reddit.com/r/Games/comments/1vzdaw2/brütal_legend_is_free_on_itchio_for_666_minutes/
-2026-08-27T09:55:11+00:00	Witcher 3 devs actually used the game’s most popular mods for the remaster https://www.reddit.com/r/Games/comments/1vzpk3t/witcher_3_devs_actually_used_the_games_most/
-2026-08-27T12:28:12+00:00	Elden Ring: Tarnished Edition Review Thread https://www.reddit.com/r/Games/comments/1vzsknf/elden_ring_tarnished_edition_review_thread/
 2026-08-27T13:44:53+00:00	After rave reviews, Zero Company dev says it would love to make more Star Wars games https://www.reddit.com/r/Games/comments/1vzueho/after_rave_reviews_zero_company_dev_says_it_would/
 2026-08-27T14:25:45+00:00	Peter Cullen, Voice of Optimus Prime in 'Transformers' Franchise (Across Movies, TV and Video Games), Dies at 85 https://www.reddit.com/r/Games/comments/1vzvh44/peter_cullen_voice_of_optimus_prime_in/
-2026-08-27T14:41:07+00:00	We finally played Fable, and there's a surprising amount of depth to be found in its spell-slinging combat. Our hands-on preview. https://www.reddit.com/r/Games/comments/1vzvvpa/we_finally_played_fable_and_theres_a_surprising/
-2026-08-27T14:49:35+00:00	Cassette Beasts 2002 | Launch Window and Voice Actor Announcement Trailer https://www.reddit.com/r/Games/comments/1vzw3tf/cassette_beasts_2002_launch_window_and_voice/
-2026-08-27T14:54:09+00:00	"The stars had to align" The story for Witcher 3: Songs of the Past was actually written "years ago", according to Fool's Theory CEO and CD Projekt Red https://www.reddit.com/r/Games/comments/1vzw89v/the_stars_had_to_align_the_story_for_witcher_3/
-2026-08-27T15:17:19+00:00	Deep Dish Dungeon | Date Reveal Trailer | Coming October 13th https://www.reddit.com/r/Games/comments/1vzwviz/deep_dish_dungeon_date_reveal_trailer_coming/
-2026-08-27T15:23:21+00:00	"I Hope They Choke On An AI-Generated Fishbone" - James Pond Creator On System 3's "Soulless" Legacy Collection https://www.reddit.com/r/Games/comments/1vzx1gu/i_hope_they_choke_on_an_aigenerated_fishbone/
-2026-08-27T17:24:25+00:00	The Séance of Blake Manor | Console Announcement Trailer https://www.reddit.com/r/Games/comments/1w00chj/the_séance_of_blake_manor_console_announcement/
 2026-08-27T17:26:32+00:00	Originally scheduled for 2026, Squadron 42 has been postponed until the second quarter of 2027 due to the release of GTA 6 https://www.reddit.com/r/Games/comments/1w00eox/originally_scheduled_for_2026_squadron_42_has/
 2026-08-27T17:59:14+00:00	GTA 6 Leaks Could Be Over As Cyberleek Withdraws $250,000 And Leaves Memecoin To Crash https://www.reddit.com/r/Games/comments/1w01buc/gta_6_leaks_could_be_over_as_cyberleek_withdraws/
 2026-08-27T18:34:01+00:00	Grand Theft Auto VI Netflix Showcase Mega Thread https://www.reddit.com/r/Games/comments/1w02b98/grand_theft_auto_vi_netflix_showcase_mega_thread/
-2026-08-27T18:45:15+00:00	Cairn - On The Trail (new trailer) https://www.reddit.com/r/Games/comments/1w02mqn/cairn_on_the_trail_new_trailer/
-2026-08-27T20:27:30+00:00	Elden Ring – Patch Notes Version 1.17 https://www.reddit.com/r/Games/comments/1w05he1/elden_ring_patch_notes_version_117/
 2026-08-27T20:31:48+00:00	Grand Theft Auto 6 Playthroughs Can Last 80 Hours, Making it Rockstar's Longest Game Yet https://www.reddit.com/r/Games/comments/1w05lqe/grand_theft_auto_6_playthroughs_can_last_80_hours/
 2026-08-27T21:45:43+00:00	"This has been the most humiliating and surreal experience in 20+ years of game making": Dev pleads with Valve as Steam brands his PEGI 12 game as pornography https://www.reddit.com/r/Games/comments/1w07kc0/this_has_been_the_most_humiliating_and_surreal/
 2026-08-27T22:19:06+00:00	GTA 6 Will Be 30FPS At Launch, Rockstar Reportedly Not Sure About 60FPS Performance Mode https://www.reddit.com/r/Games/comments/1w08ev7/gta_6_will_be_30fps_at_launch_rockstar_reportedly/
-2026-08-27T23:48:04+00:00	Total War: WARHAMMER III - Lords of the End Times - Nagash and Glottkin Roster Showcase https://www.reddit.com/r/Games/comments/1w0ajez/total_war_warhammer_iii_lords_of_the_end_times/
 2026-08-28T00:58:34+00:00	Hieronymus Gamescom 2026 Trailer: A Historical-Fantasy Action-Adventure https://www.reddit.com/r/Games/comments/1w0c5mi/hieronymus_gamescom_2026_trailer_a/
 2026-08-28T01:00:59+00:00	Grand Theft Auto VI: An Extended Look https://www.reddit.com/r/Games/comments/1w0c7q5/grand_theft_auto_vi_an_extended_look/
 2026-08-28T01:05:44+00:00	‘It’s a Big Map, a Very Big Map’ – GTA 6 Is Rockstar’s Most Complex World Yet, roughly three times the playable area of Red Dead Redemption 2 and about twice the size of GTA 5. https://www.reddit.com/r/Games/comments/1w0cbi8/its_a_big_map_a_very_big_map_gta_6_is_rockstars/
 2026-08-28T01:45:48+00:00	Grand Theft Auto 6 Will Have No Microtransactions Or Generative AI https://www.reddit.com/r/Games/comments/1w0d6og/grand_theft_auto_6_will_have_no_microtransactions/
+2026-08-28T05:16:33+00:00	Holstin - Official Release Window Trailer https://www.reddit.com/r/Games/comments/1w0hg78/holstin_official_release_window_trailer/
+2026-08-28T06:34:28+00:00	Scott Pilgrim EX - Back in the Band & Coin-Op Chaos Update Launch Trailer https://www.reddit.com/r/Games/comments/1w0itsf/scott_pilgrim_ex_back_in_the_band_coinop_chaos/
+2026-08-28T10:00:41+00:00	Daily /r/Games Discussion - Free Talk Friday - August 28, 2026 https://www.reddit.com/r/Games/comments/1w0ma47/daily_rgames_discussion_free_talk_friday_august/
+2026-08-28T11:57:43+00:00	Free and open-source game Luanti removed from Google Play due to DMCA take-down from Microsoft, represented by Tracer.AI https://www.reddit.com/r/Games/comments/1w0oj8j/free_and_opensource_game_luanti_removed_from/
+2026-08-28T12:06:23+00:00	Ylem’s Cat - Official Announcement Trailer https://www.reddit.com/r/Games/comments/1w0oqg4/ylems_cat_official_announcement_trailer/
+2026-08-28T12:10:50+00:00	Marvel’s Wolverine | Game Features Trailer https://www.reddit.com/r/Games/comments/1w0otw6/marvels_wolverine_game_features_trailer/
+2026-08-28T13:10:48+00:00	Digital Foundry: GTA 6: An Extended Look Analysis - "Perhaps the Most Impressive Showcase We've Ever Seen in Real-Time Rendering" https://www.reddit.com/r/Games/comments/1w0q6xh/digital_foundry_gta_6_an_extended_look_analysis/
+2026-08-28T15:01:30+00:00	Fable - Official Combat Gameplay | gamescom 2026 https://www.reddit.com/r/Games/comments/1w0szr9/fable_official_combat_gameplay_gamescom_2026/
+2026-08-28T15:20:02+00:00	Beetle in the Anthill — The Expanse: Osiris Reborn https://www.reddit.com/r/Games/comments/1w0thw8/beetle_in_the_anthill_the_expanse_osiris_reborn/
+2026-08-28T16:54:31+00:00	STRANGER THAN HEAVEN | Gamescom Demo Playthrough https://www.reddit.com/r/Games/comments/1w0w1v0/stranger_than_heaven_gamescom_demo_playthrough/
+2026-08-28T18:00:23+00:00	ACE COMBAT 8 Web Live-Action Commercial: "Everyone Is a Hero" Edition | 30-Second Version https://www.reddit.com/r/Games/comments/1w0xuy3/ace_combat_8_web_liveaction_commercial_everyone/
+2026-08-28T18:26:42+00:00	‘This is horrifying’ Nvidia’s controversial DLSS 5 AI filter leaks and players are inserting it into every game https://www.reddit.com/r/Games/comments/1w0ylhp/this_is_horrifying_nvidias_controversial_dlss_5/

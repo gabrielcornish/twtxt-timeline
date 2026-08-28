@@ -3,14 +3,9 @@
 # source = https://bearblog.dev/discover/feed/
 # description = twtxt conversion of https://bearblog.dev/discover/feed/
 
-2026-08-25T11:59:44.764730+00:00	Extending life perception https://herman.bearblog.dev/extending-life-perception/
 2026-08-25T12:31:00+00:00	Merchants of Insecurity https://blog.happyfellow.dev/merchants-of-insecurity/
-2026-08-25T14:50:00+00:00	"what aesthetic is this?" https://pinewind.bearblog.dev/what-aesthetic-is-this/
-2026-08-25T23:54:00+00:00	seize the means of communication (and write the manifesto on a typewriter). https://blog.typewritermechanic.com/seize-the-means-of-communication-and-write-the-manifesto-on-a-typewriter/
 2026-08-26T03:22:00+00:00	landed in taiwan and already want to go home https://tuesdaynight.blog/in-taiwan-now-and-want-to-go-home/
-2026-08-26T06:04:00+00:00	Fuck you, I still have your cookie recipe. https://eveningnotes.bearblog.dev/fuck-you-i-still-have-your-cookie-recipe/
 2026-08-26T13:26:00+00:00	Finally Drawing Again https://oracleofsages.bearblog.dev/finally-drawing-again/
-2026-08-26T15:26:00+00:00	Go watch some YouTube https://itsme.bearblog.dev/go-watch-some-youtube/
 2026-08-26T22:09:00+00:00	Cats Might Just Be Enlightened https://jackreiger.bearblog.dev/cats-might-just-be-enlightened/
 2026-08-26T22:37:00+00:00	I like writing my bear posts on paper https://leeyuhsolve.bearblog.dev/i-like-writing-my-bear-posts-on-paper/
 2026-08-26T22:38:00+00:00	Good for Health, Bad for Education https://householderkarl.com/good-for-health-bad-for-education/
@@ -19,7 +14,12 @@
 2026-08-27T09:34:00+00:00	Save Yourself From Any Drama By Not Commenting https://livingkindfully.bearblog.dev/save-yourself-from-any-drama-by-not-commenting/
 2026-08-27T13:38:00.207122+00:00	Oh Sure, NOW I Feel Safe https://sebastianmalloy.bearblog.dev/oh-sure-now-i-feel-safe/
 2026-08-27T14:18:20.922260+00:00	7,282 visits later https://robertbirming.com/7282-visits-later/
+2026-08-27T16:55:00+00:00	Cod bless ya https://notes.stateofnats.com/the-state-of-nats-latest-post/
+2026-08-27T17:23:00+00:00	Frog blog guy's foolproof hiccup cure https://eveningnotes.bearblog.dev/frog-blog-guys-foolproof-hiccup-cure/
 2026-08-27T22:37:00+00:00	It ain't blorb https://elmc.at/it-aint-blorb/
-2026-08-27T22:42:00+00:00	Sexual Fantasies Should Not Involve Real People https://samwigglesworth.bearblog.dev/sexual-fantasies-should-not-involve-real-people/
 2026-08-27T23:14:00+00:00	A Year Since the Layoff https://notes.jeddacp.com/a-year-since-the-layoff/
 2026-08-27T23:14:00+00:00	Tyger Tyger, burning bright https://householderkarl.com/tyger-tyger-burning-bright/
+2026-08-28T02:59:00+00:00	august 27 buh https://combatdavey.net/august-27-2026/
+2026-08-28T08:31:00+00:00	digital usage controls aren’t for me https://blog.sulimans.space/digital-usage-controls-arent-for-me/
+2026-08-28T10:45:00+00:00	Becoming foster parents https://sticks.bearblog.dev/becoming-foster-parent-s/
+2026-08-28T11:53:25.143884+00:00	Correcting confusion https://itsme.bearblog.dev/correcting-confusion/
