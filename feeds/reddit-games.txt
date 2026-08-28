@@ -4,13 +4,8 @@
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
 2026-08-26T11:00:50+00:00	Daily /r/Games Discussion - Suggest Me a Game - August 26, 2026 https://www.reddit.com/r/Games/comments/1vytuip/daily_rgames_discussion_suggest_me_a_game_august/
-2026-08-26T14:34:33+00:00	Xbox announces disc-to-digital feature that digitizes your physical games https://www.reddit.com/r/Games/comments/1vyyu1l/xbox_announces_disctodigital_feature_that/
-2026-08-26T19:22:37+00:00	Rocky Horror and video game icon Tim Curry dies at 80 https://www.reddit.com/r/Games/comments/1vz6xkl/rocky_horror_and_video_game_icon_tim_curry_dies/
 2026-08-26T23:25:35+00:00	Brütal Legend is free on Itch.io for 666 minutes in honor of Tim Curry https://www.reddit.com/r/Games/comments/1vzdaw2/brütal_legend_is_free_on_itchio_for_666_minutes/
-2026-08-27T04:47:38+00:00	Game of Thrones: War for Westeros - The First Preview https://www.reddit.com/r/Games/comments/1vzk9mn/game_of_thrones_war_for_westeros_the_first_preview/
-2026-08-27T06:02:35+00:00	Fable | Hands-On Preview (more combat gameplay) https://www.reddit.com/r/Games/comments/1vzlmjd/fable_handson_preview_more_combat_gameplay/
 2026-08-27T09:55:11+00:00	Witcher 3 devs actually used the game’s most popular mods for the remaster https://www.reddit.com/r/Games/comments/1vzpk3t/witcher_3_devs_actually_used_the_games_most/
-2026-08-27T10:23:30+00:00	Alien Geoguessr meets Sherlock Holmes in this captivating Steam mystery https://www.reddit.com/r/Games/comments/1vzq2cg/alien_geoguessr_meets_sherlock_holmes_in_this/
 2026-08-27T12:28:12+00:00	Elden Ring: Tarnished Edition Review Thread https://www.reddit.com/r/Games/comments/1vzsknf/elden_ring_tarnished_edition_review_thread/
 2026-08-27T13:44:53+00:00	After rave reviews, Zero Company dev says it would love to make more Star Wars games https://www.reddit.com/r/Games/comments/1vzueho/after_rave_reviews_zero_company_dev_says_it_would/
 2026-08-27T14:25:45+00:00	Peter Cullen, Voice of Optimus Prime in 'Transformers' Franchise (Across Movies, TV and Video Games), Dies at 85 https://www.reddit.com/r/Games/comments/1vzvh44/peter_cullen_voice_of_optimus_prime_in/
@@ -19,12 +14,17 @@
 2026-08-27T14:54:09+00:00	"The stars had to align" The story for Witcher 3: Songs of the Past was actually written "years ago", according to Fool's Theory CEO and CD Projekt Red https://www.reddit.com/r/Games/comments/1vzw89v/the_stars_had_to_align_the_story_for_witcher_3/
 2026-08-27T15:17:19+00:00	Deep Dish Dungeon | Date Reveal Trailer | Coming October 13th https://www.reddit.com/r/Games/comments/1vzwviz/deep_dish_dungeon_date_reveal_trailer_coming/
 2026-08-27T15:23:21+00:00	"I Hope They Choke On An AI-Generated Fishbone" - James Pond Creator On System 3's "Soulless" Legacy Collection https://www.reddit.com/r/Games/comments/1vzx1gu/i_hope_they_choke_on_an_aigenerated_fishbone/
-2026-08-27T16:43:13+00:00	Far Far West - Frostburn update trailer. https://www.reddit.com/r/Games/comments/1vzz7q7/far_far_west_frostburn_update_trailer/
-2026-08-27T17:09:20+00:00	Stuntman: Hollywood - Jurassic World Reveal Trailer https://www.reddit.com/r/Games/comments/1vzzxff/stuntman_hollywood_jurassic_world_reveal_trailer/
-2026-08-27T17:20:48+00:00	Militsioner - Coming to Xbox Game Pass in 2027 | Trailer https://www.reddit.com/r/Games/comments/1w008wm/militsioner_coming_to_xbox_game_pass_in_2027/
 2026-08-27T17:24:25+00:00	The Séance of Blake Manor | Console Announcement Trailer https://www.reddit.com/r/Games/comments/1w00chj/the_séance_of_blake_manor_console_announcement/
 2026-08-27T17:26:32+00:00	Originally scheduled for 2026, Squadron 42 has been postponed until the second quarter of 2027 due to the release of GTA 6 https://www.reddit.com/r/Games/comments/1w00eox/originally_scheduled_for_2026_squadron_42_has/
-2026-08-27T17:37:24+00:00	Diplomacy is Not an Option: Fog of War - DLC Announcement Trailer https://www.reddit.com/r/Games/comments/1w00prb/diplomacy_is_not_an_option_fog_of_war_dlc/
 2026-08-27T17:59:14+00:00	GTA 6 Leaks Could Be Over As Cyberleek Withdraws $250,000 And Leaves Memecoin To Crash https://www.reddit.com/r/Games/comments/1w01buc/gta_6_leaks_could_be_over_as_cyberleek_withdraws/
 2026-08-27T18:34:01+00:00	Grand Theft Auto VI Netflix Showcase Mega Thread https://www.reddit.com/r/Games/comments/1w02b98/grand_theft_auto_vi_netflix_showcase_mega_thread/
 2026-08-27T18:45:15+00:00	Cairn - On The Trail (new trailer) https://www.reddit.com/r/Games/comments/1w02mqn/cairn_on_the_trail_new_trailer/
+2026-08-27T20:27:30+00:00	Elden Ring – Patch Notes Version 1.17 https://www.reddit.com/r/Games/comments/1w05he1/elden_ring_patch_notes_version_117/
+2026-08-27T20:31:48+00:00	Grand Theft Auto 6 Playthroughs Can Last 80 Hours, Making it Rockstar's Longest Game Yet https://www.reddit.com/r/Games/comments/1w05lqe/grand_theft_auto_6_playthroughs_can_last_80_hours/
+2026-08-27T21:45:43+00:00	"This has been the most humiliating and surreal experience in 20+ years of game making": Dev pleads with Valve as Steam brands his PEGI 12 game as pornography https://www.reddit.com/r/Games/comments/1w07kc0/this_has_been_the_most_humiliating_and_surreal/
+2026-08-27T22:19:06+00:00	GTA 6 Will Be 30FPS At Launch, Rockstar Reportedly Not Sure About 60FPS Performance Mode https://www.reddit.com/r/Games/comments/1w08ev7/gta_6_will_be_30fps_at_launch_rockstar_reportedly/
+2026-08-27T23:48:04+00:00	Total War: WARHAMMER III - Lords of the End Times - Nagash and Glottkin Roster Showcase https://www.reddit.com/r/Games/comments/1w0ajez/total_war_warhammer_iii_lords_of_the_end_times/
+2026-08-28T00:58:34+00:00	Hieronymus Gamescom 2026 Trailer: A Historical-Fantasy Action-Adventure https://www.reddit.com/r/Games/comments/1w0c5mi/hieronymus_gamescom_2026_trailer_a/
+2026-08-28T01:00:59+00:00	Grand Theft Auto VI: An Extended Look https://www.reddit.com/r/Games/comments/1w0c7q5/grand_theft_auto_vi_an_extended_look/
+2026-08-28T01:05:44+00:00	‘It’s a Big Map, a Very Big Map’ – GTA 6 Is Rockstar’s Most Complex World Yet, roughly three times the playable area of Red Dead Redemption 2 and about twice the size of GTA 5. https://www.reddit.com/r/Games/comments/1w0cbi8/its_a_big_map_a_very_big_map_gta_6_is_rockstars/
+2026-08-28T01:45:48+00:00	Grand Theft Auto 6 Will Have No Microtransactions Or Generative AI https://www.reddit.com/r/Games/comments/1w0d6og/grand_theft_auto_6_will_have_no_microtransactions/

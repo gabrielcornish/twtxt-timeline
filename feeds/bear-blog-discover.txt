@@ -3,17 +3,12 @@
 # source = https://bearblog.dev/discover/feed/
 # description = twtxt conversion of https://bearblog.dev/discover/feed/
 
-2026-08-24T20:49:00+00:00	I have eliminated Microsoft from my life once and for all! https://skuth.us/i-have-eliminated-microsoft/
-2026-08-24T23:07:00+00:00	My Mom Has Cancer https://blog.absurdpirate.com/my-mom-has-cancer/
-2026-08-25T00:17:00+00:00	Re: Cara Needs Support From Us! https://leeyuhsolve.bearblog.dev/help-cara/
 2026-08-25T11:59:44.764730+00:00	Extending life perception https://herman.bearblog.dev/extending-life-perception/
 2026-08-25T12:31:00+00:00	Merchants of Insecurity https://blog.happyfellow.dev/merchants-of-insecurity/
 2026-08-25T14:50:00+00:00	"what aesthetic is this?" https://pinewind.bearblog.dev/what-aesthetic-is-this/
-2026-08-25T23:29:25.569698+00:00	A day of mourning for Dolly https://ole.computer/a-day-of-mourning-for-dolly/
 2026-08-25T23:54:00+00:00	seize the means of communication (and write the manifesto on a typewriter). https://blog.typewritermechanic.com/seize-the-means-of-communication-and-write-the-manifesto-on-a-typewriter/
 2026-08-26T03:22:00+00:00	landed in taiwan and already want to go home https://tuesdaynight.blog/in-taiwan-now-and-want-to-go-home/
 2026-08-26T06:04:00+00:00	Fuck you, I still have your cookie recipe. https://eveningnotes.bearblog.dev/fuck-you-i-still-have-your-cookie-recipe/
-2026-08-26T06:40:00+00:00	I saw a Motocompacto in the wild https://blog.lauramichet.com/i-saw-a-motocompacto-in-the-wild/
 2026-08-26T13:26:00+00:00	Finally Drawing Again https://oracleofsages.bearblog.dev/finally-drawing-again/
 2026-08-26T15:26:00+00:00	Go watch some YouTube https://itsme.bearblog.dev/go-watch-some-youtube/
 2026-08-26T22:09:00+00:00	Cats Might Just Be Enlightened https://jackreiger.bearblog.dev/cats-might-just-be-enlightened/
@@ -23,3 +18,8 @@
 2026-08-27T03:56:00+00:00	My therapist quit on me https://cats-musings.blog/0093-my-therapist-quit/
 2026-08-27T09:34:00+00:00	Save Yourself From Any Drama By Not Commenting https://livingkindfully.bearblog.dev/save-yourself-from-any-drama-by-not-commenting/
 2026-08-27T13:38:00.207122+00:00	Oh Sure, NOW I Feel Safe https://sebastianmalloy.bearblog.dev/oh-sure-now-i-feel-safe/
+2026-08-27T14:18:20.922260+00:00	7,282 visits later https://robertbirming.com/7282-visits-later/
+2026-08-27T22:37:00+00:00	It ain't blorb https://elmc.at/it-aint-blorb/
+2026-08-27T22:42:00+00:00	Sexual Fantasies Should Not Involve Real People https://samwigglesworth.bearblog.dev/sexual-fantasies-should-not-involve-real-people/
+2026-08-27T23:14:00+00:00	A Year Since the Layoff https://notes.jeddacp.com/a-year-since-the-layoff/
+2026-08-27T23:14:00+00:00	Tyger Tyger, burning bright https://householderkarl.com/tyger-tyger-burning-bright/
