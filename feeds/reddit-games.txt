@@ -4,7 +4,6 @@
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
 2026-08-26T11:00:50+00:00	Daily /r/Games Discussion - Suggest Me a Game - August 26, 2026 https://www.reddit.com/r/Games/comments/1vytuip/daily_rgames_discussion_suggest_me_a_game_august/
-2026-08-27T14:25:45+00:00	Peter Cullen, Voice of Optimus Prime in 'Transformers' Franchise (Across Movies, TV and Video Games), Dies at 85 https://www.reddit.com/r/Games/comments/1vzvh44/peter_cullen_voice_of_optimus_prime_in/
 2026-08-27T17:59:14+00:00	GTA 6 Leaks Could Be Over As Cyberleek Withdraws $250,000 And Leaves Memecoin To Crash https://www.reddit.com/r/Games/comments/1w01buc/gta_6_leaks_could_be_over_as_cyberleek_withdraws/
 2026-08-27T20:31:48+00:00	Grand Theft Auto 6 Playthroughs Can Last 80 Hours, Making it Rockstar's Longest Game Yet https://www.reddit.com/r/Games/comments/1w05lqe/grand_theft_auto_6_playthroughs_can_last_80_hours/
 2026-08-27T21:45:43+00:00	"This has been the most humiliating and surreal experience in 20+ years of game making": Dev pleads with Valve as Steam brands his PEGI 12 game as pornography https://www.reddit.com/r/Games/comments/1w07kc0/this_has_been_the_most_humiliating_and_surreal/
@@ -28,3 +27,4 @@
 2026-08-28T19:30:04+00:00	Wizardry IV - The Hardest RPG Ever Made https://www.reddit.com/r/Games/comments/1w10ble/wizardry_iv_the_hardest_rpg_ever_made/
 2026-08-28T21:46:56+00:00	"It looks like Steam re-reviewed Future? No Thanks! and removed the "frequent nudity or adult content" reverting the Germany geo-ban and the age verification by credit card in the UK." - @molleindustria.org on Bluesky https://www.reddit.com/r/Games/comments/1w13vr7/it_looks_like_steam_rereviewed_future_no_thanks/
 2026-08-28T23:00:43+00:00	PCSX2 2.8.0 is now out! https://www.reddit.com/r/Games/comments/1w15pj9/pcsx2_280_is_now_out/
+2026-08-29T02:40:50+00:00	UZDoom 5.0 Release Announcement trailer https://www.reddit.com/r/Games/comments/1w1agop/uzdoom_50_release_announcement_trailer/
