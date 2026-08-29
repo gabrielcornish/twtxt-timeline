@@ -3,23 +3,23 @@
 # source = https://bearblog.dev/discover/feed/
 # description = twtxt conversion of https://bearblog.dev/discover/feed/
 
-2026-08-25T12:31:00+00:00	Merchants of Insecurity https://blog.happyfellow.dev/merchants-of-insecurity/
-2026-08-26T03:22:00+00:00	landed in taiwan and already want to go home https://tuesdaynight.blog/in-taiwan-now-and-want-to-go-home/
 2026-08-26T13:26:00+00:00	Finally Drawing Again https://oracleofsages.bearblog.dev/finally-drawing-again/
 2026-08-26T22:09:00+00:00	Cats Might Just Be Enlightened https://jackreiger.bearblog.dev/cats-might-just-be-enlightened/
 2026-08-26T22:37:00+00:00	I like writing my bear posts on paper https://leeyuhsolve.bearblog.dev/i-like-writing-my-bear-posts-on-paper/
-2026-08-26T22:38:00+00:00	Good for Health, Bad for Education https://householderkarl.com/good-for-health-bad-for-education/
 2026-08-26T22:58:00+00:00	Re: Cara Needs Support From Us! https://piimyon.bearblog.dev/re-cara-needs-support-from-us/
-2026-08-27T03:56:00+00:00	My therapist quit on me https://cats-musings.blog/0093-my-therapist-quit/
 2026-08-27T09:34:00+00:00	Save Yourself From Any Drama By Not Commenting https://livingkindfully.bearblog.dev/save-yourself-from-any-drama-by-not-commenting/
 2026-08-27T13:38:00.207122+00:00	Oh Sure, NOW I Feel Safe https://sebastianmalloy.bearblog.dev/oh-sure-now-i-feel-safe/
-2026-08-27T14:18:20.922260+00:00	7,282 visits later https://robertbirming.com/7282-visits-later/
-2026-08-27T16:55:00+00:00	Cod bless ya https://notes.stateofnats.com/the-state-of-nats-latest-post/
-2026-08-27T17:23:00+00:00	Frog blog guy's foolproof hiccup cure https://eveningnotes.bearblog.dev/frog-blog-guys-foolproof-hiccup-cure/
 2026-08-27T22:37:00+00:00	It ain't blorb https://elmc.at/it-aint-blorb/
-2026-08-27T23:14:00+00:00	A Year Since the Layoff https://notes.jeddacp.com/a-year-since-the-layoff/
 2026-08-27T23:14:00+00:00	Tyger Tyger, burning bright https://householderkarl.com/tyger-tyger-burning-bright/
+2026-08-27T23:14:00+00:00	A Year Since the Layoff https://notes.jeddacp.com/a-year-since-the-layoff/
 2026-08-28T02:59:00+00:00	august 27 buh https://combatdavey.net/august-27-2026/
 2026-08-28T08:31:00+00:00	digital usage controls aren’t for me https://blog.sulimans.space/digital-usage-controls-arent-for-me/
 2026-08-28T10:45:00+00:00	Becoming foster parents https://sticks.bearblog.dev/becoming-foster-parent-s/
 2026-08-28T11:53:25.143884+00:00	Correcting confusion https://itsme.bearblog.dev/correcting-confusion/
+2026-08-28T16:02:00+00:00	Kindness isn't free https://wordsisig.bearblog.dev/blog/kindness-isnt-free/
+2026-08-28T17:41:00+00:00	we didn't know any better https://rnotte.art/we-didnt-know-any-better/
+2026-08-28T18:20:00+00:00	📸 it slowly fades https://pixelzaddy.com/it-slowly-fades/
+2026-08-28T20:48:00+00:00	My blog looks like a book! https://reedybear.bearblog.dev/book-theme-for-bearblog/
+2026-08-28T20:53:00+00:00	Kindness https://lwgrs.bearblog.dev/kindness/
+2026-08-28T22:05:00+00:00	AI ruined some of my most precious accessibility tools. https://straybun.bearblog.dev/blog/2026/ai-ruined-accessibility/
+2026-08-28T22:56:00+00:00	I Feel More Buddhist When It Rains https://householderkarl.com/more-buddhist-when-it-rains/

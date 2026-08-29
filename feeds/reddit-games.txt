@@ -4,20 +4,14 @@
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
 2026-08-26T11:00:50+00:00	Daily /r/Games Discussion - Suggest Me a Game - August 26, 2026 https://www.reddit.com/r/Games/comments/1vytuip/daily_rgames_discussion_suggest_me_a_game_august/
-2026-08-27T13:44:53+00:00	After rave reviews, Zero Company dev says it would love to make more Star Wars games https://www.reddit.com/r/Games/comments/1vzueho/after_rave_reviews_zero_company_dev_says_it_would/
 2026-08-27T14:25:45+00:00	Peter Cullen, Voice of Optimus Prime in 'Transformers' Franchise (Across Movies, TV and Video Games), Dies at 85 https://www.reddit.com/r/Games/comments/1vzvh44/peter_cullen_voice_of_optimus_prime_in/
-2026-08-27T17:26:32+00:00	Originally scheduled for 2026, Squadron 42 has been postponed until the second quarter of 2027 due to the release of GTA 6 https://www.reddit.com/r/Games/comments/1w00eox/originally_scheduled_for_2026_squadron_42_has/
 2026-08-27T17:59:14+00:00	GTA 6 Leaks Could Be Over As Cyberleek Withdraws $250,000 And Leaves Memecoin To Crash https://www.reddit.com/r/Games/comments/1w01buc/gta_6_leaks_could_be_over_as_cyberleek_withdraws/
-2026-08-27T18:34:01+00:00	Grand Theft Auto VI Netflix Showcase Mega Thread https://www.reddit.com/r/Games/comments/1w02b98/grand_theft_auto_vi_netflix_showcase_mega_thread/
 2026-08-27T20:31:48+00:00	Grand Theft Auto 6 Playthroughs Can Last 80 Hours, Making it Rockstar's Longest Game Yet https://www.reddit.com/r/Games/comments/1w05lqe/grand_theft_auto_6_playthroughs_can_last_80_hours/
 2026-08-27T21:45:43+00:00	"This has been the most humiliating and surreal experience in 20+ years of game making": Dev pleads with Valve as Steam brands his PEGI 12 game as pornography https://www.reddit.com/r/Games/comments/1w07kc0/this_has_been_the_most_humiliating_and_surreal/
 2026-08-27T22:19:06+00:00	GTA 6 Will Be 30FPS At Launch, Rockstar Reportedly Not Sure About 60FPS Performance Mode https://www.reddit.com/r/Games/comments/1w08ev7/gta_6_will_be_30fps_at_launch_rockstar_reportedly/
-2026-08-28T00:58:34+00:00	Hieronymus Gamescom 2026 Trailer: A Historical-Fantasy Action-Adventure https://www.reddit.com/r/Games/comments/1w0c5mi/hieronymus_gamescom_2026_trailer_a/
 2026-08-28T01:00:59+00:00	Grand Theft Auto VI: An Extended Look https://www.reddit.com/r/Games/comments/1w0c7q5/grand_theft_auto_vi_an_extended_look/
 2026-08-28T01:05:44+00:00	‘It’s a Big Map, a Very Big Map’ – GTA 6 Is Rockstar’s Most Complex World Yet, roughly three times the playable area of Red Dead Redemption 2 and about twice the size of GTA 5. https://www.reddit.com/r/Games/comments/1w0cbi8/its_a_big_map_a_very_big_map_gta_6_is_rockstars/
 2026-08-28T01:45:48+00:00	Grand Theft Auto 6 Will Have No Microtransactions Or Generative AI https://www.reddit.com/r/Games/comments/1w0d6og/grand_theft_auto_6_will_have_no_microtransactions/
-2026-08-28T05:16:33+00:00	Holstin - Official Release Window Trailer https://www.reddit.com/r/Games/comments/1w0hg78/holstin_official_release_window_trailer/
-2026-08-28T06:34:28+00:00	Scott Pilgrim EX - Back in the Band & Coin-Op Chaos Update Launch Trailer https://www.reddit.com/r/Games/comments/1w0itsf/scott_pilgrim_ex_back_in_the_band_coinop_chaos/
 2026-08-28T10:00:41+00:00	Daily /r/Games Discussion - Free Talk Friday - August 28, 2026 https://www.reddit.com/r/Games/comments/1w0ma47/daily_rgames_discussion_free_talk_friday_august/
 2026-08-28T11:57:43+00:00	Free and open-source game Luanti removed from Google Play due to DMCA take-down from Microsoft, represented by Tracer.AI https://www.reddit.com/r/Games/comments/1w0oj8j/free_and_opensource_game_luanti_removed_from/
 2026-08-28T12:06:23+00:00	Ylem’s Cat - Official Announcement Trailer https://www.reddit.com/r/Games/comments/1w0oqg4/ylems_cat_official_announcement_trailer/
@@ -28,3 +22,9 @@
 2026-08-28T16:54:31+00:00	STRANGER THAN HEAVEN | Gamescom Demo Playthrough https://www.reddit.com/r/Games/comments/1w0w1v0/stranger_than_heaven_gamescom_demo_playthrough/
 2026-08-28T18:00:23+00:00	ACE COMBAT 8 Web Live-Action Commercial: "Everyone Is a Hero" Edition | 30-Second Version https://www.reddit.com/r/Games/comments/1w0xuy3/ace_combat_8_web_liveaction_commercial_everyone/
 2026-08-28T18:26:42+00:00	‘This is horrifying’ Nvidia’s controversial DLSS 5 AI filter leaks and players are inserting it into every game https://www.reddit.com/r/Games/comments/1w0ylhp/this_is_horrifying_nvidias_controversial_dlss_5/
+2026-08-28T19:03:20+00:00	EA Motive's Iron Man Game Trailer Seemingly Leaked With Early Look at Gameplay https://www.reddit.com/r/Games/comments/1w0zlat/ea_motives_iron_man_game_trailer_seemingly_leaked/
+2026-08-28T19:05:51+00:00	CD Projekt Red has The Witcher 4 running on all target platforms after Cyberpunk 2077 lesson https://www.reddit.com/r/Games/comments/1w0znsd/cd_projekt_red_has_the_witcher_4_running_on_all/
+2026-08-28T19:07:12+00:00	Indie Dev Posts Tearful Message After Laptops Stolen At Gamescom https://www.reddit.com/r/Games/comments/1w0zp29/indie_dev_posts_tearful_message_after_laptops/
+2026-08-28T19:30:04+00:00	Wizardry IV - The Hardest RPG Ever Made https://www.reddit.com/r/Games/comments/1w10ble/wizardry_iv_the_hardest_rpg_ever_made/
+2026-08-28T21:46:56+00:00	"It looks like Steam re-reviewed Future? No Thanks! and removed the "frequent nudity or adult content" reverting the Germany geo-ban and the age verification by credit card in the UK." - @molleindustria.org on Bluesky https://www.reddit.com/r/Games/comments/1w13vr7/it_looks_like_steam_rereviewed_future_no_thanks/
+2026-08-28T23:00:43+00:00	PCSX2 2.8.0 is now out! https://www.reddit.com/r/Games/comments/1w15pj9/pcsx2_280_is_now_out/
