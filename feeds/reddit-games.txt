@@ -4,7 +4,6 @@
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
 2026-08-26T11:00:50+00:00	Daily /r/Games Discussion - Suggest Me a Game - August 26, 2026 https://www.reddit.com/r/Games/comments/1vytuip/daily_rgames_discussion_suggest_me_a_game_august/
-2026-08-27T22:19:06+00:00	GTA 6 Will Be 30FPS At Launch, Rockstar Reportedly Not Sure About 60FPS Performance Mode https://www.reddit.com/r/Games/comments/1w08ev7/gta_6_will_be_30fps_at_launch_rockstar_reportedly/
 2026-08-28T01:00:59+00:00	Grand Theft Auto VI: An Extended Look https://www.reddit.com/r/Games/comments/1w0c7q5/grand_theft_auto_vi_an_extended_look/
 2026-08-28T01:45:48+00:00	Grand Theft Auto 6 Will Have No Microtransactions Or Generative AI https://www.reddit.com/r/Games/comments/1w0d6og/grand_theft_auto_6_will_have_no_microtransactions/
 2026-08-28T10:00:41+00:00	Daily /r/Games Discussion - Free Talk Friday - August 28, 2026 https://www.reddit.com/r/Games/comments/1w0ma47/daily_rgames_discussion_free_talk_friday_august/
@@ -12,12 +11,10 @@
 2026-08-28T13:10:48+00:00	Digital Foundry: GTA 6: An Extended Look Analysis - "Perhaps the Most Impressive Showcase We've Ever Seen in Real-Time Rendering" https://www.reddit.com/r/Games/comments/1w0q6xh/digital_foundry_gta_6_an_extended_look_analysis/
 2026-08-28T15:01:30+00:00	Fable - Official Combat Gameplay | gamescom 2026 https://www.reddit.com/r/Games/comments/1w0szr9/fable_official_combat_gameplay_gamescom_2026/
 2026-08-28T15:20:02+00:00	Beetle in the Anthill — The Expanse: Osiris Reborn https://www.reddit.com/r/Games/comments/1w0thw8/beetle_in_the_anthill_the_expanse_osiris_reborn/
-2026-08-28T16:54:31+00:00	STRANGER THAN HEAVEN | Gamescom Demo Playthrough https://www.reddit.com/r/Games/comments/1w0w1v0/stranger_than_heaven_gamescom_demo_playthrough/
 2026-08-28T18:26:42+00:00	‘This is horrifying’ Nvidia’s controversial DLSS 5 AI filter leaks and players are inserting it into every game https://www.reddit.com/r/Games/comments/1w0ylhp/this_is_horrifying_nvidias_controversial_dlss_5/
 2026-08-28T19:03:20+00:00	EA Motive's Iron Man Game Trailer Seemingly Leaked With Early Look at Gameplay https://www.reddit.com/r/Games/comments/1w0zlat/ea_motives_iron_man_game_trailer_seemingly_leaked/
 2026-08-28T19:05:51+00:00	CD Projekt Red has The Witcher 4 running on all target platforms after Cyberpunk 2077 lesson https://www.reddit.com/r/Games/comments/1w0znsd/cd_projekt_red_has_the_witcher_4_running_on_all/
 2026-08-28T19:07:12+00:00	Indie Dev Posts Tearful Message After Laptops Stolen At Gamescom https://www.reddit.com/r/Games/comments/1w0zp29/indie_dev_posts_tearful_message_after_laptops/
-2026-08-28T19:30:04+00:00	Wizardry IV - The Hardest RPG Ever Made https://www.reddit.com/r/Games/comments/1w10ble/wizardry_iv_the_hardest_rpg_ever_made/
 2026-08-28T21:46:56+00:00	"It looks like Steam re-reviewed Future? No Thanks! and removed the "frequent nudity or adult content" reverting the Germany geo-ban and the age verification by credit card in the UK." - @molleindustria.org on Bluesky https://www.reddit.com/r/Games/comments/1w13vr7/it_looks_like_steam_rereviewed_future_no_thanks/
 2026-08-28T23:00:43+00:00	PCSX2 2.8.0 is now out! https://www.reddit.com/r/Games/comments/1w15pj9/pcsx2_280_is_now_out/
 2026-08-29T02:40:50+00:00	UZDoom 5.0 Release Announcement trailer https://www.reddit.com/r/Games/comments/1w1agop/uzdoom_50_release_announcement_trailer/
@@ -28,3 +25,6 @@
 2026-08-29T14:50:07+00:00	Warlord: Awaji Main Trailer https://www.reddit.com/r/Games/comments/1w1oj5o/warlord_awaji_main_trailer/
 2026-08-29T16:37:32+00:00	GameInformer Showa American Story Preview: We played 30 minutes of Nekcom Entertainment's upcoming action RPG, Showa American Story, and found the game raunchy, bloody, absurd, and hilarious https://www.reddit.com/r/Games/comments/1w1r8ej/gameinformer_showa_american_story_preview_we/
 2026-08-29T17:39:06+00:00	Game Trailer Editors Describe Generative AI As Poison https://www.reddit.com/r/Games/comments/1w1ssnr/game_trailer_editors_describe_generative_ai_as/
+2026-08-29T20:13:59+00:00	The Witcher 4 Will Have a Physical Edition Even if Discs Go Away, CD Projekt Red Confirms https://www.reddit.com/r/Games/comments/1w1wqx6/the_witcher_4_will_have_a_physical_edition_even/
+2026-08-29T20:25:46+00:00	Donkey Kong 64 ReKONGpiled Release Trailer https://www.reddit.com/r/Games/comments/1w1x1um/donkey_kong_64_rekongpiled_release_trailer/
+2026-08-29T21:39:12+00:00	Facing lawsuit, Sony argues it’s already obvious that digital games aren’t owned by consumers https://www.reddit.com/r/Games/comments/1w1yusx/facing_lawsuit_sony_argues_its_already_obvious/
