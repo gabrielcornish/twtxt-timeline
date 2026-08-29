@@ -4,16 +4,11 @@
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
 2026-08-26T11:00:50+00:00	Daily /r/Games Discussion - Suggest Me a Game - August 26, 2026 https://www.reddit.com/r/Games/comments/1vytuip/daily_rgames_discussion_suggest_me_a_game_august/
-2026-08-27T17:59:14+00:00	GTA 6 Leaks Could Be Over As Cyberleek Withdraws $250,000 And Leaves Memecoin To Crash https://www.reddit.com/r/Games/comments/1w01buc/gta_6_leaks_could_be_over_as_cyberleek_withdraws/
-2026-08-27T20:31:48+00:00	Grand Theft Auto 6 Playthroughs Can Last 80 Hours, Making it Rockstar's Longest Game Yet https://www.reddit.com/r/Games/comments/1w05lqe/grand_theft_auto_6_playthroughs_can_last_80_hours/
-2026-08-27T21:45:43+00:00	"This has been the most humiliating and surreal experience in 20+ years of game making": Dev pleads with Valve as Steam brands his PEGI 12 game as pornography https://www.reddit.com/r/Games/comments/1w07kc0/this_has_been_the_most_humiliating_and_surreal/
 2026-08-27T22:19:06+00:00	GTA 6 Will Be 30FPS At Launch, Rockstar Reportedly Not Sure About 60FPS Performance Mode https://www.reddit.com/r/Games/comments/1w08ev7/gta_6_will_be_30fps_at_launch_rockstar_reportedly/
 2026-08-28T01:00:59+00:00	Grand Theft Auto VI: An Extended Look https://www.reddit.com/r/Games/comments/1w0c7q5/grand_theft_auto_vi_an_extended_look/
-2026-08-28T01:05:44+00:00	‘It’s a Big Map, a Very Big Map’ – GTA 6 Is Rockstar’s Most Complex World Yet, roughly three times the playable area of Red Dead Redemption 2 and about twice the size of GTA 5. https://www.reddit.com/r/Games/comments/1w0cbi8/its_a_big_map_a_very_big_map_gta_6_is_rockstars/
 2026-08-28T01:45:48+00:00	Grand Theft Auto 6 Will Have No Microtransactions Or Generative AI https://www.reddit.com/r/Games/comments/1w0d6og/grand_theft_auto_6_will_have_no_microtransactions/
 2026-08-28T10:00:41+00:00	Daily /r/Games Discussion - Free Talk Friday - August 28, 2026 https://www.reddit.com/r/Games/comments/1w0ma47/daily_rgames_discussion_free_talk_friday_august/
 2026-08-28T11:57:43+00:00	Free and open-source game Luanti removed from Google Play due to DMCA take-down from Microsoft, represented by Tracer.AI https://www.reddit.com/r/Games/comments/1w0oj8j/free_and_opensource_game_luanti_removed_from/
-2026-08-28T12:06:23+00:00	Ylem’s Cat - Official Announcement Trailer https://www.reddit.com/r/Games/comments/1w0oqg4/ylems_cat_official_announcement_trailer/
 2026-08-28T12:10:50+00:00	Marvel’s Wolverine | Game Features Trailer https://www.reddit.com/r/Games/comments/1w0otw6/marvels_wolverine_game_features_trailer/
 2026-08-28T13:10:48+00:00	Digital Foundry: GTA 6: An Extended Look Analysis - "Perhaps the Most Impressive Showcase We've Ever Seen in Real-Time Rendering" https://www.reddit.com/r/Games/comments/1w0q6xh/digital_foundry_gta_6_an_extended_look_analysis/
 2026-08-28T15:01:30+00:00	Fable - Official Combat Gameplay | gamescom 2026 https://www.reddit.com/r/Games/comments/1w0szr9/fable_official_combat_gameplay_gamescom_2026/
@@ -28,3 +23,8 @@
 2026-08-28T21:46:56+00:00	"It looks like Steam re-reviewed Future? No Thanks! and removed the "frequent nudity or adult content" reverting the Germany geo-ban and the age verification by credit card in the UK." - @molleindustria.org on Bluesky https://www.reddit.com/r/Games/comments/1w13vr7/it_looks_like_steam_rereviewed_future_no_thanks/
 2026-08-28T23:00:43+00:00	PCSX2 2.8.0 is now out! https://www.reddit.com/r/Games/comments/1w15pj9/pcsx2_280_is_now_out/
 2026-08-29T02:40:50+00:00	UZDoom 5.0 Release Announcement trailer https://www.reddit.com/r/Games/comments/1w1agop/uzdoom_50_release_announcement_trailer/
+2026-08-29T10:09:07+00:00	Mobile Games Designed to Be Addictive Get More Kid-Friendly https://www.reddit.com/r/Games/comments/1w1imxg/mobile_games_designed_to_be_addictive_get_more/
+2026-08-29T11:02:12+00:00	The Invisible Layers Holding Games Back https://www.reddit.com/r/Games/comments/1w1jl3g/the_invisible_layers_holding_games_back/
+2026-08-29T11:30:27+00:00	Activision Just Ambushed A Notorious Call Of Duty Cheat Maker With Legal Papers At His House, And Filmed The Whole Thing | Their cheats have since been taken down https://www.reddit.com/r/Games/comments/1w1k45q/activision_just_ambushed_a_notorious_call_of_duty/
+2026-08-29T13:01:17+00:00	Gamescom Team Addresses Theft Reports From Show Floor https://www.reddit.com/r/Games/comments/1w1lz89/gamescom_team_addresses_theft_reports_from_show/
+2026-08-29T14:18:01+00:00	Alien Deathstorm - Gamescom Trailer https://www.reddit.com/r/Games/comments/1w1nr5r/alien_deathstorm_gamescom_trailer/
