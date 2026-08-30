@@ -3,13 +3,11 @@
 # source = https://bearblog.dev/discover/feed/
 # description = twtxt conversion of https://bearblog.dev/discover/feed/
 
-2026-08-27T09:34:00+00:00	Save Yourself From Any Drama By Not Commenting https://livingkindfully.bearblog.dev/save-yourself-from-any-drama-by-not-commenting/
 2026-08-27T22:37:00+00:00	It ain't blorb https://elmc.at/it-aint-blorb/
 2026-08-27T23:14:00+00:00	A Year Since the Layoff https://notes.jeddacp.com/a-year-since-the-layoff/
 2026-08-27T23:14:00+00:00	Tyger Tyger, burning bright https://householderkarl.com/tyger-tyger-burning-bright/
 2026-08-28T16:02:00+00:00	Kindness isn't free https://wordsisig.bearblog.dev/blog/kindness-isnt-free/
 2026-08-28T17:41:00+00:00	we didn't know any better https://rnotte.art/we-didnt-know-any-better/
-2026-08-28T18:20:00+00:00	📸 it slowly fades https://pixelzaddy.com/it-slowly-fades/
 2026-08-28T20:17:00+00:00	Boomers and disinformation https://slowburn.bearblog.dev/boomers-and-disinformation/
 2026-08-28T20:23:00+00:00	a dark, pixelated chamber door https://leeyuhsolve.bearblog.dev/a-dark-pixelated-chamber-door/
 2026-08-28T20:48:00+00:00	My blog looks like a book! https://reedybear.bearblog.dev/book-theme-for-bearblog/
@@ -18,8 +16,10 @@
 2026-08-28T22:56:00+00:00	I Feel More Buddhist When It Rains https://householderkarl.com/more-buddhist-when-it-rains/
 2026-08-29T03:59:37.576997+00:00	nobody has principles anymore https://icyti.me/nobody-has-principles-anymore/
 2026-08-29T07:29:00+00:00	Secure digital life https://rwitesh.com/posts/secure-digital-life/
+2026-08-29T10:00:00+00:00	I love the sound of my voice when I read aloud https://leeyuhsolve.bearblog.dev/i-love-the-sound-of-my-voice-when-i-read-aloud/
 2026-08-29T12:00:00+00:00	I saw a fancy pigeon today and want to share it with you https://annoflo.net/fancy-pigeon/
 2026-08-29T14:15:00+00:00	On Anarchism https://chakkie.bearblog.dev/anarchism/
 2026-08-29T14:53:00+00:00	The first AI use case that genuinely saves me time (outside of programming) https://ducret.dev/grocery-shopping-with-ai/
 2026-08-29T17:05:00+00:00	i wanna be that girl https://cinnabun.bearblog.dev/i-wanna-be-that-girl/
 2026-08-29T17:06:00+00:00	Upcoming Games I'm Very Excited About (Part 1) https://blog.curiousquail.com/upcoming-games-im-very-excited-about/
+2026-08-29T21:17:00+00:00	link dump - catching up on my online reading https://blog.avas.space/links-august/

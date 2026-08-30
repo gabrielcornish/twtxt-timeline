@@ -4,16 +4,8 @@
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
 2026-08-26T11:00:50+00:00	Daily /r/Games Discussion - Suggest Me a Game - August 26, 2026 https://www.reddit.com/r/Games/comments/1vytuip/daily_rgames_discussion_suggest_me_a_game_august/
-2026-08-28T01:00:59+00:00	Grand Theft Auto VI: An Extended Look https://www.reddit.com/r/Games/comments/1w0c7q5/grand_theft_auto_vi_an_extended_look/
-2026-08-28T01:45:48+00:00	Grand Theft Auto 6 Will Have No Microtransactions Or Generative AI https://www.reddit.com/r/Games/comments/1w0d6og/grand_theft_auto_6_will_have_no_microtransactions/
-2026-08-28T10:00:41+00:00	Daily /r/Games Discussion - Free Talk Friday - August 28, 2026 https://www.reddit.com/r/Games/comments/1w0ma47/daily_rgames_discussion_free_talk_friday_august/
-2026-08-28T11:57:43+00:00	Free and open-source game Luanti removed from Google Play due to DMCA take-down from Microsoft, represented by Tracer.AI https://www.reddit.com/r/Games/comments/1w0oj8j/free_and_opensource_game_luanti_removed_from/
 2026-08-28T13:10:48+00:00	Digital Foundry: GTA 6: An Extended Look Analysis - "Perhaps the Most Impressive Showcase We've Ever Seen in Real-Time Rendering" https://www.reddit.com/r/Games/comments/1w0q6xh/digital_foundry_gta_6_an_extended_look_analysis/
-2026-08-28T15:01:30+00:00	Fable - Official Combat Gameplay | gamescom 2026 https://www.reddit.com/r/Games/comments/1w0szr9/fable_official_combat_gameplay_gamescom_2026/
-2026-08-28T15:20:02+00:00	Beetle in the Anthill — The Expanse: Osiris Reborn https://www.reddit.com/r/Games/comments/1w0thw8/beetle_in_the_anthill_the_expanse_osiris_reborn/
 2026-08-28T18:26:42+00:00	‘This is horrifying’ Nvidia’s controversial DLSS 5 AI filter leaks and players are inserting it into every game https://www.reddit.com/r/Games/comments/1w0ylhp/this_is_horrifying_nvidias_controversial_dlss_5/
-2026-08-28T19:03:20+00:00	EA Motive's Iron Man Game Trailer Seemingly Leaked With Early Look at Gameplay https://www.reddit.com/r/Games/comments/1w0zlat/ea_motives_iron_man_game_trailer_seemingly_leaked/
-2026-08-28T19:05:51+00:00	CD Projekt Red has The Witcher 4 running on all target platforms after Cyberpunk 2077 lesson https://www.reddit.com/r/Games/comments/1w0znsd/cd_projekt_red_has_the_witcher_4_running_on_all/
 2026-08-28T19:07:12+00:00	Indie Dev Posts Tearful Message After Laptops Stolen At Gamescom https://www.reddit.com/r/Games/comments/1w0zp29/indie_dev_posts_tearful_message_after_laptops/
 2026-08-28T21:46:56+00:00	"It looks like Steam re-reviewed Future? No Thanks! and removed the "frequent nudity or adult content" reverting the Germany geo-ban and the age verification by credit card in the UK." - @molleindustria.org on Bluesky https://www.reddit.com/r/Games/comments/1w13vr7/it_looks_like_steam_rereviewed_future_no_thanks/
 2026-08-28T23:00:43+00:00	PCSX2 2.8.0 is now out! https://www.reddit.com/r/Games/comments/1w15pj9/pcsx2_280_is_now_out/
@@ -28,3 +20,11 @@
 2026-08-29T20:13:59+00:00	The Witcher 4 Will Have a Physical Edition Even if Discs Go Away, CD Projekt Red Confirms https://www.reddit.com/r/Games/comments/1w1wqx6/the_witcher_4_will_have_a_physical_edition_even/
 2026-08-29T20:25:46+00:00	Donkey Kong 64 ReKONGpiled Release Trailer https://www.reddit.com/r/Games/comments/1w1x1um/donkey_kong_64_rekongpiled_release_trailer/
 2026-08-29T23:07:40+00:00	re:Blue Trailer - Blue Dragon Unofficial PC Port https://www.reddit.com/r/Games/comments/1w20x37/reblue_trailer_blue_dragon_unofficial_pc_port/
+2026-08-30T00:59:50+00:00	TARAE: The Unbound - Gameplay Preview https://www.reddit.com/r/Games/comments/1w23e0q/tarae_the_unbound_gameplay_preview/
+2026-08-30T01:06:08+00:00	NVIDIA DLSS 5 media embargo already in place, LTT confirms video is already filmed and ready to drop - VideoCardz.com https://www.reddit.com/r/Games/comments/1w23j1j/nvidia_dlss_5_media_embargo_already_in_place_ltt/
+2026-08-30T04:00:48+00:00	Indie Sunday Hub - August 30, 2026 https://www.reddit.com/r/Games/comments/1w2718q/indie_sunday_hub_august_30_2026/
+2026-08-30T04:49:29+00:00	Cleanup on Aisle 3 - Aviary Interactive - Indie Sunday https://www.reddit.com/r/Games/comments/1w27yvh/cleanup_on_aisle_3_aviary_interactive_indie_sunday/
+2026-08-30T05:21:35+00:00	Roguebound Pirates - Redbeak Games - 3D Pirate Action Roguelike https://www.reddit.com/r/Games/comments/1w28kvk/roguebound_pirates_redbeak_games_3d_pirate_action/
+2026-08-30T06:32:33+00:00	Michael Test - FancySquare - First-person psychological horror about finding what's wrong in a painting https://www.reddit.com/r/Games/comments/1w29vab/michael_test_fancysquare_firstperson/
+2026-08-30T06:37:12+00:00	Dream Daughter by Mikrokozmos Studio - psychological horror game set in an Orwellian dreamscape https://www.reddit.com/r/Games/comments/1w29y9v/dream_daughter_by_mikrokozmos_studio/
+2026-08-30T06:40:13+00:00	Wandering Alchemist - Vlyn - Fully free, no ads, offline GPS walking game [Android/iOS] https://www.reddit.com/r/Games/comments/1w2a02n/wandering_alchemist_vlyn_fully_free_no_ads/
