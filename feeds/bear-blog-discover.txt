@@ -3,19 +3,19 @@
 # source = https://bearblog.dev/discover/feed/
 # description = twtxt conversion of https://bearblog.dev/discover/feed/
 
-2026-08-28T16:02:00+00:00	Kindness isn't free https://wordsisig.bearblog.dev/blog/kindness-isnt-free/
 2026-08-28T20:48:00+00:00	My blog looks like a book! https://reedybear.bearblog.dev/book-theme-for-bearblog/
 2026-08-28T22:05:00+00:00	AI ruined some of my most precious accessibility tools. https://straybun.bearblog.dev/blog/2026/ai-ruined-accessibility/
 2026-08-29T03:59:37.576997+00:00	nobody has principles anymore https://icyti.me/nobody-has-principles-anymore/
 2026-08-29T12:00:00+00:00	I saw a fancy pigeon today and want to share it with you https://annoflo.net/fancy-pigeon/
 2026-08-29T14:15:00+00:00	On Anarchism https://chakkie.bearblog.dev/anarchism/
 2026-08-29T17:05:00+00:00	i wanna be that girl https://cinnabun.bearblog.dev/i-wanna-be-that-girl/
-2026-08-29T17:06:00+00:00	Upcoming Games I'm Very Excited About (Part 1) https://blog.curiousquail.com/upcoming-games-im-very-excited-about/
 2026-08-29T21:17:00+00:00	link dump - catching up on my online reading https://blog.avas.space/links-august/
 2026-08-29T23:43:47.856644+00:00	Rant snippets, I guess https://folkmoss.bearblog.dev/rant-snippets-i-guess/
 2026-08-30T01:41:00+00:00	Weeknotes #35/2026: Taking some time https://fornoone.bearblog.dev/weeknotes-352026-taking-some-time/
 2026-08-30T05:17:56.040084+00:00	what does that look like? https://joeb.bearblog.dev/what-does-that-look-like/
-2026-08-30T06:44:02.490035+00:00	finished blanket! https://tallywinkle.bearblog.dev/finished-blanket/
+2026-08-30T06:21:00+00:00	I made pickles with a crap ton of chili oil https://blog.lauramichet.com/i-made-pickles-with-a-crap-ton-of-chili-oil/
+2026-08-30T06:35:00+00:00	ZLDA: Winters Deep (Dungeon) https://hilanderrpgs.bearblog.dev/zlda-winters-deep-dungeon/
+2026-08-30T06:44:00+00:00	finished blanket! https://tallywinkle.bearblog.dev/finished-blanket/
 2026-08-30T07:30:00+00:00	rose ▪ bud ▪ thorn - august 2026 https://blog.avas.space/rosebudthorn-aug26/
 2026-08-30T07:56:00+00:00	Hi! https://laraisabelle.bearblog.dev/hi/
 2026-08-30T11:54:00+00:00	Blaugust 2026 #8: The Blogosphere Iceberg https://bookishmk.com/blaugust-2026-8-indieweb-blogosphere-newb/
