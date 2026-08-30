@@ -3,12 +3,10 @@
 # source = https://bearblog.dev/discover/feed/
 # description = twtxt conversion of https://bearblog.dev/discover/feed/
 
-2026-08-26T22:09:00+00:00	Cats Might Just Be Enlightened https://jackreiger.bearblog.dev/cats-might-just-be-enlightened/
 2026-08-27T09:34:00+00:00	Save Yourself From Any Drama By Not Commenting https://livingkindfully.bearblog.dev/save-yourself-from-any-drama-by-not-commenting/
 2026-08-27T22:37:00+00:00	It ain't blorb https://elmc.at/it-aint-blorb/
 2026-08-27T23:14:00+00:00	A Year Since the Layoff https://notes.jeddacp.com/a-year-since-the-layoff/
 2026-08-27T23:14:00+00:00	Tyger Tyger, burning bright https://householderkarl.com/tyger-tyger-burning-bright/
-2026-08-28T02:59:00+00:00	august 27 buh https://combatdavey.net/august-27-2026/
 2026-08-28T16:02:00+00:00	Kindness isn't free https://wordsisig.bearblog.dev/blog/kindness-isnt-free/
 2026-08-28T17:41:00+00:00	we didn't know any better https://rnotte.art/we-didnt-know-any-better/
 2026-08-28T18:20:00+00:00	📸 it slowly fades https://pixelzaddy.com/it-slowly-fades/
@@ -23,3 +21,5 @@
 2026-08-29T12:00:00+00:00	I saw a fancy pigeon today and want to share it with you https://annoflo.net/fancy-pigeon/
 2026-08-29T14:15:00+00:00	On Anarchism https://chakkie.bearblog.dev/anarchism/
 2026-08-29T14:53:00+00:00	The first AI use case that genuinely saves me time (outside of programming) https://ducret.dev/grocery-shopping-with-ai/
+2026-08-29T17:05:00+00:00	i wanna be that girl https://cinnabun.bearblog.dev/i-wanna-be-that-girl/
+2026-08-29T17:06:00+00:00	Upcoming Games I'm Very Excited About (Part 1) https://blog.curiousquail.com/upcoming-games-im-very-excited-about/
