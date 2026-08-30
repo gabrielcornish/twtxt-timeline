@@ -3,18 +3,12 @@
 # source = https://www.reddit.com/r/Games.rss
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
-2026-08-26T11:00:50+00:00	Daily /r/Games Discussion - Suggest Me a Game - August 26, 2026 https://www.reddit.com/r/Games/comments/1vytuip/daily_rgames_discussion_suggest_me_a_game_august/
-2026-08-28T13:10:48+00:00	Digital Foundry: GTA 6: An Extended Look Analysis - "Perhaps the Most Impressive Showcase We've Ever Seen in Real-Time Rendering" https://www.reddit.com/r/Games/comments/1w0q6xh/digital_foundry_gta_6_an_extended_look_analysis/
 2026-08-28T18:26:42+00:00	‘This is horrifying’ Nvidia’s controversial DLSS 5 AI filter leaks and players are inserting it into every game https://www.reddit.com/r/Games/comments/1w0ylhp/this_is_horrifying_nvidias_controversial_dlss_5/
-2026-08-28T19:07:12+00:00	Indie Dev Posts Tearful Message After Laptops Stolen At Gamescom https://www.reddit.com/r/Games/comments/1w0zp29/indie_dev_posts_tearful_message_after_laptops/
-2026-08-28T21:46:56+00:00	"It looks like Steam re-reviewed Future? No Thanks! and removed the "frequent nudity or adult content" reverting the Germany geo-ban and the age verification by credit card in the UK." - @molleindustria.org on Bluesky https://www.reddit.com/r/Games/comments/1w13vr7/it_looks_like_steam_rereviewed_future_no_thanks/
 2026-08-28T23:00:43+00:00	PCSX2 2.8.0 is now out! https://www.reddit.com/r/Games/comments/1w15pj9/pcsx2_280_is_now_out/
-2026-08-29T02:40:50+00:00	UZDoom 5.0 Release Announcement trailer https://www.reddit.com/r/Games/comments/1w1agop/uzdoom_50_release_announcement_trailer/
 2026-08-29T11:02:12+00:00	The Invisible Layers Holding Games Back https://www.reddit.com/r/Games/comments/1w1jl3g/the_invisible_layers_holding_games_back/
 2026-08-29T11:30:27+00:00	Activision Just Ambushed A Notorious Call Of Duty Cheat Maker With Legal Papers At His House, And Filmed The Whole Thing | Their cheats have since been taken down https://www.reddit.com/r/Games/comments/1w1k45q/activision_just_ambushed_a_notorious_call_of_duty/
 2026-08-29T13:01:17+00:00	Gamescom Team Addresses Theft Reports From Show Floor https://www.reddit.com/r/Games/comments/1w1lz89/gamescom_team_addresses_theft_reports_from_show/
 2026-08-29T14:18:01+00:00	Alien Deathstorm - Gamescom Trailer https://www.reddit.com/r/Games/comments/1w1nr5r/alien_deathstorm_gamescom_trailer/
-2026-08-29T14:50:07+00:00	Warlord: Awaji Main Trailer https://www.reddit.com/r/Games/comments/1w1oj5o/warlord_awaji_main_trailer/
 2026-08-29T16:37:32+00:00	GameInformer Showa American Story Preview: We played 30 minutes of Nekcom Entertainment's upcoming action RPG, Showa American Story, and found the game raunchy, bloody, absurd, and hilarious https://www.reddit.com/r/Games/comments/1w1r8ej/gameinformer_showa_american_story_preview_we/
 2026-08-29T17:39:06+00:00	Game Trailer Editors Describe Generative AI As Poison https://www.reddit.com/r/Games/comments/1w1ssnr/game_trailer_editors_describe_generative_ai_as/
 2026-08-29T20:13:59+00:00	The Witcher 4 Will Have a Physical Edition Even if Discs Go Away, CD Projekt Red Confirms https://www.reddit.com/r/Games/comments/1w1wqx6/the_witcher_4_will_have_a_physical_edition_even/
@@ -23,8 +17,14 @@
 2026-08-30T00:59:50+00:00	TARAE: The Unbound - Gameplay Preview https://www.reddit.com/r/Games/comments/1w23e0q/tarae_the_unbound_gameplay_preview/
 2026-08-30T01:06:08+00:00	NVIDIA DLSS 5 media embargo already in place, LTT confirms video is already filmed and ready to drop - VideoCardz.com https://www.reddit.com/r/Games/comments/1w23j1j/nvidia_dlss_5_media_embargo_already_in_place_ltt/
 2026-08-30T04:00:48+00:00	Indie Sunday Hub - August 30, 2026 https://www.reddit.com/r/Games/comments/1w2718q/indie_sunday_hub_august_30_2026/
-2026-08-30T04:49:29+00:00	Cleanup on Aisle 3 - Aviary Interactive - Indie Sunday https://www.reddit.com/r/Games/comments/1w27yvh/cleanup_on_aisle_3_aviary_interactive_indie_sunday/
 2026-08-30T05:21:35+00:00	Roguebound Pirates - Redbeak Games - 3D Pirate Action Roguelike https://www.reddit.com/r/Games/comments/1w28kvk/roguebound_pirates_redbeak_games_3d_pirate_action/
-2026-08-30T06:32:33+00:00	Michael Test - FancySquare - First-person psychological horror about finding what's wrong in a painting https://www.reddit.com/r/Games/comments/1w29vab/michael_test_fancysquare_firstperson/
-2026-08-30T06:37:12+00:00	Dream Daughter by Mikrokozmos Studio - psychological horror game set in an Orwellian dreamscape https://www.reddit.com/r/Games/comments/1w29y9v/dream_daughter_by_mikrokozmos_studio/
 2026-08-30T06:40:13+00:00	Wandering Alchemist - Vlyn - Fully free, no ads, offline GPS walking game [Android/iOS] https://www.reddit.com/r/Games/comments/1w2a02n/wandering_alchemist_vlyn_fully_free_no_ads/
+2026-08-30T08:18:27+00:00	Astronomics - Numizmatic - Intercept passing asteroids and automate resource mining - New Region. Gas Resources unlocked. Harvest the nebulae. https://www.reddit.com/r/Games/comments/1w2bpz4/astronomics_numizmatic_intercept_passing/
+2026-08-30T09:00:28+00:00	Weekly /r/Games Discussion - What have you been playing, and what are your thoughts? - August 30, 2026 https://www.reddit.com/r/Games/comments/1w2cfs2/weekly_rgames_discussion_what_have_you_been/
+2026-08-30T09:12:05+00:00	Keyboard Circuit - DaniaPlay.co - Rhythm typing game controlled entirely by your keyboard https://www.reddit.com/r/Games/comments/1w2cn0b/keyboard_circuit_daniaplayco_rhythm_typing_game/
+2026-08-30T11:16:35+00:00	12TB Steam leak exposes old game builds from 2003 to 2013 https://www.reddit.com/r/Games/comments/1w2euif/12tb_steam_leak_exposes_old_game_builds_from_2003/
+2026-08-30T11:31:07+00:00	Essence Harvest - SinusQuell Games - Incremental meets Survival/Bullet Heaven https://www.reddit.com/r/Games/comments/1w2f45l/essence_harvest_sinusquell_games_incremental/
+2026-08-30T11:44:42+00:00	Code of The Savage - Geoff - An old-school open-world RPG where stealing can go badly https://www.reddit.com/r/Games/comments/1w2fdmd/code_of_the_savage_geoff_an_oldschool_openworld/
+2026-08-30T11:52:49+00:00	Funeral for the Sun - Nicolas Cid Delgado- A supernatural detective game where you explore 100 years of a town's history. https://www.reddit.com/r/Games/comments/1w2fj8m/funeral_for_the_sun_nicolas_cid_delgado_a/
+2026-08-30T11:53:09+00:00	Mortal Shell II - The Week 1 Update is Available Now https://www.reddit.com/r/Games/comments/1w2fjgl/mortal_shell_ii_the_week_1_update_is_available_now/
+2026-08-30T12:45:06+00:00	Game Shelver 99 - Prof. Scherer - Organize your Steam Library and defend it against pirates with a shotgun https://www.reddit.com/r/Games/comments/1w2gmlg/game_shelver_99_prof_scherer_organize_your_steam/
