@@ -3,23 +3,23 @@
 # source = https://bearblog.dev/discover/feed/
 # description = twtxt conversion of https://bearblog.dev/discover/feed/
 
-2026-08-27T22:37:00+00:00	It ain't blorb https://elmc.at/it-aint-blorb/
 2026-08-28T16:02:00+00:00	Kindness isn't free https://wordsisig.bearblog.dev/blog/kindness-isnt-free/
-2026-08-28T17:41:00+00:00	we didn't know any better https://rnotte.art/we-didnt-know-any-better/
-2026-08-28T20:17:00+00:00	Boomers and disinformation https://slowburn.bearblog.dev/boomers-and-disinformation/
-2026-08-28T20:23:00+00:00	a dark, pixelated chamber door https://leeyuhletters.bearblog.dev/a-dark-pixelated-chamber-door/
 2026-08-28T20:48:00+00:00	My blog looks like a book! https://reedybear.bearblog.dev/book-theme-for-bearblog/
-2026-08-28T20:53:00+00:00	Kindness https://lwgrs.bearblog.dev/kindness/
 2026-08-28T22:05:00+00:00	AI ruined some of my most precious accessibility tools. https://straybun.bearblog.dev/blog/2026/ai-ruined-accessibility/
-2026-08-28T22:56:00+00:00	I Feel More Buddhist When It Rains https://householderkarl.com/more-buddhist-when-it-rains/
 2026-08-29T03:59:37.576997+00:00	nobody has principles anymore https://icyti.me/nobody-has-principles-anymore/
-2026-08-29T07:29:00+00:00	Secure digital life https://rwitesh.com/posts/secure-digital-life/
-2026-08-29T10:00:00+00:00	I love the sound of my voice when I read aloud https://leeyuhletters.bearblog.dev/i-love-the-sound-of-my-voice-when-i-read-aloud/
 2026-08-29T12:00:00+00:00	I saw a fancy pigeon today and want to share it with you https://annoflo.net/fancy-pigeon/
 2026-08-29T14:15:00+00:00	On Anarchism https://chakkie.bearblog.dev/anarchism/
-2026-08-29T14:53:00+00:00	The first AI use case that genuinely saves me time (outside of programming) https://ducret.dev/grocery-shopping-with-ai/
 2026-08-29T17:05:00+00:00	i wanna be that girl https://cinnabun.bearblog.dev/i-wanna-be-that-girl/
 2026-08-29T17:06:00+00:00	Upcoming Games I'm Very Excited About (Part 1) https://blog.curiousquail.com/upcoming-games-im-very-excited-about/
 2026-08-29T21:17:00+00:00	link dump - catching up on my online reading https://blog.avas.space/links-august/
 2026-08-29T23:43:47.856644+00:00	Rant snippets, I guess https://folkmoss.bearblog.dev/rant-snippets-i-guess/
+2026-08-30T01:41:00+00:00	Weeknotes #35/2026: Taking some time https://fornoone.bearblog.dev/weeknotes-352026-taking-some-time/
+2026-08-30T05:17:56.040084+00:00	what does that look like? https://joeb.bearblog.dev/what-does-that-look-like/
+2026-08-30T06:44:02.490035+00:00	finished blanket! https://tallywinkle.bearblog.dev/finished-blanket/
+2026-08-30T07:30:00+00:00	rose ▪ bud ▪ thorn - august 2026 https://blog.avas.space/rosebudthorn-aug26/
 2026-08-30T07:56:00+00:00	Hi! https://laraisabelle.bearblog.dev/hi/
+2026-08-30T11:54:00+00:00	Blaugust 2026 #8: The Blogosphere Iceberg https://bookishmk.com/blaugust-2026-8-indieweb-blogosphere-newb/
+2026-08-30T12:35:00+00:00	Did I Mention We Have AI In This New Release? https://thisismylast.bearblog.dev/did-i-mention-we-have-ai-in-this-new-release/
+2026-08-30T13:13:00+00:00	Neocities is for nostalgic masochists. https://itsme.bearblog.dev/neocities-is-for-nostalgic-masochists/
+2026-08-30T13:19:00+00:00	Psychonautica https://householderkarl.com/psychonautica/
+2026-08-30T14:40:00+00:00	💌 Newsletter #015 - "Watermarks" in Chatbot Output; Meta settles; "It's Just a Tool?" https://technically-good.ca/newsletter/015-2026-08-30/
