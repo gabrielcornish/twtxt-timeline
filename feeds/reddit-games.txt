@@ -3,28 +3,28 @@
 # source = https://www.reddit.com/r/Games.rss
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
-2026-08-29T11:30:27+00:00	Activision Just Ambushed A Notorious Call Of Duty Cheat Maker With Legal Papers At His House, And Filmed The Whole Thing | Their cheats have since been taken down https://www.reddit.com/r/Games/comments/1w1k45q/activision_just_ambushed_a_notorious_call_of_duty/
-2026-08-29T13:01:17+00:00	Gamescom Team Addresses Theft Reports From Show Floor https://www.reddit.com/r/Games/comments/1w1lz89/gamescom_team_addresses_theft_reports_from_show/
-2026-08-29T17:39:06+00:00	Game Trailer Editors Describe Generative AI As Poison https://www.reddit.com/r/Games/comments/1w1ssnr/game_trailer_editors_describe_generative_ai_as/
 2026-08-29T20:13:59+00:00	The Witcher 4 Will Have a Physical Edition Even if Discs Go Away, CD Projekt Red Confirms https://www.reddit.com/r/Games/comments/1w1wqx6/the_witcher_4_will_have_a_physical_edition_even/
-2026-08-29T20:25:46+00:00	Donkey Kong 64 ReKONGpiled Release Trailer https://www.reddit.com/r/Games/comments/1w1x1um/donkey_kong_64_rekongpiled_release_trailer/
-2026-08-29T23:07:40+00:00	re:Blue Trailer - Blue Dragon Unofficial PC Port https://www.reddit.com/r/Games/comments/1w20x37/reblue_trailer_blue_dragon_unofficial_pc_port/
-2026-08-30T00:59:50+00:00	TARAE: The Unbound - Gameplay Preview https://www.reddit.com/r/Games/comments/1w23e0q/tarae_the_unbound_gameplay_preview/
 2026-08-30T01:06:08+00:00	NVIDIA DLSS 5 media embargo already in place, LTT confirms video is already filmed and ready to drop - VideoCardz.com https://www.reddit.com/r/Games/comments/1w23j1j/nvidia_dlss_5_media_embargo_already_in_place_ltt/
 2026-08-30T09:00:28+00:00	Weekly /r/Games Discussion - What have you been playing, and what are your thoughts? - August 30, 2026 https://www.reddit.com/r/Games/comments/1w2cfs2/weekly_rgames_discussion_what_have_you_been/
 2026-08-30T11:16:35+00:00	12TB Steam leak exposes old game builds from 2003 to 2013 https://www.reddit.com/r/Games/comments/1w2euif/12tb_steam_leak_exposes_old_game_builds_from_2003/
 2026-08-30T11:53:09+00:00	Mortal Shell II - The Week 1 Update is Available Now https://www.reddit.com/r/Games/comments/1w2fjgl/mortal_shell_ii_the_week_1_update_is_available_now/
-2026-08-30T14:28:48+00:00	Ichorian Tales - Caio Ramaglio - A Zelda-like focused on old-school, puzzle-box dungeons https://www.reddit.com/r/Games/comments/1w2j1ww/ichorian_tales_caio_ramaglio_a_zeldalike_focused/
 2026-08-30T14:53:45+00:00	The Witcher 3: Wild Hunt — Songs of the Past | gamescom 2026 Showcase Supercut https://www.reddit.com/r/Games/comments/1w2jog1/the_witcher_3_wild_hunt_songs_of_the_past/
-2026-08-30T15:00:16+00:00	Maximilian Spee - Eugene Lopatin - WWI grand strategy game https://www.reddit.com/r/Games/comments/1w2ju78/maximilian_spee_eugene_lopatin_wwi_grand_strategy/
-2026-08-30T15:02:12+00:00	Shawarma Hell - MADLED - stressful restaurant serving game https://www.reddit.com/r/Games/comments/1w2jw6f/shawarma_hell_madled_stressful_restaurant_serving/
 2026-08-30T15:02:47+00:00	Fable will officially be 20 hours long, Xbox confirms in new interview https://www.reddit.com/r/Games/comments/1w2jwq3/fable_will_officially_be_20_hours_long_xbox/
-2026-08-30T16:30:31+00:00	Catch Flex - Vilegacy - rhythm game you play with your whole body, tracked by an ordinary camera or your phone, no VR headset, no controllers [OUT NOW] https://www.reddit.com/r/Games/comments/1w2m5lx/catch_flex_vilegacy_rhythm_game_you_play_with/
-2026-08-30T16:51:09+00:00	HAUNTASY - Dream Theory Games - Survive a haunted estate until 4 AM https://www.reddit.com/r/Games/comments/1w2mp0v/hauntasy_dream_theory_games_survive_a_haunted/
 2026-08-30T17:20:31+00:00	Rockstar Doesn’t Mind if You Dislike GTA 6’s Romantic Side: ‘Don’t Bother With It. Up to You’ https://www.reddit.com/r/Games/comments/1w2nh9u/rockstar_doesnt_mind_if_you_dislike_gta_6s/
 2026-08-30T18:55:19+00:00	checking in – ConcernedApe's Haunted Chocolatier https://www.reddit.com/r/Games/comments/1w2pzva/checking_in_concernedapes_haunted_chocolatier/
 2026-08-30T19:00:20+00:00	Minesweeper Collector 2 - Anton Kryukov - Big minesweeper game with a storyline, a variety of minesweeper-based mechanics | 2nd anniversary https://www.reddit.com/r/Games/comments/1w2q4ow/minesweeper_collector_2_anton_kryukov_big/
 2026-08-31T00:02:40+00:00	Static Dread: The Submarine - solarsuit.games - a Lovecraftian submarine horror about hard choices and crew sanity. https://www.reddit.com/r/Games/comments/1w2xm5h/static_dread_the_submarine_solarsuitgames_a/
 2026-08-31T00:57:19+00:00	Resonance: A Plague Tale Legacy Lead Talks Through All Of The Game's Big Changes https://www.reddit.com/r/Games/comments/1w2ytab/resonance_a_plague_tale_legacy_lead_talks_through/
 2026-08-31T01:28:25+00:00	Mecha Tower Defense Demo -RoonBleet Games - A Roguelite TD with Deep Meta Progression https://www.reddit.com/r/Games/comments/1w2zhl8/mecha_tower_defense_demo_roonbleet_games_a/
+2026-08-31T02:50:58+00:00	I used SteamDB history to identify most of the 92 unnamed depots in the Steam2 archive https://www.reddit.com/r/Games/comments/1w319eg/i_used_steamdb_history_to_identify_most_of_the_92/
 2026-08-31T03:21:02+00:00	Onimusha: Way of the Sword - Ifuu & Burai fight https://www.reddit.com/r/Games/comments/1w31we4/onimusha_way_of_the_sword_ifuu_burai_fight/
+2026-08-31T05:47:48+00:00	Z Mega Evolutions arrive in Pokémon Champions! | Official Pokémon World Championships Trailer https://www.reddit.com/r/Games/comments/1w34rv6/z_mega_evolutions_arrive_in_pokémon_champions/
+2026-08-31T06:34:43+00:00	Never Wither: New Gameplay Trailer Released | Demo Coming to October Next Fest https://www.reddit.com/r/Games/comments/1w35mln/never_wither_new_gameplay_trailer_released_demo/
+2026-08-31T08:20:06+00:00	NES Classic 'Battle of Olympus' Is Being Remade By Its Original Husband-And-Wife Team https://www.reddit.com/r/Games/comments/1w37hw5/nes_classic_battle_of_olympus_is_being_remade_by/
+2026-08-31T09:32:33+00:00	I enjoy Fallgrade's grainy physics-defying city almost as much as I fear its foggy giant spider https://www.reddit.com/r/Games/comments/1w38r3u/i_enjoy_fallgrades_grainy_physicsdefying_city/
+2026-08-31T10:44:02+00:00	OpenTS is a new open-source reconstruction of Command & Conquer: Tiberian Sun https://www.reddit.com/r/Games/comments/1w3a3cl/opents_is_a_new_opensource_reconstruction_of/
+2026-08-31T12:01:47+00:00	State of Play & State of Play Japan return on September 3 https://www.reddit.com/r/Games/comments/1w3bqb4/state_of_play_state_of_play_japan_return_on/
+2026-08-31T12:55:04+00:00	PS5 Pro Stock Vanishes After GTA 6 Reveal, Prices Hit $1,300 https://www.reddit.com/r/Games/comments/1w3czqp/ps5_pro_stock_vanishes_after_gta_6_reveal_prices/
+2026-08-31T13:11:24+00:00	Stellar Blade - Official Nintendo Switch 2 Gameplay Video | gamescom https://www.reddit.com/r/Games/comments/1w3desv/stellar_blade_official_nintendo_switch_2_gameplay/
+2026-08-31T13:13:01+00:00	Housemarque Co-Founder Ilari Kuittinen has announced his retirement after 31 years https://www.reddit.com/r/Games/comments/1w3dg96/housemarque_cofounder_ilari_kuittinen_has/
+2026-08-31T13:40:08+00:00	Tricked Into Having Fun | Big Walk https://www.reddit.com/r/Games/comments/1w3e55x/tricked_into_having_fun_big_walk/
