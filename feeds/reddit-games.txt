@@ -4,10 +4,7 @@
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
 2026-08-30T09:00:28+00:00	Weekly /r/Games Discussion - What have you been playing, and what are your thoughts? - August 30, 2026 https://www.reddit.com/r/Games/comments/1w2cfs2/weekly_rgames_discussion_what_have_you_been/
-2026-08-30T15:02:47+00:00	Fable will officially be 20 hours long, Xbox confirms in new interview https://www.reddit.com/r/Games/comments/1w2jwq3/fable_will_officially_be_20_hours_long_xbox/
 2026-08-30T17:20:31+00:00	Rockstar Doesn’t Mind if You Dislike GTA 6’s Romantic Side: ‘Don’t Bother With It. Up to You’ https://www.reddit.com/r/Games/comments/1w2nh9u/rockstar_doesnt_mind_if_you_dislike_gta_6s/
-2026-08-30T18:55:19+00:00	checking in – ConcernedApe's Haunted Chocolatier https://www.reddit.com/r/Games/comments/1w2pzva/checking_in_concernedapes_haunted_chocolatier/
-2026-08-31T00:57:19+00:00	Resonance: A Plague Tale Legacy Lead Talks Through All Of The Game's Big Changes https://www.reddit.com/r/Games/comments/1w2ytab/resonance_a_plague_tale_legacy_lead_talks_through/
 2026-08-31T05:47:48+00:00	Z Mega Evolutions arrive in Pokémon Champions! | Official Pokémon World Championships Trailer https://www.reddit.com/r/Games/comments/1w34rv6/z_mega_evolutions_arrive_in_pokémon_champions/
 2026-08-31T08:20:06+00:00	NES Classic 'Battle of Olympus' Is Being Remade By Its Original Husband-And-Wife Team https://www.reddit.com/r/Games/comments/1w37hw5/nes_classic_battle_of_olympus_is_being_remade_by/
 2026-08-31T10:44:02+00:00	OpenTS is a new open-source reconstruction of Command & Conquer: Tiberian Sun https://www.reddit.com/r/Games/comments/1w3a3cl/opents_is_a_new_opensource_reconstruction_of/
@@ -28,3 +25,6 @@
 2026-08-31T17:22:02+00:00	Steam PvE Survival Crafting Fest 2026: Official Trailer https://www.reddit.com/r/Games/comments/1w3kehe/steam_pve_survival_crafting_fest_2026_official/
 2026-08-31T17:31:13+00:00	Sucker for Love: Crush Landing - Official Launch Trailer! https://www.reddit.com/r/Games/comments/1w3ko4a/sucker_for_love_crush_landing_official_launch/
 2026-08-31T19:10:03+00:00	DESKTOP CLEANER 98 Announcement Trailer https://www.reddit.com/r/Games/comments/1w3nmdg/desktop_cleaner_98_announcement_trailer/
+2026-08-31T19:53:11+00:00	Dune: Awakening lead says "100 hours isn't bad" to get out of the survival MMO, but its new single-player mode gives you "full control over the experience" and time you spend https://www.reddit.com/r/Games/comments/1w3ovxm/dune_awakening_lead_says_100_hours_isnt_bad_to/
+2026-08-31T19:58:17+00:00	Stellar Blade and Lies of P "really made developers in Korea take up the challenge for console games," says Shift Up technical director https://www.reddit.com/r/Games/comments/1w3p16j/stellar_blade_and_lies_of_p_really_made/
+2026-08-31T22:05:10+00:00	Welcome to Amnesia Fortnight 2026, Indie Reboot! [Double Fine] https://www.reddit.com/r/Games/comments/1w3snpk/welcome_to_amnesia_fortnight_2026_indie_reboot/
