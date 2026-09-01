@@ -3,10 +3,6 @@
 # source = https://www.gamesindustry.biz/feed
 # description = twtxt conversion of https://www.gamesindustry.biz/feed
 
-2026-08-20T14:33:37+00:00	GamesIndustry.biz HR Summit reveals new People and Workplace focus, dedicated to shaping the future of games workplaces https://www.gamesindustry.biz/gamesindustrybiz-hr-summit-reveals-new-people-and-workplace-focus-dedicated-to-shaping-the-future-of-games-workplaces
-2026-08-20T15:20:49+00:00	US physical game sales drop to lowest monthly total since 1995 | US Monthly Charts https://www.gamesindustry.biz/us-physical-game-sales-drop-to-lowest-monthly-total-since-1995-us-monthly-charts
-2026-08-20T19:19:08+00:00	Geoff Keighley clarifies how trailers are selected for Gamescom Opening Night Live https://www.gamesindustry.biz/geoff-keighley-clarifies-how-trailers-are-selected-for-gamescom-opening-night-live
-2026-08-21T08:06:41+00:00	Riot Games sunsets active development on 2XKO as it costs "substantially more to operate than it brings in" https://www.gamesindustry.biz/riot-games-sunsets-active-development-on-2xko-as-it-costs-substantially-more-to-operate-than-it-brings-in
 2026-08-21T10:35:36+00:00	Roblox makes three of its AI safety tools open source https://www.gamesindustry.biz/roblox-makes-three-of-its-ai-safety-tools-open-source
 2026-08-21T11:00:00+00:00	Why Xbox's console ads could be a good thing for gaming | Opinion https://www.gamesindustry.biz/why-xboxs-console-ads-could-be-a-good-thing-for-gaming-opinion
 2026-08-21T13:26:55+00:00	Rover's Tale developer Observer Interactive parts ways with Team17 as it moves to self-publishing https://www.gamesindustry.biz/rovers-tale-developer-observer-interactive-parts-ways-with-team17-as-it-moves-to-self-publishing
@@ -53,3 +49,7 @@
 2026-08-28T14:27:12+00:00	GTA 6 will have a halo effect for the entire industry | Opinion https://www.gamesindustry.biz/gta-6-will-have-a-halo-effect-for-the-entire-industry-opinion
 2026-09-01T08:07:34+00:00	Bit Reactor furloughed "many of its workers" in the weeks before Star Wars Zero Company's launch https://www.gamesindustry.biz/bit-reactor-furloughed-many-of-its-workers-in-the-weeks-before-star-wars-zero-companys-launch
 2026-09-01T08:47:50+00:00	Rovio closes Copenhagen studio following shut down of Sonic Blitz https://www.gamesindustry.biz/rovio-closes-copenhagen-studio-following-shut-down-of-sonic-blitz
+2026-09-01T10:32:51+00:00	Gamescom 2026 attendance rose 6% to 368,000 visitors https://www.gamesindustry.biz/gamescom-2026-attendance-rose-6-to-368000-visitors
+2026-09-01T12:42:51+00:00	UKIE launches Discord-backed Go To Market Academy, a business program to support early-stage indie devs https://www.gamesindustry.biz/ukie-launches-discord-backed-go-to-market-academy-a-business-program-to-support-early-stage-indie-devs
+2026-09-01T13:41:11+00:00	Jobs roundup: September 2026 | Amir Satvat joins 1Up Ventures as a general partner https://www.gamesindustry.biz/jobs-roundup-september-2026-amir-satvat-joins-1up-ventures-as-a-general-partner
+2026-09-01T14:38:11+00:00	Brian Ward steps down as Savvy Games Group CEO https://www.gamesindustry.biz/brian-ward-steps-down-as-savvy-games-group-ceo

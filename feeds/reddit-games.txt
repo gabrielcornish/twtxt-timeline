@@ -4,27 +4,27 @@
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
 2026-08-30T09:00:28+00:00	Weekly /r/Games Discussion - What have you been playing, and what are your thoughts? - August 30, 2026 https://www.reddit.com/r/Games/comments/1w2cfs2/weekly_rgames_discussion_what_have_you_been/
-2026-08-31T08:20:06+00:00	NES Classic 'Battle of Olympus' Is Being Remade By Its Original Husband-And-Wife Team https://www.reddit.com/r/Games/comments/1w37hw5/nes_classic_battle_of_olympus_is_being_remade_by/
-2026-08-31T10:44:02+00:00	OpenTS is a new open-source reconstruction of Command & Conquer: Tiberian Sun https://www.reddit.com/r/Games/comments/1w3a3cl/opents_is_a_new_opensource_reconstruction_of/
-2026-08-31T12:01:47+00:00	State of Play & State of Play Japan return on September 3 https://www.reddit.com/r/Games/comments/1w3bqb4/state_of_play_state_of_play_japan_return_on/
 2026-08-31T12:55:04+00:00	PS5 Pro Stock Vanishes After GTA 6 Reveal, Prices Hit $1,300 https://www.reddit.com/r/Games/comments/1w3czqp/ps5_pro_stock_vanishes_after_gta_6_reveal_prices/
-2026-08-31T13:13:01+00:00	Housemarque Co-Founder Ilari Kuittinen has announced his retirement after 31 years https://www.reddit.com/r/Games/comments/1w3dg96/housemarque_cofounder_ilari_kuittinen_has/
-2026-08-31T13:40:08+00:00	Tricked Into Having Fun | Big Walk https://www.reddit.com/r/Games/comments/1w3e55x/tricked_into_having_fun_big_walk/
 2026-08-31T14:09:44+00:00	Insider Gaming: DOOM: The Dark Ages Revelations Faced ‘Worst Crunch’ in Franchise History https://www.reddit.com/r/Games/comments/1w3exc2/insider_gaming_doom_the_dark_ages_revelations/
 2026-08-31T15:00:23+00:00	Blood of Dawnwalker Review Thread https://www.reddit.com/r/Games/comments/1w3gbm5/blood_of_dawnwalker_review_thread/
 2026-08-31T15:03:24+00:00	Onimusha: Way of the Sword Review Thread https://www.reddit.com/r/Games/comments/1w3gewv/onimusha_way_of_the_sword_review_thread/
-2026-08-31T16:04:50+00:00	Romancing SaGa 3: Destinies United rated for Switch/Switch 2/PS5/Xbox Series/PC in Brazil https://www.reddit.com/r/Games/comments/1w3i5hu/romancing_saga_3_destinies_united_rated_for/
-2026-08-31T16:32:37+00:00	DERELIKT - Retro Sci-Fi FPS Environmental Showcase - Coming 2026 https://www.reddit.com/r/Games/comments/1w3iyvz/derelikt_retro_scifi_fps_environmental_showcase/
 2026-08-31T16:42:22+00:00	Naughty Dog - Intergalactic: The Heretic Prophet has finished shooting, "See you, Space Cowboy.." https://www.reddit.com/r/Games/comments/1w3j8tm/naughty_dog_intergalactic_the_heretic_prophet_has/
 2026-08-31T16:45:23+00:00	Dragon’s Dogma 2 DLC devs faced “diametrically opposed” feedback from players in the West and Japan https://www.reddit.com/r/Games/comments/1w3jbwl/dragons_dogma_2_dlc_devs_faced_diametrically/
 2026-08-31T16:52:12+00:00	Jason Schreier - The Death Of Physical Games Is A Sign Of What's Coming https://www.reddit.com/r/Games/comments/1w3jixv/jason_schreier_the_death_of_physical_games_is_a/
-2026-08-31T17:22:02+00:00	Steam PvE Survival Crafting Fest 2026: Official Trailer https://www.reddit.com/r/Games/comments/1w3kehe/steam_pve_survival_crafting_fest_2026_official/
-2026-08-31T17:31:13+00:00	Sucker for Love: Crush Landing - Official Launch Trailer! https://www.reddit.com/r/Games/comments/1w3ko4a/sucker_for_love_crush_landing_official_launch/
-2026-08-31T19:10:03+00:00	DESKTOP CLEANER 98 Announcement Trailer https://www.reddit.com/r/Games/comments/1w3nmdg/desktop_cleaner_98_announcement_trailer/
 2026-08-31T19:53:11+00:00	Dune: Awakening lead says "100 hours isn't bad" to get out of the survival MMO, but its new single-player mode gives you "full control over the experience" and time you spend https://www.reddit.com/r/Games/comments/1w3ovxm/dune_awakening_lead_says_100_hours_isnt_bad_to/
 2026-08-31T19:58:17+00:00	Stellar Blade and Lies of P "really made developers in Korea take up the challenge for console games," says Shift Up technical director https://www.reddit.com/r/Games/comments/1w3p16j/stellar_blade_and_lies_of_p_really_made/
 2026-08-31T22:05:10+00:00	Welcome to Amnesia Fortnight 2026, Indie Reboot! [Double Fine] https://www.reddit.com/r/Games/comments/1w3snpk/welcome_to_amnesia_fortnight_2026_indie_reboot/
 2026-09-01T02:35:52+00:00	Konami Press Start Showcase at 8 AM PT/11 AM ET September 3rd, 30 minute runtime https://www.reddit.com/r/Games/comments/1w3z632/konami_press_start_showcase_at_8_am_pt11_am_et/
-2026-09-01T03:21:20+00:00	Cybernetic Attack Final Mission - Trailer https://www.reddit.com/r/Games/comments/1w40563/cybernetic_attack_final_mission_trailer/
 2026-09-01T03:26:11+00:00	CODE VEIN II - Mask of Idris Developer Message https://www.reddit.com/r/Games/comments/1w408nc/code_vein_ii_mask_of_idris_developer_message/
 2026-09-01T04:18:21+00:00	Capcom Spotlight presentation announced for Sept 16 - 7 AM PT for Tokyo Game Show 2026 https://www.reddit.com/r/Games/comments/1w41ay6/capcom_spotlight_presentation_announced_for_sept/
+2026-09-01T05:10:42+00:00	The studio behind Star Wars Zero Company, which is currently a Steam bestseller, has reportedly furloughed the majority of its staff https://www.reddit.com/r/Games/comments/1w42bgh/the_studio_behind_star_wars_zero_company_which_is/
+2026-09-01T10:46:54+00:00	Orbitals Review Thread https://www.reddit.com/r/Games/comments/1w48caj/orbitals_review_thread/
+2026-09-01T11:07:28+00:00	Alkimya: House of Wisdom - Official Announcement Trailer https://www.reddit.com/r/Games/comments/1w48r9k/alkimya_house_of_wisdom_official_announcement/
+2026-09-01T11:37:02+00:00	After Being Ditched by Xbox, Double Fine Says It'll Make Brütal Legend 2 If Its Amnesia Fortnight 2026 Kickstarter Raises an Impossible-Sounding $100 Million https://www.reddit.com/r/Games/comments/1w49ds6/after_being_ditched_by_xbox_double_fine_says_itll/
+2026-09-01T12:05:42+00:00	Nippon Ichi Software expects to fully bounce back to profitability thanks to the overwhelming success of Village in the Shade https://www.reddit.com/r/Games/comments/1w4a103/nippon_ichi_software_expects_to_fully_bounce_back/
+2026-09-01T12:56:00+00:00	Sonic and the Secret Rings - Project Reignition (PC Port, v1.0 Release) https://www.reddit.com/r/Games/comments/1w4b6wg/sonic_and_the_secret_rings_project_reignition_pc/
+2026-09-01T13:17:04+00:00	Witcher 3 Remastered saves will carry over: your current saves will work with the upgrade, so you can get back on the Path right where you left off. Your unlocked achievements and trophies will carry over too https://www.reddit.com/r/Games/comments/1w4bq1o/witcher_3_remastered_saves_will_carry_over_your/
+2026-09-01T13:38:33+00:00	I Am Your Beast coming to Switch 2, Switch on October 20 alongside story DLC ‘Quitting Time’ https://www.reddit.com/r/Games/comments/1w4c9s7/i_am_your_beast_coming_to_switch_2_switch_on/
+2026-09-01T14:17:24+00:00	ACE COMBAT 8: WINGS OF THEVE | Online 101 Trailer https://www.reddit.com/r/Games/comments/1w4daxp/ace_combat_8_wings_of_theve_online_101_trailer/
+2026-09-01T14:28:46+00:00	Warrior Cats: Clans of the Forest launches October 23 for PlayStation 5, Xbox Series, Switch 2, Switch, and PC https://www.reddit.com/r/Games/comments/1w4dlzc/warrior_cats_clans_of_the_forest_launches_october/
+2026-09-01T14:34:00+00:00	Ubisoft's For Honor will block SteamOS / Linux on September 10 https://www.reddit.com/r/Games/comments/1w4dqvh/ubisofts_for_honor_will_block_steamos_linux_on/
