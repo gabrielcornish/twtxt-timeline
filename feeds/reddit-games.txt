@@ -5,21 +5,9 @@
 
 2026-08-30T09:00:28+00:00	Weekly /r/Games Discussion - What have you been playing, and what are your thoughts? - August 30, 2026 https://www.reddit.com/r/Games/comments/1w2cfs2/weekly_rgames_discussion_what_have_you_been/
 2026-08-31T12:55:04+00:00	PS5 Pro Stock Vanishes After GTA 6 Reveal, Prices Hit $1,300 https://www.reddit.com/r/Games/comments/1w3czqp/ps5_pro_stock_vanishes_after_gta_6_reveal_prices/
-2026-08-31T14:09:44+00:00	Insider Gaming: DOOM: The Dark Ages Revelations Faced ‘Worst Crunch’ in Franchise History https://www.reddit.com/r/Games/comments/1w3exc2/insider_gaming_doom_the_dark_ages_revelations/
-2026-08-31T15:00:23+00:00	Blood of Dawnwalker Review Thread https://www.reddit.com/r/Games/comments/1w3gbm5/blood_of_dawnwalker_review_thread/
-2026-08-31T15:03:24+00:00	Onimusha: Way of the Sword Review Thread https://www.reddit.com/r/Games/comments/1w3gewv/onimusha_way_of_the_sword_review_thread/
-2026-08-31T16:42:22+00:00	Naughty Dog - Intergalactic: The Heretic Prophet has finished shooting, "See you, Space Cowboy.." https://www.reddit.com/r/Games/comments/1w3j8tm/naughty_dog_intergalactic_the_heretic_prophet_has/
-2026-08-31T16:45:23+00:00	Dragon’s Dogma 2 DLC devs faced “diametrically opposed” feedback from players in the West and Japan https://www.reddit.com/r/Games/comments/1w3jbwl/dragons_dogma_2_dlc_devs_faced_diametrically/
-2026-08-31T16:52:12+00:00	Jason Schreier - The Death Of Physical Games Is A Sign Of What's Coming https://www.reddit.com/r/Games/comments/1w3jixv/jason_schreier_the_death_of_physical_games_is_a/
 2026-08-31T19:53:11+00:00	Dune: Awakening lead says "100 hours isn't bad" to get out of the survival MMO, but its new single-player mode gives you "full control over the experience" and time you spend https://www.reddit.com/r/Games/comments/1w3ovxm/dune_awakening_lead_says_100_hours_isnt_bad_to/
-2026-08-31T19:58:17+00:00	Stellar Blade and Lies of P "really made developers in Korea take up the challenge for console games," says Shift Up technical director https://www.reddit.com/r/Games/comments/1w3p16j/stellar_blade_and_lies_of_p_really_made/
-2026-08-31T22:05:10+00:00	Welcome to Amnesia Fortnight 2026, Indie Reboot! [Double Fine] https://www.reddit.com/r/Games/comments/1w3snpk/welcome_to_amnesia_fortnight_2026_indie_reboot/
-2026-09-01T02:35:52+00:00	Konami Press Start Showcase at 8 AM PT/11 AM ET September 3rd, 30 minute runtime https://www.reddit.com/r/Games/comments/1w3z632/konami_press_start_showcase_at_8_am_pt11_am_et/
-2026-09-01T03:26:11+00:00	CODE VEIN II - Mask of Idris Developer Message https://www.reddit.com/r/Games/comments/1w408nc/code_vein_ii_mask_of_idris_developer_message/
-2026-09-01T04:18:21+00:00	Capcom Spotlight presentation announced for Sept 16 - 7 AM PT for Tokyo Game Show 2026 https://www.reddit.com/r/Games/comments/1w41ay6/capcom_spotlight_presentation_announced_for_sept/
 2026-09-01T05:10:42+00:00	The studio behind Star Wars Zero Company, which is currently a Steam bestseller, has reportedly furloughed the majority of its staff https://www.reddit.com/r/Games/comments/1w42bgh/the_studio_behind_star_wars_zero_company_which_is/
 2026-09-01T10:46:54+00:00	Orbitals Review Thread https://www.reddit.com/r/Games/comments/1w48caj/orbitals_review_thread/
-2026-09-01T11:07:28+00:00	Alkimya: House of Wisdom - Official Announcement Trailer https://www.reddit.com/r/Games/comments/1w48r9k/alkimya_house_of_wisdom_official_announcement/
 2026-09-01T11:37:02+00:00	After Being Ditched by Xbox, Double Fine Says It'll Make Brütal Legend 2 If Its Amnesia Fortnight 2026 Kickstarter Raises an Impossible-Sounding $100 Million https://www.reddit.com/r/Games/comments/1w49ds6/after_being_ditched_by_xbox_double_fine_says_itll/
 2026-09-01T12:05:42+00:00	Nippon Ichi Software expects to fully bounce back to profitability thanks to the overwhelming success of Village in the Shade https://www.reddit.com/r/Games/comments/1w4a103/nippon_ichi_software_expects_to_fully_bounce_back/
 2026-09-01T12:56:00+00:00	Sonic and the Secret Rings - Project Reignition (PC Port, v1.0 Release) https://www.reddit.com/r/Games/comments/1w4b6wg/sonic_and_the_secret_rings_project_reignition_pc/
@@ -28,3 +16,15 @@
 2026-09-01T14:17:24+00:00	ACE COMBAT 8: WINGS OF THEVE | Online 101 Trailer https://www.reddit.com/r/Games/comments/1w4daxp/ace_combat_8_wings_of_theve_online_101_trailer/
 2026-09-01T14:28:46+00:00	Warrior Cats: Clans of the Forest launches October 23 for PlayStation 5, Xbox Series, Switch 2, Switch, and PC https://www.reddit.com/r/Games/comments/1w4dlzc/warrior_cats_clans_of_the_forest_launches_october/
 2026-09-01T14:34:00+00:00	Ubisoft's For Honor will block SteamOS / Linux on September 10 https://www.reddit.com/r/Games/comments/1w4dqvh/ubisofts_for_honor_will_block_steamos_linux_on/
+2026-09-01T15:01:48+00:00	No Rest for the Wicked | 1.0 Delay Announcement https://www.reddit.com/r/Games/comments/1w4eieh/no_rest_for_the_wicked_10_delay_announcement/
+2026-09-01T15:04:28+00:00	CD Projekt Red: If you want a cost-driven development, you cannot make The Witcher 4. CD Projekt Red never considered charging for The Witcher 3 Remastered, talks Cyberpunk 2077 https://www.reddit.com/r/Games/comments/1w4el89/cd_projekt_red_if_you_want_a_costdriven/
+2026-09-01T15:17:55+00:00	As Xbox’s disc-to-digital feature rolls out to Insiders, players are discovering it works for delisted games https://www.reddit.com/r/Games/comments/1w4eyyw/as_xboxs_disctodigital_feature_rolls_out_to/
+2026-09-01T16:07:29+00:00	Introducing nopixel V - Rockstar Games https://www.reddit.com/r/Games/comments/1w4gdde/introducing_nopixel_v_rockstar_games/
+2026-09-01T16:08:40+00:00	Total War Warhammer III - Nagash and Glottkin Campaign Overview https://www.reddit.com/r/Games/comments/1w4gekb/total_war_warhammer_iii_nagash_and_glottkin/
+2026-09-01T16:28:36+00:00	S.T.A.L.K.E.R. 2: Zone Kit - Phase 2 Modding Features Trailer https://www.reddit.com/r/Games/comments/1w4gzn4/stalker_2_zone_kit_phase_2_modding_features/
+2026-09-01T16:39:08+00:00	Godzilla Dev Wants to Do More Remasters, But 'a Lot of Conversations' Need to Happen First https://www.reddit.com/r/Games/comments/1w4har1/godzilla_dev_wants_to_do_more_remasters_but_a_lot/
+2026-09-01T17:00:43+00:00	Humble Choice September 2026 - Sonic X Shadow Generations, Frostpunk 2, Voidtrain and more https://www.reddit.com/r/Games/comments/1w4hxj3/humble_choice_september_2026_sonic_x_shadow/
+2026-09-01T17:16:01+00:00	Kenshi as a 3rd Person RPG is AMAZING! https://www.reddit.com/r/Games/comments/1w4idv9/kenshi_as_a_3rd_person_rpg_is_amazing/
+2026-09-01T17:27:45+00:00	"Sign me up" - Banjo Kazooie composer Grant Kirkhope is holding out hope for a sequel, but knows multiple pitches have been turned down https://www.reddit.com/r/Games/comments/1w4ipxg/sign_me_up_banjo_kazooie_composer_grant_kirkhope/
+2026-09-01T17:32:06+00:00	HOARDER | Official Release Window Trailer https://www.reddit.com/r/Games/comments/1w4iujw/hoarder_official_release_window_trailer/
+2026-09-01T17:52:46+00:00	Crimson Moon is out now! https://www.reddit.com/r/Games/comments/1w4jgep/crimson_moon_is_out_now/
