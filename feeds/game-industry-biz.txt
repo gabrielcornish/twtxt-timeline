@@ -3,8 +3,6 @@
 # source = https://www.gamesindustry.biz/feed
 # description = twtxt conversion of https://www.gamesindustry.biz/feed
 
-2026-08-20T11:09:56+00:00	Rockstar hit with more leaks as GTA 6 gameplay and assets appear to circulate on social media https://www.gamesindustry.biz/rockstar-hit-with-more-leaks-as-gta-6-gameplay-and-assets-appear-to-circulate-on-social-media
-2026-08-20T13:00:00+00:00	Makers Fund raises $250m in fourth round to support interactive entertainment startups https://www.gamesindustry.biz/makers-fund-raises-250m-in-fourth-round-to-support-interactive-entertainment-startups
 2026-08-20T14:33:37+00:00	GamesIndustry.biz HR Summit reveals new People and Workplace focus, dedicated to shaping the future of games workplaces https://www.gamesindustry.biz/gamesindustrybiz-hr-summit-reveals-new-people-and-workplace-focus-dedicated-to-shaping-the-future-of-games-workplaces
 2026-08-20T15:20:49+00:00	US physical game sales drop to lowest monthly total since 1995 | US Monthly Charts https://www.gamesindustry.biz/us-physical-game-sales-drop-to-lowest-monthly-total-since-1995-us-monthly-charts
 2026-08-20T19:19:08+00:00	Geoff Keighley clarifies how trailers are selected for Gamescom Opening Night Live https://www.gamesindustry.biz/geoff-keighley-clarifies-how-trailers-are-selected-for-gamescom-opening-night-live
@@ -53,3 +51,5 @@
 2026-08-28T11:17:59+00:00	Cloud Imperium delays Squadron 42 to 2027 – "There is no way I want to launch into the attention buzz saw of GTA 6" https://www.gamesindustry.biz/cloud-imperium-delays-squadron-42-to-2027-there-is-no-way-i-want-to-launch-into-the-attention-buzz-saw-of-gta-6
 2026-08-28T12:05:08+00:00	Limbic Entertainment on life after Bandai Namco https://www.gamesindustry.biz/limbic-entertainment-on-life-after-bandai-namco
 2026-08-28T14:27:12+00:00	GTA 6 will have a halo effect for the entire industry | Opinion https://www.gamesindustry.biz/gta-6-will-have-a-halo-effect-for-the-entire-industry-opinion
+2026-09-01T08:07:34+00:00	Bit Reactor furloughed "many of its workers" in the weeks before Star Wars Zero Company's launch https://www.gamesindustry.biz/bit-reactor-furloughed-many-of-its-workers-in-the-weeks-before-star-wars-zero-companys-launch
+2026-09-01T08:47:50+00:00	Rovio closes Copenhagen studio following shut down of Sonic Blitz https://www.gamesindustry.biz/rovio-closes-copenhagen-studio-following-shut-down-of-sonic-blitz
