@@ -4,9 +4,7 @@
 # description = twtxt conversion of https://bearblog.dev/discover/feed/
 
 2026-08-29T12:00:00+00:00	I saw a fancy pigeon today and want to share it with you https://annoflo.net/fancy-pigeon/
-2026-08-30T06:44:00+00:00	finished blanket! https://tallywinkle.bearblog.dev/finished-blanket/
 2026-08-30T07:56:00+00:00	Hi! https://laraisabelle.bearblog.dev/hi/
-2026-08-30T13:19:00+00:00	Psychonautica https://householderkarl.com/psychonautica/
 2026-08-30T14:40:00+00:00	💌 Newsletter #015 - "Watermarks" in Chatbot Output; Meta settles; "It's Just a Tool?" https://technically-good.ca/newsletter/015-2026-08-30/
 2026-08-30T16:23:00+00:00	Gosh, Who Would Have Thought That Google Is Run By Cowardly Bootlickers? https://sebastianmalloy.bearblog.dev/gosh-who-would-have-thought-that-google-is-run-by-cowardly-bootlickers/
 2026-08-30T19:03:00+00:00	Various stupid quotes i found on the internet and then put on my website https://kami.bearblog.dev/various-stupid-quotes-i-found-on-the-internet-and-then-put-on-my-website/
@@ -23,3 +21,5 @@
 2026-09-01T14:52:00+00:00	Rulings of Cool https://tbr.bearblog.dev/rulings-of-cool/
 2026-09-01T15:15:00+00:00	Dr. Suzuki's Report (Frydheld Sector 1) https://againstthecultofthecommodity.bearblog.dev/dr-suzukis-report-frydheld-sector-1/
 2026-09-01T15:45:00+00:00	A journey through nine years of health and activity data https://www.jamesleighton.com/a-journey-through-nine-years-of-data/
+2026-09-01T15:47:01.982550+00:00	I used to deny what I went through https://xtoblog.bearblog.dev/i-used-to-deny-what-i-went-through/
+2026-09-01T22:25:00+00:00	Arthur's Mom (Has Got it Going On) https://householderkarl.com/arthurs-mom/

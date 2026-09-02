@@ -4,7 +4,6 @@
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
 2026-08-30T09:00:28+00:00	Weekly /r/Games Discussion - What have you been playing, and what are your thoughts? - August 30, 2026 https://www.reddit.com/r/Games/comments/1w2cfs2/weekly_rgames_discussion_what_have_you_been/
-2026-08-31T12:55:04+00:00	PS5 Pro Stock Vanishes After GTA 6 Reveal, Prices Hit $1,300 https://www.reddit.com/r/Games/comments/1w3czqp/ps5_pro_stock_vanishes_after_gta_6_reveal_prices/
 2026-09-01T05:10:42+00:00	The studio behind Star Wars Zero Company, which is currently a Steam bestseller, has reportedly furloughed the majority of its staff https://www.reddit.com/r/Games/comments/1w42bgh/the_studio_behind_star_wars_zero_company_which_is/
 2026-09-01T10:46:54+00:00	Orbitals Review Thread https://www.reddit.com/r/Games/comments/1w48caj/orbitals_review_thread/
 2026-09-01T11:37:02+00:00	After Being Ditched by Xbox, Double Fine Says It'll Make Brütal Legend 2 If Its Amnesia Fortnight 2026 Kickstarter Raises an Impossible-Sounding $100 Million https://www.reddit.com/r/Games/comments/1w49ds6/after_being_ditched_by_xbox_double_fine_says_itll/
@@ -27,4 +26,5 @@
 2026-09-01T17:32:06+00:00	HOARDER | Official Release Window Trailer https://www.reddit.com/r/Games/comments/1w4iujw/hoarder_official_release_window_trailer/
 2026-09-01T17:52:46+00:00	Crimson Moon is out now! https://www.reddit.com/r/Games/comments/1w4jgep/crimson_moon_is_out_now/
 2026-09-01T18:36:39+00:00	Rebounder | Announce Trailer https://www.reddit.com/r/Games/comments/1w4kqo5/rebounder_announce_trailer/
-2026-09-01T19:12:02+00:00	Announcement Trailer: The Final Cut of Lilith Cunningham https://www.reddit.com/r/Games/comments/1w4luck/announcement_trailer_the_final_cut_of_lilith/
+2026-09-01T22:27:07+00:00	Neo Berlin 2087 - Official Pre-Alpha Gameplay Demo | gamescom 2026 https://www.reddit.com/r/Games/comments/1w4rykt/neo_berlin_2087_official_prealpha_gameplay_demo/
+2026-09-01T23:45:43+00:00	Star Wars Zero Company Was Originally Pitched as a Titanfall Universe Game https://www.reddit.com/r/Games/comments/1w4tws1/star_wars_zero_company_was_originally_pitched_as/
