@@ -17,9 +17,9 @@
 2026-09-01T15:45:00+00:00	A journey through nine years of health and activity data https://www.jamesleighton.com/a-journey-through-nine-years-of-data/
 2026-09-01T18:57:59.104300+00:00	Pencil usage update https://circuit-breaker.bearblog.dev/pencil-usage-update/
 2026-09-01T19:04:00+00:00	the little things come last https://dizzydog.bearblog.dev/the-little-things-come-last/
-2026-09-01T20:35:00+00:00	👾 Switching To Monogame For Game Development https://sunscales.bearblog.dev/switching-to-monogame-for-game-development/
 2026-09-01T21:51:00+00:00	i wanna live an npc life https://signalundefied.bearblog.dev/i-wanna-live-an-npc-life/
 2026-09-01T22:16:00+00:00	Mind the gap https://zeina.bearblog.dev/mind-the-gap/
 2026-09-01T22:25:00+00:00	Arthur's Mom (Has Got it Going On) https://householderkarl.com/arthurs-mom/
 2026-09-01T23:00:00+00:00	exam diaries chapter two: a small win https://lizziesthoughts.bearblog.dev/exam-diaries-chapter-two-a-small-win/
-2026-09-02T00:07:00+00:00	Anthropic banned me for "suspicious signals" https://kix.codes/anthropic-banned-me-for-suspicious-signals/
+2026-09-02T02:27:00+00:00	new beginnings https://tiramisu.bearblog.dev/new-beginnings/
+2026-09-02T06:35:00+00:00	your cameras are making it hard to connect with you https://leeyuhletters.bearblog.dev/your-cameras-are-making-it-hard-to-connect-with-you/

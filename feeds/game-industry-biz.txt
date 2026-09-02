@@ -3,11 +3,6 @@
 # source = https://www.gamesindustry.biz/feed
 # description = twtxt conversion of https://www.gamesindustry.biz/feed
 
-2026-08-21T11:00:00+00:00	Why Xbox's console ads could be a good thing for gaming | Opinion https://www.gamesindustry.biz/why-xboxs-console-ads-could-be-a-good-thing-for-gaming-opinion
-2026-08-21T13:26:55+00:00	Rover's Tale developer Observer Interactive parts ways with Team17 as it moves to self-publishing https://www.gamesindustry.biz/rovers-tale-developer-observer-interactive-parts-ways-with-team17-as-it-moves-to-self-publishing
-2026-08-21T13:52:33+00:00	Compulsion Games officially separates from Xbox – "The team told me we would rather eat rocks and drink gasoline than be split up" https://www.gamesindustry.biz/compulsion-games-officially-separates-from-xbox-the-team-told-me-we-would-rather-eat-rocks-and-drink-gasoline-than-be-split-up
-2026-08-21T14:00:36+00:00	IGN Entertainment brings Women In Gaming networking event to Gamescom https://www.gamesindustry.biz/ign-entertainment-brings-women-in-gaming-networking-event-to-gamescom
-2026-08-21T14:15:36+00:00	The opportunity cost of Sony's live service pivot is enormous | Opinion https://www.gamesindustry.biz/the-opportunity-cost-of-sonys-live-service-pivot-is-enormous-opinion
 2026-08-24T09:53:53+00:00	Take-Two Interactive files subpoenas against Microsoft, Discord, and X amid ongoing GTA 6 leaks https://www.gamesindustry.biz/take-two-interactive-files-subpoenas-against-microsoft-discord-and-x-amid-ongoing-gta-6-leaks
 2026-08-24T11:05:37+00:00	Double Fine Productions regains ownership of IP and publishing rights following independence from Xbox https://www.gamesindustry.biz/double-fine-productions-regains-ownership-of-ip-and-publishing-rights-following-independence-from-xbox
 2026-08-24T14:01:44+00:00	Data: 96% of studios now run a direct-to-consumer web store or plan to https://www.gamesindustry.biz/data-96-of-studios-now-run-a-direct-to-consumer-web-store-or-plan-to
@@ -53,3 +48,8 @@
 2026-09-01T13:41:11+00:00	Jobs roundup: September 2026 | Amir Satvat joins 1Up Ventures as a general partner https://www.gamesindustry.biz/jobs-roundup-september-2026-amir-satvat-joins-1up-ventures-as-a-general-partner
 2026-09-01T14:38:11+00:00	Brian Ward steps down as Savvy Games Group CEO https://www.gamesindustry.biz/brian-ward-steps-down-as-savvy-games-group-ceo
 2026-09-01T16:19:14+00:00	The Big Picture: What you need to know about the ongoing games industry reset https://www.gamesindustry.biz/the-big-picture-what-you-need-to-know-about-the-ongoing-games-industry-reset
+2026-09-02T07:00:00+00:00	IO Interactive CEO Hakan Abrak to discuss development of 007 First Light at Game Republic New Horizons 2026 https://www.gamesindustry.biz/io-interactive-ceo-hakan-abrak-to-discuss-development-of-007-first-light-at-game-republic-new-horizons-2026
+2026-09-02T07:51:21+00:00	GTA 6 extended look reaches 31.1m views on Netflix in four days, making it the most-viewed title last week https://www.gamesindustry.biz/gta-6-extended-look-reaches-311m-views-on-netflix-in-four-days-making-it-the-most-viewed-title-last-week
+2026-09-02T08:37:20+00:00	Supercell's acquisition of Metacore expected to close at the end of September 2026 https://www.gamesindustry.biz/supercells-acquisition-of-metacore-expected-to-close-at-the-end-of-september-2026
+2026-09-02T09:55:59+00:00	Over 700 games launched on Steam in one week for the first time, though 74% had fewer than 10 reviews https://www.gamesindustry.biz/over-700-games-launched-on-steam-in-one-week-for-the-first-time-though-74-had-fewer-than-10-reviews
+2026-09-02T10:44:18+00:00	Moon Studios delays No Rest for the Wicked to March 2027 – "We're holding our games to a standard we won't compromise on" https://www.gamesindustry.biz/moon-studios-delays-no-rest-for-the-wicked-to-march-2027-were-holding-our-games-to-a-standard-we-wont-compromise-on
