@@ -3,8 +3,6 @@
 # source = https://www.gamesindustry.biz/feed
 # description = twtxt conversion of https://www.gamesindustry.biz/feed
 
-2026-08-24T09:53:53+00:00	Take-Two Interactive files subpoenas against Microsoft, Discord, and X amid ongoing GTA 6 leaks https://www.gamesindustry.biz/take-two-interactive-files-subpoenas-against-microsoft-discord-and-x-amid-ongoing-gta-6-leaks
-2026-08-24T11:05:37+00:00	Double Fine Productions regains ownership of IP and publishing rights following independence from Xbox https://www.gamesindustry.biz/double-fine-productions-regains-ownership-of-ip-and-publishing-rights-following-independence-from-xbox
 2026-08-24T14:01:44+00:00	Data: 96% of studios now run a direct-to-consumer web store or plan to https://www.gamesindustry.biz/data-96-of-studios-now-run-a-direct-to-consumer-web-store-or-plan-to
 2026-08-24T14:23:55+00:00	Maria Redin of mobile giant MTG on rebranding, buying Raid: Shadow Legends, and plans to double the company's size https://www.gamesindustry.biz/maria-redin-of-mobile-giant-mtg-on-rebranding-buying-raid-shadow-legends-and-plans-to-double-the-companys-size
 2026-08-25T07:04:11+00:00	GDC Festival of Gaming announces changes to 2027 event, including new Business Hall at Moscone West https://www.gamesindustry.biz/gdc-festival-of-gaming-announces-changes-to-2027-event-including-new-business-hall-at-moscone-west
@@ -53,3 +51,5 @@
 2026-09-02T08:37:20+00:00	Supercell's acquisition of Metacore expected to close at the end of September 2026 https://www.gamesindustry.biz/supercells-acquisition-of-metacore-expected-to-close-at-the-end-of-september-2026
 2026-09-02T09:55:59+00:00	Over 700 games launched on Steam in one week for the first time, though 74% had fewer than 10 reviews https://www.gamesindustry.biz/over-700-games-launched-on-steam-in-one-week-for-the-first-time-though-74-had-fewer-than-10-reviews
 2026-09-02T10:44:18+00:00	Moon Studios delays No Rest for the Wicked to March 2027 – "We're holding our games to a standard we won't compromise on" https://www.gamesindustry.biz/moon-studios-delays-no-rest-for-the-wicked-to-march-2027-were-holding-our-games-to-a-standard-we-wont-compromise-on
+2026-09-02T13:00:00+00:00	"Sometimes you need fresh perspectives" – How external development helped Tomb Raider: Legacy of Atlantis https://www.gamesindustry.biz/sometimes-you-need-fresh-perspectives-how-external-development-helped-tomb-raider-legacy-of-atlantis
+2026-09-02T16:02:35+00:00	Square Enix denies going private after report sends stock surging https://www.gamesindustry.biz/square-enix-denies-going-private-after-report-sends-stock-surging
