@@ -3,14 +3,9 @@
 # source = https://www.reddit.com/r/Games.rss
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
-2026-09-01T11:37:02+00:00	After Being Ditched by Xbox, Double Fine Says It'll Make Brütal Legend 2 If Its Amnesia Fortnight 2026 Kickstarter Raises an Impossible-Sounding $100 Million https://www.reddit.com/r/Games/comments/1w49ds6/after_being_ditched_by_xbox_double_fine_says_itll/
 2026-09-01T13:17:04+00:00	Witcher 3 Remastered saves will carry over: your current saves will work with the upgrade, so you can get back on the Path right where you left off. Your unlocked achievements and trophies will carry over too https://www.reddit.com/r/Games/comments/1w4bq1o/witcher_3_remastered_saves_will_carry_over_your/
-2026-09-01T14:34:00+00:00	Ubisoft's For Honor will block SteamOS / Linux on September 10 https://www.reddit.com/r/Games/comments/1w4dqvh/ubisofts_for_honor_will_block_steamos_linux_on/
 2026-09-01T15:17:55+00:00	As Xbox’s disc-to-digital feature rolls out to Insiders, players are discovering it works for delisted games https://www.reddit.com/r/Games/comments/1w4eyyw/as_xboxs_disctodigital_feature_rolls_out_to/
-2026-09-01T16:07:29+00:00	Introducing nopixel V - Rockstar Games https://www.reddit.com/r/Games/comments/1w4gdde/introducing_nopixel_v_rockstar_games/
-2026-09-01T17:27:45+00:00	"Sign me up" - Banjo Kazooie composer Grant Kirkhope is holding out hope for a sequel, but knows multiple pitches have been turned down https://www.reddit.com/r/Games/comments/1w4ipxg/sign_me_up_banjo_kazooie_composer_grant_kirkhope/
 2026-09-01T23:45:43+00:00	Star Wars Zero Company Was Originally Pitched as a Titanfall Universe Game https://www.reddit.com/r/Games/comments/1w4tws1/star_wars_zero_company_was_originally_pitched_as/
-2026-09-02T00:12:32+00:00	Warhammer Age of Sigmar: Deathmaster - Official Gameplay Overview Trailer https://www.reddit.com/r/Games/comments/1w4ujz4/warhammer_age_of_sigmar_deathmaster_official/
 2026-09-02T00:14:51+00:00	‘I feel like I’m grieving’: staff on the devastating fallout of widespread layoffs at Xbox https://www.reddit.com/r/Games/comments/1w4ulun/i_feel_like_im_grieving_staff_on_the_devastating/
 2026-09-02T02:50:50+00:00	Good reviews are a 'great relief,' says Blood of Dawnwalker director, as former CD Projekt coworkers line up to offer congratulations https://www.reddit.com/r/Games/comments/1w4y24k/good_reviews_are_a_great_relief_says_blood_of/
 2026-09-02T04:01:56+00:00	Nintendo has updated Mario Kart 8 Deluxe to include 8 person split screen on Switch 2 https://www.reddit.com/r/Games/comments/1w4zjmc/nintendo_has_updated_mario_kart_8_deluxe_to/
@@ -28,3 +23,8 @@
 2026-09-02T15:00:02+00:00	Moonlighter 2: The Endless Vault | Full Launch Trailer https://www.reddit.com/r/Games/comments/1w5cswd/moonlighter_2_the_endless_vault_full_launch/
 2026-09-02T15:01:18+00:00	Fangtopia Official Release Date Trailer https://www.reddit.com/r/Games/comments/1w5cucb/fangtopia_official_release_date_trailer/
 2026-09-02T15:27:46+00:00	CD PROJEKT RED wraps up the first half of 2026: Cyberpunk 2077 has crossed the 40 million copies sold threshold Phantom Liberty expansion has sold 15 million copies. The Witcher 3: Wild Hunt has sold over 65 million copies, sales figures for the entire series have surpassed 90 million copies. https://www.reddit.com/r/Games/comments/1w5dl16/cd_projekt_red_wraps_up_the_first_half_of_2026/
+2026-09-02T15:59:38+00:00	Developer of Popular Survival Game 'Vintage Story' Released Malware to Players https://www.reddit.com/r/Games/comments/1w5eg6x/developer_of_popular_survival_game_vintage_story/
+2026-09-02T17:03:18+00:00	Harvey Smith Explains What Most Games Are Missing And Why He’s Still Making Them: ‘It’s An Act Of Rebellion To Try To Do Something Hopeful In Times Like This’ https://www.reddit.com/r/Games/comments/1w5g91z/harvey_smith_explains_what_most_games_are_missing/
+2026-09-02T17:37:48+00:00	Double Fines Kiln gets huge new update and price drop https://www.reddit.com/r/Games/comments/1w5h9au/double_fines_kiln_gets_huge_new_update_and_price/
+2026-09-02T18:29:40+00:00	LET IT DIE: Offline Version Now Available! https://www.reddit.com/r/Games/comments/1w5iqgu/let_it_die_offline_version_now_available/
+2026-09-02T18:40:46+00:00	Rovio Copenhagen to close after Sonic Blitz cancellation https://www.reddit.com/r/Games/comments/1w5j211/rovio_copenhagen_to_close_after_sonic_blitz/

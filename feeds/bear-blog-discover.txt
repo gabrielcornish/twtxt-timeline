@@ -5,14 +5,12 @@
 
 2026-08-31T14:50:00+00:00	Wide Not Tall https://forkingmad.blog/wide-not-tall/
 2026-08-31T16:54:00+00:00	writing and reading on the small web https://jeffdelp.bearblog.dev/writing-and-reading-on-the-small-web/
-2026-08-31T17:18:00+00:00	Blaugust Got Me Out of My Cave https://notes.jeddacp.com/blaugust-got-me-out-of-my-cave/
-2026-08-31T19:56:00+00:00	observing right-wingers for twelve days https://blog.sulimans.space/observing-right-wingers-for-twelve-days/
 2026-09-01T09:17:00+00:00	Can this small web thing be back to being offline? https://piimyon.bearblog.dev/can-this-small-web-thing-be-back-to-being-offline/
-2026-09-01T12:53:00+00:00	stop your performative concern! https://blog.sulimans.space/stop-your-performative-concern/
 2026-09-01T14:08:00+00:00	thinking about friendships (a belated reply) https://blog.absurdpirate.com/thinking-about-friendships/
 2026-09-01T14:52:00+00:00	Rulings of Cool https://tbr.bearblog.dev/rulings-of-cool/
 2026-09-01T15:09:00+00:00	The Death Of Physical Media https://seerofthe.net/the-death-of-physical-media/
 2026-09-01T15:45:00+00:00	A journey through nine years of health and activity data https://www.jamesleighton.com/a-journey-through-nine-years-of-data/
+2026-09-01T16:52:00+00:00	Analog Online Play: A Manifesto https://hilanderrpgs.bearblog.dev/analog-online-play/
 2026-09-01T18:57:59.104300+00:00	Pencil usage update https://circuit-breaker.bearblog.dev/pencil-usage-update/
 2026-09-01T19:04:00+00:00	the little things come last https://dizzydog.bearblog.dev/the-little-things-come-last/
 2026-09-01T21:51:00+00:00	i wanna live an npc life https://signalundefied.bearblog.dev/i-wanna-live-an-npc-life/
@@ -20,6 +18,8 @@
 2026-09-01T22:25:00+00:00	Arthur's Mom (Has Got it Going On) https://householderkarl.com/arthurs-mom/
 2026-09-01T23:00:00+00:00	exam diaries chapter two: a small win https://lizziesthoughts.bearblog.dev/exam-diaries-chapter-two-a-small-win/
 2026-09-02T02:27:00+00:00	new beginnings https://tiramisu.bearblog.dev/new-beginnings/
-2026-09-02T06:35:00+00:00	your cameras are making it hard to connect with you https://leeyuhletters.bearblog.dev/your-cameras-are-making-it-hard-to-connect-with-you/
+2026-09-02T05:30:00+00:00	Against AI: my Bear configuration https://thoughts.pivic.com/against-ai-my-bear-configuration/
 2026-09-02T13:22:00+00:00	Re: your cameras are making it hard to connect with you https://blighttown.bearblog.dev/re-your-cameras-are-making-it-hard-to-connect-with-you/
 2026-09-02T13:34:00+00:00	They're suing OpenAI https://itsme.bearblog.dev/theyre-suing-openai/
+2026-09-02T16:17:00+00:00	rationalizations about ring, flock, etc. https://blog.avas.space/ring-bullshit/
+2026-09-02T17:28:00+00:00	The Post-AI Internet Doesn't Look Great https://www.jordangoodman.xyz/the-post-ai-internet-doesnt-look-great/
