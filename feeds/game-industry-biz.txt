@@ -3,9 +3,6 @@
 # source = https://www.gamesindustry.biz/feed
 # description = twtxt conversion of https://www.gamesindustry.biz/feed
 
-2026-08-25T11:00:00+00:00	Gamescom Dev head says smaller studios represent the biggest opportunity in the games market https://www.gamesindustry.biz/gamescom-dev-head-says-smaller-studios-represent-the-biggest-opportunity-in-the-games-market
-2026-08-25T11:31:09+00:00	EU games industry generated €24bn in 2024, studios reached 6,600 and workforce exceeded 95,000 https://www.gamesindustry.biz/eu-games-industry-generated-24bn-in-2024-studios-reached-6600-and-workforce-exceeded-95000
-2026-08-25T13:00:00+00:00	Journey studio Thatgamecompany launches Thatgamepublisher to champion games that "move people through play" https://www.gamesindustry.biz/journey-studio-thatgamecompany-launches-thatgamepublisher-to-champion-games-that-move-people-through-play
 2026-08-25T13:41:50+00:00	Maverick Games partners with Focus Entertainment to publish debut racing title Clutch https://www.gamesindustry.biz/maverick-games-partners-with-focus-entertainment-to-publish-debut-racing-title-clutch
 2026-08-25T15:42:22+00:00	Game Developer Association of India picks 15 studios for first Supernova cohort https://www.gamesindustry.biz/game-developer-association-of-india-picks-15-studios-for-first-supernova-cohort
 2026-08-25T16:56:48+00:00	Entity raises $5.8 million to build browser-based "console-quality" gaming platform https://www.gamesindustry.biz/entity-raises-58-million-to-build-browser-based-console-quality-gaming-platform
@@ -53,3 +50,6 @@
 2026-09-03T07:29:48+00:00	"This is the worst crash we've seen since the 1980s," says Tim Sweeney https://www.gamesindustry.biz/this-is-the-worst-crash-weve-seen-since-the-1980s-says-tim-sweeney
 2026-09-03T08:04:49+00:00	Planet Coaster studio Frontier Developments announces new title based on Disney IP https://www.gamesindustry.biz/planet-coaster-studio-frontier-developments-announces-new-title-based-on-disney-ip
 2026-09-03T09:29:08+00:00	Peak studio Aggro Crab establishes publishing label for "intense, stylised games with an attitude" https://www.gamesindustry.biz/peak-studio-aggro-crab-establishes-publishing-label-for-intense-stylised-games-with-an-attitude
+2026-09-03T11:24:40+00:00	Sony and Microsoft request dismissal of consumer lawsuits over tariff refunds https://www.gamesindustry.biz/sony-and-microsoft-request-dismissal-of-consumer-lawsuits-over-tariff-refunds
+2026-09-03T12:05:44+00:00	"We've got a great team, money in the bank, and financial independence": Glowmade comes out swinging after Amazon pulled the plug on King of Meat https://www.gamesindustry.biz/weve-got-a-great-team-money-in-the-bank-and-financial-independence-glowmade-comes-out-swinging-after-amazon-pulled-the-plug-on-king-of-meat
+2026-09-03T14:56:12+00:00	Apple faces £2bn lawsuit over implementation of App Tracking Transparency framework https://www.gamesindustry.biz/apple-faces-2bn-lawsuit-over-implementation-of-app-tracking-transparency-framework
