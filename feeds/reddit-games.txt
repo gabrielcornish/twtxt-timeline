@@ -3,28 +3,28 @@
 # source = https://www.reddit.com/r/Games.rss
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
-2026-09-01T23:45:43+00:00	Star Wars Zero Company Was Originally Pitched as a Titanfall Universe Game https://www.reddit.com/r/Games/comments/1w4tws1/star_wars_zero_company_was_originally_pitched_as/
-2026-09-02T02:50:50+00:00	Good reviews are a 'great relief,' says Blood of Dawnwalker director, as former CD Projekt coworkers line up to offer congratulations https://www.reddit.com/r/Games/comments/1w4y24k/good_reviews_are_a_great_relief_says_blood_of/
 2026-09-02T04:01:56+00:00	Nintendo has updated Mario Kart 8 Deluxe to include 8 person split screen on Switch 2 https://www.reddit.com/r/Games/comments/1w4zjmc/nintendo_has_updated_mario_kart_8_deluxe_to/
 2026-09-02T06:58:09+00:00	Monster Hunter Wilds: Ascendance - Boosted Action Overview https://www.reddit.com/r/Games/comments/1w52ut2/monster_hunter_wilds_ascendance_boosted_action/
 2026-09-02T08:45:20+00:00	"Dragons Dogma 2" Title Update 3.2 is out now https://www.reddit.com/r/Games/comments/1w54p78/dragons_dogma_2_title_update_32_is_out_now/
-2026-09-02T10:50:55+00:00	Apocalypter - Release Trailer https://www.reddit.com/r/Games/comments/1w56xor/apocalypter_release_trailer/
 2026-09-02T10:52:15+00:00	SteamDB Joins Nexus Mods https://www.reddit.com/r/Games/comments/1w56ym5/steamdb_joins_nexus_mods/
 2026-09-02T11:00:31+00:00	Daily /r/Games Discussion - Suggest Me a Game - September 02, 2026 https://www.reddit.com/r/Games/comments/1w5746h/daily_rgames_discussion_suggest_me_a_game/
 2026-09-02T11:34:26+00:00	Capcom Has Removed Denuvo From Dragons Dogma 2 https://www.reddit.com/r/Games/comments/1w57s3p/capcom_has_removed_denuvo_from_dragons_dogma_2/
 2026-09-02T12:25:41+00:00	ONTOS - 10 Minutes Experiment Gameplay https://www.reddit.com/r/Games/comments/1w58vm2/ontos_10_minutes_experiment_gameplay/
 2026-09-02T13:44:45+00:00	LEGO Skylines is shaping up like a truly cosy time sink dream - hands-on https://www.reddit.com/r/Games/comments/1w5asxy/lego_skylines_is_shaping_up_like_a_truly_cosy/
+2026-09-02T14:35:42+00:00	Faced with a lawsuit, Sony lawyers argue "reasonable" PlayStation players are aware that they don't own the games they've paid for https://www.reddit.com/r/Games/comments/1w5c5g9/faced_with_a_lawsuit_sony_lawyers_argue/
 2026-09-02T15:00:02+00:00	Moonlighter 2: The Endless Vault | Full Launch Trailer https://www.reddit.com/r/Games/comments/1w5cswd/moonlighter_2_the_endless_vault_full_launch/
 2026-09-02T15:27:46+00:00	CD PROJEKT RED wraps up the first half of 2026: Cyberpunk 2077 has crossed the 40 million copies sold threshold Phantom Liberty expansion has sold 15 million copies. The Witcher 3: Wild Hunt has sold over 65 million copies, sales figures for the entire series have surpassed 90 million copies. https://www.reddit.com/r/Games/comments/1w5dl16/cd_projekt_red_wraps_up_the_first_half_of_2026/
 2026-09-02T15:59:38+00:00	Developer of Popular Survival Game 'Vintage Story' Released Malware to Players https://www.reddit.com/r/Games/comments/1w5eg6x/developer_of_popular_survival_game_vintage_story/
 2026-09-02T17:03:18+00:00	Harvey Smith Explains What Most Games Are Missing And Why He’s Still Making Them: ‘It’s An Act Of Rebellion To Try To Do Something Hopeful In Times Like This’ https://www.reddit.com/r/Games/comments/1w5g91z/harvey_smith_explains_what_most_games_are_missing/
-2026-09-02T17:16:29+00:00	He Who Watches (gravity-defying first person puzzler) now available on Steam and Itch.io https://www.reddit.com/r/Games/comments/1w5gn1i/he_who_watches_gravitydefying_first_person/
 2026-09-02T17:37:48+00:00	Double Fines Kiln gets huge new update and price drop https://www.reddit.com/r/Games/comments/1w5h9au/double_fines_kiln_gets_huge_new_update_and_price/
 2026-09-02T18:29:40+00:00	LET IT DIE: Offline Version Now Available! https://www.reddit.com/r/Games/comments/1w5iqgu/let_it_die_offline_version_now_available/
 2026-09-02T18:40:46+00:00	Rovio Copenhagen to close after Sonic Blitz cancellation https://www.reddit.com/r/Games/comments/1w5j211/rovio_copenhagen_to_close_after_sonic_blitz/
 2026-09-02T22:23:22+00:00	Hypernet Explorer - Early Access trailer https://www.reddit.com/r/Games/comments/1w5p8h7/hypernet_explorer_early_access_trailer/
+2026-09-03T01:42:18+00:00	『Lost Museum -Echoes of the Chromageists-』Teaser PV【Happinet Indie Collection】 https://www.reddit.com/r/Games/comments/1w5tsui/lost_museum_echoes_of_the_chromageiststeaser/
 2026-09-03T02:01:53+00:00	Sony and Microsoft say they’re not obligated to pass U.S. tariff refunds to consumers, echoing Nintendo https://www.reddit.com/r/Games/comments/1w5u823/sony_and_microsoft_say_theyre_not_obligated_to/
 2026-09-03T02:16:25+00:00	The New Lollipop Chainsaw Game Will Have it's World Premiere and be Playable for the First Time at Tokyo Game Show 2026, Stage Presentations Announced https://www.reddit.com/r/Games/comments/1w5ujd9/the_new_lollipop_chainsaw_game_will_have_its/
 2026-09-03T03:11:16+00:00	No Rest For The Wicked Director Calls Game Critics 'Untrustworthy' https://www.reddit.com/r/Games/comments/1w5vofi/no_rest_for_the_wicked_director_calls_game/
 2026-09-03T03:36:16+00:00	Halloween: The Game - Progression & Customization Overview https://www.reddit.com/r/Games/comments/1w5w6kj/halloween_the_game_progression_customization/
 2026-09-03T03:37:21+00:00	DYNASTY WARRIORS 3: Complete Edition Remastered - Overview Trailer https://www.reddit.com/r/Games/comments/1w5w7cy/dynasty_warriors_3_complete_edition_remastered/
+2026-09-03T07:51:58+00:00	Frontier Announces Collaboration with Disney for New Video Game - News - Frontier Developments plc. https://www.reddit.com/r/Games/comments/1w60trs/frontier_announces_collaboration_with_disney_for/
+2026-09-03T11:04:43+00:00	Sonic Is An Android In Fortnite Because The Real Sonic "Will Never Hold A Gun" https://www.reddit.com/r/Games/comments/1w6486z/sonic_is_an_android_in_fortnite_because_the_real/
