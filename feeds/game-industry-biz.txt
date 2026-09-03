@@ -3,7 +3,6 @@
 # source = https://www.gamesindustry.biz/feed
 # description = twtxt conversion of https://www.gamesindustry.biz/feed
 
-2026-08-25T13:41:50+00:00	Maverick Games partners with Focus Entertainment to publish debut racing title Clutch https://www.gamesindustry.biz/maverick-games-partners-with-focus-entertainment-to-publish-debut-racing-title-clutch
 2026-08-25T15:42:22+00:00	Game Developer Association of India picks 15 studios for first Supernova cohort https://www.gamesindustry.biz/game-developer-association-of-india-picks-15-studios-for-first-supernova-cohort
 2026-08-25T16:56:48+00:00	Entity raises $5.8 million to build browser-based "console-quality" gaming platform https://www.gamesindustry.biz/entity-raises-58-million-to-build-browser-based-console-quality-gaming-platform
 2026-08-25T18:44:44+00:00	Nvidia announces ray-traced Nanite, native anti-cheat, and DLSS 4.5 at Gamescom 2026 https://www.gamesindustry.biz/nvidia-brings-ray-traced-nanite-native-anti-cheat-and-dlss-45-to-gamescom-2026-lineup
@@ -53,3 +52,4 @@
 2026-09-03T11:24:40+00:00	Sony and Microsoft request dismissal of consumer lawsuits over tariff refunds https://www.gamesindustry.biz/sony-and-microsoft-request-dismissal-of-consumer-lawsuits-over-tariff-refunds
 2026-09-03T12:05:44+00:00	"We've got a great team, money in the bank, and financial independence": Glowmade comes out swinging after Amazon pulled the plug on King of Meat https://www.gamesindustry.biz/weve-got-a-great-team-money-in-the-bank-and-financial-independence-glowmade-comes-out-swinging-after-amazon-pulled-the-plug-on-king-of-meat
 2026-09-03T14:56:12+00:00	Apple faces £2bn lawsuit over implementation of App Tracking Transparency framework https://www.gamesindustry.biz/apple-faces-2bn-lawsuit-over-implementation-of-app-tracking-transparency-framework
+2026-09-03T16:30:22+00:00	Voting extended for special categories in the Best Places To Work Awards https://www.gamesindustry.biz/voting-extended-for-special-categories-in-the-best-places-to-work-awards
