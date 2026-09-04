@@ -3,7 +3,6 @@
 # source = https://www.gamesindustry.biz/feed
 # description = twtxt conversion of https://www.gamesindustry.biz/feed
 
-2026-08-26T05:56:36+00:00	Executives from EA and Tencent to speak alongside Netflix, Sony, and Disney at FT Business of Entertainment summit https://www.gamesindustry.biz/executives-from-ea-and-tencent-to-speak-alongside-netflix-sony-and-disney-at-ft-business-of-entertainment-summit
 2026-08-26T08:10:26+00:00	Roblox applies restrictions to games featuring "reward-driven media feeds" available in Roblox Kids and Select https://www.gamesindustry.biz/roblox-applies-restrictions-to-games-featuring-reward-driven-media-feeds-available-in-roblox-kids-and-select
 2026-08-26T09:39:21+00:00	Testronic expands senior leadership, Mike Guttman appointed vice president of senior partnerships https://www.gamesindustry.biz/testronic-expands-senior-leadership-mike-guttman-appointed-vice-president-of-senior-partnerships
 2026-08-26T12:57:20+00:00	Rockstar responds to GTA 6 leaks – "This is obviously not how we intended for you to see the game after all this time" https://www.gamesindustry.biz/rockstar-responds-to-gta-6-leaks-this-is-obviously-not-how-we-intended-for-you-to-see-the-game-after-all-this-time
@@ -53,3 +52,4 @@
 2026-09-04T12:16:41+00:00	Future imperfect: Five predictions for the next decade | Opinion https://www.gamesindustry.biz/future-imperfect-five-predictions-for-the-next-decade-opinion
 2026-09-04T13:50:36+00:00	Nvidia acquires open-source AI platform Hugging Face for $12.9bn https://www.gamesindustry.biz/nvidia-acquires-open-source-ai-platform-hugging-face-for-129bn
 2026-09-04T15:57:03+00:00	Inside Tencent's long-term strategy: live service, AI tools, and evergreen titles https://www.gamesindustry.biz/inside-tencents-long-term-strategy-live-service-ai-tools-and-evergreen-titles
+2026-09-04T18:00:00+00:00	PAX Unplugged Houston to debut in June 2027: "It's a chance to bring PAX back to the PAX South fans that missed us" https://www.gamesindustry.biz/pax-unplugged-houston-to-debut-in-june-2027-its-a-chance-to-bring-pax-back-to-the-pax-south-fans-that-missed-us
