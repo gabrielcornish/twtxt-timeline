@@ -3,9 +3,6 @@
 # source = https://www.gamesindustry.biz/feed
 # description = twtxt conversion of https://www.gamesindustry.biz/feed
 
-2026-08-25T18:44:44+00:00	Nvidia announces ray-traced Nanite, native anti-cheat, and DLSS 4.5 at Gamescom 2026 https://www.gamesindustry.biz/nvidia-brings-ray-traced-nanite-native-anti-cheat-and-dlss-45-to-gamescom-2026-lineup
-2026-08-25T19:45:19+00:00	Schell Games reportedly lays off staff https://www.gamesindustry.biz/schell-games-reportedly-lays-off-staff
-2026-08-25T23:23:11+00:00	The highlights of Gamescom Opening Night Live 2026 https://www.gamesindustry.biz/the-highlights-of-gamescom-opening-night-live-2026
 2026-08-26T05:56:36+00:00	Executives from EA and Tencent to speak alongside Netflix, Sony, and Disney at FT Business of Entertainment summit https://www.gamesindustry.biz/executives-from-ea-and-tencent-to-speak-alongside-netflix-sony-and-disney-at-ft-business-of-entertainment-summit
 2026-08-26T08:10:26+00:00	Roblox applies restrictions to games featuring "reward-driven media feeds" available in Roblox Kids and Select https://www.gamesindustry.biz/roblox-applies-restrictions-to-games-featuring-reward-driven-media-feeds-available-in-roblox-kids-and-select
 2026-08-26T09:39:21+00:00	Testronic expands senior leadership, Mike Guttman appointed vice president of senior partnerships https://www.gamesindustry.biz/testronic-expands-senior-leadership-mike-guttman-appointed-vice-president-of-senior-partnerships
@@ -53,3 +50,6 @@
 2026-09-03T16:30:22+00:00	Voting extended for special categories in the Best Places To Work Awards https://www.gamesindustry.biz/voting-extended-for-special-categories-in-the-best-places-to-work-awards
 2026-09-04T07:37:02+00:00	Xbox adds monthly cloud limits to Game Pass as it "continues to invest in its reliability and performance" https://www.gamesindustry.biz/xbox-adds-monthly-cloud-limits-to-game-pass-as-it-continues-to-invest-in-its-reliability-and-performance
 2026-09-04T09:09:47+00:00	GTA 6 Netflix preview causes PlayStation and Xbox hardware sales to jump in the UK https://www.gamesindustry.biz/gta-6-netflix-preview-causes-playstation-and-xbox-hardware-sales-to-jump-in-the-uk
+2026-09-04T12:16:41+00:00	Future imperfect: Five predictions for the next decade | Opinion https://www.gamesindustry.biz/future-imperfect-five-predictions-for-the-next-decade-opinion
+2026-09-04T13:50:36+00:00	Nvidia acquires open-source AI platform Hugging Face for $12.9bn https://www.gamesindustry.biz/nvidia-acquires-open-source-ai-platform-hugging-face-for-129bn
+2026-09-04T15:57:03+00:00	Inside Tencent's long-term strategy: live service, AI tools, and evergreen titles https://www.gamesindustry.biz/inside-tencents-long-term-strategy-live-service-ai-tools-and-evergreen-titles

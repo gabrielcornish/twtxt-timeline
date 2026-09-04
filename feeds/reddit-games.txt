@@ -4,27 +4,27 @@
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
 2026-09-02T11:00:31+00:00	Daily /r/Games Discussion - Suggest Me a Game - September 02, 2026 https://www.reddit.com/r/Games/comments/1w5746h/daily_rgames_discussion_suggest_me_a_game/
-2026-09-03T02:01:53+00:00	Sony and Microsoft say they’re not obligated to pass U.S. tariff refunds to consumers, echoing Nintendo https://www.reddit.com/r/Games/comments/1w5u823/sony_and_microsoft_say_theyre_not_obligated_to/
-2026-09-03T13:12:41+00:00	METRO 2039 | Release Date Reveal & First Console Gameplay Trailer (4K) https://www.reddit.com/r/Games/comments/1w671kg/metro_2039_release_date_reveal_first_console/
-2026-09-03T13:12:52+00:00	Monster Hunter Wilds - Ascendance 1st Trailer | PS5 Games https://www.reddit.com/r/Games/comments/1w671qj/monster_hunter_wilds_ascendance_1st_trailer_ps5/
 2026-09-03T13:19:12+00:00	Crimson Desert - Charting the Unknown DLC Reveal Trailer | PS5 Games https://www.reddit.com/r/Games/comments/1w677d1/crimson_desert_charting_the_unknown_dlc_reveal/
-2026-09-03T13:24:34+00:00	Maneater 2 - Announcement Trailer | PS5 Games https://www.reddit.com/r/Games/comments/1w67c0q/maneater_2_announcement_trailer_ps5_games/
-2026-09-03T13:26:38+00:00	Gundam Rogue Orbit - Release Date Trailer | PS5 Games https://www.reddit.com/r/Games/comments/1w67du7/gundam_rogue_orbit_release_date_trailer_ps5_games/
-2026-09-03T13:41:46+00:00	Until Dawn 2 - Choice & Consequence Pre-Order Trailer | PS5 Games https://www.reddit.com/r/Games/comments/1w67r2u/until_dawn_2_choice_consequence_preorder_trailer/
-2026-09-03T13:44:21+00:00	Final Fantasy VII Revelation - Release Date Reveal Trailer | PS5 Games https://www.reddit.com/r/Games/comments/1w67tco/final_fantasy_vii_revelation_release_date_reveal/
 2026-09-03T13:54:16+00:00	Final Fantasy VII Revelation - Combat and Exploration Deep Dive Trailer | PS5 Games https://www.reddit.com/r/Games/comments/1w682rd/final_fantasy_vii_revelation_combat_and/
-2026-09-03T14:10:14+00:00	Jin Sakai returns in Ghost of Yōtei: Most Wanted https://www.reddit.com/r/Games/comments/1w68ij9/jin_sakai_returns_in_ghost_of_yōtei_most_wanted/
 2026-09-03T14:20:38+00:00	Final Fantasy VII Revelation launches on PS5 April 8, 2027 https://www.reddit.com/r/Games/comments/1w68sf2/final_fantasy_vii_revelation_launches_on_ps5/
-2026-09-03T14:28:51+00:00	[Digimon Story Time Stranger A Hero’s Eternal Legacy] New DLC Announcement Trailer. 2027. https://www.reddit.com/r/Games/comments/1w690ln/digimon_story_time_stranger_a_heros_eternal/
-2026-09-03T15:17:54+00:00	Castlevania: Belmont‘s Curse Bloody Tears Trailer (CERO) | KONAMI https://www.reddit.com/r/Games/comments/1w6ac1z/castlevania_belmonts_curse_bloody_tears_trailer/
-2026-09-03T15:27:27+00:00	Lux Gameplay Reveal Trailer | 2XKO https://www.reddit.com/r/Games/comments/1w6alno/lux_gameplay_reveal_trailer_2xko/
 2026-09-03T15:54:50+00:00	The Blood Of Dawnwalker - Devs Offer Workarounds For PC Issues, the RPG has landed a lot more smoothly on console. https://www.reddit.com/r/Games/comments/1w6bclu/the_blood_of_dawnwalker_devs_offer_workarounds/
 2026-09-03T17:01:36+00:00	Upcoming Changes to XBOX Cloud Gaming https://www.reddit.com/r/Games/comments/1w6d87u/upcoming_changes_to_xbox_cloud_gaming/
-2026-09-03T19:09:39+00:00	Uncanyon | Reveal Trailer https://www.reddit.com/r/Games/comments/1w6gwim/uncanyon_reveal_trailer/
 2026-09-03T21:01:01+00:00	Something Is Brewing With StarCraft: The official website is suddenly inundated with glitched-out visuals, possibly serving as a teaser for a reveal at BlizzCon. https://www.reddit.com/r/Games/comments/1w6k1at/something_is_brewing_with_starcraft_the_official/
 2026-09-03T22:14:36+00:00	Summary of Guild Wars 3 information revealed from the Gamescom presentation https://www.reddit.com/r/Games/comments/1w6lyp5/summary_of_guild_wars_3_information_revealed_from/
-2026-09-03T22:15:56+00:00	SlashZero - Demo Launch Announcement & FAQ https://www.reddit.com/r/Games/comments/1w6lzwb/slashzero_demo_launch_announcement_faq/
 2026-09-03T23:12:42+00:00	Timberborn Update 1.1 Live Now! https://www.reddit.com/r/Games/comments/1w6ndv9/timberborn_update_11_live_now/
 2026-09-04T07:34:31+00:00	Angeline Era out now for Consoles (PS4+5, Switch 1+2, Xbox) https://www.reddit.com/r/Games/comments/1w6xjzc/angeline_era_out_now_for_consoles_ps45_switch_12/
 2026-09-04T10:00:52+00:00	Daily /r/Games Discussion - Free Talk Friday - September 04, 2026 https://www.reddit.com/r/Games/comments/1w701q9/daily_rgames_discussion_free_talk_friday/
 2026-09-04T10:29:03+00:00	Last Wail of the Sea King | Announcement Trailer https://www.reddit.com/r/Games/comments/1w70khq/last_wail_of_the_sea_king_announcement_trailer/
+2026-09-04T11:16:49+00:00	RPG Maker U2U - Official Overview Trailer https://www.reddit.com/r/Games/comments/1w71hnn/rpg_maker_u2u_official_overview_trailer/
+2026-09-04T11:19:29+00:00	Fate/EXTRA Record Showcase: Gameplay & Latest Updates https://www.reddit.com/r/Games/comments/1w71jhp/fateextra_record_showcase_gameplay_latest_updates/
+2026-09-04T12:28:51+00:00	‘Ruin and decay bring a chance of rebirth’: Hidetaka Miyazaki on uniting players in a damaged world https://www.reddit.com/r/Games/comments/1w730qi/ruin_and_decay_bring_a_chance_of_rebirth_hidetaka/
+2026-09-04T13:02:31+00:00	Warframe | Iceblade of Narin Official Gameplay Trailer - Coming September 23! (ft. Choi Han) https://www.reddit.com/r/Games/comments/1w73sx0/warframe_iceblade_of_narin_official_gameplay/
+2026-09-04T13:46:02+00:00	Gamescom Apologizes For Victim-Blaming Indie Devs Whose Laptops Were Stolen: ‘We Understand What This Has Cost You, And We Should Have Said So From The Very First Moment’ https://www.reddit.com/r/Games/comments/1w74vbr/gamescom_apologizes_for_victimblaming_indie_devs/
+2026-09-04T13:47:22+00:00	Nintendo Direct 9.9.2026 https://www.reddit.com/r/Games/comments/1w74wky/nintendo_direct_992026/
+2026-09-04T13:48:27+00:00	The Legend of Zelda 40th Anniversary Direct Announced for September 8, 2026 https://www.reddit.com/r/Games/comments/1w74xl0/the_legend_of_zelda_40th_anniversary_direct/
+2026-09-04T14:33:28+00:00	Bungie Puts Its Massive 211,000 Sq. Ft. Bellevue HQ Up for Sublease After Major Layoffs https://www.reddit.com/r/Games/comments/1w763jk/bungie_puts_its_massive_211000_sq_ft_bellevue_hq/
+2026-09-04T14:41:57+00:00	We're the creators of Moonlighter 2: The Endless Vault, now available on PC and consoles - Ask us Anything! (AMA) https://www.reddit.com/r/Games/comments/1w76bhn/were_the_creators_of_moonlighter_2_the_endless/
+2026-09-04T15:23:04+00:00	Pocket Pair - Craftopia 1.0 - The Future of Craftopia - Steam News https://www.reddit.com/r/Games/comments/1w77fac/pocket_pair_craftopia_10_the_future_of_craftopia/
+2026-09-04T15:45:58+00:00	Samson - Official Console Release Date Trailer https://www.reddit.com/r/Games/comments/1w781d6/samson_official_console_release_date_trailer/
+2026-09-04T16:10:29+00:00	Bloomberg: How Double Fine Escaped the Xbox Bloodbath https://www.reddit.com/r/Games/comments/1w78pw0/bloomberg_how_double_fine_escaped_the_xbox/
+2026-09-04T16:13:44+00:00	CODE VEIN II 2.0 - Trials of Remembrance Trailer https://www.reddit.com/r/Games/comments/1w78t76/code_vein_ii_20_trials_of_remembrance_trailer/

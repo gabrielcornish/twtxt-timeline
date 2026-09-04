@@ -3,23 +3,23 @@
 # source = https://bearblog.dev/discover/feed/
 # description = twtxt conversion of https://bearblog.dev/discover/feed/
 
-2026-09-02T05:30:00+00:00	Against AI: my Bear configuration https://thoughts.pivic.com/against-ai-my-bear-configuration/
 2026-09-02T13:22:00+00:00	Re: your cameras are making it hard to connect with you https://blighttown.bearblog.dev/re-your-cameras-are-making-it-hard-to-connect-with-you/
 2026-09-02T15:04:00+00:00	My Little Hill https://didierpironi.bearblog.dev/my-little-hill/
 2026-09-02T16:17:00+00:00	rationalizations about ring, flock, etc. https://blog.avas.space/ring-bullshit/
 2026-09-02T17:49:00+00:00	the "good old days" were complicated as hell. https://blog.typewritermechanic.com/the-good-old-days-were-complicated-as-hell/
 2026-09-02T18:54:00+00:00	Comic Page 001 https://circuit-breaker.bearblog.dev/comic-page-001/
-2026-09-02T21:15:00+00:00	Karl's Bad Trip https://householderkarl.com/karls-bad-trip/
 2026-09-02T23:17:00+00:00	I DON'T Wanna Live an NPC Life https://blog.absurdpirate.com/i-dont-wanna-live-an-npc-life/
 2026-09-03T02:02:00+00:00	My break offline was what I needed but not sure I'm coming back https://basic.bearblog.dev/my-break-offline-was-what-i-needed-but-not-sure-im-coming-back/
 2026-09-03T02:42:00+00:00	attending the rain https://tiramisu.bearblog.dev/attending-the-rain/
 2026-09-03T02:43:00+00:00	reminded of "retro" twitter https://jeffdelp.bearblog.dev/reminded-of-retro-twitter/
 2026-09-03T03:59:00+00:00	meat is off the table https://icyti.me/meat-is-off-the-table/
+2026-09-03T08:53:00+00:00	The Dungeon Game: What Happened in August https://gorgonbones.bearblog.dev/the-dungeon-game-what-happened-in-august/
 2026-09-03T13:49:00+00:00	we're back to small big wins https://nothings.bearblog.dev/were-back-to-small-big-wins/
-2026-09-03T13:52:00.182652+00:00	International Orchid day https://yunzi.co.uk/international-orchid-day/
 2026-09-03T14:27:00+00:00	Three from a lunchtime walk https://danieln.uk/three-from-a-lunchtime-walk/
 2026-09-03T14:37:43.658642+00:00	Your photos should not have to depend on me forever https://pego.dev/your-photos-should-not-have-to-depend-on-me-forever/
 2026-09-03T14:49:54.803783+00:00	I put an N64 in my basement https://blighttown.bearblog.dev/i-put-an-n64-in-my-basement/
+2026-09-03T15:30:00+00:00	Re: "i wanna live an npc life" by signalundefied https://trialandfailure.net/re-i-wanna-live-an-npc-life-by-signalundefied/
 2026-09-03T17:00:00+00:00	Welcome to quiet take https://quiettake.bearblog.dev/welcome-to-quick-take/
 2026-09-03T17:49:42.093164+00:00	Flowers for you https://forsomeone.bearblog.dev/flowers-for-you/
 2026-09-03T19:32:00+00:00	Blocking YouTube Features https://jaspermacleod.bearblog.dev/blocking-youtube-features/
+2026-09-04T05:45:00+00:00	My six weeks in a coma... https://peteswitzerland.bearblog.dev/coma/
