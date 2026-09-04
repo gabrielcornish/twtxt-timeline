@@ -3,8 +3,6 @@
 # source = https://www.gamesindustry.biz/feed
 # description = twtxt conversion of https://www.gamesindustry.biz/feed
 
-2026-08-25T15:42:22+00:00	Game Developer Association of India picks 15 studios for first Supernova cohort https://www.gamesindustry.biz/game-developer-association-of-india-picks-15-studios-for-first-supernova-cohort
-2026-08-25T16:56:48+00:00	Entity raises $5.8 million to build browser-based "console-quality" gaming platform https://www.gamesindustry.biz/entity-raises-58-million-to-build-browser-based-console-quality-gaming-platform
 2026-08-25T18:44:44+00:00	Nvidia announces ray-traced Nanite, native anti-cheat, and DLSS 4.5 at Gamescom 2026 https://www.gamesindustry.biz/nvidia-brings-ray-traced-nanite-native-anti-cheat-and-dlss-45-to-gamescom-2026-lineup
 2026-08-25T19:45:19+00:00	Schell Games reportedly lays off staff https://www.gamesindustry.biz/schell-games-reportedly-lays-off-staff
 2026-08-25T23:23:11+00:00	The highlights of Gamescom Opening Night Live 2026 https://www.gamesindustry.biz/the-highlights-of-gamescom-opening-night-live-2026
@@ -53,3 +51,5 @@
 2026-09-03T12:05:44+00:00	"We've got a great team, money in the bank, and financial independence": Glowmade comes out swinging after Amazon pulled the plug on King of Meat https://www.gamesindustry.biz/weve-got-a-great-team-money-in-the-bank-and-financial-independence-glowmade-comes-out-swinging-after-amazon-pulled-the-plug-on-king-of-meat
 2026-09-03T14:56:12+00:00	Apple faces £2bn lawsuit over implementation of App Tracking Transparency framework https://www.gamesindustry.biz/apple-faces-2bn-lawsuit-over-implementation-of-app-tracking-transparency-framework
 2026-09-03T16:30:22+00:00	Voting extended for special categories in the Best Places To Work Awards https://www.gamesindustry.biz/voting-extended-for-special-categories-in-the-best-places-to-work-awards
+2026-09-04T07:37:02+00:00	Xbox adds monthly cloud limits to Game Pass as it "continues to invest in its reliability and performance" https://www.gamesindustry.biz/xbox-adds-monthly-cloud-limits-to-game-pass-as-it-continues-to-invest-in-its-reliability-and-performance
+2026-09-04T09:09:47+00:00	GTA 6 Netflix preview causes PlayStation and Xbox hardware sales to jump in the UK https://www.gamesindustry.biz/gta-6-netflix-preview-causes-playstation-and-xbox-hardware-sales-to-jump-in-the-uk
