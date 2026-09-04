@@ -3,7 +3,6 @@
 # source = https://bearblog.dev/discover/feed/
 # description = twtxt conversion of https://bearblog.dev/discover/feed/
 
-2026-09-02T05:30:00+00:00	Against AI: my Bear configuration https://thoughts.pivic.com/against-ai-my-bear-configuration/
 2026-09-02T13:22:00+00:00	Re: your cameras are making it hard to connect with you https://blighttown.bearblog.dev/re-your-cameras-are-making-it-hard-to-connect-with-you/
 2026-09-02T15:04:00+00:00	My Little Hill https://didierpironi.bearblog.dev/my-little-hill/
 2026-09-02T16:17:00+00:00	rationalizations about ring, flock, etc. https://blog.avas.space/ring-bullshit/
@@ -21,5 +20,6 @@
 2026-09-03T17:00:00+00:00	Welcome to quiet take https://quiettake.bearblog.dev/welcome-to-quick-take/
 2026-09-03T17:49:42.093164+00:00	Flowers for you https://forsomeone.bearblog.dev/flowers-for-you/
 2026-09-03T19:32:00+00:00	Blocking YouTube Features https://jaspermacleod.bearblog.dev/blocking-youtube-features/
+2026-09-03T23:18:00+00:00	Moved my website to Digital Ocean https://blog.lauramichet.com/moved-my-website-to-digital-ocean/
 2026-09-04T05:45:00+00:00	My six weeks in a coma... https://peteswitzerland.bearblog.dev/coma/
 2026-09-04T12:42:00+00:00	You’re Gonna Carry That Weight https://householderkarl.com/youre-gonna-carry-that-weight/
