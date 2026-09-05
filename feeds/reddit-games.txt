@@ -4,17 +4,12 @@
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
 2026-09-02T11:00:31+00:00	Daily /r/Games Discussion - Suggest Me a Game - September 02, 2026 https://www.reddit.com/r/Games/comments/1w5746h/daily_rgames_discussion_suggest_me_a_game/
-2026-09-04T11:16:49+00:00	RPG Maker U2U - Official Overview Trailer https://www.reddit.com/r/Games/comments/1w71hnn/rpg_maker_u2u_official_overview_trailer/
 2026-09-04T13:46:02+00:00	Gamescom Apologizes For Victim-Blaming Indie Devs Whose Laptops Were Stolen: ‘We Understand What This Has Cost You, And We Should Have Said So From The Very First Moment’ https://www.reddit.com/r/Games/comments/1w74vbr/gamescom_apologizes_for_victimblaming_indie_devs/
 2026-09-04T13:47:22+00:00	Nintendo Direct 9.9.2026 https://www.reddit.com/r/Games/comments/1w74wky/nintendo_direct_992026/
 2026-09-04T13:48:27+00:00	The Legend of Zelda 40th Anniversary Direct Announced for September 8, 2026 https://www.reddit.com/r/Games/comments/1w74xl0/the_legend_of_zelda_40th_anniversary_direct/
 2026-09-04T14:41:57+00:00	We're the creators of Moonlighter 2: The Endless Vault, now available on PC and consoles - Ask us Anything! (AMA) https://www.reddit.com/r/Games/comments/1w76bhn/were_the_creators_of_moonlighter_2_the_endless/
-2026-09-04T15:05:03+00:00	Nintendo Treehouse | September 9th, 2026 - "Featuring gameplay of select titles featured from the Nintendo Direct. The livestream will last roughly 110 minutes" https://www.reddit.com/r/Games/comments/1w76xyl/nintendo_treehouse_september_9th_2026_featuring/
-2026-09-04T15:23:04+00:00	Pocket Pair - Craftopia 1.0 - The Future of Craftopia - Steam News https://www.reddit.com/r/Games/comments/1w77fac/pocket_pair_craftopia_10_the_future_of_craftopia/
-2026-09-04T15:45:58+00:00	Samson - Official Console Release Date Trailer https://www.reddit.com/r/Games/comments/1w781d6/samson_official_console_release_date_trailer/
 2026-09-04T16:10:29+00:00	Bloomberg: How Double Fine Escaped the Xbox Bloodbath https://www.reddit.com/r/Games/comments/1w78pw0/bloomberg_how_double_fine_escaped_the_xbox/
 2026-09-04T16:31:21+00:00	Sony's PlayStation disc plant is losing 10 percent of its volume in 2028, not 90 https://www.reddit.com/r/Games/comments/1w79avz/sonys_playstation_disc_plant_is_losing_10_percent/
-2026-09-04T16:37:32+00:00	Soulframe - Official Preludes 16: Of Hook & Hound Update Teaser Trailer https://www.reddit.com/r/Games/comments/1w79h0g/soulframe_official_preludes_16_of_hook_hound/
 2026-09-04T17:59:38+00:00	Thank You Bus Driver Announcement Trailer https://www.reddit.com/r/Games/comments/1w7brjx/thank_you_bus_driver_announcement_trailer/
 2026-09-04T18:16:50+00:00	Kingdom Hearts 4 Will Get a New Showing This Month, Square Enix Confirms https://www.reddit.com/r/Games/comments/1w7c94s/kingdom_hearts_4_will_get_a_new_showing_this/
 2026-09-04T18:30:13+00:00	Hacker sentenced for stealing virtual gold (OldSchool RuneScape) https://www.reddit.com/r/Games/comments/1w7cmmj/hacker_sentenced_for_stealing_virtual_gold/
@@ -22,9 +17,14 @@
 2026-09-04T20:29:53+00:00	HELL IS US - October 8 Content Update https://www.reddit.com/r/Games/comments/1w7fxgy/hell_is_us_october_8_content_update/
 2026-09-04T22:31:20+00:00	Hideki Kamiya’s Clovers on the end of discs, Capcom’s trust on Okami 2, and Scalebound hopes | VGC https://www.reddit.com/r/Games/comments/1w7j1wx/hideki_kamiyas_clovers_on_the_end_of_discs/
 2026-09-04T23:01:50+00:00	Exodus Plays Exactly How a New Mass Effect Should | IGN Hands-on Preview https://www.reddit.com/r/Games/comments/1w7jrs9/exodus_plays_exactly_how_a_new_mass_effect_should/
-2026-09-05T01:49:21+00:00	Project: Gorgon - Server Mergers, Steam achievements, new UI screens, and more https://www.reddit.com/r/Games/comments/1w7nfic/project_gorgon_server_mergers_steam_achievements/
 2026-09-05T08:09:40+00:00	Daba: Land of Water Scar - Official Trailer https://www.reddit.com/r/Games/comments/1w7ungo/daba_land_of_water_scar_official_trailer/
 2026-09-05T09:41:16+00:00	Nihon Falcom president says Steam and Switch account for large portion of new players, wants to pursue multiplatform worldwide releases https://www.reddit.com/r/Games/comments/1w7w8s3/nihon_falcom_president_says_steam_and_switch/
 2026-09-05T10:44:49+00:00	The Tetris Company wants nothing to do with the White House's new copycat game https://www.reddit.com/r/Games/comments/1w7xdju/the_tetris_company_wants_nothing_to_do_with_the/
 2026-09-05T12:24:44+00:00	"This is the worst crash we've seen since the 1980s," says Tim Sweeney https://www.reddit.com/r/Games/comments/1w7zdan/this_is_the_worst_crash_weve_seen_since_the_1980s/
+2026-09-05T13:10:02+00:00	Airframe: Ultra | Desperada Open Beta https://www.reddit.com/r/Games/comments/1w80dag/airframe_ultra_desperada_open_beta/
 2026-09-05T13:37:28+00:00	Microsoft’s recent decisions paint a clear picture — Xbox Cloud Gaming is no longer the future the company once promised. "I was recently told by Microsoft figures that, given compute demands for AI, Xbox Cloud Gaming is effectively losing money when used beyond 15 hours per month." https://www.reddit.com/r/Games/comments/1w80zvn/microsofts_recent_decisions_paint_a_clear_picture/
+2026-09-05T14:42:47+00:00	The Blood of Dawnwalker has sold 1+ million copies https://www.reddit.com/r/Games/comments/1w82l4t/the_blood_of_dawnwalker_has_sold_1_million_copies/
+2026-09-05T14:46:38+00:00	Restitched | Building Materials Feature https://www.reddit.com/r/Games/comments/1w82omy/restitched_building_materials_feature/
+2026-09-05T14:49:39+00:00	Vholume review – a headlong rush of parkour perfection in a brutalist wonderland | Games https://www.reddit.com/r/Games/comments/1w82rbr/vholume_review_a_headlong_rush_of_parkour/
+2026-09-05T15:11:30+00:00	Digital Foundry: Elden Ring Tarnished Edition - Switch 2 Tech Review - PS4 Visuals With Boosted Res & Frame-Rates https://www.reddit.com/r/Games/comments/1w83bdv/digital_foundry_elden_ring_tarnished_edition/
+2026-09-05T15:38:38+00:00	How Capcom Cracked the Code of Game Development https://www.reddit.com/r/Games/comments/1w840je/how_capcom_cracked_the_code_of_game_development/
