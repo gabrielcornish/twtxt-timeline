@@ -5,10 +5,8 @@
 
 2026-09-02T11:00:31+00:00	Daily /r/Games Discussion - Suggest Me a Game - September 02, 2026 https://www.reddit.com/r/Games/comments/1w5746h/daily_rgames_discussion_suggest_me_a_game/
 2026-09-03T21:01:01+00:00	Something Is Brewing With StarCraft: The official website is suddenly inundated with glitched-out visuals, possibly serving as a teaser for a reveal at BlizzCon. https://www.reddit.com/r/Games/comments/1w6k1at/something_is_brewing_with_starcraft_the_official/
-2026-09-03T22:14:36+00:00	Summary of Guild Wars 3 information revealed from the Gamescom presentation https://www.reddit.com/r/Games/comments/1w6lyp5/summary_of_guild_wars_3_information_revealed_from/
 2026-09-04T11:16:49+00:00	RPG Maker U2U - Official Overview Trailer https://www.reddit.com/r/Games/comments/1w71hnn/rpg_maker_u2u_official_overview_trailer/
 2026-09-04T12:28:51+00:00	‘Ruin and decay bring a chance of rebirth’: Hidetaka Miyazaki on uniting players in a damaged world https://www.reddit.com/r/Games/comments/1w730qi/ruin_and_decay_bring_a_chance_of_rebirth_hidetaka/
-2026-09-04T13:02:31+00:00	Warframe | Iceblade of Narin Official Gameplay Trailer - Coming September 23! (ft. Choi Han) https://www.reddit.com/r/Games/comments/1w73sx0/warframe_iceblade_of_narin_official_gameplay/
 2026-09-04T13:46:02+00:00	Gamescom Apologizes For Victim-Blaming Indie Devs Whose Laptops Were Stolen: ‘We Understand What This Has Cost You, And We Should Have Said So From The Very First Moment’ https://www.reddit.com/r/Games/comments/1w74vbr/gamescom_apologizes_for_victimblaming_indie_devs/
 2026-09-04T13:47:22+00:00	Nintendo Direct 9.9.2026 https://www.reddit.com/r/Games/comments/1w74wky/nintendo_direct_992026/
 2026-09-04T13:48:27+00:00	The Legend of Zelda 40th Anniversary Direct Announced for September 8, 2026 https://www.reddit.com/r/Games/comments/1w74xl0/the_legend_of_zelda_40th_anniversary_direct/
@@ -28,3 +26,5 @@
 2026-09-04T22:31:20+00:00	Hideki Kamiya’s Clovers on the end of discs, Capcom’s trust on Okami 2, and Scalebound hopes | VGC https://www.reddit.com/r/Games/comments/1w7j1wx/hideki_kamiyas_clovers_on_the_end_of_discs/
 2026-09-04T23:01:50+00:00	Exodus Plays Exactly How a New Mass Effect Should | IGN Hands-on Preview https://www.reddit.com/r/Games/comments/1w7jrs9/exodus_plays_exactly_how_a_new_mass_effect_should/
 2026-09-05T01:49:21+00:00	Project: Gorgon - Server Mergers, Steam achievements, new UI screens, and more https://www.reddit.com/r/Games/comments/1w7nfic/project_gorgon_server_mergers_steam_achievements/
+2026-09-05T08:09:40+00:00	Daba: Land of Water Scar - Official Trailer https://www.reddit.com/r/Games/comments/1w7ungo/daba_land_of_water_scar_official_trailer/
+2026-09-05T09:41:16+00:00	Nihon Falcom president says Steam and Switch account for large portion of new players, wants to pursue multiplatform worldwide releases https://www.reddit.com/r/Games/comments/1w7w8s3/nihon_falcom_president_says_steam_and_switch/
