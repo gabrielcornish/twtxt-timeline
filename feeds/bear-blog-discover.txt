@@ -6,10 +6,8 @@
 2026-09-02T13:22:00+00:00	Re: your cameras are making it hard to connect with you https://blighttown.bearblog.dev/re-your-cameras-are-making-it-hard-to-connect-with-you/
 2026-09-02T16:17:00+00:00	rationalizations about ring, flock, etc. https://blog.avas.space/ring-bullshit/
 2026-09-02T17:49:00+00:00	the "good old days" were complicated as hell. https://blog.typewritermechanic.com/the-good-old-days-were-complicated-as-hell/
-2026-09-02T18:54:00+00:00	Comic Page 001 https://circuit-breaker.bearblog.dev/comic-page-001/
 2026-09-02T23:17:00+00:00	I DON'T Wanna Live an NPC Life https://blog.absurdpirate.com/i-dont-wanna-live-an-npc-life/
 2026-09-03T02:02:00+00:00	My break offline was what I needed but not sure I'm coming back https://basic.bearblog.dev/my-break-offline-was-what-i-needed-but-not-sure-im-coming-back/
-2026-09-03T02:42:00+00:00	attending the rain https://tiramisu.bearblog.dev/attending-the-rain/
 2026-09-03T14:37:43.658642+00:00	Your photos should not have to depend on me forever https://pego.dev/your-photos-should-not-have-to-depend-on-me-forever/
 2026-09-03T14:49:54.803783+00:00	I put an N64 in my basement https://blighttown.bearblog.dev/i-put-an-n64-in-my-basement/
 2026-09-03T15:30:00+00:00	Re: "i wanna live an npc life" by signalundefied https://trialandfailure.net/re-i-wanna-live-an-npc-life-by-signalundefied/
@@ -17,9 +15,11 @@
 2026-09-03T17:49:42.093164+00:00	Flowers for you https://forsomeone.bearblog.dev/flowers-for-you/
 2026-09-03T19:32:00+00:00	Blocking YouTube Features https://jaspermacleod.bearblog.dev/blocking-youtube-features/
 2026-09-03T21:20:00+00:00	Small Men, Big Shadows https://householderkarl.com/small-men-big-shadows/
-2026-09-03T23:18:00+00:00	Moved my website to Digital Ocean https://blog.lauramichet.com/moved-my-website-to-digital-ocean/
 2026-09-04T05:45:00+00:00	My six weeks in a coma... https://peteswitzerland.bearblog.dev/coma/
 2026-09-04T12:19:00+00:00	So, use our app instead of the mobile website, ya, I'm Good https://yaimgood.bearblog.dev/so-use-our-app-instead-of-the-mobile-website-ya-im-good/
 2026-09-04T12:42:00+00:00	You’re Gonna Carry That Weight https://householderkarl.com/youre-gonna-carry-that-weight/
+2026-09-04T19:43:00+00:00	Thinking in code https://aishwaryagoel.com/thinking-in-code/
+2026-09-04T20:11:27.553275+00:00	I Disagree with Mossbal about Stardew Valley https://explicatingelle.bearblog.dev/i-disagree-with-mossbal-about-stardew-valley/
 2026-09-05T03:44:00+00:00	doomed to fall https://icyti.me/doomed-to-fall/
 2026-09-05T14:53:00+00:00	Going to the Movies Alone https://householderkarl.com/going-to-the-movies-alone/
+2026-09-05T17:59:36.064389+00:00	The AI Persona Panic of 2026: Fake Humans Are Extremely Profitable, So Here's a Badge https://thecynicalnerd.bearblog.dev/the-ai-persona-panic-of-2026/
