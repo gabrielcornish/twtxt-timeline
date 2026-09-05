@@ -3,7 +3,6 @@
 # source = https://bearblog.dev/discover/feed/
 # description = twtxt conversion of https://bearblog.dev/discover/feed/
 
-2026-09-02T13:22:00+00:00	Re: your cameras are making it hard to connect with you https://blighttown.bearblog.dev/re-your-cameras-are-making-it-hard-to-connect-with-you/
 2026-09-02T16:17:00+00:00	rationalizations about ring, flock, etc. https://blog.avas.space/ring-bullshit/
 2026-09-02T17:49:00+00:00	the "good old days" were complicated as hell. https://blog.typewritermechanic.com/the-good-old-days-were-complicated-as-hell/
 2026-09-02T23:17:00+00:00	I DON'T Wanna Live an NPC Life https://blog.absurdpirate.com/i-dont-wanna-live-an-npc-life/
@@ -18,8 +17,9 @@
 2026-09-04T05:45:00+00:00	My six weeks in a coma... https://peteswitzerland.bearblog.dev/coma/
 2026-09-04T12:19:00+00:00	So, use our app instead of the mobile website, ya, I'm Good https://yaimgood.bearblog.dev/so-use-our-app-instead-of-the-mobile-website-ya-im-good/
 2026-09-04T12:42:00+00:00	You’re Gonna Carry That Weight https://householderkarl.com/youre-gonna-carry-that-weight/
-2026-09-04T19:43:00+00:00	Thinking in code https://aishwaryagoel.com/thinking-in-code/
 2026-09-04T20:11:27.553275+00:00	I Disagree with Mossbal about Stardew Valley https://explicatingelle.bearblog.dev/i-disagree-with-mossbal-about-stardew-valley/
 2026-09-05T03:44:00+00:00	doomed to fall https://icyti.me/doomed-to-fall/
 2026-09-05T14:53:00+00:00	Going to the Movies Alone https://householderkarl.com/going-to-the-movies-alone/
 2026-09-05T17:59:36.064389+00:00	The AI Persona Panic of 2026: Fake Humans Are Extremely Profitable, So Here's a Badge https://thecynicalnerd.bearblog.dev/the-ai-persona-panic-of-2026/
+2026-09-05T19:32:00+00:00	How to follow the passion without the passion? https://lifebythesea.bearblog.dev/how-to-follow-the-passion-without-the-passion/
+2026-09-05T21:16:59.322585+00:00	disabilities are NOT FUNNY https://rnotte.art/disabilities-are-not-funny/
