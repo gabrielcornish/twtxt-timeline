@@ -3,8 +3,6 @@
 # source = https://bearblog.dev/discover/feed/
 # description = twtxt conversion of https://bearblog.dev/discover/feed/
 
-2026-09-02T16:17:00+00:00	rationalizations about ring, flock, etc. https://blog.avas.space/ring-bullshit/
-2026-09-02T17:49:00+00:00	the "good old days" were complicated as hell. https://blog.typewritermechanic.com/the-good-old-days-were-complicated-as-hell/
 2026-09-02T23:17:00+00:00	I DON'T Wanna Live an NPC Life https://blog.absurdpirate.com/i-dont-wanna-live-an-npc-life/
 2026-09-03T02:02:00+00:00	My break offline was what I needed but not sure I'm coming back https://basic.bearblog.dev/my-break-offline-was-what-i-needed-but-not-sure-im-coming-back/
 2026-09-03T14:37:43.658642+00:00	Your photos should not have to depend on me forever https://pego.dev/your-photos-should-not-have-to-depend-on-me-forever/
@@ -15,11 +13,13 @@
 2026-09-04T05:45:00+00:00	My six weeks in a coma... https://peteswitzerland.bearblog.dev/coma/
 2026-09-04T12:19:00+00:00	So, use our app instead of the mobile website, ya, I'm Good https://yaimgood.bearblog.dev/so-use-our-app-instead-of-the-mobile-website-ya-im-good/
 2026-09-04T12:42:00+00:00	You’re Gonna Carry That Weight https://householderkarl.com/youre-gonna-carry-that-weight/
-2026-09-05T03:44:00+00:00	doomed to fall https://icyti.me/doomed-to-fall/
 2026-09-05T14:53:00+00:00	Going to the Movies Alone https://householderkarl.com/going-to-the-movies-alone/
 2026-09-05T17:59:36.064389+00:00	The AI Persona Panic of 2026: Fake Humans Are Extremely Profitable, So Here's a Badge https://thecynicalnerd.bearblog.dev/the-ai-persona-panic-of-2026/
 2026-09-05T19:32:00+00:00	How to follow the passion without the passion? https://lifebythesea.bearblog.dev/how-to-follow-the-passion-without-the-passion/
+2026-09-05T20:36:00+00:00	Existence is futile. https://itsme.bearblog.dev/existence-is-futile/
 2026-09-05T21:16:59.322585+00:00	disabilities are NOT FUNNY https://rnotte.art/disabilities-are-not-funny/
 2026-09-05T21:17:00+00:00	Followup: I guess I'm still immune to poison ivy https://blog.lauramichet.com/followup-i-guess-im-still-immune-to-poison-ivy/
 2026-09-06T00:25:00+00:00	I missed out on family events because not on socials, ya I'm Good https://yaimgood.bearblog.dev/i-missed-out-on-family-events-because-not-on-socials-ya-im-good/
-2026-09-06T04:21:08.254065+00:00	Boreal Frostlands Play Report https://terraforminghobbies.bearblog.dev/boreal-frostlands-play-report/
+2026-09-06T08:17:33.842081+00:00	You should sit in dead discord server VCs. https://piimyon.bearblog.dev/you-should-sit-in-dead-discord-server-vcs/
+2026-09-06T09:45:14.302067+00:00	Right said fred https://bez-lightyear.bearblog.dev/right-said-fred/
+2026-09-06T15:43:00+00:00	The Divine Feminine https://householderkarl.com/the-divine-feminine/

@@ -3,7 +3,6 @@
 # source = https://www.reddit.com/r/Games.rss
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
-2026-09-05T09:41:16+00:00	Nihon Falcom president says Steam and Switch account for large portion of new players, wants to pursue multiplatform worldwide releases https://www.reddit.com/r/Games/comments/1w7w8s3/nihon_falcom_president_says_steam_and_switch/
 2026-09-05T10:44:49+00:00	The Tetris Company wants nothing to do with the White House's new copycat game https://www.reddit.com/r/Games/comments/1w7xdju/the_tetris_company_wants_nothing_to_do_with_the/
 2026-09-05T12:24:44+00:00	"This is the worst crash we've seen since the 1980s," says Tim Sweeney https://www.reddit.com/r/Games/comments/1w7zdan/this_is_the_worst_crash_weve_seen_since_the_1980s/
 2026-09-05T13:37:28+00:00	Microsoft’s recent decisions paint a clear picture — Xbox Cloud Gaming is no longer the future the company once promised. "I was recently told by Microsoft figures that, given compute demands for AI, Xbox Cloud Gaming is effectively losing money when used beyond 15 hours per month." https://www.reddit.com/r/Games/comments/1w80zvn/microsofts_recent_decisions_paint_a_clear_picture/
@@ -12,19 +11,20 @@
 2026-09-05T15:11:30+00:00	Digital Foundry: Elden Ring Tarnished Edition - Switch 2 Tech Review - PS4 Visuals With Boosted Res & Frame-Rates https://www.reddit.com/r/Games/comments/1w83bdv/digital_foundry_elden_ring_tarnished_edition/
 2026-09-05T15:38:38+00:00	How Capcom Cracked the Code of Game Development https://www.reddit.com/r/Games/comments/1w840je/how_capcom_cracked_the_code_of_game_development/
 2026-09-05T17:27:51+00:00	Sakura Wars creator Oji Hiroi says he has a Sakura Wars 6 plot ready to go and would “definitely” accept an offer to make it https://www.reddit.com/r/Games/comments/1w86uyx/sakura_wars_creator_oji_hiroi_says_he_has_a/
-2026-09-05T18:25:59+00:00	The Exploration Map in Chronicles: Medieval - First Look https://www.reddit.com/r/Games/comments/1w88egj/the_exploration_map_in_chronicles_medieval_first/
 2026-09-05T21:41:18+00:00	DON'T NOD is running out of funding and may cease operations on January 31, 2027 - IG News https://www.reddit.com/r/Games/comments/1w8df1h/dont_nod_is_running_out_of_funding_and_may_cease/
 2026-09-05T22:10:22+00:00	Civilization VII Developer Preview | Next Major Update & First Expansion https://www.reddit.com/r/Games/comments/1w8e43w/civilization_vii_developer_preview_next_major/
 2026-09-06T03:13:35+00:00	Tyr Launch Trailer | Official https://www.reddit.com/r/Games/comments/1w8km0p/tyr_launch_trailer_official/
 2026-09-06T04:00:55+00:00	Indie Sunday Hub - September 6, 2026 https://www.reddit.com/r/Games/comments/1w8lkqj/indie_sunday_hub_september_6_2026/
-2026-09-06T05:26:58+00:00	FISH OS - ORCO - Idle fishing game where the whole game is a fake operating system https://www.reddit.com/r/Games/comments/1w8n7k8/fish_os_orco_idle_fishing_game_where_the_whole/
-2026-09-06T06:48:55+00:00	Topdeck Automat - Ludokultur - HS: Battlegrounds auto-battling meets Spire-like deckbuilding https://www.reddit.com/r/Games/comments/1w8ooh1/topdeck_automat_ludokultur_hs_battlegrounds/
-2026-09-06T07:30:51+00:00	Tiny Flock - No Brakes Games - Cosy VR physics puzzle game https://www.reddit.com/r/Games/comments/1w8pfee/tiny_flock_no_brakes_games_cosy_vr_physics_puzzle/
 2026-09-06T07:37:24+00:00	Monshifter - Oriol Cosp Games - Metroidvania where you can transform into elemental creatures. Discover why society collapsed and defeat a corporation trying to enslave the monsters https://www.reddit.com/r/Games/comments/1w8pjcy/monshifter_oriol_cosp_games_metroidvania_where/
 2026-09-06T09:00:24+00:00	Weekly /r/Games Discussion - What have you been playing, and what are your thoughts? - September 06, 2026 https://www.reddit.com/r/Games/comments/1w8qzlm/weekly_rgames_discussion_what_have_you_been/
 2026-09-06T10:54:59+00:00	COMBO DEVILS - Lizzo Gameplay Reveal Trailer https://www.reddit.com/r/Games/comments/1w8t1k8/combo_devils_lizzo_gameplay_reveal_trailer/
-2026-09-06T12:17:53+00:00	STEEL GULLET - Oxideworks - Physics and thermodynamics-based factory automation sandbox https://www.reddit.com/r/Games/comments/1w8uo3f/steel_gullet_oxideworks_physics_and/
-2026-09-06T13:09:05+00:00	Echoes of Agony - A turn based roguelite where you can trade your Turn Order Position for more Actions per Turn. https://www.reddit.com/r/Games/comments/1w8vryc/echoes_of_agony_a_turn_based_roguelite_where_you/
-2026-09-06T13:09:33+00:00	Pumpkin Woods - Enchanted Pumpkin Co. - A Challenging Witch Open World Survival Craft https://www.reddit.com/r/Games/comments/1w8vscn/pumpkin_woods_enchanted_pumpkin_co_a_challenging/
 2026-09-06T13:17:36+00:00	Resurgis: Rise of the Dead - Official GamePlay Trailer (Playtest Announcement) https://www.reddit.com/r/Games/comments/1w8vz44/resurgis_rise_of_the_dead_official_gameplay/
 2026-09-06T13:35:21+00:00	No Law was one of the most exciting games I saw at Gamescom: a cyberpunk immersive sim that solves one of Deus Ex's biggest problems https://www.reddit.com/r/Games/comments/1w8we4d/no_law_was_one_of_the_most_exciting_games_i_saw/
+2026-09-06T13:46:11+00:00	Confirmed: No Generative AI in Warhammer 40,000: Space Marine 3 https://www.reddit.com/r/Games/comments/1w8wn77/confirmed_no_generative_ai_in_warhammer_40000/
+2026-09-06T15:08:35+00:00	Eco Volunteer - Scope Creepers - A realistic nature places cleaning simulator (Release tomorrow) https://www.reddit.com/r/Games/comments/1w8yo2d/eco_volunteer_scope_creepers_a_realistic_nature/
+2026-09-06T15:22:47+00:00	Rockstar boss says GTA 6 doesn't just let you easily walk around with guns because GTA 5's approach doesn't work "at this resolution" https://www.reddit.com/r/Games/comments/1w8z1bi/rockstar_boss_says_gta_6_doesnt_just_let_you/
+2026-09-06T15:36:43+00:00	The Final Stamp - Astra Interactive Games - Papers, Please, but you judge the dead https://www.reddit.com/r/Games/comments/1w8ze1z/the_final_stamp_astra_interactive_games_papers/
+2026-09-06T16:06:16+00:00	Dungeon Settlers - CanOpener - Colony Sim meets Dungeon Crawler https://www.reddit.com/r/Games/comments/1w905rt/dungeon_settlers_canopener_colony_sim_meets/
+2026-09-06T16:31:10+00:00	TOWERPUNK - Tesserax Games - cyberpunk megatower sim in the lineage of SimTower with Anno and Factorio mechanics https://www.reddit.com/r/Games/comments/1w90u28/towerpunk_tesserax_games_cyberpunk_megatower_sim/
+2026-09-06T16:42:22+00:00	Verto - Antidyne - A falling bock game where you rotate the board to clear matches https://www.reddit.com/r/Games/comments/1w914pf/verto_antidyne_a_falling_bock_game_where_you/
+2026-09-06T16:53:06+00:00	Department 98 - Wegfreund Games - a narrative incremental game inside a fake 1990s office OS https://www.reddit.com/r/Games/comments/1w91ewc/department_98_wegfreund_games_a_narrative/
