@@ -7,10 +7,7 @@
 2026-09-05T12:24:44+00:00	"This is the worst crash we've seen since the 1980s," says Tim Sweeney https://www.reddit.com/r/Games/comments/1w7zdan/this_is_the_worst_crash_weve_seen_since_the_1980s/
 2026-09-05T13:37:28+00:00	Microsoft’s recent decisions paint a clear picture — Xbox Cloud Gaming is no longer the future the company once promised. "I was recently told by Microsoft figures that, given compute demands for AI, Xbox Cloud Gaming is effectively losing money when used beyond 15 hours per month." https://www.reddit.com/r/Games/comments/1w80zvn/microsofts_recent_decisions_paint_a_clear_picture/
 2026-09-05T14:42:47+00:00	The Blood of Dawnwalker has sold 1+ million copies https://www.reddit.com/r/Games/comments/1w82l4t/the_blood_of_dawnwalker_has_sold_1_million_copies/
-2026-09-05T14:49:39+00:00	Vholume review – a headlong rush of parkour perfection in a brutalist wonderland | Games https://www.reddit.com/r/Games/comments/1w82rbr/vholume_review_a_headlong_rush_of_parkour/
-2026-09-05T15:11:30+00:00	Digital Foundry: Elden Ring Tarnished Edition - Switch 2 Tech Review - PS4 Visuals With Boosted Res & Frame-Rates https://www.reddit.com/r/Games/comments/1w83bdv/digital_foundry_elden_ring_tarnished_edition/
 2026-09-05T15:38:38+00:00	How Capcom Cracked the Code of Game Development https://www.reddit.com/r/Games/comments/1w840je/how_capcom_cracked_the_code_of_game_development/
-2026-09-05T17:27:51+00:00	Sakura Wars creator Oji Hiroi says he has a Sakura Wars 6 plot ready to go and would “definitely” accept an offer to make it https://www.reddit.com/r/Games/comments/1w86uyx/sakura_wars_creator_oji_hiroi_says_he_has_a/
 2026-09-05T21:41:18+00:00	DON'T NOD is running out of funding and may cease operations on January 31, 2027 - IG News https://www.reddit.com/r/Games/comments/1w8df1h/dont_nod_is_running_out_of_funding_and_may_cease/
 2026-09-05T22:10:22+00:00	Civilization VII Developer Preview | Next Major Update & First Expansion https://www.reddit.com/r/Games/comments/1w8e43w/civilization_vii_developer_preview_next_major/
 2026-09-06T03:13:35+00:00	Tyr Launch Trailer | Official https://www.reddit.com/r/Games/comments/1w8km0p/tyr_launch_trailer_official/
@@ -18,7 +15,6 @@
 2026-09-06T07:37:24+00:00	Monshifter - Oriol Cosp Games - Metroidvania where you can transform into elemental creatures. Discover why society collapsed and defeat a corporation trying to enslave the monsters https://www.reddit.com/r/Games/comments/1w8pjcy/monshifter_oriol_cosp_games_metroidvania_where/
 2026-09-06T09:00:24+00:00	Weekly /r/Games Discussion - What have you been playing, and what are your thoughts? - September 06, 2026 https://www.reddit.com/r/Games/comments/1w8qzlm/weekly_rgames_discussion_what_have_you_been/
 2026-09-06T10:54:59+00:00	COMBO DEVILS - Lizzo Gameplay Reveal Trailer https://www.reddit.com/r/Games/comments/1w8t1k8/combo_devils_lizzo_gameplay_reveal_trailer/
-2026-09-06T13:17:36+00:00	Resurgis: Rise of the Dead - Official GamePlay Trailer (Playtest Announcement) https://www.reddit.com/r/Games/comments/1w8vz44/resurgis_rise_of_the_dead_official_gameplay/
 2026-09-06T13:35:21+00:00	No Law was one of the most exciting games I saw at Gamescom: a cyberpunk immersive sim that solves one of Deus Ex's biggest problems https://www.reddit.com/r/Games/comments/1w8we4d/no_law_was_one_of_the_most_exciting_games_i_saw/
 2026-09-06T13:46:11+00:00	Confirmed: No Generative AI in Warhammer 40,000: Space Marine 3 https://www.reddit.com/r/Games/comments/1w8wn77/confirmed_no_generative_ai_in_warhammer_40000/
 2026-09-06T15:08:35+00:00	Eco Volunteer - Scope Creepers - A realistic nature places cleaning simulator (Release tomorrow) https://www.reddit.com/r/Games/comments/1w8yo2d/eco_volunteer_scope_creepers_a_realistic_nature/
@@ -28,3 +24,7 @@
 2026-09-06T16:31:10+00:00	TOWERPUNK - Tesserax Games - cyberpunk megatower sim in the lineage of SimTower with Anno and Factorio mechanics https://www.reddit.com/r/Games/comments/1w90u28/towerpunk_tesserax_games_cyberpunk_megatower_sim/
 2026-09-06T16:42:22+00:00	Verto - Antidyne - A falling bock game where you rotate the board to clear matches https://www.reddit.com/r/Games/comments/1w914pf/verto_antidyne_a_falling_bock_game_where_you/
 2026-09-06T16:53:06+00:00	Department 98 - Wegfreund Games - a narrative incremental game inside a fake 1990s office OS https://www.reddit.com/r/Games/comments/1w91ewc/department_98_wegfreund_games_a_narrative/
+2026-09-06T17:29:07+00:00	PS5 emulator running GTA 5 shows GTA 6 might be possible on PC before official release https://www.reddit.com/r/Games/comments/1w92dzm/ps5_emulator_running_gta_5_shows_gta_6_might_be/
+2026-09-06T17:51:53+00:00	He Who Watches - Bobby Vanden / Draknek & Friends - first-person, gravity shifting puzzle game, out now! https://www.reddit.com/r/Games/comments/1w930ui/he_who_watches_bobby_vanden_draknek_friends/
+2026-09-06T18:26:07+00:00	Report: Unannounced Metro Multiplayer Game Pulled from Saber Latam Amid Studio Layoffs https://www.reddit.com/r/Games/comments/1w93yka/report_unannounced_metro_multiplayer_game_pulled/
+2026-09-06T18:42:14+00:00	Red Recon:1944 - Varangs Studio - WW2 real-time tactics https://www.reddit.com/r/Games/comments/1w94egy/red_recon1944_varangs_studio_ww2_realtime_tactics/
