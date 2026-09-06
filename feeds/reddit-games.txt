@@ -3,7 +3,6 @@
 # source = https://www.reddit.com/r/Games.rss
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
-2026-09-05T10:44:49+00:00	The Tetris Company wants nothing to do with the White House's new copycat game https://www.reddit.com/r/Games/comments/1w7xdju/the_tetris_company_wants_nothing_to_do_with_the/
 2026-09-05T12:24:44+00:00	"This is the worst crash we've seen since the 1980s," says Tim Sweeney https://www.reddit.com/r/Games/comments/1w7zdan/this_is_the_worst_crash_weve_seen_since_the_1980s/
 2026-09-05T13:37:28+00:00	Microsoft’s recent decisions paint a clear picture — Xbox Cloud Gaming is no longer the future the company once promised. "I was recently told by Microsoft figures that, given compute demands for AI, Xbox Cloud Gaming is effectively losing money when used beyond 15 hours per month." https://www.reddit.com/r/Games/comments/1w80zvn/microsofts_recent_decisions_paint_a_clear_picture/
 2026-09-05T14:42:47+00:00	The Blood of Dawnwalker has sold 1+ million copies https://www.reddit.com/r/Games/comments/1w82l4t/the_blood_of_dawnwalker_has_sold_1_million_copies/
@@ -19,12 +18,13 @@
 2026-09-06T15:22:47+00:00	Rockstar boss says GTA 6 doesn't just let you easily walk around with guns because GTA 5's approach doesn't work "at this resolution" https://www.reddit.com/r/Games/comments/1w8z1bi/rockstar_boss_says_gta_6_doesnt_just_let_you/
 2026-09-06T15:36:43+00:00	The Final Stamp - Astra Interactive Games - Papers, Please, but you judge the dead https://www.reddit.com/r/Games/comments/1w8ze1z/the_final_stamp_astra_interactive_games_papers/
 2026-09-06T16:06:16+00:00	Dungeon Settlers - CanOpener - Colony Sim meets Dungeon Crawler https://www.reddit.com/r/Games/comments/1w905rt/dungeon_settlers_canopener_colony_sim_meets/
-2026-09-06T16:31:10+00:00	TOWERPUNK - Tesserax Games - cyberpunk megatower sim in the lineage of SimTower with Anno and Factorio mechanics https://www.reddit.com/r/Games/comments/1w90u28/towerpunk_tesserax_games_cyberpunk_megatower_sim/
 2026-09-06T16:53:06+00:00	Department 98 - Wegfreund Games - a narrative incremental game inside a fake 1990s office OS https://www.reddit.com/r/Games/comments/1w91ewc/department_98_wegfreund_games_a_narrative/
 2026-09-06T17:29:07+00:00	PS5 emulator running GTA 5 shows GTA 6 might be possible on PC before official release https://www.reddit.com/r/Games/comments/1w92dzm/ps5_emulator_running_gta_5_shows_gta_6_might_be/
 2026-09-06T17:51:53+00:00	He Who Watches - Bobby Vanden / Draknek & Friends - first-person, gravity shifting puzzle game, out now! https://www.reddit.com/r/Games/comments/1w930ui/he_who_watches_bobby_vanden_draknek_friends/
 2026-09-06T18:26:07+00:00	Report: Unannounced Metro Multiplayer Game Pulled from Saber Latam Amid Studio Layoffs https://www.reddit.com/r/Games/comments/1w93yka/report_unannounced_metro_multiplayer_game_pulled/
 2026-09-06T18:42:14+00:00	Red Recon:1944 - Varangs Studio - WW2 real-time tactics https://www.reddit.com/r/Games/comments/1w94egy/red_recon1944_varangs_studio_ww2_realtime_tactics/
 2026-09-06T19:58:13+00:00	'Halloween: The Game' Removes Controversial Mini Game Allowing Characters to Have Sex https://www.reddit.com/r/Games/comments/1w96gvk/halloween_the_game_removes_controversial_mini/
+2026-09-06T20:55:01+00:00	Irish Sport Manager - Loophead Labs - Football Manager style sim for the Gaelic games, now with a free demo https://www.reddit.com/r/Games/comments/1w97yk4/irish_sport_manager_loophead_labs_football/
 2026-09-06T21:00:32+00:00	Airframe: Ultra | Release Date Announcement Trailer https://www.reddit.com/r/Games/comments/1w983t0/airframe_ultra_release_date_announcement_trailer/
 2026-09-06T21:19:56+00:00	Gladiator Command - Ludus Management LTD - Football manager meets sword and Sandals https://www.reddit.com/r/Games/comments/1w98lu8/gladiator_command_ludus_management_ltd_football/
+2026-09-06T23:38:14+00:00	Click Cafe - Nessie Games - A relaxing active incremental game where you turn your struggling cafe into a money printing machine! https://www.reddit.com/r/Games/comments/1w9bvw2/click_cafe_nessie_games_a_relaxing_active/
