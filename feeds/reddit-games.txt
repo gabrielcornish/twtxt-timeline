@@ -4,14 +4,9 @@
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
 2026-09-02T11:00:31+00:00	Daily /r/Games Discussion - Suggest Me a Game - September 02, 2026 https://www.reddit.com/r/Games/comments/1w5746h/daily_rgames_discussion_suggest_me_a_game/
-2026-09-04T13:46:02+00:00	Gamescom Apologizes For Victim-Blaming Indie Devs Whose Laptops Were Stolen: ‘We Understand What This Has Cost You, And We Should Have Said So From The Very First Moment’ https://www.reddit.com/r/Games/comments/1w74vbr/gamescom_apologizes_for_victimblaming_indie_devs/
-2026-09-04T13:47:22+00:00	Nintendo Direct 9.9.2026 https://www.reddit.com/r/Games/comments/1w74wky/nintendo_direct_992026/
 2026-09-04T13:48:27+00:00	The Legend of Zelda 40th Anniversary Direct Announced for September 8, 2026 https://www.reddit.com/r/Games/comments/1w74xl0/the_legend_of_zelda_40th_anniversary_direct/
-2026-09-04T14:41:57+00:00	We're the creators of Moonlighter 2: The Endless Vault, now available on PC and consoles - Ask us Anything! (AMA) https://www.reddit.com/r/Games/comments/1w76bhn/were_the_creators_of_moonlighter_2_the_endless/
 2026-09-04T17:59:38+00:00	Thank You Bus Driver Announcement Trailer https://www.reddit.com/r/Games/comments/1w7brjx/thank_you_bus_driver_announcement_trailer/
-2026-09-04T18:30:13+00:00	Hacker sentenced for stealing virtual gold (OldSchool RuneScape) https://www.reddit.com/r/Games/comments/1w7cmmj/hacker_sentenced_for_stealing_virtual_gold/
 2026-09-04T19:33:35+00:00	FINAL FANTASY RESONANCE - Demo Trailer https://www.reddit.com/r/Games/comments/1w7edvp/final_fantasy_resonance_demo_trailer/
-2026-09-04T20:29:53+00:00	HELL IS US - October 8 Content Update https://www.reddit.com/r/Games/comments/1w7fxgy/hell_is_us_october_8_content_update/
 2026-09-04T23:01:50+00:00	Exodus Plays Exactly How a New Mass Effect Should | IGN Hands-on Preview https://www.reddit.com/r/Games/comments/1w7jrs9/exodus_plays_exactly_how_a_new_mass_effect_should/
 2026-09-05T08:09:40+00:00	Daba: Land of Water Scar - Official Trailer https://www.reddit.com/r/Games/comments/1w7ungo/daba_land_of_water_scar_official_trailer/
 2026-09-05T09:41:16+00:00	Nihon Falcom president says Steam and Switch account for large portion of new players, wants to pursue multiplatform worldwide releases https://www.reddit.com/r/Games/comments/1w7w8s3/nihon_falcom_president_says_steam_and_switch/
@@ -28,3 +23,8 @@
 2026-09-05T18:25:59+00:00	The Exploration Map in Chronicles: Medieval - First Look https://www.reddit.com/r/Games/comments/1w88egj/the_exploration_map_in_chronicles_medieval_first/
 2026-09-05T21:41:18+00:00	DON'T NOD is running out of funding and may cease operations on January 31, 2027 - IG News https://www.reddit.com/r/Games/comments/1w8df1h/dont_nod_is_running_out_of_funding_and_may_cease/
 2026-09-05T22:10:22+00:00	Civilization VII Developer Preview | Next Major Update & First Expansion https://www.reddit.com/r/Games/comments/1w8e43w/civilization_vii_developer_preview_next_major/
+2026-09-06T03:13:35+00:00	Tyr Launch Trailer | Official https://www.reddit.com/r/Games/comments/1w8km0p/tyr_launch_trailer_official/
+2026-09-06T03:58:14+00:00	YouTube updates gaming violence monetization rules ahead of GTA 6 launch https://www.reddit.com/r/Games/comments/1w8limu/youtube_updates_gaming_violence_monetization/
+2026-09-06T04:00:36+00:00	Don't Lose Aggro - Oren Koren - A single-player action roguelike where you play the tank in an MMO raid simulation - Playtest is open! https://www.reddit.com/r/Games/comments/1w8lkg4/dont_lose_aggro_oren_koren_a_singleplayer_action/
+2026-09-06T04:00:55+00:00	Indie Sunday Hub - September 6, 2026 https://www.reddit.com/r/Games/comments/1w8lkqj/indie_sunday_hub_september_6_2026/
+2026-09-06T04:35:26+00:00	Medimon - Panacea Interactive - Demo is LIVE! Collect, evolve, and command medical monsters on your journey to becoming the next Medimaster! https://www.reddit.com/r/Games/comments/1w8m8nn/medimon_panacea_interactive_demo_is_live_collect/
