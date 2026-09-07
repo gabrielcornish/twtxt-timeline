@@ -3,7 +3,6 @@
 # source = https://www.reddit.com/r/Games.rss
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
-2026-09-05T21:41:18+00:00	DON'T NOD is running out of funding and may cease operations on January 31, 2027 - IG News https://www.reddit.com/r/Games/comments/1w8df1h/dont_nod_is_running_out_of_funding_and_may_cease/
 2026-09-06T09:00:24+00:00	Weekly /r/Games Discussion - What have you been playing, and what are your thoughts? - September 06, 2026 https://www.reddit.com/r/Games/comments/1w8qzlm/weekly_rgames_discussion_what_have_you_been/
 2026-09-06T13:35:21+00:00	No Law was one of the most exciting games I saw at Gamescom: a cyberpunk immersive sim that solves one of Deus Ex's biggest problems https://www.reddit.com/r/Games/comments/1w8we4d/no_law_was_one_of_the_most_exciting_games_i_saw/
 2026-09-06T13:46:11+00:00	Confirmed: No Generative AI in Warhammer 40,000: Space Marine 3 https://www.reddit.com/r/Games/comments/1w8wn77/confirmed_no_generative_ai_in_warhammer_40000/
@@ -14,7 +13,6 @@
 2026-09-06T19:58:13+00:00	'Halloween: The Game' Removes Controversial Mini Game Allowing Characters to Have Sex https://www.reddit.com/r/Games/comments/1w96gvk/halloween_the_game_removes_controversial_mini/
 2026-09-06T20:55:01+00:00	Irish Sport Manager - Loophead Labs - Football Manager style sim for the Gaelic games, now with a free demo https://www.reddit.com/r/Games/comments/1w97yk4/irish_sport_manager_loophead_labs_football/
 2026-09-06T21:00:32+00:00	Airframe: Ultra | Release Date Announcement Trailer https://www.reddit.com/r/Games/comments/1w983t0/airframe_ultra_release_date_announcement_trailer/
-2026-09-07T02:25:15+00:00	Order Automatica - New Beings - A tactical roguelite auto-battler where you build demonic synergies on a 3x3 grid https://www.reddit.com/r/Games/comments/1w9fgq0/order_automatica_new_beings_a_tactical_roguelite/
 2026-09-07T02:47:08+00:00	Knode: Untangle & Connect - BusFactorOne - a meditative puzzle about untangling knots that will captivate you for 4-5 hours https://www.reddit.com/r/Games/comments/1w9fwjx/knode_untangle_connect_busfactorone_a_meditative/
 2026-09-07T05:55:34+00:00	The Exit 8 sales top three million https://www.reddit.com/r/Games/comments/1w9jm5c/the_exit_8_sales_top_three_million/
 2026-09-07T07:24:22+00:00	Onimusha: Way of the Sword Sells Over 1 Million Units on Launch Day! – Total series sales surpass 10 million units driven by this first new title in 20 years – https://www.reddit.com/r/Games/comments/1w9l9cx/onimusha_way_of_the_sword_sells_over_1_million/
@@ -28,3 +26,5 @@
 2026-09-07T15:23:10+00:00	Report: New Killzone Project in Very Early Stages of Production https://www.reddit.com/r/Games/comments/1w9v4pi/report_new_killzone_project_in_very_early_stages/
 2026-09-07T15:30:39+00:00	Homebody and the Houses we Haunt | VZedShows https://www.reddit.com/r/Games/comments/1w9vc3s/homebody_and_the_houses_we_haunt_vzedshows/
 2026-09-07T16:05:13+00:00	Beyond The Dark - Nightwatch | Gameplay Trailer (Oct 22nd) https://www.reddit.com/r/Games/comments/1w9w9v4/beyond_the_dark_nightwatch_gameplay_trailer_oct/
+2026-09-07T17:24:07+00:00	Playground Games: If you’re planning your trip to Discover Japan on PlayStation 5, stay tuned! Forza Horizon 6 will be releasing on PS5 later this year https://www.reddit.com/r/Games/comments/1w9yezn/playground_games_if_youre_planning_your_trip_to/
+2026-09-07T19:29:33+00:00	Post-game deep dives https://www.reddit.com/r/Games/comments/1wa1wf8/postgame_deep_dives/
