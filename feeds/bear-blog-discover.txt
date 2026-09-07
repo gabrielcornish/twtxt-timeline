@@ -4,7 +4,6 @@
 # description = twtxt conversion of https://bearblog.dev/discover/feed/
 
 2026-09-06T00:25:00+00:00	I missed out on family events because not on socials, ya I'm Good https://yaimgood.bearblog.dev/i-missed-out-on-family-events-because-not-on-socials-ya-im-good/
-2026-09-06T08:40:00+00:00	health anxiety https://laraisabelle.bearblog.dev/health-anxiety/
 2026-09-06T09:45:14.302067+00:00	Right said fred https://bez-lightyear.bearblog.dev/right-said-fred/
 2026-09-06T15:43:00+00:00	The Divine Feminine https://householderkarl.com/the-divine-feminine/
 2026-09-06T16:57:00+00:00	Please learn how to write. https://itsme.bearblog.dev/please-learn-how-to-write/
@@ -22,4 +21,5 @@
 2026-09-07T11:59:43.540130+00:00	Animals https://thunkpoorly.bearblog.dev/animals/
 2026-09-07T12:30:25.624533+00:00	you must talk to strangers https://tuesdaynight.blog/you-must-talk-to-strangers/
 2026-09-07T14:43:00+00:00	Boogie-woogie Feng Shui https://householderkarl.com/boogie-woogie-feng-shui/
-2026-09-07T16:33:00+00:00	Six Weird Spells for Old-School Wizards https://discodanlives.bearblog.dev/six-weird-spells-for-old-school-wizards/
+2026-09-07T19:18:08.871863+00:00	Stop Pretending You Have Time https://fatherlasher.bearblog.dev/stop-pretending-you-have-time/
+2026-09-07T20:38:00+00:00	why do you care how other people write? https://pseudosingleton.com/why-do-you-care-how-other-people-write/
