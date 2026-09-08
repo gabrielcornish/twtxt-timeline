@@ -3,7 +3,6 @@
 # source = https://www.gamesindustry.biz/feed
 # description = twtxt conversion of https://www.gamesindustry.biz/feed
 
-2026-08-27T07:49:47+00:00	Xbox to focus on "efficiency and affordability alongside performance" for next-gen console amid rising hardware costs and innovations in AI https://www.gamesindustry.biz/xbox-to-focus-on-efficiency-and-affordability-alongside-performance-for-next-gen-console-amid-rising-hardware-costs-and-innovations-in-ai
 2026-08-27T09:05:35+00:00	European Games Developer Federation announces 2026-28 board, Hendrik Lesser re-elected as president https://www.gamesindustry.biz/european-games-developer-federation-announces-2026-28-board-hendrik-lesser-re-elected-as-president
 2026-08-27T10:34:25+00:00	"We view AI as a sliding scale. There will always be a human in the loop; that's our ethos": Why Side has signed an MOU with Modl.ai to use AI for QA https://www.gamesindustry.biz/we-view-ai-as-a-sliding-scale-there-will-always-be-a-human-in-the-loop-thats-our-ethos-why-side-has-signed-an-mou-with-modlai-to-use-ai-for-qa
 2026-08-27T10:44:11+00:00	Roblox to establish Saudi Arabia headquarters to support MENA creators https://www.gamesindustry.biz/roblox-to-establish-saudi-arabia-headquarters-to-support-mena-creators
@@ -53,3 +52,4 @@
 2026-09-07T15:34:14+00:00	"It's not sexy, but it's one of the most successful genres on Steam" – Stronghold developer Firefly launches publishing label to serve the vast strategy market https://www.gamesindustry.biz/its-not-sexy-but-its-one-of-the-most-successful-genres-on-steam-stronghold-developer-firefly-steps-up-to-publisher-to-serve-the-vast-strategy-market
 2026-09-07T16:51:44+00:00	Capcom says it will focus on reviving dormant IPs after Onimusha: Way of the Sword's breakout launch https://www.gamesindustry.biz/capcom-says-it-will-focus-on-reviving-dormant-ips-after-onimusha-way-of-the-swords-breakout-launch
 2026-09-07T18:42:05+00:00	Don't Nod warns it may not have enough funding to operate beyond January 2027 https://www.gamesindustry.biz/dont-nod-warns-it-may-not-have-enough-funding-to-operate-beyond-january-2027
+2026-09-08T02:00:00+00:00	Arm explains its mobile-first AI-reconstruction technology, which takes a different tack from the "black box" approach of DLSS 5 https://www.gamesindustry.biz/arm-explains-its-mobile-first-ai-reconstruction-technology-which-takes-a-different-tack-from-the-black-box-approach-of-dlss-5
