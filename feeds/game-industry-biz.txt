@@ -3,7 +3,6 @@
 # source = https://www.gamesindustry.biz/feed
 # description = twtxt conversion of https://www.gamesindustry.biz/feed
 
-2026-08-27T13:39:30+00:00	European games industry revenue reached €30bn in 2025 https://www.gamesindustry.biz/european-games-industry-revenue-reached-30bn-in-2025
 2026-08-27T18:26:08+00:00	Playdate maker Panic refunds tariff surcharges to customers https://www.gamesindustry.biz/playdate-maker-panic-refunds-tariff-surcharges-to-customers
 2026-08-27T19:33:45+00:00	Grand Theft Auto 6 30-minute teaser debuts on Netflix https://www.gamesindustry.biz/grand-theft-auto-6-30-minute-teaser-debuts-on-netflix
 2026-08-28T08:09:05+00:00	Sensor Tower: Netflix US mobile viewership increased 35% during GTA 6 extended preview https://www.gamesindustry.biz/sensor-tower-netflix-us-mobile-viewership-increased-35-during-gta-6-extended-preview
@@ -53,3 +52,4 @@
 2026-09-08T13:03:33+00:00	The Tetris Company says it was "not involved in the creation" of White House parody, takes "copyright infringement very seriously" https://www.gamesindustry.biz/the-tetris-company-says-it-was-not-involved-in-the-creation-of-white-house-parody-takes-copyright-infringement-very-seriously
 2026-09-08T13:27:23+00:00	European game developers are more concerned that AI will pressure them to work faster rather than take their job https://www.gamesindustry.biz/european-game-developers-are-more-concerned-that-ai-will-pressure-them-to-work-faster-rather-than-take-their-job
 2026-09-08T13:54:12+00:00	Star Stable Entertainment reduces workforce by 20% to secure long-term future of its multiplayer horse adventure RPG https://www.gamesindustry.biz/star-stable-entertainment-reduces-workforce-by-20-to-secure-long-term-future-of-its-multiplayer-horse-adventure-rpg
+2026-09-08T15:46:17+00:00	Why the world needs a Club Penguin successor – that isn't Roblox https://www.gamesindustry.biz/why-the-world-needs-a-club-penguin-successor-that-isnt-roblox

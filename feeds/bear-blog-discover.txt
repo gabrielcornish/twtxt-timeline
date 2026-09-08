@@ -3,7 +3,6 @@
 # source = https://bearblog.dev/discover/feed/
 # description = twtxt conversion of https://bearblog.dev/discover/feed/
 
-2026-09-06T09:45:14.302067+00:00	Right said fred https://bez-lightyear.bearblog.dev/right-said-fred/
 2026-09-06T20:47:00+00:00	My wife made tomato pie with fresh garden tomatoes. https://eveningnotes.bearblog.dev/my-wife-made-tomato-pie-with-fresh-garden-tomatoes/
 2026-09-06T21:49:00+00:00	the things we keep. https://blog.typewritermechanic.com/the-things-we-keep/
 2026-09-06T22:10:00+00:00	Happier offline https://blog.mandyjacek.ca/happier-offline/
@@ -18,6 +17,7 @@
 2026-09-07T22:31:41.869483+00:00	Crisis perspective and community https://xno.rip/crisis-perspective-and-community/
 2026-09-07T23:32:00+00:00	Unloading my tech collection continues because I hate this industry https://basic.bearblog.dev/unloading-my-tech-collection-continues-because-i-hate-this-industry/
 2026-09-08T00:05:00+00:00	and then it hits you https://psychidion.bearblog.dev/and-then-it-hits-you/
+2026-09-08T02:41:00+00:00	the joy of finding out https://tiramisu.bearblog.dev/the-joy-of-finding-out/
 2026-09-08T03:50:55.952057+00:00	september 7 hld https://combatdavey.net/september-7-2026/
 2026-09-08T06:55:00+00:00	Self-censorship practices as anti-shibboleth https://blog.lauramichet.com/self-censorship-practices-as-anti-shibboleth/
 2026-09-08T07:02:00+00:00	wonders of web weaving podcast episode with me! https://blog.avas.space/woww-episode/

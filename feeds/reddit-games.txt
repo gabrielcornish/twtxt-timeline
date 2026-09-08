@@ -4,27 +4,27 @@
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
 2026-09-06T09:00:24+00:00	Weekly /r/Games Discussion - What have you been playing, and what are your thoughts? - September 06, 2026 https://www.reddit.com/r/Games/comments/1w8qzlm/weekly_rgames_discussion_what_have_you_been/
-2026-09-07T05:55:34+00:00	The Exit 8 sales top three million https://www.reddit.com/r/Games/comments/1w9jm5c/the_exit_8_sales_top_three_million/
-2026-09-07T07:24:22+00:00	Onimusha: Way of the Sword Sells Over 1 Million Units on Launch Day! – Total series sales surpass 10 million units driven by this first new title in 20 years – https://www.reddit.com/r/Games/comments/1w9l9cx/onimusha_way_of_the_sword_sells_over_1_million/
-2026-09-07T08:18:08+00:00	Metal Gear Solid Co-Op mod trailer https://www.reddit.com/r/Games/comments/1w9m6lu/metal_gear_solid_coop_mod_trailer/
 2026-09-07T13:21:32+00:00	Playground Games' devs are so confident in Fable, they made me play the Gamescom demo twice https://www.reddit.com/r/Games/comments/1w9s19z/playground_games_devs_are_so_confident_in_fable/
 2026-09-07T13:49:25+00:00	"I wish you’d treat developers’ time and lives with a little more care." Japanese solo indie dev recounts being strung along for 16 months by publisher only to be refused a contract - AUTOMATON WEST https://www.reddit.com/r/Games/comments/1w9spis/i_wish_youd_treat_developers_time_and_lives_with/
-2026-09-07T15:04:28+00:00	Astrea: Six-Sided Oracles - Anniversary Major Content Update (v1.3.0) https://www.reddit.com/r/Games/comments/1w9umut/astrea_sixsided_oracles_anniversary_major_content/
-2026-09-07T15:09:07+00:00	Sprawl zero Review - An Adventure With All the Good Elements From 2000s FPS Titles https://www.reddit.com/r/Games/comments/1w9ur72/sprawl_zero_review_an_adventure_with_all_the_good/
 2026-09-07T15:23:10+00:00	Report: New Killzone Project in Very Early Stages of Production https://www.reddit.com/r/Games/comments/1w9v4pi/report_new_killzone_project_in_very_early_stages/
-2026-09-07T19:29:33+00:00	Post-game deep dives https://www.reddit.com/r/Games/comments/1wa1wf8/postgame_deep_dives/
 2026-09-07T21:59:30+00:00	puzzlez - a shapez game - Announcement Trailer https://www.reddit.com/r/Games/comments/1wa5tfe/puzzlez_a_shapez_game_announcement_trailer/
 2026-09-07T23:10:23+00:00	Street Fighter 6 - Arjun Gameplay Trailer https://www.reddit.com/r/Games/comments/1wa7iot/street_fighter_6_arjun_gameplay_trailer/
 2026-09-07T23:13:18+00:00	Mega Man 8-bit Deathmatch - V6C Content Trailer https://www.reddit.com/r/Games/comments/1wa7l6e/mega_man_8bit_deathmatch_v6c_content_trailer/
-2026-09-08T02:17:35+00:00	Good Boy Heaven - Announce Trailer https://www.reddit.com/r/Games/comments/1wabnim/good_boy_heaven_announce_trailer/
 2026-09-08T07:07:23+00:00	Sega president says there's been a rise in "fans who don't play the games," and their engagement with IPs can be even higher than that of gamers. https://www.reddit.com/r/Games/comments/1wah65o/sega_president_says_theres_been_a_rise_in_fans/
 2026-09-08T09:09:54+00:00	Noah Caldwell-Gervais - Adapting the '80s With Teyon Games [Rambo: TVG, Terminator: Resistance, Robocop: Rogue City] https://www.reddit.com/r/Games/comments/1waj7gh/noah_caldwellgervais_adapting_the_80s_with_teyon/
 2026-09-08T10:32:00+00:00	Atelier Karia: The Night Kingdom & the Guide of Memories - Second Trailer https://www.reddit.com/r/Games/comments/1wakns6/atelier_karia_the_night_kingdom_the_guide_of/
 2026-09-08T13:01:18+00:00	“Some of the offers were actually offensive” – How Clutch found its publisher https://www.reddit.com/r/Games/comments/1wansdw/some_of_the_offers_were_actually_offensive_how/
 2026-09-08T13:56:04+00:00	DEFICIT Gameplay Trailer - Demo Available NOW https://www.reddit.com/r/Games/comments/1wap45k/deficit_gameplay_trailer_demo_available_now/
-2026-09-08T14:04:40+00:00	PS3 PlayStation Store closure confirmed for UAE on October 5th, more LATAM/MENA countries to follow https://www.reddit.com/r/Games/comments/1wapce0/ps3_playstation_store_closure_confirmed_for_uae/
 2026-09-08T14:13:20+00:00	Valheim 1.0 Review - IGN https://www.reddit.com/r/Games/comments/1wapkd9/valheim_10_review_ign/
 2026-09-08T14:13:57+00:00	The Legend of Zelda 40th Anniversary Direct 9.8.2026 https://www.reddit.com/r/Games/comments/1wapkz2/the_legend_of_zelda_40th_anniversary_direct_982026/
 2026-09-08T14:27:23+00:00	The Legend of Zelda: Ocarina of Time Remake Extended Gameplay Trailer https://www.reddit.com/r/Games/comments/1wapxlw/the_legend_of_zelda_ocarina_of_time_remake/
 2026-09-08T14:34:46+00:00	The Legend of Zelda: Ocarina of Time Remake New Trailer https://www.reddit.com/r/Games/comments/1waq4k1/the_legend_of_zelda_ocarina_of_time_remake_new/
-2026-09-08T14:35:27+00:00	Legend of Zelda: Ocarina of Time Remake Gameplay Trailer https://www.reddit.com/r/Games/comments/1waq591/legend_of_zelda_ocarina_of_time_remake_gameplay/
+2026-09-08T14:46:54+00:00	Nintendo Switch 2 - The Legend of Zelda - 40th Anniversary Edition [available October 29th] https://www.reddit.com/r/Games/comments/1waqg9v/nintendo_switch_2_the_legend_of_zelda_40th/
+2026-09-08T14:57:14+00:00	New interview with Roach, the developer behind KINGDOMS OF THE DUMP https://www.reddit.com/r/Games/comments/1waqqiw/new_interview_with_roach_the_developer_behind/
+2026-09-08T15:03:01+00:00	Potential Remote Code Execution vulnerability discovered in Bodycam https://www.reddit.com/r/Games/comments/1waqwdt/potential_remote_code_execution_vulnerability/
+2026-09-08T15:10:18+00:00	Butcher's Blasphemy | Marvel Rivals Season 10 Trailer | Marvel Rivals https://www.reddit.com/r/Games/comments/1war3q1/butchers_blasphemy_marvel_rivals_season_10/
+2026-09-08T15:28:00+00:00	SPRAWL ZERO OUT NOW https://www.reddit.com/r/Games/comments/1warl2z/sprawl_zero_out_now/
+2026-09-08T15:53:54+00:00	EthrA Kickstarter Launch Trailer - Adventure/RPG game featuring pixel art in a 3D world. Fight, explore, farming, trading economy, crafting and more! https://www.reddit.com/r/Games/comments/1wasace/ethra_kickstarter_launch_trailer_adventurerpg/
+2026-09-08T16:40:56+00:00	Thousand Hells: The Underworld Heists now available on Steam (from "King of Dragon Pass" devs) https://www.reddit.com/r/Games/comments/1watlxn/thousand_hells_the_underworld_heists_now/
+2026-09-08T17:50:21+00:00	The Blood of Dawnwalker Sequel Already in the Works as Rebel Wolves Plans a Saga https://www.reddit.com/r/Games/comments/1wavl5s/the_blood_of_dawnwalker_sequel_already_in_the/
+2026-09-08T18:32:34+00:00	XBOX Game Pass Offering Dynamic Pricing to Select Users https://www.reddit.com/r/Games/comments/1wawtap/xbox_game_pass_offering_dynamic_pricing_to_select/
