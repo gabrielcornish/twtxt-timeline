@@ -4,7 +4,6 @@
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
 2026-09-06T09:00:24+00:00	Weekly /r/Games Discussion - What have you been playing, and what are your thoughts? - September 06, 2026 https://www.reddit.com/r/Games/comments/1w8qzlm/weekly_rgames_discussion_what_have_you_been/
-2026-09-07T13:21:32+00:00	Playground Games' devs are so confident in Fable, they made me play the Gamescom demo twice https://www.reddit.com/r/Games/comments/1w9s19z/playground_games_devs_are_so_confident_in_fable/
 2026-09-07T13:49:25+00:00	"I wish you’d treat developers’ time and lives with a little more care." Japanese solo indie dev recounts being strung along for 16 months by publisher only to be refused a contract - AUTOMATON WEST https://www.reddit.com/r/Games/comments/1w9spis/i_wish_youd_treat_developers_time_and_lives_with/
 2026-09-07T15:23:10+00:00	Report: New Killzone Project in Very Early Stages of Production https://www.reddit.com/r/Games/comments/1w9v4pi/report_new_killzone_project_in_very_early_stages/
 2026-09-07T21:59:30+00:00	puzzlez - a shapez game - Announcement Trailer https://www.reddit.com/r/Games/comments/1wa5tfe/puzzlez_a_shapez_game_announcement_trailer/
@@ -21,10 +20,11 @@
 2026-09-08T14:34:46+00:00	The Legend of Zelda: Ocarina of Time Remake New Trailer https://www.reddit.com/r/Games/comments/1waq4k1/the_legend_of_zelda_ocarina_of_time_remake_new/
 2026-09-08T14:46:54+00:00	Nintendo Switch 2 - The Legend of Zelda - 40th Anniversary Edition [available October 29th] https://www.reddit.com/r/Games/comments/1waqg9v/nintendo_switch_2_the_legend_of_zelda_40th/
 2026-09-08T14:57:14+00:00	New interview with Roach, the developer behind KINGDOMS OF THE DUMP https://www.reddit.com/r/Games/comments/1waqqiw/new_interview_with_roach_the_developer_behind/
-2026-09-08T15:03:01+00:00	Potential Remote Code Execution vulnerability discovered in Bodycam https://www.reddit.com/r/Games/comments/1waqwdt/potential_remote_code_execution_vulnerability/
 2026-09-08T15:10:18+00:00	Butcher's Blasphemy | Marvel Rivals Season 10 Trailer | Marvel Rivals https://www.reddit.com/r/Games/comments/1war3q1/butchers_blasphemy_marvel_rivals_season_10/
 2026-09-08T15:28:00+00:00	SPRAWL ZERO OUT NOW https://www.reddit.com/r/Games/comments/1warl2z/sprawl_zero_out_now/
 2026-09-08T15:53:54+00:00	EthrA Kickstarter Launch Trailer - Adventure/RPG game featuring pixel art in a 3D world. Fight, explore, farming, trading economy, crafting and more! https://www.reddit.com/r/Games/comments/1wasace/ethra_kickstarter_launch_trailer_adventurerpg/
 2026-09-08T16:40:56+00:00	Thousand Hells: The Underworld Heists now available on Steam (from "King of Dragon Pass" devs) https://www.reddit.com/r/Games/comments/1watlxn/thousand_hells_the_underworld_heists_now/
 2026-09-08T17:50:21+00:00	The Blood of Dawnwalker Sequel Already in the Works as Rebel Wolves Plans a Saga https://www.reddit.com/r/Games/comments/1wavl5s/the_blood_of_dawnwalker_sequel_already_in_the/
-2026-09-08T18:32:34+00:00	XBOX Game Pass Offering Dynamic Pricing to Select Users https://www.reddit.com/r/Games/comments/1wawtap/xbox_game_pass_offering_dynamic_pricing_to_select/
+2026-09-08T19:21:38+00:00	Exclusive: Two of gaming’s biggest names are making a big investment in gaming’s future https://www.reddit.com/r/Games/comments/1way8qb/exclusive_two_of_gamings_biggest_names_are_making/
+2026-09-08T20:05:56+00:00	Tomb Raider: Legacy of Atlantis - Reimagining Greece https://www.reddit.com/r/Games/comments/1wazhoj/tomb_raider_legacy_of_atlantis_reimagining_greece/
+2026-09-08T20:58:21+00:00	Old School RuneScape finally adds pet dogs for players with new quest "A Ruff Situation", with 12 breeds available https://www.reddit.com/r/Games/comments/1wb0xm6/old_school_runescape_finally_adds_pet_dogs_for/
