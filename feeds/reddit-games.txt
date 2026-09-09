@@ -3,8 +3,6 @@
 # source = https://www.reddit.com/r/Games.rss
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
-2026-09-06T09:00:24+00:00	Weekly /r/Games Discussion - What have you been playing, and what are your thoughts? - September 06, 2026 https://www.reddit.com/r/Games/comments/1w8qzlm/weekly_rgames_discussion_what_have_you_been/
-2026-09-07T23:10:23+00:00	Street Fighter 6 - Arjun Gameplay Trailer https://www.reddit.com/r/Games/comments/1wa7iot/street_fighter_6_arjun_gameplay_trailer/
 2026-09-08T07:07:23+00:00	Sega president says there's been a rise in "fans who don't play the games," and their engagement with IPs can be even higher than that of gamers. https://www.reddit.com/r/Games/comments/1wah65o/sega_president_says_theres_been_a_rise_in_fans/
 2026-09-08T09:09:54+00:00	Noah Caldwell-Gervais - Adapting the '80s With Teyon Games [Rambo: TVG, Terminator: Resistance, Robocop: Rogue City] https://www.reddit.com/r/Games/comments/1waj7gh/noah_caldwellgervais_adapting_the_80s_with_teyon/
 2026-09-08T10:32:00+00:00	Atelier Karia: The Night Kingdom & the Guide of Memories - Second Trailer https://www.reddit.com/r/Games/comments/1wakns6/atelier_karia_the_night_kingdom_the_guide_of/
@@ -28,3 +26,5 @@
 2026-09-09T03:19:10+00:00	Persona 6, Kingdom Hearts IV, Judas, Stranger Than Heaven, and other Steam Achievements surface in large-scale leak https://www.reddit.com/r/Games/comments/1wb9z8v/persona_6_kingdom_hearts_iv_judas_stranger_than/
 2026-09-09T03:45:08+00:00	New Ocarina of Time Gameplay — Nintendo Switch 2 Remake https://www.reddit.com/r/Games/comments/1wbaieo/new_ocarina_of_time_gameplay_nintendo_switch_2/
 2026-09-09T04:01:56+00:00	Steam now requires Australian users to verify their age with a credit card to access R18+ games. You can’t even browse their store pages without adding a credit card to your account. https://www.reddit.com/r/Games/comments/1wbauz5/steam_now_requires_australian_users_to_verify/
+2026-09-09T10:15:21+00:00	EA Used AI To Clone John Buccigross’ Voice In NHL 27 https://www.reddit.com/r/Games/comments/1wbhj6c/ea_used_ai_to_clone_john_buccigross_voice_in_nhl/
+2026-09-09T11:00:31+00:00	Daily /r/Games Discussion - Suggest Me a Game - September 09, 2026 https://www.reddit.com/r/Games/comments/1wbicwf/daily_rgames_discussion_suggest_me_a_game/
