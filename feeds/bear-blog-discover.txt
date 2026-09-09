@@ -3,7 +3,6 @@
 # source = https://bearblog.dev/discover/feed/
 # description = twtxt conversion of https://bearblog.dev/discover/feed/
 
-2026-09-06T22:10:00+00:00	Happier offline https://blog.mandyjacek.ca/happier-offline/
 2026-09-07T07:04:00+00:00	I feel like retreating into art https://moodywarlock.net/i-feel-like-retreating-into-art/
 2026-09-07T12:30:25.624533+00:00	you must talk to strangers https://tuesdaynight.blog/you-must-talk-to-strangers/
 2026-09-07T18:25:45.459518+00:00	We know, and we know nothing will be done. https://itsme.bearblog.dev/we-know-and-we-know-nothing-will-be-done/
@@ -13,13 +12,14 @@
 2026-09-07T22:31:41.869483+00:00	Crisis perspective and community https://xno.rip/crisis-perspective-and-community/
 2026-09-07T23:32:00+00:00	Unloading my tech collection continues because I hate this industry https://basic.bearblog.dev/unloading-my-tech-collection-continues-because-i-hate-this-industry/
 2026-09-08T00:05:00+00:00	and then it hits you https://psychidion.bearblog.dev/and-then-it-hits-you/
-2026-09-08T02:41:00+00:00	the joy of finding out https://tiramisu.bearblog.dev/the-joy-of-finding-out/
 2026-09-08T06:55:00+00:00	Self-censorship practices as anti-shibboleth https://blog.lauramichet.com/self-censorship-practices-as-anti-shibboleth/
 2026-09-08T12:22:31.539402+00:00	I think I hate the internet https://strategictree.bearblog.dev/i-think-i-hate-the-internet/
 2026-09-08T12:37:00+00:00	Journal 4- Fred Rogers https://journal.utkarshcareers.blog/journal-4-fred-rogers/
 2026-09-08T15:49:32.389839+00:00	please put your phone down https://rnotte.art/please-put-your-phone-down/
-2026-09-08T16:47:00+00:00	i made focaccia! https://ramblerambleramble.bearblog.dev/i-made-focaccia/
 2026-09-08T17:06:00+00:00	are disabilities and chronic illnesses 'cool' now? https://blog.avas.space/cool-disability/
 2026-09-08T20:43:00+00:00	Mushroom Samba https://householderkarl.com/mushroom-samba/
 2026-09-08T23:01:00+00:00	Read independent fiction! Web novels, webcomics, fanfiction, short stories! There's so much out there. https://eveningnotes.bearblog.dev/read-independent-serialized-fiction-and-short-fiction-web-novels-webcomics-fanfiction-short-story-magazines/
 2026-09-09T06:33:00+00:00	I was introduced to Plantasia https://blog.lauramichet.com/i-was-introduced-to-plantasia/
+2026-09-09T07:41:00+00:00	i like nintendo 3ds better than the switch https://skuka.online/i-like-nintendo-3ds-better-than-the-switch/
+2026-09-09T15:37:00+00:00	Define yourself or someone else will do it for you https://nate.spot/define-yourself/
+2026-09-09T19:24:00+00:00	Why I Care About How Other People Write https://trialandfailure.net/why-i-care-about-how-other-people-write/

@@ -4,7 +4,6 @@
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
 2026-09-09T03:19:10+00:00	Persona 6, Kingdom Hearts IV, Judas, Stranger Than Heaven, and other Steam Achievements surface in large-scale leak https://www.reddit.com/r/Games/comments/1wb9z8v/persona_6_kingdom_hearts_iv_judas_stranger_than/
-2026-09-09T03:45:08+00:00	New Ocarina of Time Gameplay — Nintendo Switch 2 Remake https://www.reddit.com/r/Games/comments/1wbaieo/new_ocarina_of_time_gameplay_nintendo_switch_2/
 2026-09-09T04:01:56+00:00	Steam now requires Australian users to verify their age with a credit card to access R18+ games. You can’t even browse their store pages without adding a credit card to your account. https://www.reddit.com/r/Games/comments/1wbauz5/steam_now_requires_australian_users_to_verify/
 2026-09-09T10:15:21+00:00	EA Used AI To Clone John Buccigross’ Voice In NHL 27 https://www.reddit.com/r/Games/comments/1wbhj6c/ea_used_ai_to_clone_john_buccigross_voice_in_nhl/
 2026-09-09T11:00:31+00:00	Daily /r/Games Discussion - Suggest Me a Game - September 09, 2026 https://www.reddit.com/r/Games/comments/1wbicwf/daily_rgames_discussion_suggest_me_a_game/
@@ -28,3 +27,4 @@
 2026-09-09T15:39:13+00:00	Star Wars Zero Company 1.1 Patch Notes https://www.reddit.com/r/Games/comments/1wbp2wx/star_wars_zero_company_11_patch_notes/
 2026-09-09T15:58:21+00:00	Xenoblade 3 - Nintendo Switch 2 Edition -Nintendo Direct 9.9.2026 https://www.reddit.com/r/Games/comments/1wbpll9/xenoblade_3_nintendo_switch_2_edition_nintendo/
 2026-09-09T17:11:12+00:00	Dragon Quest Heroes: Torneko‘s Mystery Dungeon -Classic HD- | Release Trailer https://www.reddit.com/r/Games/comments/1wbro4z/dragon_quest_heroes_tornekos_mystery_dungeon/
+2026-09-09T20:18:35+00:00	Pikmin 4 – Nintendo Switch 2 Edition + Dandori Academy – Nintendo Direct 9.9.2026 https://www.reddit.com/r/Games/comments/1wbx18e/pikmin_4_nintendo_switch_2_edition_dandori/
