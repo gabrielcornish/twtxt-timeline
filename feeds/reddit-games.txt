@@ -3,28 +3,28 @@
 # source = https://www.reddit.com/r/Games.rss
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
-2026-09-08T07:07:23+00:00	Sega president says there's been a rise in "fans who don't play the games," and their engagement with IPs can be even higher than that of gamers. https://www.reddit.com/r/Games/comments/1wah65o/sega_president_says_theres_been_a_rise_in_fans/
-2026-09-08T09:09:54+00:00	Noah Caldwell-Gervais - Adapting the '80s With Teyon Games [Rambo: TVG, Terminator: Resistance, Robocop: Rogue City] https://www.reddit.com/r/Games/comments/1waj7gh/noah_caldwellgervais_adapting_the_80s_with_teyon/
-2026-09-08T10:32:00+00:00	Atelier Karia: The Night Kingdom & the Guide of Memories - Second Trailer https://www.reddit.com/r/Games/comments/1wakns6/atelier_karia_the_night_kingdom_the_guide_of/
-2026-09-08T13:01:18+00:00	“Some of the offers were actually offensive” – How Clutch found its publisher https://www.reddit.com/r/Games/comments/1wansdw/some_of_the_offers_were_actually_offensive_how/
-2026-09-08T13:56:04+00:00	DEFICIT Gameplay Trailer - Demo Available NOW https://www.reddit.com/r/Games/comments/1wap45k/deficit_gameplay_trailer_demo_available_now/
-2026-09-08T14:13:20+00:00	Valheim 1.0 Review - IGN https://www.reddit.com/r/Games/comments/1wapkd9/valheim_10_review_ign/
-2026-09-08T14:13:57+00:00	The Legend of Zelda 40th Anniversary Direct 9.8.2026 https://www.reddit.com/r/Games/comments/1wapkz2/the_legend_of_zelda_40th_anniversary_direct_982026/
-2026-09-08T14:27:23+00:00	The Legend of Zelda: Ocarina of Time Remake Extended Gameplay Trailer https://www.reddit.com/r/Games/comments/1wapxlw/the_legend_of_zelda_ocarina_of_time_remake/
-2026-09-08T14:34:46+00:00	The Legend of Zelda: Ocarina of Time Remake New Trailer https://www.reddit.com/r/Games/comments/1waq4k1/the_legend_of_zelda_ocarina_of_time_remake_new/
-2026-09-08T14:46:54+00:00	Nintendo Switch 2 - The Legend of Zelda - 40th Anniversary Edition [available October 29th] https://www.reddit.com/r/Games/comments/1waqg9v/nintendo_switch_2_the_legend_of_zelda_40th/
-2026-09-08T14:57:14+00:00	New interview with Roach, the developer behind KINGDOMS OF THE DUMP https://www.reddit.com/r/Games/comments/1waqqiw/new_interview_with_roach_the_developer_behind/
-2026-09-08T15:10:18+00:00	Butcher's Blasphemy | Marvel Rivals Season 10 Trailer | Marvel Rivals https://www.reddit.com/r/Games/comments/1war3q1/butchers_blasphemy_marvel_rivals_season_10/
-2026-09-08T15:28:00+00:00	SPRAWL ZERO OUT NOW https://www.reddit.com/r/Games/comments/1warl2z/sprawl_zero_out_now/
-2026-09-08T16:40:56+00:00	Thousand Hells: The Underworld Heists now available on Steam (from "King of Dragon Pass" devs) https://www.reddit.com/r/Games/comments/1watlxn/thousand_hells_the_underworld_heists_now/
-2026-09-08T17:50:21+00:00	The Blood of Dawnwalker Sequel Already in the Works as Rebel Wolves Plans a Saga https://www.reddit.com/r/Games/comments/1wavl5s/the_blood_of_dawnwalker_sequel_already_in_the/
-2026-09-08T19:21:38+00:00	Exclusive: Two of gaming’s biggest names are making a big investment in gaming’s future https://www.reddit.com/r/Games/comments/1way8qb/exclusive_two_of_gamings_biggest_names_are_making/
-2026-09-08T20:05:56+00:00	Tomb Raider: Legacy of Atlantis - Reimagining Greece https://www.reddit.com/r/Games/comments/1wazhoj/tomb_raider_legacy_of_atlantis_reimagining_greece/
-2026-09-08T20:58:21+00:00	Old School RuneScape finally adds pet dogs for players with new quest "A Ruff Situation", with 12 breeds available https://www.reddit.com/r/Games/comments/1wb0xm6/old_school_runescape_finally_adds_pet_dogs_for/
-2026-09-08T22:14:15+00:00	CODE VEIN II - Mask of Idris DLC Launch Trailer https://www.reddit.com/r/Games/comments/1wb2yw3/code_vein_ii_mask_of_idris_dlc_launch_trailer/
-2026-09-09T01:08:51+00:00	Ubisoft is officially joining Xbox’s Disc‑to‑Digital program — and more publishers are lining up behind it https://www.reddit.com/r/Games/comments/1wb7488/ubisoft_is_officially_joining_xboxs_disctodigital/
 2026-09-09T03:19:10+00:00	Persona 6, Kingdom Hearts IV, Judas, Stranger Than Heaven, and other Steam Achievements surface in large-scale leak https://www.reddit.com/r/Games/comments/1wb9z8v/persona_6_kingdom_hearts_iv_judas_stranger_than/
 2026-09-09T03:45:08+00:00	New Ocarina of Time Gameplay — Nintendo Switch 2 Remake https://www.reddit.com/r/Games/comments/1wbaieo/new_ocarina_of_time_gameplay_nintendo_switch_2/
 2026-09-09T04:01:56+00:00	Steam now requires Australian users to verify their age with a credit card to access R18+ games. You can’t even browse their store pages without adding a credit card to your account. https://www.reddit.com/r/Games/comments/1wbauz5/steam_now_requires_australian_users_to_verify/
 2026-09-09T10:15:21+00:00	EA Used AI To Clone John Buccigross’ Voice In NHL 27 https://www.reddit.com/r/Games/comments/1wbhj6c/ea_used_ai_to_clone_john_buccigross_voice_in_nhl/
 2026-09-09T11:00:31+00:00	Daily /r/Games Discussion - Suggest Me a Game - September 09, 2026 https://www.reddit.com/r/Games/comments/1wbicwf/daily_rgames_discussion_suggest_me_a_game/
+2026-09-09T12:54:50+00:00	[AMA] I am Rudolf Kremers, co-creator of Eufloria, Receiver 2, and more. We also recently announced Eufloria 2. Ask me anything! https://www.reddit.com/r/Games/comments/1wbksh8/ama_i_am_rudolf_kremers_cocreator_of_eufloria/
+2026-09-09T13:01:13+00:00	No Man’s Sky - Cosmos Update [10th Anniversary] https://www.reddit.com/r/Games/comments/1wbkxzb/no_mans_sky_cosmos_update_10th_anniversary/
+2026-09-09T13:07:50+00:00	After Years Of Company Stalling, Blizzard Workers Win Mega-Contract That Applies To All Unionized Teams https://www.reddit.com/r/Games/comments/1wbl3ql/after_years_of_company_stalling_blizzard_workers/
+2026-09-09T13:59:12+00:00	Nintendo Direct 9.9.2026 https://www.reddit.com/r/Games/comments/1wbme8f/nintendo_direct_992026/
+2026-09-09T14:05:23+00:00	Valheim: 1.0 Out Now https://www.reddit.com/r/Games/comments/1wbmk7n/valheim_10_out_now/
+2026-09-09T14:16:10+00:00	Star Fox Adventures Launches on Nintendo Classics Today! https://www.reddit.com/r/Games/comments/1wbmu2k/star_fox_adventures_launches_on_nintendo_classics/
+2026-09-09T14:24:09+00:00	1,900 Blizzard Developers Just Won A Union Contract Full Of Protections For AI, Layoffs, And More https://www.reddit.com/r/Games/comments/1wbn1vc/1900_blizzard_developers_just_won_a_union/
+2026-09-09T14:32:25+00:00	Metroid Ravenous comes to Switch 2 in 2027 https://www.reddit.com/r/Games/comments/1wbn9pm/metroid_ravenous_comes_to_switch_2_in_2027/
+2026-09-09T14:41:31+00:00	KALLAX STORAGEBORN, a free creation for The Elder Scrolls V: Skyrim from IKEA. https://www.reddit.com/r/Games/comments/1wbniah/kallax_storageborn_a_free_creation_for_the_elder/
+2026-09-09T14:44:06+00:00	Persona 4 Revival Announced and Persona 6 for Nintendo Switch 2 https://www.reddit.com/r/Games/comments/1wbnknb/persona_4_revival_announced_and_persona_6_for/
+2026-09-09T14:46:55+00:00	Kirby And The World Beyond Announced For Nintendo Switch 2 for Spring 2027 https://www.reddit.com/r/Games/comments/1wbnn7p/kirby_and_the_world_beyond_announced_for_nintendo/
+2026-09-09T14:49:34+00:00	Professor Layton and the New World of Steam – Available December 10, 2026 https://www.reddit.com/r/Games/comments/1wbnpr6/professor_layton_and_the_new_world_of_steam/
+2026-09-09T14:53:36+00:00	Romancing SaGa 3: Destinies United – Nintendo Direct 9.9.2026 https://www.reddit.com/r/Games/comments/1wbntlh/romancing_saga_3_destinies_united_nintendo_direct/
+2026-09-09T14:55:25+00:00	Eternal Anima – Nintendo Direct 9.9.2026 https://www.reddit.com/r/Games/comments/1wbnvcm/eternal_anima_nintendo_direct_992026/
+2026-09-09T15:00:05+00:00	Metal Slug Ultimate Collection Announcement Trailer https://www.reddit.com/r/Games/comments/1wbnzwg/metal_slug_ultimate_collection_announcement/
+2026-09-09T15:01:38+00:00	Yu-Gi-Oh! TAG FORCE GX – Pre-order Trailer – Nintendo Switch 2 https://www.reddit.com/r/Games/comments/1wbo1pa/yugioh_tag_force_gx_preorder_trailer_nintendo/
+2026-09-09T15:07:49+00:00	Mega Man: Dual Override - 2nd Trailer - Proto Man Gameplay https://www.reddit.com/r/Games/comments/1wbo851/mega_man_dual_override_2nd_trailer_proto_man/
+2026-09-09T15:33:16+00:00	The Apothecary Diaries: The False Imperial Brother - Announcement Trailer https://www.reddit.com/r/Games/comments/1wbox6x/the_apothecary_diaries_the_false_imperial_brother/
+2026-09-09T15:39:13+00:00	Star Wars Zero Company 1.1 Patch Notes https://www.reddit.com/r/Games/comments/1wbp2wx/star_wars_zero_company_11_patch_notes/
+2026-09-09T15:58:21+00:00	Xenoblade 3 - Nintendo Switch 2 Edition -Nintendo Direct 9.9.2026 https://www.reddit.com/r/Games/comments/1wbpll9/xenoblade_3_nintendo_switch_2_edition_nintendo/
