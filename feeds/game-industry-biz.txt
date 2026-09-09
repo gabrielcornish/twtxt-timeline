@@ -3,8 +3,6 @@
 # source = https://www.gamesindustry.biz/feed
 # description = twtxt conversion of https://www.gamesindustry.biz/feed
 
-2026-08-28T14:27:12+00:00	GTA 6 will have a halo effect for the entire industry | Opinion https://www.gamesindustry.biz/gta-6-will-have-a-halo-effect-for-the-entire-industry-opinion
-2026-09-01T08:07:34+00:00	Bit Reactor furloughed "many of its workers" in the weeks before Star Wars Zero Company's launch https://www.gamesindustry.biz/bit-reactor-furloughed-many-of-its-workers-in-the-weeks-before-star-wars-zero-companys-launch
 2026-09-01T08:47:50+00:00	Rovio closes Copenhagen studio following shut down of Sonic Blitz https://www.gamesindustry.biz/rovio-closes-copenhagen-studio-following-shut-down-of-sonic-blitz
 2026-09-01T10:32:51+00:00	Gamescom 2026 attendance rose 6% to 368,000 visitors https://www.gamesindustry.biz/gamescom-2026-attendance-rose-6-to-368000-visitors
 2026-09-01T12:42:51+00:00	UKIE launches Discord-backed Go To Market Academy, a business program to support early-stage indie devs https://www.gamesindustry.biz/ukie-launches-discord-backed-go-to-market-academy-a-business-program-to-support-early-stage-indie-devs
@@ -53,3 +51,5 @@
 2026-09-09T14:19:47+00:00	"We probably need a few more Expedition 33s to just prove them wrong" – the maker of Valor Mortis on why publishers should have faith in AA https://www.gamesindustry.biz/we-probably-need-a-few-more-expedition-33s-to-just-prove-them-wrong-the-maker-of-valor-mortis-on-why-publishers-should-have-faith-in-aa
 2026-09-09T15:00:00+00:00	Keywords Studios combines multiple marketing businesses into global creative agency FreeAnimal https://www.gamesindustry.biz/keywords-studios-combines-existing-marketing-teams-into-global-creative-agency-freeanimal
 2026-09-09T16:15:46+00:00	Mark Cerny and Geoff Keighley launch Nova Games Foundation to fund young designers https://www.gamesindustry.biz/mark-cerny-and-geoff-keighley-launch-nova-games-foundation-to-fund-young-designers
+2026-09-09T17:24:25+00:00	Epic Games Store to introduce age checks for R18+ games in Australia https://www.gamesindustry.biz/epic-games-store-to-introduce-age-checks-for-r18-games-in-australia
+2026-09-09T18:56:51+00:00	Lego Digital Play acquires mobile studio Offroad Games https://www.gamesindustry.biz/lego-digital-play-acquires-mobile-studio-offroad-games
