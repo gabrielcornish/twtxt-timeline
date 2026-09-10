@@ -3,9 +3,8 @@
 # source = https://www.gamesindustry.biz/feed
 # description = twtxt conversion of https://www.gamesindustry.biz/feed
 
-2026-09-01T10:32:51+00:00	Gamescom 2026 attendance rose 6% to 368,000 visitors https://www.gamesindustry.biz/gamescom-2026-attendance-rose-6-to-368000-visitors
 2026-09-01T12:42:51+00:00	UKIE launches Discord-backed Go To Market Academy, a business program to support early-stage indie devs https://www.gamesindustry.biz/ukie-launches-discord-backed-go-to-market-academy-a-business-program-to-support-early-stage-indie-devs
-2026-09-01T13:41:11+00:00	Jobs roundup: September 2026 | Amir Satvat joins 1Up Ventures as a general partner https://www.gamesindustry.biz/jobs-roundup-september-2026-amir-satvat-joins-1up-ventures-as-a-general-partner
+2026-09-01T13:41:11+00:00	Jobs roundup: September 2026 | Asmodee appoints Brian Trunk as senior vice president, Route to Market for the Americas https://www.gamesindustry.biz/jobs-roundup-september-2026-asmodee-appoints-brian-trunk-as-senior-vice-president-route-to-market-for-the-americas
 2026-09-01T14:38:11+00:00	Brian Ward steps down as Savvy Games Group CEO https://www.gamesindustry.biz/brian-ward-steps-down-as-savvy-games-group-ceo
 2026-09-01T16:19:14+00:00	The Big Picture: What you need to know about the ongoing games industry reset https://www.gamesindustry.biz/the-big-picture-what-you-need-to-know-about-the-ongoing-games-industry-reset
 2026-09-02T07:00:00+00:00	IO Interactive CEO Hakan Abrak to discuss development of 007 First Light at Game Republic New Horizons 2026 https://www.gamesindustry.biz/io-interactive-ceo-hakan-abrak-to-discuss-development-of-007-first-light-at-game-republic-new-horizons-2026
@@ -53,3 +52,4 @@
 2026-09-09T17:24:25+00:00	Epic Games Store to introduce age checks for R18+ games in Australia https://www.gamesindustry.biz/epic-games-store-to-introduce-age-checks-for-r18-games-in-australia
 2026-09-09T18:56:51+00:00	Lego Digital Play acquires mobile studio Offroad Games https://www.gamesindustry.biz/lego-digital-play-acquires-mobile-studio-offroad-games
 2026-09-09T20:14:39+00:00	Almost 1,900 Blizzard workers ratify first union contract with Microsoft https://www.gamesindustry.biz/almost-1900-blizzard-workers-ratify-first-union-contract-with-microsoft
+2026-09-10T07:34:19+00:00	Xbox to publish Kojima Productions' Physint after it "unexpectedly received notice" from PlayStation that it would cancel the project https://www.gamesindustry.biz/xbox-to-publish-kojima-productions-physint-after-it-unexpectedly-received-notice-from-playstation-that-it-would-cancel-the-project
