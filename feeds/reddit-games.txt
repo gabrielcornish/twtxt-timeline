@@ -4,7 +4,6 @@
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
 2026-09-09T04:01:56+00:00	Steam now requires Australian users to verify their age with a credit card to access R18+ games. You can’t even browse their store pages without adding a credit card to your account. https://www.reddit.com/r/Games/comments/1wbauz5/steam_now_requires_australian_users_to_verify/
-2026-09-09T10:15:21+00:00	EA Used AI To Clone John Buccigross’ Voice In NHL 27 https://www.reddit.com/r/Games/comments/1wbhj6c/ea_used_ai_to_clone_john_buccigross_voice_in_nhl/
 2026-09-09T11:00:31+00:00	Daily /r/Games Discussion - Suggest Me a Game - September 09, 2026 https://www.reddit.com/r/Games/comments/1wbicwf/daily_rgames_discussion_suggest_me_a_game/
 2026-09-09T12:54:50+00:00	[AMA] I am Rudolf Kremers, co-creator of Eufloria, Receiver 2, and more. We also recently announced Eufloria 2. Ask me anything! https://www.reddit.com/r/Games/comments/1wbksh8/ama_i_am_rudolf_kremers_cocreator_of_eufloria/
 2026-09-09T13:01:13+00:00	No Man’s Sky - Cosmos Update [10th Anniversary] https://www.reddit.com/r/Games/comments/1wbkxzb/no_mans_sky_cosmos_update_10th_anniversary/
@@ -17,14 +16,15 @@
 2026-09-09T14:44:06+00:00	Persona 4 Revival Announced and Persona 6 for Nintendo Switch 2 https://www.reddit.com/r/Games/comments/1wbnknb/persona_4_revival_announced_and_persona_6_for/
 2026-09-09T14:46:55+00:00	Kirby And The World Beyond Announced For Nintendo Switch 2 for Spring 2027 https://www.reddit.com/r/Games/comments/1wbnn7p/kirby_and_the_world_beyond_announced_for_nintendo/
 2026-09-09T14:49:34+00:00	Professor Layton and the New World of Steam – Available December 10, 2026 https://www.reddit.com/r/Games/comments/1wbnpr6/professor_layton_and_the_new_world_of_steam/
-2026-09-09T14:53:36+00:00	Romancing SaGa 3: Destinies United – Nintendo Direct 9.9.2026 https://www.reddit.com/r/Games/comments/1wbntlh/romancing_saga_3_destinies_united_nintendo_direct/
-2026-09-09T14:55:25+00:00	Eternal Anima – Nintendo Direct 9.9.2026 https://www.reddit.com/r/Games/comments/1wbnvcm/eternal_anima_nintendo_direct_992026/
 2026-09-09T15:00:05+00:00	Metal Slug Ultimate Collection Announcement Trailer https://www.reddit.com/r/Games/comments/1wbnzwg/metal_slug_ultimate_collection_announcement/
 2026-09-09T15:01:38+00:00	Yu-Gi-Oh! TAG FORCE GX – Pre-order Trailer – Nintendo Switch 2 https://www.reddit.com/r/Games/comments/1wbo1pa/yugioh_tag_force_gx_preorder_trailer_nintendo/
 2026-09-09T15:33:16+00:00	The Apothecary Diaries: The False Imperial Brother - Announcement Trailer https://www.reddit.com/r/Games/comments/1wbox6x/the_apothecary_diaries_the_false_imperial_brother/
 2026-09-09T15:39:13+00:00	Star Wars Zero Company 1.1 Patch Notes https://www.reddit.com/r/Games/comments/1wbp2wx/star_wars_zero_company_11_patch_notes/
 2026-09-09T15:58:21+00:00	Xenoblade 3 - Nintendo Switch 2 Edition -Nintendo Direct 9.9.2026 https://www.reddit.com/r/Games/comments/1wbpll9/xenoblade_3_nintendo_switch_2_edition_nintendo/
 2026-09-09T17:11:12+00:00	Dragon Quest Heroes: Torneko‘s Mystery Dungeon -Classic HD- | Release Trailer https://www.reddit.com/r/Games/comments/1wbro4z/dragon_quest_heroes_tornekos_mystery_dungeon/
-2026-09-09T18:35:07+00:00	Stellar Blade - Nintendo Switch 2 announcement and new Bayonetta outfits https://www.reddit.com/r/Games/comments/1wbu232/stellar_blade_nintendo_switch_2_announcement_and/
 2026-09-09T20:18:35+00:00	Pikmin 4 – Nintendo Switch 2 Edition + Dandori Academy – Nintendo Direct 9.9.2026 https://www.reddit.com/r/Games/comments/1wbx18e/pikmin_4_nintendo_switch_2_edition_dandori/
 2026-09-09T21:30:43+00:00	PlayStation Plus Game Catalog for September: RuneScape: Dragonwilds, WWE 2K26, Ball x Pit, Date Everything! and more https://www.reddit.com/r/Games/comments/1wbz0ie/playstation_plus_game_catalog_for_september/
+2026-09-10T00:19:23+00:00	The proof-of-concept alpha for Project Dream (Rareware's SNES title that eventually became Banjo-Kazooie) has been uploaded to the Internet Archive https://www.reddit.com/r/Games/comments/1wc38gg/the_proofofconcept_alpha_for_project_dream/
+2026-09-10T02:24:22+00:00	Spy Drops Gaiden (Steam) https://www.reddit.com/r/Games/comments/1wc63oj/spy_drops_gaiden_steam/
+2026-09-10T02:32:56+00:00	XBOX and KOJIMA PRODUCTIONS Expand Partnership to Publish PHYSINT https://www.reddit.com/r/Games/comments/1wc6ak4/xbox_and_kojima_productions_expand_partnership_to/
+2026-09-10T03:30:12+00:00	Hideo Kojima Confirms That PlayStation Cancelled Physint, Causing Him To Seek Out A New Publisher https://www.reddit.com/r/Games/comments/1wc7itl/hideo_kojima_confirms_that_playstation_cancelled/
