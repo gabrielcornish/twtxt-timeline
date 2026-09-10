@@ -4,7 +4,6 @@
 # description = twtxt conversion of https://bearblog.dev/discover/feed/
 
 2026-09-07T07:04:00+00:00	I feel like retreating into art https://moodywarlock.net/i-feel-like-retreating-into-art/
-2026-09-07T12:30:25.624533+00:00	you must talk to strangers https://tuesdaynight.blog/you-must-talk-to-strangers/
 2026-09-07T18:25:45.459518+00:00	We know, and we know nothing will be done. https://itsme.bearblog.dev/we-know-and-we-know-nothing-will-be-done/
 2026-09-07T20:38:00+00:00	why do you care how other people write? https://pseudosingleton.com/why-do-you-care-how-other-people-write/
 2026-09-07T20:57:00+00:00	Web Impermanence https://ext.fyi/web-impermanence/
@@ -23,3 +22,4 @@
 2026-09-09T07:41:00+00:00	i like nintendo 3ds better than the switch https://skuka.online/i-like-nintendo-3ds-better-than-the-switch/
 2026-09-09T15:37:00+00:00	Define yourself or someone else will do it for you https://nate.spot/define-yourself/
 2026-09-09T19:24:00+00:00	Why I Care About How Other People Write https://trialandfailure.net/why-i-care-about-how-other-people-write/
+2026-09-09T20:39:00+00:00	Stray Dog Strut https://householderkarl.com/stray-dog-strut/
