@@ -3,10 +3,6 @@
 # source = https://www.gamesindustry.biz/feed
 # description = twtxt conversion of https://www.gamesindustry.biz/feed
 
-2026-09-01T12:42:51+00:00	UKIE launches Discord-backed Go To Market Academy, a business program to support early-stage indie devs https://www.gamesindustry.biz/ukie-launches-discord-backed-go-to-market-academy-a-business-program-to-support-early-stage-indie-devs
-2026-09-01T13:41:11+00:00	Jobs roundup: September 2026 | Asmodee appoints Brian Trunk as senior vice president, Route to Market for the Americas https://www.gamesindustry.biz/jobs-roundup-september-2026-asmodee-appoints-brian-trunk-as-senior-vice-president-route-to-market-for-the-americas
-2026-09-01T14:38:11+00:00	Brian Ward steps down as Savvy Games Group CEO https://www.gamesindustry.biz/brian-ward-steps-down-as-savvy-games-group-ceo
-2026-09-01T16:19:14+00:00	The Big Picture: What you need to know about the ongoing games industry reset https://www.gamesindustry.biz/the-big-picture-what-you-need-to-know-about-the-ongoing-games-industry-reset
 2026-09-02T07:00:00+00:00	IO Interactive CEO Hakan Abrak to discuss development of 007 First Light at Game Republic New Horizons 2026 https://www.gamesindustry.biz/io-interactive-ceo-hakan-abrak-to-discuss-development-of-007-first-light-at-game-republic-new-horizons-2026
 2026-09-02T07:51:21+00:00	GTA 6 extended look reaches 31.1m views on Netflix in four days, making it the most-viewed title last week https://www.gamesindustry.biz/gta-6-extended-look-reaches-311m-views-on-netflix-in-four-days-making-it-the-most-viewed-title-last-week
 2026-09-02T08:37:20+00:00	Supercell's acquisition of Metacore expected to close at the end of September 2026 https://www.gamesindustry.biz/supercells-acquisition-of-metacore-expected-to-close-at-the-end-of-september-2026
@@ -53,3 +49,7 @@
 2026-09-09T18:56:51+00:00	Lego Digital Play acquires mobile studio Offroad Games https://www.gamesindustry.biz/lego-digital-play-acquires-mobile-studio-offroad-games
 2026-09-09T20:14:39+00:00	Almost 1,900 Blizzard workers ratify first union contract with Microsoft https://www.gamesindustry.biz/almost-1900-blizzard-workers-ratify-first-union-contract-with-microsoft
 2026-09-10T07:34:19+00:00	Xbox to publish Kojima Productions' Physint after it "unexpectedly received notice" from PlayStation that it would cancel the project https://www.gamesindustry.biz/xbox-to-publish-kojima-productions-physint-after-it-unexpectedly-received-notice-from-playstation-that-it-would-cancel-the-project
+2026-09-10T12:22:19+00:00	Newzoo: Most established live-service and evergreen titles were flat or down year over year in H1 2026 https://www.gamesindustry.biz/newzoo-most-established-live-service-and-evergreen-titles-were-flat-or-down-year-over-year-in-h1-2026
+2026-09-10T13:11:44+00:00	Saber Interactive's chief creative officer says "We've never replaced anybody with AI" https://www.gamesindustry.biz/saber-interactives-chief-creative-officer-says-weve-never-replaced-anybody-with-ai
+2026-09-10T13:50:35+00:00	GTA 6 Netflix preview drove more than 100,000 sign-ups during its six-hour exclusivity window https://www.gamesindustry.biz/gta-6-netflix-preview-drove-more-than-100000-sign-ups-during-its-six-hour-exclusivity-window
+2026-09-10T16:15:33+00:00	No More Robots' nine-year journey to releasing its first self-developed IP – "This sounds so naive and stupid, but somehow it's working" https://www.gamesindustry.biz/no-more-robots-nine-year-journey-to-releasing-its-first-self-developed-ip-this-sounds-so-naive-and-stupid-but-somehow-its-working
