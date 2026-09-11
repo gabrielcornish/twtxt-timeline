@@ -4,20 +4,10 @@
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
 2026-09-09T11:00:31+00:00	Daily /r/Games Discussion - Suggest Me a Game - September 09, 2026 https://www.reddit.com/r/Games/comments/1wbicwf/daily_rgames_discussion_suggest_me_a_game/
-2026-09-10T02:32:56+00:00	XBOX and KOJIMA PRODUCTIONS Expand Partnership to Publish PHYSINT https://www.reddit.com/r/Games/comments/1wc6ak4/xbox_and_kojima_productions_expand_partnership_to/
-2026-09-10T03:30:12+00:00	Hideo Kojima Confirms That PlayStation Cancelled Physint, Causing Him To Seek Out A New Publisher https://www.reddit.com/r/Games/comments/1wc7itl/hideo_kojima_confirms_that_playstation_cancelled/
-2026-09-10T10:23:44+00:00	WARDOGS | Launch Trailer https://www.reddit.com/r/Games/comments/1wcf7nq/wardogs_launch_trailer/
 2026-09-10T10:37:52+00:00	Consumer rights wiki is compiling a list of the times Sony has made references to you owning your games (including digital games) - Features live links and snapshots https://www.reddit.com/r/Games/comments/1wcfh9x/consumer_rights_wiki_is_compiling_a_list_of_the/
-2026-09-10T12:37:22+00:00	Ubisoft Is Finally Making It Easier To Launch Its Games On Steam https://www.reddit.com/r/Games/comments/1wci00h/ubisoft_is_finally_making_it_easier_to_launch_its/
-2026-09-10T14:29:55+00:00	Adventure awaits! Nintendo of America announces Customer Appreciation Sale - 9/12 - 9/26 https://www.reddit.com/r/Games/comments/1wcku5u/adventure_awaits_nintendo_of_america_announces/
 2026-09-10T15:00:28+00:00	Marvel's Wolverine Review Thread https://www.reddit.com/r/Games/comments/1wclnrf/marvels_wolverine_review_thread/
-2026-09-10T15:45:05+00:00	Steam Client beta adds "Big Art Mode" and customizable screensavers to Big Picture Mode https://www.reddit.com/r/Games/comments/1wcmv98/steam_client_beta_adds_big_art_mode_and/
 2026-09-10T18:52:11+00:00	Wardogs Is Already a Huge Hit As It Sells a Million Copies and Blows Past 300k Concurrent Players on Launch Day https://www.reddit.com/r/Games/comments/1wcs5p2/wardogs_is_already_a_huge_hit_as_it_sells_a/
-2026-09-10T19:20:53+00:00	Saudis Weigh Merging EA With Savvy to Create Global Gaming Giant https://www.reddit.com/r/Games/comments/1wcszeq/saudis_weigh_merging_ea_with_savvy_to_create/
-2026-09-10T19:56:03+00:00	Dead or Alive 6 Last Round Project Manager Reveals Koei Tecmo is Dialing Back the Game's 'Sexy Costumes' https://www.reddit.com/r/Games/comments/1wctyhz/dead_or_alive_6_last_round_project_manager/
-2026-09-10T22:15:17+00:00	Steam Programming Fest https://www.reddit.com/r/Games/comments/1wcxn4i/steam_programming_fest/
 2026-09-11T00:31:18+00:00	Play your way with Control Resonant’s expanded Assist Mode https://www.reddit.com/r/Games/comments/1wd0w9k/play_your_way_with_control_resonants_expanded/
-2026-09-11T05:10:42+00:00	Under Mythos - Teaser Trailer https://www.reddit.com/r/Games/comments/1wd6sy7/under_mythos_teaser_trailer/
 2026-09-11T09:40:45+00:00	RV There yet - St Buttin Bay https://www.reddit.com/r/Games/comments/1wdbigp/rv_there_yet_st_buttin_bay/
 2026-09-11T09:40:47+00:00	Sea Sniffers - Reveal Trailer https://www.reddit.com/r/Games/comments/1wdbiht/sea_sniffers_reveal_trailer/
 2026-09-11T10:00:33+00:00	Daily /r/Games Discussion - Free Talk Friday - September 11, 2026 https://www.reddit.com/r/Games/comments/1wdbuws/daily_rgames_discussion_free_talk_friday/
@@ -28,3 +18,13 @@
 2026-09-11T14:31:03+00:00	PC ports of old console games are the new AI vibe coding battleground https://www.reddit.com/r/Games/comments/1wdhxws/pc_ports_of_old_console_games_are_the_new_ai_vibe/
 2026-09-11T16:20:44+00:00	Sacked Grand Theft Auto worker claims Rockstar staff placed on 'watch list' https://www.reddit.com/r/Games/comments/1wdkw89/sacked_grand_theft_auto_worker_claims_rockstar/
 2026-09-11T16:24:12+00:00	Ex Sanguis - Official Early Access Launch Trailer https://www.reddit.com/r/Games/comments/1wdkzop/ex_sanguis_official_early_access_launch_trailer/
+2026-09-11T16:33:57+00:00	CONTROL Resonant - Previously on CONTROL https://www.reddit.com/r/Games/comments/1wdl9e3/control_resonant_previously_on_control/
+2026-09-11T16:35:27+00:00	Thief: The Dark Project Remastered The Tarnished Mirror Teaser https://www.reddit.com/r/Games/comments/1wdlavg/thief_the_dark_project_remastered_the_tarnished/
+2026-09-11T16:55:57+00:00	Senior Producer of DCS World, Matt ‘Wags’ Wagner passes away after battle with cancer https://www.reddit.com/r/Games/comments/1wdlva8/senior_producer_of_dcs_world_matt_wags_wagner/
+2026-09-11T16:59:37+00:00	Terminal Reign - Announcement Trailer https://www.reddit.com/r/Games/comments/1wdlyz6/terminal_reign_announcement_trailer/
+2026-09-11T17:02:46+00:00	AMA: Creator of Thousand Hells: The Underworld Heists (and King of Dragon Pass) https://www.reddit.com/r/Games/comments/1wdm2gz/ama_creator_of_thousand_hells_the_underworld/
+2026-09-11T17:12:20+00:00	More than 40% of people cancelling Xbox Game Pass, PlayStation Plus and Nintendo Switch Online US subscriptions blamed rising costs, "but liked the service" https://www.reddit.com/r/Games/comments/1wdmc59/more_than_40_of_people_cancelling_xbox_game_pass/
+2026-09-11T17:35:57+00:00	Welcome to Elderfield - Out Now! https://www.reddit.com/r/Games/comments/1wdmzh7/welcome_to_elderfield_out_now/
+2026-09-11T17:50:53+00:00	Dicevaders - Official Release Date Trailer https://www.reddit.com/r/Games/comments/1wdnee0/dicevaders_official_release_date_trailer/
+2026-09-11T18:25:25+00:00	PlayStation’s Future Has Never Looked Bleaker https://www.reddit.com/r/Games/comments/1wdod6b/playstations_future_has_never_looked_bleaker/
+2026-09-11T18:53:07+00:00	'We're all keen to keep evolving' — Creative Assembly says Total War: Warhammer 40,000's controller support was developed alongside the game's battle system and doesn't believe the 'myth' that a gamepad can't work with RTS games https://www.reddit.com/r/Games/comments/1wdp68i/were_all_keen_to_keep_evolving_creative_assembly/

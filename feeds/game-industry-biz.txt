@@ -3,7 +3,6 @@
 # source = https://www.gamesindustry.biz/feed
 # description = twtxt conversion of https://www.gamesindustry.biz/feed
 
-2026-09-02T16:02:35+00:00	Square Enix denies going private after report sends stock surging https://www.gamesindustry.biz/square-enix-denies-going-private-after-report-sends-stock-surging
 2026-09-02T19:14:24+00:00	Nexus Mods acquires SteamDB https://www.gamesindustry.biz/nexus-mods-acquires-steamdb
 2026-09-02T19:44:30+00:00	CD Projekt Red sees profit climb 37% in H1 2026 https://www.gamesindustry.biz/cd-projekt-red-sees-profit-climb-37-in-h1-2026
 2026-09-03T07:29:48+00:00	"This is the worst crash we've seen since the 1980s," says Tim Sweeney https://www.gamesindustry.biz/this-is-the-worst-crash-weve-seen-since-the-1980s-says-tim-sweeney
@@ -53,3 +52,4 @@
 2026-09-11T13:19:37+00:00	Marvel's Wolverine | Critical consensus https://www.gamesindustry.biz/marvels-wolverine-critical-consensus
 2026-09-11T13:46:06+00:00	European studio expenditure on external talent rises 63% in 2025 https://www.gamesindustry.biz/european-studio-expenditure-on-external-talent-rises-63-in-2025
 2026-09-11T15:59:00+00:00	State of the Unions: the rise of unionisation in games workplaces https://www.gamesindustry.biz/state-of-the-unions-the-rise-of-unionisation-in-games-workplaces
+2026-09-11T16:28:42+00:00	Goodwill Hunting: Consoles’ brand value and loyalty is being tested | Opinion https://www.gamesindustry.biz/goodwill-hunting-consoles-brand-value-and-loyalty-is-being-tested-opinion
