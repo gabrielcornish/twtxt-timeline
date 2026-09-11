@@ -3,10 +3,6 @@
 # source = https://www.gamesindustry.biz/feed
 # description = twtxt conversion of https://www.gamesindustry.biz/feed
 
-2026-09-02T08:37:20+00:00	Supercell's acquisition of Metacore expected to close at the end of September 2026 https://www.gamesindustry.biz/supercells-acquisition-of-metacore-expected-to-close-at-the-end-of-september-2026
-2026-09-02T09:55:59+00:00	Over 700 games launched on Steam in one week for the first time, though 74% had fewer than 10 reviews https://www.gamesindustry.biz/over-700-games-launched-on-steam-in-one-week-for-the-first-time-though-74-had-fewer-than-10-reviews
-2026-09-02T10:44:18+00:00	Moon Studios delays No Rest for the Wicked to March 2027 – "We're holding our games to a standard we won't compromise on" https://www.gamesindustry.biz/moon-studios-delays-no-rest-for-the-wicked-to-march-2027-were-holding-our-games-to-a-standard-we-wont-compromise-on
-2026-09-02T13:00:00+00:00	"Sometimes you need fresh perspectives" – How external development helped Tomb Raider: Legacy of Atlantis https://www.gamesindustry.biz/sometimes-you-need-fresh-perspectives-how-external-development-helped-tomb-raider-legacy-of-atlantis
 2026-09-02T16:02:35+00:00	Square Enix denies going private after report sends stock surging https://www.gamesindustry.biz/square-enix-denies-going-private-after-report-sends-stock-surging
 2026-09-02T19:14:24+00:00	Nexus Mods acquires SteamDB https://www.gamesindustry.biz/nexus-mods-acquires-steamdb
 2026-09-02T19:44:30+00:00	CD Projekt Red sees profit climb 37% in H1 2026 https://www.gamesindustry.biz/cd-projekt-red-sees-profit-climb-37-in-h1-2026
@@ -53,3 +49,7 @@
 2026-09-10T16:15:33+00:00	No More Robots' nine-year journey to releasing its first self-developed IP – "This sounds so naive and stupid, but somehow it's working" https://www.gamesindustry.biz/no-more-robots-nine-year-journey-to-releasing-its-first-self-developed-ip-this-sounds-so-naive-and-stupid-but-somehow-its-working
 2026-09-11T08:27:29+00:00	Saber Interactive has "no real development in North America any more" https://www.gamesindustry.biz/saber-interactive-has-no-real-development-in-north-america-any-more
 2026-09-11T08:29:50+00:00	Saudi Arabia's PIF reportedly considering to combine EA with Savvy Games Group https://www.gamesindustry.biz/saudi-arabias-pif-reportedly-considering-to-combine-ea-with-savvy-games-group
+2026-09-11T12:40:00+00:00	Saber Interactive's Tim Willits on generative AI, moving development out of North America, and embracing recognisable IP https://www.gamesindustry.biz/saber-interactives-tim-willits-on-generative-ai-moving-development-out-of-north-america-and-embracing-recognisable-ip
+2026-09-11T13:19:37+00:00	Marvel's Wolverine | Critical consensus https://www.gamesindustry.biz/marvels-wolverine-critical-consensus
+2026-09-11T13:46:06+00:00	European studio expenditure on external talent rises 63% in 2025 https://www.gamesindustry.biz/european-studio-expenditure-on-external-talent-rises-63-in-2025
+2026-09-11T15:59:00+00:00	State of the Unions: the rise of unionisation in games workplaces https://www.gamesindustry.biz/state-of-the-unions-the-rise-of-unionisation-in-games-workplaces
