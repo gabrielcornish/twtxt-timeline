@@ -3,9 +3,7 @@
 # source = https://bearblog.dev/discover/feed/
 # description = twtxt conversion of https://bearblog.dev/discover/feed/
 
-2026-09-08T17:06:00+00:00	are disabilities and chronic illnesses 'cool' now? https://blog.avas.space/cool-disability/
 2026-09-08T23:01:00+00:00	Read independent fiction! Web novels, webcomics, fanfiction, short stories! There's so much out there. https://eveningnotes.bearblog.dev/read-independent-serialized-fiction-and-short-fiction-web-novels-webcomics-fanfiction-short-story-magazines/
-2026-09-09T18:39:00+00:00	People's Old Saves Kinda Make Me Sad https://blog.absurdpirate.com/peoples-old-saves-kinda-make-me-sad/
 2026-09-09T20:15:00+00:00	Ok, so that Apple Event, ya, I'm Good https://yaimgood.bearblog.dev/ok-so-that-apple-event-ya-im-good/
 2026-09-09T21:08:00+00:00	Bodybuilding is Stupid https://shitmypants.bearblog.dev/bodybuilding-is-stupid/
 2026-09-09T23:03:00+00:00	✨Jobless Behavior✨ (sparkling edition) https://tism.help/jobless-behavior-sparkling-edition/
@@ -22,4 +20,6 @@
 2026-09-10T23:08:00+00:00	Given that the Purpose of a System is What it Does, What is the Purpose of AI? https://blog.joshgrey.uk/given-that-the-purpose-of-a-system-is-what-it-does-what-is-the-purpose-of-ai/
 2026-09-11T03:27:00+00:00	september 10 1ak https://combatdavey.net/september-10-2026/
 2026-09-11T14:28:00+00:00	The Whole Blood-Curse-Ghost Thing https://householderkarl.com/blood-curse-ghost-thing/
+2026-09-11T16:18:00+00:00	Hey You, Pikachu https://blog.lauramichet.com/hey-you-pikachu/
 2026-09-11T19:07:00+00:00	september 11 gah https://combatdavey.net/september-11-2026/
+2026-09-11T20:19:00+00:00	Finishing Projects https://tbr.bearblog.dev/finishing-projects/
