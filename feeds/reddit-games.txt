@@ -4,27 +4,27 @@
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
 2026-09-09T11:00:31+00:00	Daily /r/Games Discussion - Suggest Me a Game - September 09, 2026 https://www.reddit.com/r/Games/comments/1wbicwf/daily_rgames_discussion_suggest_me_a_game/
-2026-09-11T13:35:57+00:00	Bloomberg: PlayStation Ditched Hideo Kojima’s ‘Physint’ on Budget Concerns, Missed Deadlines https://www.reddit.com/r/Games/comments/1wdgijy/bloomberg_playstation_ditched_hideo_kojimas/
-2026-09-11T13:58:57+00:00	AI voice service ordered to pay miHoYo $112K after reproducing the voices of 63 Genshin Impact characters without permission https://www.reddit.com/r/Games/comments/1wdh3eg/ai_voice_service_ordered_to_pay_mihoyo_112k_after/
 2026-09-11T17:12:20+00:00	More than 40% of people cancelling Xbox Game Pass, PlayStation Plus and Nintendo Switch Online US subscriptions blamed rising costs, "but liked the service" https://www.reddit.com/r/Games/comments/1wdmc59/more_than_40_of_people_cancelling_xbox_game_pass/
 2026-09-11T18:25:25+00:00	PlayStation’s Future Has Never Looked Bleaker https://www.reddit.com/r/Games/comments/1wdod6b/playstations_future_has_never_looked_bleaker/
-2026-09-11T20:20:27+00:00	Moss Developer Polyarc Closes https://www.reddit.com/r/Games/comments/1wdrkf0/moss_developer_polyarc_closes/
 2026-09-11T21:54:57+00:00	Rockstar had a mole in the union worker Discord server "for over two and a half years", GTA 6 company reveals during legal battle https://www.reddit.com/r/Games/comments/1wdu1fj/rockstar_had_a_mole_in_the_union_worker_discord/
-2026-09-12T02:55:05+00:00	Shroom and Gloom | Out Now in Early Access https://www.reddit.com/r/Games/comments/1we0qdp/shroom_and_gloom_out_now_in_early_access/
-2026-09-12T03:05:55+00:00	「MELTY BLOOD: TWI-LUMINA」Release Date Trailer https://www.reddit.com/r/Games/comments/1we0ylg/melty_blood_twiluminarelease_date_trailer/
 2026-09-12T04:15:29+00:00	Saber Interactive has "no real development in North America any more" https://www.reddit.com/r/Games/comments/1we2d5x/saber_interactive_has_no_real_development_in/
 2026-09-12T09:37:55+00:00	AMA: Developer of DIG Raiders: Anomaly Extraction https://www.reddit.com/r/Games/comments/1we85mm/ama_developer_of_dig_raiders_anomaly_extraction/
 2026-09-12T12:56:25+00:00	Wolverine Developer Insomniac Says Logan's Scent Trail Isn't Always on Amid 'Fart Gas' Toggle Requests https://www.reddit.com/r/Games/comments/1webxze/wolverine_developer_insomniac_says_logans_scent/
 2026-09-12T13:40:22+00:00	Flight Sim Pioneer Matt Wagner Has Passed Away | "Wagner left the CIA to build what would become one of the most celebrated legacies in the flight simulator industry." https://www.reddit.com/r/Games/comments/1wecxzg/flight_sim_pioneer_matt_wagner_has_passed_away/
 2026-09-12T13:42:49+00:00	What games are stellar examples of respecting player's intelligence? https://www.reddit.com/r/Games/comments/1wed01f/what_games_are_stellar_examples_of_respecting/
+2026-09-12T14:34:01+00:00	Marsupilami 2: Salsa Palombia - Review Thread https://www.reddit.com/r/Games/comments/1wee7sm/marsupilami_2_salsa_palombia_review_thread/
 2026-09-12T17:22:51+00:00	BlizzCon 2026 | Day 1 Main Stage https://www.reddit.com/r/Games/comments/1weigsk/blizzcon_2026_day_1_main_stage/
 2026-09-12T17:41:09+00:00	Xal'Atath Reveal Trailer | Heroes of the Storm https://www.reddit.com/r/Games/comments/1weiyh3/xalatath_reveal_trailer_heroes_of_the_storm/
 2026-09-12T17:41:26+00:00	Tomb Raider: Legacy of Atlantis creative director confirms the game has difficulty levels for combat, puzzles, and traversal that can be individually tweaked — 'We have prepared it in a way that I'm pretty sure everyone can set it to their own pleasure https://www.reddit.com/r/Games/comments/1weiyr8/tomb_raider_legacy_of_atlantis_creative_director/
 2026-09-12T17:51:01+00:00	STARCRAFT | Announce Cinematic | Dominion https://www.reddit.com/r/Games/comments/1wej7ja/starcraft_announce_cinematic_dominion/
 2026-09-12T17:54:28+00:00	Lucasfilm Games 2026 Sizzle https://www.reddit.com/r/Games/comments/1wejapr/lucasfilm_games_2026_sizzle/
-2026-09-12T18:12:08+00:00	New Overwatch Hero https://www.reddit.com/r/Games/comments/1wejrax/new_overwatch_hero/
 2026-09-12T18:20:18+00:00	Diablo V Teaser | The Return https://www.reddit.com/r/Games/comments/1wejz67/diablo_v_teaser_the_return/
 2026-09-12T18:43:25+00:00	Bunker's Edge - Amnesia: The Bunker Mod https://www.reddit.com/r/Games/comments/1wekl05/bunkers_edge_amnesia_the_bunker_mod/
 2026-09-12T18:46:11+00:00	Warcraft III Reforged: Forsaken Kingdom | Launch Trailer https://www.reddit.com/r/Games/comments/1weknr1/warcraft_iii_reforged_forsaken_kingdom_launch/
 2026-09-12T18:55:05+00:00	World of Warcraft: Forever | New Horizons | Cinematic Trailer https://www.reddit.com/r/Games/comments/1wekw39/world_of_warcraft_forever_new_horizons_cinematic/
 2026-09-12T18:59:03+00:00	World of Warcraft: Forever | Gameplay Trailer https://www.reddit.com/r/Games/comments/1wekzsh/world_of_warcraft_forever_gameplay_trailer/
+2026-09-12T19:30:11+00:00	Monk Cinematic Trailer | Hearthstone https://www.reddit.com/r/Games/comments/1weltw4/monk_cinematic_trailer_hearthstone/
+2026-09-12T19:31:11+00:00	Reign of the Black Empire Cinematic Trailer | Hearthstone https://www.reddit.com/r/Games/comments/1weluu5/reign_of_the_black_empire_cinematic_trailer/
+2026-09-12T19:44:06+00:00	FATAL FURY: COTW | KIM KAPHWAN https://www.reddit.com/r/Games/comments/1wem6s2/fatal_fury_cotw_kim_kaphwan/
+2026-09-12T20:00:19+00:00	Overwatch - Doctrine Hero Trailer https://www.reddit.com/r/Games/comments/1wemlo3/overwatch_doctrine_hero_trailer/
+2026-09-12T21:30:28+00:00	Gears of War: E-Day | Adagio Launch Trailer https://www.reddit.com/r/Games/comments/1weovd3/gears_of_war_eday_adagio_launch_trailer/
