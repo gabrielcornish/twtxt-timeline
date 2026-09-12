@@ -4,15 +4,12 @@
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
 2026-09-09T11:00:31+00:00	Daily /r/Games Discussion - Suggest Me a Game - September 09, 2026 https://www.reddit.com/r/Games/comments/1wbicwf/daily_rgames_discussion_suggest_me_a_game/
-2026-09-11T09:40:47+00:00	Sea Sniffers - Reveal Trailer https://www.reddit.com/r/Games/comments/1wdbiht/sea_sniffers_reveal_trailer/
-2026-09-11T10:00:33+00:00	Daily /r/Games Discussion - Free Talk Friday - September 11, 2026 https://www.reddit.com/r/Games/comments/1wdbuws/daily_rgames_discussion_free_talk_friday/
 2026-09-11T11:47:25+00:00	Magical Girl Witch Trials’ English, Spanish and French translations complete, developers ask for more patience as small team handles final work - AUTOMATON WEST https://www.reddit.com/r/Games/comments/1wddyw7/magical_girl_witch_trials_english_spanish_and/
 2026-09-11T13:35:57+00:00	Bloomberg: PlayStation Ditched Hideo Kojima’s ‘Physint’ on Budget Concerns, Missed Deadlines https://www.reddit.com/r/Games/comments/1wdgijy/bloomberg_playstation_ditched_hideo_kojimas/
 2026-09-11T13:47:37+00:00	Dungeon Automata「Algolemeth」| Partner World Reveal trailer https://www.reddit.com/r/Games/comments/1wdgt6c/dungeon_automataalgolemeth_partner_world_reveal/
 2026-09-11T13:58:57+00:00	AI voice service ordered to pay miHoYo $112K after reproducing the voices of 63 Genshin Impact characters without permission https://www.reddit.com/r/Games/comments/1wdh3eg/ai_voice_service_ordered_to_pay_mihoyo_112k_after/
 2026-09-11T14:31:03+00:00	PC ports of old console games are the new AI vibe coding battleground https://www.reddit.com/r/Games/comments/1wdhxws/pc_ports_of_old_console_games_are_the_new_ai_vibe/
 2026-09-11T16:20:44+00:00	Sacked Grand Theft Auto worker claims Rockstar staff placed on 'watch list' https://www.reddit.com/r/Games/comments/1wdkw89/sacked_grand_theft_auto_worker_claims_rockstar/
-2026-09-11T16:24:12+00:00	Ex Sanguis - Official Early Access Launch Trailer https://www.reddit.com/r/Games/comments/1wdkzop/ex_sanguis_official_early_access_launch_trailer/
 2026-09-11T16:33:57+00:00	CONTROL Resonant - Previously on CONTROL https://www.reddit.com/r/Games/comments/1wdl9e3/control_resonant_previously_on_control/
 2026-09-11T16:35:27+00:00	Thief: The Dark Project Remastered The Tarnished Mirror Teaser https://www.reddit.com/r/Games/comments/1wdlavg/thief_the_dark_project_remastered_the_tarnished/
 2026-09-11T16:55:57+00:00	Senior Producer of DCS World, Matt ‘Wags’ Wagner passes away after battle with cancer https://www.reddit.com/r/Games/comments/1wdlva8/senior_producer_of_dcs_world_matt_wags_wagner/
@@ -27,4 +24,7 @@
 2026-09-12T02:55:05+00:00	Shroom and Gloom | Out Now in Early Access https://www.reddit.com/r/Games/comments/1we0qdp/shroom_and_gloom_out_now_in_early_access/
 2026-09-12T03:05:55+00:00	「MELTY BLOOD: TWI-LUMINA」Release Date Trailer https://www.reddit.com/r/Games/comments/1we0ylg/melty_blood_twiluminarelease_date_trailer/
 2026-09-12T04:15:29+00:00	Saber Interactive has "no real development in North America any more" https://www.reddit.com/r/Games/comments/1we2d5x/saber_interactive_has_no_real_development_in/
-2026-09-12T09:58:11+00:00	Miami Beach: Advertising deal for GTA 6 approved despite protests https://www.reddit.com/r/Games/comments/1we8hf2/miami_beach_advertising_deal_for_gta_6_approved/
+2026-09-12T09:37:55+00:00	AMA: Developer of DIG Raiders: Anomaly Extraction https://www.reddit.com/r/Games/comments/1we85mm/ama_developer_of_dig_raiders_anomaly_extraction/
+2026-09-12T12:56:25+00:00	Wolverine Developer Insomniac Says Logan's Scent Trail Isn't Always on Amid 'Fart Gas' Toggle Requests https://www.reddit.com/r/Games/comments/1webxze/wolverine_developer_insomniac_says_logans_scent/
+2026-09-12T13:40:22+00:00	Flight Sim Pioneer Matt Wagner Has Passed Away | "Wagner left the CIA to build what would become one of the most celebrated legacies in the flight simulator industry." https://www.reddit.com/r/Games/comments/1wecxzg/flight_sim_pioneer_matt_wagner_has_passed_away/
+2026-09-12T13:42:49+00:00	What games are stellar examples of respecting player's intelligence? https://www.reddit.com/r/Games/comments/1wed01f/what_games_are_stellar_examples_of_respecting/
