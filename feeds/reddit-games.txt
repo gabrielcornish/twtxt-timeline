@@ -4,7 +4,6 @@
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
 2026-09-09T11:00:31+00:00	Daily /r/Games Discussion - Suggest Me a Game - September 09, 2026 https://www.reddit.com/r/Games/comments/1wbicwf/daily_rgames_discussion_suggest_me_a_game/
-2026-09-10T18:52:11+00:00	Wardogs Is Already a Huge Hit As It Sells a Million Copies and Blows Past 300k Concurrent Players on Launch Day https://www.reddit.com/r/Games/comments/1wcs5p2/wardogs_is_already_a_huge_hit_as_it_sells_a/
 2026-09-11T09:40:47+00:00	Sea Sniffers - Reveal Trailer https://www.reddit.com/r/Games/comments/1wdbiht/sea_sniffers_reveal_trailer/
 2026-09-11T10:00:33+00:00	Daily /r/Games Discussion - Free Talk Friday - September 11, 2026 https://www.reddit.com/r/Games/comments/1wdbuws/daily_rgames_discussion_free_talk_friday/
 2026-09-11T11:47:25+00:00	Magical Girl Witch Trials’ English, Spanish and French translations complete, developers ask for more patience as small team handles final work - AUTOMATON WEST https://www.reddit.com/r/Games/comments/1wddyw7/magical_girl_witch_trials_english_spanish_and/
@@ -28,3 +27,4 @@
 2026-09-12T02:55:05+00:00	Shroom and Gloom | Out Now in Early Access https://www.reddit.com/r/Games/comments/1we0qdp/shroom_and_gloom_out_now_in_early_access/
 2026-09-12T03:05:55+00:00	「MELTY BLOOD: TWI-LUMINA」Release Date Trailer https://www.reddit.com/r/Games/comments/1we0ylg/melty_blood_twiluminarelease_date_trailer/
 2026-09-12T04:15:29+00:00	Saber Interactive has "no real development in North America any more" https://www.reddit.com/r/Games/comments/1we2d5x/saber_interactive_has_no_real_development_in/
+2026-09-12T09:58:11+00:00	Miami Beach: Advertising deal for GTA 6 approved despite protests https://www.reddit.com/r/Games/comments/1we8hf2/miami_beach_advertising_deal_for_gta_6_approved/
