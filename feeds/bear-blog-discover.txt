@@ -3,7 +3,6 @@
 # source = https://bearblog.dev/discover/feed/
 # description = twtxt conversion of https://bearblog.dev/discover/feed/
 
-2026-09-09T20:15:00+00:00	Ok, so that Apple Event, ya, I'm Good https://yaimgood.bearblog.dev/ok-so-that-apple-event-ya-im-good/
 2026-09-10T07:12:00+00:00	Piracy as a Service https://slowburn.bearblog.dev/piracy-as-a-service/
 2026-09-10T07:39:03.728887+00:00	stop feeding others' photos to AI without their consent https://midnight.bearblog.dev/stop-feeding-others-photos-to-ai-without-their-consent/
 2026-09-10T08:51:00+00:00	Journal 5- iPhone 18 & Reddit https://innerhealing.blog/journal-5-iphone-18-reddit/
@@ -18,8 +17,9 @@
 2026-09-11T03:27:00+00:00	september 10 1ak https://combatdavey.net/september-10-2026/
 2026-09-11T16:18:00+00:00	Hey You, Pikachu https://blog.lauramichet.com/hey-you-pikachu/
 2026-09-11T19:07:00+00:00	september 11 gah https://combatdavey.net/september-11-2026/
-2026-09-11T20:19:00+00:00	Finishing Projects https://tbr.bearblog.dev/finishing-projects/
 2026-09-11T22:29:00+00:00	Mastodon users hate everyone and everything, ya, I'm Good https://yaimgood.bearblog.dev/mastodon-users-hate-everyone-and-everything-ya-im-good/
 2026-09-12T00:45:23.780463+00:00	Gaming as Meditation https://blog.absurdpirate.com/gaming-as-meditation/
+2026-09-12T03:21:35.181963+00:00	A nice rainbow https://toska.bearblog.dev/a-nice-rainbow/
 2026-09-12T04:11:00+00:00	Stretching definitions https://haraiva.bearblog.dev/stretching-definitions/
 2026-09-12T06:22:00+00:00	goodbye https://realinternetuser.bearblog.dev/goodbye/
+2026-09-12T15:13:00+00:00	tonight i said goodbye to my cat https://woolgathering.bearblog.dev/tonight-i-said-goodbye-to-my-cat/
