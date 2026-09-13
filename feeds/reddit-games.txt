@@ -6,7 +6,6 @@
 2026-09-09T11:00:31+00:00	Daily /r/Games Discussion - Suggest Me a Game - September 09, 2026 https://www.reddit.com/r/Games/comments/1wbicwf/daily_rgames_discussion_suggest_me_a_game/
 2026-09-11T18:25:25+00:00	PlayStation’s Future Has Never Looked Bleaker https://www.reddit.com/r/Games/comments/1wdod6b/playstations_future_has_never_looked_bleaker/
 2026-09-11T21:54:57+00:00	Rockstar had a mole in the union worker Discord server "for over two and a half years", GTA 6 company reveals during legal battle https://www.reddit.com/r/Games/comments/1wdu1fj/rockstar_had_a_mole_in_the_union_worker_discord/
-2026-09-12T09:37:55+00:00	AMA: Developer of DIG Raiders: Anomaly Extraction https://www.reddit.com/r/Games/comments/1we85mm/ama_developer_of_dig_raiders_anomaly_extraction/
 2026-09-12T12:56:25+00:00	Wolverine Developer Insomniac Says Logan's Scent Trail Isn't Always on Amid 'Fart Gas' Toggle Requests https://www.reddit.com/r/Games/comments/1webxze/wolverine_developer_insomniac_says_logans_scent/
 2026-09-12T13:40:22+00:00	Flight Sim Pioneer Matt Wagner Has Passed Away | "Wagner left the CIA to build what would become one of the most celebrated legacies in the flight simulator industry." https://www.reddit.com/r/Games/comments/1wecxzg/flight_sim_pioneer_matt_wagner_has_passed_away/
 2026-09-12T13:42:49+00:00	What games are stellar examples of respecting player's intelligence? https://www.reddit.com/r/Games/comments/1wed01f/what_games_are_stellar_examples_of_respecting/
@@ -14,7 +13,6 @@
 2026-09-12T17:41:09+00:00	Xal'Atath Reveal Trailer | Heroes of the Storm https://www.reddit.com/r/Games/comments/1weiyh3/xalatath_reveal_trailer_heroes_of_the_storm/
 2026-09-12T17:41:26+00:00	Tomb Raider: Legacy of Atlantis creative director confirms the game has difficulty levels for combat, puzzles, and traversal that can be individually tweaked — 'We have prepared it in a way that I'm pretty sure everyone can set it to their own pleasure https://www.reddit.com/r/Games/comments/1weiyr8/tomb_raider_legacy_of_atlantis_creative_director/
 2026-09-12T17:51:01+00:00	STARCRAFT | Announce Cinematic | Dominion https://www.reddit.com/r/Games/comments/1wej7ja/starcraft_announce_cinematic_dominion/
-2026-09-12T17:54:28+00:00	Lucasfilm Games 2026 Sizzle https://www.reddit.com/r/Games/comments/1wejapr/lucasfilm_games_2026_sizzle/
 2026-09-12T18:20:18+00:00	Diablo V Teaser | The Return https://www.reddit.com/r/Games/comments/1wejz67/diablo_v_teaser_the_return/
 2026-09-12T18:43:25+00:00	Bunker's Edge - Amnesia: The Bunker Mod https://www.reddit.com/r/Games/comments/1wekl05/bunkers_edge_amnesia_the_bunker_mod/
 2026-09-12T18:46:11+00:00	Warcraft III Reforged: Forsaken Kingdom | Launch Trailer https://www.reddit.com/r/Games/comments/1weknr1/warcraft_iii_reforged_forsaken_kingdom_launch/
@@ -22,9 +20,11 @@
 2026-09-12T18:59:03+00:00	World of Warcraft: Forever | Gameplay Trailer https://www.reddit.com/r/Games/comments/1wekzsh/world_of_warcraft_forever_gameplay_trailer/
 2026-09-12T19:30:11+00:00	Monk Cinematic Trailer | Hearthstone https://www.reddit.com/r/Games/comments/1weltw4/monk_cinematic_trailer_hearthstone/
 2026-09-12T19:31:11+00:00	Reign of the Black Empire Cinematic Trailer | Hearthstone https://www.reddit.com/r/Games/comments/1weluu5/reign_of_the_black_empire_cinematic_trailer/
-2026-09-12T19:44:06+00:00	FATAL FURY: COTW | KIM KAPHWAN https://www.reddit.com/r/Games/comments/1wem6s2/fatal_fury_cotw_kim_kaphwan/
 2026-09-12T20:00:19+00:00	Overwatch - Doctrine Hero Trailer https://www.reddit.com/r/Games/comments/1wemlo3/overwatch_doctrine_hero_trailer/
 2026-09-12T21:30:28+00:00	Gears of War: E-Day | Adagio Launch Trailer https://www.reddit.com/r/Games/comments/1weovd3/gears_of_war_eday_adagio_launch_trailer/
 2026-09-12T22:17:29+00:00	GOG patches Nox to run on modern systems, restores online functionality https://www.reddit.com/r/Games/comments/1wepzmo/gog_patches_nox_to_run_on_modern_systems_restores/
 2026-09-12T22:43:38+00:00	Under the radar Steam games : Sept 05th to Sept 12th 2026 https://www.reddit.com/r/Games/comments/1weql66/under_the_radar_steam_games_sept_05th_to_sept/
 2026-09-12T22:54:30+00:00	Worlds Upon The Wind (a peaceful roguelike deckbuilder): Public Domain Open Source Release https://www.reddit.com/r/Games/comments/1wequ3p/worlds_upon_the_wind_a_peaceful_roguelike/
+2026-09-12T23:56:11+00:00	The Wandering Earth: The Last Full Moon - Announce Trailer https://www.reddit.com/r/Games/comments/1wes736/the_wandering_earth_the_last_full_moon_announce/
+2026-09-13T04:00:43+00:00	Indie Sunday Hub - September 13, 2026 https://www.reddit.com/r/Games/comments/1wex8gd/indie_sunday_hub_september_13_2026/
+2026-09-13T04:04:06+00:00	Diablo V: Forging the Next Era — Diablo IV https://www.reddit.com/r/Games/comments/1wexb3o/diablo_v_forging_the_next_era_diablo_iv/
