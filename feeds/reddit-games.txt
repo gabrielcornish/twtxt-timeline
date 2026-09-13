@@ -4,9 +4,7 @@
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
 2026-09-12T12:56:25+00:00	Wolverine Developer Insomniac Says Logan's Scent Trail Isn't Always on Amid 'Fart Gas' Toggle Requests https://www.reddit.com/r/Games/comments/1webxze/wolverine_developer_insomniac_says_logans_scent/
-2026-09-12T13:40:22+00:00	Flight Sim Pioneer Matt Wagner Has Passed Away | "Wagner left the CIA to build what would become one of the most celebrated legacies in the flight simulator industry." https://www.reddit.com/r/Games/comments/1wecxzg/flight_sim_pioneer_matt_wagner_has_passed_away/
 2026-09-12T13:42:49+00:00	What games are stellar examples of respecting player's intelligence? https://www.reddit.com/r/Games/comments/1wed01f/what_games_are_stellar_examples_of_respecting/
-2026-09-12T17:22:51+00:00	BlizzCon 2026 | Day 1 Main Stage https://www.reddit.com/r/Games/comments/1weigsk/blizzcon_2026_day_1_main_stage/
 2026-09-12T17:41:09+00:00	Xal'Atath Reveal Trailer | Heroes of the Storm https://www.reddit.com/r/Games/comments/1weiyh3/xalatath_reveal_trailer_heroes_of_the_storm/
 2026-09-12T17:41:26+00:00	Tomb Raider: Legacy of Atlantis creative director confirms the game has difficulty levels for combat, puzzles, and traversal that can be individually tweaked — 'We have prepared it in a way that I'm pretty sure everyone can set it to their own pleasure https://www.reddit.com/r/Games/comments/1weiyr8/tomb_raider_legacy_of_atlantis_creative_director/
 2026-09-12T17:51:01+00:00	STARCRAFT | Announce Cinematic | Dominion https://www.reddit.com/r/Games/comments/1wej7ja/starcraft_announce_cinematic_dominion/
@@ -19,7 +17,6 @@
 2026-09-12T21:30:28+00:00	Gears of War: E-Day | Adagio Launch Trailer https://www.reddit.com/r/Games/comments/1weovd3/gears_of_war_eday_adagio_launch_trailer/
 2026-09-12T22:17:29+00:00	GOG patches Nox to run on modern systems, restores online functionality https://www.reddit.com/r/Games/comments/1wepzmo/gog_patches_nox_to_run_on_modern_systems_restores/
 2026-09-12T22:43:38+00:00	Under the radar Steam games : Sept 05th to Sept 12th 2026 https://www.reddit.com/r/Games/comments/1weql66/under_the_radar_steam_games_sept_05th_to_sept/
-2026-09-12T23:56:11+00:00	The Wandering Earth: The Last Full Moon - Announce Trailer https://www.reddit.com/r/Games/comments/1wes736/the_wandering_earth_the_last_full_moon_announce/
 2026-09-13T04:04:06+00:00	Diablo V: Forging the Next Era — Diablo IV https://www.reddit.com/r/Games/comments/1wexb3o/diablo_v_forging_the_next_era_diablo_iv/
 2026-09-13T09:00:36+00:00	Weekly /r/Games Discussion - What have you been playing, and what are your thoughts? - September 13, 2026 https://www.reddit.com/r/Games/comments/1wf2kc8/weekly_rgames_discussion_what_have_you_been/
 2026-09-13T11:53:04+00:00	Effulgence RPG - Andrei Fomin - ASCII 3D RPG 1.0 is out now. After more than two years of solo development, the full game is finally here. I created its ASCII visuals by hand and programmed the game myself. https://www.reddit.com/r/Games/comments/1wf5mhl/effulgence_rpg_andrei_fomin_ascii_3d_rpg_10_is/
@@ -28,3 +25,6 @@
 2026-09-13T14:01:27+00:00	Digital Foundry: The Blood of Dawnwalker PC Performance Review - Great Game Marred By Tech Issues https://www.reddit.com/r/Games/comments/1wf8hgf/digital_foundry_the_blood_of_dawnwalker_pc/
 2026-09-13T15:29:13+00:00	Upcoming vampire RPG Nighthawks has been removed from Steam search and delisted in certain countries as Valve classifies it Adults Only: 'It's very bad news for us' https://www.reddit.com/r/Games/comments/1wfaqqs/upcoming_vampire_rpg_nighthawks_has_been_removed/
 2026-09-13T15:36:43+00:00	"Sonucido: Dreams of the Gray God announced" https://www.reddit.com/r/Games/comments/1wfaxq7/sonucido_dreams_of_the_gray_god_announced/
+2026-09-13T16:25:17+00:00	Little Crossroads - Red Merle Games - RuneScape-like skilling blended with Animal Crossing, focusing on gathering, traversal unlocks, and shared housing. Playtest opened! https://www.reddit.com/r/Games/comments/1wfc81y/little_crossroads_red_merle_games_runescapelike/
+2026-09-13T17:52:25+00:00	Ex-Far Cry Boss Has Big Ambitions For New StarCraft Shooter: ‘If We Were To Make Something That Felt Like A Deadwood In Space I Think That’s Got Something’ https://www.reddit.com/r/Games/comments/1wfejy4/exfar_cry_boss_has_big_ambitions_for_new/
+2026-09-13T18:06:48+00:00	Aeterna Lucis - Aeternum Game Studios - Fast-Paced Hand-Drawn Metroidvania Launching December 3, 2026 https://www.reddit.com/r/Games/comments/1wfey51/aeterna_lucis_aeternum_game_studios_fastpaced/

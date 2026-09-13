@@ -3,11 +3,8 @@
 # source = https://bearblog.dev/discover/feed/
 # description = twtxt conversion of https://bearblog.dev/discover/feed/
 
-2026-09-10T07:12:00+00:00	Piracy as a Service https://slowburn.bearblog.dev/piracy-as-a-service/
 2026-09-10T12:40:00+00:00	Karl's Interminable Search for Truth https://householderkarl.com/search-for-truth/
-2026-09-10T15:19:00+00:00	Re: Boomers and disinformation https://blighttown.bearblog.dev/re-boomers-and-disinformation/
 2026-09-10T16:03:00+00:00	Software Drives People Insane https://graybeard.ing/software-drives-people-insane/
-2026-09-10T18:35:00+00:00	🏳️‍⚧️ It's incredible how transitioning changed how I'm treated https://puppynet.work/its-incredible-how-transitioning-changed-how-im-treated/
 2026-09-10T23:08:00+00:00	Given that the Purpose of a System is What it Does, What is the Purpose of AI? https://blog.joshgrey.uk/given-that-the-purpose-of-a-system-is-what-it-does-what-is-the-purpose-of-ai/
 2026-09-11T03:27:00+00:00	september 10 1ak https://combatdavey.net/september-10-2026/
 2026-09-11T19:07:00+00:00	september 11 gah https://combatdavey.net/september-11-2026/
@@ -19,7 +16,10 @@
 2026-09-12T17:40:00+00:00	I just want it more https://tala.bearblog.dev/i-just-want-it-more/
 2026-09-12T17:40:52.947283+00:00	Re: A nice rainbow | "It's a double rainbow all the way!" https://piimyon.bearblog.dev/re-a-nice-rainbow-its-a-double-rainbow-all-the-way/
 2026-09-12T18:12:00+00:00	What I Learned Making My First Skirt https://readingthief.com/what-i-learned-making-a-skirt/
-2026-09-12T18:52:39.991412+00:00	Actually getting projects done with ADHD https://vidknight.bearblog.dev/actually-getting-projects-done-with-adhd/
 2026-09-12T20:15:00+00:00	A past I no longer recognize in photos and videos https://basic.bearblog.dev/a-past-i-no-longer-recognize-in-photos-and-videos/
 2026-09-12T21:59:00+00:00	Hell is a Houston Highway https://householderkarl.com/hell-is-a-houston-highway/
 2026-09-13T14:07:00+00:00	💌 Newsletter #016 - Chatbots and their "Safeguards," Alternative Navigation Apps - and a New Section! https://technically-good.ca/newsletter/016-2026-09-13/
+2026-09-13T14:21:56.682192+00:00	It’s Time to Move On https://themidnightcosmicboy.bearblog.dev/its-time-to-move-on/
+2026-09-13T15:14:35.736954+00:00	I'm not happier offline. https://sameoldstory.co/im-not-happier-offline/
+2026-09-13T16:11:00+00:00	Lazy Sunday Bear Blog Meta https://householderkarl.com/lazy-sunday-bear-blog-meta/
+2026-09-13T16:36:45.840925+00:00	Happy 15th (heavenly) Birthday, Cocoa https://jeddacp.me/happy-15th-heavenly-birthday-cocoa/
