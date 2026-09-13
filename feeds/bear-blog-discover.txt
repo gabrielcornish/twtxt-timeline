@@ -4,10 +4,8 @@
 # description = twtxt conversion of https://bearblog.dev/discover/feed/
 
 2026-09-10T07:12:00+00:00	Piracy as a Service https://slowburn.bearblog.dev/piracy-as-a-service/
-2026-09-10T07:39:03.728887+00:00	stop feeding others' photos to AI without their consent https://midnight.bearblog.dev/stop-feeding-others-photos-to-ai-without-their-consent/
 2026-09-10T11:34:00+00:00	after all... why not? https://blog.avas.space/why-not/
 2026-09-10T12:40:00+00:00	Karl's Interminable Search for Truth https://householderkarl.com/search-for-truth/
-2026-09-10T13:33:00+00:00	If you read this, I'll give you $5000...maybe. https://anani.bearblog.dev/if-you-read-this-ill-give-you-5000maybe/
 2026-09-10T15:19:00+00:00	Re: Boomers and disinformation https://blighttown.bearblog.dev/re-boomers-and-disinformation/
 2026-09-10T16:03:00+00:00	Software Drives People Insane https://graybeard.ing/software-drives-people-insane/
 2026-09-10T18:35:00+00:00	🏳️‍⚧️ It's incredible how transitioning changed how I'm treated https://puppynet.work/its-incredible-how-transitioning-changed-how-im-treated/
@@ -15,11 +13,13 @@
 2026-09-11T03:27:00+00:00	september 10 1ak https://combatdavey.net/september-10-2026/
 2026-09-11T16:18:00+00:00	Hey You, Pikachu https://blog.lauramichet.com/hey-you-pikachu/
 2026-09-11T19:07:00+00:00	september 11 gah https://combatdavey.net/september-11-2026/
-2026-09-11T22:29:00+00:00	Mastodon users hate everyone and everything, ya, I'm Good https://yaimgood.bearblog.dev/mastodon-users-hate-everyone-and-everything-ya-im-good/
 2026-09-12T00:45:23.780463+00:00	Gaming as Meditation https://blog.absurdpirate.com/gaming-as-meditation/
 2026-09-12T03:21:35.181963+00:00	A nice rainbow https://toska.bearblog.dev/a-nice-rainbow/
 2026-09-12T04:11:00+00:00	Stretching definitions https://haraiva.bearblog.dev/stretching-definitions/
 2026-09-12T06:22:00+00:00	goodbye https://realinternetuser.bearblog.dev/goodbye/
+2026-09-12T11:26:29.682298+00:00	I Love Games That You Can Build From the Ground Up https://turbiegaming.bearblog.dev/i-love-games-that-you-can-build-from-the-ground-up/
 2026-09-12T15:13:00+00:00	tonight i said goodbye to my cat https://woolgathering.bearblog.dev/tonight-i-said-goodbye-to-my-cat/
-2026-09-12T16:45:00+00:00	I have been posting daily for two years https://blog.lauramichet.com/i-have-been-posting-daily-for-two-years/
 2026-09-12T17:40:00+00:00	I just want it more https://tala.bearblog.dev/i-just-want-it-more/
+2026-09-12T17:40:52.947283+00:00	Re: A nice rainbow | "It's a double rainbow all the way!" https://piimyon.bearblog.dev/re-a-nice-rainbow-its-a-double-rainbow-all-the-way/
+2026-09-12T18:12:00+00:00	What I Learned Making My First Skirt https://readingthief.com/what-i-learned-making-a-skirt/
+2026-09-12T21:59:00+00:00	Hell is a Houston Highway https://householderkarl.com/hell-is-a-houston-highway/
