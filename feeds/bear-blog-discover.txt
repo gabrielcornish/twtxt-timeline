@@ -4,7 +4,6 @@
 # description = twtxt conversion of https://bearblog.dev/discover/feed/
 
 2026-09-10T07:12:00+00:00	Piracy as a Service https://slowburn.bearblog.dev/piracy-as-a-service/
-2026-09-10T11:34:00+00:00	after all... why not? https://blog.avas.space/why-not/
 2026-09-10T12:40:00+00:00	Karl's Interminable Search for Truth https://householderkarl.com/search-for-truth/
 2026-09-10T15:19:00+00:00	Re: Boomers and disinformation https://blighttown.bearblog.dev/re-boomers-and-disinformation/
 2026-09-10T16:03:00+00:00	Software Drives People Insane https://graybeard.ing/software-drives-people-insane/
@@ -22,4 +21,5 @@
 2026-09-12T17:40:52.947283+00:00	Re: A nice rainbow | "It's a double rainbow all the way!" https://piimyon.bearblog.dev/re-a-nice-rainbow-its-a-double-rainbow-all-the-way/
 2026-09-12T18:12:00+00:00	What I Learned Making My First Skirt https://readingthief.com/what-i-learned-making-a-skirt/
 2026-09-12T18:52:39.991412+00:00	Actually getting projects done with ADHD https://vidknight.bearblog.dev/actually-getting-projects-done-with-adhd/
+2026-09-12T20:15:00+00:00	A past I no longer recognize in photos and videos https://basic.bearblog.dev/a-past-i-no-longer-recognize-in-photos-and-videos/
 2026-09-12T21:59:00+00:00	Hell is a Houston Highway https://householderkarl.com/hell-is-a-houston-highway/
