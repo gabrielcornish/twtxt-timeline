@@ -3,23 +3,23 @@
 # source = https://bearblog.dev/discover/feed/
 # description = twtxt conversion of https://bearblog.dev/discover/feed/
 
-2026-09-10T16:03:00+00:00	Software Drives People Insane https://graybeard.ing/software-drives-people-insane/
-2026-09-10T23:08:00+00:00	Given that the Purpose of a System is What it Does, What is the Purpose of AI? https://blog.joshgrey.uk/given-that-the-purpose-of-a-system-is-what-it-does-what-is-the-purpose-of-ai/
-2026-09-11T03:27:00+00:00	september 10 1ak https://combatdavey.net/september-10-2026/
 2026-09-12T03:21:35.181963+00:00	A nice rainbow https://toska.bearblog.dev/a-nice-rainbow/
 2026-09-12T04:11:00+00:00	Stretching definitions https://haraiva.bearblog.dev/stretching-definitions/
 2026-09-12T06:22:00+00:00	goodbye https://realinternetuser.bearblog.dev/goodbye/
 2026-09-12T15:13:00+00:00	tonight i said goodbye to my cat https://woolgathering.bearblog.dev/tonight-i-said-goodbye-to-my-cat/
 2026-09-12T17:40:00+00:00	I just want it more https://tala.bearblog.dev/i-just-want-it-more/
 2026-09-12T17:40:52.947283+00:00	Re: A nice rainbow | "It's a double rainbow all the way!" https://piimyon.bearblog.dev/re-a-nice-rainbow-its-a-double-rainbow-all-the-way/
-2026-09-12T18:12:00+00:00	What I Learned Making My First Skirt https://readingthief.com/what-i-learned-making-a-skirt/
-2026-09-12T20:15:00+00:00	A past I no longer recognize in photos and videos https://basic.bearblog.dev/a-past-i-no-longer-recognize-in-photos-and-videos/
 2026-09-12T21:59:00+00:00	Hell is a Houston Highway https://householderkarl.com/hell-is-a-houston-highway/
 2026-09-13T11:32:00+00:00	starting a new blog one more time https://matthias.bearblog.dev/starting-a-new-blog-one-more-time/
+2026-09-13T13:05:00+00:00	Journal 6- Mark Zuckerberg Stole My Parents https://innerhealing.blog/journal-6-mark-zuckerberg-stole-my-parents/
 2026-09-13T14:07:00+00:00	💌 Newsletter #016 - Chatbots and their "Safeguards," Alternative Navigation Apps - and a New Section! https://technically-good.ca/newsletter/016-2026-09-13/
-2026-09-13T14:21:56.682192+00:00	It’s Time to Move On https://themidnightcosmicboy.bearblog.dev/its-time-to-move-on/
 2026-09-13T15:14:35.736954+00:00	I'm not happier offline. https://sameoldstory.co/im-not-happier-offline/
 2026-09-13T16:11:00+00:00	Lazy Sunday Bear Blog Meta https://householderkarl.com/lazy-sunday-bear-blog-meta/
 2026-09-13T16:36:45.840925+00:00	Happy 15th (heavenly) Birthday, Cocoa https://jeddacp.me/happy-15th-heavenly-birthday-cocoa/
 2026-09-13T16:59:36.917415+00:00	reason #98417 not to go on reddit ever again https://icyti.me/reason-98417-not-to-go-on-reddit-ever-again/
 2026-09-13T18:01:36.229163+00:00	Microblog: What do they desperately want? https://viridianvoid.bearblog.dev/microblog-what-do-they-desperately-want/
+2026-09-13T18:29:38.018964+00:00	a thank you note to bear https://hypr.moe/a-thank-you-note-to-bear/
+2026-09-13T20:04:53.893362+00:00	Always disable link previews https://iamrain.net/always-disable-link-previews/
+2026-09-13T23:46:00+00:00	que diabo é teclado mecânico? https://th.blog.br/que-diabo-e-teclado-mecanico/
+2026-09-14T00:03:00+00:00	pet loss https://drowsy.bearblog.dev/pet-loss/
+2026-09-14T02:45:00+00:00	Grieving a Father https://mothertehresa.bearblog.dev/grieving-a-father/
