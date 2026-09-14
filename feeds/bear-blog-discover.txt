@@ -3,23 +3,23 @@
 # source = https://bearblog.dev/discover/feed/
 # description = twtxt conversion of https://bearblog.dev/discover/feed/
 
-2026-09-12T03:21:35.181963+00:00	A nice rainbow https://toska.bearblog.dev/a-nice-rainbow/
 2026-09-12T06:22:00+00:00	goodbye https://realinternetuser.bearblog.dev/goodbye/
-2026-09-12T15:13:00+00:00	tonight i said goodbye to my cat https://woolgathering.bearblog.dev/tonight-i-said-goodbye-to-my-cat/
 2026-09-12T17:40:00+00:00	I just want it more https://tala.bearblog.dev/i-just-want-it-more/
-2026-09-12T17:40:52.947283+00:00	Re: A nice rainbow | "It's a double rainbow all the way!" https://piimyon.bearblog.dev/re-a-nice-rainbow-its-a-double-rainbow-all-the-way/
-2026-09-12T21:59:00+00:00	Hell is a Houston Highway https://householderkarl.com/hell-is-a-houston-highway/
 2026-09-13T11:32:00+00:00	starting a new blog one more time https://matthias.bearblog.dev/starting-a-new-blog-one-more-time/
 2026-09-13T13:05:00+00:00	Journal 6- Mark Zuckerberg Stole My Parents https://innerhealing.blog/journal-6-mark-zuckerberg-stole-my-parents/
 2026-09-13T14:07:00+00:00	💌 Newsletter #016 - Chatbots and their "Safeguards," Alternative Navigation Apps - and a New Section! https://technically-good.ca/newsletter/016-2026-09-13/
-2026-09-13T15:14:35.736954+00:00	I'm not happier offline. https://sameoldstory.co/im-not-happier-offline/
 2026-09-13T16:11:00+00:00	Lazy Sunday Bear Blog Meta https://householderkarl.com/lazy-sunday-bear-blog-meta/
-2026-09-13T16:36:45.840925+00:00	Happy 15th (heavenly) Birthday, Cocoa https://jeddacp.me/happy-15th-heavenly-birthday-cocoa/
 2026-09-13T16:59:36.917415+00:00	reason #98417 not to go on reddit ever again https://icyti.me/reason-98417-not-to-go-on-reddit-ever-again/
 2026-09-13T18:29:38.018964+00:00	a thank you note to bear https://hypr.moe/a-thank-you-note-to-bear/
 2026-09-13T20:04:53.893362+00:00	Always disable link previews https://iamrain.net/always-disable-link-previews/
-2026-09-14T00:03:00+00:00	pet loss https://drowsy.bearblog.dev/pet-loss/
+2026-09-14T00:32:46.688036+00:00	In Unreserved Praise of Nutritional Yeast https://davidmcgee.xyz/in-unreserved-praise-of-nutritional-yeast/
 2026-09-14T02:45:00+00:00	Grieving a Father https://mothertehresa.bearblog.dev/grieving-a-father/
 2026-09-14T03:21:00+00:00	Quick Character Leverage https://billhook.bearblog.dev/quick_leverage/
+2026-09-14T13:43:00+00:00	Being a (good) GM is incredibly, problematically, blissfully hard https://xenokraft.com/being-a-good-gm-is-incredibly-problematically-blissfully-hard/
 2026-09-14T13:55:00+00:00	i just came to say hi https://sesame.bearblog.dev/i-just-came-to-say-hi/
+2026-09-14T14:41:00+00:00	"Rogue AI" is Bullshit: Article Reading List https://princetonponders.bearblog.dev/rogue-ai-is-bullshit/
+2026-09-14T15:08:15.466999+00:00	Leaving Linux https://jackevans.bearblog.dev/leaving-linux/
+2026-09-14T15:54:00+00:00	My 30th Birthday Present is a Blog https://sourwudd.com/my-30th-birthday-present-is-a-blog/
 2026-09-14T17:09:00+00:00	ADHD & productivity tools https://puppynet.work/adhd-and-productivity-tools/
+2026-09-14T19:06:00+00:00	Symbiotic Imperialism https://chakkie.bearblog.dev/symbiotic-imperialism/
+2026-09-14T19:29:52.694280+00:00	Understandable enough https://robertbirming.com/understandable-enough/

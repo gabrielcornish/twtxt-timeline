@@ -3,7 +3,6 @@
 # source = https://www.gamesindustry.biz/feed
 # description = twtxt conversion of https://www.gamesindustry.biz/feed
 
-2026-09-03T16:30:22+00:00	Voting extended for special categories in the Best Places To Work Awards https://www.gamesindustry.biz/voting-extended-for-special-categories-in-the-best-places-to-work-awards
 2026-09-04T07:37:02+00:00	Xbox adds monthly cloud limits to Game Pass as it "continues to invest in its reliability and performance" https://www.gamesindustry.biz/xbox-adds-monthly-cloud-limits-to-game-pass-as-it-continues-to-invest-in-its-reliability-and-performance
 2026-09-04T09:09:47+00:00	GTA 6 Netflix preview causes PlayStation and Xbox hardware sales to jump in the UK https://www.gamesindustry.biz/gta-6-netflix-preview-causes-playstation-and-xbox-hardware-sales-to-jump-in-the-uk
 2026-09-04T12:16:41+00:00	Future imperfect: Five predictions for the next decade | Opinion https://www.gamesindustry.biz/future-imperfect-five-predictions-for-the-next-decade-opinion
@@ -53,3 +52,4 @@
 2026-09-14T16:22:08+00:00	Rockstar and IWGB outline arguments at start of tribunal https://www.gamesindustry.biz/rockstar-and-iwgb-outline-arguments-at-start-of-tribunal
 2026-09-14T17:30:55+00:00	More than 40% of people cancelling Xbox Game Pass, PlayStation Plus and Nintendo Switch Online subscriptions blame rising costs https://www.gamesindustry.biz/more-than-40-of-people-cancelling-xbox-game-pass-playstation-plus-and-nintendo-switch-online-subscriptions-blame-rising-costs
 2026-09-14T18:03:34+00:00	Valve opens waiting list for Steam Frame, starting at $1059 https://www.gamesindustry.biz/valve-opens-waiting-list-for-steam-frame-starting-at-1059
+2026-09-14T20:10:38+00:00	Level-5 CEO admits using generative AI in recent showcase https://www.gamesindustry.biz/level-5-ceo-admits-using-generative-ai-in-recent-showcase

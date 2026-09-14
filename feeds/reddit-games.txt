@@ -4,12 +4,7 @@
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
 2026-09-13T09:00:36+00:00	Weekly /r/Games Discussion - What have you been playing, and what are your thoughts? - September 13, 2026 https://www.reddit.com/r/Games/comments/1wf2kc8/weekly_rgames_discussion_what_have_you_been/
-2026-09-13T15:29:13+00:00	Upcoming vampire RPG Nighthawks has been removed from Steam search and delisted in certain countries as Valve classifies it Adults Only: 'It's very bad news for us' https://www.reddit.com/r/Games/comments/1wfaqqs/upcoming_vampire_rpg_nighthawks_has_been_removed/
-2026-09-13T17:52:25+00:00	Ex-Far Cry Boss Has Big Ambitions For New StarCraft Shooter: ‘If We Were To Make Something That Felt Like A Deadwood In Space I Think That’s Got Something’ https://www.reddit.com/r/Games/comments/1wfejy4/exfar_cry_boss_has_big_ambitions_for_new/
-2026-09-13T23:03:26+00:00	I Played WoW with a Controller! | WoW Forever Controller Impressions https://www.reddit.com/r/Games/comments/1wfmjej/i_played_wow_with_a_controller_wow_forever/
 2026-09-13T23:31:37+00:00	Last of Us Part 2 multiplayer mod “canceled by Sony” https://www.reddit.com/r/Games/comments/1wfn5zo/last_of_us_part_2_multiplayer_mod_canceled_by_sony/
-2026-09-14T01:20:56+00:00	StarCraft is a narrative-driven shooter with 'a definitive ending' and 'not a seasonal game' https://www.reddit.com/r/Games/comments/1wfpjor/starcraft_is_a_narrativedriven_shooter_with_a/
-2026-09-14T02:48:09+00:00	“Girl After The Rain” Teaser Trailer (new mobile game from Game Freak) https://www.reddit.com/r/Games/comments/1wfre7t/girl_after_the_rain_teaser_trailer_new_mobile/
 2026-09-14T10:40:17+00:00	Actor Stephen Root confirms role in 'Grand Theft Auto VI' https://www.reddit.com/r/Games/comments/1wfzuoh/actor_stephen_root_confirms_role_in_grand_theft/
 2026-09-14T11:43:31+00:00	Our Early Access Journey Is Coming to an End | RuneScape: Dragonwilds - 1.0 Update https://www.reddit.com/r/Games/comments/1wg12uq/our_early_access_journey_is_coming_to_an_end/
 2026-09-14T13:15:55+00:00	Tempest Rising - The Veti's Wrath Release Date Trailer https://www.reddit.com/r/Games/comments/1wg35gp/tempest_rising_the_vetis_wrath_release_date/
@@ -28,3 +23,8 @@
 2026-09-14T17:13:15+00:00	Valve Says RAM Crisis Hasn’t Affected Plans for Steam Deck 2 https://www.reddit.com/r/Games/comments/1wg9iz2/valve_says_ram_crisis_hasnt_affected_plans_for/
 2026-09-14T17:24:46+00:00	TCG Card Shop Simulator 1.0 Update https://www.reddit.com/r/Games/comments/1wg9ut0/tcg_card_shop_simulator_10_update/
 2026-09-14T17:41:12+00:00	MARVEL Tōkon: Fighting Souls - A Message from the Director https://www.reddit.com/r/Games/comments/1wgabsh/marvel_tōkon_fighting_souls_a_message_from_the/
+2026-09-14T20:31:11+00:00	The Crab Is Walking - Announcement Trailer https://www.reddit.com/r/Games/comments/1wgf70m/the_crab_is_walking_announcement_trailer/
+2026-09-14T20:35:36+00:00	Of Ash and Steel - Shattered Faith DLC Announcement Trailer https://www.reddit.com/r/Games/comments/1wgfb9w/of_ash_and_steel_shattered_faith_dlc_announcement/
+2026-09-14T20:46:58+00:00	Sources: IGN Layoffs Hit Multiple Departments And Long-Time Hosts https://www.reddit.com/r/Games/comments/1wgfm2s/sources_ign_layoffs_hit_multiple_departments_and/
+2026-09-14T21:13:42+00:00	Hori releases a Switch 2 and Windows (XInput) compatible modular arcade controller https://www.reddit.com/r/Games/comments/1wggbwt/hori_releases_a_switch_2_and_windows_xinput/
+2026-09-14T21:26:49+00:00	Hardcoregaming101's article about Zoya, a 2001 FPS developed in Syria. https://www.reddit.com/r/Games/comments/1wggoh2/hardcoregaming101s_article_about_zoya_a_2001_fps/
