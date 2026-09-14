@@ -4,7 +4,6 @@
 # description = twtxt conversion of https://bearblog.dev/discover/feed/
 
 2026-09-12T03:21:35.181963+00:00	A nice rainbow https://toska.bearblog.dev/a-nice-rainbow/
-2026-09-12T04:11:00+00:00	Stretching definitions https://haraiva.bearblog.dev/stretching-definitions/
 2026-09-12T06:22:00+00:00	goodbye https://realinternetuser.bearblog.dev/goodbye/
 2026-09-12T15:13:00+00:00	tonight i said goodbye to my cat https://woolgathering.bearblog.dev/tonight-i-said-goodbye-to-my-cat/
 2026-09-12T17:40:00+00:00	I just want it more https://tala.bearblog.dev/i-just-want-it-more/
@@ -23,3 +22,4 @@
 2026-09-13T23:46:00+00:00	que diabo é teclado mecânico? https://th.blog.br/que-diabo-e-teclado-mecanico/
 2026-09-14T00:03:00+00:00	pet loss https://drowsy.bearblog.dev/pet-loss/
 2026-09-14T02:45:00+00:00	Grieving a Father https://mothertehresa.bearblog.dev/grieving-a-father/
+2026-09-14T03:21:00+00:00	Quick Character Leverage https://billhook.bearblog.dev/quick_leverage/

@@ -3,11 +3,6 @@
 # source = https://www.gamesindustry.biz/feed
 # description = twtxt conversion of https://www.gamesindustry.biz/feed
 
-2026-09-02T19:14:24+00:00	Nexus Mods acquires SteamDB https://www.gamesindustry.biz/nexus-mods-acquires-steamdb
-2026-09-02T19:44:30+00:00	CD Projekt Red sees profit climb 37% in H1 2026 https://www.gamesindustry.biz/cd-projekt-red-sees-profit-climb-37-in-h1-2026
-2026-09-03T07:29:48+00:00	"This is the worst crash we've seen since the 1980s," says Tim Sweeney https://www.gamesindustry.biz/this-is-the-worst-crash-weve-seen-since-the-1980s-says-tim-sweeney
-2026-09-03T08:04:49+00:00	Planet Coaster studio Frontier Developments announces new title based on Disney IP https://www.gamesindustry.biz/planet-coaster-studio-frontier-developments-announces-new-title-based-on-disney-ip
-2026-09-03T09:29:08+00:00	Peak studio Aggro Crab establishes publishing label for "intense, stylised games with an attitude" https://www.gamesindustry.biz/peak-studio-aggro-crab-establishes-publishing-label-for-intense-stylised-games-with-an-attitude
 2026-09-03T11:24:40+00:00	Sony and Microsoft request dismissal of consumer lawsuits over tariff refunds https://www.gamesindustry.biz/sony-and-microsoft-request-dismissal-of-consumer-lawsuits-over-tariff-refunds
 2026-09-03T12:05:44+00:00	"We've got a great team, money in the bank, and financial independence": Glowmade comes out swinging after Amazon pulled the plug on King of Meat https://www.gamesindustry.biz/weve-got-a-great-team-money-in-the-bank-and-financial-independence-glowmade-comes-out-swinging-after-amazon-pulled-the-plug-on-king-of-meat
 2026-09-03T14:56:12+00:00	Apple faces £2bn lawsuit over implementation of App Tracking Transparency framework https://www.gamesindustry.biz/apple-faces-2bn-lawsuit-over-implementation-of-app-tracking-transparency-framework
@@ -53,3 +48,8 @@
 2026-09-11T13:46:06+00:00	European studio expenditure on external talent rises 63% in 2025 https://www.gamesindustry.biz/european-studio-expenditure-on-external-talent-rises-63-in-2025
 2026-09-11T15:59:00+00:00	State of the Unions: the rise of unionisation in games workplaces https://www.gamesindustry.biz/state-of-the-unions-the-rise-of-unionisation-in-games-workplaces
 2026-09-11T16:28:42+00:00	Goodwill Hunting: Consoles’ brand value and loyalty is being tested | Opinion https://www.gamesindustry.biz/goodwill-hunting-consoles-brand-value-and-loyalty-is-being-tested-opinion
+2026-09-14T08:00:08+00:00	Moss developer Polyarc Games announces closure https://www.gamesindustry.biz/moss-developer-polyarc-games-announces-closure
+2026-09-14T10:29:14+00:00	New StarCraft title to launch in 2030, will be an open-world FPS https://www.gamesindustry.biz/new-starcraft-title-to-launch-in-2030-will-be-an-open-world-fps
+2026-09-14T12:30:00+00:00	"What's the harm in asking?" – Dlala Studios on taking a big swing to get comedy legend Bob Mortimer for the upcoming game Murals https://www.gamesindustry.biz/whats-the-harm-in-asking-dlala-studios-on-taking-a-big-swing-to-get-comedy-legend-bob-mortimer-for-the-upcoming-game-murals
+2026-09-14T12:58:00+00:00	Roblox creators will soon be able to publish games on multiple platforms as standalone apps https://www.gamesindustry.biz/roblox-creators-will-soon-be-able-to-publish-games-on-multiple-platforms-as-standalone-apps
+2026-09-14T13:43:40+00:00	PlayStation allegedly had "concerns over budget, potential profitability, and exclusivity" over Kojima Productions' Physint https://www.gamesindustry.biz/playstation-allegedly-had-concerns-over-budget-potential-profitability-and-exclusivity-over-kojima-productions-physint
