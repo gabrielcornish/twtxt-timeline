@@ -3,28 +3,28 @@
 # source = https://www.reddit.com/r/Games.rss
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
-2026-09-12T12:56:25+00:00	Wolverine Developer Insomniac Says Logan's Scent Trail Isn't Always on Amid 'Fart Gas' Toggle Requests https://www.reddit.com/r/Games/comments/1webxze/wolverine_developer_insomniac_says_logans_scent/
-2026-09-12T17:41:09+00:00	Xal'Atath Reveal Trailer | Heroes of the Storm https://www.reddit.com/r/Games/comments/1weiyh3/xalatath_reveal_trailer_heroes_of_the_storm/
-2026-09-12T17:51:01+00:00	STARCRAFT | Announce Cinematic | Dominion https://www.reddit.com/r/Games/comments/1wej7ja/starcraft_announce_cinematic_dominion/
-2026-09-12T18:20:18+00:00	Diablo V Teaser | The Return https://www.reddit.com/r/Games/comments/1wejz67/diablo_v_teaser_the_return/
-2026-09-12T18:46:11+00:00	Warcraft III Reforged: Forsaken Kingdom | Launch Trailer https://www.reddit.com/r/Games/comments/1weknr1/warcraft_iii_reforged_forsaken_kingdom_launch/
-2026-09-12T18:55:05+00:00	World of Warcraft: Forever | New Horizons | Cinematic Trailer https://www.reddit.com/r/Games/comments/1wekw39/world_of_warcraft_forever_new_horizons_cinematic/
-2026-09-12T18:59:03+00:00	World of Warcraft: Forever | Gameplay Trailer https://www.reddit.com/r/Games/comments/1wekzsh/world_of_warcraft_forever_gameplay_trailer/
-2026-09-12T22:17:29+00:00	GOG patches Nox to run on modern systems, restores online functionality https://www.reddit.com/r/Games/comments/1wepzmo/gog_patches_nox_to_run_on_modern_systems_restores/
-2026-09-13T04:04:06+00:00	Diablo V: Forging the Next Era — Diablo IV https://www.reddit.com/r/Games/comments/1wexb3o/diablo_v_forging_the_next_era_diablo_iv/
 2026-09-13T09:00:36+00:00	Weekly /r/Games Discussion - What have you been playing, and what are your thoughts? - September 13, 2026 https://www.reddit.com/r/Games/comments/1wf2kc8/weekly_rgames_discussion_what_have_you_been/
-2026-09-13T11:53:04+00:00	Effulgence RPG - Andrei Fomin - ASCII 3D RPG 1.0 is out now. After more than two years of solo development, the full game is finally here. I created its ASCII visuals by hand and programmed the game myself. https://www.reddit.com/r/Games/comments/1wf5mhl/effulgence_rpg_andrei_fomin_ascii_3d_rpg_10_is/
-2026-09-13T12:59:57+00:00	[AMA] I'm the developer of 'Our Freedom: Medieval Village', a medieval Action RPG combining village management, tactical squad combat & survival. Together with Two Cakes Studio, Ask Us Anything! https://www.reddit.com/r/Games/comments/1wf71x5/ama_im_the_developer_of_our_freedom_medieval/
-2026-09-13T14:01:27+00:00	Digital Foundry: The Blood of Dawnwalker PC Performance Review - Great Game Marred By Tech Issues https://www.reddit.com/r/Games/comments/1wf8hgf/digital_foundry_the_blood_of_dawnwalker_pc/
 2026-09-13T15:29:13+00:00	Upcoming vampire RPG Nighthawks has been removed from Steam search and delisted in certain countries as Valve classifies it Adults Only: 'It's very bad news for us' https://www.reddit.com/r/Games/comments/1wfaqqs/upcoming_vampire_rpg_nighthawks_has_been_removed/
-2026-09-13T16:25:17+00:00	Little Crossroads - Red Merle Games - RuneScape-like skilling blended with Animal Crossing, focusing on gathering, traversal unlocks, and shared housing. Playtest opened! https://www.reddit.com/r/Games/comments/1wfc81y/little_crossroads_red_merle_games_runescapelike/
 2026-09-13T17:52:25+00:00	Ex-Far Cry Boss Has Big Ambitions For New StarCraft Shooter: ‘If We Were To Make Something That Felt Like A Deadwood In Space I Think That’s Got Something’ https://www.reddit.com/r/Games/comments/1wfejy4/exfar_cry_boss_has_big_ambitions_for_new/
-2026-09-13T18:06:48+00:00	Aeterna Lucis - Aeternum Game Studios - Fast-Paced Hand-Drawn Metroidvania Launching December 3, 2026 https://www.reddit.com/r/Games/comments/1wfey51/aeterna_lucis_aeternum_game_studios_fastpaced/
 2026-09-13T23:03:26+00:00	I Played WoW with a Controller! | WoW Forever Controller Impressions https://www.reddit.com/r/Games/comments/1wfmjej/i_played_wow_with_a_controller_wow_forever/
 2026-09-13T23:31:37+00:00	Last of Us Part 2 multiplayer mod “canceled by Sony” https://www.reddit.com/r/Games/comments/1wfn5zo/last_of_us_part_2_multiplayer_mod_canceled_by_sony/
 2026-09-14T01:20:56+00:00	StarCraft is a narrative-driven shooter with 'a definitive ending' and 'not a seasonal game' https://www.reddit.com/r/Games/comments/1wfpjor/starcraft_is_a_narrativedriven_shooter_with_a/
-2026-09-14T01:36:45+00:00	CPU: Computing Potatoes Unlimited - Bunian Games - A programming puzzle where you command potatoes around a factory that mimics the inner workings of a real processor - Steam demo is up https://www.reddit.com/r/Games/comments/1wfpvs7/cpu_computing_potatoes_unlimited_bunian_games_a/
 2026-09-14T02:48:09+00:00	“Girl After The Rain” Teaser Trailer (new mobile game from Game Freak) https://www.reddit.com/r/Games/comments/1wfre7t/girl_after_the_rain_teaser_trailer_new_mobile/
 2026-09-14T10:40:17+00:00	Actor Stephen Root confirms role in 'Grand Theft Auto VI' https://www.reddit.com/r/Games/comments/1wfzuoh/actor_stephen_root_confirms_role_in_grand_theft/
 2026-09-14T11:43:31+00:00	Our Early Access Journey Is Coming to an End | RuneScape: Dragonwilds - 1.0 Update https://www.reddit.com/r/Games/comments/1wg12uq/our_early_access_journey_is_coming_to_an_end/
 2026-09-14T13:15:55+00:00	Tempest Rising - The Veti's Wrath Release Date Trailer https://www.reddit.com/r/Games/comments/1wg35gp/tempest_rising_the_vetis_wrath_release_date/
+2026-09-14T14:23:37+00:00	Lies of P sequel likely titled “Wonders of O,” New Trademark Filed https://www.reddit.com/r/Games/comments/1wg4v7p/lies_of_p_sequel_likely_titled_wonders_of_o_new/
+2026-09-14T14:44:30+00:00	Ace Combat 8: Wings of Theve - Story Trailer | PS5 Games https://www.reddit.com/r/Games/comments/1wg5eqk/ace_combat_8_wings_of_theve_story_trailer_ps5/
+2026-09-14T15:02:25+00:00	We started MONOWAVE as art students. Now our puzzle game about sharing emotions is coming to Steam and Switch. AMA! https://www.reddit.com/r/Games/comments/1wg5vln/we_started_monowave_as_art_students_now_our/
+2026-09-14T15:18:04+00:00	The Lift - Story Trailer https://www.reddit.com/r/Games/comments/1wg6b70/the_lift_story_trailer/
+2026-09-14T15:38:01+00:00	Kingmakers - Gameplay Deep Dive https://www.reddit.com/r/Games/comments/1wg6uhd/kingmakers_gameplay_deep_dive/
+2026-09-14T16:02:40+00:00	Rayman Legends Retold Delayed to December 3rd https://www.reddit.com/r/Games/comments/1wg7iyi/rayman_legends_retold_delayed_to_december_3rd/
+2026-09-14T16:13:29+00:00	The Triple-i Initiative Showcase Returns October 8th! https://www.reddit.com/r/Games/comments/1wg7tzf/the_triplei_initiative_showcase_returns_october/
+2026-09-14T16:14:31+00:00	Mamma Mia! After 30 Years, Super Mario Bros. 2's Satellaview Exclusive Sequel Has Just Got An English Fan Dub https://www.reddit.com/r/Games/comments/1wg7v1y/mamma_mia_after_30_years_super_mario_bros_2s/
+2026-09-14T16:35:21+00:00	Fire Emblem: Fortune’s Weave — Overview Trailer — Nintendo Switch 2 https://www.reddit.com/r/Games/comments/1wg8g10/fire_emblem_fortunes_weave_overview_trailer/
+2026-09-14T16:39:17+00:00	Mat Piscatella on the PlayStation Blackout: "There was no significant change at all in player count or engagement in our tracking." https://www.reddit.com/r/Games/comments/1wg8k5f/mat_piscatella_on_the_playstation_blackout_there/
+2026-09-14T16:56:34+00:00	Steam Frame official price is $1,059.00. Half-Life: Alyx included https://www.reddit.com/r/Games/comments/1wg91fx/steam_frame_official_price_is_105900_halflife/
+2026-09-14T17:02:33+00:00	Marathon Development Update - Nightfall Refresh and Symbiosis https://www.reddit.com/r/Games/comments/1wg97tf/marathon_development_update_nightfall_refresh_and/
+2026-09-14T17:13:15+00:00	Valve Says RAM Crisis Hasn’t Affected Plans for Steam Deck 2 https://www.reddit.com/r/Games/comments/1wg9iz2/valve_says_ram_crisis_hasnt_affected_plans_for/
+2026-09-14T17:24:46+00:00	TCG Card Shop Simulator 1.0 Update https://www.reddit.com/r/Games/comments/1wg9ut0/tcg_card_shop_simulator_10_update/
+2026-09-14T17:41:12+00:00	MARVEL Tōkon: Fighting Souls - A Message from the Director https://www.reddit.com/r/Games/comments/1wgabsh/marvel_tōkon_fighting_souls_a_message_from_the/
