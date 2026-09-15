@@ -5,14 +5,11 @@
 
 2026-09-13T09:00:36+00:00	Weekly /r/Games Discussion - What have you been playing, and what are your thoughts? - September 13, 2026 https://www.reddit.com/r/Games/comments/1wf2kc8/weekly_rgames_discussion_what_have_you_been/
 2026-09-13T12:59:57+00:00	[AMA] I'm the developer of 'Our Freedom: Medieval Village', a medieval Action RPG combining village management, tactical squad combat & survival. Together with Two Cakes Studio, Ask Us Anything! https://www.reddit.com/r/Games/comments/1wf71x5/ama_im_the_developer_of_our_freedom_medieval/
-2026-09-14T14:23:37+00:00	Lies of P sequel likely titled “Wonders of O,” New Trademark Filed https://www.reddit.com/r/Games/comments/1wg4v7p/lies_of_p_sequel_likely_titled_wonders_of_o_new/
 2026-09-14T16:56:34+00:00	Steam Frame official price is $1,059.00. Half-Life: Alyx included https://www.reddit.com/r/Games/comments/1wg91fx/steam_frame_official_price_is_105900_halflife/
-2026-09-14T17:13:15+00:00	Valve Says RAM Crisis Hasn’t Affected Plans for Steam Deck 2 https://www.reddit.com/r/Games/comments/1wg9iz2/valve_says_ram_crisis_hasnt_affected_plans_for/
 2026-09-14T20:46:58+00:00	Sources: IGN Layoffs Hit Multiple Departments And Long-Time Hosts https://www.reddit.com/r/Games/comments/1wgfm2s/sources_ign_layoffs_hit_multiple_departments_and/
-2026-09-15T01:04:00+00:00	Another Eden Begins was rebuilt from scratch in a new engine so the 10-year-old RPG could live on beyond its service. “We want gamers who hate gacha to try it,” devs say https://www.reddit.com/r/Games/comments/1wgluq9/another_eden_begins_was_rebuilt_from_scratch_in_a/
-2026-09-15T03:12:05+00:00	Persona 5: The Phantom X - P3P Special Event Animation Trailer https://www.reddit.com/r/Games/comments/1wgol5b/persona_5_the_phantom_x_p3p_special_event/
 2026-09-15T06:27:49+00:00	[Wizardry 45th Anniversary] Super Famicom version of Wizardry VI is coming to Steam https://www.reddit.com/r/Games/comments/1wgsfuq/wizardry_45th_anniversary_super_famicom_version/
 2026-09-15T11:16:45+00:00	007 First Light for Switch 2 delayed again to March 2027 https://www.reddit.com/r/Games/comments/1wgxhbl/007_first_light_for_switch_2_delayed_again_to/
+2026-09-15T11:46:56+00:00	Rockstar boss says GTA 6's police "can be harder" to shake off than before, "but it's fun" because it forces you "to think more" https://www.reddit.com/r/Games/comments/1wgy3jj/rockstar_boss_says_gta_6s_police_can_be_harder_to/
 2026-09-15T11:49:21+00:00	RuneScape: Dragonwilds 1.0 Live! https://www.reddit.com/r/Games/comments/1wgy58x/runescape_dragonwilds_10_live/
 2026-09-15T13:01:36+00:00	Ask the Developer Vol. 23: Fire Emblem: Fortune's Weave — Nintendo Official Site https://www.reddit.com/r/Games/comments/1wgzrmb/ask_the_developer_vol_23_fire_emblem_fortunes/
 2026-09-15T13:05:16+00:00	The shooter that Tencent abandoned: Wardogs hits 2m sales in one weekend https://www.reddit.com/r/Games/comments/1wgzux8/the_shooter_that_tencent_abandoned_wardogs_hits/
@@ -28,3 +25,6 @@
 2026-09-15T17:22:32+00:00	The winners of the Japan Game Awards 2026 https://www.reddit.com/r/Games/comments/1wh6pdw/the_winners_of_the_japan_game_awards_2026/
 2026-09-15T17:27:14+00:00	Iron Bramble - Demo Trailer https://www.reddit.com/r/Games/comments/1wh6tzb/iron_bramble_demo_trailer/
 2026-09-15T18:00:24+00:00	Tactful Tactics – Official Gameplay Trailer | 6-Players Online Co-op Tactical RPG https://www.reddit.com/r/Games/comments/1wh7rj1/tactful_tactics_official_gameplay_trailer/
+2026-09-15T18:45:51+00:00	Fog'n'Silence Prototype/Announcement trailer https://www.reddit.com/r/Games/comments/1wh92au/fognsilence_prototypeannouncement_trailer/
+2026-09-15T19:05:04+00:00	Warlock: Dungeons & Dragons Doesn't Have Waypoints Because the Devs Want Players to 'Figure Things Out' for Themselves https://www.reddit.com/r/Games/comments/1wh9m0g/warlock_dungeons_dragons_doesnt_have_waypoints/
+2026-09-15T20:22:23+00:00	Wardogs lead says the studio won't hire people who decry crunch on social media https://www.reddit.com/r/Games/comments/1whbqva/wardogs_lead_says_the_studio_wont_hire_people_who/
