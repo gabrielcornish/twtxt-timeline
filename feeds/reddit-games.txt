@@ -4,14 +4,11 @@
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
 2026-09-13T09:00:36+00:00	Weekly /r/Games Discussion - What have you been playing, and what are your thoughts? - September 13, 2026 https://www.reddit.com/r/Games/comments/1wf2kc8/weekly_rgames_discussion_what_have_you_been/
-2026-09-13T23:31:37+00:00	Last of Us Part 2 multiplayer mod “canceled by Sony” https://www.reddit.com/r/Games/comments/1wfn5zo/last_of_us_part_2_multiplayer_mod_canceled_by_sony/
 2026-09-14T10:40:17+00:00	Actor Stephen Root confirms role in 'Grand Theft Auto VI' https://www.reddit.com/r/Games/comments/1wfzuoh/actor_stephen_root_confirms_role_in_grand_theft/
 2026-09-14T11:43:31+00:00	Our Early Access Journey Is Coming to an End | RuneScape: Dragonwilds - 1.0 Update https://www.reddit.com/r/Games/comments/1wg12uq/our_early_access_journey_is_coming_to_an_end/
-2026-09-14T13:15:55+00:00	Tempest Rising - The Veti's Wrath Release Date Trailer https://www.reddit.com/r/Games/comments/1wg35gp/tempest_rising_the_vetis_wrath_release_date/
 2026-09-14T14:23:37+00:00	Lies of P sequel likely titled “Wonders of O,” New Trademark Filed https://www.reddit.com/r/Games/comments/1wg4v7p/lies_of_p_sequel_likely_titled_wonders_of_o_new/
 2026-09-14T14:44:30+00:00	Ace Combat 8: Wings of Theve - Story Trailer | PS5 Games https://www.reddit.com/r/Games/comments/1wg5eqk/ace_combat_8_wings_of_theve_story_trailer_ps5/
 2026-09-14T15:02:25+00:00	We started MONOWAVE as art students. Now our puzzle game about sharing emotions is coming to Steam and Switch. AMA! https://www.reddit.com/r/Games/comments/1wg5vln/we_started_monowave_as_art_students_now_our/
-2026-09-14T15:18:04+00:00	The Lift - Story Trailer https://www.reddit.com/r/Games/comments/1wg6b70/the_lift_story_trailer/
 2026-09-14T15:38:01+00:00	Kingmakers - Gameplay Deep Dive https://www.reddit.com/r/Games/comments/1wg6uhd/kingmakers_gameplay_deep_dive/
 2026-09-14T16:02:40+00:00	Rayman Legends Retold Delayed to December 3rd https://www.reddit.com/r/Games/comments/1wg7iyi/rayman_legends_retold_delayed_to_december_3rd/
 2026-09-14T16:13:29+00:00	The Triple-i Initiative Showcase Returns October 8th! https://www.reddit.com/r/Games/comments/1wg7tzf/the_triplei_initiative_showcase_returns_october/
@@ -28,3 +25,6 @@
 2026-09-14T21:13:42+00:00	Hori releases a Switch 2 and Windows (XInput) compatible modular arcade controller https://www.reddit.com/r/Games/comments/1wggbwt/hori_releases_a_switch_2_and_windows_xinput/
 2026-09-14T21:26:49+00:00	Hardcoregaming101's article about Zoya, a 2001 FPS developed in Syria. https://www.reddit.com/r/Games/comments/1wggoh2/hardcoregaming101s_article_about_zoya_a_2001_fps/
 2026-09-15T01:04:00+00:00	Another Eden Begins was rebuilt from scratch in a new engine so the 10-year-old RPG could live on beyond its service. “We want gamers who hate gacha to try it,” devs say https://www.reddit.com/r/Games/comments/1wgluq9/another_eden_begins_was_rebuilt_from_scratch_in_a/
+2026-09-15T03:12:05+00:00	Persona 5: The Phantom X - P3P Special Event Animation Trailer https://www.reddit.com/r/Games/comments/1wgol5b/persona_5_the_phantom_x_p3p_special_event/
+2026-09-15T03:14:27+00:00	JUJUTSU KAISEN RUMBLE: SURVIVATON 2nd Trailer (Delayed to 2027) https://www.reddit.com/r/Games/comments/1wgomvf/jujutsu_kaisen_rumble_survivaton_2nd_trailer/
+2026-09-15T06:27:49+00:00	[Wizardry 45th Anniversary] Super Famicom version of Wizardry VI is coming to Steam https://www.reddit.com/r/Games/comments/1wgsfuq/wizardry_45th_anniversary_super_famicom_version/
