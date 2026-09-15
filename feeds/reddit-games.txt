@@ -7,12 +7,10 @@
 2026-09-14T10:40:17+00:00	Actor Stephen Root confirms role in 'Grand Theft Auto VI' https://www.reddit.com/r/Games/comments/1wfzuoh/actor_stephen_root_confirms_role_in_grand_theft/
 2026-09-14T11:43:31+00:00	Our Early Access Journey Is Coming to an End | RuneScape: Dragonwilds - 1.0 Update https://www.reddit.com/r/Games/comments/1wg12uq/our_early_access_journey_is_coming_to_an_end/
 2026-09-14T14:23:37+00:00	Lies of P sequel likely titled “Wonders of O,” New Trademark Filed https://www.reddit.com/r/Games/comments/1wg4v7p/lies_of_p_sequel_likely_titled_wonders_of_o_new/
-2026-09-14T14:44:30+00:00	Ace Combat 8: Wings of Theve - Story Trailer | PS5 Games https://www.reddit.com/r/Games/comments/1wg5eqk/ace_combat_8_wings_of_theve_story_trailer_ps5/
 2026-09-14T15:02:25+00:00	We started MONOWAVE as art students. Now our puzzle game about sharing emotions is coming to Steam and Switch. AMA! https://www.reddit.com/r/Games/comments/1wg5vln/we_started_monowave_as_art_students_now_our/
 2026-09-14T15:38:01+00:00	Kingmakers - Gameplay Deep Dive https://www.reddit.com/r/Games/comments/1wg6uhd/kingmakers_gameplay_deep_dive/
 2026-09-14T16:02:40+00:00	Rayman Legends Retold Delayed to December 3rd https://www.reddit.com/r/Games/comments/1wg7iyi/rayman_legends_retold_delayed_to_december_3rd/
 2026-09-14T16:13:29+00:00	The Triple-i Initiative Showcase Returns October 8th! https://www.reddit.com/r/Games/comments/1wg7tzf/the_triplei_initiative_showcase_returns_october/
-2026-09-14T16:14:31+00:00	Mamma Mia! After 30 Years, Super Mario Bros. 2's Satellaview Exclusive Sequel Has Just Got An English Fan Dub https://www.reddit.com/r/Games/comments/1wg7v1y/mamma_mia_after_30_years_super_mario_bros_2s/
 2026-09-14T16:35:21+00:00	Fire Emblem: Fortune’s Weave — Overview Trailer — Nintendo Switch 2 https://www.reddit.com/r/Games/comments/1wg8g10/fire_emblem_fortunes_weave_overview_trailer/
 2026-09-14T16:39:17+00:00	Mat Piscatella on the PlayStation Blackout: "There was no significant change at all in player count or engagement in our tracking." https://www.reddit.com/r/Games/comments/1wg8k5f/mat_piscatella_on_the_playstation_blackout_there/
 2026-09-14T16:56:34+00:00	Steam Frame official price is $1,059.00. Half-Life: Alyx included https://www.reddit.com/r/Games/comments/1wg91fx/steam_frame_official_price_is_105900_halflife/
@@ -23,8 +21,10 @@
 2026-09-14T20:31:11+00:00	The Crab Is Walking - Announcement Trailer https://www.reddit.com/r/Games/comments/1wgf70m/the_crab_is_walking_announcement_trailer/
 2026-09-14T20:46:58+00:00	Sources: IGN Layoffs Hit Multiple Departments And Long-Time Hosts https://www.reddit.com/r/Games/comments/1wgfm2s/sources_ign_layoffs_hit_multiple_departments_and/
 2026-09-14T21:13:42+00:00	Hori releases a Switch 2 and Windows (XInput) compatible modular arcade controller https://www.reddit.com/r/Games/comments/1wggbwt/hori_releases_a_switch_2_and_windows_xinput/
-2026-09-14T21:26:49+00:00	Hardcoregaming101's article about Zoya, a 2001 FPS developed in Syria. https://www.reddit.com/r/Games/comments/1wggoh2/hardcoregaming101s_article_about_zoya_a_2001_fps/
 2026-09-15T01:04:00+00:00	Another Eden Begins was rebuilt from scratch in a new engine so the 10-year-old RPG could live on beyond its service. “We want gamers who hate gacha to try it,” devs say https://www.reddit.com/r/Games/comments/1wgluq9/another_eden_begins_was_rebuilt_from_scratch_in_a/
 2026-09-15T03:12:05+00:00	Persona 5: The Phantom X - P3P Special Event Animation Trailer https://www.reddit.com/r/Games/comments/1wgol5b/persona_5_the_phantom_x_p3p_special_event/
-2026-09-15T03:14:27+00:00	JUJUTSU KAISEN RUMBLE: SURVIVATON 2nd Trailer (Delayed to 2027) https://www.reddit.com/r/Games/comments/1wgomvf/jujutsu_kaisen_rumble_survivaton_2nd_trailer/
 2026-09-15T06:27:49+00:00	[Wizardry 45th Anniversary] Super Famicom version of Wizardry VI is coming to Steam https://www.reddit.com/r/Games/comments/1wgsfuq/wizardry_45th_anniversary_super_famicom_version/
+2026-09-15T11:16:45+00:00	007 First Light for Switch 2 delayed again to March 2027 https://www.reddit.com/r/Games/comments/1wgxhbl/007_first_light_for_switch_2_delayed_again_to/
+2026-09-15T11:49:21+00:00	RuneScape: Dragonwilds 1.0 Live! https://www.reddit.com/r/Games/comments/1wgy58x/runescape_dragonwilds_10_live/
+2026-09-15T13:01:36+00:00	Ask the Developer Vol. 23: Fire Emblem: Fortune's Weave — Nintendo Official Site https://www.reddit.com/r/Games/comments/1wgzrmb/ask_the_developer_vol_23_fire_emblem_fortunes/
+2026-09-15T13:05:16+00:00	The shooter that Tencent abandoned: Wardogs hits 2m sales in one weekend https://www.reddit.com/r/Games/comments/1wgzux8/the_shooter_that_tencent_abandoned_wardogs_hits/
