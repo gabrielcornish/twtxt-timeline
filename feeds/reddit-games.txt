@@ -3,7 +3,6 @@
 # source = https://www.reddit.com/r/Games.rss
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
-2026-09-13T09:00:36+00:00	Weekly /r/Games Discussion - What have you been playing, and what are your thoughts? - September 13, 2026 https://www.reddit.com/r/Games/comments/1wf2kc8/weekly_rgames_discussion_what_have_you_been/
 2026-09-13T12:59:57+00:00	[AMA] I'm the developer of 'Our Freedom: Medieval Village', a medieval Action RPG combining village management, tactical squad combat & survival. Together with Two Cakes Studio, Ask Us Anything! https://www.reddit.com/r/Games/comments/1wf71x5/ama_im_the_developer_of_our_freedom_medieval/
 2026-09-15T11:46:56+00:00	Rockstar boss says GTA 6's police "can be harder" to shake off than before, "but it's fun" because it forces you "to think more" https://www.reddit.com/r/Games/comments/1wgy3jj/rockstar_boss_says_gta_6s_police_can_be_harder_to/
 2026-09-15T11:49:21+00:00	RuneScape: Dragonwilds 1.0 Live! https://www.reddit.com/r/Games/comments/1wgy58x/runescape_dragonwilds_10_live/
@@ -11,12 +10,9 @@
 2026-09-15T13:05:16+00:00	The shooter that Tencent abandoned: Wardogs hits 2m sales in one weekend https://www.reddit.com/r/Games/comments/1wgzux8/the_shooter_that_tencent_abandoned_wardogs_hits/
 2026-09-15T13:16:36+00:00	KINGDOM HEARTS arrives in Fortnite! https://www.reddit.com/r/Games/comments/1wh050b/kingdom_hearts_arrives_in_fortnite/
 2026-09-15T14:04:26+00:00	『Total War: SHOGUN 2 - Complete Edition』Announce Trailer https://www.reddit.com/r/Games/comments/1wh1bti/total_war_shogun_2_complete_editionannounce/
-2026-09-15T14:05:24+00:00	PowerWash Simulator 2 | Barbie Pack Announce Trailer https://www.reddit.com/r/Games/comments/1wh1cq4/powerwash_simulator_2_barbie_pack_announce_trailer/
-2026-09-15T15:23:27+00:00	Two Point Museum: Rides & Relics | Coming 8th October! https://www.reddit.com/r/Games/comments/1wh3eyj/two_point_museum_rides_relics_coming_8th_october/
 2026-09-15T16:19:12+00:00	Regarding Nighthawks on Steam: The "Adults Only" ranking has been removed from Nighthawks! Everything is set for launch on the 22nd https://www.reddit.com/r/Games/comments/1wh4xup/regarding_nighthawks_on_steam_the_adults_only/
 2026-09-15T16:49:46+00:00	Aniimo Review: An Impressive Creature Collector MMORPG https://www.reddit.com/r/Games/comments/1wh5rvh/aniimo_review_an_impressive_creature_collector/
 2026-09-15T17:22:32+00:00	The winners of the Japan Game Awards 2026 https://www.reddit.com/r/Games/comments/1wh6pdw/the_winners_of_the_japan_game_awards_2026/
-2026-09-15T17:27:14+00:00	Iron Bramble - Demo Trailer https://www.reddit.com/r/Games/comments/1wh6tzb/iron_bramble_demo_trailer/
 2026-09-15T19:05:04+00:00	Warlock: Dungeons & Dragons Doesn't Have Waypoints Because the Devs Want Players to 'Figure Things Out' for Themselves https://www.reddit.com/r/Games/comments/1wh9m0g/warlock_dungeons_dragons_doesnt_have_waypoints/
 2026-09-15T20:22:23+00:00	Wardogs lead says the studio won't hire people who decry crunch on social media https://www.reddit.com/r/Games/comments/1whbqva/wardogs_lead_says_the_studio_wont_hire_people_who/
 2026-09-15T21:53:12+00:00	Masahiro Sakurai Forced to Abandon Game Designers Award After 16 Years as He Can't Find a Successor https://www.reddit.com/r/Games/comments/1whe4d1/masahiro_sakurai_forced_to_abandon_game_designers/
@@ -28,3 +24,7 @@
 2026-09-16T01:09:43+00:00	Falcom signs agreement with NEOWIZ for development and global release of The Legend of Heroes III: Prophecy of the Moonlight Witch for consoles, PC https://www.reddit.com/r/Games/comments/1whis7z/falcom_signs_agreement_with_neowiz_for/
 2026-09-16T01:36:39+00:00	Wo Long 2: Wings of Ember isn't just a sequel - it's a culmination of everything Team Ninja has learned from Nioh, Ninja Gaiden, and Dead or Alive - Eurogamer https://www.reddit.com/r/Games/comments/1whje48/wo_long_2_wings_of_ember_isnt_just_a_sequel_its_a/
 2026-09-16T01:41:33+00:00	Wo Long 2: Wings of Ember - Release Date Trailer (Mar 4th 2027) https://www.reddit.com/r/Games/comments/1whji15/wo_long_2_wings_of_ember_release_date_trailer_mar/
+2026-09-16T08:15:02+00:00	Trails in the Sky 2nd Chapter - Review Thread https://www.reddit.com/r/Games/comments/1whr3j0/trails_in_the_sky_2nd_chapter_review_thread/
+2026-09-16T10:34:34+00:00	Terranigma - Release Date Trailer https://www.reddit.com/r/Games/comments/1whtikz/terranigma_release_date_trailer/
+2026-09-16T11:00:47+00:00	Daily /r/Games Discussion - Suggest Me a Game - September 16, 2026 https://www.reddit.com/r/Games/comments/1whtzsj/daily_rgames_discussion_suggest_me_a_game/
+2026-09-16T11:13:03+00:00	Denuvo Sues Game Cracker 'voices38' for Bypassing its Anti-Tamper DRM https://www.reddit.com/r/Games/comments/1whu8pi/denuvo_sues_game_cracker_voices38_for_bypassing/

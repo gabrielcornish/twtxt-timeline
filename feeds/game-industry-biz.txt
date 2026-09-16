@@ -3,8 +3,6 @@
 # source = https://www.gamesindustry.biz/feed
 # description = twtxt conversion of https://www.gamesindustry.biz/feed
 
-2026-09-04T15:57:03+00:00	Inside Tencent's long-term strategy: live service, AI tools, and evergreen titles https://www.gamesindustry.biz/inside-tencents-long-term-strategy-live-service-ai-tools-and-evergreen-titles
-2026-09-04T18:00:00+00:00	PAX Unplugged Houston to debut in June 2027: "It's a chance to bring PAX back to the PAX South fans that missed us" https://www.gamesindustry.biz/pax-unplugged-houston-to-debut-in-june-2027-its-a-chance-to-bring-pax-back-to-the-pax-south-fans-that-missed-us
 2026-09-07T07:54:06+00:00	Niko Partners: Chinese games market surpasses $50bn for the first time in 2025 https://www.gamesindustry.biz/niko-partners-chinese-games-market-surpasses-50bn-for-the-first-time-in-2025
 2026-09-07T10:38:03+00:00	Gamescom issues apology for initial response to hardware thefts: "It did not show the people affected the empathy they deserve" https://www.gamesindustry.biz/gamescom-issues-apology-for-initial-response-to-hardware-thefts-it-did-not-show-the-people-affected-the-empathy-they-deserve
 2026-09-07T13:07:52+00:00	Tim Schafer: "No one puts Double Fine out of business except me" https://www.gamesindustry.biz/tim-schafer-no-one-puts-double-fine-out-of-business-except-me
@@ -53,3 +51,5 @@
 2026-09-15T09:43:03+00:00	Team17 owner Everplay increases shareholding in Wardogs dev Bulkhead, touts strong FY26 results https://www.gamesindustry.biz/team17-owner-everplay-increases-shareholding-in-wardogs-dev-bulkhead-touts-strong-fy26-results
 2026-09-15T10:47:08+00:00	Sega and Netflix announce partnership to develop Crazy Taxi, Sonic, and Stranger Than Heaven adaptations https://www.gamesindustry.biz/sega-and-netflix-announce-partnership-to-develop-crazy-taxi-sonic-and-stranger-than-heaven-adaptations
 2026-09-15T12:30:00+00:00	Why switching main characters for your game's sequel might be a mistake https://www.gamesindustry.biz/why-switching-main-characters-for-your-games-sequel-might-be-a-mistake
+2026-09-16T06:30:00+00:00	Why the publisher of Nintendo Life is launching a new PC gaming site https://www.gamesindustry.biz/why-the-publisher-of-nintendo-life-is-launching-a-new-pc-gaming-site
+2026-09-16T07:57:45+00:00	Bohemia Interactive takes minority stake in Everwind developer Enjoy Studio https://www.gamesindustry.biz/bohemia-interactive-takes-minority-stake-in-everwind-developer-enjoy-studio
