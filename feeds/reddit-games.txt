@@ -4,27 +4,27 @@
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
 2026-09-13T12:59:57+00:00	[AMA] I'm the developer of 'Our Freedom: Medieval Village', a medieval Action RPG combining village management, tactical squad combat & survival. Together with Two Cakes Studio, Ask Us Anything! https://www.reddit.com/r/Games/comments/1wf71x5/ama_im_the_developer_of_our_freedom_medieval/
-2026-09-15T11:46:56+00:00	Rockstar boss says GTA 6's police "can be harder" to shake off than before, "but it's fun" because it forces you "to think more" https://www.reddit.com/r/Games/comments/1wgy3jj/rockstar_boss_says_gta_6s_police_can_be_harder_to/
-2026-09-15T11:49:21+00:00	RuneScape: Dragonwilds 1.0 Live! https://www.reddit.com/r/Games/comments/1wgy58x/runescape_dragonwilds_10_live/
-2026-09-15T13:01:36+00:00	Ask the Developer Vol. 23: Fire Emblem: Fortune's Weave — Nintendo Official Site https://www.reddit.com/r/Games/comments/1wgzrmb/ask_the_developer_vol_23_fire_emblem_fortunes/
 2026-09-15T13:05:16+00:00	The shooter that Tencent abandoned: Wardogs hits 2m sales in one weekend https://www.reddit.com/r/Games/comments/1wgzux8/the_shooter_that_tencent_abandoned_wardogs_hits/
-2026-09-15T13:16:36+00:00	KINGDOM HEARTS arrives in Fortnite! https://www.reddit.com/r/Games/comments/1wh050b/kingdom_hearts_arrives_in_fortnite/
-2026-09-15T14:04:26+00:00	『Total War: SHOGUN 2 - Complete Edition』Announce Trailer https://www.reddit.com/r/Games/comments/1wh1bti/total_war_shogun_2_complete_editionannounce/
 2026-09-15T16:19:12+00:00	Regarding Nighthawks on Steam: The "Adults Only" ranking has been removed from Nighthawks! Everything is set for launch on the 22nd https://www.reddit.com/r/Games/comments/1wh4xup/regarding_nighthawks_on_steam_the_adults_only/
-2026-09-15T16:49:46+00:00	Aniimo Review: An Impressive Creature Collector MMORPG https://www.reddit.com/r/Games/comments/1wh5rvh/aniimo_review_an_impressive_creature_collector/
-2026-09-15T17:22:32+00:00	The winners of the Japan Game Awards 2026 https://www.reddit.com/r/Games/comments/1wh6pdw/the_winners_of_the_japan_game_awards_2026/
 2026-09-15T19:05:04+00:00	Warlock: Dungeons & Dragons Doesn't Have Waypoints Because the Devs Want Players to 'Figure Things Out' for Themselves https://www.reddit.com/r/Games/comments/1wh9m0g/warlock_dungeons_dragons_doesnt_have_waypoints/
 2026-09-15T20:22:23+00:00	Wardogs lead says the studio won't hire people who decry crunch on social media https://www.reddit.com/r/Games/comments/1whbqva/wardogs_lead_says_the_studio_wont_hire_people_who/
 2026-09-15T21:53:12+00:00	Masahiro Sakurai Forced to Abandon Game Designers Award After 16 Years as He Can't Find a Successor https://www.reddit.com/r/Games/comments/1whe4d1/masahiro_sakurai_forced_to_abandon_game_designers/
 2026-09-15T23:11:58+00:00	Sonic Racing: CrossWorlds - Bayonetta Teaser Trailer https://www.reddit.com/r/Games/comments/1whg29x/sonic_racing_crossworlds_bayonetta_teaser_trailer/
-2026-09-15T23:57:00+00:00	Monsters & Memories Early Access Launch Trailer https://www.reddit.com/r/Games/comments/1whh4bl/monsters_memories_early_access_launch_trailer/
 2026-09-16T00:03:21+00:00	Metal Gear Solid 5 feels fresh again thanks to the Definitive Subsistence mod https://www.reddit.com/r/Games/comments/1whhaha/metal_gear_solid_5_feels_fresh_again_thanks_to/
 2026-09-16T00:10:00+00:00	Undertale translator explains EN to JP localization | Unpacking Japan https://www.reddit.com/r/Games/comments/1whhfz8/undertale_translator_explains_en_to_jp/
 2026-09-16T00:36:02+00:00	Balatro 1.1 Update News & Leaks https://www.reddit.com/r/Games/comments/1whi10m/balatro_11_update_news_leaks/
-2026-09-16T01:09:43+00:00	Falcom signs agreement with NEOWIZ for development and global release of The Legend of Heroes III: Prophecy of the Moonlight Witch for consoles, PC https://www.reddit.com/r/Games/comments/1whis7z/falcom_signs_agreement_with_neowiz_for/
 2026-09-16T01:36:39+00:00	Wo Long 2: Wings of Ember isn't just a sequel - it's a culmination of everything Team Ninja has learned from Nioh, Ninja Gaiden, and Dead or Alive - Eurogamer https://www.reddit.com/r/Games/comments/1whje48/wo_long_2_wings_of_ember_isnt_just_a_sequel_its_a/
 2026-09-16T01:41:33+00:00	Wo Long 2: Wings of Ember - Release Date Trailer (Mar 4th 2027) https://www.reddit.com/r/Games/comments/1whji15/wo_long_2_wings_of_ember_release_date_trailer_mar/
 2026-09-16T08:15:02+00:00	Trails in the Sky 2nd Chapter - Review Thread https://www.reddit.com/r/Games/comments/1whr3j0/trails_in_the_sky_2nd_chapter_review_thread/
 2026-09-16T10:34:34+00:00	Terranigma - Release Date Trailer https://www.reddit.com/r/Games/comments/1whtikz/terranigma_release_date_trailer/
 2026-09-16T11:00:47+00:00	Daily /r/Games Discussion - Suggest Me a Game - September 16, 2026 https://www.reddit.com/r/Games/comments/1whtzsj/daily_rgames_discussion_suggest_me_a_game/
 2026-09-16T11:13:03+00:00	Denuvo Sues Game Cracker 'voices38' for Bypassing its Anti-Tamper DRM https://www.reddit.com/r/Games/comments/1whu8pi/denuvo_sues_game_cracker_voices38_for_bypassing/
+2026-09-16T12:01:01+00:00	Fire Emblem: Fortune's Weave Review Thread https://www.reddit.com/r/Games/comments/1whv8bl/fire_emblem_fortunes_weave_review_thread/
+2026-09-16T13:17:18+00:00	Zero Parades: Director's Cut Revealed And PS5 Edition Release Date Announced https://www.reddit.com/r/Games/comments/1whwzjl/zero_parades_directors_cut_revealed_and_ps5/
+2026-09-16T13:18:37+00:00	'Dragon Quest' Series Surpasses 100 Million Units Sold on its 40th Anniversary https://www.reddit.com/r/Games/comments/1whx0ol/dragon_quest_series_surpasses_100_million_units/
+2026-09-16T14:07:41+00:00	Here's Why Xbox 'Protected' the Development of Fable, Amid Layoffs and Studio Closures https://www.reddit.com/r/Games/comments/1why9u4/heres_why_xbox_protected_the_development_of_fable/
+2026-09-16T14:15:24+00:00	Two Point Hospital: Full Health Collection | OUT NOW https://www.reddit.com/r/Games/comments/1whygzt/two_point_hospital_full_health_collection_out_now/
+2026-09-16T14:24:47+00:00	Dragon's Dogma 2: Dark Arisen - Main Trailer https://www.reddit.com/r/Games/comments/1whyq7p/dragons_dogma_2_dark_arisen_main_trailer/
+2026-09-16T14:43:13+00:00	MindsEye Developers Say They've Been Laid Off Amid Questions Over Build a Rocket Boy's Future https://www.reddit.com/r/Games/comments/1whz7ji/mindseye_developers_say_theyve_been_laid_off_amid/
+2026-09-16T16:04:18+00:00	The Studio Behind MindsEye Is Closing Following Latest Layoffs https://www.reddit.com/r/Games/comments/1wi1fov/the_studio_behind_mindseye_is_closing_following/
+2026-09-16T16:46:03+00:00	Ex-Disco Elysium Dev's studio Summer Eternal Launches player non-profit, giving a collective 5% of the company away to anyone purchasing their launch anthology book. https://www.reddit.com/r/Games/comments/1wi2lmi/exdisco_elysium_devs_studio_summer_eternal/
