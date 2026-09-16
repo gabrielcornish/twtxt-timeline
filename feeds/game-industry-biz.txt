@@ -3,7 +3,6 @@
 # source = https://www.gamesindustry.biz/feed
 # description = twtxt conversion of https://www.gamesindustry.biz/feed
 
-2026-09-07T14:03:15+00:00	Sega cancelled its "risky" Super Game project as it "would have to grow enormously to match the scale of the service" https://www.gamesindustry.biz/sega-cancelled-its-risky-super-game-project-as-it-would-have-to-grow-enormously-to-match-the-scale-of-the-service
 2026-09-07T15:34:14+00:00	"It's not sexy, but it's one of the most successful genres on Steam" – Stronghold developer Firefly launches publishing label to serve the vast strategy market https://www.gamesindustry.biz/its-not-sexy-but-its-one-of-the-most-successful-genres-on-steam-stronghold-developer-firefly-steps-up-to-publisher-to-serve-the-vast-strategy-market
 2026-09-07T16:51:44+00:00	Capcom says it will focus on reviving dormant IPs after Onimusha: Way of the Sword's breakout launch https://www.gamesindustry.biz/capcom-says-it-will-focus-on-reviving-dormant-ips-after-onimusha-way-of-the-swords-breakout-launch
 2026-09-07T18:42:05+00:00	Don't Nod warns it may not have enough funding to operate beyond January 2027 https://www.gamesindustry.biz/dont-nod-warns-it-may-not-have-enough-funding-to-operate-beyond-january-2027
@@ -53,3 +52,4 @@
 2026-09-16T13:07:10+00:00	"I really want Criterion to be considered the best studio in the UK" – why the home of Burnout has a future with Battlefield https://www.gamesindustry.biz/i-really-want-criterion-to-be-considered-the-best-studio-in-the-uk-why-the-home-of-burnout-has-a-future-with-battlefield
 2026-09-16T13:25:18+00:00	1312 Interactive raises $1m in seed funding round https://www.gamesindustry.biz/1312-interactive-raises-1m-in-seed-funding-round
 2026-09-16T16:08:21+00:00	Here are the first finalists for the 2026 GamesIndustry.biz Best Places To Work Awards UK https://www.gamesindustry.biz/here-are-the-first-finalists-for-the-2026-gamesindustrybiz-best-places-to-work-awards-uk
+2026-09-16T17:32:12+00:00	MindsEye developers report new round of layoffs at Build A Rocket Boy https://www.gamesindustry.biz/mindseye-developers-report-new-round-of-layoffs-at-build-a-rocket-boy

@@ -4,17 +4,11 @@
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
 2026-09-13T12:59:57+00:00	[AMA] I'm the developer of 'Our Freedom: Medieval Village', a medieval Action RPG combining village management, tactical squad combat & survival. Together with Two Cakes Studio, Ask Us Anything! https://www.reddit.com/r/Games/comments/1wf71x5/ama_im_the_developer_of_our_freedom_medieval/
-2026-09-15T13:05:16+00:00	The shooter that Tencent abandoned: Wardogs hits 2m sales in one weekend https://www.reddit.com/r/Games/comments/1wgzux8/the_shooter_that_tencent_abandoned_wardogs_hits/
-2026-09-15T16:19:12+00:00	Regarding Nighthawks on Steam: The "Adults Only" ranking has been removed from Nighthawks! Everything is set for launch on the 22nd https://www.reddit.com/r/Games/comments/1wh4xup/regarding_nighthawks_on_steam_the_adults_only/
-2026-09-15T19:05:04+00:00	Warlock: Dungeons & Dragons Doesn't Have Waypoints Because the Devs Want Players to 'Figure Things Out' for Themselves https://www.reddit.com/r/Games/comments/1wh9m0g/warlock_dungeons_dragons_doesnt_have_waypoints/
 2026-09-15T20:22:23+00:00	Wardogs lead says the studio won't hire people who decry crunch on social media https://www.reddit.com/r/Games/comments/1whbqva/wardogs_lead_says_the_studio_wont_hire_people_who/
 2026-09-15T21:53:12+00:00	Masahiro Sakurai Forced to Abandon Game Designers Award After 16 Years as He Can't Find a Successor https://www.reddit.com/r/Games/comments/1whe4d1/masahiro_sakurai_forced_to_abandon_game_designers/
-2026-09-15T23:11:58+00:00	Sonic Racing: CrossWorlds - Bayonetta Teaser Trailer https://www.reddit.com/r/Games/comments/1whg29x/sonic_racing_crossworlds_bayonetta_teaser_trailer/
 2026-09-16T00:03:21+00:00	Metal Gear Solid 5 feels fresh again thanks to the Definitive Subsistence mod https://www.reddit.com/r/Games/comments/1whhaha/metal_gear_solid_5_feels_fresh_again_thanks_to/
 2026-09-16T00:10:00+00:00	Undertale translator explains EN to JP localization | Unpacking Japan https://www.reddit.com/r/Games/comments/1whhfz8/undertale_translator_explains_en_to_jp/
 2026-09-16T00:36:02+00:00	Balatro 1.1 Update News & Leaks https://www.reddit.com/r/Games/comments/1whi10m/balatro_11_update_news_leaks/
-2026-09-16T01:36:39+00:00	Wo Long 2: Wings of Ember isn't just a sequel - it's a culmination of everything Team Ninja has learned from Nioh, Ninja Gaiden, and Dead or Alive - Eurogamer https://www.reddit.com/r/Games/comments/1whje48/wo_long_2_wings_of_ember_isnt_just_a_sequel_its_a/
-2026-09-16T01:41:33+00:00	Wo Long 2: Wings of Ember - Release Date Trailer (Mar 4th 2027) https://www.reddit.com/r/Games/comments/1whji15/wo_long_2_wings_of_ember_release_date_trailer_mar/
 2026-09-16T08:15:02+00:00	Trails in the Sky 2nd Chapter - Review Thread https://www.reddit.com/r/Games/comments/1whr3j0/trails_in_the_sky_2nd_chapter_review_thread/
 2026-09-16T10:34:34+00:00	Terranigma - Release Date Trailer https://www.reddit.com/r/Games/comments/1whtikz/terranigma_release_date_trailer/
 2026-09-16T11:00:47+00:00	Daily /r/Games Discussion - Suggest Me a Game - September 16, 2026 https://www.reddit.com/r/Games/comments/1whtzsj/daily_rgames_discussion_suggest_me_a_game/
@@ -28,3 +22,9 @@
 2026-09-16T14:43:13+00:00	MindsEye Developers Say They've Been Laid Off Amid Questions Over Build a Rocket Boy's Future https://www.reddit.com/r/Games/comments/1whz7ji/mindseye_developers_say_theyve_been_laid_off_amid/
 2026-09-16T16:04:18+00:00	The Studio Behind MindsEye Is Closing Following Latest Layoffs https://www.reddit.com/r/Games/comments/1wi1fov/the_studio_behind_mindseye_is_closing_following/
 2026-09-16T16:46:03+00:00	Ex-Disco Elysium Dev's studio Summer Eternal Launches player non-profit, giving a collective 5% of the company away to anyone purchasing their launch anthology book. https://www.reddit.com/r/Games/comments/1wi2lmi/exdisco_elysium_devs_studio_summer_eternal/
+2026-09-16T17:28:19+00:00	CONTROL Resonant - PC Gaming Show Documentary https://www.reddit.com/r/Games/comments/1wi3t3x/control_resonant_pc_gaming_show_documentary/
+2026-09-16T17:50:31+00:00	With the launch of Monster Hunter Wilds: Ascendance, players will be able to re-edit the appearance of their hunter as many times as they like, free of charge and without the need for a Character Edit Voucher. https://www.reddit.com/r/Games/comments/1wi4fdy/with_the_launch_of_monster_hunter_wilds/
+2026-09-16T18:00:27+00:00	Warhammer 40,000: Dawn of War IV Battlefield Report – 2v2 Team Domination https://www.reddit.com/r/Games/comments/1wi4paa/warhammer_40000_dawn_of_war_iv_battlefield_report/
+2026-09-16T18:16:41+00:00	Level-5 Promises To Fix Yo-Kai Watch 2 And Professor Layton Presentation In The Wake Of AI Backlash And Explains That Many Of Its Artwork Mistakes Were Simply Down To Human Error https://www.reddit.com/r/Games/comments/1wi561h/level5_promises_to_fix_yokai_watch_2_and/
+2026-09-16T19:35:20+00:00	Heart Machine founder Alx Preston - "nearly everyone at the studio had to be laid off" after a publisher is no longer moving forward with an unannounced game - "Right now, I'm not sure yet how or if Heart Machine survives" https://www.reddit.com/r/Games/comments/1wi7e1g/heart_machine_founder_alx_preston_nearly_everyone/
+2026-09-16T19:38:07+00:00	The Blood of Dawnwalker's controversial time mechanic won't necessarily be in a sequel, the game director says https://www.reddit.com/r/Games/comments/1wi7gqu/the_blood_of_dawnwalkers_controversial_time/
