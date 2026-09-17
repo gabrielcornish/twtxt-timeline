@@ -3,7 +3,6 @@
 # source = https://bearblog.dev/discover/feed/
 # description = twtxt conversion of https://bearblog.dev/discover/feed/
 
-2026-09-14T14:41:00+00:00	"Rogue AI" is Bullshit: Article Reading List https://princetonponders.bearblog.dev/rogue-ai-is-bullshit/
 2026-09-14T15:08:15.466999+00:00	Leaving Linux https://jackevans.bearblog.dev/leaving-linux/
 2026-09-14T15:54:00+00:00	My 30th Birthday Present is a Blog https://sourwudd.com/my-30th-birthday-present-is-a-blog/
 2026-09-14T17:59:00+00:00	I was an eight-year-old girl https://betweentheskyscrapers.bearblog.dev/i-was-an-eight-year-old-girl/
@@ -16,10 +15,11 @@
 2026-09-15T16:57:00+00:00	how can you be late in life when its your life? https://tala.bearblog.dev/how-can-you-be-late-in-life-when-its-your-life/
 2026-09-15T17:09:00+00:00	the curious incident of the duck in the night time https://yizcounty.rodeo/duckstory/
 2026-09-15T18:03:00+00:00	How A Tree Falling On My Garage Taught Me That My Power Company's Phone Number Got Poached By A Phone Sex Company https://blog.curiousquail.com/how-a-tree-falling-on-my-garage-taught-me-that-my-power-companys-phone-number-got-poached-by-a-phone-sex-company/
-2026-09-15T18:35:00+00:00	The Last of Your Water Bowl https://notes.jeddacp.com/the-last-of-your-water-bowl/
 2026-09-15T20:00:10.210480+00:00	You can just do stuff https://skuth.us/you-can-just-do-stuff/
 2026-09-16T02:55:00+00:00	our lady of perpetual emotional comfort https://deerhoof.website/our-lady-of-perpetual-emotional-comfort/
 2026-09-16T03:50:00+00:00	september 15 mit https://combatdavey.net/september-15-2026/
 2026-09-16T05:10:05.507793+00:00	reasons i don't tell people how i'm feeling https://cherrysroom.bearblog.dev/reasons-i-dont-tell-people-how-im-feeling/
 2026-09-16T14:22:00+00:00	All my posts are perfect https://robertbirming.com/my-posts-perfect/
+2026-09-16T14:45:00+00:00	How to graft an Instax Mini onto your vintage camera https://iainsinclair.net/how-to-graft-an-instax-mini-onto-your-vintage-camera/
 2026-09-16T15:13:00+00:00	a very chinese time in my life https://tiramisu.bearblog.dev/kunming-0/
+2026-09-16T18:49:00+00:00	Dead dreams of smart devices https://puppynet.work/dead-dreams-of-smart-devices/
