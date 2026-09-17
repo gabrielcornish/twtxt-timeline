@@ -4,22 +4,12 @@
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
 2026-09-13T12:59:57+00:00	[AMA] I'm the developer of 'Our Freedom: Medieval Village', a medieval Action RPG combining village management, tactical squad combat & survival. Together with Two Cakes Studio, Ask Us Anything! https://www.reddit.com/r/Games/comments/1wf71x5/ama_im_the_developer_of_our_freedom_medieval/
-2026-09-16T08:15:02+00:00	Trails in the Sky 2nd Chapter - Review Thread https://www.reddit.com/r/Games/comments/1whr3j0/trails_in_the_sky_2nd_chapter_review_thread/
-2026-09-16T10:34:34+00:00	Terranigma - Release Date Trailer https://www.reddit.com/r/Games/comments/1whtikz/terranigma_release_date_trailer/
 2026-09-16T11:00:47+00:00	Daily /r/Games Discussion - Suggest Me a Game - September 16, 2026 https://www.reddit.com/r/Games/comments/1whtzsj/daily_rgames_discussion_suggest_me_a_game/
 2026-09-16T11:13:03+00:00	Denuvo Sues Game Cracker 'voices38' for Bypassing its Anti-Tamper DRM https://www.reddit.com/r/Games/comments/1whu8pi/denuvo_sues_game_cracker_voices38_for_bypassing/
 2026-09-16T12:01:01+00:00	Fire Emblem: Fortune's Weave Review Thread https://www.reddit.com/r/Games/comments/1whv8bl/fire_emblem_fortunes_weave_review_thread/
-2026-09-16T13:17:18+00:00	Zero Parades: Director's Cut Revealed And PS5 Edition Release Date Announced https://www.reddit.com/r/Games/comments/1whwzjl/zero_parades_directors_cut_revealed_and_ps5/
-2026-09-16T13:18:37+00:00	'Dragon Quest' Series Surpasses 100 Million Units Sold on its 40th Anniversary https://www.reddit.com/r/Games/comments/1whx0ol/dragon_quest_series_surpasses_100_million_units/
-2026-09-16T14:07:41+00:00	Here's Why Xbox 'Protected' the Development of Fable, Amid Layoffs and Studio Closures https://www.reddit.com/r/Games/comments/1why9u4/heres_why_xbox_protected_the_development_of_fable/
 2026-09-16T14:24:47+00:00	Dragon's Dogma 2: Dark Arisen - Main Trailer https://www.reddit.com/r/Games/comments/1whyq7p/dragons_dogma_2_dark_arisen_main_trailer/
-2026-09-16T14:43:13+00:00	MindsEye Developers Say They've Been Laid Off Amid Questions Over Build a Rocket Boy's Future https://www.reddit.com/r/Games/comments/1whz7ji/mindseye_developers_say_theyve_been_laid_off_amid/
 2026-09-16T16:04:18+00:00	The Studio Behind MindsEye Is Closing Following Latest Layoffs https://www.reddit.com/r/Games/comments/1wi1fov/the_studio_behind_mindseye_is_closing_following/
-2026-09-16T16:46:03+00:00	Ex-Disco Elysium Dev's studio Summer Eternal Launches player non-profit, giving a collective 5% of the company away to anyone purchasing their launch anthology book. https://www.reddit.com/r/Games/comments/1wi2lmi/exdisco_elysium_devs_studio_summer_eternal/
-2026-09-16T17:28:19+00:00	CONTROL Resonant - PC Gaming Show Documentary https://www.reddit.com/r/Games/comments/1wi3t3x/control_resonant_pc_gaming_show_documentary/
 2026-09-16T17:50:31+00:00	With the launch of Monster Hunter Wilds: Ascendance, players will be able to re-edit the appearance of their hunter as many times as they like, free of charge and without the need for a Character Edit Voucher. https://www.reddit.com/r/Games/comments/1wi4fdy/with_the_launch_of_monster_hunter_wilds/
-2026-09-16T18:00:27+00:00	Warhammer 40,000: Dawn of War IV Battlefield Report – 2v2 Team Domination https://www.reddit.com/r/Games/comments/1wi4paa/warhammer_40000_dawn_of_war_iv_battlefield_report/
-2026-09-16T18:16:41+00:00	Level-5 Promises To Fix Yo-Kai Watch 2 And Professor Layton Presentation In The Wake Of AI Backlash And Explains That Many Of Its Artwork Mistakes Were Simply Down To Human Error https://www.reddit.com/r/Games/comments/1wi561h/level5_promises_to_fix_yokai_watch_2_and/
 2026-09-16T19:35:20+00:00	Heart Machine founder Alx Preston - "nearly everyone at the studio had to be laid off" after a publisher is no longer moving forward with an unannounced game - "Right now, I'm not sure yet how or if Heart Machine survives" https://www.reddit.com/r/Games/comments/1wi7e1g/heart_machine_founder_alx_preston_nearly_everyone/
 2026-09-16T19:38:07+00:00	The Blood of Dawnwalker's controversial time mechanic won't necessarily be in a sequel, the game director says https://www.reddit.com/r/Games/comments/1wi7gqu/the_blood_of_dawnwalkers_controversial_time/
 2026-09-16T20:35:29+00:00	Original Sony PlayStation 2 security chip ‘broken wide open’ after 26 years — chemical decapping and four years of reverse engineering unlocks MechaCon secrets https://www.reddit.com/r/Games/comments/1wi913g/original_sony_playstation_2_security_chip_broken/
@@ -28,3 +18,13 @@
 2026-09-17T01:19:09+00:00	Lollipop Chainsaw 2 Back2Back - TGS 8 Minutes Gameplay https://www.reddit.com/r/Games/comments/1wifvuh/lollipop_chainsaw_2_back2back_tgs_8_minutes/
 2026-09-17T01:24:19+00:00	Nerrel - Star Fox and the Remake Conveyor Belt https://www.reddit.com/r/Games/comments/1wig00r/nerrel_star_fox_and_the_remake_conveyor_belt/
 2026-09-17T03:32:31+00:00	EDF６.２ INVADERS FROM ANOTHER WORLD (Mar 18th 2027) https://www.reddit.com/r/Games/comments/1wiir78/edf６２_invaders_from_another_world_mar_18th_2027/
+2026-09-17T09:15:14+00:00	Chained Beasts | Official Release Date & Platforms Reveal Trailer https://www.reddit.com/r/Games/comments/1wioxol/chained_beasts_official_release_date_platforms/
+2026-09-17T09:40:02+00:00	Over 85% of Japanese game developers use generative AI in game development, 2026 CESA survey shows. An increase from last year’s 51% https://www.reddit.com/r/Games/comments/1wipd2q/over_85_of_japanese_game_developers_use/
+2026-09-17T10:16:39+00:00	Crazy Taxi: World - Welcome to Japan https://www.reddit.com/r/Games/comments/1wiq0js/crazy_taxi_world_welcome_to_japan/
+2026-09-17T10:25:04+00:00	Persona 4 Revival - Naoto Sizzle https://www.reddit.com/r/Games/comments/1wiq63j/persona_4_revival_naoto_sizzle/
+2026-09-17T10:33:04+00:00	Faraday Blues - XBOX Tokyo Game Show - Official Announce Trailer https://www.reddit.com/r/Games/comments/1wiqbbw/faraday_blues_xbox_tokyo_game_show_official/
+2026-09-17T10:41:31+00:00	Hideo Kojima Reveals Lead Cast Member For PHYSINT https://www.reddit.com/r/Games/comments/1wiqh4c/hideo_kojima_reveals_lead_cast_member_for_physint/
+2026-09-17T11:25:33+00:00	Edge of Memories | Release Date Trailer https://www.reddit.com/r/Games/comments/1wirb8i/edge_of_memories_release_date_trailer/
+2026-09-17T11:34:40+00:00	[Bloomwalker] TGS 2026 Trailer | Wishlist Now! (Set in Ni-No Kuni Universe) https://www.reddit.com/r/Games/comments/1wirhjo/bloomwalker_tgs_2026_trailer_wishlist_now_set_in/
+2026-09-17T11:45:39+00:00	Bloodstained: The Scarlet Engagement - Gameplay Trailer | PS5 Games https://www.reddit.com/r/Games/comments/1wirphl/bloodstained_the_scarlet_engagement_gameplay/
+2026-09-17T12:06:46+00:00	Grand Theft Auto VI: The Album Coming November 19 Featuring 34 original tracks that capture the electric energy of Vice City and Leonida, from a genre-defying artist roster. https://www.reddit.com/r/Games/comments/1wis5ko/grand_theft_auto_vi_the_album_coming_november_19/

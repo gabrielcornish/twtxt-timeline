@@ -3,10 +3,6 @@
 # source = https://www.gamesindustry.biz/feed
 # description = twtxt conversion of https://www.gamesindustry.biz/feed
 
-2026-09-07T16:51:44+00:00	Capcom says it will focus on reviving dormant IPs after Onimusha: Way of the Sword's breakout launch https://www.gamesindustry.biz/capcom-says-it-will-focus-on-reviving-dormant-ips-after-onimusha-way-of-the-swords-breakout-launch
-2026-09-07T18:42:05+00:00	Don't Nod warns it may not have enough funding to operate beyond January 2027 https://www.gamesindustry.biz/dont-nod-warns-it-may-not-have-enough-funding-to-operate-beyond-january-2027
-2026-09-08T02:00:00+00:00	Arm explains its mobile-first AI-reconstruction technology, which takes a different tack from the "black box" approach of DLSS 5 https://www.gamesindustry.biz/arm-explains-its-mobile-first-ai-reconstruction-technology-which-takes-a-different-tack-from-the-black-box-approach-of-dlss-5
-2026-09-08T07:57:07+00:00	Assassin's Creed Black Flag Resynced debuts in Top 5 for PC and console revenue in July | Newzoo Charts https://www.gamesindustry.biz/assassins-creed-black-flag-resynced-debuts-in-top-5-for-pc-and-console-revenue-in-july-newzoo-charts
 2026-09-08T11:00:58+00:00	FuturLab cuts staff after cancelling non-Powerwash Simulator title https://www.gamesindustry.biz/futurlab-cuts-staff-after-cancelling-non-powerwash-simulator-title
 2026-09-08T13:03:33+00:00	The Tetris Company says it was "not involved in the creation" of White House parody, takes "copyright infringement very seriously" https://www.gamesindustry.biz/the-tetris-company-says-it-was-not-involved-in-the-creation-of-white-house-parody-takes-copyright-infringement-very-seriously
 2026-09-08T13:27:23+00:00	European game developers are more concerned that AI will pressure them to work faster rather than take their job https://www.gamesindustry.biz/european-game-developers-are-more-concerned-that-ai-will-pressure-them-to-work-faster-rather-than-take-their-job
@@ -53,3 +49,7 @@
 2026-09-16T16:08:21+00:00	Here are the first finalists for the 2026 GamesIndustry.biz Best Places To Work Awards UK https://www.gamesindustry.biz/here-are-the-first-finalists-for-the-2026-gamesindustrybiz-best-places-to-work-awards-uk
 2026-09-16T17:32:12+00:00	MindsEye developers report new round of layoffs at Build A Rocket Boy https://www.gamesindustry.biz/mindseye-developers-report-new-round-of-layoffs-at-build-a-rocket-boy
 2026-09-16T20:21:48+00:00	Shinji Mikami to be inducted into the AIAS Hall of Fame later this week https://www.gamesindustry.biz/shinji-mikami-to-be-inducted-into-the-aias-hall-of-fame-later-this-week
+2026-09-17T08:39:10+00:00	Heart Machine faces possible closure after publishing deal falls through; majority of staff laid off https://www.gamesindustry.biz/heart-machine-faces-possible-closure-after-publishing-deal-falls-through-majority-of-staff-laid-off
+2026-09-17T10:29:52+00:00	Remedy's Arhi Makkonen on designing the "biggest world we have ever done" for Control Resonant https://www.gamesindustry.biz/remedys-arhi-makkonen-on-designing-the-biggest-world-we-have-ever-done-for-control-resonant
+2026-09-17T13:00:00+00:00	Nex Playground announces $150m in new funding as hardware sales pass one million https://www.gamesindustry.biz/nex-playground-announces-150m-in-new-funding-as-hardware-sales-pass-one-million
+2026-09-17T13:00:00+00:00	"Every major publisher has approached us to review their old Kinect and Wii catalogue" – Nex Playground is spoilt for choice as its international rollout continues https://www.gamesindustry.biz/every-major-publisher-has-approached-us-to-review-their-old-kinect-and-wii-catalogue-nex-playground-is-spoilt-for-choice-as-its-international-rollout-continues
