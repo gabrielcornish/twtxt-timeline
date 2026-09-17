@@ -3,6 +3,7 @@
 # source = https://bearblog.dev/discover/feed/
 # description = twtxt conversion of https://bearblog.dev/discover/feed/
 
+2026-09-14T14:41:00+00:00	"Rogue AI" is Bullshit: Article Reading List https://princetonponders.bearblog.dev/rogue-ai-is-bullshit/
 2026-09-14T15:08:15.466999+00:00	Leaving Linux https://jackevans.bearblog.dev/leaving-linux/
 2026-09-14T15:54:00+00:00	My 30th Birthday Present is a Blog https://sourwudd.com/my-30th-birthday-present-is-a-blog/
 2026-09-14T17:59:00+00:00	I was an eight-year-old girl https://betweentheskyscrapers.bearblog.dev/i-was-an-eight-year-old-girl/
@@ -21,5 +22,4 @@
 2026-09-16T03:50:00+00:00	september 15 mit https://combatdavey.net/september-15-2026/
 2026-09-16T05:10:05.507793+00:00	reasons i don't tell people how i'm feeling https://cherrysroom.bearblog.dev/reasons-i-dont-tell-people-how-im-feeling/
 2026-09-16T14:22:00+00:00	All my posts are perfect https://robertbirming.com/my-posts-perfect/
-2026-09-16T14:45:00+00:00	How to graft an Instax Mini onto your vintage camera https://iainsinclair.net/how-to-graft-an-instax-mini-onto-your-vintage-camera/
 2026-09-16T15:13:00+00:00	a very chinese time in my life https://tiramisu.bearblog.dev/kunming-0/

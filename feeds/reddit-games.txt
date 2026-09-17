@@ -4,7 +4,6 @@
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
 2026-09-13T12:59:57+00:00	[AMA] I'm the developer of 'Our Freedom: Medieval Village', a medieval Action RPG combining village management, tactical squad combat & survival. Together with Two Cakes Studio, Ask Us Anything! https://www.reddit.com/r/Games/comments/1wf71x5/ama_im_the_developer_of_our_freedom_medieval/
-2026-09-15T20:22:23+00:00	Wardogs lead says the studio won't hire people who decry crunch on social media https://www.reddit.com/r/Games/comments/1whbqva/wardogs_lead_says_the_studio_wont_hire_people_who/
 2026-09-15T21:53:12+00:00	Masahiro Sakurai Forced to Abandon Game Designers Award After 16 Years as He Can't Find a Successor https://www.reddit.com/r/Games/comments/1whe4d1/masahiro_sakurai_forced_to_abandon_game_designers/
 2026-09-16T00:03:21+00:00	Metal Gear Solid 5 feels fresh again thanks to the Definitive Subsistence mod https://www.reddit.com/r/Games/comments/1whhaha/metal_gear_solid_5_feels_fresh_again_thanks_to/
 2026-09-16T08:15:02+00:00	Trails in the Sky 2nd Chapter - Review Thread https://www.reddit.com/r/Games/comments/1whr3j0/trails_in_the_sky_2nd_chapter_review_thread/
@@ -15,7 +14,6 @@
 2026-09-16T13:17:18+00:00	Zero Parades: Director's Cut Revealed And PS5 Edition Release Date Announced https://www.reddit.com/r/Games/comments/1whwzjl/zero_parades_directors_cut_revealed_and_ps5/
 2026-09-16T13:18:37+00:00	'Dragon Quest' Series Surpasses 100 Million Units Sold on its 40th Anniversary https://www.reddit.com/r/Games/comments/1whx0ol/dragon_quest_series_surpasses_100_million_units/
 2026-09-16T14:07:41+00:00	Here's Why Xbox 'Protected' the Development of Fable, Amid Layoffs and Studio Closures https://www.reddit.com/r/Games/comments/1why9u4/heres_why_xbox_protected_the_development_of_fable/
-2026-09-16T14:15:24+00:00	Two Point Hospital: Full Health Collection | OUT NOW https://www.reddit.com/r/Games/comments/1whygzt/two_point_hospital_full_health_collection_out_now/
 2026-09-16T14:24:47+00:00	Dragon's Dogma 2: Dark Arisen - Main Trailer https://www.reddit.com/r/Games/comments/1whyq7p/dragons_dogma_2_dark_arisen_main_trailer/
 2026-09-16T14:43:13+00:00	MindsEye Developers Say They've Been Laid Off Amid Questions Over Build a Rocket Boy's Future https://www.reddit.com/r/Games/comments/1whz7ji/mindseye_developers_say_theyve_been_laid_off_amid/
 2026-09-16T16:04:18+00:00	The Studio Behind MindsEye Is Closing Following Latest Layoffs https://www.reddit.com/r/Games/comments/1wi1fov/the_studio_behind_mindseye_is_closing_following/
@@ -28,3 +26,5 @@
 2026-09-16T19:35:20+00:00	Heart Machine founder Alx Preston - "nearly everyone at the studio had to be laid off" after a publisher is no longer moving forward with an unannounced game - "Right now, I'm not sure yet how or if Heart Machine survives" https://www.reddit.com/r/Games/comments/1wi7e1g/heart_machine_founder_alx_preston_nearly_everyone/
 2026-09-16T19:38:07+00:00	The Blood of Dawnwalker's controversial time mechanic won't necessarily be in a sequel, the game director says https://www.reddit.com/r/Games/comments/1wi7gqu/the_blood_of_dawnwalkers_controversial_time/
 2026-09-16T20:35:29+00:00	Original Sony PlayStation 2 security chip ‘broken wide open’ after 26 years — chemical decapping and four years of reverse engineering unlocks MechaCon secrets https://www.reddit.com/r/Games/comments/1wi913g/original_sony_playstation_2_security_chip_broken/
+2026-09-16T23:05:00+00:00	Persona 30th Anniversary Character, Persona and Game Popularity Poll Results https://www.reddit.com/r/Games/comments/1wicspl/persona_30th_anniversary_character_persona_and/
+2026-09-17T00:22:02+00:00	Lollipop Chainsaw 2 Back2Back announced for PS5 https://www.reddit.com/r/Games/comments/1wiel2e/lollipop_chainsaw_2_back2back_announced_for_ps5/
