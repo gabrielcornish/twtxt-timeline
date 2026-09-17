@@ -3,7 +3,6 @@
 # source = https://www.gamesindustry.biz/feed
 # description = twtxt conversion of https://www.gamesindustry.biz/feed
 
-2026-09-08T11:00:58+00:00	FuturLab cuts staff after cancelling non-Powerwash Simulator title https://www.gamesindustry.biz/futurlab-cuts-staff-after-cancelling-non-powerwash-simulator-title
 2026-09-08T13:03:33+00:00	The Tetris Company says it was "not involved in the creation" of White House parody, takes "copyright infringement very seriously" https://www.gamesindustry.biz/the-tetris-company-says-it-was-not-involved-in-the-creation-of-white-house-parody-takes-copyright-infringement-very-seriously
 2026-09-08T13:27:23+00:00	European game developers are more concerned that AI will pressure them to work faster rather than take their job https://www.gamesindustry.biz/european-game-developers-are-more-concerned-that-ai-will-pressure-them-to-work-faster-rather-than-take-their-job
 2026-09-08T13:54:12+00:00	Star Stable Entertainment reduces workforce by 20% to secure long-term future of its multiplayer horse adventure RPG https://www.gamesindustry.biz/star-stable-entertainment-reduces-workforce-by-20-to-secure-long-term-future-of-its-multiplayer-horse-adventure-rpg
@@ -53,3 +52,4 @@
 2026-09-17T10:29:52+00:00	Remedy's Arhi Makkonen on designing the "biggest world we have ever done" for Control Resonant https://www.gamesindustry.biz/remedys-arhi-makkonen-on-designing-the-biggest-world-we-have-ever-done-for-control-resonant
 2026-09-17T13:00:00+00:00	Nex Playground announces $150m in new funding as hardware sales pass one million https://www.gamesindustry.biz/nex-playground-announces-150m-in-new-funding-as-hardware-sales-pass-one-million
 2026-09-17T13:00:00+00:00	"Every major publisher has approached us to review their old Kinect and Wii catalogue" – Nex Playground is spoilt for choice as its international rollout continues https://www.gamesindustry.biz/every-major-publisher-has-approached-us-to-review-their-old-kinect-and-wii-catalogue-nex-playground-is-spoilt-for-choice-as-its-international-rollout-continues
+2026-09-17T14:29:58+00:00	Draft of new EU law proposes sweeping restrictions on online games https://www.gamesindustry.biz/draft-of-new-eu-law-proposes-sweeping-restrictions-on-online-games
