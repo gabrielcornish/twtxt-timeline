@@ -4,9 +4,7 @@
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
 2026-09-16T11:00:47+00:00	Daily /r/Games Discussion - Suggest Me a Game - September 16, 2026 https://www.reddit.com/r/Games/comments/1whtzsj/daily_rgames_discussion_suggest_me_a_game/
-2026-09-16T20:35:29+00:00	Original Sony PlayStation 2 security chip ‘broken wide open’ after 26 years — chemical decapping and four years of reverse engineering unlocks MechaCon secrets https://www.reddit.com/r/Games/comments/1wi913g/original_sony_playstation_2_security_chip_broken/
 2026-09-17T09:40:02+00:00	Over 85% of Japanese game developers use generative AI in game development, 2026 CESA survey shows. An increase from last year’s 51% https://www.reddit.com/r/Games/comments/1wipd2q/over_85_of_japanese_game_developers_use/
-2026-09-17T10:25:04+00:00	Persona 4 Revival - Naoto Sizzle https://www.reddit.com/r/Games/comments/1wiq63j/persona_4_revival_naoto_sizzle/
 2026-09-17T10:41:31+00:00	Hideo Kojima Reveals Lead Cast Member For PHYSINT https://www.reddit.com/r/Games/comments/1wiqh4c/hideo_kojima_reveals_lead_cast_member_for_physint/
 2026-09-17T11:45:39+00:00	Bloodstained: The Scarlet Engagement - Gameplay Trailer | PS5 Games https://www.reddit.com/r/Games/comments/1wirphl/bloodstained_the_scarlet_engagement_gameplay/
 2026-09-17T12:06:46+00:00	Grand Theft Auto VI: The Album Coming November 19 Featuring 34 original tracks that capture the electric energy of Vice City and Leonida, from a genre-defying artist roster. https://www.reddit.com/r/Games/comments/1wis5ko/grand_theft_auto_vi_the_album_coming_november_19/
@@ -18,7 +16,6 @@
 2026-09-17T15:17:50+00:00	Trails in the Sky 2nd Chapter - Launch Trailer https://www.reddit.com/r/Games/comments/1wiwva4/trails_in_the_sky_2nd_chapter_launch_trailer/
 2026-09-17T16:02:19+00:00	Fire Emblem: Fortune’s Weave — Launch Trailer — Nintendo Switch 2 https://www.reddit.com/r/Games/comments/1wiy2l1/fire_emblem_fortunes_weave_launch_trailer/
 2026-09-17T16:03:22+00:00	Gears of War: E-Day Has Gone Gold, Pre-Install Begins September 29, Full PC Specifications Revealed https://www.reddit.com/r/Games/comments/1wiy3nt/gears_of_war_eday_has_gone_gold_preinstall_begins/
-2026-09-17T16:36:49+00:00	The Crew Showcase 2026: New Island, Tomb Raider partnership, Trucks and more… https://www.reddit.com/r/Games/comments/1wiz0o9/the_crew_showcase_2026_new_island_tomb_raider/
 2026-09-17T16:39:40+00:00	Warhammer Online - Blood River Canyon & Silver Falls Pass https://www.reddit.com/r/Games/comments/1wiz3jv/warhammer_online_blood_river_canyon_silver_falls/
 2026-09-17T17:06:10+00:00	The Rogue Prince of Persia : Anniversary Update out now! https://www.reddit.com/r/Games/comments/1wizu0n/the_rogue_prince_of_persia_anniversary_update_out/
 2026-09-17T17:08:27+00:00	Nihon Falcom's Dragon Slayer: The Legend of Heroes I & II announced for PS5, PS4, Switch, and PC; due out in 2027 worldwide, to be released by Edia. https://www.reddit.com/r/Games/comments/1wizwa5/nihon_falcoms_dragon_slayer_the_legend_of_heroes/
@@ -28,3 +25,6 @@
 2026-09-17T22:32:06+00:00	"Will There Ever Be Another Half-Life: Alyx?" [On Big Budget VR Games] https://www.reddit.com/r/Games/comments/1wj8hu8/will_there_ever_be_another_halflife_alyx_on_big/
 2026-09-18T02:12:25+00:00	Borderlands 2 Modder Did the "Impossible" - Added a New Vault Hunter to the Looter-Shooter https://www.reddit.com/r/Games/comments/1wjdf6k/borderlands_2_modder_did_the_impossible_added_a/
 2026-09-18T04:12:56+00:00	‘We were bored of traditional fantasy cliches’: inside Playground Games’ 10-year effort to revive Fable https://www.reddit.com/r/Games/comments/1wjfxwy/we_were_bored_of_traditional_fantasy_cliches/
+2026-09-18T06:33:00+00:00	TOKYO WALLED CITY - Reveal Trailer https://www.reddit.com/r/Games/comments/1wjij3m/tokyo_walled_city_reveal_trailer/
+2026-09-18T07:23:58+00:00	BELTFED – Official Announcement Trailer https://www.reddit.com/r/Games/comments/1wjjdk6/beltfed_official_announcement_trailer/
+2026-09-18T10:00:42+00:00	Daily /r/Games Discussion - Free Talk Friday - September 18, 2026 https://www.reddit.com/r/Games/comments/1wjlzto/daily_rgames_discussion_free_talk_friday/

@@ -3,10 +3,6 @@
 # source = https://www.gamesindustry.biz/feed
 # description = twtxt conversion of https://www.gamesindustry.biz/feed
 
-2026-09-08T13:03:33+00:00	The Tetris Company says it was "not involved in the creation" of White House parody, takes "copyright infringement very seriously" https://www.gamesindustry.biz/the-tetris-company-says-it-was-not-involved-in-the-creation-of-white-house-parody-takes-copyright-infringement-very-seriously
-2026-09-08T13:27:23+00:00	European game developers are more concerned that AI will pressure them to work faster rather than take their job https://www.gamesindustry.biz/european-game-developers-are-more-concerned-that-ai-will-pressure-them-to-work-faster-rather-than-take-their-job
-2026-09-08T13:54:12+00:00	Star Stable Entertainment reduces workforce by 20% to secure long-term future of its multiplayer horse adventure RPG https://www.gamesindustry.biz/star-stable-entertainment-reduces-workforce-by-20-to-secure-long-term-future-of-its-multiplayer-horse-adventure-rpg
-2026-09-08T15:46:17+00:00	Why the world needs a Club Penguin successor – that isn't Roblox https://www.gamesindustry.biz/why-the-world-needs-a-club-penguin-successor-that-isnt-roblox
 2026-09-09T09:15:34+00:00	Steam achievements for unreleased and unannounced games leak on aggregators such as Exophase and SteamDB https://www.gamesindustry.biz/steam-achievements-for-unreleased-and-unannounced-games-leak-on-aggregators-such-as-exophase-and-steamdb
 2026-09-09T09:55:55+00:00	Gamescom Asia x Thailand Game Show announces exhibitor lineup for 2026 https://www.gamesindustry.biz/gamescom-asia-x-thailand-game-show-announces-exhibitor-lineup-for-2026
 2026-09-09T11:37:22+00:00	Frontier Developments FY26 adjusted operating profit jumps 62% to £21.4m https://www.gamesindustry.biz/frontier-developments-fy26-adjusted-operating-profit-jumps-62-to-214m
@@ -50,6 +46,10 @@
 2026-09-16T20:21:48+00:00	Shinji Mikami to be inducted into the AIAS Hall of Fame later this week https://www.gamesindustry.biz/shinji-mikami-to-be-inducted-into-the-aias-hall-of-fame-later-this-week
 2026-09-17T08:39:10+00:00	Heart Machine faces possible closure after publishing deal falls through; majority of staff laid off https://www.gamesindustry.biz/heart-machine-faces-possible-closure-after-publishing-deal-falls-through-majority-of-staff-laid-off
 2026-09-17T10:29:52+00:00	Remedy's Arhi Makkonen on designing the "biggest world we have ever done" for Control Resonant https://www.gamesindustry.biz/remedys-arhi-makkonen-on-designing-the-biggest-world-we-have-ever-done-for-control-resonant
-2026-09-17T13:00:00+00:00	Nex Playground announces $150m in new funding as hardware sales pass one million https://www.gamesindustry.biz/nex-playground-announces-150m-in-new-funding-as-hardware-sales-pass-one-million
 2026-09-17T13:00:00+00:00	"Every major publisher has approached us to review their old Kinect and Wii catalogue" – Nex Playground is spoilt for choice as its international rollout continues https://www.gamesindustry.biz/every-major-publisher-has-approached-us-to-review-their-old-kinect-and-wii-catalogue-nex-playground-is-spoilt-for-choice-as-its-international-rollout-continues
+2026-09-17T13:00:00+00:00	Nex Playground announces $150m in new funding as hardware sales pass one million https://www.gamesindustry.biz/nex-playground-announces-150m-in-new-funding-as-hardware-sales-pass-one-million
 2026-09-17T14:29:58+00:00	Draft of new EU law proposes sweeping restrictions on online games https://www.gamesindustry.biz/draft-of-new-eu-law-proposes-sweeping-restrictions-on-online-games
+2026-09-18T07:36:32+00:00	GDC Festival of Gaming appoints four members to advisory board https://www.gamesindustry.biz/gdc-festival-of-gaming-appoints-four-members-to-advisory-board
+2026-09-18T08:04:19+00:00	Dredge maker Black Salt Games establishes indie studio Team Trifold under new Saltworks Entertainment label https://www.gamesindustry.biz/black-salt-games-establishes-indie-studio-team-trifold-under-new-saltworks-entertainment-label
+2026-09-18T09:51:27+00:00	King workers to strike in Sweden following rejection of collective bargaining agreement https://www.gamesindustry.biz/king-workers-to-strike-in-sweden-following-rejection-of-collective-bargaining-agreement
+2026-09-18T10:22:40+00:00	Strauss Zelnick stresses a well-known franchise like GTA still needs marketing: "You always have to go out and create enthusiasm" https://www.gamesindustry.biz/strauss-zelnick-stresses-a-well-known-franchise-like-gta-still-needs-marketing-you-always-have-to-go-out-and-create-enthusiasm
