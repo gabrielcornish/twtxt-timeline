@@ -3,7 +3,6 @@
 # source = https://bearblog.dev/discover/feed/
 # description = twtxt conversion of https://bearblog.dev/discover/feed/
 
-2026-09-15T10:04:00+00:00	You don’t need a kernel 0day https://bour.ch/you-dont-need-a-kernel-0day/
 2026-09-16T14:22:00+00:00	All my posts are perfect https://robertbirming.com/my-posts-perfect/
 2026-09-16T15:13:00+00:00	a very chinese time in my life https://tiramisu.bearblog.dev/kunming-0/
 2026-09-16T18:49:00+00:00	Dead dreams of smart devices https://puppynet.work/dead-dreams-of-smart-devices/
@@ -23,3 +22,4 @@
 2026-09-18T12:15:00+00:00	wtf am i doing? aka i'm learning electronics again https://spindlecrow.bearblog.dev/im-learning-electronics-again/
 2026-09-18T13:46:00+00:00	Gratuitous Suffering, Persian Cinema, and Pagan Gods https://householderkarl.com/gratuitous-suffering-persian-cinema-and-pagan-gods/
 2026-09-18T14:33:15.173849+00:00	I'm a pixel https://spindlecrow.bearblog.dev/im-a-pixel/
+2026-09-18T15:54:00+00:00	A not-so-indepth overview of 4 fairly popular Chronicles of Darkness fanbooks, Chapter 1: Introduction https://indiettrpgweeklyt.bearblog.dev/a-not-so-indepth-overview-of-4-fairly-popular-chronicles-of-darkness-fanbooks-chapter-1-introduction/
