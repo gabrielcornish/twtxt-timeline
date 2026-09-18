@@ -3,18 +3,11 @@
 # source = https://bearblog.dev/discover/feed/
 # description = twtxt conversion of https://bearblog.dev/discover/feed/
 
-2026-09-15T04:24:53.396530+00:00	i cannot relate to modern tech https://rnotte.art/i-cannot-relate-to-modern-tech/
 2026-09-15T10:04:00+00:00	You don’t need a kernel 0day https://bour.ch/you-dont-need-a-kernel-0day/
-2026-09-15T16:57:00+00:00	how can you be late in life when its your life? https://tala.bearblog.dev/how-can-you-be-late-in-life-when-its-your-life/
-2026-09-15T17:09:00+00:00	the curious incident of the duck in the night time https://yizcounty.rodeo/duckstory/
-2026-09-15T18:03:00+00:00	How A Tree Falling On My Garage Taught Me That My Power Company's Phone Number Got Poached By A Phone Sex Company https://blog.curiousquail.com/how-a-tree-falling-on-my-garage-taught-me-that-my-power-companys-phone-number-got-poached-by-a-phone-sex-company/
-2026-09-16T03:50:00+00:00	september 15 mit https://combatdavey.net/september-15-2026/
-2026-09-16T05:10:05.507793+00:00	reasons i don't tell people how i'm feeling https://cherrysroom.bearblog.dev/reasons-i-dont-tell-people-how-im-feeling/
 2026-09-16T14:22:00+00:00	All my posts are perfect https://robertbirming.com/my-posts-perfect/
 2026-09-16T15:13:00+00:00	a very chinese time in my life https://tiramisu.bearblog.dev/kunming-0/
 2026-09-16T18:49:00+00:00	Dead dreams of smart devices https://puppynet.work/dead-dreams-of-smart-devices/
 2026-09-17T00:36:00+00:00	i am a better person without my phone https://jeffdelp.bearblog.dev/without-my-phone/
-2026-09-17T03:59:00+00:00	am i wasting my time? https://icyti.me/am-i-wasting-my-time/
 2026-09-17T06:25:00+00:00	Please read. https://thingsfound.bearblog.dev/please-read/
 2026-09-17T10:04:00+00:00	Trying to build when in recovery https://smallquiet.bearblog.dev/trying-to-build-when-in-recovery/
 2026-09-17T12:11:57.582911+00:00	Every Betrayal has a Price https://fatherlasher.bearblog.dev/every-betrayal-has-a-price/
@@ -23,3 +16,10 @@
 2026-09-17T20:59:00+00:00	Your stuff is weird https://rlraymond.com/your-stuff-is-weird/
 2026-09-17T22:59:00+00:00	Machines don't feel. But we do. https://blog.joshgrey.uk/machines-dont-feel-but-we-do/
 2026-09-18T00:08:00+00:00	How I navigate AI anxiety https://brettcodes.com/how-i-navigate-ai-anxiety/
+2026-09-18T04:36:00+00:00	confession: I'm tired of being perceived https://sugarforbrains.bearblog.dev/confession-im-tired-of-being-perceived/
+2026-09-18T04:42:42.863996+00:00	weekly thoughts (new wildcat, autumnal symbols, performativity, climate) https://cherrysroom.bearblog.dev/weekly-thoughts-new-wildcat-autumnal-symbols-performativity-climate/
+2026-09-18T11:30:00+00:00	"What I have learned about great writers: they were always obsessed with something, but they were very seldom obsessed with writing." Jenny Boully https://etan.bearblog.dev/what-i-have-learned-about-great-writers-they-were-always-obsessed-with-something-but-they-were-very-seldom-obsessed-with-writing-jenny-boully/
+2026-09-18T11:54:00+00:00	got a pixel on pxlarea :) https://blog.avas.space/pxlarea/
+2026-09-18T12:15:00+00:00	wtf am i doing? aka i'm learning electronics again https://spindlecrow.bearblog.dev/im-learning-electronics-again/
+2026-09-18T13:46:00+00:00	Gratuitous Suffering, Persian Cinema, and Pagan Gods https://householderkarl.com/gratuitous-suffering-persian-cinema-and-pagan-gods/
+2026-09-18T14:33:15.173849+00:00	I'm a pixel https://spindlecrow.bearblog.dev/im-a-pixel/
