@@ -7,10 +7,6 @@
 2026-09-17T10:41:31+00:00	Hideo Kojima Reveals Lead Cast Member For PHYSINT https://www.reddit.com/r/Games/comments/1wiqh4c/hideo_kojima_reveals_lead_cast_member_for_physint/
 2026-09-17T12:06:46+00:00	Grand Theft Auto VI: The Album Coming November 19 Featuring 34 original tracks that capture the electric energy of Vice City and Leonida, from a genre-defying artist roster. https://www.reddit.com/r/Games/comments/1wis5ko/grand_theft_auto_vi_the_album_coming_november_19/
 2026-09-17T14:06:57+00:00	CONTROL Resonant - Launch Trailer https://www.reddit.com/r/Games/comments/1wiuzvf/control_resonant_launch_trailer/
-2026-09-17T14:42:56+00:00	PaperBoat, a Paper Mario N64 PC port by HarbourMasters, is now out https://www.reddit.com/r/Games/comments/1wivxwa/paperboat_a_paper_mario_n64_pc_port_by/
-2026-09-17T15:13:38+00:00	FF13NovaFix : Fan-Made Patch Addresses Longstanding Final Fantasy XIII Trilogy PC Version Issues https://www.reddit.com/r/Games/comments/1wiwrap/ff13novafix_fanmade_patch_addresses_longstanding/
-2026-09-17T17:06:10+00:00	The Rogue Prince of Persia : Anniversary Update out now! https://www.reddit.com/r/Games/comments/1wizu0n/the_rogue_prince_of_persia_anniversary_update_out/
-2026-09-17T18:04:18+00:00	Launch Trailer | ENDLESS Legend™ 2 https://www.reddit.com/r/Games/comments/1wj1fkh/launch_trailer_endless_legend_2/
 2026-09-17T20:45:19+00:00	Bungie Denies Rumor It Plans to Merge the Destiny and Marathon IPs, Confirms Marathon December and March 2027 Updates Are Free https://www.reddit.com/r/Games/comments/1wj5t5q/bungie_denies_rumor_it_plans_to_merge_the_destiny/
 2026-09-17T22:32:06+00:00	"Will There Ever Be Another Half-Life: Alyx?" [On Big Budget VR Games] https://www.reddit.com/r/Games/comments/1wj8hu8/will_there_ever_be_another_halflife_alyx_on_big/
 2026-09-18T02:12:25+00:00	Borderlands 2 Modder Did the "Impossible" - Added a New Vault Hunter to the Looter-Shooter https://www.reddit.com/r/Games/comments/1wjdf6k/borderlands_2_modder_did_the_impossible_added_a/
@@ -28,3 +24,7 @@
 2026-09-18T17:09:50+00:00	Star Wars: Galactic Racer | Sounds of the Galactic League - The Score https://www.reddit.com/r/Games/comments/1wjw3b6/star_wars_galactic_racer_sounds_of_the_galactic/
 2026-09-18T17:52:05+00:00	Last Epoch Season 5 - Rage of the Frostborn - October 1st | Official Trailer https://www.reddit.com/r/Games/comments/1wjx97q/last_epoch_season_5_rage_of_the_frostborn_october/
 2026-09-18T20:28:58+00:00	FF7 Revelation director Hamaguchi discusses the game’s 200GB size, DLC plans, and a new Tifa detail https://www.reddit.com/r/Games/comments/1wk1hg4/ff7_revelation_director_hamaguchi_discusses_the/
+2026-09-19T01:36:14+00:00	"The craziest numbers I've seen in 17 years working at Blizzard": WoW Forever devs seem genuinely shocked the beta is so popular as they explain why their MMO servers keep breaking https://www.reddit.com/r/Games/comments/1wk8rhk/the_craziest_numbers_ive_seen_in_17_years_working/
+2026-09-19T02:06:25+00:00	Marvel’s Wolverine (Update v.01.001.005): This hotfix adjusts the presentation of the Scent Trails and Audio Sense indicators, including reduced opacity to make these visuals less intense. https://www.reddit.com/r/Games/comments/1wk9e25/marvels_wolverine_update_v01001005_this_hotfix/
+2026-09-19T02:17:32+00:00	EDGE Magazine - "The game industry is broken – can we fix it?" [full interview with industry veterans from PS, Xbox, MMOs and more] https://www.reddit.com/r/Games/comments/1wk9mgf/edge_magazine_the_game_industry_is_broken_can_we/
+2026-09-19T03:08:55+00:00	Dusklight - 2.0 Release https://www.reddit.com/r/Games/comments/1wkaoix/dusklight_20_release/
