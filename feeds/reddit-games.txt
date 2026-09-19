@@ -5,9 +5,6 @@
 
 2026-09-16T11:00:47+00:00	Daily /r/Games Discussion - Suggest Me a Game - September 16, 2026 https://www.reddit.com/r/Games/comments/1whtzsj/daily_rgames_discussion_suggest_me_a_game/
 2026-09-18T02:12:25+00:00	Borderlands 2 Modder Did the "Impossible" - Added a New Vault Hunter to the Looter-Shooter https://www.reddit.com/r/Games/comments/1wjdf6k/borderlands_2_modder_did_the_impossible_added_a/
-2026-09-18T04:12:56+00:00	‘We were bored of traditional fantasy cliches’: inside Playground Games’ 10-year effort to revive Fable https://www.reddit.com/r/Games/comments/1wjfxwy/we_were_bored_of_traditional_fantasy_cliches/
-2026-09-18T06:33:00+00:00	TOKYO WALLED CITY - Reveal Trailer https://www.reddit.com/r/Games/comments/1wjij3m/tokyo_walled_city_reveal_trailer/
-2026-09-18T07:23:58+00:00	BELTFED – Official Announcement Trailer https://www.reddit.com/r/Games/comments/1wjjdk6/beltfed_official_announcement_trailer/
 2026-09-18T10:00:42+00:00	Daily /r/Games Discussion - Free Talk Friday - September 18, 2026 https://www.reddit.com/r/Games/comments/1wjlzto/daily_rgames_discussion_free_talk_friday/
 2026-09-18T13:00:25+00:00	Control Resonant Review Thread https://www.reddit.com/r/Games/comments/1wjpjyq/control_resonant_review_thread/
 2026-09-18T13:20:59+00:00	Control Resonant: How Remedy is going bigger and weirder with its paranatural horror sequel on September 24 https://www.reddit.com/r/Games/comments/1wjq1xw/control_resonant_how_remedy_is_going_bigger_and/
@@ -15,7 +12,6 @@
 2026-09-18T14:57:56+00:00	Control Resonant - DF Tech Review - PlayStation 5/PS5 Pro/Xbox Series X|S https://www.reddit.com/r/Games/comments/1wjsiad/control_resonant_df_tech_review_playstation_5ps5/
 2026-09-18T15:06:08+00:00	'Cheat Sellers Have Built a Sprawling, Multi-Billion-Dollar Marketplace' — Activision Reveals Eye-Watering Amounts of Money Behind Video Game Cheats https://www.reddit.com/r/Games/comments/1wjsqge/cheat_sellers_have_built_a_sprawling/
 2026-09-18T15:07:44+00:00	Bloomberg: The $40 Million Journey Behind ‘The Blood of Dawnwalker’ https://www.reddit.com/r/Games/comments/1wjsrxz/bloomberg_the_40_million_journey_behind_the_blood/
-2026-09-18T15:25:40+00:00	GUNRAVE GORE BLOOD HEAT - 1st ACTION - https://www.reddit.com/r/Games/comments/1wjt9bw/gunrave_gore_blood_heat_1st_action/
 2026-09-18T17:09:50+00:00	Star Wars: Galactic Racer | Sounds of the Galactic League - The Score https://www.reddit.com/r/Games/comments/1wjw3b6/star_wars_galactic_racer_sounds_of_the_galactic/
 2026-09-18T17:52:05+00:00	Last Epoch Season 5 - Rage of the Frostborn - October 1st | Official Trailer https://www.reddit.com/r/Games/comments/1wjx97q/last_epoch_season_5_rage_of_the_frostborn_october/
 2026-09-18T20:28:58+00:00	FF7 Revelation director Hamaguchi discusses the game’s 200GB size, DLC plans, and a new Tifa detail https://www.reddit.com/r/Games/comments/1wk1hg4/ff7_revelation_director_hamaguchi_discusses_the/
@@ -28,3 +24,7 @@
 2026-09-19T13:07:15+00:00	Insomniac Confirms Wolverine Doesn’t Contain AI-Generated Assets After A Weird-Looking Sign Goes Viral https://www.reddit.com/r/Games/comments/1wklsou/insomniac_confirms_wolverine_doesnt_contain/
 2026-09-19T13:17:45+00:00	New FFXIV Guidelines on non commercial, fan-made, content: "Square Enix grants you revocable permission to utilize certain materials as specified below (the "Materials") on a non-commercial basis, for the purpose of supporting and growing the FINAL FANTASY XIV community" https://www.reddit.com/r/Games/comments/1wkm179/new_ffxiv_guidelines_on_non_commercial_fanmade/
 2026-09-19T13:36:07+00:00	Dead Rising is a Timeless* Classic! - Tehsnakerer https://www.reddit.com/r/Games/comments/1wkmg7t/dead_rising_is_a_timeless_classic_tehsnakerer/
+2026-09-19T14:37:47+00:00	Hooded Horse CEO - "Steam is on an absolute historic run of improving discoverability lately, especially for indies." https://www.reddit.com/r/Games/comments/1wknx23/hooded_horse_ceo_steam_is_on_an_absolute_historic/
+2026-09-19T15:44:20+00:00	The Witcher 4 abandons CD Projekt Red's in-house tech for Unreal Engine 5, but studio lead says it's not because of issues with Cyberpunk 2077 https://www.reddit.com/r/Games/comments/1wkpiqb/the_witcher_4_abandons_cd_projekt_reds_inhouse/
+2026-09-19T16:16:02+00:00	Mega Man: Dual Override director says that whether the game will have lives or not is ‘to be determined’ https://www.reddit.com/r/Games/comments/1wkqbca/mega_man_dual_override_director_says_that_whether/
+2026-09-19T16:36:08+00:00	Why the publisher of Nintendo Life is launching a new PC gaming site: "A perpetual avalanche of games is released on Steam daily, and our purpose is to spotlight the ones we think are most interesting or deserving of your time" https://www.reddit.com/r/Games/comments/1wkqtck/why_the_publisher_of_nintendo_life_is_launching_a/
