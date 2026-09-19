@@ -3,13 +3,10 @@
 # source = https://bearblog.dev/discover/feed/
 # description = twtxt conversion of https://bearblog.dev/discover/feed/
 
-2026-09-16T15:13:00+00:00	a very chinese time in my life https://tiramisu.bearblog.dev/kunming-0/
 2026-09-17T00:36:00+00:00	i am a better person without my phone https://jeffdelp.bearblog.dev/without-my-phone/
-2026-09-17T06:25:00+00:00	Please read. https://thingsfound.bearblog.dev/please-read/
 2026-09-17T14:39:36.567201+00:00	how to endure instagram https://hanki.dev/fuck-instagram/
 2026-09-17T22:59:00+00:00	Machines don't feel. But we do. https://gr-y.uk/machines-dont-feel-but-we-do/
 2026-09-18T00:08:00+00:00	How I navigate AI anxiety https://brettcodes.com/how-i-navigate-ai-anxiety/
-2026-09-18T04:36:00+00:00	confession: I'm tired of being perceived https://sugarforbrains.bearblog.dev/confession-im-tired-of-being-perceived/
 2026-09-18T11:30:00+00:00	"What I have learned about great writers: they were always obsessed with something, but they were very seldom obsessed with writing." Jenny Boully https://etan.bearblog.dev/what-i-have-learned-about-great-writers-they-were-always-obsessed-with-something-but-they-were-very-seldom-obsessed-with-writing-jenny-boully/
 2026-09-18T12:54:00+00:00	Decline of civilization https://glonk.bearblog.dev/decline-of-civilization/
 2026-09-18T13:46:00+00:00	Gratuitous Suffering, Persian Cinema, and Pagan Gods https://householderkarl.com/gratuitous-suffering-persian-cinema-and-pagan-gods/
@@ -23,3 +20,6 @@
 2026-09-19T13:52:00+00:00	my problems are NOT region-locked https://tuesdaynight.blog/my-problems-are-not-region-locked/
 2026-09-19T14:41:00+00:00	AI is not “just a tool” https://brettcodes.com/ai-is-not-just-a-tool/
 2026-09-19T15:56:00+00:00	Negativity is still winning the day, even on bear https://skuth.us/negativity-is-still-winning-the-day/
+2026-09-19T18:00:00+00:00	Cat's in the Cradle https://householderkarl.com/cats-in-the-cradle/
+2026-09-19T20:46:00+00:00	I Think I’m Done with the Discovery Feed https://householderkarl.com/i-think-im-done-with-discovery/
+2026-09-19T21:31:49.594260+00:00	Please Agree to These Terms & Conditions for Your Slider https://blog.dmxrob.net/please-agree-to-these-terms-conditions-for-your-slider/
