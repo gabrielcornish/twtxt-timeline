@@ -3,18 +3,9 @@
 # source = https://www.reddit.com/r/Games.rss
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
-2026-09-16T11:00:47+00:00	Daily /r/Games Discussion - Suggest Me a Game - September 16, 2026 https://www.reddit.com/r/Games/comments/1whtzsj/daily_rgames_discussion_suggest_me_a_game/
-2026-09-18T13:00:25+00:00	Control Resonant Review Thread https://www.reddit.com/r/Games/comments/1wjpjyq/control_resonant_review_thread/
-2026-09-18T14:57:56+00:00	Control Resonant - DF Tech Review - PlayStation 5/PS5 Pro/Xbox Series X|S https://www.reddit.com/r/Games/comments/1wjsiad/control_resonant_df_tech_review_playstation_5ps5/
-2026-09-18T15:06:08+00:00	'Cheat Sellers Have Built a Sprawling, Multi-Billion-Dollar Marketplace' — Activision Reveals Eye-Watering Amounts of Money Behind Video Game Cheats https://www.reddit.com/r/Games/comments/1wjsqge/cheat_sellers_have_built_a_sprawling/
-2026-09-18T15:07:44+00:00	Bloomberg: The $40 Million Journey Behind ‘The Blood of Dawnwalker’ https://www.reddit.com/r/Games/comments/1wjsrxz/bloomberg_the_40_million_journey_behind_the_blood/
-2026-09-18T17:09:50+00:00	Star Wars: Galactic Racer | Sounds of the Galactic League - The Score https://www.reddit.com/r/Games/comments/1wjw3b6/star_wars_galactic_racer_sounds_of_the_galactic/
-2026-09-18T20:28:58+00:00	FF7 Revelation director Hamaguchi discusses the game’s 200GB size, DLC plans, and a new Tifa detail https://www.reddit.com/r/Games/comments/1wk1hg4/ff7_revelation_director_hamaguchi_discusses_the/
 2026-09-19T01:36:14+00:00	"The craziest numbers I've seen in 17 years working at Blizzard": WoW Forever devs seem genuinely shocked the beta is so popular as they explain why their MMO servers keep breaking https://www.reddit.com/r/Games/comments/1wk8rhk/the_craziest_numbers_ive_seen_in_17_years_working/
 2026-09-19T02:06:25+00:00	Marvel’s Wolverine (Update v.01.001.005): This hotfix adjusts the presentation of the Scent Trails and Audio Sense indicators, including reduced opacity to make these visuals less intense. https://www.reddit.com/r/Games/comments/1wk9e25/marvels_wolverine_update_v01001005_this_hotfix/
-2026-09-19T02:17:32+00:00	EDGE Magazine - "The game industry is broken – can we fix it?" [full interview with industry veterans from PS, Xbox, MMOs and more] https://www.reddit.com/r/Games/comments/1wk9mgf/edge_magazine_the_game_industry_is_broken_can_we/
 2026-09-19T03:08:55+00:00	Dusklight - 2.0 Release https://www.reddit.com/r/Games/comments/1wkaoix/dusklight_20_release/
-2026-09-19T10:54:28+00:00	Unmurk coming to Steam 9/18/2026 https://www.reddit.com/r/Games/comments/1wkj4db/unmurk_coming_to_steam_9182026/
 2026-09-19T11:59:09+00:00	Takumi Kawagoe - Camera Systems, Cinematics, and Defeating Ganondorf [Known for Mario 64 camera and Zelda series cinematics] https://www.reddit.com/r/Games/comments/1wkkc0q/takumi_kawagoe_camera_systems_cinematics_and/
 2026-09-19T13:07:15+00:00	Insomniac Confirms Wolverine Doesn’t Contain AI-Generated Assets After A Weird-Looking Sign Goes Viral https://www.reddit.com/r/Games/comments/1wklsou/insomniac_confirms_wolverine_doesnt_contain/
 2026-09-19T13:17:45+00:00	New FFXIV Guidelines on non commercial, fan-made, content: "Square Enix grants you revocable permission to utilize certain materials as specified below (the "Materials") on a non-commercial basis, for the purpose of supporting and growing the FINAL FANTASY XIV community" https://www.reddit.com/r/Games/comments/1wkm179/new_ffxiv_guidelines_on_non_commercial_fanmade/
@@ -27,4 +18,13 @@
 2026-09-19T19:45:54+00:00	Absolum - Nintendo Switch 2 Edition – Launch Trailer https://www.reddit.com/r/Games/comments/1wkvmfx/absolum_nintendo_switch_2_edition_launch_trailer/
 2026-09-19T23:00:44+00:00	Persona 4 Revival Broadcast | Episode 2 https://www.reddit.com/r/Games/comments/1wl0b3p/persona_4_revival_broadcast_episode_2/
 2026-09-20T04:00:41+00:00	Indie Sunday Hub - September 20, 2026 https://www.reddit.com/r/Games/comments/1wl6iw6/indie_sunday_hub_september_20_2026/
-2026-09-20T04:23:01+00:00	Xenobiome Command - Haroldware Games - colony survival on a fungal exoplanet where raids take days to gather. Free browser demo out now https://www.reddit.com/r/Games/comments/1wl6ymz/xenobiome_command_haroldware_games_colony/
+2026-09-20T06:43:44+00:00	RITZEN - impulse9studio - retro horde shooter, L4D meets CoD Zombies - solo, online co-op, split screen https://www.reddit.com/r/Games/comments/1wl9lbn/ritzen_impulse9studio_retro_horde_shooter_l4d/
+2026-09-20T07:00:58+00:00	Phoenix Wright: Ace Attorney Trilogy has sold over 5 million copies https://www.reddit.com/r/Games/comments/1wl9wss/phoenix_wright_ace_attorney_trilogy_has_sold_over/
+2026-09-20T07:55:28+00:00	Kardiya: The Winds of Fate - InEv Games - A Narrative RPG inspired by FATE RPG mechanics. Roll the dice, choose your companions, organize your gear, explore all of Kardiya! https://www.reddit.com/r/Games/comments/1wlavc7/kardiya_the_winds_of_fate_inev_games_a_narrative/
+2026-09-20T08:22:38+00:00	Rising Spirit - aeterponis - A first-person open-world boxing life sim https://www.reddit.com/r/Games/comments/1wlbcrc/rising_spirit_aeterponis_a_firstperson_openworld/
+2026-09-20T09:00:44+00:00	Weekly /r/Games Discussion - What have you been playing, and what are your thoughts? - September 20, 2026 https://www.reddit.com/r/Games/comments/1wlc03v/weekly_rgames_discussion_what_have_you_been/
+2026-09-20T09:35:23+00:00	Bullet Meltdown - Games Anatomy Studio - Bullet heaven with permanent-death companions https://www.reddit.com/r/Games/comments/1wlcl5z/bullet_meltdown_games_anatomy_studio_bullet/
+2026-09-20T10:22:19+00:00	Castlevania: Belmont's Curse demo releasing on October 1st (save data from the demo can be transferred to the full game) https://www.reddit.com/r/Games/comments/1wldehz/castlevania_belmonts_curse_demo_releasing_on/
+2026-09-20T10:30:09+00:00	My Brother Hacker - Hotix (solo dev) - a hacking sim where you find your targets by reading a fake internet from 2036 https://www.reddit.com/r/Games/comments/1wldjh0/my_brother_hacker_hotix_solo_dev_a_hacking_sim/
+2026-09-20T11:33:46+00:00	'My First Thought Was, What Am I Going to Do With My Studio?' — Hideo Kojima Reveals What Happened With Sony in First Interview Since PlayStation Ditched Physint https://www.reddit.com/r/Games/comments/1wlep5m/my_first_thought_was_what_am_i_going_to_do_with/
+2026-09-20T11:59:10+00:00	Glitch Protocol - Boogygames Studios - A 200-room precision platformer where every room lies to you https://www.reddit.com/r/Games/comments/1wlf6oh/glitch_protocol_boogygames_studios_a_200room/
