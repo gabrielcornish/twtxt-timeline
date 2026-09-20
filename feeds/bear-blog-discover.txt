@@ -3,11 +3,7 @@
 # source = https://bearblog.dev/discover/feed/
 # description = twtxt conversion of https://bearblog.dev/discover/feed/
 
-2026-09-17T14:39:36.567201+00:00	how to endure instagram https://hanki.dev/fuck-instagram/
 2026-09-17T22:59:00+00:00	Machines don't feel. But we do. https://gr-y.uk/machines-dont-feel-but-we-do/
-2026-09-18T11:30:00+00:00	"What I have learned about great writers: they were always obsessed with something, but they were very seldom obsessed with writing." Jenny Boully https://etan.bearblog.dev/what-i-have-learned-about-great-writers-they-were-always-obsessed-with-something-but-they-were-very-seldom-obsessed-with-writing-jenny-boully/
-2026-09-18T12:54:00+00:00	Decline of civilization https://glonk.bearblog.dev/decline-of-civilization/
-2026-09-18T13:46:00+00:00	Gratuitous Suffering, Persian Cinema, and Pagan Gods https://householderkarl.com/gratuitous-suffering-persian-cinema-and-pagan-gods/
 2026-09-18T18:51:00+00:00	F*ck Omarchy and right wing populism https://slowburn.bearblog.dev/fck-omarchy-and-right-wing-populism/
 2026-09-18T19:48:00+00:00	Generative AI in video games https://halinu.bearblog.dev/generative-ai-in-video-games/
 2026-09-18T21:31:00+00:00	For the Last Time I'm Not Downloading Your Stupid App https://blog.absurdpirate.com/for-the-last-time-im-not-downloading-your-stupid-app/
@@ -18,8 +14,12 @@
 2026-09-19T15:56:00+00:00	Negativity is still winning the day, even on bear https://skuth.us/negativity-is-still-winning-the-day/
 2026-09-19T18:00:00+00:00	Cat's in the Cradle https://householderkarl.com/cats-in-the-cradle/
 2026-09-19T19:46:00+00:00	Is Flickr still a thing? https://basic.bearblog.dev/is-flickr-still-a-thing/
-2026-09-19T20:46:00+00:00	I Think I’m Done with the Discovery Feed https://householderkarl.com/i-think-im-done-with-discovery/
 2026-09-19T21:31:49.594260+00:00	Please Agree to These Terms & Conditions for Your Slider https://blog.dmxrob.net/please-agree-to-these-terms-conditions-for-your-slider/
 2026-09-19T22:49:54.684302+00:00	the personal internet https://yenecys.bearblog.dev/the-personal-internet/
-2026-09-19T23:55:00+00:00	I saw Cregger's Resident Evil https://blog.lauramichet.com/i-saw-creggers-resident-evil/
 2026-09-20T00:16:00+00:00	Embarrassing restaurant orders https://caproven.bearblog.dev/embarrassing-restaurant-orders/
+2026-09-20T01:01:00+00:00	New website! https://halinu.bearblog.dev/new-website/
+2026-09-20T01:14:00+00:00	"It Builds Character" https://divinely-unwize.com/it-builds-character/
+2026-09-20T06:07:00+00:00	😺Hangin' with LF (lil' figgy)😺 https://tism.help/hangin-with-lf-lil-figgy/
+2026-09-20T11:57:00+00:00	The joy of just doing https://robertbirming.com/joy-just-doing/
+2026-09-20T12:10:00+00:00	Things I Once Thought Mattered https://rwitesh.bearblog.dev/posts/things-i-once-thought-mattered/
+2026-09-20T13:18:00+00:00	You can't think your way into happiness. https://jackreiger.bearblog.dev/you-cant-think-your-way-into-happiness/
