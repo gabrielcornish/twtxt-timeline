@@ -4,13 +4,11 @@
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
 2026-09-16T11:00:47+00:00	Daily /r/Games Discussion - Suggest Me a Game - September 16, 2026 https://www.reddit.com/r/Games/comments/1whtzsj/daily_rgames_discussion_suggest_me_a_game/
-2026-09-18T10:00:42+00:00	Daily /r/Games Discussion - Free Talk Friday - September 18, 2026 https://www.reddit.com/r/Games/comments/1wjlzto/daily_rgames_discussion_free_talk_friday/
 2026-09-18T13:00:25+00:00	Control Resonant Review Thread https://www.reddit.com/r/Games/comments/1wjpjyq/control_resonant_review_thread/
 2026-09-18T14:57:56+00:00	Control Resonant - DF Tech Review - PlayStation 5/PS5 Pro/Xbox Series X|S https://www.reddit.com/r/Games/comments/1wjsiad/control_resonant_df_tech_review_playstation_5ps5/
 2026-09-18T15:06:08+00:00	'Cheat Sellers Have Built a Sprawling, Multi-Billion-Dollar Marketplace' — Activision Reveals Eye-Watering Amounts of Money Behind Video Game Cheats https://www.reddit.com/r/Games/comments/1wjsqge/cheat_sellers_have_built_a_sprawling/
 2026-09-18T15:07:44+00:00	Bloomberg: The $40 Million Journey Behind ‘The Blood of Dawnwalker’ https://www.reddit.com/r/Games/comments/1wjsrxz/bloomberg_the_40_million_journey_behind_the_blood/
 2026-09-18T17:09:50+00:00	Star Wars: Galactic Racer | Sounds of the Galactic League - The Score https://www.reddit.com/r/Games/comments/1wjw3b6/star_wars_galactic_racer_sounds_of_the_galactic/
-2026-09-18T17:52:05+00:00	Last Epoch Season 5 - Rage of the Frostborn - October 1st | Official Trailer https://www.reddit.com/r/Games/comments/1wjx97q/last_epoch_season_5_rage_of_the_frostborn_october/
 2026-09-18T20:28:58+00:00	FF7 Revelation director Hamaguchi discusses the game’s 200GB size, DLC plans, and a new Tifa detail https://www.reddit.com/r/Games/comments/1wk1hg4/ff7_revelation_director_hamaguchi_discusses_the/
 2026-09-19T01:36:14+00:00	"The craziest numbers I've seen in 17 years working at Blizzard": WoW Forever devs seem genuinely shocked the beta is so popular as they explain why their MMO servers keep breaking https://www.reddit.com/r/Games/comments/1wk8rhk/the_craziest_numbers_ive_seen_in_17_years_working/
 2026-09-19T02:06:25+00:00	Marvel’s Wolverine (Update v.01.001.005): This hotfix adjusts the presentation of the Scent Trails and Audio Sense indicators, including reduced opacity to make these visuals less intense. https://www.reddit.com/r/Games/comments/1wk9e25/marvels_wolverine_update_v01001005_this_hotfix/
@@ -28,3 +26,5 @@
 2026-09-19T19:45:17+00:00	Once Human: Isles of Abyss — Release Date Reveal Trailer https://www.reddit.com/r/Games/comments/1wkvlx1/once_human_isles_of_abyss_release_date_reveal/
 2026-09-19T19:45:54+00:00	Absolum - Nintendo Switch 2 Edition – Launch Trailer https://www.reddit.com/r/Games/comments/1wkvmfx/absolum_nintendo_switch_2_edition_launch_trailer/
 2026-09-19T23:00:44+00:00	Persona 4 Revival Broadcast | Episode 2 https://www.reddit.com/r/Games/comments/1wl0b3p/persona_4_revival_broadcast_episode_2/
+2026-09-20T04:00:41+00:00	Indie Sunday Hub - September 20, 2026 https://www.reddit.com/r/Games/comments/1wl6iw6/indie_sunday_hub_september_20_2026/
+2026-09-20T04:23:01+00:00	Xenobiome Command - Haroldware Games - colony survival on a fungal exoplanet where raids take days to gather. Free browser demo out now https://www.reddit.com/r/Games/comments/1wl6ymz/xenobiome_command_haroldware_games_colony/

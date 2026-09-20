@@ -3,7 +3,6 @@
 # source = https://bearblog.dev/discover/feed/
 # description = twtxt conversion of https://bearblog.dev/discover/feed/
 
-2026-09-17T00:36:00+00:00	i am a better person without my phone https://jeffdelp.bearblog.dev/without-my-phone/
 2026-09-17T14:39:36.567201+00:00	how to endure instagram https://hanki.dev/fuck-instagram/
 2026-09-17T22:59:00+00:00	Machines don't feel. But we do. https://gr-y.uk/machines-dont-feel-but-we-do/
 2026-09-18T11:30:00+00:00	"What I have learned about great writers: they were always obsessed with something, but they were very seldom obsessed with writing." Jenny Boully https://etan.bearblog.dev/what-i-have-learned-about-great-writers-they-were-always-obsessed-with-something-but-they-were-very-seldom-obsessed-with-writing-jenny-boully/
@@ -15,6 +14,7 @@
 2026-09-18T19:48:00+00:00	Generative AI in video games https://halinu.bearblog.dev/generative-ai-in-video-games/
 2026-09-18T21:31:00+00:00	For the Last Time I'm Not Downloading Your Stupid App https://blog.absurdpirate.com/for-the-last-time-im-not-downloading-your-stupid-app/
 2026-09-18T22:59:00+00:00	Shadowrun Review https://elmc.at/shadowrun-review/
+2026-09-19T06:34:00+00:00	Decorating the blog for Halloween https://cats-musings.blog/0099-halloween-theme/
 2026-09-19T12:15:00+00:00	internet safety for kids / a love letter to the internet https://blog.avas.space/think-of-the-children/
 2026-09-19T13:52:00+00:00	my problems are NOT region-locked https://tuesdaynight.blog/my-problems-are-not-region-locked/
 2026-09-19T14:41:00+00:00	AI is not “just a tool” https://brettcodes.com/ai-is-not-just-a-tool/
