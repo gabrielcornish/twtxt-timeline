@@ -3,13 +3,9 @@
 # source = https://bearblog.dev/discover/feed/
 # description = twtxt conversion of https://bearblog.dev/discover/feed/
 
-2026-09-18T18:51:00+00:00	F*ck Omarchy and right wing populism https://slowburn.bearblog.dev/fck-omarchy-and-right-wing-populism/
-2026-09-18T21:31:00+00:00	For the Last Time I'm Not Downloading Your Stupid App https://blog.absurdpirate.com/for-the-last-time-im-not-downloading-your-stupid-app/
-2026-09-18T22:59:00+00:00	Shadowrun Review https://elmc.at/shadowrun-review/
 2026-09-19T12:15:00+00:00	internet safety for kids / a love letter to the internet https://blog.avas.space/think-of-the-children/
 2026-09-19T14:41:00+00:00	AI is not “just a tool” https://brettcodes.com/ai-is-not-just-a-tool/
 2026-09-19T15:56:00+00:00	Negativity is still winning the day, even on bear https://skuth.us/negativity-is-still-winning-the-day/
-2026-09-19T19:46:00+00:00	Is Flickr still a thing? https://basic.bearblog.dev/is-flickr-still-a-thing/
 2026-09-19T21:31:49.594260+00:00	Please Agree to These Terms & Conditions for Your Slider https://blog.dmxrob.net/please-agree-to-these-terms-conditions-for-your-slider/
 2026-09-19T22:49:54.684302+00:00	the personal internet https://yenecys.bearblog.dev/the-personal-internet/
 2026-09-20T00:16:00+00:00	Embarrassing restaurant orders https://caproven.bearblog.dev/embarrassing-restaurant-orders/
@@ -21,5 +17,9 @@
 2026-09-20T13:18:00+00:00	You can't think your way into happiness. https://jackreiger.bearblog.dev/you-cant-think-your-way-into-happiness/
 2026-09-20T18:22:00+00:00	Messing around with Gemini - No NOT the  AI https://yunzi.co.uk/messing-around-with-gemini-no-not-the-ai/
 2026-09-20T22:12:35.055960+00:00	Say something nice. Pass it on. https://piimyon.bearblog.dev/say-something-nice-pass-it-on/
-2026-09-21T03:01:11.794775+00:00	You’re Pre-Diabetic https://sparenotes.online/youre-pre-diabetic/
+2026-09-21T03:01:00+00:00	You’re Pre-Diabetic https://sparenotes.online/youre-pre-diabetic/
 2026-09-21T03:42:00+00:00	My Son Was Admitted to the Hospital https://lumpmotif.com/my-son-was-admitted-to-the-hospital/
+2026-09-21T05:32:00+00:00	on being unemployed https://yenecys.bearblog.dev/on-being-unemployed/
+2026-09-21T06:00:00+00:00	写在两份工作的 Gap 之时 https://blog.solazy.me/20260921/
+2026-09-21T06:42:00+00:00	I saw a ukelele performance https://blog.lauramichet.com/i-saw-a-ukelele-performance/
+2026-09-21T11:53:00+00:00	A TTRPG Playstyle Rant (A Short Blog Post) https://afraidofencounters.bearblog.dev/a-ttrpg-playstyle-rant/

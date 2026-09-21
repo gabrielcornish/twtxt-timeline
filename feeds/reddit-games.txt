@@ -3,7 +3,6 @@
 # source = https://www.reddit.com/r/Games.rss
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
-2026-09-19T14:37:47+00:00	Hooded Horse CEO - "Steam is on an absolute historic run of improving discoverability lately, especially for indies." https://www.reddit.com/r/Games/comments/1wknx23/hooded_horse_ceo_steam_is_on_an_absolute_historic/
 2026-09-20T07:00:58+00:00	Phoenix Wright: Ace Attorney Trilogy has sold over 5 million copies https://www.reddit.com/r/Games/comments/1wl9wss/phoenix_wright_ace_attorney_trilogy_has_sold_over/
 2026-09-20T09:00:44+00:00	Weekly /r/Games Discussion - What have you been playing, and what are your thoughts? - September 20, 2026 https://www.reddit.com/r/Games/comments/1wlc03v/weekly_rgames_discussion_what_have_you_been/
 2026-09-20T10:22:19+00:00	Castlevania: Belmont's Curse demo releasing on October 1st (save data from the demo can be transferred to the full game) https://www.reddit.com/r/Games/comments/1wldehz/castlevania_belmonts_curse_demo_releasing_on/
@@ -11,20 +10,21 @@
 2026-09-20T12:57:41+00:00	DOOM The Dark Ages producer speaks about the layoffs https://www.reddit.com/r/Games/comments/1wlgfbt/doom_the_dark_ages_producer_speaks_about_the/
 2026-09-20T13:37:30+00:00	ONE PIECE: Grand Gourmet – A Day in a Rookie Staff Member's Life (Gameplay Overview Trailer) https://www.reddit.com/r/Games/comments/1wlhbkl/one_piece_grand_gourmet_a_day_in_a_rookie_staff/
 2026-09-20T13:50:28+00:00	Jason Schreier: Sony and Kojima Productions were in negotiations over the future of [Physint] for a while before it was canceled. Kojima Productions may be unhappy about how SIE handled it, but the news didn't come out of nowhere. https://www.reddit.com/r/Games/comments/1wlhmab/jason_schreier_sony_and_kojima_productions_were/
-2026-09-20T14:12:18+00:00	Street Fighter 6 and Star Detective Precure! Launch Collab Event on December 17 - The four-part storyline will be available in the Battle Hub https://www.reddit.com/r/Games/comments/1wli5d6/street_fighter_6_and_star_detective_precure/
-2026-09-20T14:35:46+00:00	COP BASTARD – targim. - FPS inspired by VHS era films like HARD BOILED https://www.reddit.com/r/Games/comments/1wlipp0/cop_bastard_targim_fps_inspired_by_vhs_era_films/
 2026-09-20T16:05:10+00:00	Lufia 1 & 2 The Sinistrals Saga world premiere trailer - PC Gaming Show Tokyo Direct https://www.reddit.com/r/Games/comments/1wlkz3c/lufia_1_2_the_sinistrals_saga_world_premiere/
-2026-09-20T16:09:32+00:00	Really Illegal Golf - Announcement Trailer https://www.reddit.com/r/Games/comments/1wll32z/really_illegal_golf_announcement_trailer/
 2026-09-20T17:04:48+00:00	BALL x PIT: Risen Ballbylon | Reveal Trailer | Launching on November 12 https://www.reddit.com/r/Games/comments/1wlmji1/ball_x_pit_risen_ballbylon_reveal_trailer/
-2026-09-20T17:33:41+00:00	Dwarven Digging Machine - Red Horde Games - incremental strategy about dwarves building a giant digging machine https://www.reddit.com/r/Games/comments/1wlnah7/dwarven_digging_machine_red_horde_games/
 2026-09-20T18:10:31+00:00	Cairn - On the Trail: Deep Water - Launch date https://www.reddit.com/r/Games/comments/1wlo9k1/cairn_on_the_trail_deep_water_launch_date/
 2026-09-20T18:52:05+00:00	Kotaku Marvel’s Wolverine Seemingly Censored In Some Places, Cutting References To Mystique’s Lesbian Relationship https://www.reddit.com/r/Games/comments/1wlpdem/kotaku_marvels_wolverine_seemingly_censored_in/
 2026-09-20T19:11:11+00:00	WANE reveal trailer - PC Gaming Show Toyko Direct 2026 https://www.reddit.com/r/Games/comments/1wlpw1g/wane_reveal_trailer_pc_gaming_show_toyko_direct/
 2026-09-20T21:10:28+00:00	Rocket League® | Unreal Engine 6 - Tested By The Pros [Coming 2027] https://www.reddit.com/r/Games/comments/1wlt1rm/rocket_league_unreal_engine_6_tested_by_the_pros/
-2026-09-20T22:00:46+00:00	It's the Insides That Count - Cracked Cannoli (solo dev) - 1-4 player co-op surgery game where you play as the aliens https://www.reddit.com/r/Games/comments/1wluait/its_the_insides_that_count_cracked_cannoli_solo/
-2026-09-20T23:54:34+00:00	Exit Protocol: Emergency - KLEKA - An anomaly game where blinking is part of survival https://www.reddit.com/r/Games/comments/1wlwwzq/exit_protocol_emergency_kleka_an_anomaly_game/
 2026-09-21T00:12:39+00:00	RIDGERUNNERS - ultramegasuper games - Tribes-inspired first-person momentum racer https://www.reddit.com/r/Games/comments/1wlxcbj/ridgerunners_ultramegasuper_games_tribesinspired/
-2026-09-21T01:02:10+00:00	Zelda II: The Adventure of Link Port - Troy Edwards - PC and browser port with online co-op and widescreen https://www.reddit.com/r/Games/comments/1wlyfql/zelda_ii_the_adventure_of_link_port_troy_edwards/
-2026-09-21T02:57:24+00:00	Orbit Fall - Redbranch Games - 2D pixel-art arcade lander adventure https://www.reddit.com/r/Games/comments/1wm0uqe/orbit_fall_redbranch_games_2d_pixelart_arcade/
-2026-09-21T03:39:14+00:00	Mega Golf - Intimidation Crab - A weird mash up of mini golf and vehicular combat with local multiplayer. https://www.reddit.com/r/Games/comments/1wm1p2b/mega_golf_intimidation_crab_a_weird_mash_up_of/
 2026-09-21T05:05:42+00:00	A Long Expected Campaign - Battle for Middle-earth II https://www.reddit.com/r/Games/comments/1wm3d31/a_long_expected_campaign_battle_for_middleearth_ii/
+2026-09-21T07:00:26+00:00	Silent Hill: Townfall Review Thread https://www.reddit.com/r/Games/comments/1wm5eu0/silent_hill_townfall_review_thread/
+2026-09-21T07:04:39+00:00	SILENT HILL: Townfall | Launch Trailer (4K: EN/ESRB) | KONAMI https://www.reddit.com/r/Games/comments/1wm5hsa/silent_hill_townfall_launch_trailer_4k_enesrb/
+2026-09-21T11:02:57+00:00	Loftia - Official Release Date Trailer https://www.reddit.com/r/Games/comments/1wm9mht/loftia_official_release_date_trailer/
+2026-09-21T11:48:46+00:00	Dynasty Warriors 3: Complete Edition Remastered demo launches September 24 https://www.reddit.com/r/Games/comments/1wmaie4/dynasty_warriors_3_complete_edition_remastered/
+2026-09-21T12:09:32+00:00	Smash Your Past in Virtue and a Sledgehammer | October 27 on Steam https://www.reddit.com/r/Games/comments/1wmayqo/smash_your_past_in_virtue_and_a_sledgehammer/
+2026-09-21T12:22:47+00:00	Mega Man: Dual Override Jet Man Reveal Trailer https://www.reddit.com/r/Games/comments/1wmb94x/mega_man_dual_override_jet_man_reveal_trailer/
+2026-09-21T12:36:41+00:00	Persona5: The Phantom X - P3P Special Event: Reach for the Moon Trailer https://www.reddit.com/r/Games/comments/1wmbkqg/persona5_the_phantom_x_p3p_special_event_reach/
+2026-09-21T13:29:44+00:00	Battle Vision: a Might&Magic: Clash of heroes clone by the same developers ! https://www.reddit.com/r/Games/comments/1wmcunh/battle_vision_a_mightmagic_clash_of_heroes_clone/
+2026-09-21T13:58:34+00:00	Final Fantasy 7 Revelation will let players raise their character’s level automatically to skip grinding https://www.reddit.com/r/Games/comments/1wmdkqp/final_fantasy_7_revelation_will_let_players_raise/
+2026-09-21T13:59:09+00:00	Cronos: Lazarus | Fight like the Pathfinder | Gameplay Showcase https://www.reddit.com/r/Games/comments/1wmdl9t/cronos_lazarus_fight_like_the_pathfinder_gameplay/
