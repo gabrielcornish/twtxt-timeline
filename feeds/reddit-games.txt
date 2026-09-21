@@ -3,10 +3,7 @@
 # source = https://www.reddit.com/r/Games.rss
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
-2026-09-19T13:07:15+00:00	Insomniac Confirms Wolverine Doesn’t Contain AI-Generated Assets After A Weird-Looking Sign Goes Viral https://www.reddit.com/r/Games/comments/1wklsou/insomniac_confirms_wolverine_doesnt_contain/
 2026-09-19T14:37:47+00:00	Hooded Horse CEO - "Steam is on an absolute historic run of improving discoverability lately, especially for indies." https://www.reddit.com/r/Games/comments/1wknx23/hooded_horse_ceo_steam_is_on_an_absolute_historic/
-2026-09-19T19:45:54+00:00	Absolum - Nintendo Switch 2 Edition – Launch Trailer https://www.reddit.com/r/Games/comments/1wkvmfx/absolum_nintendo_switch_2_edition_launch_trailer/
-2026-09-20T04:00:41+00:00	Indie Sunday Hub - September 20, 2026 https://www.reddit.com/r/Games/comments/1wl6iw6/indie_sunday_hub_september_20_2026/
 2026-09-20T07:00:58+00:00	Phoenix Wright: Ace Attorney Trilogy has sold over 5 million copies https://www.reddit.com/r/Games/comments/1wl9wss/phoenix_wright_ace_attorney_trilogy_has_sold_over/
 2026-09-20T09:00:44+00:00	Weekly /r/Games Discussion - What have you been playing, and what are your thoughts? - September 20, 2026 https://www.reddit.com/r/Games/comments/1wlc03v/weekly_rgames_discussion_what_have_you_been/
 2026-09-20T10:22:19+00:00	Castlevania: Belmont's Curse demo releasing on October 1st (save data from the demo can be transferred to the full game) https://www.reddit.com/r/Games/comments/1wldehz/castlevania_belmonts_curse_demo_releasing_on/
@@ -28,3 +25,6 @@
 2026-09-20T23:54:34+00:00	Exit Protocol: Emergency - KLEKA - An anomaly game where blinking is part of survival https://www.reddit.com/r/Games/comments/1wlwwzq/exit_protocol_emergency_kleka_an_anomaly_game/
 2026-09-21T00:12:39+00:00	RIDGERUNNERS - ultramegasuper games - Tribes-inspired first-person momentum racer https://www.reddit.com/r/Games/comments/1wlxcbj/ridgerunners_ultramegasuper_games_tribesinspired/
 2026-09-21T01:02:10+00:00	Zelda II: The Adventure of Link Port - Troy Edwards - PC and browser port with online co-op and widescreen https://www.reddit.com/r/Games/comments/1wlyfql/zelda_ii_the_adventure_of_link_port_troy_edwards/
+2026-09-21T02:57:24+00:00	Orbit Fall - Redbranch Games - 2D pixel-art arcade lander adventure https://www.reddit.com/r/Games/comments/1wm0uqe/orbit_fall_redbranch_games_2d_pixelart_arcade/
+2026-09-21T03:39:14+00:00	Mega Golf - Intimidation Crab - A weird mash up of mini golf and vehicular combat with local multiplayer. https://www.reddit.com/r/Games/comments/1wm1p2b/mega_golf_intimidation_crab_a_weird_mash_up_of/
+2026-09-21T05:05:42+00:00	A Long Expected Campaign - Battle for Middle-earth II https://www.reddit.com/r/Games/comments/1wm3d31/a_long_expected_campaign_battle_for_middleearth_ii/
