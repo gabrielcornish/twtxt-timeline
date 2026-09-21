@@ -4,10 +4,7 @@
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
 2026-09-20T09:00:44+00:00	Weekly /r/Games Discussion - What have you been playing, and what are your thoughts? - September 20, 2026 https://www.reddit.com/r/Games/comments/1wlc03v/weekly_rgames_discussion_what_have_you_been/
-2026-09-20T13:50:28+00:00	Jason Schreier: Sony and Kojima Productions were in negotiations over the future of [Physint] for a while before it was canceled. Kojima Productions may be unhappy about how SIE handled it, but the news didn't come out of nowhere. https://www.reddit.com/r/Games/comments/1wlhmab/jason_schreier_sony_and_kojima_productions_were/
-2026-09-20T18:10:31+00:00	Cairn - On the Trail: Deep Water - Launch date https://www.reddit.com/r/Games/comments/1wlo9k1/cairn_on_the_trail_deep_water_launch_date/
 2026-09-20T18:52:05+00:00	Kotaku Marvel’s Wolverine Seemingly Censored In Some Places, Cutting References To Mystique’s Lesbian Relationship https://www.reddit.com/r/Games/comments/1wlpdem/kotaku_marvels_wolverine_seemingly_censored_in/
-2026-09-20T21:10:28+00:00	Rocket League® | Unreal Engine 6 - Tested By The Pros [Coming 2027] https://www.reddit.com/r/Games/comments/1wlt1rm/rocket_league_unreal_engine_6_tested_by_the_pros/
 2026-09-21T05:05:42+00:00	A Long Expected Campaign - Battle for Middle-earth II https://www.reddit.com/r/Games/comments/1wm3d31/a_long_expected_campaign_battle_for_middleearth_ii/
 2026-09-21T07:00:26+00:00	Silent Hill: Townfall Review Thread https://www.reddit.com/r/Games/comments/1wm5eu0/silent_hill_townfall_review_thread/
 2026-09-21T07:04:39+00:00	SILENT HILL: Townfall | Launch Trailer (4K: EN/ESRB) | KONAMI https://www.reddit.com/r/Games/comments/1wm5hsa/silent_hill_townfall_launch_trailer_4k_enesrb/
@@ -28,3 +25,6 @@
 2026-09-21T18:17:45+00:00	Third World Productions - Mexican Entertainment System 2026 https://www.reddit.com/r/Games/comments/1wmkrtj/third_world_productions_mexican_entertainment/
 2026-09-21T18:43:22+00:00	What game has the best level design that you have ever seen? https://www.reddit.com/r/Games/comments/1wmli3u/what_game_has_the_best_level_design_that_you_have/
 2026-09-21T18:59:45+00:00	Totally Safe Railway Co - Announcement Trailer https://www.reddit.com/r/Games/comments/1wmlyp7/totally_safe_railway_co_announcement_trailer/
+2026-09-21T19:31:32+00:00	Defilade Official Steam Trailer - a New RTS Game Coming! https://www.reddit.com/r/Games/comments/1wmmum4/defilade_official_steam_trailer_a_new_rts_game/
+2026-09-21T19:48:35+00:00	Age of the Ring (Battle for Middle-earth II Mod) - Gondor Showmatch https://www.reddit.com/r/Games/comments/1wmnb7r/age_of_the_ring_battle_for_middleearth_ii_mod/
+2026-09-21T20:09:12+00:00	Mechabellum 2.0 is HERE! | Star Expedition, Centurion & Free Edition https://www.reddit.com/r/Games/comments/1wmnw84/mechabellum_20_is_here_star_expedition_centurion/
