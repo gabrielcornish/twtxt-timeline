@@ -3,7 +3,6 @@
 # source = https://www.gamesindustry.biz/feed
 # description = twtxt conversion of https://www.gamesindustry.biz/feed
 
-2026-09-09T20:14:39+00:00	Almost 1,900 Blizzard workers ratify first union contract with Microsoft https://www.gamesindustry.biz/almost-1900-blizzard-workers-ratify-first-union-contract-with-microsoft
 2026-09-10T07:34:19+00:00	Xbox to publish Kojima Productions' Physint after it "unexpectedly received notice" from PlayStation that it would cancel the project https://www.gamesindustry.biz/xbox-to-publish-kojima-productions-physint-after-it-unexpectedly-received-notice-from-playstation-that-it-would-cancel-the-project
 2026-09-10T12:22:19+00:00	Newzoo: Most established live-service and evergreen titles were flat or down year over year in H1 2026 https://www.gamesindustry.biz/newzoo-most-established-live-service-and-evergreen-titles-were-flat-or-down-year-over-year-in-h1-2026
 2026-09-10T13:11:44+00:00	Saber Interactive's chief creative officer says "We've never replaced anybody with AI" https://www.gamesindustry.biz/saber-interactives-chief-creative-officer-says-weve-never-replaced-anybody-with-ai
@@ -53,3 +52,4 @@
 2026-09-21T11:34:05+00:00	Northern Forge Studios and Runaway Play lead Green Games Jam Awards 2026 https://www.gamesindustry.biz/northern-forge-studios-and-runaway-play-lead-green-games-jam-awards-2026
 2026-09-21T12:01:04+00:00	Tokyo Game Show 2026 celebrated the past, and an uncertain AI future | Opinion https://www.gamesindustry.biz/tokyo-game-show-2026-celebrated-the-past-and-an-uncertain-ai-future-opinion
 2026-09-21T13:27:45+00:00	Activision cites data claiming cheating in games is an $8.5bn industry; 69% of online multiplayer studios consider cheating "a significant or very significant problem" https://www.gamesindustry.biz/activision-cites-data-claiming-cheating-in-games-is-an-85bn-industry-69-of-online-multiplayer-studios-consider-cheating-a-significant-or-very-significant-problem
+2026-09-21T16:24:23+00:00	"It's sad and devastating" – Black Myth: Wukong's physical publisher is mourning the loss of PlayStation discs https://www.gamesindustry.biz/its-sad-and-devastating-black-myth-wukongs-physical-publisher-is-mourning-the-loss-of-playstation-discs

@@ -3,20 +3,11 @@
 # source = https://www.reddit.com/r/Games.rss
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
-2026-09-20T07:00:58+00:00	Phoenix Wright: Ace Attorney Trilogy has sold over 5 million copies https://www.reddit.com/r/Games/comments/1wl9wss/phoenix_wright_ace_attorney_trilogy_has_sold_over/
 2026-09-20T09:00:44+00:00	Weekly /r/Games Discussion - What have you been playing, and what are your thoughts? - September 20, 2026 https://www.reddit.com/r/Games/comments/1wlc03v/weekly_rgames_discussion_what_have_you_been/
-2026-09-20T10:22:19+00:00	Castlevania: Belmont's Curse demo releasing on October 1st (save data from the demo can be transferred to the full game) https://www.reddit.com/r/Games/comments/1wldehz/castlevania_belmonts_curse_demo_releasing_on/
-2026-09-20T11:33:46+00:00	'My First Thought Was, What Am I Going to Do With My Studio?' — Hideo Kojima Reveals What Happened With Sony in First Interview Since PlayStation Ditched Physint https://www.reddit.com/r/Games/comments/1wlep5m/my_first_thought_was_what_am_i_going_to_do_with/
-2026-09-20T12:57:41+00:00	DOOM The Dark Ages producer speaks about the layoffs https://www.reddit.com/r/Games/comments/1wlgfbt/doom_the_dark_ages_producer_speaks_about_the/
-2026-09-20T13:37:30+00:00	ONE PIECE: Grand Gourmet – A Day in a Rookie Staff Member's Life (Gameplay Overview Trailer) https://www.reddit.com/r/Games/comments/1wlhbkl/one_piece_grand_gourmet_a_day_in_a_rookie_staff/
 2026-09-20T13:50:28+00:00	Jason Schreier: Sony and Kojima Productions were in negotiations over the future of [Physint] for a while before it was canceled. Kojima Productions may be unhappy about how SIE handled it, but the news didn't come out of nowhere. https://www.reddit.com/r/Games/comments/1wlhmab/jason_schreier_sony_and_kojima_productions_were/
-2026-09-20T16:05:10+00:00	Lufia 1 & 2 The Sinistrals Saga world premiere trailer - PC Gaming Show Tokyo Direct https://www.reddit.com/r/Games/comments/1wlkz3c/lufia_1_2_the_sinistrals_saga_world_premiere/
-2026-09-20T17:04:48+00:00	BALL x PIT: Risen Ballbylon | Reveal Trailer | Launching on November 12 https://www.reddit.com/r/Games/comments/1wlmji1/ball_x_pit_risen_ballbylon_reveal_trailer/
 2026-09-20T18:10:31+00:00	Cairn - On the Trail: Deep Water - Launch date https://www.reddit.com/r/Games/comments/1wlo9k1/cairn_on_the_trail_deep_water_launch_date/
 2026-09-20T18:52:05+00:00	Kotaku Marvel’s Wolverine Seemingly Censored In Some Places, Cutting References To Mystique’s Lesbian Relationship https://www.reddit.com/r/Games/comments/1wlpdem/kotaku_marvels_wolverine_seemingly_censored_in/
-2026-09-20T19:11:11+00:00	WANE reveal trailer - PC Gaming Show Toyko Direct 2026 https://www.reddit.com/r/Games/comments/1wlpw1g/wane_reveal_trailer_pc_gaming_show_toyko_direct/
 2026-09-20T21:10:28+00:00	Rocket League® | Unreal Engine 6 - Tested By The Pros [Coming 2027] https://www.reddit.com/r/Games/comments/1wlt1rm/rocket_league_unreal_engine_6_tested_by_the_pros/
-2026-09-21T00:12:39+00:00	RIDGERUNNERS - ultramegasuper games - Tribes-inspired first-person momentum racer https://www.reddit.com/r/Games/comments/1wlxcbj/ridgerunners_ultramegasuper_games_tribesinspired/
 2026-09-21T05:05:42+00:00	A Long Expected Campaign - Battle for Middle-earth II https://www.reddit.com/r/Games/comments/1wm3d31/a_long_expected_campaign_battle_for_middleearth_ii/
 2026-09-21T07:00:26+00:00	Silent Hill: Townfall Review Thread https://www.reddit.com/r/Games/comments/1wm5eu0/silent_hill_townfall_review_thread/
 2026-09-21T07:04:39+00:00	SILENT HILL: Townfall | Launch Trailer (4K: EN/ESRB) | KONAMI https://www.reddit.com/r/Games/comments/1wm5hsa/silent_hill_townfall_launch_trailer_4k_enesrb/
@@ -25,6 +16,15 @@
 2026-09-21T12:09:32+00:00	Smash Your Past in Virtue and a Sledgehammer | October 27 on Steam https://www.reddit.com/r/Games/comments/1wmayqo/smash_your_past_in_virtue_and_a_sledgehammer/
 2026-09-21T12:22:47+00:00	Mega Man: Dual Override Jet Man Reveal Trailer https://www.reddit.com/r/Games/comments/1wmb94x/mega_man_dual_override_jet_man_reveal_trailer/
 2026-09-21T12:36:41+00:00	Persona5: The Phantom X - P3P Special Event: Reach for the Moon Trailer https://www.reddit.com/r/Games/comments/1wmbkqg/persona5_the_phantom_x_p3p_special_event_reach/
-2026-09-21T13:29:44+00:00	Battle Vision: a Might&Magic: Clash of heroes clone by the same developers ! https://www.reddit.com/r/Games/comments/1wmcunh/battle_vision_a_mightmagic_clash_of_heroes_clone/
 2026-09-21T13:58:34+00:00	Final Fantasy 7 Revelation will let players raise their character’s level automatically to skip grinding https://www.reddit.com/r/Games/comments/1wmdkqp/final_fantasy_7_revelation_will_let_players_raise/
 2026-09-21T13:59:09+00:00	Cronos: Lazarus | Fight like the Pathfinder | Gameplay Showcase https://www.reddit.com/r/Games/comments/1wmdl9t/cronos_lazarus_fight_like_the_pathfinder_gameplay/
+2026-09-21T15:31:04+00:00	Rockstar updates its policies on mods ahead of the GTA VI launch https://www.reddit.com/r/Games/comments/1wmg322/rockstar_updates_its_policies_on_mods_ahead_of/
+2026-09-21T16:00:58+00:00	Tomb Raider: Legacy of Atlantis - Official 'Reimagining Egypt' Overview Trailer https://www.reddit.com/r/Games/comments/1wmgx3d/tomb_raider_legacy_of_atlantis_official/
+2026-09-21T16:03:19+00:00	The Next Chapter for Bungie: Today, we’re sharing more about the future of Bungie, including our plans for Destiny, Marathon, and how we’re changing the way we work https://www.reddit.com/r/Games/comments/1wmgzk8/the_next_chapter_for_bungie_today_were_sharing/
+2026-09-21T17:04:06+00:00	SILENT HILL: Townfall | Launch Trailer (Sep 24th) https://www.reddit.com/r/Games/comments/1wmiozh/silent_hill_townfall_launch_trailer_sep_24th/
+2026-09-21T17:38:36+00:00	Persona 4 Revival Casts Tohru Adachi, Ryotaro Dojima, Aika Nakamura, and Nanako Dojima - Johnny Yong Bosch returns as Adachi. https://www.reddit.com/r/Games/comments/1wmjor2/persona_4_revival_casts_tohru_adachi_ryotaro/
+2026-09-21T17:39:03+00:00	World of Warcraft: Forever's convinced me that we lost too much to modern MMO quest design https://www.reddit.com/r/Games/comments/1wmjp8u/world_of_warcraft_forevers_convinced_me_that_we/
+2026-09-21T17:52:33+00:00	Players will need to 'think on their feet' in Alien: Isolation 2's new exterior environments, while the 'perfect hunter' xenomorph will also learn and 'adapt' how to track you down in the outdoors https://www.reddit.com/r/Games/comments/1wmk2ib/players_will_need_to_think_on_their_feet_in_alien/
+2026-09-21T18:17:45+00:00	Third World Productions - Mexican Entertainment System 2026 https://www.reddit.com/r/Games/comments/1wmkrtj/third_world_productions_mexican_entertainment/
+2026-09-21T18:43:22+00:00	What game has the best level design that you have ever seen? https://www.reddit.com/r/Games/comments/1wmli3u/what_game_has_the_best_level_design_that_you_have/
+2026-09-21T18:59:45+00:00	Totally Safe Railway Co - Announcement Trailer https://www.reddit.com/r/Games/comments/1wmlyp7/totally_safe_railway_co_announcement_trailer/
