@@ -3,7 +3,6 @@
 # source = https://bearblog.dev/discover/feed/
 # description = twtxt conversion of https://bearblog.dev/discover/feed/
 
-2026-09-19T12:15:00+00:00	internet safety for kids / a love letter to the internet https://blog.avas.space/think-of-the-children/
 2026-09-19T14:41:00+00:00	AI is not “just a tool” https://brettcodes.com/ai-is-not-just-a-tool/
 2026-09-19T15:56:00+00:00	Negativity is still winning the day, even on bear https://skuth.us/negativity-is-still-winning-the-day/
 2026-09-19T21:31:49.594260+00:00	Please Agree to These Terms & Conditions for Your Slider https://blog.dmxrob.net/please-agree-to-these-terms-conditions-for-your-slider/
@@ -19,7 +18,8 @@
 2026-09-21T03:42:00+00:00	My Son Was Admitted to the Hospital https://lumpmotif.com/my-son-was-admitted-to-the-hospital/
 2026-09-21T05:32:00+00:00	on being unemployed https://yenecys.bearblog.dev/on-being-unemployed/
 2026-09-21T06:42:00+00:00	I saw a ukelele performance https://blog.lauramichet.com/i-saw-a-ukelele-performance/
+2026-09-21T10:30:00+00:00	Are we really free? https://unixdad.com/are-we-really-free/
 2026-09-21T11:53:00+00:00	A TTRPG Playstyle Rant (A Short Blog Post) https://afraidofencounters.bearblog.dev/a-ttrpg-playstyle-rant/
 2026-09-21T16:21:00+00:00	If you're ever feeling down, think about a creature called the "Tailed Tailless Bat" https://blog.curiousquail.com/if-youre-ever-feeling-down-think-about-a-creature-called-the-tailed-tailless-bat/
-2026-09-21T17:16:24.554843+00:00	6th deployment. 10 km(6 miles) walks again. https://nonentity.bearblog.dev/6th-deployment-10-km6-miles-walks-again/
 2026-09-21T21:50:00+00:00	thankful for the little things https://psychidion.bearblog.dev/thankful-for-the-little-things/
+2026-09-21T22:31:00+00:00	on AI brainrot https://bruceblog.bearblog.dev/on-ai-brainrot/
