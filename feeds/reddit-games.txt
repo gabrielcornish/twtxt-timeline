@@ -4,22 +4,9 @@
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
 2026-09-20T09:00:44+00:00	Weekly /r/Games Discussion - What have you been playing, and what are your thoughts? - September 20, 2026 https://www.reddit.com/r/Games/comments/1wlc03v/weekly_rgames_discussion_what_have_you_been/
-2026-09-21T07:00:26+00:00	Silent Hill: Townfall Review Thread https://www.reddit.com/r/Games/comments/1wm5eu0/silent_hill_townfall_review_thread/
-2026-09-21T11:48:46+00:00	Dynasty Warriors 3: Complete Edition Remastered demo launches September 24 https://www.reddit.com/r/Games/comments/1wmaie4/dynasty_warriors_3_complete_edition_remastered/
-2026-09-21T12:22:47+00:00	Mega Man: Dual Override Jet Man Reveal Trailer https://www.reddit.com/r/Games/comments/1wmb94x/mega_man_dual_override_jet_man_reveal_trailer/
-2026-09-21T13:58:34+00:00	Final Fantasy 7 Revelation will let players raise their character’s level automatically to skip grinding https://www.reddit.com/r/Games/comments/1wmdkqp/final_fantasy_7_revelation_will_let_players_raise/
-2026-09-21T13:59:09+00:00	Cronos: Lazarus | Fight like the Pathfinder | Gameplay Showcase https://www.reddit.com/r/Games/comments/1wmdl9t/cronos_lazarus_fight_like_the_pathfinder_gameplay/
-2026-09-21T15:31:04+00:00	Rockstar updates its policies on mods ahead of the GTA VI launch https://www.reddit.com/r/Games/comments/1wmg322/rockstar_updates_its_policies_on_mods_ahead_of/
 2026-09-21T16:03:19+00:00	The Next Chapter for Bungie: Today, we’re sharing more about the future of Bungie, including our plans for Destiny, Marathon, and how we’re changing the way we work https://www.reddit.com/r/Games/comments/1wmgzk8/the_next_chapter_for_bungie_today_were_sharing/
-2026-09-21T17:04:06+00:00	SILENT HILL: Townfall | Launch Trailer (Sep 24th) https://www.reddit.com/r/Games/comments/1wmiozh/silent_hill_townfall_launch_trailer_sep_24th/
-2026-09-21T17:38:36+00:00	Persona 4 Revival Casts Tohru Adachi, Ryotaro Dojima, Aika Nakamura, and Nanako Dojima - Johnny Yong Bosch returns as Adachi. https://www.reddit.com/r/Games/comments/1wmjor2/persona_4_revival_casts_tohru_adachi_ryotaro/
 2026-09-21T17:39:03+00:00	World of Warcraft: Forever's convinced me that we lost too much to modern MMO quest design https://www.reddit.com/r/Games/comments/1wmjp8u/world_of_warcraft_forevers_convinced_me_that_we/
-2026-09-21T17:52:33+00:00	Players will need to 'think on their feet' in Alien: Isolation 2's new exterior environments, while the 'perfect hunter' xenomorph will also learn and 'adapt' how to track you down in the outdoors https://www.reddit.com/r/Games/comments/1wmk2ib/players_will_need_to_think_on_their_feet_in_alien/
 2026-09-21T18:43:22+00:00	What game has the best level design that you have ever seen? https://www.reddit.com/r/Games/comments/1wmli3u/what_game_has_the_best_level_design_that_you_have/
-2026-09-21T19:31:32+00:00	Defilade Official Steam Trailer - a New RTS Game Coming! https://www.reddit.com/r/Games/comments/1wmmum4/defilade_official_steam_trailer_a_new_rts_game/
-2026-09-21T19:48:35+00:00	Age of the Ring (Battle for Middle-earth II Mod) - Gondor Showmatch https://www.reddit.com/r/Games/comments/1wmnb7r/age_of_the_ring_battle_for_middleearth_ii_mod/
-2026-09-21T20:09:12+00:00	Mechabellum 2.0 is HERE! | Star Expedition, Centurion & Free Edition https://www.reddit.com/r/Games/comments/1wmnw84/mechabellum_20_is_here_star_expedition_centurion/
-2026-09-21T23:22:04+00:00	'All roads lead back to Arma' https://www.reddit.com/r/Games/comments/1wmsviw/all_roads_lead_back_to_arma/
 2026-09-21T23:59:52+00:00	FINAL FANTASY RESONANCE | Tokyo Game Show 2026 Trailer https://www.reddit.com/r/Games/comments/1wmtrgs/final_fantasy_resonance_tokyo_game_show_2026/
 2026-09-22T03:09:06+00:00	Daggerfall Enhanced - Persistent Multiplayer Mod https://www.reddit.com/r/Games/comments/1wmxxk2/daggerfall_enhanced_persistent_multiplayer_mod/
 2026-09-22T05:41:38+00:00	PCGamer - Nighthawks review [89/100] https://www.reddit.com/r/Games/comments/1wn0v45/pcgamer_nighthawks_review_89100/
@@ -28,3 +15,16 @@
 2026-09-22T14:01:06+00:00	Xbox Wire: Continuing Our Reset https://www.reddit.com/r/Games/comments/1wnabze/xbox_wire_continuing_our_reset/
 2026-09-22T14:21:17+00:00	[GuileWinQuote] Vampire Savior is my favorite fighting game https://www.reddit.com/r/Games/comments/1wnaurj/guilewinquote_vampire_savior_is_my_favorite/
 2026-09-22T14:53:00+00:00	'I Was Thinking About the Possibility of Atelier Maomao': How The Apothecary Diaries Became a PS5 Game https://www.reddit.com/r/Games/comments/1wnboo3/i_was_thinking_about_the_possibility_of_atelier/
+2026-09-22T15:02:36+00:00	Undead Labs becomes Independent Studio https://www.reddit.com/r/Games/comments/1wnby6c/undead_labs_becomes_independent_studio/
+2026-09-22T15:12:03+00:00	StarCraft 'Won't Be Exclusive,' Says Blizzard - Kotaku https://www.reddit.com/r/Games/comments/1wnc76k/starcraft_wont_be_exclusive_says_blizzard_kotaku/
+2026-09-22T15:14:21+00:00	Well Dweller ► Launch Trailer For PC, Nintendo Switch, Nintendo Switch 2, PS5, Xbox Game Pass https://www.reddit.com/r/Games/comments/1wnc9cx/well_dweller_launch_trailer_for_pc_nintendo/
+2026-09-22T16:00:10+00:00	Rayman Legends Retold - Game Overview Trailer https://www.reddit.com/r/Games/comments/1wndi49/rayman_legends_retold_game_overview_trailer/
+2026-09-22T16:11:58+00:00	Dune: Awakening Out Now on Console, New Single Player Mode and Film DLC Available on All Platforms https://www.reddit.com/r/Games/comments/1wndtt7/dune_awakening_out_now_on_console_new_single/
+2026-09-22T16:17:50+00:00	Total War: WARHAMMER III - Update 9.0 Release Notes - Total War: WARHAMMER https://www.reddit.com/r/Games/comments/1wndzls/total_war_warhammer_iii_update_90_release_notes/
+2026-09-22T17:01:06+00:00	Middle-earth™: Shadow Bundle – Announce Trailer https://www.reddit.com/r/Games/comments/1wnf6be/middleearth_shadow_bundle_announce_trailer/
+2026-09-22T17:09:06+00:00	“We could only pay salaries for about three months.” Shift Up CEO talks about Stellar Blade’s difficult development and facing rejection from investors https://www.reddit.com/r/Games/comments/1wnfekw/we_could_only_pay_salaries_for_about_three_months/
+2026-09-22T17:44:20+00:00	People Playground workshop infected by malware for the second time https://www.reddit.com/r/Games/comments/1wngero/people_playground_workshop_infected_by_malware/
+2026-09-22T17:47:36+00:00	Xbox Game Studios Is Quickly Disappearing https://www.reddit.com/r/Games/comments/1wngi3i/xbox_game_studios_is_quickly_disappearing/
+2026-09-22T17:54:37+00:00	'We believe that this IP has a future' — Rayman Legends Retold brand producer wants to continue the series after the 3D remake 'if everything goes according to plan' https://www.reddit.com/r/Games/comments/1wngp8l/we_believe_that_this_ip_has_a_future_rayman/
+2026-09-22T18:00:46+00:00	Sonic at 35: Takashi Iizuka Reflects on the Past, Present, and Future of the Blue Blur https://www.reddit.com/r/Games/comments/1wngvid/sonic_at_35_takashi_iizuka_reflects_on_the_past/
+2026-09-22T18:44:07+00:00	Gears of War: E-Day Story Director Laid Off Just Four Days After Celebrating The Game Going Gold https://www.reddit.com/r/Games/comments/1wni2vs/gears_of_war_eday_story_director_laid_off_just/
