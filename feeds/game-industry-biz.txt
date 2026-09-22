@@ -3,8 +3,6 @@
 # source = https://www.gamesindustry.biz/feed
 # description = twtxt conversion of https://www.gamesindustry.biz/feed
 
-2026-09-10T07:34:19+00:00	Xbox to publish Kojima Productions' Physint after it "unexpectedly received notice" from PlayStation that it would cancel the project https://www.gamesindustry.biz/xbox-to-publish-kojima-productions-physint-after-it-unexpectedly-received-notice-from-playstation-that-it-would-cancel-the-project
-2026-09-10T12:22:19+00:00	Newzoo: Most established live-service and evergreen titles were flat or down year over year in H1 2026 https://www.gamesindustry.biz/newzoo-most-established-live-service-and-evergreen-titles-were-flat-or-down-year-over-year-in-h1-2026
 2026-09-10T13:11:44+00:00	Saber Interactive's chief creative officer says "We've never replaced anybody with AI" https://www.gamesindustry.biz/saber-interactives-chief-creative-officer-says-weve-never-replaced-anybody-with-ai
 2026-09-10T13:50:35+00:00	GTA 6 Netflix preview drove more than 100,000 sign-ups during its six-hour exclusivity window https://www.gamesindustry.biz/gta-6-netflix-preview-drove-more-than-100000-sign-ups-during-its-six-hour-exclusivity-window
 2026-09-10T16:15:33+00:00	No More Robots' nine-year journey to releasing its first self-developed IP – "This sounds so naive and stupid, but somehow it's working" https://www.gamesindustry.biz/no-more-robots-nine-year-journey-to-releasing-its-first-self-developed-ip-this-sounds-so-naive-and-stupid-but-somehow-its-working
@@ -53,3 +51,5 @@
 2026-09-21T12:01:04+00:00	Tokyo Game Show 2026 celebrated the past, and an uncertain AI future | Opinion https://www.gamesindustry.biz/tokyo-game-show-2026-celebrated-the-past-and-an-uncertain-ai-future-opinion
 2026-09-21T13:27:45+00:00	Activision cites data claiming cheating in games is an $8.5bn industry; 69% of online multiplayer studios consider cheating "a significant or very significant problem" https://www.gamesindustry.biz/activision-cites-data-claiming-cheating-in-games-is-an-85bn-industry-69-of-online-multiplayer-studios-consider-cheating-a-significant-or-very-significant-problem
 2026-09-21T16:24:23+00:00	"It's sad and devastating" – Black Myth: Wukong's physical publisher is mourning the loss of PlayStation discs https://www.gamesindustry.biz/its-sad-and-devastating-black-myth-wukongs-physical-publisher-is-mourning-the-loss-of-playstation-discs
+2026-09-22T07:55:38+00:00	Xbox reportedly set to announce second round of layoffs this week https://www.gamesindustry.biz/xbox-reportedly-set-to-announce-second-round-of-layoffs-this-week
+2026-09-22T09:43:57+00:00	Bungie says it's "not done with Destiny", aims to earn back player trust by restoring archived Destiny 2 content https://www.gamesindustry.biz/bungie-says-its-not-done-with-destiny-aims-to-earn-back-player-trust-by-restoring-archived-destiny-2-content

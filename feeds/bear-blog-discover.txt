@@ -3,23 +3,23 @@
 # source = https://bearblog.dev/discover/feed/
 # description = twtxt conversion of https://bearblog.dev/discover/feed/
 
-2026-09-19T14:41:00+00:00	AI is not “just a tool” https://brettcodes.com/ai-is-not-just-a-tool/
-2026-09-19T15:56:00+00:00	Negativity is still winning the day, even on bear https://skuth.us/negativity-is-still-winning-the-day/
 2026-09-19T21:31:49.594260+00:00	Please Agree to These Terms & Conditions for Your Slider https://blog.dmxrob.net/please-agree-to-these-terms-conditions-for-your-slider/
 2026-09-19T22:49:54.684302+00:00	the personal internet https://yenecys.bearblog.dev/the-personal-internet/
-2026-09-20T01:14:00+00:00	"It Builds Character" https://divinely-unwize.com/it-builds-character/
 2026-09-20T06:07:00+00:00	😺Hangin' with LF (lil' figgy)😺 https://tism.help/hangin-with-lf-lil-figgy/
 2026-09-20T11:57:00+00:00	The joy of just doing https://robertbirming.com/joy-just-doing/
 2026-09-20T12:10:00+00:00	Things I Once Thought Mattered https://rwitesh.bearblog.dev/posts/things-i-once-thought-mattered/
-2026-09-20T13:18:00+00:00	You can't think your way into happiness. https://jackreiger.bearblog.dev/you-cant-think-your-way-into-happiness/
 2026-09-20T18:22:00+00:00	Messing around with Gemini - No NOT the  AI https://yunzi.co.uk/messing-around-with-gemini-no-not-the-ai/
 2026-09-20T22:12:35.055960+00:00	Say something nice. Pass it on. https://piimyon.bearblog.dev/say-something-nice-pass-it-on/
-2026-09-21T03:01:00+00:00	You’re Pre-Diabetic https://sparenotes.online/youre-pre-diabetic/
 2026-09-21T03:42:00+00:00	My Son Was Admitted to the Hospital https://lumpmotif.com/my-son-was-admitted-to-the-hospital/
 2026-09-21T05:32:00+00:00	on being unemployed https://yenecys.bearblog.dev/on-being-unemployed/
 2026-09-21T06:42:00+00:00	I saw a ukelele performance https://blog.lauramichet.com/i-saw-a-ukelele-performance/
 2026-09-21T10:30:00+00:00	Are we really free? https://unixdad.com/are-we-really-free/
 2026-09-21T11:53:00+00:00	A TTRPG Playstyle Rant (A Short Blog Post) https://afraidofencounters.bearblog.dev/a-ttrpg-playstyle-rant/
 2026-09-21T16:21:00+00:00	If you're ever feeling down, think about a creature called the "Tailed Tailless Bat" https://blog.curiousquail.com/if-youre-ever-feeling-down-think-about-a-creature-called-the-tailed-tailless-bat/
+2026-09-21T21:37:00+00:00	📷 sonoran desert in black and white https://jeffdelp.bearblog.dev/sonoran-desert/
+2026-09-21T21:38:58.560381+00:00	How I pulled myself out of the YouTube rabbit hole https://piimyon.bearblog.dev/how-i-pulled-myself-out-of-the-youtube-rabbit-hole/
 2026-09-21T21:50:00+00:00	thankful for the little things https://psychidion.bearblog.dev/thankful-for-the-little-things/
 2026-09-21T22:31:00+00:00	on AI brainrot https://bruceblog.bearblog.dev/on-ai-brainrot/
+2026-09-21T23:48:00+00:00	Confessions of a scaredy-cat https://em-online.bearblog.dev/confessions-of-a-scaredy-cat/
+2026-09-22T02:44:00+00:00	speaking in playlist https://zoeloukia.bearblog.dev/speaking-in-playlist/
+2026-09-22T03:23:23.702876+00:00	the easiest thing to animate https://rnotte.art/the-easiest-thing-to-animate/
