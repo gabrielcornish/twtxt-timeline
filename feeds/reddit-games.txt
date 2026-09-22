@@ -6,9 +6,6 @@
 2026-09-20T09:00:44+00:00	Weekly /r/Games Discussion - What have you been playing, and what are your thoughts? - September 20, 2026 https://www.reddit.com/r/Games/comments/1wlc03v/weekly_rgames_discussion_what_have_you_been/
 2026-09-21T16:03:19+00:00	The Next Chapter for Bungie: Today, we’re sharing more about the future of Bungie, including our plans for Destiny, Marathon, and how we’re changing the way we work https://www.reddit.com/r/Games/comments/1wmgzk8/the_next_chapter_for_bungie_today_were_sharing/
 2026-09-21T17:39:03+00:00	World of Warcraft: Forever's convinced me that we lost too much to modern MMO quest design https://www.reddit.com/r/Games/comments/1wmjp8u/world_of_warcraft_forevers_convinced_me_that_we/
-2026-09-21T18:43:22+00:00	What game has the best level design that you have ever seen? https://www.reddit.com/r/Games/comments/1wmli3u/what_game_has_the_best_level_design_that_you_have/
-2026-09-21T23:59:52+00:00	FINAL FANTASY RESONANCE | Tokyo Game Show 2026 Trailer https://www.reddit.com/r/Games/comments/1wmtrgs/final_fantasy_resonance_tokyo_game_show_2026/
-2026-09-22T03:09:06+00:00	Daggerfall Enhanced - Persistent Multiplayer Mod https://www.reddit.com/r/Games/comments/1wmxxk2/daggerfall_enhanced_persistent_multiplayer_mod/
 2026-09-22T05:41:38+00:00	PCGamer - Nighthawks review [89/100] https://www.reddit.com/r/Games/comments/1wn0v45/pcgamer_nighthawks_review_89100/
 2026-09-22T12:21:33+00:00	Well Dweller - Review Thread https://www.reddit.com/r/Games/comments/1wn7z83/well_dweller_review_thread/
 2026-09-22T13:06:37+00:00	Steam Beta adds experimental new Pyrowave video codec for Remote Play https://www.reddit.com/r/Games/comments/1wn9029/steam_beta_adds_experimental_new_pyrowave_video/
@@ -28,3 +25,6 @@
 2026-09-22T17:54:37+00:00	'We believe that this IP has a future' — Rayman Legends Retold brand producer wants to continue the series after the 3D remake 'if everything goes according to plan' https://www.reddit.com/r/Games/comments/1wngp8l/we_believe_that_this_ip_has_a_future_rayman/
 2026-09-22T18:00:46+00:00	Sonic at 35: Takashi Iizuka Reflects on the Past, Present, and Future of the Blue Blur https://www.reddit.com/r/Games/comments/1wngvid/sonic_at_35_takashi_iizuka_reflects_on_the_past/
 2026-09-22T18:44:07+00:00	Gears of War: E-Day Story Director Laid Off Just Four Days After Celebrating The Game Going Gold https://www.reddit.com/r/Games/comments/1wni2vs/gears_of_war_eday_story_director_laid_off_just/
+2026-09-22T19:28:44+00:00	Halo Studios Cinematic Director Laid Off Immediately After Promotion https://www.reddit.com/r/Games/comments/1wnjc8s/halo_studios_cinematic_director_laid_off/
+2026-09-22T19:53:08+00:00	Xbox Is Merging Its Two Forza Teams Into One Studio Focused On Forza Horizon And Fable (Playground, Turn 10) https://www.reddit.com/r/Games/comments/1wnk0s3/xbox_is_merging_its_two_forza_teams_into_one/
+2026-09-22T20:15:05+00:00	I just launched Nocturne today, a Rhythm RPG I've been creating for 10 years - AMA https://www.reddit.com/r/Games/comments/1wnkmug/i_just_launched_nocturne_today_a_rhythm_rpg_ive/
