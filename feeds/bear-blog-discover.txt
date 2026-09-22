@@ -13,7 +13,6 @@
 2026-09-21T03:42:00+00:00	My Son Was Admitted to the Hospital https://lumpmotif.com/my-son-was-admitted-to-the-hospital/
 2026-09-21T05:32:00+00:00	on being unemployed https://yenecys.bearblog.dev/on-being-unemployed/
 2026-09-21T06:42:00+00:00	I saw a ukelele performance https://blog.lauramichet.com/i-saw-a-ukelele-performance/
-2026-09-21T10:30:00+00:00	Are we really free? https://unixdad.com/are-we-really-free/
 2026-09-21T11:53:00+00:00	A TTRPG Playstyle Rant (A Short Blog Post) https://afraidofencounters.bearblog.dev/a-ttrpg-playstyle-rant/
 2026-09-21T16:21:00+00:00	If you're ever feeling down, think about a creature called the "Tailed Tailless Bat" https://blog.curiousquail.com/if-youre-ever-feeling-down-think-about-a-creature-called-the-tailed-tailless-bat/
 2026-09-21T21:37:00+00:00	📷 sonoran desert in black and white https://jeffdelp.bearblog.dev/sonoran-desert/
@@ -23,3 +22,4 @@
 2026-09-21T23:48:00+00:00	Confessions of a scaredy-cat https://em-online.bearblog.dev/confessions-of-a-scaredy-cat/
 2026-09-22T02:44:00+00:00	speaking in playlist https://zoeloukia.bearblog.dev/speaking-in-playlist/
 2026-09-22T03:23:23.702876+00:00	the easiest thing to animate https://rnotte.art/the-easiest-thing-to-animate/
+2026-09-22T09:20:00+00:00	On reading books https://herman.bearblog.dev/on-reading-books/
