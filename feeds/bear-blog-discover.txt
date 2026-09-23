@@ -3,15 +3,11 @@
 # source = https://bearblog.dev/discover/feed/
 # description = twtxt conversion of https://bearblog.dev/discover/feed/
 
-2026-09-19T21:31:49.594260+00:00	Please Agree to These Terms & Conditions for Your Slider https://blog.dmxrob.net/please-agree-to-these-terms-conditions-for-your-slider/
 2026-09-19T22:49:54.684302+00:00	the personal internet https://yenecys.bearblog.dev/the-personal-internet/
-2026-09-20T12:10:00+00:00	Things I Once Thought Mattered https://rwitesh.bearblog.dev/posts/things-i-once-thought-mattered/
-2026-09-20T18:22:00+00:00	Messing around with Gemini - No NOT the  AI https://yunzi.co.uk/messing-around-with-gemini-no-not-the-ai/
 2026-09-20T22:12:35.055960+00:00	Say something nice. Pass it on. https://piimyon.bearblog.dev/say-something-nice-pass-it-on/
 2026-09-21T03:42:00+00:00	My Son Was Admitted to the Hospital https://lumpmotif.com/my-son-was-admitted-to-the-hospital/
 2026-09-21T05:32:00+00:00	on being unemployed https://yenecys.bearblog.dev/on-being-unemployed/
 2026-09-21T06:42:00+00:00	I saw a ukelele performance https://blog.lauramichet.com/i-saw-a-ukelele-performance/
-2026-09-21T11:53:00+00:00	A TTRPG Playstyle Rant (A Short Blog Post) https://afraidofencounters.bearblog.dev/a-ttrpg-playstyle-rant/
 2026-09-21T16:21:00+00:00	If you're ever feeling down, think about a creature called the "Tailed Tailless Bat" https://blog.curiousquail.com/if-youre-ever-feeling-down-think-about-a-creature-called-the-tailed-tailless-bat/
 2026-09-21T21:37:00+00:00	📷 sonoran desert in black and white https://jeffdelp.bearblog.dev/sonoran-desert/
 2026-09-21T21:38:58.560381+00:00	How I pulled myself out of the YouTube rabbit hole https://piimyon.bearblog.dev/how-i-pulled-myself-out-of-the-youtube-rabbit-hole/
@@ -22,4 +18,8 @@
 2026-09-22T03:23:23.702876+00:00	the easiest thing to animate https://rnotte.art/the-easiest-thing-to-animate/
 2026-09-22T09:20:00+00:00	On reading books https://herman.bearblog.dev/on-reading-books/
 2026-09-22T15:00:00+00:00	a source of drain https://blog.avas.space/energydrain/
+2026-09-22T18:05:00+00:00	I'm not missing, I swear! https://diels-daydreams.bearblog.dev/im-not-missing-i-swear/
+2026-09-22T18:19:00+00:00	here where i live is my country https://blog.sulimans.space/here-where-i-live-is-my-country/
+2026-09-22T18:32:29.248355+00:00	d10 Silly Space Gun Table https://idraluna-archives.bearblog.dev/d10-silly-space-gun-table/
 2026-09-22T22:54:00+00:00	I Got Duped Into Watching a Right Wing Youtuber https://blog.absurdpirate.com/i-got-duped-into-watching-a-right-wing-youtuber/
+2026-09-22T23:09:00+00:00	The Universe Is a Weird Place https://householderkarl.com/the-universe-is-a-weird-place/
