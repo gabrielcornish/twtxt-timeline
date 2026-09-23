@@ -3,28 +3,28 @@
 # source = https://www.reddit.com/r/Games.rss
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
-2026-09-22T12:21:33+00:00	Well Dweller - Review Thread https://www.reddit.com/r/Games/comments/1wn7z83/well_dweller_review_thread/
-2026-09-22T13:06:37+00:00	Steam Beta adds experimental new Pyrowave video codec for Remote Play https://www.reddit.com/r/Games/comments/1wn9029/steam_beta_adds_experimental_new_pyrowave_video/
 2026-09-22T14:01:06+00:00	Xbox Wire: Continuing Our Reset https://www.reddit.com/r/Games/comments/1wnabze/xbox_wire_continuing_our_reset/
-2026-09-22T14:21:17+00:00	[GuileWinQuote] Vampire Savior is my favorite fighting game https://www.reddit.com/r/Games/comments/1wnaurj/guilewinquote_vampire_savior_is_my_favorite/
-2026-09-22T14:53:00+00:00	'I Was Thinking About the Possibility of Atelier Maomao': How The Apothecary Diaries Became a PS5 Game https://www.reddit.com/r/Games/comments/1wnboo3/i_was_thinking_about_the_possibility_of_atelier/
 2026-09-22T15:02:36+00:00	Undead Labs becomes Independent Studio https://www.reddit.com/r/Games/comments/1wnby6c/undead_labs_becomes_independent_studio/
-2026-09-22T15:12:03+00:00	StarCraft 'Won't Be Exclusive,' Says Blizzard - Kotaku https://www.reddit.com/r/Games/comments/1wnc76k/starcraft_wont_be_exclusive_says_blizzard_kotaku/
-2026-09-22T15:14:21+00:00	Well Dweller ► Launch Trailer For PC, Nintendo Switch, Nintendo Switch 2, PS5, Xbox Game Pass https://www.reddit.com/r/Games/comments/1wnc9cx/well_dweller_launch_trailer_for_pc_nintendo/
-2026-09-22T16:00:10+00:00	Rayman Legends Retold - Game Overview Trailer https://www.reddit.com/r/Games/comments/1wndi49/rayman_legends_retold_game_overview_trailer/
 2026-09-22T16:11:58+00:00	Dune: Awakening Out Now on Console, New Single Player Mode and Film DLC Available on All Platforms https://www.reddit.com/r/Games/comments/1wndtt7/dune_awakening_out_now_on_console_new_single/
-2026-09-22T16:17:50+00:00	Total War: WARHAMMER III - Update 9.0 Release Notes - Total War: WARHAMMER https://www.reddit.com/r/Games/comments/1wndzls/total_war_warhammer_iii_update_90_release_notes/
 2026-09-22T17:01:06+00:00	Middle-earth™: Shadow Bundle – Announce Trailer https://www.reddit.com/r/Games/comments/1wnf6be/middleearth_shadow_bundle_announce_trailer/
-2026-09-22T17:09:06+00:00	“We could only pay salaries for about three months.” Shift Up CEO talks about Stellar Blade’s difficult development and facing rejection from investors https://www.reddit.com/r/Games/comments/1wnfekw/we_could_only_pay_salaries_for_about_three_months/
 2026-09-22T17:44:20+00:00	People Playground workshop infected by malware for the second time https://www.reddit.com/r/Games/comments/1wngero/people_playground_workshop_infected_by_malware/
 2026-09-22T17:47:36+00:00	Xbox Game Studios Is Quickly Disappearing https://www.reddit.com/r/Games/comments/1wngi3i/xbox_game_studios_is_quickly_disappearing/
-2026-09-22T17:54:37+00:00	'We believe that this IP has a future' — Rayman Legends Retold brand producer wants to continue the series after the 3D remake 'if everything goes according to plan' https://www.reddit.com/r/Games/comments/1wngp8l/we_believe_that_this_ip_has_a_future_rayman/
-2026-09-22T18:00:46+00:00	Sonic at 35: Takashi Iizuka Reflects on the Past, Present, and Future of the Blue Blur https://www.reddit.com/r/Games/comments/1wngvid/sonic_at_35_takashi_iizuka_reflects_on_the_past/
 2026-09-22T18:44:07+00:00	Gears of War: E-Day Story Director Laid Off Just Four Days After Celebrating The Game Going Gold https://www.reddit.com/r/Games/comments/1wni2vs/gears_of_war_eday_story_director_laid_off_just/
 2026-09-22T19:28:44+00:00	Halo Studios Cinematic Director Laid Off Immediately After Promotion https://www.reddit.com/r/Games/comments/1wnjc8s/halo_studios_cinematic_director_laid_off/
 2026-09-22T20:15:05+00:00	I just launched Nocturne today, a Rhythm RPG I've been creating for 10 years - AMA https://www.reddit.com/r/Games/comments/1wnkmug/i_just_launched_nocturne_today_a_rhythm_rpg_ive/
 2026-09-22T21:53:51+00:00	Nearly Half of Age of Empires Dev World's Edge Laid Off https://www.reddit.com/r/Games/comments/1wnn8u8/nearly_half_of_age_of_empires_dev_worlds_edge/
 2026-09-22T22:30:43+00:00	Undead Labs confirms a ‘significant’ number of layoffs over on LinkedIn after regaining its independence from Xbox https://www.reddit.com/r/Games/comments/1wno5hp/undead_labs_confirms_a_significant_number_of/
-2026-09-22T23:52:14+00:00	Grip XR is now Grip 2: Combat Racing Evolved (Steam Demo coming on 1st October) https://www.reddit.com/r/Games/comments/1wnq1sp/grip_xr_is_now_grip_2_combat_racing_evolved_steam/
 2026-09-23T02:47:31+00:00	"Android XR Bridge" Tool Brings Quest Exclusives To PC VR https://www.reddit.com/r/Games/comments/1wnty6e/android_xr_bridge_tool_brings_quest_exclusives_to/
 2026-09-23T11:00:55+00:00	Daily /r/Games Discussion - Suggest Me a Game - September 23, 2026 https://www.reddit.com/r/Games/comments/1wo2sus/daily_rgames_discussion_suggest_me_a_game/
+2026-09-23T13:05:31+00:00	Titan Quest II | Release Date Trailer (Jan 19th 2027) https://www.reddit.com/r/Games/comments/1wo5gx6/titan_quest_ii_release_date_trailer_jan_19th_2027/
+2026-09-23T13:29:55+00:00	Bethesda President Says Obsidian Will Retain ‘Creative Identity’ Despite Becoming Part Of Bethesda https://www.reddit.com/r/Games/comments/1wo6290/bethesda_president_says_obsidian_will_retain/
+2026-09-23T13:37:53+00:00	Fallen Tear: The Ascension - Official Release Trailer | Launches September 23 https://www.reddit.com/r/Games/comments/1wo69d3/fallen_tear_the_ascension_official_release/
+2026-09-23T13:49:59+00:00	Minecraft Beat Itself After Nearly 2 Billion Simulated Years https://www.reddit.com/r/Games/comments/1wo6k5g/minecraft_beat_itself_after_nearly_2_billion/
+2026-09-23T13:56:49+00:00	World's Edge (Age of Empires/Age of Mythology) new game project got cancelled https://www.reddit.com/r/Games/comments/1wo6qf2/worlds_edge_age_of_empiresage_of_mythology_new/
+2026-09-23T14:09:17+00:00	Luminous Nights | Official Teaser Trailer – HeartsLike Action RPG https://www.reddit.com/r/Games/comments/1wo72g3/luminous_nights_official_teaser_trailer/
+2026-09-23T15:25:35+00:00	Control Resonant Leaks And Is Being Pirated Before Launch https://www.reddit.com/r/Games/comments/1wo92ls/control_resonant_leaks_and_is_being_pirated/
+2026-09-23T15:28:28+00:00	More Information About Bungie’s ‘Destiny 2’ Content Unvaulting Plans: The Destiny 2 content unvaulting is free for everyone https://www.reddit.com/r/Games/comments/1wo95fr/more_information_about_bungies_destiny_2_content/
+2026-09-23T15:34:26+00:00	Theos: Cities of Myth | Release Date Trailer (Nov 4th) https://www.reddit.com/r/Games/comments/1wo9b7e/theos_cities_of_myth_release_date_trailer_nov_4th/
+2026-09-23T15:34:57+00:00	Heartworm Coming to Consoles | Announce Trailer https://www.reddit.com/r/Games/comments/1wo9boc/heartworm_coming_to_consoles_announce_trailer/
+2026-09-23T16:45:18+00:00	Sony Patent Would Bring NFC Payments to Your Playstation Controller https://www.reddit.com/r/Games/comments/1wob9ea/sony_patent_would_bring_nfc_payments_to_your/
+2026-09-23T16:56:01+00:00	“They don’t respect Japanese culture at all.” Forza Horizon 6 players in Japan banned for anime decorated cars in alleged new wave of mass reporting https://www.reddit.com/r/Games/comments/1wobk7m/they_dont_respect_japanese_culture_at_all_forza/

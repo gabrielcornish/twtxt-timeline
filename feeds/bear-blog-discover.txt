@@ -3,23 +3,23 @@
 # source = https://bearblog.dev/discover/feed/
 # description = twtxt conversion of https://bearblog.dev/discover/feed/
 
-2026-09-19T22:49:54.684302+00:00	the personal internet https://yenecys.bearblog.dev/the-personal-internet/
 2026-09-20T22:12:35.055960+00:00	Say something nice. Pass it on. https://piimyon.bearblog.dev/say-something-nice-pass-it-on/
 2026-09-21T03:42:00+00:00	My Son Was Admitted to the Hospital https://lumpmotif.com/my-son-was-admitted-to-the-hospital/
 2026-09-21T05:32:00+00:00	on being unemployed https://yenecys.bearblog.dev/on-being-unemployed/
-2026-09-21T06:42:00+00:00	I saw a ukelele performance https://blog.lauramichet.com/i-saw-a-ukelele-performance/
 2026-09-21T16:21:00+00:00	If you're ever feeling down, think about a creature called the "Tailed Tailless Bat" https://blog.curiousquail.com/if-youre-ever-feeling-down-think-about-a-creature-called-the-tailed-tailless-bat/
 2026-09-21T21:38:58.560381+00:00	How I pulled myself out of the YouTube rabbit hole https://piimyon.bearblog.dev/how-i-pulled-myself-out-of-the-youtube-rabbit-hole/
 2026-09-21T21:50:00+00:00	thankful for the little things https://psychidion.bearblog.dev/thankful-for-the-little-things/
 2026-09-21T22:31:00+00:00	on AI brainrot https://bruceblog.bearblog.dev/on-ai-brainrot/
-2026-09-21T23:48:00+00:00	Confessions of a scaredy-cat https://em-online.bearblog.dev/confessions-of-a-scaredy-cat/
 2026-09-22T03:23:23.702876+00:00	the easiest thing to animate https://rnotte.art/the-easiest-thing-to-animate/
 2026-09-22T09:20:00+00:00	On reading books https://herman.bearblog.dev/on-reading-books/
 2026-09-22T15:00:00+00:00	a source of drain https://blog.avas.space/energydrain/
-2026-09-22T18:05:00+00:00	I'm not missing, I swear! https://diels-daydreams.bearblog.dev/im-not-missing-i-swear/
-2026-09-22T18:19:00+00:00	here where i live is my country https://blog.sulimans.space/here-where-i-live-is-my-country/
-2026-09-22T18:32:29.248355+00:00	d10 Silly Space Gun Table https://idraluna-archives.bearblog.dev/d10-silly-space-gun-table/
 2026-09-22T22:54:00+00:00	I Got Duped Into Watching a Right Wing Youtuber https://blog.absurdpirate.com/i-got-duped-into-watching-a-right-wing-youtuber/
 2026-09-22T23:09:00+00:00	The Universe Is a Weird Place https://householderkarl.com/the-universe-is-a-weird-place/
-2026-09-23T00:53:00+00:00	My first Costco hot dog experience was subpar https://fornoone.org/my-first-costco-hot-dog-experience-was-subpar/
-2026-09-23T04:42:00+00:00	The web being slow is a choice (and it’s a very stupid choice) https://albanbrooke.com/the-web-being-slow-is-a-choice-and-its-a-very-stupid-choice/
+2026-09-23T02:09:00+00:00	productivity hater https://icyti.me/productivity-hater/
+2026-09-23T04:42:00+00:00	The web being slow is a choice (and it’s a very stupid choice) https://albanbrooke.com/slow-web/
+2026-09-23T10:21:00+00:00	Being an ethical programmer in a vibecoded world https://kryst4line.bearblog.dev/being-an-ethical-programmer-in-a-vibecoded-world/
+2026-09-23T11:34:00+00:00	the stupidity of the horseshoe theory https://blog.sulimans.space/the-stupidity-of-the-horseshoe-theory/
+2026-09-23T12:09:40.477272+00:00	They are leveling Kramatorsk https://nonentity.bearblog.dev/they-are-leveling-kramatorsk/
+2026-09-23T12:23:02.858616+00:00	STUPID technology! https://itsme.bearblog.dev/stupid-technology/
+2026-09-23T13:20:00+00:00	Dare to be a weirdo https://robertbirming.com/dare-be-weirdo/
+2026-09-23T15:06:00+00:00	Min/Maxxing Into Hating Everything https://blog.absurdpirate.com/minmaxxing-into-hating-everything/
