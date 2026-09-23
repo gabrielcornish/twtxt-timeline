@@ -4,10 +4,6 @@
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
 2026-09-22T14:01:06+00:00	Xbox Wire: Continuing Our Reset https://www.reddit.com/r/Games/comments/1wnabze/xbox_wire_continuing_our_reset/
-2026-09-22T15:02:36+00:00	Undead Labs becomes Independent Studio https://www.reddit.com/r/Games/comments/1wnby6c/undead_labs_becomes_independent_studio/
-2026-09-22T16:11:58+00:00	Dune: Awakening Out Now on Console, New Single Player Mode and Film DLC Available on All Platforms https://www.reddit.com/r/Games/comments/1wndtt7/dune_awakening_out_now_on_console_new_single/
-2026-09-22T17:01:06+00:00	Middle-earth™: Shadow Bundle – Announce Trailer https://www.reddit.com/r/Games/comments/1wnf6be/middleearth_shadow_bundle_announce_trailer/
-2026-09-22T17:44:20+00:00	People Playground workshop infected by malware for the second time https://www.reddit.com/r/Games/comments/1wngero/people_playground_workshop_infected_by_malware/
 2026-09-22T17:47:36+00:00	Xbox Game Studios Is Quickly Disappearing https://www.reddit.com/r/Games/comments/1wngi3i/xbox_game_studios_is_quickly_disappearing/
 2026-09-22T18:44:07+00:00	Gears of War: E-Day Story Director Laid Off Just Four Days After Celebrating The Game Going Gold https://www.reddit.com/r/Games/comments/1wni2vs/gears_of_war_eday_story_director_laid_off_just/
 2026-09-22T19:28:44+00:00	Halo Studios Cinematic Director Laid Off Immediately After Promotion https://www.reddit.com/r/Games/comments/1wnjc8s/halo_studios_cinematic_director_laid_off/
@@ -22,9 +18,13 @@
 2026-09-23T13:49:59+00:00	Minecraft Beat Itself After Nearly 2 Billion Simulated Years https://www.reddit.com/r/Games/comments/1wo6k5g/minecraft_beat_itself_after_nearly_2_billion/
 2026-09-23T13:56:49+00:00	World's Edge (Age of Empires/Age of Mythology) new game project got cancelled https://www.reddit.com/r/Games/comments/1wo6qf2/worlds_edge_age_of_empiresage_of_mythology_new/
 2026-09-23T14:09:17+00:00	Luminous Nights | Official Teaser Trailer – HeartsLike Action RPG https://www.reddit.com/r/Games/comments/1wo72g3/luminous_nights_official_teaser_trailer/
-2026-09-23T15:25:35+00:00	Control Resonant Leaks And Is Being Pirated Before Launch https://www.reddit.com/r/Games/comments/1wo92ls/control_resonant_leaks_and_is_being_pirated/
 2026-09-23T15:28:28+00:00	More Information About Bungie’s ‘Destiny 2’ Content Unvaulting Plans: The Destiny 2 content unvaulting is free for everyone https://www.reddit.com/r/Games/comments/1wo95fr/more_information_about_bungies_destiny_2_content/
 2026-09-23T15:34:26+00:00	Theos: Cities of Myth | Release Date Trailer (Nov 4th) https://www.reddit.com/r/Games/comments/1wo9b7e/theos_cities_of_myth_release_date_trailer_nov_4th/
 2026-09-23T15:34:57+00:00	Heartworm Coming to Consoles | Announce Trailer https://www.reddit.com/r/Games/comments/1wo9boc/heartworm_coming_to_consoles_announce_trailer/
-2026-09-23T16:45:18+00:00	Sony Patent Would Bring NFC Payments to Your Playstation Controller https://www.reddit.com/r/Games/comments/1wob9ea/sony_patent_would_bring_nfc_payments_to_your/
 2026-09-23T16:56:01+00:00	“They don’t respect Japanese culture at all.” Forza Horizon 6 players in Japan banned for anime decorated cars in alleged new wave of mass reporting https://www.reddit.com/r/Games/comments/1wobk7m/they_dont_respect_japanese_culture_at_all_forza/
+2026-09-23T17:01:42+00:00	[iFixit] Steam Frame Teardown: This Is How You Build a VR Headset https://www.reddit.com/r/Games/comments/1wobpyc/ifixit_steam_frame_teardown_this_is_how_you_build/
+2026-09-23T17:10:43+00:00	Arc Raiders Frozen Trail First Look: Content highlights from October 8 https://www.reddit.com/r/Games/comments/1wobyrq/arc_raiders_frozen_trail_first_look_content/
+2026-09-23T18:52:01+00:00	RPCS3: Major Improvements (Summer 2026) https://www.reddit.com/r/Games/comments/1woepba/rpcs3_major_improvements_summer_2026/
+2026-09-23T18:58:26+00:00	Hellraiser: Revival on Nintendo Switch 2 will not be censored in any way, Sabre confirms https://www.reddit.com/r/Games/comments/1woevq2/hellraiser_revival_on_nintendo_switch_2_will_not/
+2026-09-23T19:06:59+00:00	Quake Champions: "Today’s update marks a new chapter for Quake Champions as we transition the game from a free-to-play service to a paid application. Battle Passes and microtransactions have been removed. Quake Champions is now available for one low price. No additional content updates are planned" https://www.reddit.com/r/Games/comments/1wof4bu/quake_champions_todays_update_marks_a_new_chapter/
+2026-09-23T19:48:30+00:00	Rayman Legends Retold PC Requirements Demand an RTX 4080 for 4K https://www.reddit.com/r/Games/comments/1wog8bu/rayman_legends_retold_pc_requirements_demand_an/
