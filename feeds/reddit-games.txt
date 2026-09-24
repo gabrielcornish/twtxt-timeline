@@ -3,28 +3,28 @@
 # source = https://www.reddit.com/r/Games.rss
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
-2026-09-22T17:47:36+00:00	Xbox Game Studios Is Quickly Disappearing https://www.reddit.com/r/Games/comments/1wngi3i/xbox_game_studios_is_quickly_disappearing/
-2026-09-22T18:44:07+00:00	Gears of War: E-Day Story Director Laid Off Just Four Days After Celebrating The Game Going Gold https://www.reddit.com/r/Games/comments/1wni2vs/gears_of_war_eday_story_director_laid_off_just/
-2026-09-22T19:28:44+00:00	Halo Studios Cinematic Director Laid Off Immediately After Promotion https://www.reddit.com/r/Games/comments/1wnjc8s/halo_studios_cinematic_director_laid_off/
-2026-09-22T20:15:05+00:00	I just launched Nocturne today, a Rhythm RPG I've been creating for 10 years - AMA https://www.reddit.com/r/Games/comments/1wnkmug/i_just_launched_nocturne_today_a_rhythm_rpg_ive/
 2026-09-23T11:00:55+00:00	Daily /r/Games Discussion - Suggest Me a Game - September 23, 2026 https://www.reddit.com/r/Games/comments/1wo2sus/daily_rgames_discussion_suggest_me_a_game/
 2026-09-23T13:05:31+00:00	Titan Quest II | Release Date Trailer (Jan 19th 2027) https://www.reddit.com/r/Games/comments/1wo5gx6/titan_quest_ii_release_date_trailer_jan_19th_2027/
 2026-09-23T13:29:55+00:00	Bethesda President Says Obsidian Will Retain ‘Creative Identity’ Despite Becoming Part Of Bethesda https://www.reddit.com/r/Games/comments/1wo6290/bethesda_president_says_obsidian_will_retain/
 2026-09-23T13:49:59+00:00	Minecraft Beat Itself After Nearly 2 Billion Simulated Years https://www.reddit.com/r/Games/comments/1wo6k5g/minecraft_beat_itself_after_nearly_2_billion/
 2026-09-23T13:56:49+00:00	World's Edge (Age of Empires/Age of Mythology) new game project got cancelled https://www.reddit.com/r/Games/comments/1wo6qf2/worlds_edge_age_of_empiresage_of_mythology_new/
 2026-09-23T15:28:28+00:00	More Information About Bungie’s ‘Destiny 2’ Content Unvaulting Plans: The Destiny 2 content unvaulting is free for everyone https://www.reddit.com/r/Games/comments/1wo95fr/more_information_about_bungies_destiny_2_content/
-2026-09-23T15:34:26+00:00	Theos: Cities of Myth | Release Date Trailer (Nov 4th) https://www.reddit.com/r/Games/comments/1wo9b7e/theos_cities_of_myth_release_date_trailer_nov_4th/
-2026-09-23T15:34:57+00:00	Heartworm Coming to Consoles | Announce Trailer https://www.reddit.com/r/Games/comments/1wo9boc/heartworm_coming_to_consoles_announce_trailer/
 2026-09-23T16:56:01+00:00	“They don’t respect Japanese culture at all.” Forza Horizon 6 players in Japan banned for anime decorated cars in alleged new wave of mass reporting https://www.reddit.com/r/Games/comments/1wobk7m/they_dont_respect_japanese_culture_at_all_forza/
 2026-09-23T17:01:42+00:00	[iFixit] Steam Frame Teardown: This Is How You Build a VR Headset https://www.reddit.com/r/Games/comments/1wobpyc/ifixit_steam_frame_teardown_this_is_how_you_build/
-2026-09-23T17:10:43+00:00	Arc Raiders Frozen Trail First Look: Content highlights from October 8 https://www.reddit.com/r/Games/comments/1wobyrq/arc_raiders_frozen_trail_first_look_content/
 2026-09-23T18:52:01+00:00	RPCS3: Major Improvements (Summer 2026) https://www.reddit.com/r/Games/comments/1woepba/rpcs3_major_improvements_summer_2026/
 2026-09-23T18:58:26+00:00	Hellraiser: Revival on Nintendo Switch 2 will not be censored in any way, Sabre confirms https://www.reddit.com/r/Games/comments/1woevq2/hellraiser_revival_on_nintendo_switch_2_will_not/
 2026-09-23T19:06:59+00:00	Quake Champions: "Today’s update marks a new chapter for Quake Champions as we transition the game from a free-to-play service to a paid application. Battle Passes and microtransactions have been removed. Quake Champions is now available for one low price. No additional content updates are planned" https://www.reddit.com/r/Games/comments/1wof4bu/quake_champions_todays_update_marks_a_new_chapter/
-2026-09-23T19:41:34+00:00	Dunebound Tactics | Launch Trailer | indie.io https://www.reddit.com/r/Games/comments/1wog1va/dunebound_tactics_launch_trailer_indieio/
 2026-09-23T19:48:30+00:00	Rayman Legends Retold PC Requirements Demand an RTX 4080 for 4K https://www.reddit.com/r/Games/comments/1wog8bu/rayman_legends_retold_pc_requirements_demand_an/
 2026-09-23T21:16:45+00:00	Final Fantasy VII Revelation Will Have Quality, Performance Sharp, Performance Smooth, And A 4K/60FPS Mode On PS5 Pro https://www.reddit.com/r/Games/comments/1woiiwr/final_fantasy_vii_revelation_will_have_quality/
 2026-09-23T22:50:44+00:00	Clive Barker's Hellraiser: Revival - Gameplay Overview Trailer | PS5 Games https://www.reddit.com/r/Games/comments/1woksyf/clive_barkers_hellraiser_revival_gameplay/
 2026-09-24T00:12:27+00:00	Ace Attorney: Dual Destinies VR - Announcement Trailer https://www.reddit.com/r/Games/comments/1womowt/ace_attorney_dual_destinies_vr_announcement/
 2026-09-24T00:26:33+00:00	Gaming's Infectious Era | Jacob Geller https://www.reddit.com/r/Games/comments/1womzul/gamings_infectious_era_jacob_geller/
 2026-09-24T09:10:11+00:00	Beat Saber’s Biggest Update Ever — Flux, Refreshed Campaign, Rewards & Hand Tracking https://www.reddit.com/r/Games/comments/1wowq9s/beat_sabers_biggest_update_ever_flux_refreshed/
+2026-09-24T10:17:27+00:00	Tetris Effect: Mixed Realities Announced For Meta VR Glasses & Quest 3 https://www.reddit.com/r/Games/comments/1woxtcm/tetris_effect_mixed_realities_announced_for_meta/
+2026-09-24T12:03:52+00:00	Sin: Reloaded Launch Trailer | Nightdive Studios https://www.reddit.com/r/Games/comments/1wozstp/sin_reloaded_launch_trailer_nightdive_studios/
+2026-09-24T12:39:24+00:00	Meta Announces 'VR Glasses' Next-Gen VR Headset, Priced at $1,300 https://www.reddit.com/r/Games/comments/1wp0jja/meta_announces_vr_glasses_nextgen_vr_headset/
+2026-09-24T14:05:21+00:00	Total War: WARHAMMER III - Lords of the End Times is OUT NOW! https://www.reddit.com/r/Games/comments/1wp2kff/total_war_warhammer_iii_lords_of_the_end_times_is/
+2026-09-24T14:25:00+00:00	There is no plan at Xbox; Panic and pivot, rinse and repeat (current ID Software describes current Xbox mismanagement) https://www.reddit.com/r/Games/comments/1wp32rn/there_is_no_plan_at_xbox_panic_and_pivot_rinse/
+2026-09-24T14:28:51+00:00	Nintendo Wins $4.5M In Switch Pirate Lawsuit. Nintendo of America was awarded $4.5 million in damages in its lawsuit against a Reddit moderator who allegedly sold pirated Nintendo Switch games. https://www.reddit.com/r/Games/comments/1wp369z/nintendo_wins_45m_in_switch_pirate_lawsuit/
+2026-09-24T14:48:15+00:00	Inside Bobby Kotick's Campaign Against the Press | People Make Games https://www.reddit.com/r/Games/comments/1wp3o9c/inside_bobby_koticks_campaign_against_the_press/
+2026-09-24T14:55:35+00:00	Warhammer 40,000: Rogue Trader - Processional of the Damned — A Sneak Peek - Steam News https://www.reddit.com/r/Games/comments/1wp3v2o/warhammer_40000_rogue_trader_processional_of_the/

@@ -3,9 +3,6 @@
 # source = https://www.gamesindustry.biz/feed
 # description = twtxt conversion of https://www.gamesindustry.biz/feed
 
-2026-09-14T10:29:14+00:00	New StarCraft title to launch in 2030, will be an open-world FPS https://www.gamesindustry.biz/new-starcraft-title-to-launch-in-2030-will-be-an-open-world-fps
-2026-09-14T12:30:00+00:00	"What's the harm in asking?" – Dlala Studios on taking a big swing to get comedy legend Bob Mortimer for the upcoming game Murals https://www.gamesindustry.biz/whats-the-harm-in-asking-dlala-studios-on-taking-a-big-swing-to-get-comedy-legend-bob-mortimer-for-the-upcoming-game-murals
-2026-09-14T12:58:00+00:00	Roblox creators will soon be able to publish games on multiple platforms as standalone apps https://www.gamesindustry.biz/roblox-creators-will-soon-be-able-to-publish-games-on-multiple-platforms-as-standalone-apps
 2026-09-14T13:43:40+00:00	PlayStation allegedly had "concerns over budget, potential profitability, and exclusivity" over Kojima Productions' Physint https://www.gamesindustry.biz/playstation-allegedly-had-concerns-over-budget-potential-profitability-and-exclusivity-over-kojima-productions-physint
 2026-09-14T16:22:08+00:00	Rockstar and IWGB outline arguments at start of tribunal https://www.gamesindustry.biz/rockstar-and-iwgb-outline-arguments-at-start-of-tribunal
 2026-09-14T17:30:55+00:00	More than 40% of people cancelling Xbox Game Pass, PlayStation Plus and Nintendo Switch Online subscriptions blame rising costs https://www.gamesindustry.biz/more-than-40-of-people-cancelling-xbox-game-pass-playstation-plus-and-nintendo-switch-online-subscriptions-blame-rising-costs
@@ -53,3 +50,6 @@
 2026-09-23T13:56:13+00:00	Age of Empires developer World's Edge hit with layoffs following move to Activision https://www.gamesindustry.biz/age-of-empires-developer-worlds-edge-hit-with-layoffs-following-move-to-activision
 2026-09-23T18:47:06+00:00	Bethesda boss confirms Obsidian will remain a "distinct" team https://www.gamesindustry.biz/bethesda-boss-confirms-obsidian-will-remain-a-distinct-team
 2026-09-24T07:56:51+00:00	Microsoft files patent for "ad-credit" system to show ads on PC and Xbox without disrupting gameplay https://www.gamesindustry.biz/microsoft-files-patent-for-ad-credit-system-to-show-ads-on-pc-and-xbox-without-disrupting-gameplay
+2026-09-24T10:12:10+00:00	TinyBuild revenue rises 18% to $20m during H1 2026, with 85% coming from first and second-party owned IP https://www.gamesindustry.biz/tinybuild-revenue-rises-18-to-20m-during-h1-2026-with-85-coming-from-first-and-second-party-owned-ip
+2026-09-24T12:00:00+00:00	Righting old wrongs: MobyGames on letting developers claim games they weren't credited for https://www.gamesindustry.biz/righting-old-wrongs-mobygames-on-letting-developers-claim-games-they-werent-credited-for
+2026-09-24T13:48:19+00:00	Dutch consumer group files lawsuit against Epic for misleading young players on Fortnite, seeking more than €100m in compensation https://www.gamesindustry.biz/dutch-consumer-group-files-lawsuit-against-epic-for-misleading-young-players-on-fortnite-seeking-more-than-100m-in-compensation
