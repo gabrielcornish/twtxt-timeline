@@ -4,10 +4,7 @@
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
 2026-09-23T11:00:55+00:00	Daily /r/Games Discussion - Suggest Me a Game - September 23, 2026 https://www.reddit.com/r/Games/comments/1wo2sus/daily_rgames_discussion_suggest_me_a_game/
-2026-09-23T13:49:59+00:00	Minecraft Beat Itself After Nearly 2 Billion Simulated Years https://www.reddit.com/r/Games/comments/1wo6k5g/minecraft_beat_itself_after_nearly_2_billion/
 2026-09-23T16:56:01+00:00	“They don’t respect Japanese culture at all.” Forza Horizon 6 players in Japan banned for anime decorated cars in alleged new wave of mass reporting https://www.reddit.com/r/Games/comments/1wobk7m/they_dont_respect_japanese_culture_at_all_forza/
-2026-09-23T19:06:59+00:00	Quake Champions: "Today’s update marks a new chapter for Quake Champions as we transition the game from a free-to-play service to a paid application. Battle Passes and microtransactions have been removed. Quake Champions is now available for one low price. No additional content updates are planned" https://www.reddit.com/r/Games/comments/1wof4bu/quake_champions_todays_update_marks_a_new_chapter/
-2026-09-24T00:12:27+00:00	Ace Attorney: Dual Destinies VR - Announcement Trailer https://www.reddit.com/r/Games/comments/1womowt/ace_attorney_dual_destinies_vr_announcement/
 2026-09-24T09:10:11+00:00	Beat Saber’s Biggest Update Ever — Flux, Refreshed Campaign, Rewards & Hand Tracking https://www.reddit.com/r/Games/comments/1wowq9s/beat_sabers_biggest_update_ever_flux_refreshed/
 2026-09-24T12:03:52+00:00	Sin: Reloaded Launch Trailer | Nightdive Studios https://www.reddit.com/r/Games/comments/1wozstp/sin_reloaded_launch_trailer_nightdive_studios/
 2026-09-24T12:39:24+00:00	Meta Announces 'VR Glasses' Next-Gen VR Headset, Priced at $1,300 https://www.reddit.com/r/Games/comments/1wp0jja/meta_announces_vr_glasses_nextgen_vr_headset/
@@ -28,3 +25,6 @@
 2026-09-24T18:53:28+00:00	Trails in the Sky 2nd Chapter has been out for a week, what do you think about it so far? https://www.reddit.com/r/Games/comments/1wpa88u/trails_in_the_sky_2nd_chapter_has_been_out_for_a/
 2026-09-24T18:55:22+00:00	Dutch consumer group files lawsuit against Epic for misleading young players on Fortnite, seeking more than €100m in compensation https://www.reddit.com/r/Games/comments/1wpaa0o/dutch_consumer_group_files_lawsuit_against_epic/
 2026-09-24T19:07:03+00:00	Insider Gaming: How Ubisoft and Nintendo’s Partnership Ended With a Canceled Zelda Title https://www.reddit.com/r/Games/comments/1wpal0b/insider_gaming_how_ubisoft_and_nintendos/
+2026-09-24T19:28:33+00:00	Digital Bros/505 Games has decided to discontinue development on Armed Fantasia. https://www.reddit.com/r/Games/comments/1wpb50q/digital_bros505_games_has_decided_to_discontinue/
+2026-09-24T20:08:42+00:00	Core is Tyr's first urban map | Tyr https://www.reddit.com/r/Games/comments/1wpc6j5/core_is_tyrs_first_urban_map_tyr/
+2026-09-24T20:49:33+00:00	Division 2 - Echoes of Central Park DLC Showcase https://www.reddit.com/r/Games/comments/1wpd7qa/division_2_echoes_of_central_park_dlc_showcase/
