@@ -9,13 +9,13 @@
 2026-09-22T03:23:23.702876+00:00	the easiest thing to animate https://rnotte.art/the-easiest-thing-to-animate/
 2026-09-22T09:20:00+00:00	On reading books https://herman.bearblog.dev/on-reading-books/
 2026-09-22T15:00:00+00:00	a source of drain https://blog.avas.space/energydrain/
-2026-09-22T19:52:00+00:00	how much are you willing to give up? https://valentine.bearblog.dev/how-much-are-you-willing-to-give-up/
 2026-09-23T04:42:00+00:00	The web being slow is a choice (and it’s a very stupid choice) https://albanbrooke.com/slow-web/
 2026-09-23T10:21:00+00:00	Being an ethical programmer in a vibecoded world https://kryst4line.bearblog.dev/being-an-ethical-programmer-in-a-vibecoded-world/
-2026-09-23T10:56:00+00:00	Fascism is like rabies https://slowburn.bearblog.dev/fascism-is-like-rabies/
+2026-09-23T12:09:40.477272+00:00	They are leveling Kramatorsk https://nonentity.bearblog.dev/they-are-leveling-kramatorsk/
 2026-09-23T13:20:00+00:00	Dare to be a weirdo https://robertbirming.com/dare-be-weirdo/
-2026-09-23T14:36:00+00:00	who is your audience https://curiously.bearblog.dev/who-is-your-audience/
+2026-09-23T13:22:00+00:00	From Blogger to Bear Blog https://num7.paranormalis.com/from-blogger-to-bear-blog/
 2026-09-23T15:06:00+00:00	Min/Maxxing Into Hating Everything https://blog.absurdpirate.com/minmaxxing-into-hating-everything/
+2026-09-23T17:29:52.317360+00:00	Farewell...For Now https://permanentreset.bearblog.dev/farewellfor-now/
 2026-09-23T17:54:11.094275+00:00	A Rebel's Guide To Gaming in 2026 https://gabrielcornish.com/a-rebels-guide-to-gaming-in-2026/
 2026-09-23T18:25:00+00:00	Foreign Journaling https://crescendo.bearblog.dev/foreign-journaling/
 2026-09-23T20:41:11.133138+00:00	Cost of time https://blog.happyfellow.dev/cost-of-time/

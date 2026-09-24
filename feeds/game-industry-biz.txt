@@ -3,7 +3,6 @@
 # source = https://www.gamesindustry.biz/feed
 # description = twtxt conversion of https://www.gamesindustry.biz/feed
 
-2026-09-14T08:00:08+00:00	Moss developer Polyarc Games announces closure https://www.gamesindustry.biz/moss-developer-polyarc-games-announces-closure
 2026-09-14T10:29:14+00:00	New StarCraft title to launch in 2030, will be an open-world FPS https://www.gamesindustry.biz/new-starcraft-title-to-launch-in-2030-will-be-an-open-world-fps
 2026-09-14T12:30:00+00:00	"What's the harm in asking?" – Dlala Studios on taking a big swing to get comedy legend Bob Mortimer for the upcoming game Murals https://www.gamesindustry.biz/whats-the-harm-in-asking-dlala-studios-on-taking-a-big-swing-to-get-comedy-legend-bob-mortimer-for-the-upcoming-game-murals
 2026-09-14T12:58:00+00:00	Roblox creators will soon be able to publish games on multiple platforms as standalone apps https://www.gamesindustry.biz/roblox-creators-will-soon-be-able-to-publish-games-on-multiple-platforms-as-standalone-apps
@@ -53,3 +52,4 @@
 2026-09-23T13:43:08+00:00	The EU KIDS Act: What game developers need to know https://www.gamesindustry.biz/the-eu-kids-act-what-game-developers-need-to-know
 2026-09-23T13:56:13+00:00	Age of Empires developer World's Edge hit with layoffs following move to Activision https://www.gamesindustry.biz/age-of-empires-developer-worlds-edge-hit-with-layoffs-following-move-to-activision
 2026-09-23T18:47:06+00:00	Bethesda boss confirms Obsidian will remain a "distinct" team https://www.gamesindustry.biz/bethesda-boss-confirms-obsidian-will-remain-a-distinct-team
+2026-09-24T07:56:51+00:00	Microsoft files patent for "ad-credit" system to show ads on PC and Xbox without disrupting gameplay https://www.gamesindustry.biz/microsoft-files-patent-for-ad-credit-system-to-show-ads-on-pc-and-xbox-without-disrupting-gameplay
