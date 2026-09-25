@@ -4,7 +4,6 @@
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
 2026-09-23T11:00:55+00:00	Daily /r/Games Discussion - Suggest Me a Game - September 23, 2026 https://www.reddit.com/r/Games/comments/1wo2sus/daily_rgames_discussion_suggest_me_a_game/
-2026-09-24T09:10:11+00:00	Beat Saber’s Biggest Update Ever — Flux, Refreshed Campaign, Rewards & Hand Tracking https://www.reddit.com/r/Games/comments/1wowq9s/beat_sabers_biggest_update_ever_flux_refreshed/
 2026-09-24T12:03:52+00:00	Sin: Reloaded Launch Trailer | Nightdive Studios https://www.reddit.com/r/Games/comments/1wozstp/sin_reloaded_launch_trailer_nightdive_studios/
 2026-09-24T12:39:24+00:00	Meta Announces 'VR Glasses' Next-Gen VR Headset, Priced at $1,300 https://www.reddit.com/r/Games/comments/1wp0jja/meta_announces_vr_glasses_nextgen_vr_headset/
 2026-09-24T14:05:21+00:00	Total War: WARHAMMER III - Lords of the End Times is OUT NOW! https://www.reddit.com/r/Games/comments/1wp2kff/total_war_warhammer_iii_lords_of_the_end_times_is/
@@ -17,14 +16,15 @@
 2026-09-24T16:01:22+00:00	Nothing stays contained forever. CONTROL Resonant is out now. https://www.reddit.com/r/Games/comments/1wp5m56/nothing_stays_contained_forever_control_resonant/
 2026-09-24T16:07:15+00:00	ACE COMBAT 8: WINGS OF THEVE | Opening Cinematic Trailer https://www.reddit.com/r/Games/comments/1wp5rvm/ace_combat_8_wings_of_theve_opening_cinematic/
 2026-09-24T16:30:27+00:00	Starfield 2 will likely never happen because the first wasn’t ‘anywhere near successful enough’, former dev says | VGC https://www.reddit.com/r/Games/comments/1wp6dxr/starfield_2_will_likely_never_happen_because_the/
-2026-09-24T16:31:16+00:00	BeamNG.drive - PS5 Release Date Trailer https://www.reddit.com/r/Games/comments/1wp6epv/beamngdrive_ps5_release_date_trailer/
 2026-09-24T17:18:49+00:00	The Future of Marathon https://www.reddit.com/r/Games/comments/1wp7oey/the_future_of_marathon/
 2026-09-24T18:14:28+00:00	Hytale chapter I (Teaser) https://www.reddit.com/r/Games/comments/1wp96q8/hytale_chapter_i_teaser/
 2026-09-24T18:38:06+00:00	VGHF Digital Archive passes 5000 magazines. Here's what's next - Introducing Japanese magazines https://www.reddit.com/r/Games/comments/1wp9tk8/vghf_digital_archive_passes_5000_magazines_heres/
 2026-09-24T18:53:28+00:00	Trails in the Sky 2nd Chapter has been out for a week, what do you think about it so far? https://www.reddit.com/r/Games/comments/1wpa88u/trails_in_the_sky_2nd_chapter_has_been_out_for_a/
 2026-09-24T18:55:22+00:00	Dutch consumer group files lawsuit against Epic for misleading young players on Fortnite, seeking more than €100m in compensation https://www.reddit.com/r/Games/comments/1wpaa0o/dutch_consumer_group_files_lawsuit_against_epic/
 2026-09-24T19:07:03+00:00	Insider Gaming: How Ubisoft and Nintendo’s Partnership Ended With a Canceled Zelda Title https://www.reddit.com/r/Games/comments/1wpal0b/insider_gaming_how_ubisoft_and_nintendos/
-2026-09-24T19:28:33+00:00	Digital Bros/505 Games has decided to discontinue development on Armed Fantasia. https://www.reddit.com/r/Games/comments/1wpb50q/digital_bros505_games_has_decided_to_discontinue/
 2026-09-24T20:08:42+00:00	Core is Tyr's first urban map | Tyr https://www.reddit.com/r/Games/comments/1wpc6j5/core_is_tyrs_first_urban_map_tyr/
 2026-09-24T20:49:33+00:00	Division 2 - Echoes of Central Park DLC Showcase https://www.reddit.com/r/Games/comments/1wpd7qa/division_2_echoes_of_central_park_dlc_showcase/
 2026-09-24T22:37:36+00:00	Battlerite just started a new season for the first time in years https://www.reddit.com/r/Games/comments/1wpftqd/battlerite_just_started_a_new_season_for_the/
+2026-09-25T02:41:35+00:00	Free Android/iPhone app version of Castlevania 1 to commemorate series 40th anniversary https://www.reddit.com/r/Games/comments/1wpkw3t/free_androidiphone_app_version_of_castlevania_1/
+2026-09-25T04:30:49+00:00	DAWNGAZER teaser trailer - first game in the IGNISPHERE universe, from Takafumi Noma (director of Unicorn Overlord) https://www.reddit.com/r/Games/comments/1wpmziu/dawngazer_teaser_trailer_first_game_in_the/
+2026-09-25T05:52:24+00:00	Castlevania 40th Anniversary Celebration | KONAMI | ESRB https://www.reddit.com/r/Games/comments/1wpoe70/castlevania_40th_anniversary_celebration_konami/
