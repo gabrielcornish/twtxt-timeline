@@ -4,7 +4,6 @@
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
 2026-09-23T11:00:55+00:00	Daily /r/Games Discussion - Suggest Me a Game - September 23, 2026 https://www.reddit.com/r/Games/comments/1wo2sus/daily_rgames_discussion_suggest_me_a_game/
-2026-09-23T16:56:01+00:00	“They don’t respect Japanese culture at all.” Forza Horizon 6 players in Japan banned for anime decorated cars in alleged new wave of mass reporting https://www.reddit.com/r/Games/comments/1wobk7m/they_dont_respect_japanese_culture_at_all_forza/
 2026-09-24T09:10:11+00:00	Beat Saber’s Biggest Update Ever — Flux, Refreshed Campaign, Rewards & Hand Tracking https://www.reddit.com/r/Games/comments/1wowq9s/beat_sabers_biggest_update_ever_flux_refreshed/
 2026-09-24T12:03:52+00:00	Sin: Reloaded Launch Trailer | Nightdive Studios https://www.reddit.com/r/Games/comments/1wozstp/sin_reloaded_launch_trailer_nightdive_studios/
 2026-09-24T12:39:24+00:00	Meta Announces 'VR Glasses' Next-Gen VR Headset, Priced at $1,300 https://www.reddit.com/r/Games/comments/1wp0jja/meta_announces_vr_glasses_nextgen_vr_headset/
@@ -28,3 +27,4 @@
 2026-09-24T19:28:33+00:00	Digital Bros/505 Games has decided to discontinue development on Armed Fantasia. https://www.reddit.com/r/Games/comments/1wpb50q/digital_bros505_games_has_decided_to_discontinue/
 2026-09-24T20:08:42+00:00	Core is Tyr's first urban map | Tyr https://www.reddit.com/r/Games/comments/1wpc6j5/core_is_tyrs_first_urban_map_tyr/
 2026-09-24T20:49:33+00:00	Division 2 - Echoes of Central Park DLC Showcase https://www.reddit.com/r/Games/comments/1wpd7qa/division_2_echoes_of_central_park_dlc_showcase/
+2026-09-24T22:37:36+00:00	Battlerite just started a new season for the first time in years https://www.reddit.com/r/Games/comments/1wpftqd/battlerite_just_started_a_new_season_for_the/
