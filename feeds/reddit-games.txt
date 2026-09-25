@@ -4,27 +4,27 @@
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
 2026-09-23T11:00:55+00:00	Daily /r/Games Discussion - Suggest Me a Game - September 23, 2026 https://www.reddit.com/r/Games/comments/1wo2sus/daily_rgames_discussion_suggest_me_a_game/
-2026-09-24T12:03:52+00:00	Sin: Reloaded Launch Trailer | Nightdive Studios https://www.reddit.com/r/Games/comments/1wozstp/sin_reloaded_launch_trailer_nightdive_studios/
-2026-09-24T12:39:24+00:00	Meta Announces 'VR Glasses' Next-Gen VR Headset, Priced at $1,300 https://www.reddit.com/r/Games/comments/1wp0jja/meta_announces_vr_glasses_nextgen_vr_headset/
 2026-09-24T14:05:21+00:00	Total War: WARHAMMER III - Lords of the End Times is OUT NOW! https://www.reddit.com/r/Games/comments/1wp2kff/total_war_warhammer_iii_lords_of_the_end_times_is/
 2026-09-24T14:25:00+00:00	There is no plan at Xbox; Panic and pivot, rinse and repeat (current ID Software describes current Xbox mismanagement) https://www.reddit.com/r/Games/comments/1wp32rn/there_is_no_plan_at_xbox_panic_and_pivot_rinse/
 2026-09-24T14:28:51+00:00	Nintendo Wins $4.5M In Switch Pirate Lawsuit. Nintendo of America was awarded $4.5 million in damages in its lawsuit against a Reddit moderator who allegedly sold pirated Nintendo Switch games. https://www.reddit.com/r/Games/comments/1wp369z/nintendo_wins_45m_in_switch_pirate_lawsuit/
 2026-09-24T14:48:15+00:00	Inside Bobby Kotick's Campaign Against the Press | People Make Games https://www.reddit.com/r/Games/comments/1wp3o9c/inside_bobby_koticks_campaign_against_the_press/
-2026-09-24T14:55:35+00:00	Warhammer 40,000: Rogue Trader - Processional of the Damned — A Sneak Peek - Steam News https://www.reddit.com/r/Games/comments/1wp3v2o/warhammer_40000_rogue_trader_processional_of_the/
 2026-09-24T15:11:50+00:00	[Digital Foundry] World of Warcraft Forever: Classic WoW Gets A Massive Tech Upgrade! https://www.reddit.com/r/Games/comments/1wp4atm/digital_foundry_world_of_warcraft_forever_classic/
 2026-09-24T15:44:28+00:00	Fire Emblem: Fortune's Weave has been out for a week. What are your impressions? https://www.reddit.com/r/Games/comments/1wp55sc/fire_emblem_fortunes_weave_has_been_out_for_a/
 2026-09-24T16:01:22+00:00	Nothing stays contained forever. CONTROL Resonant is out now. https://www.reddit.com/r/Games/comments/1wp5m56/nothing_stays_contained_forever_control_resonant/
-2026-09-24T16:07:15+00:00	ACE COMBAT 8: WINGS OF THEVE | Opening Cinematic Trailer https://www.reddit.com/r/Games/comments/1wp5rvm/ace_combat_8_wings_of_theve_opening_cinematic/
 2026-09-24T16:30:27+00:00	Starfield 2 will likely never happen because the first wasn’t ‘anywhere near successful enough’, former dev says | VGC https://www.reddit.com/r/Games/comments/1wp6dxr/starfield_2_will_likely_never_happen_because_the/
 2026-09-24T17:18:49+00:00	The Future of Marathon https://www.reddit.com/r/Games/comments/1wp7oey/the_future_of_marathon/
 2026-09-24T18:14:28+00:00	Hytale chapter I (Teaser) https://www.reddit.com/r/Games/comments/1wp96q8/hytale_chapter_i_teaser/
-2026-09-24T18:38:06+00:00	VGHF Digital Archive passes 5000 magazines. Here's what's next - Introducing Japanese magazines https://www.reddit.com/r/Games/comments/1wp9tk8/vghf_digital_archive_passes_5000_magazines_heres/
-2026-09-24T18:53:28+00:00	Trails in the Sky 2nd Chapter has been out for a week, what do you think about it so far? https://www.reddit.com/r/Games/comments/1wpa88u/trails_in_the_sky_2nd_chapter_has_been_out_for_a/
-2026-09-24T18:55:22+00:00	Dutch consumer group files lawsuit against Epic for misleading young players on Fortnite, seeking more than €100m in compensation https://www.reddit.com/r/Games/comments/1wpaa0o/dutch_consumer_group_files_lawsuit_against_epic/
 2026-09-24T19:07:03+00:00	Insider Gaming: How Ubisoft and Nintendo’s Partnership Ended With a Canceled Zelda Title https://www.reddit.com/r/Games/comments/1wpal0b/insider_gaming_how_ubisoft_and_nintendos/
-2026-09-24T20:08:42+00:00	Core is Tyr's first urban map | Tyr https://www.reddit.com/r/Games/comments/1wpc6j5/core_is_tyrs_first_urban_map_tyr/
 2026-09-24T20:49:33+00:00	Division 2 - Echoes of Central Park DLC Showcase https://www.reddit.com/r/Games/comments/1wpd7qa/division_2_echoes_of_central_park_dlc_showcase/
 2026-09-24T22:37:36+00:00	Battlerite just started a new season for the first time in years https://www.reddit.com/r/Games/comments/1wpftqd/battlerite_just_started_a_new_season_for_the/
 2026-09-25T02:41:35+00:00	Free Android/iPhone app version of Castlevania 1 to commemorate series 40th anniversary https://www.reddit.com/r/Games/comments/1wpkw3t/free_androidiphone_app_version_of_castlevania_1/
 2026-09-25T04:30:49+00:00	DAWNGAZER teaser trailer - first game in the IGNISPHERE universe, from Takafumi Noma (director of Unicorn Overlord) https://www.reddit.com/r/Games/comments/1wpmziu/dawngazer_teaser_trailer_first_game_in_the/
 2026-09-25T05:52:24+00:00	Castlevania 40th Anniversary Celebration | KONAMI | ESRB https://www.reddit.com/r/Games/comments/1wpoe70/castlevania_40th_anniversary_celebration_konami/
+2026-09-25T08:36:10+00:00	WonderPaws - Official Reveal Trailer https://www.reddit.com/r/Games/comments/1wpqz5u/wonderpaws_official_reveal_trailer/
+2026-09-25T10:00:41+00:00	Daily /r/Games Discussion - Free Talk Friday - September 25, 2026 https://www.reddit.com/r/Games/comments/1wpsars/daily_rgames_discussion_free_talk_friday/
+2026-09-25T11:31:06+00:00	Toxic Frontier https://www.reddit.com/r/Games/comments/1wptw6a/toxic_frontier/
+2026-09-25T11:37:51+00:00	Do you guys ever take time off work for game launches? What's your game launch day ritual? https://www.reddit.com/r/Games/comments/1wpu0ry/do_you_guys_ever_take_time_off_work_for_game/
+2026-09-25T11:38:56+00:00	Vaewolf story trailer - PC Gaming Show Tokyo Direct 2026 https://www.reddit.com/r/Games/comments/1wpu1ho/vaewolf_story_trailer_pc_gaming_show_tokyo_direct/
+2026-09-25T11:40:25+00:00	Hodka world premiere trailer - PC Gaming Show Tokyo Direct 2026 https://www.reddit.com/r/Games/comments/1wpu2gq/hodka_world_premiere_trailer_pc_gaming_show_tokyo/
+2026-09-25T12:22:15+00:00	'83 – Suspension of Sales https://www.reddit.com/r/Games/comments/1wpuwo5/83_suspension_of_sales/
+2026-09-25T13:39:27+00:00	The Elder Scrolls never received a New Vegas-style spin-off as Bethesda and Todd Howard are “very protective” of the iconic RPG series https://www.reddit.com/r/Games/comments/1wpwmf2/the_elder_scrolls_never_received_a_new_vegasstyle/
