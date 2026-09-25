@@ -9,11 +9,7 @@
 2026-09-23T13:20:00+00:00	Dare to be a weirdo https://robertbirming.com/dare-be-weirdo/
 2026-09-23T15:06:00+00:00	Min/Maxxing Into Hating Everything https://blog.absurdpirate.com/minmaxxing-into-hating-everything/
 2026-09-23T17:54:11.094275+00:00	A Rebel's Guide To Gaming in 2026 https://gabrielcornish.com/a-rebels-guide-to-gaming-in-2026/
-2026-09-23T20:41:11.133138+00:00	Cost of time https://blog.happyfellow.dev/cost-of-time/
 2026-09-24T01:45:00+00:00	Samoyed-and-teddy-bear.jpg https://johnis.me/samoyed-and-teddy-bear/
-2026-09-24T06:58:00+00:00	Give my friends from Heart Machine a job https://blog.lauramichet.com/give-my-friends-from-heart-machine-a-job/
-2026-09-24T07:25:06.413270+00:00	please take me slightly less seriously https://cherrysroom.bearblog.dev/please-take-me-slightly-less-seriously/
-2026-09-24T13:01:00+00:00	Imagination https://streamunconsciousness.com/stories/imagination/
 2026-09-24T13:08:00+00:00	Every major technology company: a vignette https://blighttown.bearblog.dev/every-major-technology-company-a-vignette/
 2026-09-24T15:11:00+00:00	Spotify, One Piece and learning languages https://doodhpeda.bearblog.dev/blog/spotify-one-piece-and-learning-languages/
 2026-09-24T15:55:00+00:00	the reduction of intellectual labor https://blog.avas.space/intellectual-labor/
@@ -22,4 +18,8 @@
 2026-09-24T22:35:00+00:00	Against the Conquest of Nature https://householderkarl.com/against-the-conquest-of-nature/
 2026-09-25T00:38:00+00:00	Let's Try Of Blood & Clay! Part 1: Character Creation https://thelonebard.com/of-blood-and-clay-part-1/
 2026-09-25T03:05:00+00:00	september 24 xox https://combatdavey.net/september-24-2026/
+2026-09-25T09:04:10.609393+00:00	another mixed bag https://kunde.bearblog.dev/another-mixed-bag/
 2026-09-25T10:38:00+00:00	Add a guestbook to your blog https://docs.bearblog.dev/guestbook/
+2026-09-25T12:23:58.125476+00:00	Another Birthday Snuck Up On Me https://conniesue.me/another-birthday-snuck-up-on-me/
+2026-09-25T15:15:00+00:00	On the Order of Adjectives in English https://gr-y.uk/on-the-order-of-adjectives-in-english/
+2026-09-25T15:39:00+00:00	You Cannot Delve into the Same Internet Twice https://rants.jlopes.eu/you-cannot-delve-into-the-same-internet-twice/

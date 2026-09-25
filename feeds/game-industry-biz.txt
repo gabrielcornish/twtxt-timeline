@@ -3,8 +3,6 @@
 # source = https://www.gamesindustry.biz/feed
 # description = twtxt conversion of https://www.gamesindustry.biz/feed
 
-2026-09-15T09:43:03+00:00	Team17 owner Everplay increases shareholding in Wardogs dev Bulkhead, touts strong FY26 results https://www.gamesindustry.biz/team17-owner-everplay-increases-shareholding-in-wardogs-dev-bulkhead-touts-strong-fy26-results
-2026-09-15T10:47:08+00:00	Sega and Netflix announce partnership to develop Crazy Taxi, Sonic, and Stranger Than Heaven adaptations https://www.gamesindustry.biz/sega-and-netflix-announce-partnership-to-develop-crazy-taxi-sonic-and-stranger-than-heaven-adaptations
 2026-09-15T12:30:00+00:00	Why switching main characters for your game's sequel might be a mistake https://www.gamesindustry.biz/why-switching-main-characters-for-your-games-sequel-might-be-a-mistake
 2026-09-16T06:30:00+00:00	Why the publisher of Nintendo Life is launching a new PC gaming site https://www.gamesindustry.biz/why-the-publisher-of-nintendo-life-is-launching-a-new-pc-gaming-site
 2026-09-16T07:57:45+00:00	Bohemia Interactive takes minority stake in Everwind developer Enjoy Studio https://www.gamesindustry.biz/bohemia-interactive-takes-minority-stake-in-everwind-developer-enjoy-studio
@@ -53,3 +51,5 @@
 2026-09-25T12:00:00+00:00	"Crowdfunding is fundamentally a marketing and a community exercise" – What developers need to know about funding a game with Kickstarter in 2026 https://www.gamesindustry.biz/crowdfunding-is-fundamentally-a-marketing-and-a-community-exercise-what-developers-need-to-know-about-funding-a-game-with-kickstarter-in-2026
 2026-09-25T13:00:00+00:00	The Xbox reset doesn't have an end date | Opinion https://www.gamesindustry.biz/the-xbox-reset-doesnt-have-an-end-date-opinion
 2026-09-25T13:07:11+00:00	Meta unveils AI-powered game tools for mobile devices and browsers; announces VR Glasses with day-one Unity support https://www.gamesindustry.biz/meta-unveils-ai-powered-game-tools-for-mobile-devices-and-browsers-announces-vr-glasses-with-day-one-unity-support
+2026-09-25T13:56:43+00:00	Trophy Games acquires Airport Simulator: First Class developer Playrion from Paradox Interactive https://www.gamesindustry.biz/trophy-games-acquires-airport-simulator-first-class-developer-playrion-from-paradox-interactive
+2026-09-25T15:30:44+00:00	Here is the full line-up for the GamesIndustry.biz HR Summit 2026 https://www.gamesindustry.biz/here-is-the-full-line-up-for-the-gamesindustrybiz-hr-summit-2026
