@@ -3,7 +3,6 @@
 # source = https://bearblog.dev/discover/feed/
 # description = twtxt conversion of https://bearblog.dev/discover/feed/
 
-2026-09-24T15:55:00+00:00	the reduction of intellectual labor https://blog.avas.space/intellectual-labor/
 2026-09-24T22:21:00+00:00	list of small things I like https://anymoreanyways.bearblog.dev/list-of-small-things-i-like/
 2026-09-25T10:38:00+00:00	Add a guestbook to your blog https://docs.bearblog.dev/guestbook/
 2026-09-25T15:15:00+00:00	On the Order of Adjectives in English https://gr-y.uk/on-the-order-of-adjectives-in-english/
@@ -23,3 +22,4 @@
 2026-09-26T02:10:00+00:00	Out of print https://zuma9pt5.com/out-of-print/
 2026-09-26T10:40:00+00:00	1000 Days of Doing Something https://73pctgeek.com/1000-days-of-doing-something/
 2026-09-26T12:05:00+00:00	Oops, I Did It Again https://onlinegoddess.net/2026/09/oops-i-did-it-again/
+2026-09-26T20:40:00+00:00	I Can't Imagine Being This Desperate for Attention https://blog.absurdpirate.com/i-cant-imagine-being-this-desperate-for-attention/
