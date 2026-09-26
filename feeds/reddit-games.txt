@@ -4,11 +4,8 @@
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
 2026-09-23T11:00:55+00:00	Daily /r/Games Discussion - Suggest Me a Game - September 23, 2026 https://www.reddit.com/r/Games/comments/1wo2sus/daily_rgames_discussion_suggest_me_a_game/
-2026-09-24T16:30:27+00:00	Starfield 2 will likely never happen because the first wasn’t ‘anywhere near successful enough’, former dev says | VGC https://www.reddit.com/r/Games/comments/1wp6dxr/starfield_2_will_likely_never_happen_because_the/
-2026-09-25T05:52:24+00:00	Castlevania 40th Anniversary Celebration | KONAMI | ESRB https://www.reddit.com/r/Games/comments/1wpoe70/castlevania_40th_anniversary_celebration_konami/
 2026-09-25T10:00:41+00:00	Daily /r/Games Discussion - Free Talk Friday - September 25, 2026 https://www.reddit.com/r/Games/comments/1wpsars/daily_rgames_discussion_free_talk_friday/
 2026-09-25T11:37:51+00:00	Do you guys ever take time off work for game launches? What's your game launch day ritual? https://www.reddit.com/r/Games/comments/1wpu0ry/do_you_guys_ever_take_time_off_work_for_game/
-2026-09-25T12:22:15+00:00	'83 – Suspension of Sales https://www.reddit.com/r/Games/comments/1wpuwo5/83_suspension_of_sales/
 2026-09-25T14:00:45+00:00	Ace Combat 8: Wings of Theve Review Thread https://www.reddit.com/r/Games/comments/1wpx4hv/ace_combat_8_wings_of_theve_review_thread/
 2026-09-25T15:17:26+00:00	Our initial post launch plans for CONTROL Resonant https://www.reddit.com/r/Games/comments/1wpz25g/our_initial_post_launch_plans_for_control_resonant/
 2026-09-25T16:02:49+00:00	Supergiant Games celebrates the one-year anniversary of Hades 2 with a Noclip Documentary, recording of the 'Ballads of the Underworld' Concert, and more https://www.reddit.com/r/Games/comments/1wq082a/supergiant_games_celebrates_the_oneyear/
@@ -18,13 +15,16 @@
 2026-09-25T18:24:16+00:00	NISA CEO Says He's Having 'Discussions' With Sony About Discs https://www.reddit.com/r/Games/comments/1wq3up6/nisa_ceo_says_hes_having_discussions_with_sony/
 2026-09-25T18:29:49+00:00	Game Informer: Cover Reveal – Grand Theft Auto VI https://www.reddit.com/r/Games/comments/1wq3zmy/game_informer_cover_reveal_grand_theft_auto_vi/
 2026-09-25T19:09:47+00:00	Skyrim loremaster says The Elder Scrolls never got a Fallout: New Vegas-style RPG spin-off game because Bethesda is "very protective" over its golden goose https://www.reddit.com/r/Games/comments/1wq50lw/skyrim_loremaster_says_the_elder_scrolls_never/
-2026-09-25T20:48:08+00:00	STRANGER THAN HEAVEN | Showbiz In-Depth Look https://www.reddit.com/r/Games/comments/1wq7hna/stranger_than_heaven_showbiz_indepth_look/
 2026-09-25T21:08:23+00:00	Microsoft CEO On Recent Xbox Layoffs: 'There's Some Amount Of Streamlining Asha Is Doing...Which Is Great To See' https://www.reddit.com/r/Games/comments/1wq7zp3/microsoft_ceo_on_recent_xbox_layoffs_theres_some/
 2026-09-25T21:42:08+00:00	Insomniac: Today, we deployed a hotfix for Marvel’s Wolverine that includes new toggles for Scent Trails, Audio Clues, and Nightmare Roots, along with fixes for community-reported crashes and bugs. https://www.reddit.com/r/Games/comments/1wq8suj/insomniac_today_we_deployed_a_hotfix_for_marvels/
 2026-09-25T22:15:07+00:00	Terminator Dark Fate: Defiance Evolution - Official DLC Gameplay Trailer https://www.reddit.com/r/Games/comments/1wq9kci/terminator_dark_fate_defiance_evolution_official/
 2026-09-25T22:16:36+00:00	Ultima Online Retrospective | The Last Hurrah - Majuular https://www.reddit.com/r/Games/comments/1wq9lm4/ultima_online_retrospective_the_last_hurrah/
 2026-09-25T22:29:53+00:00	Toziuha Night: Nosferatu's Curse - DEMO Trailer #steamnextfest https://www.reddit.com/r/Games/comments/1wq9wmk/toziuha_night_nosferatus_curse_demo_trailer/
 2026-09-26T00:31:08+00:00	WoW Forever Beta: We are in the process of issuing forced name changes to characters found to be in violation of our character naming policies that were created in the Forever Beta https://www.reddit.com/r/Games/comments/1wqckk1/wow_forever_beta_we_are_in_the_process_of_issuing/
-2026-09-26T00:57:37+00:00	Why "Slime in the Ice Machine" Is Good News for Houston Video Game Development https://www.reddit.com/r/Games/comments/1wqd3wd/why_slime_in_the_ice_machine_is_good_news_for/
 2026-09-26T02:45:43+00:00	Holy Horror Mansion Tokyo Game Show 2026 Demo Gameplay https://www.reddit.com/r/Games/comments/1wqf943/holy_horror_mansion_tokyo_game_show_2026_demo/
 2026-09-26T02:47:34+00:00	Decapolice Tokyo Game Show 2026 Gameplay https://www.reddit.com/r/Games/comments/1wqfac5/decapolice_tokyo_game_show_2026_gameplay/
+2026-09-26T13:47:19+00:00	SYNDUALITY Echo of Ada to discontinue online services May 2027 forwards, offline version announced and will continue as an offline PvE extraction shooter https://www.reddit.com/r/Games/comments/1wqqzjn/synduality_echo_of_ada_to_discontinue_online/
+2026-09-26T14:09:15+00:00	After Actor Stephen Root Revealed His Role In GTA6, Rockstar Games Email GTA 6 Actors To Say They're Still Under NDA, It's Claimed https://www.reddit.com/r/Games/comments/1wqrhbb/after_actor_stephen_root_revealed_his_role_in/
+2026-09-26T14:19:21+00:00	Barnburners - Arcade Hockey Official Gameplay Trailer https://www.reddit.com/r/Games/comments/1wqrpnk/barnburners_arcade_hockey_official_gameplay/
+2026-09-26T15:36:50+00:00	Brokensides | Announcement Trailer https://www.reddit.com/r/Games/comments/1wqtk44/brokensides_announcement_trailer/
+2026-09-26T15:48:57+00:00	Last Ditch Effort - Official Announcement Trailer https://www.reddit.com/r/Games/comments/1wqtuhu/last_ditch_effort_official_announcement_trailer/
