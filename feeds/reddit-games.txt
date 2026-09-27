@@ -3,16 +3,7 @@
 # source = https://www.reddit.com/r/Games.rss
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
-2026-09-23T11:00:55+00:00	Daily /r/Games Discussion - Suggest Me a Game - September 23, 2026 https://www.reddit.com/r/Games/comments/1wo2sus/daily_rgames_discussion_suggest_me_a_game/
-2026-09-25T14:00:45+00:00	Ace Combat 8: Wings of Theve Review Thread https://www.reddit.com/r/Games/comments/1wpx4hv/ace_combat_8_wings_of_theve_review_thread/
-2026-09-25T15:17:26+00:00	Our initial post launch plans for CONTROL Resonant https://www.reddit.com/r/Games/comments/1wpz25g/our_initial_post_launch_plans_for_control_resonant/
-2026-09-25T16:06:40+00:00	Hades Developing Hell II - Teaser Trailer - /noclip https://www.reddit.com/r/Games/comments/1wq0bt0/hades_developing_hell_ii_teaser_trailer_noclip/
-2026-09-25T16:15:15+00:00	Bloomberg: The Six-Year Journey Behind ‘Big Walk,’ One of This Year’s Best Video Games https://www.reddit.com/r/Games/comments/1wq0jo1/bloomberg_the_sixyear_journey_behind_big_walk_one/
-2026-09-25T18:29:49+00:00	Game Informer: Cover Reveal – Grand Theft Auto VI https://www.reddit.com/r/Games/comments/1wq3zmy/game_informer_cover_reveal_grand_theft_auto_vi/
-2026-09-25T21:08:23+00:00	Microsoft CEO On Recent Xbox Layoffs: 'There's Some Amount Of Streamlining Asha Is Doing...Which Is Great To See' https://www.reddit.com/r/Games/comments/1wq7zp3/microsoft_ceo_on_recent_xbox_layoffs_theres_some/
 2026-09-25T21:42:08+00:00	Insomniac: Today, we deployed a hotfix for Marvel’s Wolverine that includes new toggles for Scent Trails, Audio Clues, and Nightmare Roots, along with fixes for community-reported crashes and bugs. https://www.reddit.com/r/Games/comments/1wq8suj/insomniac_today_we_deployed_a_hotfix_for_marvels/
-2026-09-25T22:16:36+00:00	Ultima Online Retrospective | The Last Hurrah - Majuular https://www.reddit.com/r/Games/comments/1wq9lm4/ultima_online_retrospective_the_last_hurrah/
-2026-09-26T00:31:08+00:00	WoW Forever Beta: We are in the process of issuing forced name changes to characters found to be in violation of our character naming policies that were created in the Forever Beta https://www.reddit.com/r/Games/comments/1wqckk1/wow_forever_beta_we_are_in_the_process_of_issuing/
 2026-09-26T13:47:19+00:00	SYNDUALITY Echo of Ada to discontinue online services May 2027 forwards, offline version announced and will continue as an offline PvE extraction shooter https://www.reddit.com/r/Games/comments/1wqqzjn/synduality_echo_of_ada_to_discontinue_online/
 2026-09-26T14:09:15+00:00	After Actor Stephen Root Revealed His Role In GTA6, Rockstar Games Email GTA 6 Actors To Say They're Still Under NDA, It's Claimed https://www.reddit.com/r/Games/comments/1wqrhbb/after_actor_stephen_root_revealed_his_role_in/
 2026-09-26T14:19:21+00:00	Barnburners - Arcade Hockey Official Gameplay Trailer https://www.reddit.com/r/Games/comments/1wqrpnk/barnburners_arcade_hockey_official_gameplay/
@@ -24,7 +15,16 @@
 2026-09-26T19:48:19+00:00	‘ARC Raiders’ And ‘Marathon’ Turn To PvE As The Extraction Genre Wobbles https://www.reddit.com/r/Games/comments/1wqzroc/arc_raiders_and_marathon_turn_to_pve_as_the/
 2026-09-26T23:22:52+00:00	Naughty Dog Teases The Last of Us Day 2026 Announcements, Releases Free Animated Background on PS5 https://www.reddit.com/r/Games/comments/1wr4o1l/naughty_dog_teases_the_last_of_us_day_2026/
 2026-09-27T04:00:41+00:00	Indie Sunday Hub - September 27, 2026 https://www.reddit.com/r/Games/comments/1wra7ag/indie_sunday_hub_september_27_2026/
-2026-09-27T06:18:08+00:00	Keep It Farming - MapxStudios (solo dev) - Incremental farming game where you build a farm from one coin, sell it, and start over https://www.reddit.com/r/Games/comments/1wrcnnn/keep_it_farming_mapxstudios_solo_dev_incremental/
-2026-09-27T06:52:30+00:00	GUNNER - Marton Lakat - Cyberpunk run and gun with a free two chapter demo https://www.reddit.com/r/Games/comments/1wrd8m2/gunner_marton_lakat_cyberpunk_run_and_gun_with_a/
-2026-09-27T06:59:24+00:00	Grimoire of Hecate - BlablahGames - A turn based roguelite where you combine cards to create spells https://www.reddit.com/r/Games/comments/1wrdcut/grimoire_of_hecate_blablahgames_a_turn_based/
 2026-09-27T07:17:51+00:00	Dungeon Quest - Destined - An old school dungeon crawler with a unique combat system https://www.reddit.com/r/Games/comments/1wrdojp/dungeon_quest_destined_an_old_school_dungeon/
+2026-09-27T08:56:27+00:00	Project manager SIM - EscapismoGames - WASD office tycoon where you are the PM, not the boss (Early Access, big "I AM A MANAGER" update just landed) https://www.reddit.com/r/Games/comments/1wrfaip/project_manager_sim_escapismogames_wasd_office/
+2026-09-27T09:00:30+00:00	Weekly /r/Games Discussion - What have you been playing, and what are your thoughts? - September 27, 2026 https://www.reddit.com/r/Games/comments/1wrfcxm/weekly_rgames_discussion_what_have_you_been/
+2026-09-27T11:11:27+00:00	Monastery: Ora et Labora - Dragonkin Studios - medieval monastery management sim https://www.reddit.com/r/Games/comments/1wrhjqo/monastery_ora_et_labora_dragonkin_studios/
+2026-09-27T11:33:03+00:00	When Work's A Bore - Projects By Jennings - A Drillbot Racing Game https://www.reddit.com/r/Games/comments/1wrhxq7/when_works_a_bore_projects_by_jennings_a_drillbot/
+2026-09-27T11:58:50+00:00	Spaceport Architect - Djentsoft - 2D Sci-fi Airport Business Tycoon inspired by SimAirport/Airport CEO/Prison Architect https://www.reddit.com/r/Games/comments/1wriei0/spaceport_architect_djentsoft_2d_scifi_airport/
+2026-09-27T12:29:07+00:00	SACRATA - Superlimber Studio - A Visually Stunning Dark Fantasy Loot Survivor (60k+ Wishlists) https://www.reddit.com/r/Games/comments/1wrj074/sacrata_superlimber_studio_a_visually_stunning/
+2026-09-27T12:31:12+00:00	Hunt of the Reptorians - Gibbonfiend Studios - A Sci-Fi Space-Battling Deckbuilder inspired by FTL and Slay the Spire. Looking for playtesters now! https://www.reddit.com/r/Games/comments/1wrj1q6/hunt_of_the_reptorians_gibbonfiend_studios_a/
+2026-09-27T13:24:19+00:00	Core Of Havoc - Parandroid Games - 2D space-themed Action RPG with DOOM vibes https://www.reddit.com/r/Games/comments/1wrk5p6/core_of_havoc_parandroid_games_2d_spacethemed/
+2026-09-27T13:33:45+00:00	Bottlecappers - ShardanaForge - Factory/management roguelite https://www.reddit.com/r/Games/comments/1wrkd7c/bottlecappers_shardanaforge_factorymanagement/
+2026-09-27T13:36:06+00:00	Double Fine's Thank You Bus Driver Releases Oct 14th https://www.reddit.com/r/Games/comments/1wrkf12/double_fines_thank_you_bus_driver_releases_oct/
+2026-09-27T13:39:58+00:00	Five Nighs At Freddy’s Joins Fortnitemares 2026 https://www.reddit.com/r/Games/comments/1wrkhys/five_nighs_at_freddys_joins_fortnitemares_2026/
+2026-09-27T13:53:49+00:00	GRIMSAW - Dark fantasy pixel-art action game inspired by body horror and old-school action games https://www.reddit.com/r/Games/comments/1wrkt03/grimsaw_dark_fantasy_pixelart_action_game/
