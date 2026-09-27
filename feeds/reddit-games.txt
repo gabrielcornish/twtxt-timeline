@@ -3,12 +3,7 @@
 # source = https://www.reddit.com/r/Games.rss
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
-2026-09-25T21:42:08+00:00	Insomniac: Today, we deployed a hotfix for Marvel’s Wolverine that includes new toggles for Scent Trails, Audio Clues, and Nightmare Roots, along with fixes for community-reported crashes and bugs. https://www.reddit.com/r/Games/comments/1wq8suj/insomniac_today_we_deployed_a_hotfix_for_marvels/
-2026-09-26T13:47:19+00:00	SYNDUALITY Echo of Ada to discontinue online services May 2027 forwards, offline version announced and will continue as an offline PvE extraction shooter https://www.reddit.com/r/Games/comments/1wqqzjn/synduality_echo_of_ada_to_discontinue_online/
 2026-09-26T14:09:15+00:00	After Actor Stephen Root Revealed His Role In GTA6, Rockstar Games Email GTA 6 Actors To Say They're Still Under NDA, It's Claimed https://www.reddit.com/r/Games/comments/1wqrhbb/after_actor_stephen_root_revealed_his_role_in/
-2026-09-26T14:19:21+00:00	Barnburners - Arcade Hockey Official Gameplay Trailer https://www.reddit.com/r/Games/comments/1wqrpnk/barnburners_arcade_hockey_official_gameplay/
-2026-09-26T15:36:50+00:00	Brokensides | Announcement Trailer https://www.reddit.com/r/Games/comments/1wqtk44/brokensides_announcement_trailer/
-2026-09-26T15:48:57+00:00	Last Ditch Effort - Official Announcement Trailer https://www.reddit.com/r/Games/comments/1wqtuhu/last_ditch_effort_official_announcement_trailer/
 2026-09-26T17:20:06+00:00	Interview: "We're Not Making A Party Game Now, It's More Of An Evening Thing" - Ghost Town Is Moving On From Overcooked https://www.reddit.com/r/Games/comments/1wqw35r/interview_were_not_making_a_party_game_now_its/
 2026-09-26T17:28:43+00:00	Everything We Saw At Minecraft Live, Including The First New Dimension In 15 Years https://www.reddit.com/r/Games/comments/1wqwazi/everything_we_saw_at_minecraft_live_including_the/
 2026-09-26T19:10:24+00:00	Righting old wrongs: MobyGames on letting developers claim games they weren't credited for https://www.reddit.com/r/Games/comments/1wqyu3b/righting_old_wrongs_mobygames_on_letting/
@@ -19,12 +14,17 @@
 2026-09-27T08:56:27+00:00	Project manager SIM - EscapismoGames - WASD office tycoon where you are the PM, not the boss (Early Access, big "I AM A MANAGER" update just landed) https://www.reddit.com/r/Games/comments/1wrfaip/project_manager_sim_escapismogames_wasd_office/
 2026-09-27T09:00:30+00:00	Weekly /r/Games Discussion - What have you been playing, and what are your thoughts? - September 27, 2026 https://www.reddit.com/r/Games/comments/1wrfcxm/weekly_rgames_discussion_what_have_you_been/
 2026-09-27T11:11:27+00:00	Monastery: Ora et Labora - Dragonkin Studios - medieval monastery management sim https://www.reddit.com/r/Games/comments/1wrhjqo/monastery_ora_et_labora_dragonkin_studios/
-2026-09-27T11:33:03+00:00	When Work's A Bore - Projects By Jennings - A Drillbot Racing Game https://www.reddit.com/r/Games/comments/1wrhxq7/when_works_a_bore_projects_by_jennings_a_drillbot/
-2026-09-27T11:58:50+00:00	Spaceport Architect - Djentsoft - 2D Sci-fi Airport Business Tycoon inspired by SimAirport/Airport CEO/Prison Architect https://www.reddit.com/r/Games/comments/1wriei0/spaceport_architect_djentsoft_2d_scifi_airport/
 2026-09-27T12:29:07+00:00	SACRATA - Superlimber Studio - A Visually Stunning Dark Fantasy Loot Survivor (60k+ Wishlists) https://www.reddit.com/r/Games/comments/1wrj074/sacrata_superlimber_studio_a_visually_stunning/
-2026-09-27T12:31:12+00:00	Hunt of the Reptorians - Gibbonfiend Studios - A Sci-Fi Space-Battling Deckbuilder inspired by FTL and Slay the Spire. Looking for playtesters now! https://www.reddit.com/r/Games/comments/1wrj1q6/hunt_of_the_reptorians_gibbonfiend_studios_a/
-2026-09-27T13:24:19+00:00	Core Of Havoc - Parandroid Games - 2D space-themed Action RPG with DOOM vibes https://www.reddit.com/r/Games/comments/1wrk5p6/core_of_havoc_parandroid_games_2d_spacethemed/
 2026-09-27T13:33:45+00:00	Bottlecappers - ShardanaForge - Factory/management roguelite https://www.reddit.com/r/Games/comments/1wrkd7c/bottlecappers_shardanaforge_factorymanagement/
 2026-09-27T13:36:06+00:00	Double Fine's Thank You Bus Driver Releases Oct 14th https://www.reddit.com/r/Games/comments/1wrkf12/double_fines_thank_you_bus_driver_releases_oct/
 2026-09-27T13:39:58+00:00	Five Nighs At Freddy’s Joins Fortnitemares 2026 https://www.reddit.com/r/Games/comments/1wrkhys/five_nighs_at_freddys_joins_fortnitemares_2026/
-2026-09-27T13:53:49+00:00	GRIMSAW - Dark fantasy pixel-art action game inspired by body horror and old-school action games https://www.reddit.com/r/Games/comments/1wrkt03/grimsaw_dark_fantasy_pixelart_action_game/
+2026-09-27T14:41:48+00:00	Digital Foundry - Control Resonant PC Performance Review: Beautiful Tech, Scalable Visuals + Optimised Settings https://www.reddit.com/r/Games/comments/1wrlxt8/digital_foundry_control_resonant_pc_performance/
+2026-09-27T15:03:09+00:00	Town of Tinysville - 7Seven Studios - Roguelike + City Builder + Deckbuilder https://www.reddit.com/r/Games/comments/1wrmgg5/town_of_tinysville_7seven_studios_roguelike_city/
+2026-09-27T15:49:49+00:00	Haunted Ghost Hunters - Not Cursed - 🦇 GHOST BUSTERS in 90s VHS retro pixel art style! https://www.reddit.com/r/Games/comments/1wrnly8/haunted_ghost_hunters_not_cursed_ghost_busters_in/
+2026-09-27T15:59:00+00:00	Campwood - Hidden Button - Fun co-op wilderness survival game full of mystery https://www.reddit.com/r/Games/comments/1wrnuaz/campwood_hidden_button_fun_coop_wilderness/
+2026-09-27T16:00:53+00:00	SwipSwap - TheDevPlombier - Fast Paced Action Game https://www.reddit.com/r/Games/comments/1wrnwc0/swipswap_thedevplombier_fast_paced_action_game/
+2026-09-27T16:43:59+00:00	Onyx: The Dark Grip Preview: Bloober Team's Switch 2 Exclusive Is The Most Nintendo-Sounding Game Ever https://www.reddit.com/r/Games/comments/1wrp04h/onyx_the_dark_grip_preview_bloober_teams_switch_2/
+2026-09-27T17:24:28+00:00	PS5 emulator successfully runs six titles at a playable 60 FPS | 12 of 55 tested titles tested could be played, but only six achieved a playable 60 FPS. https://www.reddit.com/r/Games/comments/1wrq0nx/ps5_emulator_successfully_runs_six_titles_at_a/
+2026-09-27T17:46:46+00:00	SCP Idle: SECURE. CONTAIN. PROGRESS. - Ahroma - Oversee an SCP facility, construct new containment chambers, and prepare for the breaches https://www.reddit.com/r/Games/comments/1wrqkqb/scp_idle_secure_contain_progress_ahroma_oversee/
+2026-09-27T18:06:12+00:00	"Legacy Code" 1st Trailer https://www.reddit.com/r/Games/comments/1wrr2mc/legacy_code_1st_trailer/
+2026-09-27T18:11:35+00:00	Gentoo Rescue - Jagriff (solo) - Award-winning puzzler about penguins with layers and layers of secrets https://www.reddit.com/r/Games/comments/1wrr7fu/gentoo_rescue_jagriff_solo_awardwinning_puzzler/
