@@ -13,12 +13,10 @@
 2026-09-27T07:17:51+00:00	Dungeon Quest - Destined - An old school dungeon crawler with a unique combat system https://www.reddit.com/r/Games/comments/1wrdojp/dungeon_quest_destined_an_old_school_dungeon/
 2026-09-27T08:56:27+00:00	Project manager SIM - EscapismoGames - WASD office tycoon where you are the PM, not the boss (Early Access, big "I AM A MANAGER" update just landed) https://www.reddit.com/r/Games/comments/1wrfaip/project_manager_sim_escapismogames_wasd_office/
 2026-09-27T09:00:30+00:00	Weekly /r/Games Discussion - What have you been playing, and what are your thoughts? - September 27, 2026 https://www.reddit.com/r/Games/comments/1wrfcxm/weekly_rgames_discussion_what_have_you_been/
-2026-09-27T11:11:27+00:00	Monastery: Ora et Labora - Dragonkin Studios - medieval monastery management sim https://www.reddit.com/r/Games/comments/1wrhjqo/monastery_ora_et_labora_dragonkin_studios/
 2026-09-27T12:29:07+00:00	SACRATA - Superlimber Studio - A Visually Stunning Dark Fantasy Loot Survivor (60k+ Wishlists) https://www.reddit.com/r/Games/comments/1wrj074/sacrata_superlimber_studio_a_visually_stunning/
 2026-09-27T13:36:06+00:00	Double Fine's Thank You Bus Driver Releases Oct 14th https://www.reddit.com/r/Games/comments/1wrkf12/double_fines_thank_you_bus_driver_releases_oct/
 2026-09-27T14:41:48+00:00	Digital Foundry - Control Resonant PC Performance Review: Beautiful Tech, Scalable Visuals + Optimised Settings https://www.reddit.com/r/Games/comments/1wrlxt8/digital_foundry_control_resonant_pc_performance/
 2026-09-27T15:49:49+00:00	Haunted Ghost Hunters - Not Cursed - 🦇 GHOST BUSTERS in 90s VHS retro pixel art style! https://www.reddit.com/r/Games/comments/1wrnly8/haunted_ghost_hunters_not_cursed_ghost_busters_in/
-2026-09-27T16:00:53+00:00	SwipSwap - TheDevPlombier - Fast Paced Action Game https://www.reddit.com/r/Games/comments/1wrnwc0/swipswap_thedevplombier_fast_paced_action_game/
 2026-09-27T16:43:59+00:00	Onyx: The Dark Grip Preview: Bloober Team's Switch 2 Exclusive Is The Most Nintendo-Sounding Game Ever https://www.reddit.com/r/Games/comments/1wrp04h/onyx_the_dark_grip_preview_bloober_teams_switch_2/
 2026-09-27T17:24:28+00:00	PS5 emulator successfully runs six titles at a playable 60 FPS | 12 of 55 tested titles tested could be played, but only six achieved a playable 60 FPS. https://www.reddit.com/r/Games/comments/1wrq0nx/ps5_emulator_successfully_runs_six_titles_at_a/
 2026-09-27T17:32:53+00:00	How One Crash Bandicoot Level Helped Build Naughty Dog https://www.reddit.com/r/Games/comments/1wrq87q/how_one_crash_bandicoot_level_helped_build/
@@ -28,3 +26,5 @@
 2026-09-27T19:08:27+00:00	As We Descend - Box Dragon - Apocalyptic roguelike strategy blending Darkest Dungeon and Slay the Spire! https://www.reddit.com/r/Games/comments/1wrso97/as_we_descend_box_dragon_apocalyptic_roguelike/
 2026-09-27T19:31:56+00:00	AstroCore (Super Mario Galaxy Decomp/PC Port) - Announcement Trailer https://www.reddit.com/r/Games/comments/1wrta6e/astrocore_super_mario_galaxy_decomppc_port/
 2026-09-27T21:29:36+00:00	The Majestic - Studio 46 - A cinematic open-world narrative adventure https://www.reddit.com/r/Games/comments/1wrw982/the_majestic_studio_46_a_cinematic_openworld/
+2026-09-27T22:23:00+00:00	Contested Space - Null & Void Games - A 1-4 player mid-combat drafting roguelike deckbuilder https://www.reddit.com/r/Games/comments/1wrxi73/contested_space_null_void_games_a_14_player/
+2026-09-27T22:58:31+00:00	Daily Grapple - MakisGames - A daily browser grappling speedrun where everyone gets the same level https://www.reddit.com/r/Games/comments/1wryakb/daily_grapple_makisgames_a_daily_browser/
