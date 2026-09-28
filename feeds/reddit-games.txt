@@ -9,9 +9,7 @@
 2026-09-26T19:10:24+00:00	Righting old wrongs: MobyGames on letting developers claim games they weren't credited for https://www.reddit.com/r/Games/comments/1wqyu3b/righting_old_wrongs_mobygames_on_letting/
 2026-09-26T19:48:19+00:00	‘ARC Raiders’ And ‘Marathon’ Turn To PvE As The Extraction Genre Wobbles https://www.reddit.com/r/Games/comments/1wqzroc/arc_raiders_and_marathon_turn_to_pve_as_the/
 2026-09-26T23:22:52+00:00	Naughty Dog Teases The Last of Us Day 2026 Announcements, Releases Free Animated Background on PS5 https://www.reddit.com/r/Games/comments/1wr4o1l/naughty_dog_teases_the_last_of_us_day_2026/
-2026-09-27T04:00:41+00:00	Indie Sunday Hub - September 27, 2026 https://www.reddit.com/r/Games/comments/1wra7ag/indie_sunday_hub_september_27_2026/
 2026-09-27T07:17:51+00:00	Dungeon Quest - Destined - An old school dungeon crawler with a unique combat system https://www.reddit.com/r/Games/comments/1wrdojp/dungeon_quest_destined_an_old_school_dungeon/
-2026-09-27T08:56:27+00:00	Project manager SIM - EscapismoGames - WASD office tycoon where you are the PM, not the boss (Early Access, big "I AM A MANAGER" update just landed) https://www.reddit.com/r/Games/comments/1wrfaip/project_manager_sim_escapismogames_wasd_office/
 2026-09-27T09:00:30+00:00	Weekly /r/Games Discussion - What have you been playing, and what are your thoughts? - September 27, 2026 https://www.reddit.com/r/Games/comments/1wrfcxm/weekly_rgames_discussion_what_have_you_been/
 2026-09-27T12:29:07+00:00	SACRATA - Superlimber Studio - A Visually Stunning Dark Fantasy Loot Survivor (60k+ Wishlists) https://www.reddit.com/r/Games/comments/1wrj074/sacrata_superlimber_studio_a_visually_stunning/
 2026-09-27T13:36:06+00:00	Double Fine's Thank You Bus Driver Releases Oct 14th https://www.reddit.com/r/Games/comments/1wrkf12/double_fines_thank_you_bus_driver_releases_oct/
@@ -28,3 +26,5 @@
 2026-09-27T21:29:36+00:00	The Majestic - Studio 46 - A cinematic open-world narrative adventure https://www.reddit.com/r/Games/comments/1wrw982/the_majestic_studio_46_a_cinematic_openworld/
 2026-09-27T22:23:00+00:00	Contested Space - Null & Void Games - A 1-4 player mid-combat drafting roguelike deckbuilder https://www.reddit.com/r/Games/comments/1wrxi73/contested_space_null_void_games_a_14_player/
 2026-09-27T22:58:31+00:00	Daily Grapple - MakisGames - A daily browser grappling speedrun where everyone gets the same level https://www.reddit.com/r/Games/comments/1wryakb/daily_grapple_makisgames_a_daily_browser/
+2026-09-28T02:05:39+00:00	Carta Bellum - Azul Panther - Classic turn based RPG roguelike in a colorful post-apocalyptic creature-battler world https://www.reddit.com/r/Games/comments/1ws27ey/carta_bellum_azul_panther_classic_turn_based_rpg/
+2026-09-28T03:21:23+00:00	Brewhaven - Wellfall Studios - Colony/Brewing/Tavern Sim with magic combat beer. https://www.reddit.com/r/Games/comments/1ws3oz1/brewhaven_wellfall_studios_colonybrewingtavern/
