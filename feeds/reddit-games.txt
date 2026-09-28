@@ -3,28 +3,28 @@
 # source = https://www.reddit.com/r/Games.rss
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
-2026-09-26T14:09:15+00:00	After Actor Stephen Root Revealed His Role In GTA6, Rockstar Games Email GTA 6 Actors To Say They're Still Under NDA, It's Claimed https://www.reddit.com/r/Games/comments/1wqrhbb/after_actor_stephen_root_revealed_his_role_in/
-2026-09-26T17:20:06+00:00	Interview: "We're Not Making A Party Game Now, It's More Of An Evening Thing" - Ghost Town Is Moving On From Overcooked https://www.reddit.com/r/Games/comments/1wqw35r/interview_were_not_making_a_party_game_now_its/
-2026-09-26T17:28:43+00:00	Everything We Saw At Minecraft Live, Including The First New Dimension In 15 Years https://www.reddit.com/r/Games/comments/1wqwazi/everything_we_saw_at_minecraft_live_including_the/
-2026-09-26T19:10:24+00:00	Righting old wrongs: MobyGames on letting developers claim games they weren't credited for https://www.reddit.com/r/Games/comments/1wqyu3b/righting_old_wrongs_mobygames_on_letting/
 2026-09-26T19:48:19+00:00	‘ARC Raiders’ And ‘Marathon’ Turn To PvE As The Extraction Genre Wobbles https://www.reddit.com/r/Games/comments/1wqzroc/arc_raiders_and_marathon_turn_to_pve_as_the/
 2026-09-26T23:22:52+00:00	Naughty Dog Teases The Last of Us Day 2026 Announcements, Releases Free Animated Background on PS5 https://www.reddit.com/r/Games/comments/1wr4o1l/naughty_dog_teases_the_last_of_us_day_2026/
-2026-09-27T07:17:51+00:00	Dungeon Quest - Destined - An old school dungeon crawler with a unique combat system https://www.reddit.com/r/Games/comments/1wrdojp/dungeon_quest_destined_an_old_school_dungeon/
 2026-09-27T09:00:30+00:00	Weekly /r/Games Discussion - What have you been playing, and what are your thoughts? - September 27, 2026 https://www.reddit.com/r/Games/comments/1wrfcxm/weekly_rgames_discussion_what_have_you_been/
-2026-09-27T12:29:07+00:00	SACRATA - Superlimber Studio - A Visually Stunning Dark Fantasy Loot Survivor (60k+ Wishlists) https://www.reddit.com/r/Games/comments/1wrj074/sacrata_superlimber_studio_a_visually_stunning/
 2026-09-27T13:36:06+00:00	Double Fine's Thank You Bus Driver Releases Oct 14th https://www.reddit.com/r/Games/comments/1wrkf12/double_fines_thank_you_bus_driver_releases_oct/
 2026-09-27T14:41:48+00:00	Digital Foundry - Control Resonant PC Performance Review: Beautiful Tech, Scalable Visuals + Optimised Settings https://www.reddit.com/r/Games/comments/1wrlxt8/digital_foundry_control_resonant_pc_performance/
-2026-09-27T15:49:49+00:00	Haunted Ghost Hunters - Not Cursed - 🦇 GHOST BUSTERS in 90s VHS retro pixel art style! https://www.reddit.com/r/Games/comments/1wrnly8/haunted_ghost_hunters_not_cursed_ghost_busters_in/
 2026-09-27T16:43:59+00:00	Onyx: The Dark Grip Preview: Bloober Team's Switch 2 Exclusive Is The Most Nintendo-Sounding Game Ever https://www.reddit.com/r/Games/comments/1wrp04h/onyx_the_dark_grip_preview_bloober_teams_switch_2/
 2026-09-27T17:24:28+00:00	PS5 emulator successfully runs six titles at a playable 60 FPS | 12 of 55 tested titles tested could be played, but only six achieved a playable 60 FPS. https://www.reddit.com/r/Games/comments/1wrq0nx/ps5_emulator_successfully_runs_six_titles_at_a/
 2026-09-27T17:32:53+00:00	How One Crash Bandicoot Level Helped Build Naughty Dog https://www.reddit.com/r/Games/comments/1wrq87q/how_one_crash_bandicoot_level_helped_build/
 2026-09-27T18:06:12+00:00	"Legacy Code" 1st Trailer https://www.reddit.com/r/Games/comments/1wrr2mc/legacy_code_1st_trailer/
-2026-09-27T18:10:53+00:00	Coldline: Disconnect - Grawire Studio - A Cold War espionage game where you repair electronics by day and secretly bug them for intelligence https://www.reddit.com/r/Games/comments/1wrr6u9/coldline_disconnect_grawire_studio_a_cold_war/
 2026-09-27T18:11:35+00:00	Gentoo Rescue - Jagriff (solo) - Award-winning puzzler about penguins with layers and layers of secrets https://www.reddit.com/r/Games/comments/1wrr7fu/gentoo_rescue_jagriff_solo_awardwinning_puzzler/
 2026-09-27T19:08:27+00:00	As We Descend - Box Dragon - Apocalyptic roguelike strategy blending Darkest Dungeon and Slay the Spire! https://www.reddit.com/r/Games/comments/1wrso97/as_we_descend_box_dragon_apocalyptic_roguelike/
 2026-09-27T19:31:56+00:00	AstroCore (Super Mario Galaxy Decomp/PC Port) - Announcement Trailer https://www.reddit.com/r/Games/comments/1wrta6e/astrocore_super_mario_galaxy_decomppc_port/
-2026-09-27T21:29:36+00:00	The Majestic - Studio 46 - A cinematic open-world narrative adventure https://www.reddit.com/r/Games/comments/1wrw982/the_majestic_studio_46_a_cinematic_openworld/
 2026-09-27T22:23:00+00:00	Contested Space - Null & Void Games - A 1-4 player mid-combat drafting roguelike deckbuilder https://www.reddit.com/r/Games/comments/1wrxi73/contested_space_null_void_games_a_14_player/
-2026-09-27T22:58:31+00:00	Daily Grapple - MakisGames - A daily browser grappling speedrun where everyone gets the same level https://www.reddit.com/r/Games/comments/1wryakb/daily_grapple_makisgames_a_daily_browser/
-2026-09-28T02:05:39+00:00	Carta Bellum - Azul Panther - Classic turn based RPG roguelike in a colorful post-apocalyptic creature-battler world https://www.reddit.com/r/Games/comments/1ws27ey/carta_bellum_azul_panther_classic_turn_based_rpg/
 2026-09-28T03:21:23+00:00	Brewhaven - Wellfall Studios - Colony/Brewing/Tavern Sim with magic combat beer. https://www.reddit.com/r/Games/comments/1ws3oz1/brewhaven_wellfall_studios_colonybrewingtavern/
+2026-09-28T12:01:59+00:00	God of War Laufey pre-orders available starting September 29, editions detailed https://www.reddit.com/r/Games/comments/1wscp74/god_of_war_laufey_preorders_available_starting/
+2026-09-28T12:15:44+00:00	ACE COMBAT 8: WINGS OF THEVE | Launch Trailer https://www.reddit.com/r/Games/comments/1wsczee/ace_combat_8_wings_of_theve_launch_trailer/
+2026-09-28T12:55:30+00:00	Fan Translator "Eien ni Hen" Passed Away (works include Romancing SaGa, Fire Emblem, Sakura Wars, Tear Ring Saga and more) https://www.reddit.com/r/Games/comments/1wsdun5/fan_translator_eien_ni_hen_passed_away_works/
+2026-09-28T13:02:18+00:00	Minecraft Dungeons II Review Thread https://www.reddit.com/r/Games/comments/1wse10h/minecraft_dungeons_ii_review_thread/
+2026-09-28T13:02:23+00:00	Suri: The Seventh Note - Release Date Trailer | PS5 Games https://www.reddit.com/r/Games/comments/1wse138/suri_the_seventh_note_release_date_trailer_ps5/
+2026-09-28T13:47:56+00:00	Mercenaries Recompiled - First Feature Showcase https://www.reddit.com/r/Games/comments/1wsf3nn/mercenaries_recompiled_first_feature_showcase/
+2026-09-28T13:48:25+00:00	Famitsu: Fire Emblem: Fortune’s Weave has sold 127,131 retail units from September 14, 2026 to September 20 in Japan https://www.reddit.com/r/Games/comments/1wsf429/famitsu_fire_emblem_fortunes_weave_has_sold/
+2026-09-28T14:07:27+00:00	See what's new in The Witcher 3: Wild Hunt – Remastered https://www.reddit.com/r/Games/comments/1wsflka/see_whats_new_in_the_witcher_3_wild_hunt/
+2026-09-28T14:30:54+00:00	PS5-exclusive Marvel’s Wolverine now boots on PC, Demon’s Souls reaches 40–50 FPS https://www.reddit.com/r/Games/comments/1wsg72t/ps5exclusive_marvels_wolverine_now_boots_on_pc/
+2026-09-28T14:49:46+00:00	Enad Global 7 announces staff reduction at Cold Iron Studios (Aliens: Fireteam Elite 2) https://www.reddit.com/r/Games/comments/1wsgo3h/enad_global_7_announces_staff_reduction_at_cold/
+2026-09-28T15:18:51+00:00	Denuvo cracking group DenuvOwO reportedly disbands — lawsuit from Irdeto has a chilling effect, but cracking continues as piracy hub purges links https://www.reddit.com/r/Games/comments/1wshfdu/denuvo_cracking_group_denuvowo_reportedly/

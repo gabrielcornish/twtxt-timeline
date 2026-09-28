@@ -3,9 +3,6 @@
 # source = https://www.gamesindustry.biz/feed
 # description = twtxt conversion of https://www.gamesindustry.biz/feed
 
-2026-09-15T12:30:00+00:00	Why switching main characters for your game's sequel might be a mistake https://www.gamesindustry.biz/why-switching-main-characters-for-your-games-sequel-might-be-a-mistake
-2026-09-16T06:30:00+00:00	Why the publisher of Nintendo Life is launching a new PC gaming site https://www.gamesindustry.biz/why-the-publisher-of-nintendo-life-is-launching-a-new-pc-gaming-site
-2026-09-16T07:57:45+00:00	Bohemia Interactive takes minority stake in Everwind developer Enjoy Studio https://www.gamesindustry.biz/bohemia-interactive-takes-minority-stake-in-everwind-developer-enjoy-studio
 2026-09-16T13:07:10+00:00	"I really want Criterion to be considered the best studio in the UK" – why the home of Burnout has a future with Battlefield https://www.gamesindustry.biz/i-really-want-criterion-to-be-considered-the-best-studio-in-the-uk-why-the-home-of-burnout-has-a-future-with-battlefield
 2026-09-16T13:25:18+00:00	1312 Interactive raises $1m in seed funding round https://www.gamesindustry.biz/1312-interactive-raises-1m-in-seed-funding-round
 2026-09-16T16:08:21+00:00	Here are the first finalists for the 2026 GamesIndustry.biz Best Places To Work Awards UK https://www.gamesindustry.biz/here-are-the-first-finalists-for-the-2026-gamesindustrybiz-best-places-to-work-awards-uk
@@ -53,3 +50,6 @@
 2026-09-25T13:07:11+00:00	Meta unveils AI-powered game tools for mobile devices and browsers; announces VR Glasses with day-one Unity support https://www.gamesindustry.biz/meta-unveils-ai-powered-game-tools-for-mobile-devices-and-browsers-announces-vr-glasses-with-day-one-unity-support
 2026-09-25T13:56:43+00:00	Trophy Games acquires Airport Simulator: First Class developer Playrion from Paradox Interactive https://www.gamesindustry.biz/trophy-games-acquires-airport-simulator-first-class-developer-playrion-from-paradox-interactive
 2026-09-25T15:30:44+00:00	Here is the full line-up for the GamesIndustry.biz HR Summit 2026 https://www.gamesindustry.biz/here-is-the-full-line-up-for-the-gamesindustrybiz-hr-summit-2026
+2026-09-28T09:05:32+00:00	Microsoft boss Nadella says Xbox has to invent "sustainable business model" https://www.gamesindustry.biz/microsoft-boss-nadella-says-xbox-has-to-invent-sustainable-business-model
+2026-09-28T11:14:50+00:00	Wardogs studio chief Brammer insists he isn't "pro crunch, I am pro hard work" https://www.gamesindustry.biz/wardogs-studio-chief-brammer-insists-he-isnt-pro-crunch-i-am-pro-hard-work
+2026-09-28T15:23:57+00:00	Report: Sony surveying developers about dropping PlayStation disc support https://www.gamesindustry.biz/report-sony-surveying-developers-about-dropping-playstation-disc-support
