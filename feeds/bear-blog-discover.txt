@@ -3,15 +3,12 @@
 # source = https://bearblog.dev/discover/feed/
 # description = twtxt conversion of https://bearblog.dev/discover/feed/
 
-2026-09-27T11:52:00+00:00	Re: How to break up with someone you love https://chupacabra.bearblog.dev/re-how-to-break-up-with-someone-you-love/
-2026-09-27T15:59:59.988737+00:00	Who I blog for https://robertbirming.com/who-i-blog-for/
 2026-09-27T17:15:27.942971+00:00	learning how to be findable https://tala.bearblog.dev/learning-how-to-be-findable/
 2026-09-27T19:48:00+00:00	When did Google get so f-ing weird? https://sancho.bearblog.dev/google-weird/
 2026-09-28T01:13:00+00:00	Even Though It’s for Nothing — Do the Work https://jdtorian.com/even-though-its-for-nothing-do-the-work/
 2026-09-28T01:21:00+00:00	All versions of you https://forsomeone.bearblog.dev/all-versions-of-you/
 2026-09-28T07:28:08.639090+00:00	we stopped being bored https://yenecys.bearblog.dev/we-stopped-being-bored/
 2026-09-28T12:35:00+00:00	On sending emails and being a part of a community https://insidetherift.bearblog.dev/sendingemailsishard/
-2026-09-28T14:45:00+00:00	book club: kiss of the spider woman by manuel puig https://blog.avas.space/spider-woman-puig/
 2026-09-28T15:00:00+00:00	When Servers Go Away… https://thisismylast.bearblog.dev/when-servers-go-away/
 2026-09-28T15:57:37.733305+00:00	Hello World https://toomanyideas.blog/hello-world/
 2026-09-28T16:00:00+00:00	Completely Untested Magic System Theoryslop for the Masses https://billhook.bearblog.dev/magic-system-theoryslop-for-the-masses/
@@ -19,7 +16,10 @@
 2026-09-28T17:36:00+00:00	Realistic AI Disaster https://heurista.net/realistic-ai-disaster/
 2026-09-28T19:19:00+00:00	Sleepy Zebes https://autumn-wright.com/sleepy-zebes/
 2026-09-28T19:28:27.332290+00:00	I just want to be okay. https://piimyon.bearblog.dev/i-just-want-to-be-okay/
+2026-09-28T20:16:00+00:00	Let’s Try Of Blood & Clay! Part 3: Ruin https://thelonebard.com/of-blood-and-clay-part-3/
 2026-09-28T20:37:09.941276+00:00	27 - depression is so cruel https://sepuluhkupang.bearblog.dev/27-depression-is-so-cruel/
 2026-09-28T22:14:01.779871+00:00	Surfing the Smallweb IV https://trialandfailure.net/surfing-the-smallweb-iv/
 2026-09-28T22:53:00+00:00	the kindest thing anyone has ever done for me https://donthave2sting.bearblog.dev/the-kindest-thing-anyone-has-ever-done-for-me/
 2026-09-28T23:03:00+00:00	basically just taking care of myself https://alieniloquy.bearblog.dev/basically-just-taking-care-of-myself/
+2026-09-29T02:10:00+00:00	Is The Door Locked? https://blog.catshavenolord.page/is-the-door-locked/
+2026-09-29T03:57:46.734316+00:00	an artist surrounded by nerds https://rnotte.art/an-artist-surrounded-by-nerds/

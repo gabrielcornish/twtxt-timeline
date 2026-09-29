@@ -3,9 +3,6 @@
 # source = https://www.gamesindustry.biz/feed
 # description = twtxt conversion of https://www.gamesindustry.biz/feed
 
-2026-09-16T16:08:21+00:00	Here are the first finalists for the 2026 GamesIndustry.biz Best Places To Work Awards UK https://www.gamesindustry.biz/here-are-the-first-finalists-for-the-2026-gamesindustrybiz-best-places-to-work-awards-uk
-2026-09-16T17:32:12+00:00	MindsEye developers report new round of layoffs at Build A Rocket Boy https://www.gamesindustry.biz/mindseye-developers-report-new-round-of-layoffs-at-build-a-rocket-boy
-2026-09-16T20:21:48+00:00	Shinji Mikami to be inducted into the AIAS Hall of Fame later this week https://www.gamesindustry.biz/shinji-mikami-to-be-inducted-into-the-aias-hall-of-fame-later-this-week
 2026-09-17T08:39:10+00:00	Heart Machine faces possible closure after publishing deal falls through; majority of staff laid off https://www.gamesindustry.biz/heart-machine-faces-possible-closure-after-publishing-deal-falls-through-majority-of-staff-laid-off
 2026-09-17T10:29:52+00:00	Remedy's Arhi Makkonen on designing the "biggest world we have ever done" for Control Resonant https://www.gamesindustry.biz/remedys-arhi-makkonen-on-designing-the-biggest-world-we-have-ever-done-for-control-resonant
 2026-09-17T13:00:00+00:00	Nex Playground announces $150m in new funding as hardware sales pass one million https://www.gamesindustry.biz/nex-playground-announces-150m-in-new-funding-as-hardware-sales-pass-one-million
@@ -53,3 +50,6 @@
 2026-09-28T15:23:57+00:00	Report: Sony surveying developers about dropping PlayStation disc support https://www.gamesindustry.biz/report-sony-surveying-developers-about-dropping-playstation-disc-support
 2026-09-28T18:09:25+00:00	"It's a nice story to tell": How DICE bounced back from Battlefield 2042's disastrous launch to release the blockbuster Battlefield 6 https://www.gamesindustry.biz/its-a-nice-story-to-tell-how-dice-bounced-back-from-battlefield-2042s-disastrous-launch-to-release-the-blockbuster-battlefield-6
 2026-09-28T18:14:39+00:00	National Videogame Museum launches UK-wide survey on game preservation https://www.gamesindustry.biz/national-videogame-museum-launches-uk-wide-survey-on-game-preservation
+2026-09-29T10:15:28+00:00	Sony to skip CES 2027 for first time since expo's inaugural event in 1967 https://www.gamesindustry.biz/sony-to-skip-ces-2027-for-first-time-since-expos-inaugural-event-in-1967
+2026-09-29T12:30:00+00:00	"Why should we just give up the entire month of November?" – The indie games going head to head with GTA 6 https://www.gamesindustry.biz/why-should-we-just-give-up-the-entire-month-of-november-the-indie-games-going-head-to-head-with-gta-6
+2026-09-29T14:39:42+00:00	How indie studios can survive industry volatility | Opinion https://www.gamesindustry.biz/how-indie-studios-can-survive-industry-volatility-opinion
