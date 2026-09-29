@@ -11,10 +11,7 @@
 2026-09-28T12:35:00+00:00	On sending emails and being a part of a community https://insidetherift.bearblog.dev/sendingemailsishard/
 2026-09-28T15:00:00+00:00	When Servers Go Away… https://thisismylast.bearblog.dev/when-servers-go-away/
 2026-09-28T15:57:37.733305+00:00	Hello World https://toomanyideas.blog/hello-world/
-2026-09-28T16:00:00+00:00	Completely Untested Magic System Theoryslop for the Masses https://billhook.bearblog.dev/magic-system-theoryslop-for-the-masses/
 2026-09-28T16:41:00+00:00	Other bad photos I took at the beach https://blog.lauramichet.com/other-bad-photos-i-took-at-the-beach/
-2026-09-28T17:36:00+00:00	Realistic AI Disaster https://heurista.net/realistic-ai-disaster/
-2026-09-28T19:19:00+00:00	Sleepy Zebes https://autumn-wright.com/sleepy-zebes/
 2026-09-28T19:28:27.332290+00:00	I just want to be okay. https://piimyon.bearblog.dev/i-just-want-to-be-okay/
 2026-09-28T20:16:00+00:00	Let’s Try Of Blood & Clay! Part 3: Ruin https://thelonebard.com/of-blood-and-clay-part-3/
 2026-09-28T20:37:09.941276+00:00	27 - depression is so cruel https://sepuluhkupang.bearblog.dev/27-depression-is-so-cruel/
@@ -23,3 +20,6 @@
 2026-09-28T23:03:00+00:00	basically just taking care of myself https://alieniloquy.bearblog.dev/basically-just-taking-care-of-myself/
 2026-09-29T02:10:00+00:00	Is The Door Locked? https://blog.catshavenolord.page/is-the-door-locked/
 2026-09-29T03:57:46.734316+00:00	an artist surrounded by nerds https://rnotte.art/an-artist-surrounded-by-nerds/
+2026-09-29T12:01:00+00:00	How War Is Waged Today https://johoo.bearblog.dev/howwariswagedtoday/
+2026-09-29T14:02:00+00:00	Thanks for giving people a voice Bear Blog. https://disconnect.bearblog.dev/thanks-for-giving-people-a-voice-bear-blog/
+2026-09-29T14:22:00+00:00	Damage Dice! https://torn.bearblog.dev/damage-dice/
