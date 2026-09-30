@@ -5,8 +5,6 @@
 
 2026-09-27T17:15:27.942971+00:00	learning how to be findable https://tala.bearblog.dev/learning-how-to-be-findable/
 2026-09-27T19:48:00+00:00	When did Google get so f-ing weird? https://sancho.bearblog.dev/google-weird/
-2026-09-28T01:13:00+00:00	Even Though It’s for Nothing — Do the Work https://jdtorian.com/even-though-its-for-nothing-do-the-work/
-2026-09-28T01:21:00+00:00	All versions of you https://forsomeone.bearblog.dev/all-versions-of-you/
 2026-09-28T07:28:08.639090+00:00	we stopped being bored https://yenecys.bearblog.dev/we-stopped-being-bored/
 2026-09-28T12:35:00+00:00	On sending emails and being a part of a community https://insidetherift.bearblog.dev/sendingemailsishard/
 2026-09-28T15:00:00+00:00	When Servers Go Away… https://thisismylast.bearblog.dev/when-servers-go-away/
@@ -15,7 +13,6 @@
 2026-09-28T19:28:27.332290+00:00	I just want to be okay. https://piimyon.bearblog.dev/i-just-want-to-be-okay/
 2026-09-28T20:16:00+00:00	Let’s Try Of Blood & Clay! Part 3: Ruin https://thelonebard.com/of-blood-and-clay-part-3/
 2026-09-28T20:37:09.941276+00:00	27 - depression is so cruel https://sepuluhkupang.bearblog.dev/27-depression-is-so-cruel/
-2026-09-28T22:14:01.779871+00:00	Surfing the Smallweb IV https://trialandfailure.net/surfing-the-smallweb-iv/
 2026-09-28T22:53:00+00:00	the kindest thing anyone has ever done for me https://donthave2sting.bearblog.dev/the-kindest-thing-anyone-has-ever-done-for-me/
 2026-09-28T23:03:00+00:00	basically just taking care of myself https://alieniloquy.bearblog.dev/basically-just-taking-care-of-myself/
 2026-09-29T02:10:00+00:00	Is The Door Locked? https://blog.catshavenolord.page/is-the-door-locked/
@@ -23,3 +20,6 @@
 2026-09-29T12:01:00+00:00	How War Is Waged Today https://johoo.bearblog.dev/howwariswagedtoday/
 2026-09-29T14:02:00+00:00	Thanks for giving people a voice Bear Blog. https://disconnect.bearblog.dev/thanks-for-giving-people-a-voice-bear-blog/
 2026-09-29T14:22:00+00:00	Damage Dice! https://torn.bearblog.dev/damage-dice/
+2026-09-29T15:38:00+00:00	Herald of a Frogey Future https://circuit-breaker.bearblog.dev/001-004_frogey_future/
+2026-09-29T16:38:00+00:00	I am in Minneapolis https://blog.lauramichet.com/i-am-in-minneapolis/
+2026-09-29T17:10:36.892414+00:00	6 Hours In and I'm Actually Enjoying it https://turbiegaming.bearblog.dev/6-hours-in-and-im-actually-enjoying-it/
