@@ -3,10 +3,7 @@
 # source = https://www.reddit.com/r/Games.rss
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
-2026-09-29T15:33:38+00:00	"A quite beautiful compromise": The LEGO Skylines devs did consider brick by brick building, but decided it was too much fuss for players https://www.reddit.com/r/Games/comments/1wtdbo4/a_quite_beautiful_compromise_the_lego_skylines/
-2026-09-29T18:22:33+00:00	007 First Light: A free DLC is just around the bend. Tune in on October 1st. https://www.reddit.com/r/Games/comments/1wthv9u/007_first_light_a_free_dlc_is_just_around_the/
 2026-09-29T20:26:10+00:00	Deadlock - City Never Sleeps https://www.reddit.com/r/Games/comments/1wtl4ot/deadlock_city_never_sleeps/
-2026-09-29T22:33:48+00:00	Total War: Shogun 2 Complete Edition - Official Game Overview https://www.reddit.com/r/Games/comments/1wtoaip/total_war_shogun_2_complete_edition_official_game/
 2026-09-29T23:10:10+00:00	Xbox disc to digital now live for everyone https://www.reddit.com/r/Games/comments/1wtp3rq/xbox_disc_to_digital_now_live_for_everyone/
 2026-09-30T03:01:47+00:00	Star Wars: Galactic Racer™ | Under the Hood with Hibi – Podracers https://www.reddit.com/r/Games/comments/1wttz1a/star_wars_galactic_racer_under_the_hood_with_hibi/
 2026-09-30T05:30:00+00:00	Titanfall 2 VR Mod https://www.reddit.com/r/Games/comments/1wtwoj8/titanfall_2_vr_mod/
@@ -28,3 +25,6 @@
 2026-09-30T17:42:51+00:00	This could legitimately end Stop Killing Games. https://www.reddit.com/r/Games/comments/1wubi8w/this_could_legitimately_end_stop_killing_games/
 2026-09-30T18:05:49+00:00	Grave Seasons | Release Date Reveal https://www.reddit.com/r/Games/comments/1wuc4vx/grave_seasons_release_date_reveal/
 2026-09-30T18:27:24+00:00	'We Have Been Gradually Preparing': Capcom Already Has a Plan for When Its Resident Evil Remakes Catch Up With Newer Games https://www.reddit.com/r/Games/comments/1wucpou/we_have_been_gradually_preparing_capcom_already/
+2026-09-30T18:29:42+00:00	Dumb Ways to Build | Power Tools & Packed Lunches Update https://www.reddit.com/r/Games/comments/1wucrzl/dumb_ways_to_build_power_tools_packed_lunches/
+2026-09-30T19:56:55+00:00	The Next Chapter for Massive Entertainment (Tom Clancy’s The Division, Ghost Recon, Splinter Cell, alongside new original IP including March of Giants.) https://www.reddit.com/r/Games/comments/1wuf2sp/the_next_chapter_for_massive_entertainment_tom/
+2026-09-30T23:21:16+00:00	Songs of Glimmerwick - Extended Gameplay Launch Trailer https://www.reddit.com/r/Games/comments/1wujyb4/songs_of_glimmerwick_extended_gameplay_launch/
