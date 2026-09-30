@@ -4,8 +4,6 @@
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
 2026-09-27T09:00:30+00:00	Weekly /r/Games Discussion - What have you been playing, and what are your thoughts? - September 27, 2026 https://www.reddit.com/r/Games/comments/1wrfcxm/weekly_rgames_discussion_what_have_you_been/
-2026-09-28T14:30:54+00:00	PS5-exclusive Marvel’s Wolverine now boots on PC, Demon’s Souls reaches 40–50 FPS https://www.reddit.com/r/Games/comments/1wsg72t/ps5exclusive_marvels_wolverine_now_boots_on_pc/
-2026-09-29T00:09:17+00:00	Neil Druckmann Closes The Last of Us Day: We have a couple of very exciting new projects in very early stages (Last of Us franchise). Regarding Intergalactic in 2027: We’ll fully reveal Intergalactic: The Heretic Prophet and give you a proper look at Jordan’s wild sci-fi adventure. https://www.reddit.com/r/Games/comments/1wsva38/neil_druckmann_closes_the_last_of_us_day_we_have/
 2026-09-29T01:01:45+00:00	Control Resonant Director Explains The Game's Lack Of Yellow Paint And Handholding: 'It Was A Conscious Decision, Obviously' https://www.reddit.com/r/Games/comments/1wswdxh/control_resonant_director_explains_the_games_lack/
 2026-09-29T10:43:26+00:00	The Witcher 3: Wild Hunt — Remastered | Official Launch Trailer https://www.reddit.com/r/Games/comments/1wt6s7q/the_witcher_3_wild_hunt_remastered_official/
 2026-09-29T14:16:58+00:00	TOEM 2 - Launch Trailer https://www.reddit.com/r/Games/comments/1wtbbyi/toem_2_launch_trailer/
@@ -15,9 +13,6 @@
 2026-09-29T16:28:12+00:00	MINECRAFT DUNGEONS II | Official Launch Trailer https://www.reddit.com/r/Games/comments/1wterz7/minecraft_dungeons_ii_official_launch_trailer/
 2026-09-29T16:39:47+00:00	12 New Gameplay Screenshots Revealed For Grand Theft Auto 6 https://www.reddit.com/r/Games/comments/1wtf389/12_new_gameplay_screenshots_revealed_for_grand/
 2026-09-29T16:54:07+00:00	[American Truck Simulator] Road Trip: Ford DLC Release ~New Game Mode Available Now ($7.99, 7,99€, £6.79, R$ 25,99, Rp 74250) https://www.reddit.com/r/Games/comments/1wtfh32/american_truck_simulator_road_trip_ford_dlc/
-2026-09-29T17:07:12+00:00	ALLFATHER - Official Announcement Trailer https://www.reddit.com/r/Games/comments/1wtftwo/allfather_official_announcement_trailer/
-2026-09-29T17:17:56+00:00	Lightyear Frontier - Release Date Trailer https://www.reddit.com/r/Games/comments/1wtg42e/lightyear_frontier_release_date_trailer/
-2026-09-29T17:36:49+00:00	Orcthal - Demo out now! https://www.reddit.com/r/Games/comments/1wtgmgy/orcthal_demo_out_now/
 2026-09-29T17:50:04+00:00	Tempest Rising - The Veti's Wrath Launch Trailer https://www.reddit.com/r/Games/comments/1wtgyzh/tempest_rising_the_vetis_wrath_launch_trailer/
 2026-09-29T18:02:27+00:00	Deep Rock Galactic: Survivor - Switch & PS5 Announcement Trailer https://www.reddit.com/r/Games/comments/1wthbco/deep_rock_galactic_survivor_switch_ps5/
 2026-09-29T18:18:25+00:00	Warhammer 40,000: Darktide - Patch 1.13.0 Depths of the Damned Update out now! https://www.reddit.com/r/Games/comments/1wthr5b/warhammer_40000_darktide_patch_1130_depths_of_the/
@@ -27,4 +22,9 @@
 2026-09-29T18:28:28+00:00	Upcoming Changes to the Discounts & Events Section on Steam https://www.reddit.com/r/Games/comments/1wti0yi/upcoming_changes_to_the_discounts_events_section/
 2026-09-29T18:33:01+00:00	Coffee Stain Studios: Another Satisfactory Announcement https://www.reddit.com/r/Games/comments/1wti5k9/coffee_stain_studios_another_satisfactory/
 2026-09-29T20:26:10+00:00	Deadlock - City Never Sleeps https://www.reddit.com/r/Games/comments/1wtl4ot/deadlock_city_never_sleeps/
-2026-09-29T20:26:35+00:00	City Never Sleeps - Deadlock Major Update https://www.reddit.com/r/Games/comments/1wtl55g/city_never_sleeps_deadlock_major_update/
+2026-09-29T21:14:42+00:00	Dicevaders Official Launch Trailer https://www.reddit.com/r/Games/comments/1wtmdg1/dicevaders_official_launch_trailer/
+2026-09-29T21:28:03+00:00	Dead as Disco - Official New Idol, Dahlia La Pantera Trailer https://www.reddit.com/r/Games/comments/1wtmpnq/dead_as_disco_official_new_idol_dahlia_la_pantera/
+2026-09-29T21:44:06+00:00	DEFCON - 20th Anniversary Edition Update - Steam News https://www.reddit.com/r/Games/comments/1wtn446/defcon_20th_anniversary_edition_update_steam_news/
+2026-09-29T22:33:48+00:00	Total War: Shogun 2 Complete Edition - Official Game Overview https://www.reddit.com/r/Games/comments/1wtoaip/total_war_shogun_2_complete_edition_official_game/
+2026-09-29T23:07:39+00:00	Deep Rock Galactic - Seasons Ahead Teaser https://www.reddit.com/r/Games/comments/1wtp1nm/deep_rock_galactic_seasons_ahead_teaser/
+2026-09-29T23:10:10+00:00	Xbox disc to digital now live for everyone https://www.reddit.com/r/Games/comments/1wtp3rq/xbox_disc_to_digital_now_live_for_everyone/
