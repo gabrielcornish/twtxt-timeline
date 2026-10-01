@@ -5,7 +5,6 @@
 
 2026-09-29T20:26:10+00:00	Deadlock - City Never Sleeps https://www.reddit.com/r/Games/comments/1wtl4ot/deadlock_city_never_sleeps/
 2026-09-29T23:10:10+00:00	Xbox disc to digital now live for everyone https://www.reddit.com/r/Games/comments/1wtp3rq/xbox_disc_to_digital_now_live_for_everyone/
-2026-09-30T03:01:47+00:00	Star Wars: Galactic Racer™ | Under the Hood with Hibi – Podracers https://www.reddit.com/r/Games/comments/1wttz1a/star_wars_galactic_racer_under_the_hood_with_hibi/
 2026-09-30T05:30:00+00:00	Titanfall 2 VR Mod https://www.reddit.com/r/Games/comments/1wtwoj8/titanfall_2_vr_mod/
 2026-09-30T05:32:08+00:00	Max Payne 2 VR Mod | Beta Release https://www.reddit.com/r/Games/comments/1wtwptt/max_payne_2_vr_mod_beta_release/
 2026-09-30T08:42:05+00:00	'Mario Kart Tour' has ended service https://www.reddit.com/r/Games/comments/1wtzphm/mario_kart_tour_has_ended_service/
@@ -20,11 +19,12 @@
 2026-09-30T15:59:14+00:00	The translation for Summon Night: Swordcraft Story 3 (GBA) has released https://www.reddit.com/r/Games/comments/1wu8puz/the_translation_for_summon_night_swordcraft_story/
 2026-09-30T16:05:41+00:00	Fallout 76: Letter from the Directors - Raven Rock, World Pets, and Hideouts https://www.reddit.com/r/Games/comments/1wu8wco/fallout_76_letter_from_the_directors_raven_rock/
 2026-09-30T16:36:12+00:00	Warhammer 40,000: Dawn of War IV – Space Marines CGI Trailer https://www.reddit.com/r/Games/comments/1wu9pvv/warhammer_40000_dawn_of_war_iv_space_marines_cgi/
-2026-09-30T16:55:55+00:00	Tyto - Demo Announcement Trailer https://www.reddit.com/r/Games/comments/1wua8is/tyto_demo_announcement_trailer/
 2026-09-30T17:04:02+00:00	Dinolords - Multiplayer Announcement Trailer https://www.reddit.com/r/Games/comments/1wuagqz/dinolords_multiplayer_announcement_trailer/
 2026-09-30T17:42:51+00:00	This could legitimately end Stop Killing Games. https://www.reddit.com/r/Games/comments/1wubi8w/this_could_legitimately_end_stop_killing_games/
 2026-09-30T18:05:49+00:00	Grave Seasons | Release Date Reveal https://www.reddit.com/r/Games/comments/1wuc4vx/grave_seasons_release_date_reveal/
 2026-09-30T18:27:24+00:00	'We Have Been Gradually Preparing': Capcom Already Has a Plan for When Its Resident Evil Remakes Catch Up With Newer Games https://www.reddit.com/r/Games/comments/1wucpou/we_have_been_gradually_preparing_capcom_already/
-2026-09-30T18:29:42+00:00	Dumb Ways to Build | Power Tools & Packed Lunches Update https://www.reddit.com/r/Games/comments/1wucrzl/dumb_ways_to_build_power_tools_packed_lunches/
 2026-09-30T19:56:55+00:00	The Next Chapter for Massive Entertainment (Tom Clancy’s The Division, Ghost Recon, Splinter Cell, alongside new original IP including March of Giants.) https://www.reddit.com/r/Games/comments/1wuf2sp/the_next_chapter_for_massive_entertainment_tom/
+2026-09-30T23:04:13+00:00	That Which Remains – Announcement Trailer | Co-op Ghost Hunting Horror https://www.reddit.com/r/Games/comments/1wujkwh/that_which_remains_announcement_trailer_coop/
 2026-09-30T23:21:16+00:00	Songs of Glimmerwick - Extended Gameplay Launch Trailer https://www.reddit.com/r/Games/comments/1wujyb4/songs_of_glimmerwick_extended_gameplay_launch/
+2026-10-01T01:59:15+00:00	StarCraft II 5.0.17 PTR Patch Notes (rolling back most balance changes to the live release of StarCraft 2 from patch 5.0.16 to 5.0.15) https://www.reddit.com/r/Games/comments/1wun8yj/starcraft_ii_5017_ptr_patch_notes_rolling_back/
+2026-10-01T05:16:42+00:00	Wanted: Games with a diegetic reason you are able to respawn and try again when you fail. https://www.reddit.com/r/Games/comments/1wuqy6l/wanted_games_with_a_diegetic_reason_you_are_able/
