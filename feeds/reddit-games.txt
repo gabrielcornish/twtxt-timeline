@@ -3,13 +3,8 @@
 # source = https://www.reddit.com/r/Games.rss
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
-2026-09-29T20:26:10+00:00	Deadlock - City Never Sleeps https://www.reddit.com/r/Games/comments/1wtl4ot/deadlock_city_never_sleeps/
-2026-09-29T23:10:10+00:00	Xbox disc to digital now live for everyone https://www.reddit.com/r/Games/comments/1wtp3rq/xbox_disc_to_digital_now_live_for_everyone/
-2026-09-30T05:30:00+00:00	Titanfall 2 VR Mod https://www.reddit.com/r/Games/comments/1wtwoj8/titanfall_2_vr_mod/
-2026-09-30T05:32:08+00:00	Max Payne 2 VR Mod | Beta Release https://www.reddit.com/r/Games/comments/1wtwptt/max_payne_2_vr_mod_beta_release/
 2026-09-30T08:42:05+00:00	'Mario Kart Tour' has ended service https://www.reddit.com/r/Games/comments/1wtzphm/mario_kart_tour_has_ended_service/
 2026-09-30T11:00:46+00:00	Daily /r/Games Discussion - Suggest Me a Game - September 30, 2026 https://www.reddit.com/r/Games/comments/1wu1xix/daily_rgames_discussion_suggest_me_a_game/
-2026-09-30T12:05:09+00:00	Bash Moto - Official Gameplay Reveal Trailer 4K https://www.reddit.com/r/Games/comments/1wu3517/bash_moto_official_gameplay_reveal_trailer_4k/
 2026-09-30T13:07:26+00:00	Queen's Domain | Release Date & Console Reveal Trailer https://www.reddit.com/r/Games/comments/1wu4hdx/queens_domain_release_date_console_reveal_trailer/
 2026-09-30T13:13:41+00:00	Grasshopper Manufacture splits from NetEase Games https://www.reddit.com/r/Games/comments/1wu4mk1/grasshopper_manufacture_splits_from_netease_games/
 2026-09-30T14:10:54+00:00	Free Trial Level Cap Raised to Level 75 and Time Limit Removed | Final Fantasy XI https://www.reddit.com/r/Games/comments/1wu5zbz/free_trial_level_cap_raised_to_level_75_and_time/
@@ -19,12 +14,17 @@
 2026-09-30T15:59:14+00:00	The translation for Summon Night: Swordcraft Story 3 (GBA) has released https://www.reddit.com/r/Games/comments/1wu8puz/the_translation_for_summon_night_swordcraft_story/
 2026-09-30T16:05:41+00:00	Fallout 76: Letter from the Directors - Raven Rock, World Pets, and Hideouts https://www.reddit.com/r/Games/comments/1wu8wco/fallout_76_letter_from_the_directors_raven_rock/
 2026-09-30T16:36:12+00:00	Warhammer 40,000: Dawn of War IV – Space Marines CGI Trailer https://www.reddit.com/r/Games/comments/1wu9pvv/warhammer_40000_dawn_of_war_iv_space_marines_cgi/
-2026-09-30T17:04:02+00:00	Dinolords - Multiplayer Announcement Trailer https://www.reddit.com/r/Games/comments/1wuagqz/dinolords_multiplayer_announcement_trailer/
 2026-09-30T17:42:51+00:00	This could legitimately end Stop Killing Games. https://www.reddit.com/r/Games/comments/1wubi8w/this_could_legitimately_end_stop_killing_games/
 2026-09-30T18:05:49+00:00	Grave Seasons | Release Date Reveal https://www.reddit.com/r/Games/comments/1wuc4vx/grave_seasons_release_date_reveal/
 2026-09-30T18:27:24+00:00	'We Have Been Gradually Preparing': Capcom Already Has a Plan for When Its Resident Evil Remakes Catch Up With Newer Games https://www.reddit.com/r/Games/comments/1wucpou/we_have_been_gradually_preparing_capcom_already/
 2026-09-30T19:56:55+00:00	The Next Chapter for Massive Entertainment (Tom Clancy’s The Division, Ghost Recon, Splinter Cell, alongside new original IP including March of Giants.) https://www.reddit.com/r/Games/comments/1wuf2sp/the_next_chapter_for_massive_entertainment_tom/
-2026-09-30T23:04:13+00:00	That Which Remains – Announcement Trailer | Co-op Ghost Hunting Horror https://www.reddit.com/r/Games/comments/1wujkwh/that_which_remains_announcement_trailer_coop/
 2026-09-30T23:21:16+00:00	Songs of Glimmerwick - Extended Gameplay Launch Trailer https://www.reddit.com/r/Games/comments/1wujyb4/songs_of_glimmerwick_extended_gameplay_launch/
 2026-10-01T01:59:15+00:00	StarCraft II 5.0.17 PTR Patch Notes (rolling back most balance changes to the live release of StarCraft 2 from patch 5.0.16 to 5.0.15) https://www.reddit.com/r/Games/comments/1wun8yj/starcraft_ii_5017_ptr_patch_notes_rolling_back/
 2026-10-01T05:16:42+00:00	Wanted: Games with a diegetic reason you are able to respawn and try again when you fail. https://www.reddit.com/r/Games/comments/1wuqy6l/wanted_games_with_a_diegetic_reason_you_are_able/
+2026-10-01T06:56:29+00:00	ACE COMBAT 8: WINGS OF THEVE :: About ACE COMBAT ZERO: THE BELKAN WAR https://www.reddit.com/r/Games/comments/1wuskq7/ace_combat_8_wings_of_theve_about_ace_combat_zero/
+2026-10-01T08:28:44+00:00	CONTROL Resonant Game Update 1.4.0 https://www.reddit.com/r/Games/comments/1wuu0ne/control_resonant_game_update_140/
+2026-10-01T09:54:56+00:00	Castlevania: Belmont‘s Curse Demo OUT Now https://www.reddit.com/r/Games/comments/1wuvbp6/castlevania_belmonts_curse_demo_out_now/
+2026-10-01T11:11:03+00:00	As Xbox swings the axe, Gears of War: E-Day developers fear they'll be laid off straight after launch - and right before they'd be due their bonuses https://www.reddit.com/r/Games/comments/1wuwmvr/as_xbox_swings_the_axe_gears_of_war_eday/
+2026-10-01T12:05:12+00:00	Kena: Scars of Kosmora launches 2027, Ember Lab shares story overview https://www.reddit.com/r/Games/comments/1wuxo4e/kena_scars_of_kosmora_launches_2027_ember_lab/
+2026-10-01T12:13:57+00:00	Krafton has Cancelled the development of PUBG: BLACK BUDGET https://www.reddit.com/r/Games/comments/1wuxubp/krafton_has_cancelled_the_development_of_pubg/
+2026-10-01T13:00:35+00:00	Gears of War: E-Day Review Thread https://www.reddit.com/r/Games/comments/1wuyt8v/gears_of_war_eday_review_thread/

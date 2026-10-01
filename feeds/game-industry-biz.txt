@@ -3,8 +3,6 @@
 # source = https://www.gamesindustry.biz/feed
 # description = twtxt conversion of https://www.gamesindustry.biz/feed
 
-2026-09-18T15:52:17+00:00	"They've watched so many people lose their jobs, that has an impact" – Managing morale in the wake of layoffs https://www.gamesindustry.biz/theyve-watched-so-many-people-lose-their-jobs-that-has-an-impact-managing-morale-in-the-wake-of-layoffs
-2026-09-18T16:15:36+00:00	Control Resonant | Critical Consensus https://www.gamesindustry.biz/control-resonant-critical-consensus
 2026-09-21T08:35:21+00:00	Hideo Kojima "couldn't understand" why Physint "would be on the list of being cancelled" by Sony https://www.gamesindustry.biz/hideo-kojima-couldnt-understand-why-physint-would-be-on-the-list-of-being-cancelled-by-sony
 2026-09-21T11:34:05+00:00	Northern Forge Studios and Runaway Play lead Green Games Jam Awards 2026 https://www.gamesindustry.biz/northern-forge-studios-and-runaway-play-lead-green-games-jam-awards-2026
 2026-09-21T12:01:04+00:00	Tokyo Game Show 2026 celebrated the past, and an uncertain AI future | Opinion https://www.gamesindustry.biz/tokyo-game-show-2026-celebrated-the-past-and-an-uncertain-ai-future-opinion
@@ -53,3 +51,5 @@
 2026-09-30T17:43:08+00:00	Xbox CEO Asha Sharma insists "Xbox is not for sale" https://www.gamesindustry.biz/xbox-ceo-asha-sharma-insists-xbox-is-not-for-sale
 2026-09-30T18:59:09+00:00	Alleged hacker arrested over leak that exposed GTA Online's daily revenue https://www.gamesindustry.biz/alleged-hacker-arrested-over-leak-that-exposed-gta-onlines-daily-revenue
 2026-09-30T19:20:00+00:00	Ubisoft renames Creative House 2, home of The Division, Ghost Recon and Splinter Cell, as Massive Entertainment https://www.gamesindustry.biz/ubisoft-renames-creative-house-2-home-of-the-division-ghost-recon-and-splinter-cell-as-massive-entertainment
+2026-10-01T08:25:00+00:00	PC and console revenue charts led by new releases in August | Newzoo charts https://www.gamesindustry.biz/pc-and-console-revenue-charts-led-by-new-releases-in-august-newzoo-charts
+2026-10-01T09:26:54+00:00	Jobs roundup: October | Code Wizards Group appoints Catherine Bygrave as head of commercial https://www.gamesindustry.biz/jobs-roundup-october-code-wizards-group-appoints-catherine-bygrave-as-head-of-commercial
