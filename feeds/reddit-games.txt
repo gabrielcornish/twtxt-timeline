@@ -4,9 +4,7 @@
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
 2026-09-30T11:00:46+00:00	Daily /r/Games Discussion - Suggest Me a Game - September 30, 2026 https://www.reddit.com/r/Games/comments/1wu1xix/daily_rgames_discussion_suggest_me_a_game/
-2026-09-30T17:42:51+00:00	This could legitimately end Stop Killing Games. https://www.reddit.com/r/Games/comments/1wubi8w/this_could_legitimately_end_stop_killing_games/
 2026-10-01T05:16:42+00:00	Wanted: Games with a diegetic reason you are able to respawn and try again when you fail. https://www.reddit.com/r/Games/comments/1wuqy6l/wanted_games_with_a_diegetic_reason_you_are_able/
-2026-10-01T06:56:29+00:00	ACE COMBAT 8: WINGS OF THEVE :: About ACE COMBAT ZERO: THE BELKAN WAR https://www.reddit.com/r/Games/comments/1wuskq7/ace_combat_8_wings_of_theve_about_ace_combat_zero/
 2026-10-01T08:28:44+00:00	CONTROL Resonant Game Update 1.4.0 https://www.reddit.com/r/Games/comments/1wuu0ne/control_resonant_game_update_140/
 2026-10-01T09:54:56+00:00	Castlevania: Belmont‘s Curse Demo OUT Now https://www.reddit.com/r/Games/comments/1wuvbp6/castlevania_belmonts_curse_demo_out_now/
 2026-10-01T11:11:03+00:00	As Xbox swings the axe, Gears of War: E-Day developers fear they'll be laid off straight after launch - and right before they'd be due their bonuses https://www.reddit.com/r/Games/comments/1wuwmvr/as_xbox_swings_the_axe_gears_of_war_eday/
@@ -16,15 +14,17 @@
 2026-10-01T14:16:03+00:00	007 First Light – Extended Operations Free DLC https://www.reddit.com/r/Games/comments/1wv0lg6/007_first_light_extended_operations_free_dlc/
 2026-10-01T14:34:37+00:00	Arc Raiders: An Update on Anti-Cheat. "No warning, no second chances." https://www.reddit.com/r/Games/comments/1wv12ae/arc_raiders_an_update_on_anticheat_no_warning_no/
 2026-10-01T15:03:52+00:00	RetroSpace - Launch Trailer https://www.reddit.com/r/Games/comments/1wv1tii/retrospace_launch_trailer/
-2026-10-01T15:10:40+00:00	Galaxies Autumn 2026 Streams October 15th! https://www.reddit.com/r/Games/comments/1wv1zw3/galaxies_autumn_2026_streams_october_15th/
 2026-10-01T15:24:12+00:00	Reigns Dev Is Closing Down As Leads Go Independent Again https://www.reddit.com/r/Games/comments/1wv2cc8/reigns_dev_is_closing_down_as_leads_go/
-2026-10-01T15:24:27+00:00	Order of the Sinking Star | Voice Cast Reveal Trailer https://www.reddit.com/r/Games/comments/1wv2cke/order_of_the_sinking_star_voice_cast_reveal/
 2026-10-01T15:42:25+00:00	METRO 2033 Redux and METRO Last Light Redux Next-Gen Update coming this month. Plus the franchise hits 50 million sales worldwide https://www.reddit.com/r/Games/comments/1wv2teh/metro_2033_redux_and_metro_last_light_redux/
 2026-10-01T16:01:16+00:00	AI upscaling is coming to PS5 https://www.reddit.com/r/Games/comments/1wv3bbz/ai_upscaling_is_coming_to_ps5/
-2026-10-01T16:26:01+00:00	WarioWare director reveals what changed after he left Nintendo https://www.reddit.com/r/Games/comments/1wv3zb0/warioware_director_reveals_what_changed_after_he/
 2026-10-01T16:40:42+00:00	Gears of War: E-Day | Official Launch Trailer https://www.reddit.com/r/Games/comments/1wv4d28/gears_of_war_eday_official_launch_trailer/
 2026-10-01T16:46:01+00:00	Jacob Geller is no longer a part of the MinnMax podcast https://www.reddit.com/r/Games/comments/1wv4i3t/jacob_geller_is_no_longer_a_part_of_the_minnmax/
 2026-10-01T16:48:18+00:00	End of Abyss | Launch Trailer https://www.reddit.com/r/Games/comments/1wv4k6d/end_of_abyss_launch_trailer/
 2026-10-01T17:00:01+00:00	Steam Autumn 2026 Sale is now live https://www.reddit.com/r/Games/comments/1wv4vcl/steam_autumn_2026_sale_is_now_live/
 2026-10-01T17:39:49+00:00	March of Giants - Official Gameplay Trailer https://www.reddit.com/r/Games/comments/1wv5y15/march_of_giants_official_gameplay_trailer/
 2026-10-01T19:08:53+00:00	Hands-On With QSSR: AI-Driven Upscaling for the Standard PS5 https://www.reddit.com/r/Games/comments/1wv8b6x/handson_with_qssr_aidriven_upscaling_for_the/
+2026-10-01T19:24:35+00:00	Last Epoch Season 5 - Rage of the Frostborn - is live https://www.reddit.com/r/Games/comments/1wv8qg5/last_epoch_season_5_rage_of_the_frostborn_is_live/
+2026-10-01T19:48:35+00:00	Hugo The TV Troll | Abandonware Anomalies https://www.reddit.com/r/Games/comments/1wv9czs/hugo_the_tv_troll_abandonware_anomalies/
+2026-10-01T20:51:00+00:00	Ghost of Yotei DLC Review – Echoes Of Sekigahara and Most Wanted (IGN) https://www.reddit.com/r/Games/comments/1wvaxpo/ghost_of_yotei_dlc_review_echoes_of_sekigahara/
+2026-10-01T21:57:58+00:00	Stone Kite is a New Studio From Halo, Destiny Creator Jason Jones and Author Margaret Stohl, and its First Project is About Rogue AI Robots https://www.reddit.com/r/Games/comments/1wvcj3g/stone_kite_is_a_new_studio_from_halo_destiny/
+2026-10-01T22:14:58+00:00	Tainted Grail: The Fall of Avalon - Fists of Fury Free DLC + Patch 1.30 https://www.reddit.com/r/Games/comments/1wvcxg7/tainted_grail_the_fall_of_avalon_fists_of_fury/
