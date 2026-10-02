@@ -4,7 +4,6 @@
 # description = twtxt conversion of https://bearblog.dev/discover/feed/
 
 2026-09-30T02:11:00+00:00	My Cup Of Coffee Versus Your Subscription Cost https://thisismylast.bearblog.dev/my-cup-of-coffee-versus-your-subscription-cost/
-2026-09-30T15:27:00+00:00	Two Years After Eggbug https://blog.curiousquail.com/two-years-after-eggbug/
 2026-10-01T03:46:00+00:00	Maybe I was born to be a corporate drone https://ginoz.bearblog.dev/maybeiwasborntobeacorporatedrone/
 2026-10-01T06:23:00+00:00	Reveal (Weird Web October) https://departure.blog/wwo/2026/1-reveal/
 2026-10-01T08:44:00+00:00	Someone who's not okay https://sleepyram.bearblog.dev/not-okay/
@@ -12,14 +11,15 @@
 2026-10-01T14:19:23.814622+00:00	11 Years Nomadic and Still Figuring It Out https://conniesue.me/11-years-nomadic-and-still-figuring-it-out/
 2026-10-01T15:28:00+00:00	Mozilla says "Firefox shuffles its UI for no goddamned reason whatsoever" https://blighttown.bearblog.dev/mozilla-says-firefox-shuffles-its-ui-for-no-goddamned-reason-whatsoever/
 2026-10-01T17:35:00+00:00	(var)tober https://jetgirl.art/vartober/
-2026-10-02T00:48:00+00:00	Cat https://householderkarl.com/cat/
+2026-10-02T00:48:00+00:00	Cat https://terminallucidity.net/cat/
 2026-10-02T03:58:00+00:00	october 1 mgd https://combatdavey.net/october-1-2026/
 2026-10-02T04:30:41.975922+00:00	social media and food https://rnotte.art/social-media-and-food/
 2026-10-02T06:34:00+00:00	GPT-6 Astra plays World of Warcraft for the first time with agent-wow https://agent-wow.sh/gpt-6-astra-plays-world-of-warcraft-for-the-first-time-with-agent-wow/
 2026-10-02T11:25:00+00:00	74% of independent artists make less than 1000 USD per year, survey shows https://thoughts.pivic.com/74-of-independent-artists-make-less-than-1000-usd-per-year-survey-shows/
 2026-10-02T12:38:00+00:00	A beginning https://zwaluw.bearblog.dev/a-beginning/
 2026-10-02T12:43:27.355241+00:00	How about an inalienable right to sleep? https://itsme.bearblog.dev/how-about-an-inalienable-right-to-sleep/
-2026-10-02T12:53:00+00:00	Komorebi https://householderkarl.com/komorebi/
-2026-10-02T13:30:00+00:00	1 Year of Blogging & 6 Months on Bear Blog https://jensgentledays.bearblog.dev/1-year-of-blogging-6-months-on-bear-blog/
+2026-10-02T12:53:00+00:00	Komorebi https://terminallucidity.net/komorebi/
 2026-10-02T14:00:39.254026+00:00	Happy tears https://robertbirming.com/happy-tears/
 2026-10-02T17:20:00+00:00	Spark (Weird Web October) https://departure.blog/wwo/2026/2-spark/
+2026-10-02T20:00:00+00:00	September '26 https://thornwyld.bearblog.dev/september26/
+2026-10-02T20:55:00+00:00	a graveyard for the things that need to die https://biel.bearblog.dev/agraveyardforthethingsthatneedtodie/
