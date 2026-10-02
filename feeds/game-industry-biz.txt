@@ -3,9 +3,6 @@
 # source = https://www.gamesindustry.biz/feed
 # description = twtxt conversion of https://www.gamesindustry.biz/feed
 
-2026-09-21T12:01:04+00:00	Tokyo Game Show 2026 celebrated the past, and an uncertain AI future | Opinion https://www.gamesindustry.biz/tokyo-game-show-2026-celebrated-the-past-and-an-uncertain-ai-future-opinion
-2026-09-21T13:27:45+00:00	Activision cites data claiming cheating in games is an $8.5bn industry; 69% of online multiplayer studios consider cheating "a significant or very significant problem" https://www.gamesindustry.biz/activision-cites-data-claiming-cheating-in-games-is-an-85bn-industry-69-of-online-multiplayer-studios-consider-cheating-a-significant-or-very-significant-problem
-2026-09-21T16:24:23+00:00	"It's sad and devastating" – Black Myth: Wukong's physical publisher is mourning the loss of PlayStation discs https://www.gamesindustry.biz/its-sad-and-devastating-black-myth-wukongs-physical-publisher-is-mourning-the-loss-of-playstation-discs
 2026-09-22T07:55:38+00:00	Xbox reportedly set to announce second round of layoffs this week https://www.gamesindustry.biz/xbox-reportedly-set-to-announce-second-round-of-layoffs-this-week
 2026-09-22T09:43:57+00:00	Bungie says it's "not done with Destiny", aims to earn back player trust by restoring archived Destiny 2 content https://www.gamesindustry.biz/bungie-says-its-not-done-with-destiny-aims-to-earn-back-player-trust-by-restoring-archived-destiny-2-content
 2026-09-22T10:55:16+00:00	IO Interactive "had no choice" but to delay Switch 2 launch of 007 First Light for a third time https://www.gamesindustry.biz/io-interactive-had-no-choice-but-to-delay-switch-2-launch-of-007-first-light-for-a-third-time
@@ -52,4 +49,7 @@
 2026-10-01T08:25:00+00:00	PC and console revenue charts led by new releases in August | Newzoo charts https://www.gamesindustry.biz/pc-and-console-revenue-charts-led-by-new-releases-in-august-newzoo-charts
 2026-10-01T09:26:54+00:00	Jobs roundup: October | Code Wizards Group appoints Catherine Bygrave as head of commercial https://www.gamesindustry.biz/jobs-roundup-october-code-wizards-group-appoints-catherine-bygrave-as-head-of-commercial
 2026-10-01T13:28:21+00:00	Ubisoft Workers of Montreal Union petition to "preserve hybrid work" secures over 300 signatures https://www.gamesindustry.biz/ubisoft-workers-of-montreal-union-petition-to-preserve-hybrid-work-secures-over-300-signatures
-2026-10-01T14:15:37+00:00	Consumer Protection Cooperation Network launches coordinated actions against nine companies on in-game currency https://www.gamesindustry.biz/consumer-protection-cooperation-network-launches-coordinated-actions-against-nine-companies-on-in-game-currency
+2026-10-01T14:15:37+00:00	Consumer Protection Cooperation Network launches coordinated actions against nine companies on in-game currency | Opinion https://www.gamesindustry.biz/consumer-protection-cooperation-network-launches-coordinated-actions-against-nine-companies-on-in-game-currency
+2026-10-02T08:03:39+00:00	Krafton shuts down PUBG spin-off Black Budget nine months after closed alpha test https://www.gamesindustry.biz/krafton-shuts-down-pubg-spin-off-black-budget-nine-months-after-closed-alpha-test
+2026-10-02T10:10:00+00:00	2XKO would have needed an MAU base "in the high hundreds of thousands, if not millions" to succeed https://www.gamesindustry.biz/2xko-would-have-needed-an-mau-base-in-the-high-hundreds-of-thousands-if-not-millions-to-succeed
+2026-10-02T11:19:13+00:00	Reigns developer Nerial closes following "significant trading losses" over past two years https://www.gamesindustry.biz/reigns-developer-nerial-closes-following-significant-trading-losses-over-past-two-years
