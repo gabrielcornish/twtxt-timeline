@@ -5,7 +5,6 @@
 
 2026-09-28T23:03:00+00:00	basically just taking care of myself https://alieniloquy.bearblog.dev/basically-just-taking-care-of-myself/
 2026-09-29T03:57:46.734316+00:00	an artist surrounded by nerds https://rnotte.art/an-artist-surrounded-by-nerds/
-2026-09-29T15:38:00+00:00	Herald of a Frogey Future https://circuit-breaker.bearblog.dev/001-004_frogey_future/
 2026-09-30T01:13:22.524264+00:00	Frog Friends https://littlefrog.bearblog.dev/frog-friends/
 2026-09-30T02:11:00+00:00	My Cup Of Coffee Versus Your Subscription Cost https://thisismylast.bearblog.dev/my-cup-of-coffee-versus-your-subscription-cost/
 2026-09-30T07:30:00+00:00	rose ▪ bud ▪ thorn - september 2026 https://blog.avas.space/rosebudthorn-sep26/
@@ -22,4 +21,5 @@
 2026-10-01T14:19:23.814622+00:00	11 Years Nomadic and Still Figuring It Out https://conniesue.me/11-years-nomadic-and-still-figuring-it-out/
 2026-10-01T15:28:00+00:00	Mozilla says "Firefox shuffles its UI for no goddamned reason whatsoever" https://blighttown.bearblog.dev/mozilla-says-firefox-shuffles-its-ui-for-no-goddamned-reason-whatsoever/
 2026-10-01T17:14:00+00:00	Antlers https://householderkarl.com/antlers/
-2026-10-01T17:17:00+00:00	nightmare on sassafras hill https://manateeswake.bearblog.dev/nightmare-on-sassafras-hill/
+2026-10-01T17:35:00+00:00	(var)tober https://jetgirl.art/vartober/
+2026-10-02T00:48:00+00:00	Cat https://householderkarl.com/cat/
