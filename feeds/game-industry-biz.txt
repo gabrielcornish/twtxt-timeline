@@ -3,11 +3,6 @@
 # source = https://www.gamesindustry.biz/feed
 # description = twtxt conversion of https://www.gamesindustry.biz/feed
 
-2026-09-22T07:55:38+00:00	Xbox reportedly set to announce second round of layoffs this week https://www.gamesindustry.biz/xbox-reportedly-set-to-announce-second-round-of-layoffs-this-week
-2026-09-22T09:43:57+00:00	Bungie says it's "not done with Destiny", aims to earn back player trust by restoring archived Destiny 2 content https://www.gamesindustry.biz/bungie-says-its-not-done-with-destiny-aims-to-earn-back-player-trust-by-restoring-archived-destiny-2-content
-2026-09-22T10:55:16+00:00	IO Interactive "had no choice" but to delay Switch 2 launch of 007 First Light for a third time https://www.gamesindustry.biz/io-interactive-had-no-choice-but-to-delay-switch-2-launch-of-007-first-light-for-a-third-time
-2026-09-22T12:00:00+00:00	"There is no easy answer anymore, there's no kind of playbook" – Secret Mode is hedging its bets with two very different pillars https://www.gamesindustry.biz/there-is-no-easy-answer-anymore-theres-no-kind-of-playbook-secret-mode-is-hedging-its-bets-with-two-very-different-pillars
-2026-09-22T14:06:00+00:00	Xbox transfers Rare and Halo franchise to Activision, proposes closure of Ninja Theory, and confirms another 268 roles cut amid studio restructure https://www.gamesindustry.biz/xbox-transfers-rare-and-halo-franchise-to-activision-proposes-closure-of-ninja-theory-and-confirms-another-268-roles-cut-amid-studio-restructure
 2026-09-23T07:57:04+00:00	Undead Labs confirms it is now an "employee-owned studio", a "significant number" of employees face layoffs https://www.gamesindustry.biz/undead-labs-confirms-it-is-now-an-employee-owned-studio
 2026-09-23T10:11:43+00:00	Discord re-launches age verification following backlash over privacy concerns https://www.gamesindustry.biz/discord-re-launches-age-verification-following-backlash-over-privacy-concerns
 2026-09-23T12:55:38+00:00	Sensor Tower: PC and PlayStation unit sales in Japan rise 13% to 21m during H1 2026, led by Resident Evil Requiem https://www.gamesindustry.biz/sensor-tower-pc-and-playstation-unit-sales-in-japan-rise-13-to-21m-during-h1-2026-led-by-resident-evil-requiem
@@ -53,3 +48,8 @@
 2026-10-02T08:03:39+00:00	Krafton shuts down PUBG spin-off Black Budget nine months after closed alpha test https://www.gamesindustry.biz/krafton-shuts-down-pubg-spin-off-black-budget-nine-months-after-closed-alpha-test
 2026-10-02T10:10:00+00:00	2XKO would have needed an MAU base "in the high hundreds of thousands, if not millions" to succeed https://www.gamesindustry.biz/2xko-would-have-needed-an-mau-base-in-the-high-hundreds-of-thousands-if-not-millions-to-succeed
 2026-10-02T11:19:13+00:00	Reigns developer Nerial closes following "significant trading losses" over past two years https://www.gamesindustry.biz/reigns-developer-nerial-closes-following-significant-trading-losses-over-past-two-years
+2026-10-02T12:56:58+00:00	Winners of the UK Best Places To Work Awards 2026 revealed https://www.gamesindustry.biz/winners-of-the-uk-best-places-to-work-awards-2026-revealed
+2026-10-02T13:54:44+00:00	Bungie co-founder and Destiny 2 narrative director launch transmedia studio Stone Kite https://www.gamesindustry.biz/bungie-co-founder-and-destiny-2-narrative-director-launch-transmedia-studio-stone-kite
+2026-10-02T14:29:12+00:00	"Quite often it's given me more to do" – Why AI might be creating more work for games companies, rather than saving time https://www.gamesindustry.biz/quite-often-its-given-me-more-to-do-why-ai-might-be-creating-more-work-for-games-companies-rather-than-saving-time
+2026-10-02T14:55:28+00:00	In pictures: the Best Places To Work Awards 2026 https://www.gamesindustry.biz/in-pictures-the-best-places-to-work-awards-2026
+2026-10-02T15:19:56+00:00	Sony's consultation on physical media: better late than never | Opinion https://www.gamesindustry.biz/sonys-consultation-on-physical-media-better-late-than-never-opinion
