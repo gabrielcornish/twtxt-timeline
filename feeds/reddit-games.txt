@@ -4,11 +4,7 @@
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
 2026-09-30T11:00:46+00:00	Daily /r/Games Discussion - Suggest Me a Game - September 30, 2026 https://www.reddit.com/r/Games/comments/1wu1xix/daily_rgames_discussion_suggest_me_a_game/
-2026-10-01T16:01:16+00:00	AI upscaling is coming to PS5 https://www.reddit.com/r/Games/comments/1wv3bbz/ai_upscaling_is_coming_to_ps5/
 2026-10-01T16:46:01+00:00	Jacob Geller is no longer a part of the MinnMax podcast https://www.reddit.com/r/Games/comments/1wv4i3t/jacob_geller_is_no_longer_a_part_of_the_minnmax/
-2026-10-01T17:00:01+00:00	Steam Autumn 2026 Sale is now live https://www.reddit.com/r/Games/comments/1wv4vcl/steam_autumn_2026_sale_is_now_live/
-2026-10-01T22:14:58+00:00	Tainted Grail: The Fall of Avalon - Fists of Fury Free DLC + Patch 1.30 https://www.reddit.com/r/Games/comments/1wvcxg7/tainted_grail_the_fall_of_avalon_fists_of_fury/
-2026-10-02T01:22:29+00:00	Dreams PS4/5 to PC Exporting is here! https://www.reddit.com/r/Games/comments/1wvgyuo/dreams_ps45_to_pc_exporting_is_here/
 2026-10-02T05:27:33+00:00	STRANGER THAN HEAVEN | 1929 Kure, Hiroshima In-Depth Look https://www.reddit.com/r/Games/comments/1wvlkp7/stranger_than_heaven_1929_kure_hiroshima_indepth/
 2026-10-02T06:02:36+00:00	Kairosoft has a new simulation game: Fashion Mall Story https://www.reddit.com/r/Games/comments/1wvm5ic/kairosoft_has_a_new_simulation_game_fashion_mall/
 2026-10-02T10:00:30+00:00	Daily /r/Games Discussion - Free Talk Friday - October 02, 2026 https://www.reddit.com/r/Games/comments/1wvptzp/daily_rgames_discussion_free_talk_friday_october/
@@ -28,3 +24,7 @@
 2026-10-03T01:23:45+00:00	Combatting Wallhacks with Server Culling | Call of Duty Modern Warfare 4 https://www.reddit.com/r/Games/comments/1wwapcx/combatting_wallhacks_with_server_culling_call_of/
 2026-10-03T02:27:33+00:00	‘A Future Where We Create Games Together With AI’ — Capcom Announces Plans to Transform the RE Engine Into an AI-Generation Game Engine https://www.reddit.com/r/Games/comments/1wwbw6e/a_future_where_we_create_games_together_with_ai/
 2026-10-03T05:00:47+00:00	Memory executives expect RAM shortage to continue through 2028 https://www.reddit.com/r/Games/comments/1wwenqz/memory_executives_expect_ram_shortage_to_continue/
+2026-10-03T07:19:03+00:00	‘Clive Barker’s Hellraiser: Revival’ Video Game Devs On Making The Franchise “Nobly Provocative” In The Modern Age https://www.reddit.com/r/Games/comments/1wwgyov/clive_barkers_hellraiser_revival_video_game_devs/
+2026-10-03T09:30:35+00:00	Flower, Flow & the Origins of thatgamecompany - /noclip Documentary https://www.reddit.com/r/Games/comments/1wwj0uz/flower_flow_the_origins_of_thatgamecompany_noclip/
+2026-10-03T11:45:20+00:00	"We felt that fans were getting a bit desensitised to the violence" Gears of War: E-Day devs made a "big investment" in gore, and weirdly, it works https://www.reddit.com/r/Games/comments/1wwl8cn/we_felt_that_fans_were_getting_a_bit_desensitised/
+2026-10-03T12:38:12+00:00	Warlock: Dungeons & Dragons developers hope to set aside the Baldur's Gate 3 comparisons and build their own kind of open world https://www.reddit.com/r/Games/comments/1wwm8p2/warlock_dungeons_dragons_developers_hope_to_set/
