@@ -4,9 +4,6 @@
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
 2026-09-30T11:00:46+00:00	Daily /r/Games Discussion - Suggest Me a Game - September 30, 2026 https://www.reddit.com/r/Games/comments/1wu1xix/daily_rgames_discussion_suggest_me_a_game/
-2026-10-01T16:46:01+00:00	Jacob Geller is no longer a part of the MinnMax podcast https://www.reddit.com/r/Games/comments/1wv4i3t/jacob_geller_is_no_longer_a_part_of_the_minnmax/
-2026-10-02T05:27:33+00:00	STRANGER THAN HEAVEN | 1929 Kure, Hiroshima In-Depth Look https://www.reddit.com/r/Games/comments/1wvlkp7/stranger_than_heaven_1929_kure_hiroshima_indepth/
-2026-10-02T06:02:36+00:00	Kairosoft has a new simulation game: Fashion Mall Story https://www.reddit.com/r/Games/comments/1wvm5ic/kairosoft_has_a_new_simulation_game_fashion_mall/
 2026-10-02T10:00:30+00:00	Daily /r/Games Discussion - Free Talk Friday - October 02, 2026 https://www.reddit.com/r/Games/comments/1wvptzp/daily_rgames_discussion_free_talk_friday_october/
 2026-10-02T10:51:02+00:00	Draga's Wake - Official Trailer https://www.reddit.com/r/Games/comments/1wvqoim/dragas_wake_official_trailer/
 2026-10-02T12:10:39+00:00	Star Wars: Galactic Racer Review Thread https://www.reddit.com/r/Games/comments/1wvs5ml/star_wars_galactic_racer_review_thread/
@@ -28,3 +25,6 @@
 2026-10-03T09:30:35+00:00	Flower, Flow & the Origins of thatgamecompany - /noclip Documentary https://www.reddit.com/r/Games/comments/1wwj0uz/flower_flow_the_origins_of_thatgamecompany_noclip/
 2026-10-03T11:45:20+00:00	"We felt that fans were getting a bit desensitised to the violence" Gears of War: E-Day devs made a "big investment" in gore, and weirdly, it works https://www.reddit.com/r/Games/comments/1wwl8cn/we_felt_that_fans_were_getting_a_bit_desensitised/
 2026-10-03T12:38:12+00:00	Warlock: Dungeons & Dragons developers hope to set aside the Baldur's Gate 3 comparisons and build their own kind of open world https://www.reddit.com/r/Games/comments/1wwm8p2/warlock_dungeons_dragons_developers_hope_to_set/
+2026-10-03T13:41:04+00:00	ZERO PARADES: Director's Cut - PC Launch Trailer https://www.reddit.com/r/Games/comments/1wwnjz4/zero_parades_directors_cut_pc_launch_trailer/
+2026-10-03T16:20:55+00:00	Activision And Bethesda Crackdown On GenAI MW2 And Fallout Projects https://www.reddit.com/r/Games/comments/1wwr92p/activision_and_bethesda_crackdown_on_genai_mw2/
+2026-10-03T16:43:31+00:00	Final Fantasy 7 Revelation director fought for a disc release because he "really likes" physical media https://www.reddit.com/r/Games/comments/1wwrrt2/final_fantasy_7_revelation_director_fought_for_a/
