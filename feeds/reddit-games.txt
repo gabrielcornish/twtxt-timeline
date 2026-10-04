@@ -3,13 +3,7 @@
 # source = https://www.reddit.com/r/Games.rss
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
-2026-09-30T11:00:46+00:00	Daily /r/Games Discussion - Suggest Me a Game - September 30, 2026 https://www.reddit.com/r/Games/comments/1wu1xix/daily_rgames_discussion_suggest_me_a_game/
-2026-10-02T17:53:55+00:00	GTA 6 PEGI Age Rating Reveals Mentions of 'Decapitation' and Cocaine That Can Be 'Snorted' at 'Any Time' https://www.reddit.com/r/Games/comments/1ww0f21/gta_6_pegi_age_rating_reveals_mentions_of/
-2026-10-02T21:28:59+00:00	2XKO would have needed a monthly active userbase "in the high hundreds of thousands, if not millions" to succeed https://www.reddit.com/r/Games/comments/1ww5rdr/2xko_would_have_needed_a_monthly_active_userbase/
-2026-10-03T02:27:33+00:00	‘A Future Where We Create Games Together With AI’ — Capcom Announces Plans to Transform the RE Engine Into an AI-Generation Game Engine https://www.reddit.com/r/Games/comments/1wwbw6e/a_future_where_we_create_games_together_with_ai/
 2026-10-03T05:00:47+00:00	Memory executives expect RAM shortage to continue through 2028 https://www.reddit.com/r/Games/comments/1wwenqz/memory_executives_expect_ram_shortage_to_continue/
-2026-10-03T07:19:03+00:00	‘Clive Barker’s Hellraiser: Revival’ Video Game Devs On Making The Franchise “Nobly Provocative” In The Modern Age https://www.reddit.com/r/Games/comments/1wwgyov/clive_barkers_hellraiser_revival_video_game_devs/
-2026-10-03T09:30:35+00:00	Flower, Flow & the Origins of thatgamecompany - /noclip Documentary https://www.reddit.com/r/Games/comments/1wwj0uz/flower_flow_the_origins_of_thatgamecompany_noclip/
 2026-10-03T11:45:20+00:00	"We felt that fans were getting a bit desensitised to the violence" Gears of War: E-Day devs made a "big investment" in gore, and weirdly, it works https://www.reddit.com/r/Games/comments/1wwl8cn/we_felt_that_fans_were_getting_a_bit_desensitised/
 2026-10-03T12:38:12+00:00	Warlock: Dungeons & Dragons developers hope to set aside the Baldur's Gate 3 comparisons and build their own kind of open world https://www.reddit.com/r/Games/comments/1wwm8p2/warlock_dungeons_dragons_developers_hope_to_set/
 2026-10-03T13:41:04+00:00	ZERO PARADES: Director's Cut - PC Launch Trailer https://www.reddit.com/r/Games/comments/1wwnjz4/zero_parades_directors_cut_pc_launch_trailer/
@@ -24,7 +18,13 @@
 2026-10-03T21:58:05+00:00	Final Fantasy Resonance's Combat Was An 'Experiment' To Combine FF5's Job System with FF6's Unique Characters https://www.reddit.com/r/Games/comments/1wwz5s6/final_fantasy_resonances_combat_was_an_experiment/
 2026-10-03T22:07:04+00:00	Suikoden I&II HD, Suikoden III, Suikoden IV, and Suikoden V soundtracks are now on Apple Music and Spotify https://www.reddit.com/r/Games/comments/1wwzcx4/suikoden_iii_hd_suikoden_iii_suikoden_iv_and/
 2026-10-04T04:00:41+00:00	Indie Sunday Hub - October 4, 2026 https://www.reddit.com/r/Games/comments/1wx64zf/indie_sunday_hub_october_4_2026/
-2026-10-04T04:10:36+00:00	MineEmAll - James Castle - Mining incremental game with reverse block puzzle + Tetris style mining https://www.reddit.com/r/Games/comments/1wx6bfc/mineemall_james_castle_mining_incremental_game/
 2026-10-04T04:33:38+00:00	MANIFEST - hard sci-fi space logistics https://www.reddit.com/r/Games/comments/1wx6pqj/manifest_hard_scifi_space_logistics/
-2026-10-04T05:27:17+00:00	Spinful - Old Deer Games - a Roguelite Slot-builder. Upgrade, enhance and customize your slots into a powerful combat machine! https://www.reddit.com/r/Games/comments/1wx7mwt/spinful_old_deer_games_a_roguelite_slotbuilder/
-2026-10-04T06:43:49+00:00	Horde of Distraction - Static Feed - A Diablo-inspired incremental game https://www.reddit.com/r/Games/comments/1wx8vm4/horde_of_distraction_static_feed_a_diabloinspired/
+2026-10-04T07:39:10+00:00	Star Vortex - Zorg - Spaceship Building Action RPG https://www.reddit.com/r/Games/comments/1wx9s2v/star_vortex_zorg_spaceship_building_action_rpg/
+2026-10-04T07:49:50+00:00	Crown Me Again - The Code Otter - Diablo-style loot and build-crafting in a compact incremental RPG https://www.reddit.com/r/Games/comments/1wx9y5b/crown_me_again_the_code_otter_diablostyle_loot/
+2026-10-04T09:00:28+00:00	Weekly /r/Games Discussion - What have you been playing, and what are your thoughts? - October 04, 2026 https://www.reddit.com/r/Games/comments/1wxb1q8/weekly_rgames_discussion_what_have_you_been/
+2026-10-04T09:00:36+00:00	BOLLWERK - Bollwerk Games - A tower defense game with 100,000 physically simulated units https://www.reddit.com/r/Games/comments/1wxb1tz/bollwerk_bollwerk_games_a_tower_defense_game_with/
+2026-10-04T09:10:18+00:00	Sort My Pigs - Chubby Horse Games - A cute tidy up game https://www.reddit.com/r/Games/comments/1wxb7dc/sort_my_pigs_chubby_horse_games_a_cute_tidy_up/
+2026-10-04T11:05:35+00:00	WalkScape - Not A Cult - I'm developing a MMO inspired by RuneScape where you progress by walking in real life. Trading is releasing next week! https://www.reddit.com/r/Games/comments/1wxd1c0/walkscape_not_a_cult_im_developing_a_mmo_inspired/
+2026-10-04T11:31:26+00:00	DEEPWARD - ECHOFALL GAMES - A 1920s gothic FPS where you switch characters instead of just weapons, even in the middle of a fight https://www.reddit.com/r/Games/comments/1wxdgtb/deepward_echofall_games_a_1920s_gothic_fps_where/
+2026-10-04T12:06:02+00:00	Dude, Trust Me - Sefik Studios - A 3-player co-op puzzle game where each player loses sight, hearing, or speech https://www.reddit.com/r/Games/comments/1wxe3fu/dude_trust_me_sefik_studios_a_3player_coop_puzzle/
+2026-10-04T12:12:42+00:00	Miniopolis - Radiangames - minimal city builder (realistic Townscaper) https://www.reddit.com/r/Games/comments/1wxe7y8/miniopolis_radiangames_minimal_city_builder/
