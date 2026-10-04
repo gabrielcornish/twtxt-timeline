@@ -6,7 +6,6 @@
 2026-10-01T06:23:00+00:00	Reveal (Weird Web October) https://departure.blog/wwo/2026/1-reveal/
 2026-10-01T08:44:00+00:00	Someone who's not okay https://sleepyram.bearblog.dev/not-okay/
 2026-10-01T15:28:00+00:00	Mozilla says "Firefox shuffles its UI for no goddamned reason whatsoever" https://blighttown.bearblog.dev/mozilla-says-firefox-shuffles-its-ui-for-no-goddamned-reason-whatsoever/
-2026-10-02T03:58:00+00:00	october 1 mgd https://combatdavey.net/october-1-2026/
 2026-10-02T04:30:41.975922+00:00	social media and food https://rnotte.art/social-media-and-food/
 2026-10-02T11:25:00+00:00	74% of independent artists make less than 1000 USD per year, survey shows https://thoughts.pivic.com/74-of-independent-artists-make-less-than-1000-usd-per-year-survey-shows/
 2026-10-02T12:38:00+00:00	A beginning https://zwaluw.bearblog.dev/a-beginning/
@@ -19,7 +18,8 @@
 2026-10-02T19:20:00+00:00	Looking for a penpal https://theishything.bearblog.dev/looking-for-a-penpal/
 2026-10-02T22:25:00+00:00	Witchcraft https://elmc.at/witchcraft/
 2026-10-02T23:38:00+00:00	I miss human "trash" https://writer-point.com/i-miss-human-trash/
+2026-10-03T00:38:00+00:00	my ugly thoughts and feelings https://sugarforbrains.bearblog.dev/my-ugly-thoughts-and-feelings/
 2026-10-03T02:05:00+00:00	3 Months Watching Pancreatic Cancer https://jazmck.bearblog.dev/3monthswatchingpancreaticcancer/
 2026-10-03T14:56:16.052560+00:00	this is a love letter to my paper planner https://thebirdhouse.bearblog.dev/this-is-a-love-letter-to-my-paper-planner-new/
-2026-10-03T15:36:00+00:00	Let’s Play Grok?! 2e Part 1: Overview and Character Creation https://thelonebard.com/lets-play-grok-2e-part-1/
 2026-10-03T17:52:00+00:00	I don't want or need AI, ya, I'm Good https://yaimgood.bearblog.dev/i-dont-want-or-need-ai-ya-im-good/
+2026-10-03T18:30:30.951620+00:00	A few life updates https://folkmoss.bearblog.dev/a-few-life-updates/
