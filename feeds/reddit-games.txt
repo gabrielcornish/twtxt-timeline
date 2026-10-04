@@ -10,7 +10,6 @@
 2026-10-03T16:20:55+00:00	Activision And Bethesda Crackdown On GenAI MW2 And Fallout Projects https://www.reddit.com/r/Games/comments/1wwr92p/activision_and_bethesda_crackdown_on_genai_mw2/
 2026-10-03T16:43:31+00:00	Final Fantasy 7 Revelation director fought for a disc release because he "really likes" physical media https://www.reddit.com/r/Games/comments/1wwrrt2/final_fantasy_7_revelation_director_fought_for_a/
 2026-10-03T19:22:37+00:00	RuneScape Reignited | Reveal Trailer https://www.reddit.com/r/Games/comments/1wwvl5k/runescape_reignited_reveal_trailer/
-2026-10-03T19:51:45+00:00	Persona 4 Revival - Shadow Trailer https://www.reddit.com/r/Games/comments/1wwwa12/persona_4_revival_shadow_trailer/
 2026-10-03T20:06:07+00:00	RuneScape - Official 4th MMO Teaser Trailer https://www.reddit.com/r/Games/comments/1wwwmky/runescape_official_4th_mmo_teaser_trailer/
 2026-10-03T20:34:34+00:00	Gears of War: E-Day Devs 'Proud to Be One of Xbox's Main Titles' Amid Newfound Focus on Exclusivity https://www.reddit.com/r/Games/comments/1wwxaja/gears_of_war_eday_devs_proud_to_be_one_of_xboxs/
 2026-10-03T20:37:58+00:00	What's the most "out of place" difficulty you've seen in a game? https://www.reddit.com/r/Games/comments/1wwxdd1/whats_the_most_out_of_place_difficulty_youve_seen/
@@ -18,13 +17,14 @@
 2026-10-03T21:58:05+00:00	Final Fantasy Resonance's Combat Was An 'Experiment' To Combine FF5's Job System with FF6's Unique Characters https://www.reddit.com/r/Games/comments/1wwz5s6/final_fantasy_resonances_combat_was_an_experiment/
 2026-10-03T22:07:04+00:00	Suikoden I&II HD, Suikoden III, Suikoden IV, and Suikoden V soundtracks are now on Apple Music and Spotify https://www.reddit.com/r/Games/comments/1wwzcx4/suikoden_iii_hd_suikoden_iii_suikoden_iv_and/
 2026-10-04T04:00:41+00:00	Indie Sunday Hub - October 4, 2026 https://www.reddit.com/r/Games/comments/1wx64zf/indie_sunday_hub_october_4_2026/
-2026-10-04T04:33:38+00:00	MANIFEST - hard sci-fi space logistics https://www.reddit.com/r/Games/comments/1wx6pqj/manifest_hard_scifi_space_logistics/
-2026-10-04T07:39:10+00:00	Star Vortex - Zorg - Spaceship Building Action RPG https://www.reddit.com/r/Games/comments/1wx9s2v/star_vortex_zorg_spaceship_building_action_rpg/
 2026-10-04T07:49:50+00:00	Crown Me Again - The Code Otter - Diablo-style loot and build-crafting in a compact incremental RPG https://www.reddit.com/r/Games/comments/1wx9y5b/crown_me_again_the_code_otter_diablostyle_loot/
 2026-10-04T09:00:28+00:00	Weekly /r/Games Discussion - What have you been playing, and what are your thoughts? - October 04, 2026 https://www.reddit.com/r/Games/comments/1wxb1q8/weekly_rgames_discussion_what_have_you_been/
 2026-10-04T09:00:36+00:00	BOLLWERK - Bollwerk Games - A tower defense game with 100,000 physically simulated units https://www.reddit.com/r/Games/comments/1wxb1tz/bollwerk_bollwerk_games_a_tower_defense_game_with/
-2026-10-04T09:10:18+00:00	Sort My Pigs - Chubby Horse Games - A cute tidy up game https://www.reddit.com/r/Games/comments/1wxb7dc/sort_my_pigs_chubby_horse_games_a_cute_tidy_up/
 2026-10-04T11:05:35+00:00	WalkScape - Not A Cult - I'm developing a MMO inspired by RuneScape where you progress by walking in real life. Trading is releasing next week! https://www.reddit.com/r/Games/comments/1wxd1c0/walkscape_not_a_cult_im_developing_a_mmo_inspired/
-2026-10-04T11:31:26+00:00	DEEPWARD - ECHOFALL GAMES - A 1920s gothic FPS where you switch characters instead of just weapons, even in the middle of a fight https://www.reddit.com/r/Games/comments/1wxdgtb/deepward_echofall_games_a_1920s_gothic_fps_where/
-2026-10-04T12:06:02+00:00	Dude, Trust Me - Sefik Studios - A 3-player co-op puzzle game where each player loses sight, hearing, or speech https://www.reddit.com/r/Games/comments/1wxe3fu/dude_trust_me_sefik_studios_a_3player_coop_puzzle/
 2026-10-04T12:12:42+00:00	Miniopolis - Radiangames - minimal city builder (realistic Townscaper) https://www.reddit.com/r/Games/comments/1wxe7y8/miniopolis_radiangames_minimal_city_builder/
+2026-10-04T13:19:13+00:00	Category Connections - TrampolineTales - A chill puzzle game where you sort 3,000 things into 100 categories https://www.reddit.com/r/Games/comments/1wxfios/category_connections_trampolinetales_a_chill/
+2026-10-04T13:55:54+00:00	PlatinumGames boss hints he wants to expand Bayonetta as Stellar Blade director calls the series "indispensable" https://www.reddit.com/r/Games/comments/1wxgagx/platinumgames_boss_hints_he_wants_to_expand/
+2026-10-04T14:01:03+00:00	Ace Combat 8 Secretly Has the Best Video Game Music of the Year https://www.reddit.com/r/Games/comments/1wxgeya/ace_combat_8_secretly_has_the_best_video_game/
+2026-10-04T15:26:21+00:00	Clackpot - webholt - Roguelike pool game where your build changes the physics https://www.reddit.com/r/Games/comments/1wxidd8/clackpot_webholt_roguelike_pool_game_where_your/
+2026-10-04T15:38:16+00:00	The Zibbo Show - Tessera Studios - Roguelike dice deck builder set on a retro sci-fi TV game show https://www.reddit.com/r/Games/comments/1wxink0/the_zibbo_show_tessera_studios_roguelike_dice/
+2026-10-04T16:14:14+00:00	Call of Duty: Modern Warfare 4 | DMZ Worldbuilder Trailer https://www.reddit.com/r/Games/comments/1wxjikx/call_of_duty_modern_warfare_4_dmz_worldbuilder/
