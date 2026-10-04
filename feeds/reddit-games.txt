@@ -3,7 +3,6 @@
 # source = https://www.reddit.com/r/Games.rss
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
-2026-10-03T05:00:47+00:00	Memory executives expect RAM shortage to continue through 2028 https://www.reddit.com/r/Games/comments/1wwenqz/memory_executives_expect_ram_shortage_to_continue/
 2026-10-03T11:45:20+00:00	"We felt that fans were getting a bit desensitised to the violence" Gears of War: E-Day devs made a "big investment" in gore, and weirdly, it works https://www.reddit.com/r/Games/comments/1wwl8cn/we_felt_that_fans_were_getting_a_bit_desensitised/
 2026-10-03T12:38:12+00:00	Warlock: Dungeons & Dragons developers hope to set aside the Baldur's Gate 3 comparisons and build their own kind of open world https://www.reddit.com/r/Games/comments/1wwm8p2/warlock_dungeons_dragons_developers_hope_to_set/
 2026-10-03T13:41:04+00:00	ZERO PARADES: Director's Cut - PC Launch Trailer https://www.reddit.com/r/Games/comments/1wwnjz4/zero_parades_directors_cut_pc_launch_trailer/
@@ -19,12 +18,13 @@
 2026-10-04T04:00:41+00:00	Indie Sunday Hub - October 4, 2026 https://www.reddit.com/r/Games/comments/1wx64zf/indie_sunday_hub_october_4_2026/
 2026-10-04T07:49:50+00:00	Crown Me Again - The Code Otter - Diablo-style loot and build-crafting in a compact incremental RPG https://www.reddit.com/r/Games/comments/1wx9y5b/crown_me_again_the_code_otter_diablostyle_loot/
 2026-10-04T09:00:28+00:00	Weekly /r/Games Discussion - What have you been playing, and what are your thoughts? - October 04, 2026 https://www.reddit.com/r/Games/comments/1wxb1q8/weekly_rgames_discussion_what_have_you_been/
-2026-10-04T09:00:36+00:00	BOLLWERK - Bollwerk Games - A tower defense game with 100,000 physically simulated units https://www.reddit.com/r/Games/comments/1wxb1tz/bollwerk_bollwerk_games_a_tower_defense_game_with/
 2026-10-04T11:05:35+00:00	WalkScape - Not A Cult - I'm developing a MMO inspired by RuneScape where you progress by walking in real life. Trading is releasing next week! https://www.reddit.com/r/Games/comments/1wxd1c0/walkscape_not_a_cult_im_developing_a_mmo_inspired/
-2026-10-04T12:12:42+00:00	Miniopolis - Radiangames - minimal city builder (realistic Townscaper) https://www.reddit.com/r/Games/comments/1wxe7y8/miniopolis_radiangames_minimal_city_builder/
 2026-10-04T13:19:13+00:00	Category Connections - TrampolineTales - A chill puzzle game where you sort 3,000 things into 100 categories https://www.reddit.com/r/Games/comments/1wxfios/category_connections_trampolinetales_a_chill/
 2026-10-04T13:55:54+00:00	PlatinumGames boss hints he wants to expand Bayonetta as Stellar Blade director calls the series "indispensable" https://www.reddit.com/r/Games/comments/1wxgagx/platinumgames_boss_hints_he_wants_to_expand/
 2026-10-04T14:01:03+00:00	Ace Combat 8 Secretly Has the Best Video Game Music of the Year https://www.reddit.com/r/Games/comments/1wxgeya/ace_combat_8_secretly_has_the_best_video_game/
 2026-10-04T15:26:21+00:00	Clackpot - webholt - Roguelike pool game where your build changes the physics https://www.reddit.com/r/Games/comments/1wxidd8/clackpot_webholt_roguelike_pool_game_where_your/
-2026-10-04T15:38:16+00:00	The Zibbo Show - Tessera Studios - Roguelike dice deck builder set on a retro sci-fi TV game show https://www.reddit.com/r/Games/comments/1wxink0/the_zibbo_show_tessera_studios_roguelike_dice/
 2026-10-04T16:14:14+00:00	Call of Duty: Modern Warfare 4 | DMZ Worldbuilder Trailer https://www.reddit.com/r/Games/comments/1wxjikx/call_of_duty_modern_warfare_4_dmz_worldbuilder/
+2026-10-04T18:02:54+00:00	Dicevaders - Pengonauts - Just launched our dice roguelike set in the same universe as StarVaders! https://www.reddit.com/r/Games/comments/1wxm5ih/dicevaders_pengonauts_just_launched_our_dice/
+2026-10-04T19:57:43+00:00	What Blaseball Understood About Death https://www.reddit.com/r/Games/comments/1wxoz1o/what_blaseball_understood_about_death/
+2026-10-04T21:21:40+00:00	Next Level Destruction Showcased by Embark Studios Coming to Their Season 12 Update for Their F2P Multiplayer Shooter - The Finals https://www.reddit.com/r/Games/comments/1wxqyvz/next_level_destruction_showcased_by_embark/
+2026-10-04T21:23:43+00:00	Steam removing their tab showing their current games on sales is bad. https://www.reddit.com/r/Games/comments/1wxr0o3/steam_removing_their_tab_showing_their_current/
