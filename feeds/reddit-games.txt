@@ -4,12 +4,7 @@
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
 2026-09-30T11:00:46+00:00	Daily /r/Games Discussion - Suggest Me a Game - September 30, 2026 https://www.reddit.com/r/Games/comments/1wu1xix/daily_rgames_discussion_suggest_me_a_game/
-2026-10-02T10:00:30+00:00	Daily /r/Games Discussion - Free Talk Friday - October 02, 2026 https://www.reddit.com/r/Games/comments/1wvptzp/daily_rgames_discussion_free_talk_friday_october/
-2026-10-02T12:10:39+00:00	Star Wars: Galactic Racer Review Thread https://www.reddit.com/r/Games/comments/1wvs5ml/star_wars_galactic_racer_review_thread/
-2026-10-02T17:48:50+00:00	The War in Chiapas | Context Trailer | Mexican Entertainment System 2026 https://www.reddit.com/r/Games/comments/1ww0a8h/the_war_in_chiapas_context_trailer_mexican/
 2026-10-02T17:53:55+00:00	GTA 6 PEGI Age Rating Reveals Mentions of 'Decapitation' and Cocaine That Can Be 'Snorted' at 'Any Time' https://www.reddit.com/r/Games/comments/1ww0f21/gta_6_pegi_age_rating_reveals_mentions_of/
-2026-10-02T18:54:54+00:00	Poker Night at the Inventory - Four new tables, Stank Mode, and a Dangeresque bundle (Update 1.5.0) https://www.reddit.com/r/Games/comments/1ww1z83/poker_night_at_the_inventory_four_new_tables/
-2026-10-02T21:00:35+00:00	Listen up, Crumbums! Your King is here https://www.reddit.com/r/Games/comments/1ww532d/listen_up_crumbums_your_king_is_here/
 2026-10-02T21:28:59+00:00	2XKO would have needed a monthly active userbase "in the high hundreds of thousands, if not millions" to succeed https://www.reddit.com/r/Games/comments/1ww5rdr/2xko_would_have_needed_a_monthly_active_userbase/
 2026-10-03T02:27:33+00:00	‘A Future Where We Create Games Together With AI’ — Capcom Announces Plans to Transform the RE Engine Into an AI-Generation Game Engine https://www.reddit.com/r/Games/comments/1wwbw6e/a_future_where_we_create_games_together_with_ai/
 2026-10-03T05:00:47+00:00	Memory executives expect RAM shortage to continue through 2028 https://www.reddit.com/r/Games/comments/1wwenqz/memory_executives_expect_ram_shortage_to_continue/
@@ -28,3 +23,8 @@
 2026-10-03T21:32:02+00:00	[Digital Foundry] The Witcher 3 Remastered - Switch 2 Tech Review - A Colossal Upgrade over Switch 1 https://www.reddit.com/r/Games/comments/1wwyljd/digital_foundry_the_witcher_3_remastered_switch_2/
 2026-10-03T21:58:05+00:00	Final Fantasy Resonance's Combat Was An 'Experiment' To Combine FF5's Job System with FF6's Unique Characters https://www.reddit.com/r/Games/comments/1wwz5s6/final_fantasy_resonances_combat_was_an_experiment/
 2026-10-03T22:07:04+00:00	Suikoden I&II HD, Suikoden III, Suikoden IV, and Suikoden V soundtracks are now on Apple Music and Spotify https://www.reddit.com/r/Games/comments/1wwzcx4/suikoden_iii_hd_suikoden_iii_suikoden_iv_and/
+2026-10-04T04:00:41+00:00	Indie Sunday Hub - October 4, 2026 https://www.reddit.com/r/Games/comments/1wx64zf/indie_sunday_hub_october_4_2026/
+2026-10-04T04:10:36+00:00	MineEmAll - James Castle - Mining incremental game with reverse block puzzle + Tetris style mining https://www.reddit.com/r/Games/comments/1wx6bfc/mineemall_james_castle_mining_incremental_game/
+2026-10-04T04:33:38+00:00	MANIFEST - hard sci-fi space logistics https://www.reddit.com/r/Games/comments/1wx6pqj/manifest_hard_scifi_space_logistics/
+2026-10-04T05:27:17+00:00	Spinful - Old Deer Games - a Roguelite Slot-builder. Upgrade, enhance and customize your slots into a powerful combat machine! https://www.reddit.com/r/Games/comments/1wx7mwt/spinful_old_deer_games_a_roguelite_slotbuilder/
+2026-10-04T06:43:49+00:00	Horde of Distraction - Static Feed - A Diablo-inspired incremental game https://www.reddit.com/r/Games/comments/1wx8vm4/horde_of_distraction_static_feed_a_diabloinspired/
