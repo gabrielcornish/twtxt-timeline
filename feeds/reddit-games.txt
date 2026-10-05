@@ -3,28 +3,28 @@
 # source = https://www.reddit.com/r/Games.rss
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
-2026-10-03T11:45:20+00:00	"We felt that fans were getting a bit desensitised to the violence" Gears of War: E-Day devs made a "big investment" in gore, and weirdly, it works https://www.reddit.com/r/Games/comments/1wwl8cn/we_felt_that_fans_were_getting_a_bit_desensitised/
-2026-10-03T13:41:04+00:00	ZERO PARADES: Director's Cut - PC Launch Trailer https://www.reddit.com/r/Games/comments/1wwnjz4/zero_parades_directors_cut_pc_launch_trailer/
-2026-10-03T16:20:55+00:00	Activision And Bethesda Crackdown On GenAI MW2 And Fallout Projects https://www.reddit.com/r/Games/comments/1wwr92p/activision_and_bethesda_crackdown_on_genai_mw2/
-2026-10-03T16:43:31+00:00	Final Fantasy 7 Revelation director fought for a disc release because he "really likes" physical media https://www.reddit.com/r/Games/comments/1wwrrt2/final_fantasy_7_revelation_director_fought_for_a/
 2026-10-03T19:22:37+00:00	RuneScape Reignited | Reveal Trailer https://www.reddit.com/r/Games/comments/1wwvl5k/runescape_reignited_reveal_trailer/
 2026-10-03T20:06:07+00:00	RuneScape - Official 4th MMO Teaser Trailer https://www.reddit.com/r/Games/comments/1wwwmky/runescape_official_4th_mmo_teaser_trailer/
-2026-10-03T20:34:34+00:00	Gears of War: E-Day Devs 'Proud to Be One of Xbox's Main Titles' Amid Newfound Focus on Exclusivity https://www.reddit.com/r/Games/comments/1wwxaja/gears_of_war_eday_devs_proud_to_be_one_of_xboxs/
 2026-10-03T20:37:58+00:00	What's the most "out of place" difficulty you've seen in a game? https://www.reddit.com/r/Games/comments/1wwxdd1/whats_the_most_out_of_place_difficulty_youve_seen/
-2026-10-03T21:32:02+00:00	[Digital Foundry] The Witcher 3 Remastered - Switch 2 Tech Review - A Colossal Upgrade over Switch 1 https://www.reddit.com/r/Games/comments/1wwyljd/digital_foundry_the_witcher_3_remastered_switch_2/
 2026-10-03T21:58:05+00:00	Final Fantasy Resonance's Combat Was An 'Experiment' To Combine FF5's Job System with FF6's Unique Characters https://www.reddit.com/r/Games/comments/1wwz5s6/final_fantasy_resonances_combat_was_an_experiment/
-2026-10-03T22:07:04+00:00	Suikoden I&II HD, Suikoden III, Suikoden IV, and Suikoden V soundtracks are now on Apple Music and Spotify https://www.reddit.com/r/Games/comments/1wwzcx4/suikoden_iii_hd_suikoden_iii_suikoden_iv_and/
-2026-10-04T07:49:50+00:00	Crown Me Again - The Code Otter - Diablo-style loot and build-crafting in a compact incremental RPG https://www.reddit.com/r/Games/comments/1wx9y5b/crown_me_again_the_code_otter_diablostyle_loot/
 2026-10-04T09:00:28+00:00	Weekly /r/Games Discussion - What have you been playing, and what are your thoughts? - October 04, 2026 https://www.reddit.com/r/Games/comments/1wxb1q8/weekly_rgames_discussion_what_have_you_been/
 2026-10-04T11:05:35+00:00	WalkScape - Not A Cult - I'm developing a MMO inspired by RuneScape where you progress by walking in real life. Trading is releasing next week! https://www.reddit.com/r/Games/comments/1wxd1c0/walkscape_not_a_cult_im_developing_a_mmo_inspired/
 2026-10-04T13:19:13+00:00	Category Connections - TrampolineTales - A chill puzzle game where you sort 3,000 things into 100 categories https://www.reddit.com/r/Games/comments/1wxfios/category_connections_trampolinetales_a_chill/
 2026-10-04T13:55:54+00:00	PlatinumGames boss hints he wants to expand Bayonetta as Stellar Blade director calls the series "indispensable" https://www.reddit.com/r/Games/comments/1wxgagx/platinumgames_boss_hints_he_wants_to_expand/
 2026-10-04T14:01:03+00:00	Ace Combat 8 Secretly Has the Best Video Game Music of the Year https://www.reddit.com/r/Games/comments/1wxgeya/ace_combat_8_secretly_has_the_best_video_game/
-2026-10-04T15:49:36+00:00	End of End - Squidboat - A modern take on the classic roguelite dungeon crawler https://www.reddit.com/r/Games/comments/1wxix5x/end_of_end_squidboat_a_modern_take_on_the_classic/
 2026-10-04T16:14:14+00:00	Call of Duty: Modern Warfare 4 | DMZ Worldbuilder Trailer https://www.reddit.com/r/Games/comments/1wxjikx/call_of_duty_modern_warfare_4_dmz_worldbuilder/
 2026-10-04T18:02:54+00:00	Dicevaders - Pengonauts - Just launched our dice roguelike set in the same universe as StarVaders! https://www.reddit.com/r/Games/comments/1wxm5ih/dicevaders_pengonauts_just_launched_our_dice/
 2026-10-04T19:57:43+00:00	What Blaseball Understood About Death https://www.reddit.com/r/Games/comments/1wxoz1o/what_blaseball_understood_about_death/
 2026-10-04T21:21:40+00:00	Next Level Destruction Showcased by Embark Studios Coming to Their Season 12 Update for Their F2P Multiplayer Shooter - The Finals https://www.reddit.com/r/Games/comments/1wxqyvz/next_level_destruction_showcased_by_embark/
-2026-10-05T00:13:56+00:00	Sandrider - GameMog - Compete with other creators to improve your take on the game (Open world game) https://www.reddit.com/r/Games/comments/1wxums5/sandrider_gamemog_compete_with_other_creators_to/
-2026-10-05T00:55:46+00:00	BOBABOMB - Two Shrimps Studio - a party game where you blow boba tea bubble at each other https://www.reddit.com/r/Games/comments/1wxvghz/bobabomb_two_shrimps_studio_a_party_game_where/
 2026-10-05T05:16:38+00:00	End Of Abyss Patch Fixes Most Of My Complaints Just One Day After Launch - Gamespot https://www.reddit.com/r/Games/comments/1wy09x0/end_of_abyss_patch_fixes_most_of_my_complaints/
+2026-10-05T09:44:06+00:00	Tonda Ros, creator of Blue Prince, has played UFO 50 for almost 700 hours: 'I think it's easily my favourite game of the last 20 years' https://www.reddit.com/r/Games/comments/1wy4dbe/tonda_ros_creator_of_blue_prince_has_played_ufo/
+2026-10-05T11:44:54+00:00	Denuvo Has Been Removed From Tomb Raider Legacy Of Atlantis 5 Months Before Launch https://www.reddit.com/r/Games/comments/1wy6etk/denuvo_has_been_removed_from_tomb_raider_legacy/
+2026-10-05T12:53:13+00:00	Shadow Hearts series creator gives update on spiritual successor Penny Blood. The studio still hasn’t secured a publisher, but has not given up on the project https://www.reddit.com/r/Games/comments/1wy7s81/shadow_hearts_series_creator_gives_update_on/
+2026-10-05T12:55:56+00:00	Cyan Heart - Official Release Date Trailer https://www.reddit.com/r/Games/comments/1wy7uaq/cyan_heart_official_release_date_trailer/
+2026-10-05T13:21:14+00:00	Hellblade studio Ninja Theory has started laying off staff, following Xbox’s announcement that it faces closure https://www.reddit.com/r/Games/comments/1wy8evi/hellblade_studio_ninja_theory_has_started_laying/
+2026-10-05T13:24:35+00:00	Dwarf Fortress: Myth & Magic – What is actually coming? https://www.reddit.com/r/Games/comments/1wy8hg7/dwarf_fortress_myth_magic_what_is_actually_coming/
+2026-10-05T14:01:52+00:00	Guns of Eschaton | Demo Out Now Gameplay Trailer | Steam, PC https://www.reddit.com/r/Games/comments/1wy9cnd/guns_of_eschaton_demo_out_now_gameplay_trailer/
+2026-10-05T15:12:15+00:00	Halloween 5: The Revenge of Michael Myers DLC Reveal | Halloween: The Game https://www.reddit.com/r/Games/comments/1wyb2r7/halloween_5_the_revenge_of_michael_myers_dlc/
+2026-10-05T15:16:08+00:00	The Music of ONYX: The Dark Grip - Working with an Icon https://www.reddit.com/r/Games/comments/1wyb6g0/the_music_of_onyx_the_dark_grip_working_with_an/
+2026-10-05T15:41:33+00:00	DMZ: Addition By Extraction - From The Ward Ep. 7 | Call of Duty: Modern Warfare 4 https://www.reddit.com/r/Games/comments/1wybtrr/dmz_addition_by_extraction_from_the_ward_ep_7/
+2026-10-05T15:49:07+00:00	Supermassive Games Layoffs Arrive With Over 70 People Let Go https://www.reddit.com/r/Games/comments/1wyc0v8/supermassive_games_layoffs_arrive_with_over_70/

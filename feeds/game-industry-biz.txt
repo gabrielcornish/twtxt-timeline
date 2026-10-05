@@ -3,11 +3,6 @@
 # source = https://www.gamesindustry.biz/feed
 # description = twtxt conversion of https://www.gamesindustry.biz/feed
 
-2026-09-23T07:57:04+00:00	Undead Labs confirms it is now an "employee-owned studio", a "significant number" of employees face layoffs https://www.gamesindustry.biz/undead-labs-confirms-it-is-now-an-employee-owned-studio
-2026-09-23T10:11:43+00:00	Discord re-launches age verification following backlash over privacy concerns https://www.gamesindustry.biz/discord-re-launches-age-verification-following-backlash-over-privacy-concerns
-2026-09-23T12:55:38+00:00	Sensor Tower: PC and PlayStation unit sales in Japan rise 13% to 21m during H1 2026, led by Resident Evil Requiem https://www.gamesindustry.biz/sensor-tower-pc-and-playstation-unit-sales-in-japan-rise-13-to-21m-during-h1-2026-led-by-resident-evil-requiem
-2026-09-23T13:00:00+00:00	New publisher PUBLSH launches with Disco Elysium-inspired title Pera Coda https://www.gamesindustry.biz/new-publisher-publsh-launches-with-disco-elysium-inspired-title-pera-coda
-2026-09-23T13:43:08+00:00	The EU KIDS Act: What game developers need to know https://www.gamesindustry.biz/the-eu-kids-act-what-game-developers-need-to-know
 2026-09-23T13:56:13+00:00	Age of Empires developer World's Edge hit with layoffs following move to Activision https://www.gamesindustry.biz/age-of-empires-developer-worlds-edge-hit-with-layoffs-following-move-to-activision
 2026-09-23T18:47:06+00:00	Bethesda boss confirms Obsidian will remain a "distinct" team https://www.gamesindustry.biz/bethesda-boss-confirms-obsidian-will-remain-a-distinct-team
 2026-09-24T07:56:51+00:00	Microsoft files patent for "ad-credit" system to show ads on PC and Xbox without disrupting gameplay https://www.gamesindustry.biz/microsoft-files-patent-for-ad-credit-system-to-show-ads-on-pc-and-xbox-without-disrupting-gameplay
@@ -53,3 +48,8 @@
 2026-10-02T14:29:12+00:00	"Quite often it's given me more to do" – Why AI might be creating more work for games companies, rather than saving time https://www.gamesindustry.biz/quite-often-its-given-me-more-to-do-why-ai-might-be-creating-more-work-for-games-companies-rather-than-saving-time
 2026-10-02T14:55:28+00:00	In pictures: the Best Places To Work Awards 2026 https://www.gamesindustry.biz/in-pictures-the-best-places-to-work-awards-2026
 2026-10-02T15:19:56+00:00	Sony's consultation on physical media: better late than never | Opinion https://www.gamesindustry.biz/sonys-consultation-on-physical-media-better-late-than-never-opinion
+2026-10-05T08:29:51+00:00	Capcom aims to enhance its propriety RE Engine with AI to accelerate efficiency in QA, debugging, and data processing https://www.gamesindustry.biz/capcom-aims-to-enhance-its-propriety-re-engine-with-ai-to-accelerate-efficiency-in-qa-debugging-and-data-processing
+2026-10-05T10:05:48+00:00	Disney president and CCO dismisses rumours of Epic Games buyout: "Those are not the conversations we are having right now" https://www.gamesindustry.biz/disney-president-and-cco-dismisses-rumours-of-epic-games-buyout-those-are-not-the-conversations-we-are-having-right-now
+2026-10-05T11:08:39+00:00	Jagex responds to use of generative AI in RuneScape trailer made by "trusted external partner" https://www.gamesindustry.biz/jagex-responds-to-use-of-generative-ai-in-runescape-trailer-made-by-trusted-external-partner
+2026-10-05T13:12:44+00:00	"It's less risky to be the masters of our own fate" – The AAA developers going indie https://www.gamesindustry.biz/its-less-risky-to-be-the-masters-of-our-own-fate-the-aaa-developers-going-indie
+2026-10-05T13:35:22+00:00	Sony introduces AI upscaling to base PS5; Marvel's Wolverine and Ghost of Yōtei are first games to implement new tech https://www.gamesindustry.biz/sony-introduces-ai-upscaling-to-base-ps5-marvels-wolverine-and-ghost-of-yotei-are-first-games-to-implement-new-tech
