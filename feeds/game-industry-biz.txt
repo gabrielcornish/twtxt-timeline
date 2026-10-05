@@ -3,9 +3,6 @@
 # source = https://www.gamesindustry.biz/feed
 # description = twtxt conversion of https://www.gamesindustry.biz/feed
 
-2026-09-23T13:56:13+00:00	Age of Empires developer World's Edge hit with layoffs following move to Activision https://www.gamesindustry.biz/age-of-empires-developer-worlds-edge-hit-with-layoffs-following-move-to-activision
-2026-09-23T18:47:06+00:00	Bethesda boss confirms Obsidian will remain a "distinct" team https://www.gamesindustry.biz/bethesda-boss-confirms-obsidian-will-remain-a-distinct-team
-2026-09-24T07:56:51+00:00	Microsoft files patent for "ad-credit" system to show ads on PC and Xbox without disrupting gameplay https://www.gamesindustry.biz/microsoft-files-patent-for-ad-credit-system-to-show-ads-on-pc-and-xbox-without-disrupting-gameplay
 2026-09-24T10:12:10+00:00	TinyBuild revenue rises 18% to $20m during H1 2026, with 85% coming from first and second-party owned IP https://www.gamesindustry.biz/tinybuild-revenue-rises-18-to-20m-during-h1-2026-with-85-coming-from-first-and-second-party-owned-ip
 2026-09-24T12:00:00+00:00	Righting old wrongs: MobyGames on letting developers claim games they weren't credited for https://www.gamesindustry.biz/righting-old-wrongs-mobygames-on-letting-developers-claim-games-they-werent-credited-for
 2026-09-24T13:48:19+00:00	Dutch consumer group files lawsuit against Epic for misleading young players on Fortnite, seeking more than €100m in compensation https://www.gamesindustry.biz/dutch-consumer-group-files-lawsuit-against-epic-for-misleading-young-players-on-fortnite-seeking-more-than-100m-in-compensation
@@ -53,3 +50,6 @@
 2026-10-05T11:08:39+00:00	Jagex responds to use of generative AI in RuneScape trailer made by "trusted external partner" https://www.gamesindustry.biz/jagex-responds-to-use-of-generative-ai-in-runescape-trailer-made-by-trusted-external-partner
 2026-10-05T13:12:44+00:00	"It's less risky to be the masters of our own fate" – The AAA developers going indie https://www.gamesindustry.biz/its-less-risky-to-be-the-masters-of-our-own-fate-the-aaa-developers-going-indie
 2026-10-05T13:35:22+00:00	Sony introduces AI upscaling to base PS5; Marvel's Wolverine and Ghost of Yōtei are first games to implement new tech https://www.gamesindustry.biz/sony-introduces-ai-upscaling-to-base-ps5-marvels-wolverine-and-ghost-of-yotei-are-first-games-to-implement-new-tech
+2026-10-05T17:15:00+00:00	Free-to-play playtime is broadly flat as gacha RPGs drive PC growth, says Newzoo https://www.gamesindustry.biz/free-to-play-playtime-is-broadly-flat-as-gacha-rpgs-drive-pc-growth-says-newzoo
+2026-10-05T17:44:03+00:00	Ninja Theory begins laying off staff, according to employee posts https://www.gamesindustry.biz/ninja-theory-begins-laying-off-staff-according-to-employee-posts
+2026-10-05T19:33:21+00:00	Arc Raiders and The Finals are getting TV series and film adaptations https://www.gamesindustry.biz/arc-raiders-and-the-finals-are-getting-tv-series-and-film-adaptations

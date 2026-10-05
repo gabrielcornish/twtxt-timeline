@@ -3,23 +3,23 @@
 # source = https://bearblog.dev/discover/feed/
 # description = twtxt conversion of https://bearblog.dev/discover/feed/
 
-2026-10-02T14:00:39.254026+00:00	Happy tears https://robertbirming.com/happy-tears/
 2026-10-03T17:52:00+00:00	I don't want or need AI, ya, I'm Good https://yaimgood.bearblog.dev/i-dont-want-or-need-ai-ya-im-good/
 2026-10-04T00:07:50.572869+00:00	First Images https://amateurastro.bearblog.dev/first-images/
-2026-10-04T02:04:00+00:00	viva indie web https://strawberrymilk.bearblog.dev/viva-indie-web/
 2026-10-04T03:59:00+00:00	Slowing down https://doodhpeda.bearblog.dev/blog/slowing-down/
-2026-10-04T13:07:00+00:00	FurAffinity Community Fundraiser https://emersonwick.page/furaffinity-community-fundraiser/
 2026-10-04T14:05:00+00:00	a night in the hospital https://dreamlogic.blog/a-night-in-the-hospital/
 2026-10-04T15:32:00+00:00	a quick blogpost about funny software licenses https://kami.bearblog.dev/a-quick-blogpost-about-funny-software-licenses/
-2026-10-04T16:24:23.558841+00:00	This is the shade of purple I turn when I'm choking https://guinevak.bearblog.dev/this-is-the-shade-of-purple-i-turn-when-im-choking/
+2026-10-04T16:24:00+00:00	This is the shade of purple I turn when I'm choking https://guinevak.bearblog.dev/this-is-the-shade-of-purple-i-turn-when-im-choking/
 2026-10-04T17:26:00+00:00	potatoes are a labor of love https://alieniloquy.bearblog.dev/potatoes-are-a-labor-of-love/
-2026-10-04T17:51:44.231382+00:00	why don’t i have friends? https://varunwrites.com/why-dont-i-have-friends/
 2026-10-04T18:54:40.485536+00:00	got a job, not struggling anymore https://skuka.online/got-a-job-not-struggling-anymore/
 2026-10-04T20:21:00+00:00	snl uk dunks on zuck https://combatdavey.net/snl-uk-dunk-zuck/
-2026-10-04T20:43:00+00:00	What being chronically online truly looks like https://weaponizer.bearblog.dev/what-being-chronically-online-truly-looks-like/
-2026-10-04T21:39:00+00:00	...with his jaw on the floor. [UPDATED] https://coreyblogs.com/with-his-jaw-on-the-floor/
-2026-10-04T23:15:00+00:00	For the joy of the game https://nisa.la/for-the-joy-of-the-game/
+2026-10-04T21:39:00+00:00	...with his jaw on the floor. https://coreyblogs.com/with-his-jaw-on-the-floor/
 2026-10-05T07:38:25.134658+00:00	Must be tough being an Educator https://skwf.bearblog.dev/must-be-tough-being-an-educator/
-2026-10-05T10:53:14.227118+00:00	Pandemia de nazifascismo https://ruadafeira.varzea.recife.br/pandemia-de-nazifascismo/
 2026-10-05T11:00:00+00:00	nice things i’ve done for myself lately https://blog.avas.space/nice-things/
 2026-10-05T14:01:22.463657+00:00	what is political? https://blog.sulimans.space/what-is-political/
+2026-10-05T14:08:00+00:00	Photo https://robertbirming.com/photo/
+2026-10-05T15:19:00+00:00	Re: Should we still share code? https://turbiegaming.bearblog.dev/re-should-we-still-share-code/
+2026-10-05T16:11:00+00:00	I entered Mystery Cave https://blog.lauramichet.com/i-entered-mystery-cave/
+2026-10-05T16:37:00+00:00	Let's make /photo pages https://robertbirming.com/make-photo-pages/
+2026-10-05T17:50:00+00:00	/Photo https://pzumk.com/photo/
+2026-10-05T19:04:00+00:00	Better the Cacodemon you know https://rants.jlopes.eu/better-the-cacodemon-you-know/
+2026-10-05T19:20:00+00:00	I'm taking a break from Reddit https://www.inomnia.me/im-taking-a-break-from-reddit/
