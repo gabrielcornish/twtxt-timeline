@@ -3,23 +3,23 @@
 # source = https://bearblog.dev/discover/feed/
 # description = twtxt conversion of https://bearblog.dev/discover/feed/
 
-2026-10-02T12:43:27.355241+00:00	How about an inalienable right to sleep? https://itsme.bearblog.dev/how-about-an-inalienable-right-to-sleep/
 2026-10-02T14:00:39.254026+00:00	Happy tears https://robertbirming.com/happy-tears/
-2026-10-02T17:21:03.009540+00:00	AI adoption is forced (ranty/rambly) https://skuka.online/ai-adoption-is-forced-rantyrambly/
 2026-10-02T22:25:00+00:00	Witchcraft https://elmc.at/witchcraft/
 2026-10-02T23:38:00+00:00	I miss human "trash" https://writer-point.com/i-miss-human-trash/
 2026-10-03T02:05:00+00:00	3 Months Watching Pancreatic Cancer https://jazmck.bearblog.dev/3monthswatchingpancreaticcancer/
 2026-10-03T14:56:16.052560+00:00	this is a love letter to my paper planner https://thebirdhouse.bearblog.dev/this-is-a-love-letter-to-my-paper-planner-new/
-2026-10-03T16:14:00+00:00	...the secret to happiness. https://coreyblogs.com/the-secret-to-happiness/
 2026-10-03T17:52:00+00:00	I don't want or need AI, ya, I'm Good https://yaimgood.bearblog.dev/i-dont-want-or-need-ai-ya-im-good/
-2026-10-03T18:30:30.951620+00:00	A few life updates https://folkmoss.bearblog.dev/a-few-life-updates/
 2026-10-04T00:07:50.572869+00:00	First Images https://amateurastro.bearblog.dev/first-images/
 2026-10-04T00:20:00+00:00	New (to me) music https://constance.bearblog.dev/new-to-me-music/
 2026-10-04T02:04:00+00:00	viva indie web https://strawberrymilk.bearblog.dev/viva-indie-web/
-2026-10-04T02:08:00+00:00	We visited Lanesboro, Minnesota https://blog.lauramichet.com/we-visited-lanesboro-minnesota/
 2026-10-04T03:57:00+00:00	anti scrolling part 2 https://icyti.me/anti-scrolling-2/
 2026-10-04T03:59:00+00:00	Slowing down https://doodhpeda.bearblog.dev/blog/slowing-down/
 2026-10-04T12:35:19.355509+00:00	October https://mirroredworld.bearblog.dev/october/
 2026-10-04T13:07:00+00:00	FurAffinity Community Fundraiser https://emersonwick.page/furaffinity-community-fundraiser/
 2026-10-04T14:05:00+00:00	a night in the hospital https://dreamlogic.blog/a-night-in-the-hospital/
+2026-10-04T15:32:00+00:00	a quick blogpost about funny software licenses https://kami.bearblog.dev/a-quick-blogpost-about-funny-software-licenses/
+2026-10-04T16:24:23.558841+00:00	This is the shade of purple I turn when I'm choking https://guinevak.bearblog.dev/this-is-the-shade-of-purple-i-turn-when-im-choking/
 2026-10-04T16:35:00+00:00	Pick your perdition - Anthropic's throwing dice like Pascal on his deathbed https://angrybunnyman.com/pick-your-perdition-anthropics-throwing-dice-like-pascal-on-his-deathbed/
+2026-10-04T17:26:00+00:00	potatoes are a labor of love https://alieniloquy.bearblog.dev/potatoes-are-a-labor-of-love/
+2026-10-04T18:54:40.485536+00:00	got a job, not struggling anymore https://skuka.online/got-a-job-not-struggling-anymore/
+2026-10-04T20:21:00+00:00	snl uk dunks on zuck https://combatdavey.net/snl-uk-dunk-zuck/
