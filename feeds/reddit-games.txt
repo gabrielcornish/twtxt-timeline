@@ -4,11 +4,7 @@
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
 2026-10-04T09:00:28+00:00	Weekly /r/Games Discussion - What have you been playing, and what are your thoughts? - October 04, 2026 https://www.reddit.com/r/Games/comments/1wxb1q8/weekly_rgames_discussion_what_have_you_been/
-2026-10-05T13:21:14+00:00	Hellblade studio Ninja Theory has started laying off staff, following Xbox’s announcement that it faces closure https://www.reddit.com/r/Games/comments/1wy8evi/hellblade_studio_ninja_theory_has_started_laying/
-2026-10-05T15:49:07+00:00	Supermassive Games Layoffs Arrive With Over 70 People Let Go https://www.reddit.com/r/Games/comments/1wyc0v8/supermassive_games_layoffs_arrive_with_over_70/
 2026-10-05T16:06:37+00:00	NBA 2K25 Is Getting Delisted After Just 2 Years, and Single Player Story Mode Will Become Unplayable https://www.reddit.com/r/Games/comments/1wychzs/nba_2k25_is_getting_delisted_after_just_2_years/
-2026-10-05T18:04:29+00:00	World of Warcraft: Forever Class Highlights https://www.reddit.com/r/Games/comments/1wyfljp/world_of_warcraft_forever_class_highlights/
-2026-10-05T23:04:33+00:00	Insider Gaming: Watch Dogs: Legion ‘Director’s Cut’ Planned For First Half of 2027 https://www.reddit.com/r/Games/comments/1wyn27k/insider_gaming_watch_dogs_legion_directors_cut/
 2026-10-06T07:15:42+00:00	Capcom Said ‘AI’ and the Headline Did the Rest https://www.reddit.com/r/Games/comments/1wyw7i7/capcom_said_ai_and_the_headline_did_the_rest/
 2026-10-06T08:06:13+00:00	Fallen London is where the writers of Baldur's Gate 3, Dishonored and Stellaris come to let their hair down https://www.reddit.com/r/Games/comments/1wywy91/fallen_london_is_where_the_writers_of_baldurs/
 2026-10-06T13:10:38+00:00	Silver Pines Review Thread https://www.reddit.com/r/Games/comments/1wz27os/silver_pines_review_thread/
@@ -22,9 +18,13 @@
 2026-10-06T15:25:26+00:00	Capcom's Monster Hunter Rise Surpasses 20 Million Copies Sold. https://www.reddit.com/r/Games/comments/1wz5gnl/capcoms_monster_hunter_rise_surpasses_20_million/
 2026-10-06T15:37:54+00:00	Nolan North says he’s ‘110%’ up for playing Nathan Drake in a new Uncharted game, ‘if Sony wants to make money’ https://www.reddit.com/r/Games/comments/1wz5s8m/nolan_north_says_hes_110_up_for_playing_nathan/
 2026-10-06T15:42:22+00:00	At Fate's End - Gameplay Trailer (ESRB) https://www.reddit.com/r/Games/comments/1wz5w6n/at_fates_end_gameplay_trailer_esrb/
-2026-10-06T15:43:11+00:00	At Fate's End new release window and Steam demo out now! https://www.reddit.com/r/Games/comments/1wz5wwa/at_fates_end_new_release_window_and_steam_demo/
 2026-10-06T16:07:15+00:00	Frozen Trail Trailer | ARC Raiders (Play for Free Oct 8-12) https://www.reddit.com/r/Games/comments/1wz6j1w/frozen_trail_trailer_arc_raiders_play_for_free/
 2026-10-06T16:29:57+00:00	Dragon's Dogma 2 Update: added features to support the Dragon's Dogma 2: Dark Arisen Expansion DLC, added hard mode, added a feature that allows players to carry over current saved data and start the game over from the beginning, Other Adjustments, Bug Fixes https://www.reddit.com/r/Games/comments/1wz73x7/dragons_dogma_2_update_added_features_to_support/
 2026-10-06T16:33:43+00:00	Marathon: Nightfall Refresh and Symbiosis Roadmap https://www.reddit.com/r/Games/comments/1wz77gn/marathon_nightfall_refresh_and_symbiosis_roadmap/
-2026-10-06T16:40:10+00:00	Record of Dorathia (Announcement blog post of new game from rdein/Bombservice, creator of Momodora) https://www.reddit.com/r/Games/comments/1wz7ded/record_of_dorathia_announcement_blog_post_of_new/
 2026-10-06T17:00:28+00:00	Humble Choice October 2026 - Like a Dragon: Pirate Yakuza in Hawaii, Prince of Persia: The Lost Crown, Psychonauts 2 and more https://www.reddit.com/r/Games/comments/1wz7wrx/humble_choice_october_2026_like_a_dragon_pirate/
+2026-10-06T17:14:39+00:00	Dungeons & Dragons and Studio X Join United Wizards of the Coast - CWA https://www.reddit.com/r/Games/comments/1wz8a6w/dungeons_dragons_and_studio_x_join_united_wizards/
+2026-10-06T17:28:02+00:00	Rivals II Workshop is Out! | Fireside Update https://www.reddit.com/r/Games/comments/1wz8mnq/rivals_ii_workshop_is_out_fireside_update/
+2026-10-06T18:06:08+00:00	Witcher 3 Remastered - CD Projekt Red outlines which fixes are coming next, but there's still division about the changes. https://www.reddit.com/r/Games/comments/1wz9mm0/witcher_3_remastered_cd_projekt_red_outlines/
+2026-10-06T18:43:28+00:00	Modern Warships Dev Causes Actual Art Storm After Plagiarizing Ship Design https://www.reddit.com/r/Games/comments/1wzamgc/modern_warships_dev_causes_actual_art_storm_after/
+2026-10-06T21:01:07+00:00	Mind the Birds! - Baba joins the fight (New Deadlock hero) https://www.reddit.com/r/Games/comments/1wze6ab/mind_the_birds_baba_joins_the_fight_new_deadlock/
+2026-10-06T21:22:13+00:00	Digital Foundry: Star Wars: Galactic Racer - A Top-Flight Arcade Racing Game with Incredible Graphics Tech https://www.reddit.com/r/Games/comments/1wzepb9/digital_foundry_star_wars_galactic_racer_a/

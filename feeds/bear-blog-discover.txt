@@ -7,12 +7,9 @@
 2026-10-04T14:05:00+00:00	a night in the hospital https://dreamlogic.blog/a-night-in-the-hospital/
 2026-10-04T15:32:00+00:00	a quick blogpost about funny software licenses https://kami.bearblog.dev/a-quick-blogpost-about-funny-software-licenses/
 2026-10-04T18:54:40.485536+00:00	got a job, not struggling anymore https://skuka.online/got-a-job-not-struggling-anymore/
-2026-10-04T20:21:00+00:00	snl uk dunks on zuck https://combatdavey.net/snl-uk-dunk-zuck/
-2026-10-05T07:38:25.134658+00:00	Must be tough being an Educator https://skwf.bearblog.dev/must-be-tough-being-an-educator/
 2026-10-05T11:00:00+00:00	nice things i’ve done for myself lately https://blog.avas.space/nice-things/
 2026-10-05T14:01:22.463657+00:00	what is political? https://blog.sulimans.space/what-is-political/
 2026-10-05T14:08:00+00:00	Photo https://robertbirming.com/photo/
-2026-10-05T15:19:00+00:00	Re: Should we still share code? https://turbiegaming.bearblog.dev/re-should-we-still-share-code/
 2026-10-05T16:11:00+00:00	I entered Mystery Cave https://blog.lauramichet.com/i-entered-mystery-cave/
 2026-10-05T16:37:00+00:00	Let's make /photo pages https://robertbirming.com/make-photo-pages/
 2026-10-05T17:38:00+00:00	The Open Source Revolution Begins! https://osr.bearblog.dev/the-open-source-revolution-begins/
@@ -23,3 +20,6 @@
 2026-10-05T22:56:00+00:00	É assim que se mata um Brainrot? https://heyimbriel.bearblog.dev/e-assim-que-se-mata-um-brainrot/
 2026-10-06T03:00:00+00:00	Forty Three Years of Questionable Decisions https://blog.curiousquail.com/forty-three-years-of-questionable-decisions/
 2026-10-06T12:57:12.469242+00:00	Woman Yells at Code https://womanyellsat.cloud/woman-yells-at-code/
+2026-10-06T15:26:49.698744+00:00	how do you make new friends? https://midnight.bearblog.dev/how-do-you-make-new-friends/
+2026-10-06T16:55:41.530089+00:00	My Slightly Offline EDC https://heyhowdy.blog/my-slightly-offline-edc/
+2026-10-06T18:28:00+00:00	why i like (over)working https://skuka.online/why-i-like-overworking/
