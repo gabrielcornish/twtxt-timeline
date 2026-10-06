@@ -3,7 +3,6 @@
 # source = https://bearblog.dev/discover/feed/
 # description = twtxt conversion of https://bearblog.dev/discover/feed/
 
-2026-10-04T00:07:50.572869+00:00	First Images https://amateurastro.bearblog.dev/first-images/
 2026-10-04T03:59:00+00:00	Slowing down https://doodhpeda.bearblog.dev/blog/slowing-down/
 2026-10-04T14:05:00+00:00	a night in the hospital https://dreamlogic.blog/a-night-in-the-hospital/
 2026-10-04T15:32:00+00:00	a quick blogpost about funny software licenses https://kami.bearblog.dev/a-quick-blogpost-about-funny-software-licenses/
@@ -22,4 +21,5 @@
 2026-10-05T19:20:00+00:00	I'm taking a break from Reddit https://www.inomnia.me/im-taking-a-break-from-reddit/
 2026-10-05T22:17:22.173654+00:00	A Roll-to-Move Monster Hunting Engine https://tbr.bearblog.dev/a-roll-to-move-monster-hunting-engine/
 2026-10-05T22:56:00+00:00	É assim que se mata um Brainrot? https://heyimbriel.bearblog.dev/e-assim-que-se-mata-um-brainrot/
-2026-10-05T23:04:00+00:00	Photo! https://sentfrom.me/photo/
+2026-10-06T03:00:00+00:00	Forty Three Years of Questionable Decisions https://blog.curiousquail.com/forty-three-years-of-questionable-decisions/
+2026-10-06T12:57:12.469242+00:00	Woman Yells at Code https://womanyellsat.cloud/woman-yells-at-code/

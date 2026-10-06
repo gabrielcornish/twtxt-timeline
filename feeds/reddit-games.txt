@@ -4,27 +4,27 @@
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
 2026-10-04T09:00:28+00:00	Weekly /r/Games Discussion - What have you been playing, and what are your thoughts? - October 04, 2026 https://www.reddit.com/r/Games/comments/1wxb1q8/weekly_rgames_discussion_what_have_you_been/
-2026-10-04T14:01:03+00:00	Ace Combat 8 Secretly Has the Best Video Game Music of the Year https://www.reddit.com/r/Games/comments/1wxgeya/ace_combat_8_secretly_has_the_best_video_game/
-2026-10-04T18:02:54+00:00	Dicevaders - Pengonauts - Just launched our dice roguelike set in the same universe as StarVaders! https://www.reddit.com/r/Games/comments/1wxm5ih/dicevaders_pengonauts_just_launched_our_dice/
-2026-10-04T21:21:40+00:00	Next Level Destruction Showcased by Embark Studios Coming to Their Season 12 Update for Their F2P Multiplayer Shooter - The Finals https://www.reddit.com/r/Games/comments/1wxqyvz/next_level_destruction_showcased_by_embark/
-2026-10-05T05:16:38+00:00	End Of Abyss Patch Fixes Most Of My Complaints Just One Day After Launch - Gamespot https://www.reddit.com/r/Games/comments/1wy09x0/end_of_abyss_patch_fixes_most_of_my_complaints/
-2026-10-05T09:44:06+00:00	Tonda Ros, creator of Blue Prince, has played UFO 50 for almost 700 hours: 'I think it's easily my favourite game of the last 20 years' https://www.reddit.com/r/Games/comments/1wy4dbe/tonda_ros_creator_of_blue_prince_has_played_ufo/
-2026-10-05T11:44:54+00:00	Denuvo Has Been Removed From Tomb Raider Legacy Of Atlantis 5 Months Before Launch https://www.reddit.com/r/Games/comments/1wy6etk/denuvo_has_been_removed_from_tomb_raider_legacy/
-2026-10-05T12:53:13+00:00	Shadow Hearts series creator gives update on spiritual successor Penny Blood. The studio still hasn’t secured a publisher, but has not given up on the project https://www.reddit.com/r/Games/comments/1wy7s81/shadow_hearts_series_creator_gives_update_on/
-2026-10-05T12:55:56+00:00	Cyan Heart - Official Release Date Trailer https://www.reddit.com/r/Games/comments/1wy7uaq/cyan_heart_official_release_date_trailer/
 2026-10-05T13:21:14+00:00	Hellblade studio Ninja Theory has started laying off staff, following Xbox’s announcement that it faces closure https://www.reddit.com/r/Games/comments/1wy8evi/hellblade_studio_ninja_theory_has_started_laying/
-2026-10-05T13:24:35+00:00	Dwarf Fortress: Myth & Magic – What is actually coming? https://www.reddit.com/r/Games/comments/1wy8hg7/dwarf_fortress_myth_magic_what_is_actually_coming/
-2026-10-05T15:16:08+00:00	The Music of ONYX: The Dark Grip - Working with an Icon https://www.reddit.com/r/Games/comments/1wyb6g0/the_music_of_onyx_the_dark_grip_working_with_an/
 2026-10-05T15:49:07+00:00	Supermassive Games Layoffs Arrive With Over 70 People Let Go https://www.reddit.com/r/Games/comments/1wyc0v8/supermassive_games_layoffs_arrive_with_over_70/
 2026-10-05T16:06:37+00:00	NBA 2K25 Is Getting Delisted After Just 2 Years, and Single Player Story Mode Will Become Unplayable https://www.reddit.com/r/Games/comments/1wychzs/nba_2k25_is_getting_delisted_after_just_2_years/
-2026-10-05T17:05:19+00:00	Moonfrost Early Access Begins October 12th! https://www.reddit.com/r/Games/comments/1wye14p/moonfrost_early_access_begins_october_12th/
-2026-10-05T17:08:09+00:00	MechWarrior 5 Mercenaries - Ashes & Ascension - Launch Trailer (Operation Bulldog - Clan Smoked Jaguar) https://www.reddit.com/r/Games/comments/1wye3pz/mechwarrior_5_mercenaries_ashes_ascension_launch/
-2026-10-05T17:15:59+00:00	Season 5: A Grim Doctrine Launch Trailer | Overwatch https://www.reddit.com/r/Games/comments/1wyeb8x/season_5_a_grim_doctrine_launch_trailer_overwatch/
-2026-10-05T17:21:12+00:00	The PS5 Hacking Scene is about to Explode - Modern Vintage Gamer https://www.reddit.com/r/Games/comments/1wyeg4s/the_ps5_hacking_scene_is_about_to_explode_modern/
 2026-10-05T18:04:29+00:00	World of Warcraft: Forever Class Highlights https://www.reddit.com/r/Games/comments/1wyfljp/world_of_warcraft_forever_class_highlights/
-2026-10-05T18:10:57+00:00	Updating Our Boosters in 2027 https://www.reddit.com/r/Games/comments/1wyfrl2/updating_our_boosters_in_2027/
-2026-10-05T18:18:29+00:00	Halo Studios - Canon Fodder: Heart and Soell https://www.reddit.com/r/Games/comments/1wyfynq/halo_studios_canon_fodder_heart_and_soell/
-2026-10-05T20:49:43+00:00	Vib-Ribbon: An oral history - Design Room https://www.reddit.com/r/Games/comments/1wyjw2u/vibribbon_an_oral_history_design_room/
 2026-10-05T23:04:33+00:00	Insider Gaming: Watch Dogs: Legion ‘Director’s Cut’ Planned For First Half of 2027 https://www.reddit.com/r/Games/comments/1wyn27k/insider_gaming_watch_dogs_legion_directors_cut/
 2026-10-06T07:15:42+00:00	Capcom Said ‘AI’ and the Headline Did the Rest https://www.reddit.com/r/Games/comments/1wyw7i7/capcom_said_ai_and_the_headline_did_the_rest/
-2026-10-06T09:52:50+00:00	Star Wars: Galactic Racer - Launch Trailer | PS5 Games https://www.reddit.com/r/Games/comments/1wyyjep/star_wars_galactic_racer_launch_trailer_ps5_games/
+2026-10-06T08:06:13+00:00	Fallen London is where the writers of Baldur's Gate 3, Dishonored and Stellaris come to let their hair down https://www.reddit.com/r/Games/comments/1wywy91/fallen_london_is_where_the_writers_of_baldurs/
+2026-10-06T13:10:38+00:00	Silver Pines Review Thread https://www.reddit.com/r/Games/comments/1wz27os/silver_pines_review_thread/
+2026-10-06T14:06:48+00:00	Warhammer Survivors: Official Trailer https://www.reddit.com/r/Games/comments/1wz3ila/warhammer_survivors_official_trailer/
+2026-10-06T14:10:57+00:00	Star Wars: Galactic Racer™ | Official Launch Trailer https://www.reddit.com/r/Games/comments/1wz3m7m/star_wars_galactic_racer_official_launch_trailer/
+2026-10-06T14:31:31+00:00	Detective System Overview | Warhammer 40,000: Dark Heresy https://www.reddit.com/r/Games/comments/1wz4463/detective_system_overview_warhammer_40000_dark/
+2026-10-06T14:39:29+00:00	GUNDAM ROGUE ORBIT – Gameplay Walkthrough Trailer https://www.reddit.com/r/Games/comments/1wz4b3c/gundam_rogue_orbit_gameplay_walkthrough_trailer/
+2026-10-06T14:39:45+00:00	Fae & Fauna | Official Trailer https://www.reddit.com/r/Games/comments/1wz4bbn/fae_fauna_official_trailer/
+2026-10-06T15:07:04+00:00	Battlefield 6 Season 5 Las Vegas Gameplay Trailer https://www.reddit.com/r/Games/comments/1wz4zpp/battlefield_6_season_5_las_vegas_gameplay_trailer/
+2026-10-06T15:07:35+00:00	GameStop and Third-Party Resellers Raise Used PS5 Pro Price to $1,400 — a $500 Markup on Sony's RRP https://www.reddit.com/r/Games/comments/1wz507q/gamestop_and_thirdparty_resellers_raise_used_ps5/
+2026-10-06T15:25:26+00:00	Capcom's Monster Hunter Rise Surpasses 20 Million Copies Sold. https://www.reddit.com/r/Games/comments/1wz5gnl/capcoms_monster_hunter_rise_surpasses_20_million/
+2026-10-06T15:37:54+00:00	Nolan North says he’s ‘110%’ up for playing Nathan Drake in a new Uncharted game, ‘if Sony wants to make money’ https://www.reddit.com/r/Games/comments/1wz5s8m/nolan_north_says_hes_110_up_for_playing_nathan/
+2026-10-06T15:42:22+00:00	At Fate's End - Gameplay Trailer (ESRB) https://www.reddit.com/r/Games/comments/1wz5w6n/at_fates_end_gameplay_trailer_esrb/
+2026-10-06T15:43:11+00:00	At Fate's End new release window and Steam demo out now! https://www.reddit.com/r/Games/comments/1wz5wwa/at_fates_end_new_release_window_and_steam_demo/
+2026-10-06T16:07:15+00:00	Frozen Trail Trailer | ARC Raiders (Play for Free Oct 8-12) https://www.reddit.com/r/Games/comments/1wz6j1w/frozen_trail_trailer_arc_raiders_play_for_free/
+2026-10-06T16:29:57+00:00	Dragon's Dogma 2 Update: added features to support the Dragon's Dogma 2: Dark Arisen Expansion DLC, added hard mode, added a feature that allows players to carry over current saved data and start the game over from the beginning, Other Adjustments, Bug Fixes https://www.reddit.com/r/Games/comments/1wz73x7/dragons_dogma_2_update_added_features_to_support/
+2026-10-06T16:33:43+00:00	Marathon: Nightfall Refresh and Symbiosis Roadmap https://www.reddit.com/r/Games/comments/1wz77gn/marathon_nightfall_refresh_and_symbiosis_roadmap/
+2026-10-06T16:40:10+00:00	Record of Dorathia (Announcement blog post of new game from rdein/Bombservice, creator of Momodora) https://www.reddit.com/r/Games/comments/1wz7ded/record_of_dorathia_announcement_blog_post_of_new/
+2026-10-06T17:00:28+00:00	Humble Choice October 2026 - Like a Dragon: Pirate Yakuza in Hawaii, Prince of Persia: The Lost Crown, Psychonauts 2 and more https://www.reddit.com/r/Games/comments/1wz7wrx/humble_choice_october_2026_like_a_dragon_pirate/

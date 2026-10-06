@@ -3,10 +3,6 @@
 # source = https://www.gamesindustry.biz/feed
 # description = twtxt conversion of https://www.gamesindustry.biz/feed
 
-2026-09-24T13:48:19+00:00	Dutch consumer group files lawsuit against Epic for misleading young players on Fortnite, seeking more than €100m in compensation https://www.gamesindustry.biz/dutch-consumer-group-files-lawsuit-against-epic-for-misleading-young-players-on-fortnite-seeking-more-than-100m-in-compensation
-2026-09-25T08:04:53+00:00	Nintendo of America awarded $4.5m in lawsuit from Redditor for pirating Switch hardware and software https://www.gamesindustry.biz/nintendo-of-america-awarded-45m-in-lawsuit-from-redditor-for-pirating-switch-hardware-and-software
-2026-09-25T09:08:17+00:00	King signs collective agreement with Swedish trade unions following call to industrial action last week https://www.gamesindustry.biz/king-signs-collective-agreement-with-swedish-trade-unions-following-call-to-industrial-action-last-week
-2026-09-25T09:55:07+00:00	Build A Rocket Boy has appointed administrators https://www.gamesindustry.biz/build-a-rocket-boy-has-appointed-administrators
 2026-09-25T12:00:00+00:00	"Crowdfunding is fundamentally a marketing and a community exercise" – What developers need to know about funding a game with Kickstarter in 2026 https://www.gamesindustry.biz/crowdfunding-is-fundamentally-a-marketing-and-a-community-exercise-what-developers-need-to-know-about-funding-a-game-with-kickstarter-in-2026
 2026-09-25T13:00:00+00:00	The Xbox reset doesn't have an end date | Opinion https://www.gamesindustry.biz/the-xbox-reset-doesnt-have-an-end-date-opinion
 2026-09-25T13:07:11+00:00	Meta unveils AI-powered game tools for mobile devices and browsers; announces VR Glasses with day-one Unity support https://www.gamesindustry.biz/meta-unveils-ai-powered-game-tools-for-mobile-devices-and-browsers-announces-vr-glasses-with-day-one-unity-support
@@ -53,3 +49,7 @@
 2026-10-05T19:33:21+00:00	Arc Raiders and The Finals are getting TV series and film adaptations https://www.gamesindustry.biz/arc-raiders-and-the-finals-are-getting-tv-series-and-film-adaptations
 2026-10-06T07:24:06+00:00	NBA 2K25 servers to shut down on December 31, single-player story mode will become unplayable https://www.gamesindustry.biz/nba-2k25-servers-to-shut-down-on-december-31-single-player-story-mode-will-become-unplayable
 2026-10-06T09:12:24+00:00	Star Wars: Galactic Racer launches on Amazon Luna as part of Prime subscription https://www.gamesindustry.biz/star-wars-galactic-racer-launches-on-amazon-luna-as-part-of-prime-subscription
+2026-10-06T11:11:16+00:00	South Australian government makes largest investment in game development by doubling its Digital Games Fund to $1m https://www.gamesindustry.biz/south-australian-government-makes-largest-investment-in-game-development-by-doubling-its-digital-games-fund-to-1m
+2026-10-06T13:00:00+00:00	Brazil wants to be in "the top five game producers in the world in less than 10 years" https://www.gamesindustry.biz/brazil-wants-to-be-in-the-top-five-game-producers-in-the-world-in-less-than-10-years
+2026-10-06T13:50:19+00:00	Sega won't "entrust the creative aspect of games to AI," but is using tech to "improve efficiency" in other departments https://www.gamesindustry.biz/sega-wont-entrust-the-creative-aspect-of-games-to-ai-but-is-using-tech-to-improve-efficiency-in-other-departments
+2026-10-06T14:00:00+00:00	Resident Evil games engagement leapt 50% following release of Zach Cregger's movie, but analysts say real value is in brand building https://www.gamesindustry.biz/resident-evil-games-engagement-leapt-50-following-release-of-zach-creggers-movie-but-analysts-say-real-value-is-in-brand-building-1
