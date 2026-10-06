@@ -3,8 +3,6 @@
 # source = https://www.gamesindustry.biz/feed
 # description = twtxt conversion of https://www.gamesindustry.biz/feed
 
-2026-09-24T10:12:10+00:00	TinyBuild revenue rises 18% to $20m during H1 2026, with 85% coming from first and second-party owned IP https://www.gamesindustry.biz/tinybuild-revenue-rises-18-to-20m-during-h1-2026-with-85-coming-from-first-and-second-party-owned-ip
-2026-09-24T12:00:00+00:00	Righting old wrongs: MobyGames on letting developers claim games they weren't credited for https://www.gamesindustry.biz/righting-old-wrongs-mobygames-on-letting-developers-claim-games-they-werent-credited-for
 2026-09-24T13:48:19+00:00	Dutch consumer group files lawsuit against Epic for misleading young players on Fortnite, seeking more than €100m in compensation https://www.gamesindustry.biz/dutch-consumer-group-files-lawsuit-against-epic-for-misleading-young-players-on-fortnite-seeking-more-than-100m-in-compensation
 2026-09-25T08:04:53+00:00	Nintendo of America awarded $4.5m in lawsuit from Redditor for pirating Switch hardware and software https://www.gamesindustry.biz/nintendo-of-america-awarded-45m-in-lawsuit-from-redditor-for-pirating-switch-hardware-and-software
 2026-09-25T09:08:17+00:00	King signs collective agreement with Swedish trade unions following call to industrial action last week https://www.gamesindustry.biz/king-signs-collective-agreement-with-swedish-trade-unions-following-call-to-industrial-action-last-week
@@ -53,3 +51,5 @@
 2026-10-05T17:15:00+00:00	Free-to-play playtime is broadly flat as gacha RPGs drive PC growth, says Newzoo https://www.gamesindustry.biz/free-to-play-playtime-is-broadly-flat-as-gacha-rpgs-drive-pc-growth-says-newzoo
 2026-10-05T17:44:03+00:00	Ninja Theory begins laying off staff, according to employee posts https://www.gamesindustry.biz/ninja-theory-begins-laying-off-staff-according-to-employee-posts
 2026-10-05T19:33:21+00:00	Arc Raiders and The Finals are getting TV series and film adaptations https://www.gamesindustry.biz/arc-raiders-and-the-finals-are-getting-tv-series-and-film-adaptations
+2026-10-06T07:24:06+00:00	NBA 2K25 servers to shut down on December 31, single-player story mode will become unplayable https://www.gamesindustry.biz/nba-2k25-servers-to-shut-down-on-december-31-single-player-story-mode-will-become-unplayable
+2026-10-06T09:12:24+00:00	Star Wars: Galactic Racer launches on Amazon Luna as part of Prime subscription https://www.gamesindustry.biz/star-wars-galactic-racer-launches-on-amazon-luna-as-part-of-prime-subscription

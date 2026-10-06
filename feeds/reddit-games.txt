@@ -4,9 +4,7 @@
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
 2026-10-04T09:00:28+00:00	Weekly /r/Games Discussion - What have you been playing, and what are your thoughts? - October 04, 2026 https://www.reddit.com/r/Games/comments/1wxb1q8/weekly_rgames_discussion_what_have_you_been/
-2026-10-04T13:55:54+00:00	PlatinumGames boss hints he wants to expand Bayonetta as Stellar Blade director calls the series "indispensable" https://www.reddit.com/r/Games/comments/1wxgagx/platinumgames_boss_hints_he_wants_to_expand/
 2026-10-04T14:01:03+00:00	Ace Combat 8 Secretly Has the Best Video Game Music of the Year https://www.reddit.com/r/Games/comments/1wxgeya/ace_combat_8_secretly_has_the_best_video_game/
-2026-10-04T16:14:14+00:00	Call of Duty: Modern Warfare 4 | DMZ Worldbuilder Trailer https://www.reddit.com/r/Games/comments/1wxjikx/call_of_duty_modern_warfare_4_dmz_worldbuilder/
 2026-10-04T18:02:54+00:00	Dicevaders - Pengonauts - Just launched our dice roguelike set in the same universe as StarVaders! https://www.reddit.com/r/Games/comments/1wxm5ih/dicevaders_pengonauts_just_launched_our_dice/
 2026-10-04T21:21:40+00:00	Next Level Destruction Showcased by Embark Studios Coming to Their Season 12 Update for Their F2P Multiplayer Shooter - The Finals https://www.reddit.com/r/Games/comments/1wxqyvz/next_level_destruction_showcased_by_embark/
 2026-10-05T05:16:38+00:00	End Of Abyss Patch Fixes Most Of My Complaints Just One Day After Launch - Gamespot https://www.reddit.com/r/Games/comments/1wy09x0/end_of_abyss_patch_fixes_most_of_my_complaints/
@@ -28,3 +26,5 @@
 2026-10-05T18:18:29+00:00	Halo Studios - Canon Fodder: Heart and Soell https://www.reddit.com/r/Games/comments/1wyfynq/halo_studios_canon_fodder_heart_and_soell/
 2026-10-05T20:49:43+00:00	Vib-Ribbon: An oral history - Design Room https://www.reddit.com/r/Games/comments/1wyjw2u/vibribbon_an_oral_history_design_room/
 2026-10-05T23:04:33+00:00	Insider Gaming: Watch Dogs: Legion ‘Director’s Cut’ Planned For First Half of 2027 https://www.reddit.com/r/Games/comments/1wyn27k/insider_gaming_watch_dogs_legion_directors_cut/
+2026-10-06T07:15:42+00:00	Capcom Said ‘AI’ and the Headline Did the Rest https://www.reddit.com/r/Games/comments/1wyw7i7/capcom_said_ai_and_the_headline_did_the_rest/
+2026-10-06T09:52:50+00:00	Star Wars: Galactic Racer - Launch Trailer | PS5 Games https://www.reddit.com/r/Games/comments/1wyyjep/star_wars_galactic_racer_launch_trailer_ps5_games/
