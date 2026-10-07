@@ -3,7 +3,6 @@
 # source = https://www.gamesindustry.biz/feed
 # description = twtxt conversion of https://www.gamesindustry.biz/feed
 
-2026-09-25T12:00:00+00:00	"Crowdfunding is fundamentally a marketing and a community exercise" – What developers need to know about funding a game with Kickstarter in 2026 https://www.gamesindustry.biz/crowdfunding-is-fundamentally-a-marketing-and-a-community-exercise-what-developers-need-to-know-about-funding-a-game-with-kickstarter-in-2026
 2026-09-25T13:00:00+00:00	The Xbox reset doesn't have an end date | Opinion https://www.gamesindustry.biz/the-xbox-reset-doesnt-have-an-end-date-opinion
 2026-09-25T13:07:11+00:00	Meta unveils AI-powered game tools for mobile devices and browsers; announces VR Glasses with day-one Unity support https://www.gamesindustry.biz/meta-unveils-ai-powered-game-tools-for-mobile-devices-and-browsers-announces-vr-glasses-with-day-one-unity-support
 2026-09-25T13:56:43+00:00	Trophy Games acquires Airport Simulator: First Class developer Playrion from Paradox Interactive https://www.gamesindustry.biz/trophy-games-acquires-airport-simulator-first-class-developer-playrion-from-paradox-interactive
@@ -53,3 +52,4 @@
 2026-10-06T13:00:00+00:00	Brazil wants to be in "the top five game producers in the world in less than 10 years" https://www.gamesindustry.biz/brazil-wants-to-be-in-the-top-five-game-producers-in-the-world-in-less-than-10-years
 2026-10-06T13:50:19+00:00	Sega won't "entrust the creative aspect of games to AI," but is using tech to "improve efficiency" in other departments https://www.gamesindustry.biz/sega-wont-entrust-the-creative-aspect-of-games-to-ai-but-is-using-tech-to-improve-efficiency-in-other-departments
 2026-10-06T14:00:00+00:00	Resident Evil games engagement leapt 50% following release of Zach Cregger's movie, but analysts say real value is in brand building https://www.gamesindustry.biz/resident-evil-games-engagement-leapt-50-following-release-of-zach-creggers-movie-but-analysts-say-real-value-is-in-brand-building-1
+2026-10-07T08:21:09+00:00	Paramount and Warner Bros. Discovery operating under Skydance following completion of $111bn merger https://www.gamesindustry.biz/paramount-and-warner-bros-discovery-operating-under-skydance-following-completion-of-111bn-merger

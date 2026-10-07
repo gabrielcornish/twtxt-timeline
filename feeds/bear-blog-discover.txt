@@ -5,7 +5,6 @@
 
 2026-10-04T03:59:00+00:00	Slowing down https://doodhpeda.bearblog.dev/blog/slowing-down/
 2026-10-04T14:05:00+00:00	a night in the hospital https://dreamlogic.blog/a-night-in-the-hospital/
-2026-10-04T15:32:00+00:00	a quick blogpost about funny software licenses https://kami.bearblog.dev/a-quick-blogpost-about-funny-software-licenses/
 2026-10-04T18:54:40.485536+00:00	got a job, not struggling anymore https://skuka.online/got-a-job-not-struggling-anymore/
 2026-10-05T11:00:00+00:00	nice things i’ve done for myself lately https://blog.avas.space/nice-things/
 2026-10-05T14:01:22.463657+00:00	what is political? https://blog.sulimans.space/what-is-political/
@@ -23,3 +22,4 @@
 2026-10-06T15:26:49.698744+00:00	how do you make new friends? https://midnight.bearblog.dev/how-do-you-make-new-friends/
 2026-10-06T16:55:41.530089+00:00	My Slightly Offline EDC https://heyhowdy.blog/my-slightly-offline-edc/
 2026-10-06T18:28:00+00:00	why i like (over)working https://skuka.online/why-i-like-overworking/
+2026-10-06T21:10:00+00:00	'No AI' is a Feature https://lumpmotif.com/no-ai-is-now-a-software-feature/
