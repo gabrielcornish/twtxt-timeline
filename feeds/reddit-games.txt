@@ -4,7 +4,6 @@
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
 2026-10-04T09:00:28+00:00	Weekly /r/Games Discussion - What have you been playing, and what are your thoughts? - October 04, 2026 https://www.reddit.com/r/Games/comments/1wxb1q8/weekly_rgames_discussion_what_have_you_been/
-2026-10-05T16:06:37+00:00	NBA 2K25 Is Getting Delisted After Just 2 Years, and Single Player Story Mode Will Become Unplayable https://www.reddit.com/r/Games/comments/1wychzs/nba_2k25_is_getting_delisted_after_just_2_years/
 2026-10-06T07:15:42+00:00	Capcom Said ‘AI’ and the Headline Did the Rest https://www.reddit.com/r/Games/comments/1wyw7i7/capcom_said_ai_and_the_headline_did_the_rest/
 2026-10-06T08:06:13+00:00	Fallen London is where the writers of Baldur's Gate 3, Dishonored and Stellaris come to let their hair down https://www.reddit.com/r/Games/comments/1wywy91/fallen_london_is_where_the_writers_of_baldurs/
 2026-10-06T13:10:38+00:00	Silver Pines Review Thread https://www.reddit.com/r/Games/comments/1wz27os/silver_pines_review_thread/
@@ -12,13 +11,11 @@
 2026-10-06T14:10:57+00:00	Star Wars: Galactic Racer™ | Official Launch Trailer https://www.reddit.com/r/Games/comments/1wz3m7m/star_wars_galactic_racer_official_launch_trailer/
 2026-10-06T14:31:31+00:00	Detective System Overview | Warhammer 40,000: Dark Heresy https://www.reddit.com/r/Games/comments/1wz4463/detective_system_overview_warhammer_40000_dark/
 2026-10-06T14:39:29+00:00	GUNDAM ROGUE ORBIT – Gameplay Walkthrough Trailer https://www.reddit.com/r/Games/comments/1wz4b3c/gundam_rogue_orbit_gameplay_walkthrough_trailer/
-2026-10-06T14:39:45+00:00	Fae & Fauna | Official Trailer https://www.reddit.com/r/Games/comments/1wz4bbn/fae_fauna_official_trailer/
 2026-10-06T15:07:04+00:00	Battlefield 6 Season 5 Las Vegas Gameplay Trailer https://www.reddit.com/r/Games/comments/1wz4zpp/battlefield_6_season_5_las_vegas_gameplay_trailer/
 2026-10-06T15:07:35+00:00	GameStop and Third-Party Resellers Raise Used PS5 Pro Price to $1,400 — a $500 Markup on Sony's RRP https://www.reddit.com/r/Games/comments/1wz507q/gamestop_and_thirdparty_resellers_raise_used_ps5/
 2026-10-06T15:25:26+00:00	Capcom's Monster Hunter Rise Surpasses 20 Million Copies Sold. https://www.reddit.com/r/Games/comments/1wz5gnl/capcoms_monster_hunter_rise_surpasses_20_million/
 2026-10-06T15:37:54+00:00	Nolan North says he’s ‘110%’ up for playing Nathan Drake in a new Uncharted game, ‘if Sony wants to make money’ https://www.reddit.com/r/Games/comments/1wz5s8m/nolan_north_says_hes_110_up_for_playing_nathan/
 2026-10-06T15:42:22+00:00	At Fate's End - Gameplay Trailer (ESRB) https://www.reddit.com/r/Games/comments/1wz5w6n/at_fates_end_gameplay_trailer_esrb/
-2026-10-06T16:07:15+00:00	Frozen Trail Trailer | ARC Raiders (Play for Free Oct 8-12) https://www.reddit.com/r/Games/comments/1wz6j1w/frozen_trail_trailer_arc_raiders_play_for_free/
 2026-10-06T16:29:57+00:00	Dragon's Dogma 2 Update: added features to support the Dragon's Dogma 2: Dark Arisen Expansion DLC, added hard mode, added a feature that allows players to carry over current saved data and start the game over from the beginning, Other Adjustments, Bug Fixes https://www.reddit.com/r/Games/comments/1wz73x7/dragons_dogma_2_update_added_features_to_support/
 2026-10-06T16:33:43+00:00	Marathon: Nightfall Refresh and Symbiosis Roadmap https://www.reddit.com/r/Games/comments/1wz77gn/marathon_nightfall_refresh_and_symbiosis_roadmap/
 2026-10-06T17:00:28+00:00	Humble Choice October 2026 - Like a Dragon: Pirate Yakuza in Hawaii, Prince of Persia: The Lost Crown, Psychonauts 2 and more https://www.reddit.com/r/Games/comments/1wz7wrx/humble_choice_october_2026_like_a_dragon_pirate/
@@ -28,3 +25,6 @@
 2026-10-06T18:43:28+00:00	Modern Warships Dev Causes Actual Art Storm After Plagiarizing Ship Design https://www.reddit.com/r/Games/comments/1wzamgc/modern_warships_dev_causes_actual_art_storm_after/
 2026-10-06T21:01:07+00:00	Mind the Birds! - Baba joins the fight (New Deadlock hero) https://www.reddit.com/r/Games/comments/1wze6ab/mind_the_birds_baba_joins_the_fight_new_deadlock/
 2026-10-06T21:22:13+00:00	Digital Foundry: Star Wars: Galactic Racer - A Top-Flight Arcade Racing Game with Incredible Graphics Tech https://www.reddit.com/r/Games/comments/1wzepb9/digital_foundry_star_wars_galactic_racer_a/
+2026-10-06T23:08:30+00:00	XBOX Secures Exclusive Game Streaming Rights for GTA 6 https://www.reddit.com/r/Games/comments/1wzh4ga/xbox_secures_exclusive_game_streaming_rights_for/
+2026-10-06T23:42:37+00:00	Sony Patent Would Let an AI Model Train NPCs Based on Your Player Data https://www.reddit.com/r/Games/comments/1wzhtsv/sony_patent_would_let_an_ai_model_train_npcs/
+2026-10-07T00:52:28+00:00	"Keep it family friendly" - Sega's official Sonic Discord swarmed by 50,000 people in six hours, as understandably strict moderation is put in place https://www.reddit.com/r/Games/comments/1wzja5j/keep_it_family_friendly_segas_official_sonic/
