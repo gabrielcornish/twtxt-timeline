@@ -3,9 +3,6 @@
 # source = https://www.gamesindustry.biz/feed
 # description = twtxt conversion of https://www.gamesindustry.biz/feed
 
-2026-09-28T15:23:57+00:00	Report: Sony surveying developers about dropping PlayStation disc support https://www.gamesindustry.biz/report-sony-surveying-developers-about-dropping-playstation-disc-support
-2026-09-28T18:09:25+00:00	"It's a nice story to tell": How DICE bounced back from Battlefield 2042's disastrous launch to release the blockbuster Battlefield 6 https://www.gamesindustry.biz/its-a-nice-story-to-tell-how-dice-bounced-back-from-battlefield-2042s-disastrous-launch-to-release-the-blockbuster-battlefield-6
-2026-09-28T18:14:39+00:00	National Videogame Museum launches UK-wide survey on game preservation https://www.gamesindustry.biz/national-videogame-museum-launches-uk-wide-survey-on-game-preservation
 2026-09-29T10:15:28+00:00	Sony to skip CES 2027 for first time since expo's inaugural event in 1967 https://www.gamesindustry.biz/sony-to-skip-ces-2027-for-first-time-since-expos-inaugural-event-in-1967
 2026-09-29T12:30:00+00:00	"Why should we just give up the entire month of November?" – The indie games going head to head with GTA 6 https://www.gamesindustry.biz/why-should-we-just-give-up-the-entire-month-of-november-the-indie-games-going-head-to-head-with-gta-6
 2026-09-29T14:39:42+00:00	How indie studios can survive industry volatility | Opinion https://www.gamesindustry.biz/how-indie-studios-can-survive-industry-volatility-opinion
@@ -53,3 +50,6 @@
 2026-10-07T14:00:00+00:00	How to run an indie game studio: Part 2, Defining your future https://www.gamesindustry.biz/how-to-run-an-indie-game-studio-part-2-defining-your-future
 2026-10-07T14:00:22+00:00	Paramount Games Studio and WB Games merge under Skydance following completion of $111bn acquisition https://www.gamesindustry.biz/paramount-games-studio-and-wb-games-merge-under-skydance-following-completion-of-111bn-acquisition
 2026-10-07T15:58:18+00:00	Wizards of the Coast union expands, demands company stop pushing generative AI https://www.gamesindustry.biz/wizards-of-the-coast-union-expands-demands-company-stop-pushing-generative-ai
+2026-10-07T19:15:58+00:00	Discord protection bot Double Counter hit by breach exposing around 1 million email addresses https://www.gamesindustry.biz/discord-protection-bot-double-counter-hit-by-breach-exposing-around-1-million-email-addresses
+2026-10-07T19:41:33+00:00	Star Wars Zero Company developer Bit Reactor begins bringing furloughed staff back https://www.gamesindustry.biz/star-wars-zero-company-developer-bit-reactor-begins-bringing-furloughed-staff-back
+2026-10-07T20:30:32+00:00	Gravity Well lays off more than 40 developers after losing its funding https://www.gamesindustry.biz/gravity-well-lays-off-more-than-40-developers-after-losing-its-funding

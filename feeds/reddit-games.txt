@@ -3,16 +3,8 @@
 # source = https://www.reddit.com/r/Games.rss
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
-2026-10-06T13:10:38+00:00	Silver Pines Review Thread https://www.reddit.com/r/Games/comments/1wz27os/silver_pines_review_thread/
-2026-10-06T14:10:57+00:00	Star Wars: Galactic Racer™ | Official Launch Trailer https://www.reddit.com/r/Games/comments/1wz3m7m/star_wars_galactic_racer_official_launch_trailer/
 2026-10-06T15:07:35+00:00	GameStop and Third-Party Resellers Raise Used PS5 Pro Price to $1,400 — a $500 Markup on Sony's RRP https://www.reddit.com/r/Games/comments/1wz507q/gamestop_and_thirdparty_resellers_raise_used_ps5/
-2026-10-06T15:37:54+00:00	Nolan North says he’s ‘110%’ up for playing Nathan Drake in a new Uncharted game, ‘if Sony wants to make money’ https://www.reddit.com/r/Games/comments/1wz5s8m/nolan_north_says_hes_110_up_for_playing_nathan/
-2026-10-06T16:29:57+00:00	Dragon's Dogma 2 Update: added features to support the Dragon's Dogma 2: Dark Arisen Expansion DLC, added hard mode, added a feature that allows players to carry over current saved data and start the game over from the beginning, Other Adjustments, Bug Fixes https://www.reddit.com/r/Games/comments/1wz73x7/dragons_dogma_2_update_added_features_to_support/
-2026-10-06T16:33:43+00:00	Marathon: Nightfall Refresh and Symbiosis Roadmap https://www.reddit.com/r/Games/comments/1wz77gn/marathon_nightfall_refresh_and_symbiosis_roadmap/
-2026-10-06T17:14:39+00:00	Dungeons & Dragons and Studio X Join United Wizards of the Coast - CWA https://www.reddit.com/r/Games/comments/1wz8a6w/dungeons_dragons_and_studio_x_join_united_wizards/
-2026-10-06T18:06:08+00:00	Witcher 3 Remastered - CD Projekt Red outlines which fixes are coming next, but there's still division about the changes. https://www.reddit.com/r/Games/comments/1wz9mm0/witcher_3_remastered_cd_projekt_red_outlines/
 2026-10-06T21:01:07+00:00	Mind the Birds! - Baba joins the fight (New Deadlock hero) https://www.reddit.com/r/Games/comments/1wze6ab/mind_the_birds_baba_joins_the_fight_new_deadlock/
-2026-10-06T21:22:13+00:00	Digital Foundry: Star Wars: Galactic Racer - A Top-Flight Arcade Racing Game with Incredible Graphics Tech https://www.reddit.com/r/Games/comments/1wzepb9/digital_foundry_star_wars_galactic_racer_a/
 2026-10-06T23:42:37+00:00	Sony Patent Would Let an AI Model Train NPCs Based on Your Player Data https://www.reddit.com/r/Games/comments/1wzhtsv/sony_patent_would_let_an_ai_model_train_npcs/
 2026-10-07T07:28:28+00:00	Infamous Keepers - Official Trailer https://www.reddit.com/r/Games/comments/1wzqact/infamous_keepers_official_trailer/
 2026-10-07T07:44:01+00:00	Edenwound - Release Date Trailer https://www.reddit.com/r/Games/comments/1wzqipm/edenwound_release_date_trailer/
@@ -28,3 +20,11 @@
 2026-10-07T15:22:54+00:00	Order of the Sinking Star Review Thread https://www.reddit.com/r/Games/comments/1wzzdhb/order_of_the_sinking_star_review_thread/
 2026-10-07T15:29:07+00:00	Gears of War: E-Day Studio Boss Insists 'The Next Game Will Not Take Nearly as Long' to Make, Responds to Layoff Concern https://www.reddit.com/r/Games/comments/1wzzj6j/gears_of_war_eday_studio_boss_insists_the_next/
 2026-10-07T16:26:11+00:00	Paramount Games Studio and Warner Bros. Games will merge into a single combined games division after Paramount's acquisition of Warner Bros. https://www.reddit.com/r/Games/comments/1x011b9/paramount_games_studio_and_warner_bros_games_will/
+2026-10-07T16:56:45+00:00	Coming to XBOX Game Pass: Battlefield 6, Valor Mortis, Forever Ago, and More https://www.reddit.com/r/Games/comments/1x01u1z/coming_to_xbox_game_pass_battlefield_6_valor/
+2026-10-07T17:04:17+00:00	But Reactor announces the rehiring of furloughed staff to continue ongoing Star Wars: Zero Company support https://www.reddit.com/r/Games/comments/1x021gr/but_reactor_announces_the_rehiring_of_furloughed/
+2026-10-07T17:32:28+00:00	THE INFILTRATOR | THE FINALS PRIME TIME https://www.reddit.com/r/Games/comments/1x02s5q/the_infiltrator_the_finals_prime_time/
+2026-10-07T17:36:14+00:00	March of Giants Cinematic Trailer https://www.reddit.com/r/Games/comments/1x02vv8/march_of_giants_cinematic_trailer/
+2026-10-07T17:37:09+00:00	MARVEL Tōkon: Fighting Souls | Phoenix Cyclops Gameplay Trailer https://www.reddit.com/r/Games/comments/1x02wrb/marvel_tōkon_fighting_souls_phoenix_cyclops/
+2026-10-07T17:51:35+00:00	Dispatch officially eligible for The Game Awards for a second year https://www.reddit.com/r/Games/comments/1x03am3/dispatch_officially_eligible_for_the_game_awards/
+2026-10-07T20:56:55+00:00	FSR 4 special version to boost gaming performance on handhelds, coming this year https://www.reddit.com/r/Games/comments/1x083p3/fsr_4_special_version_to_boost_gaming_performance/
+2026-10-07T21:10:58+00:00	Sony Sells off Dozens of XR Patents to Meta in Apparent Pullback from AR/VR Hardware https://www.reddit.com/r/Games/comments/1x08gts/sony_sells_off_dozens_of_xr_patents_to_meta_in/
