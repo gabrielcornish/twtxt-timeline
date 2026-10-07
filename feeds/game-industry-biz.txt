@@ -3,12 +3,6 @@
 # source = https://www.gamesindustry.biz/feed
 # description = twtxt conversion of https://www.gamesindustry.biz/feed
 
-2026-09-25T13:00:00+00:00	The Xbox reset doesn't have an end date | Opinion https://www.gamesindustry.biz/the-xbox-reset-doesnt-have-an-end-date-opinion
-2026-09-25T13:07:11+00:00	Meta unveils AI-powered game tools for mobile devices and browsers; announces VR Glasses with day-one Unity support https://www.gamesindustry.biz/meta-unveils-ai-powered-game-tools-for-mobile-devices-and-browsers-announces-vr-glasses-with-day-one-unity-support
-2026-09-25T13:56:43+00:00	Trophy Games acquires Airport Simulator: First Class developer Playrion from Paradox Interactive https://www.gamesindustry.biz/trophy-games-acquires-airport-simulator-first-class-developer-playrion-from-paradox-interactive
-2026-09-25T15:30:44+00:00	Here is the full line-up for the GamesIndustry.biz HR Summit 2026 https://www.gamesindustry.biz/here-is-the-full-line-up-for-the-gamesindustrybiz-hr-summit-2026
-2026-09-28T09:05:32+00:00	Microsoft boss Nadella says Xbox has to invent "sustainable business model" https://www.gamesindustry.biz/microsoft-boss-nadella-says-xbox-has-to-invent-sustainable-business-model
-2026-09-28T11:14:50+00:00	Wardogs studio chief Brammer insists he isn't "pro crunch, I am pro hard work" https://www.gamesindustry.biz/wardogs-studio-chief-brammer-insists-he-isnt-pro-crunch-i-am-pro-hard-work
 2026-09-28T15:23:57+00:00	Report: Sony surveying developers about dropping PlayStation disc support https://www.gamesindustry.biz/report-sony-surveying-developers-about-dropping-playstation-disc-support
 2026-09-28T18:09:25+00:00	"It's a nice story to tell": How DICE bounced back from Battlefield 2042's disastrous launch to release the blockbuster Battlefield 6 https://www.gamesindustry.biz/its-a-nice-story-to-tell-how-dice-bounced-back-from-battlefield-2042s-disastrous-launch-to-release-the-blockbuster-battlefield-6
 2026-09-28T18:14:39+00:00	National Videogame Museum launches UK-wide survey on game preservation https://www.gamesindustry.biz/national-videogame-museum-launches-uk-wide-survey-on-game-preservation
@@ -27,7 +21,7 @@
 2026-09-30T18:59:09+00:00	Alleged hacker arrested over leak that exposed GTA Online's daily revenue https://www.gamesindustry.biz/alleged-hacker-arrested-over-leak-that-exposed-gta-onlines-daily-revenue
 2026-09-30T19:20:00+00:00	Ubisoft renames Creative House 2, home of The Division, Ghost Recon and Splinter Cell, as Massive Entertainment https://www.gamesindustry.biz/ubisoft-renames-creative-house-2-home-of-the-division-ghost-recon-and-splinter-cell-as-massive-entertainment
 2026-10-01T08:25:00+00:00	PC and console revenue charts led by new releases in August | Newzoo charts https://www.gamesindustry.biz/pc-and-console-revenue-charts-led-by-new-releases-in-august-newzoo-charts
-2026-10-01T09:26:54+00:00	Jobs roundup: October | Code Wizards Group appoints Catherine Bygrave as head of commercial https://www.gamesindustry.biz/jobs-roundup-october-code-wizards-group-appoints-catherine-bygrave-as-head-of-commercial
+2026-10-01T09:26:54+00:00	Jobs roundup: October | Playstack CEO Harvey Elliott voted chair of UKIE https://www.gamesindustry.biz/jobs-roundup-october-playstack-ceo-harvey-elliott-voted-in-as-char-of-ukie
 2026-10-01T13:28:21+00:00	Ubisoft Workers of Montreal Union petition to "preserve hybrid work" secures over 300 signatures https://www.gamesindustry.biz/ubisoft-workers-of-montreal-union-petition-to-preserve-hybrid-work-secures-over-300-signatures
 2026-10-01T14:15:37+00:00	Consumer Protection Cooperation Network launches coordinated actions against nine companies on in-game currency | Opinion https://www.gamesindustry.biz/consumer-protection-cooperation-network-launches-coordinated-actions-against-nine-companies-on-in-game-currency
 2026-10-02T08:03:39+00:00	Krafton shuts down PUBG spin-off Black Budget nine months after closed alpha test https://www.gamesindustry.biz/krafton-shuts-down-pubg-spin-off-black-budget-nine-months-after-closed-alpha-test
@@ -53,3 +47,9 @@
 2026-10-06T13:50:19+00:00	Sega won't "entrust the creative aspect of games to AI," but is using tech to "improve efficiency" in other departments https://www.gamesindustry.biz/sega-wont-entrust-the-creative-aspect-of-games-to-ai-but-is-using-tech-to-improve-efficiency-in-other-departments
 2026-10-06T14:00:00+00:00	Resident Evil games engagement leapt 50% following release of Zach Cregger's movie, but analysts say real value is in brand building https://www.gamesindustry.biz/resident-evil-games-engagement-leapt-50-following-release-of-zach-creggers-movie-but-analysts-say-real-value-is-in-brand-building-1
 2026-10-07T08:21:09+00:00	Paramount and Warner Bros. Discovery operating under Skydance following completion of $111bn merger https://www.gamesindustry.biz/paramount-and-warner-bros-discovery-operating-under-skydance-following-completion-of-111bn-merger
+2026-10-07T09:40:56+00:00	GamesIndustry.biz to host panel at Game Republic's Investment Summit at MCM Comic Con October 2026 https://www.gamesindustry.biz/gamesindustrybiz-to-host-panel-at-game-republics-investment-summit-at-mcm-comic-con-october-2026
+2026-10-07T10:59:12+00:00	Asha Sharma reportedly informs staff that Xbox has "started to return to growth" during internal town hall https://www.gamesindustry.biz/asha-sharma-reportedly-informs-staff-that-xbox-has-started-to-return-to-growth-during-internal-town-hall
+2026-10-07T12:00:00+00:00	Unity unveils a web-based AI game creation platform https://www.gamesindustry.biz/unity-unveils-a-web-based-ai-game-creation-platform
+2026-10-07T14:00:00+00:00	How to run an indie game studio: Part 2, Defining your future https://www.gamesindustry.biz/how-to-run-an-indie-game-studio-part-2-defining-your-future
+2026-10-07T14:00:22+00:00	Paramount Games Studio and WB Games merge under Skydance following completion of $111bn acquisition https://www.gamesindustry.biz/paramount-games-studio-and-wb-games-merge-under-skydance-following-completion-of-111bn-acquisition
+2026-10-07T15:58:18+00:00	Wizards of the Coast union expands, demands company stop pushing generative AI https://www.gamesindustry.biz/wizards-of-the-coast-union-expands-demands-company-stop-pushing-generative-ai

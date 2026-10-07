@@ -3,28 +3,28 @@
 # source = https://www.reddit.com/r/Games.rss
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
-2026-10-04T09:00:28+00:00	Weekly /r/Games Discussion - What have you been playing, and what are your thoughts? - October 04, 2026 https://www.reddit.com/r/Games/comments/1wxb1q8/weekly_rgames_discussion_what_have_you_been/
-2026-10-06T07:15:42+00:00	Capcom Said ‘AI’ and the Headline Did the Rest https://www.reddit.com/r/Games/comments/1wyw7i7/capcom_said_ai_and_the_headline_did_the_rest/
 2026-10-06T13:10:38+00:00	Silver Pines Review Thread https://www.reddit.com/r/Games/comments/1wz27os/silver_pines_review_thread/
-2026-10-06T14:06:48+00:00	Warhammer Survivors: Official Trailer https://www.reddit.com/r/Games/comments/1wz3ila/warhammer_survivors_official_trailer/
 2026-10-06T14:10:57+00:00	Star Wars: Galactic Racer™ | Official Launch Trailer https://www.reddit.com/r/Games/comments/1wz3m7m/star_wars_galactic_racer_official_launch_trailer/
-2026-10-06T14:31:31+00:00	Detective System Overview | Warhammer 40,000: Dark Heresy https://www.reddit.com/r/Games/comments/1wz4463/detective_system_overview_warhammer_40000_dark/
-2026-10-06T14:39:29+00:00	GUNDAM ROGUE ORBIT – Gameplay Walkthrough Trailer https://www.reddit.com/r/Games/comments/1wz4b3c/gundam_rogue_orbit_gameplay_walkthrough_trailer/
-2026-10-06T15:07:04+00:00	Battlefield 6 Season 5 Las Vegas Gameplay Trailer https://www.reddit.com/r/Games/comments/1wz4zpp/battlefield_6_season_5_las_vegas_gameplay_trailer/
 2026-10-06T15:07:35+00:00	GameStop and Third-Party Resellers Raise Used PS5 Pro Price to $1,400 — a $500 Markup on Sony's RRP https://www.reddit.com/r/Games/comments/1wz507q/gamestop_and_thirdparty_resellers_raise_used_ps5/
-2026-10-06T15:25:26+00:00	Capcom's Monster Hunter Rise Surpasses 20 Million Copies Sold. https://www.reddit.com/r/Games/comments/1wz5gnl/capcoms_monster_hunter_rise_surpasses_20_million/
 2026-10-06T15:37:54+00:00	Nolan North says he’s ‘110%’ up for playing Nathan Drake in a new Uncharted game, ‘if Sony wants to make money’ https://www.reddit.com/r/Games/comments/1wz5s8m/nolan_north_says_hes_110_up_for_playing_nathan/
-2026-10-06T15:42:22+00:00	At Fate's End - Gameplay Trailer (ESRB) https://www.reddit.com/r/Games/comments/1wz5w6n/at_fates_end_gameplay_trailer_esrb/
 2026-10-06T16:29:57+00:00	Dragon's Dogma 2 Update: added features to support the Dragon's Dogma 2: Dark Arisen Expansion DLC, added hard mode, added a feature that allows players to carry over current saved data and start the game over from the beginning, Other Adjustments, Bug Fixes https://www.reddit.com/r/Games/comments/1wz73x7/dragons_dogma_2_update_added_features_to_support/
 2026-10-06T16:33:43+00:00	Marathon: Nightfall Refresh and Symbiosis Roadmap https://www.reddit.com/r/Games/comments/1wz77gn/marathon_nightfall_refresh_and_symbiosis_roadmap/
-2026-10-06T17:00:28+00:00	Humble Choice October 2026 - Like a Dragon: Pirate Yakuza in Hawaii, Prince of Persia: The Lost Crown, Psychonauts 2 and more https://www.reddit.com/r/Games/comments/1wz7wrx/humble_choice_october_2026_like_a_dragon_pirate/
 2026-10-06T17:14:39+00:00	Dungeons & Dragons and Studio X Join United Wizards of the Coast - CWA https://www.reddit.com/r/Games/comments/1wz8a6w/dungeons_dragons_and_studio_x_join_united_wizards/
-2026-10-06T17:28:02+00:00	Rivals II Workshop is Out! | Fireside Update https://www.reddit.com/r/Games/comments/1wz8mnq/rivals_ii_workshop_is_out_fireside_update/
 2026-10-06T18:06:08+00:00	Witcher 3 Remastered - CD Projekt Red outlines which fixes are coming next, but there's still division about the changes. https://www.reddit.com/r/Games/comments/1wz9mm0/witcher_3_remastered_cd_projekt_red_outlines/
-2026-10-06T20:48:25+00:00	Total War SHOGUN 2 - Complete Edition - Game Overview https://www.reddit.com/r/Games/comments/1wzduxq/total_war_shogun_2_complete_edition_game_overview/
 2026-10-06T21:01:07+00:00	Mind the Birds! - Baba joins the fight (New Deadlock hero) https://www.reddit.com/r/Games/comments/1wze6ab/mind_the_birds_baba_joins_the_fight_new_deadlock/
 2026-10-06T21:22:13+00:00	Digital Foundry: Star Wars: Galactic Racer - A Top-Flight Arcade Racing Game with Incredible Graphics Tech https://www.reddit.com/r/Games/comments/1wzepb9/digital_foundry_star_wars_galactic_racer_a/
-2026-10-06T23:08:30+00:00	XBOX Secures Exclusive Game Streaming Rights for GTA 6 https://www.reddit.com/r/Games/comments/1wzh4ga/xbox_secures_exclusive_game_streaming_rights_for/
 2026-10-06T23:42:37+00:00	Sony Patent Would Let an AI Model Train NPCs Based on Your Player Data https://www.reddit.com/r/Games/comments/1wzhtsv/sony_patent_would_let_an_ai_model_train_npcs/
-2026-10-07T00:52:28+00:00	"Keep it family friendly" - Sega's official Sonic Discord swarmed by 50,000 people in six hours, as understandably strict moderation is put in place https://www.reddit.com/r/Games/comments/1wzja5j/keep_it_family_friendly_segas_official_sonic/
+2026-10-07T07:28:28+00:00	Infamous Keepers - Official Trailer https://www.reddit.com/r/Games/comments/1wzqact/infamous_keepers_official_trailer/
 2026-10-07T07:44:01+00:00	Edenwound - Release Date Trailer https://www.reddit.com/r/Games/comments/1wzqipm/edenwound_release_date_trailer/
+2026-10-07T09:27:57+00:00	Sources: Ape Escape revival in the works from Sonic Mania team https://www.reddit.com/r/Games/comments/1wzs2tb/sources_ape_escape_revival_in_the_works_from/
+2026-10-07T11:00:36+00:00	Daily /r/Games Discussion - Suggest Me a Game - October 07, 2026 https://www.reddit.com/r/Games/comments/1wztk7i/daily_rgames_discussion_suggest_me_a_game_october/
+2026-10-07T12:01:27+00:00	Warhammer 40,000: Dawn of War 4 Dev Says It's Got More Single-Player Content Than Any Other RTS Ever at Launch https://www.reddit.com/r/Games/comments/1wzuonm/warhammer_40000_dawn_of_war_4_dev_says_its_got/
+2026-10-07T12:06:29+00:00	Former Capcom developer says years of extreme crunch culture are part of why Japan’s game industry has so few female directors https://www.reddit.com/r/Games/comments/1wzus67/former_capcom_developer_says_years_of_extreme/
+2026-10-07T13:13:58+00:00	Monster Hunter Rise is coming to iOS and Android through Netflix according to new store pages https://www.reddit.com/r/Games/comments/1wzw7hj/monster_hunter_rise_is_coming_to_ios_and_android/
+2026-10-07T13:14:19+00:00	BECROWNED ► Release Window and Console Announcement Trailer https://www.reddit.com/r/Games/comments/1wzw7rg/becrowned_release_window_and_console_announcement/
+2026-10-07T13:17:28+00:00	ATMOSFAR EA Release Date Trailer : Enter Tycos https://www.reddit.com/r/Games/comments/1wzwafx/atmosfar_ea_release_date_trailer_enter_tycos/
+2026-10-07T13:34:25+00:00	Eletta - Official Release Date Trailer https://www.reddit.com/r/Games/comments/1wzwopo/eletta_official_release_date_trailer/
+2026-10-07T14:01:18+00:00	Annihilated - Official New Release Date Trailer https://www.reddit.com/r/Games/comments/1wzxbtc/annihilated_official_new_release_date_trailer/
+2026-10-07T15:22:54+00:00	Order of the Sinking Star Review Thread https://www.reddit.com/r/Games/comments/1wzzdhb/order_of_the_sinking_star_review_thread/
+2026-10-07T15:29:07+00:00	Gears of War: E-Day Studio Boss Insists 'The Next Game Will Not Take Nearly as Long' to Make, Responds to Layoff Concern https://www.reddit.com/r/Games/comments/1wzzj6j/gears_of_war_eday_studio_boss_insists_the_next/
+2026-10-07T16:26:11+00:00	Paramount Games Studio and Warner Bros. Games will merge into a single combined games division after Paramount's acquisition of Warner Bros. https://www.reddit.com/r/Games/comments/1x011b9/paramount_games_studio_and_warner_bros_games_will/

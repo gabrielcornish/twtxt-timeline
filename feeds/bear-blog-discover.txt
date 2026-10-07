@@ -3,19 +3,13 @@
 # source = https://bearblog.dev/discover/feed/
 # description = twtxt conversion of https://bearblog.dev/discover/feed/
 
-2026-10-04T03:59:00+00:00	Slowing down https://doodhpeda.bearblog.dev/blog/slowing-down/
-2026-10-04T14:05:00+00:00	a night in the hospital https://dreamlogic.blog/a-night-in-the-hospital/
 2026-10-04T18:54:40.485536+00:00	got a job, not struggling anymore https://skuka.online/got-a-job-not-struggling-anymore/
-2026-10-05T11:00:00+00:00	nice things i’ve done for myself lately https://blog.avas.space/nice-things/
 2026-10-05T14:01:22.463657+00:00	what is political? https://blog.sulimans.space/what-is-political/
 2026-10-05T14:08:00+00:00	Photo https://robertbirming.com/photo/
 2026-10-05T16:11:00+00:00	I entered Mystery Cave https://blog.lauramichet.com/i-entered-mystery-cave/
 2026-10-05T16:37:00+00:00	Let's make /photo pages https://robertbirming.com/make-photo-pages/
-2026-10-05T17:38:00+00:00	The Open Source Revolution Begins! https://osr.bearblog.dev/the-open-source-revolution-begins/
-2026-10-05T17:50:00+00:00	/Photo https://pzumk.com/photo/
 2026-10-05T19:04:00+00:00	Better the Cacodemon you know https://rants.jlopes.eu/better-the-cacodemon-you-know/
 2026-10-05T19:20:00+00:00	I'm taking a break from Reddit https://www.inomnia.me/im-taking-a-break-from-reddit/
-2026-10-05T22:17:22.173654+00:00	A Roll-to-Move Monster Hunting Engine https://tbr.bearblog.dev/a-roll-to-move-monster-hunting-engine/
 2026-10-05T22:56:00+00:00	É assim que se mata um Brainrot? https://heyimbriel.bearblog.dev/e-assim-que-se-mata-um-brainrot/
 2026-10-06T03:00:00+00:00	Forty Three Years of Questionable Decisions https://blog.curiousquail.com/forty-three-years-of-questionable-decisions/
 2026-10-06T12:57:12.469242+00:00	Woman Yells at Code https://womanyellsat.cloud/woman-yells-at-code/
@@ -23,3 +17,9 @@
 2026-10-06T16:55:41.530089+00:00	My Slightly Offline EDC https://heyhowdy.blog/my-slightly-offline-edc/
 2026-10-06T18:28:00+00:00	why i like (over)working https://skuka.online/why-i-like-overworking/
 2026-10-06T21:10:00+00:00	'No AI' is a Feature https://lumpmotif.com/no-ai-is-now-a-software-feature/
+2026-10-06T22:18:00+00:00	Today I cried in therapy https://ginoz.bearblog.dev/today-i-cried-in-therapy/
+2026-10-06T23:15:00+00:00	shumi no ohanashi https://nymermini.bearblog.dev/shumi-no-ohanashi/
+2026-10-07T02:28:00+00:00	Prepare to Drown in Broken Shores 2nd Edition https://thelonebard.com/prepare-to-drown-in-broken-shores-2nd-edition/
+2026-10-07T03:59:00+00:00	october 6 llm https://combatdavey.net/october-6-2026/
+2026-10-07T06:25:00+00:00	Why I Create This Blog https://asma-en.bearblog.dev/why-i-create-this-blog/
+2026-10-07T10:30:00+00:00	I said tomatoes https://ludd.life/said-tomatoes/
