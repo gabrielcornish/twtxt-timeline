@@ -4,27 +4,27 @@
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
 2026-10-07T11:00:36+00:00	Daily /r/Games Discussion - Suggest Me a Game - October 07, 2026 https://www.reddit.com/r/Games/comments/1wztk7i/daily_rgames_discussion_suggest_me_a_game_october/
-2026-10-07T15:29:07+00:00	Gears of War: E-Day Studio Boss Insists 'The Next Game Will Not Take Nearly as Long' to Make, Responds to Layoff Concern https://www.reddit.com/r/Games/comments/1wzzj6j/gears_of_war_eday_studio_boss_insists_the_next/
-2026-10-07T17:04:17+00:00	But Reactor announces the rehiring of furloughed staff to continue ongoing Star Wars: Zero Company support https://www.reddit.com/r/Games/comments/1x021gr/but_reactor_announces_the_rehiring_of_furloughed/
-2026-10-07T17:37:09+00:00	MARVEL Tōkon: Fighting Souls | Phoenix Cyclops Gameplay Trailer https://www.reddit.com/r/Games/comments/1x02wrb/marvel_tōkon_fighting_souls_phoenix_cyclops/
-2026-10-07T17:51:35+00:00	Dispatch officially eligible for The Game Awards for a second year https://www.reddit.com/r/Games/comments/1x03am3/dispatch_officially_eligible_for_the_game_awards/
-2026-10-07T21:10:58+00:00	Sony Sells off Dozens of XR Patents to Meta in Apparent Pullback from AR/VR Hardware https://www.reddit.com/r/Games/comments/1x08gts/sony_sells_off_dozens_of_xr_patents_to_meta_in/
-2026-10-07T22:02:44+00:00	Welcome to Dragon's Dogma 2: Dark Arisen - Presented by Ron Perlman https://www.reddit.com/r/Games/comments/1x09qyv/welcome_to_dragons_dogma_2_dark_arisen_presented/
-2026-10-07T22:19:59+00:00	Dragon's Dogma 2: Dark Arisen Review Thread https://www.reddit.com/r/Games/comments/1x0a5ri/dragons_dogma_2_dark_arisen_review_thread/
-2026-10-08T00:46:25+00:00	Samira and Sett Gameplay Reveal Trailer https://www.reddit.com/r/Games/comments/1x0dbu5/samira_and_sett_gameplay_reveal_trailer/
 2026-10-08T09:41:26+00:00	The original Grand Theft Auto was open-world because ‘we didn’t want to have to build a front end’, dev says https://www.reddit.com/r/Games/comments/1x0mnob/the_original_grand_theft_auto_was_openworld/
 2026-10-08T11:44:28+00:00	It has now been a week since Ace Combat 8 (officially) came out. What are your thoughts on it? https://www.reddit.com/r/Games/comments/1x0or2t/it_has_now_been_a_week_since_ace_combat_8/
 2026-10-08T12:15:15+00:00	Clive Barker’s Hellraiser: Revival - Launch Trailer https://www.reddit.com/r/Games/comments/1x0pcw3/clive_barkers_hellraiser_revival_launch_trailer/
 2026-10-08T12:19:46+00:00	Clive Barker's Hellraiser: Revival Review Thread https://www.reddit.com/r/Games/comments/1x0pg6p/clive_barkers_hellraiser_revival_review_thread/
-2026-10-08T12:33:41+00:00	Star Conflict now shutting down on October 9th with Community Edition to follow enabling custom servers https://www.reddit.com/r/Games/comments/1x0pqdk/star_conflict_now_shutting_down_on_october_9th/
 2026-10-08T13:01:50+00:00	Nintendo Switch Sports Resort – Overview Trailer – Nintendo Switch 2 https://www.reddit.com/r/Games/comments/1x0qbt8/nintendo_switch_sports_resort_overview_trailer/
 2026-10-08T13:05:14+00:00	Neon Abyss 2 | Out Now Trailer https://www.reddit.com/r/Games/comments/1x0qepa/neon_abyss_2_out_now_trailer/
 2026-10-08T13:06:00+00:00	KINGDOM HEARTS Collection [I ~ III] Launch Trailer https://www.reddit.com/r/Games/comments/1x0qf9k/kingdom_hearts_collection_i_iii_launch_trailer/
-2026-10-08T13:23:06+00:00	Spyder: Agent 8 | Release Date Announcement Trailer https://www.reddit.com/r/Games/comments/1x0qt4a/spyder_agent_8_release_date_announcement_trailer/
-2026-10-08T14:02:55+00:00	FATAL FURY: CotW - KEN RYUGUJI https://www.reddit.com/r/Games/comments/1x0rr7l/fatal_fury_cotw_ken_ryuguji/
 2026-10-08T14:03:00+00:00	Richard Garriott is officially regaining control of the Ultima series https://www.reddit.com/r/Games/comments/1x0rram/richard_garriott_is_officially_regaining_control/
 2026-10-08T14:04:48+00:00	The Music of Grand Theft Auto VI https://www.reddit.com/r/Games/comments/1x0rsu4/the_music_of_grand_theft_auto_vi/
 2026-10-08T14:49:01+00:00	Enshrouded - Introducing Sparkworks https://www.reddit.com/r/Games/comments/1x0swn1/enshrouded_introducing_sparkworks/
 2026-10-08T16:05:50+00:00	Outward 2 - New Release Date Trailer (Early Access Available on February 8th) https://www.reddit.com/r/Games/comments/1x0ux0p/outward_2_new_release_date_trailer_early_access/
 2026-10-08T16:06:17+00:00	Machinarium 2 | Announcement Trailer https://www.reddit.com/r/Games/comments/1x0uxg1/machinarium_2_announcement_trailer/
 2026-10-08T16:09:15+00:00	The Triple-i Initiative October 2026 https://www.reddit.com/r/Games/comments/1x0v07v/the_triplei_initiative_october_2026/
+2026-10-08T16:20:36+00:00	Marvel Cosmic Invasion - DLC 2: Invisible Woman and Doctor Doom https://www.reddit.com/r/Games/comments/1x0vavf/marvel_cosmic_invasion_dlc_2_invisible_woman_and/
+2026-10-08T16:33:06+00:00	The Talos Principle 3 - Gameplay Reveal Trailer | The Triple-i Initiative https://www.reddit.com/r/Games/comments/1x0vmmw/the_talos_principle_3_gameplay_reveal_trailer_the/
+2026-10-08T16:38:04+00:00	Prison of Husks - Release Date & Demo Launch Trailer | The Triple-i Initiative https://www.reddit.com/r/Games/comments/1x0vr5i/prison_of_husks_release_date_demo_launch_trailer/
+2026-10-08T16:38:06+00:00	Little Prince Tyger | Announcement Trailer https://www.reddit.com/r/Games/comments/1x0vr65/little_prince_tyger_announcement_trailer/
+2026-10-08T16:43:06+00:00	Risk of Rain 2: Hallowed Concepts - Launch Trailer | The Triple-i Initiative https://www.reddit.com/r/Games/comments/1x0vvwt/risk_of_rain_2_hallowed_concepts_launch_trailer/
+2026-10-08T17:10:11+00:00	Forza Horizon 6 - Pre-Order Trailer | PS5 Games https://www.reddit.com/r/Games/comments/1x0wlm4/forza_horizon_6_preorder_trailer_ps5_games/
+2026-10-08T17:29:45+00:00	Warhammer 40,000: Dawn of War IV – Space Marines Faction Trailer https://www.reddit.com/r/Games/comments/1x0x41u/warhammer_40000_dawn_of_war_iv_space_marines/
+2026-10-08T18:14:33+00:00	Leisure Suit Larry games - "Wet Dreams Don't Dry" and "Wet Dreams Dry Twice" - are getting delisted on 23 October https://www.reddit.com/r/Games/comments/1x0yakw/leisure_suit_larry_games_wet_dreams_dont_dry_and/
+2026-10-08T19:14:15+00:00	Celebrate Mafia III's 10-year anniversary with PS5 / XBOX Series X|S versions that bring 60 FPS gameplay, and technical improvements coming to all platforms https://www.reddit.com/r/Games/comments/1x0zw9d/celebrate_mafia_iiis_10year_anniversary_with_ps5/
+2026-10-08T19:59:44+00:00	Yoko Taro says he already achieved his game development dreams with Drakengard, and now works “to prevent dementia” https://www.reddit.com/r/Games/comments/1x11305/yoko_taro_says_he_already_achieved_his_game/
+2026-10-08T20:07:59+00:00	Gravity Well lays off more than 40 developers after losing its funding https://www.reddit.com/r/Games/comments/1x11baz/gravity_well_lays_off_more_than_40_developers/
