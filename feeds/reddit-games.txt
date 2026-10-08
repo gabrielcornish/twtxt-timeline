@@ -4,10 +4,6 @@
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
 2026-10-06T15:07:35+00:00	GameStop and Third-Party Resellers Raise Used PS5 Pro Price to $1,400 — a $500 Markup on Sony's RRP https://www.reddit.com/r/Games/comments/1wz507q/gamestop_and_thirdparty_resellers_raise_used_ps5/
-2026-10-06T21:01:07+00:00	Mind the Birds! - Baba joins the fight (New Deadlock hero) https://www.reddit.com/r/Games/comments/1wze6ab/mind_the_birds_baba_joins_the_fight_new_deadlock/
-2026-10-06T23:42:37+00:00	Sony Patent Would Let an AI Model Train NPCs Based on Your Player Data https://www.reddit.com/r/Games/comments/1wzhtsv/sony_patent_would_let_an_ai_model_train_npcs/
-2026-10-07T07:28:28+00:00	Infamous Keepers - Official Trailer https://www.reddit.com/r/Games/comments/1wzqact/infamous_keepers_official_trailer/
-2026-10-07T07:44:01+00:00	Edenwound - Release Date Trailer https://www.reddit.com/r/Games/comments/1wzqipm/edenwound_release_date_trailer/
 2026-10-07T09:27:57+00:00	Sources: Ape Escape revival in the works from Sonic Mania team https://www.reddit.com/r/Games/comments/1wzs2tb/sources_ape_escape_revival_in_the_works_from/
 2026-10-07T11:00:36+00:00	Daily /r/Games Discussion - Suggest Me a Game - October 07, 2026 https://www.reddit.com/r/Games/comments/1wztk7i/daily_rgames_discussion_suggest_me_a_game_october/
 2026-10-07T12:01:27+00:00	Warhammer 40,000: Dawn of War 4 Dev Says It's Got More Single-Player Content Than Any Other RTS Ever at Launch https://www.reddit.com/r/Games/comments/1wzuonm/warhammer_40000_dawn_of_war_4_dev_says_its_got/
@@ -28,3 +24,7 @@
 2026-10-07T17:51:35+00:00	Dispatch officially eligible for The Game Awards for a second year https://www.reddit.com/r/Games/comments/1x03am3/dispatch_officially_eligible_for_the_game_awards/
 2026-10-07T20:56:55+00:00	FSR 4 special version to boost gaming performance on handhelds, coming this year https://www.reddit.com/r/Games/comments/1x083p3/fsr_4_special_version_to_boost_gaming_performance/
 2026-10-07T21:10:58+00:00	Sony Sells off Dozens of XR Patents to Meta in Apparent Pullback from AR/VR Hardware https://www.reddit.com/r/Games/comments/1x08gts/sony_sells_off_dozens_of_xr_patents_to_meta_in/
+2026-10-07T22:02:44+00:00	Welcome to Dragon's Dogma 2: Dark Arisen - Presented by Ron Perlman https://www.reddit.com/r/Games/comments/1x09qyv/welcome_to_dragons_dogma_2_dark_arisen_presented/
+2026-10-07T22:19:59+00:00	Dragon's Dogma 2: Dark Arisen Review Thread https://www.reddit.com/r/Games/comments/1x0a5ri/dragons_dogma_2_dark_arisen_review_thread/
+2026-10-07T22:23:38+00:00	[LGR] Sierra Screamin' 3D Graphics Accelerator from 1996 https://www.reddit.com/r/Games/comments/1x0a8r9/lgr_sierra_screamin_3d_graphics_accelerator_from/
+2026-10-08T00:46:25+00:00	Samira and Sett Gameplay Reveal Trailer https://www.reddit.com/r/Games/comments/1x0dbu5/samira_and_sett_gameplay_reveal_trailer/
