@@ -3,28 +3,28 @@
 # source = https://www.reddit.com/r/Games.rss
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
-2026-10-06T15:07:35+00:00	GameStop and Third-Party Resellers Raise Used PS5 Pro Price to $1,400 — a $500 Markup on Sony's RRP https://www.reddit.com/r/Games/comments/1wz507q/gamestop_and_thirdparty_resellers_raise_used_ps5/
-2026-10-07T09:27:57+00:00	Sources: Ape Escape revival in the works from Sonic Mania team https://www.reddit.com/r/Games/comments/1wzs2tb/sources_ape_escape_revival_in_the_works_from/
 2026-10-07T11:00:36+00:00	Daily /r/Games Discussion - Suggest Me a Game - October 07, 2026 https://www.reddit.com/r/Games/comments/1wztk7i/daily_rgames_discussion_suggest_me_a_game_october/
-2026-10-07T12:01:27+00:00	Warhammer 40,000: Dawn of War 4 Dev Says It's Got More Single-Player Content Than Any Other RTS Ever at Launch https://www.reddit.com/r/Games/comments/1wzuonm/warhammer_40000_dawn_of_war_4_dev_says_its_got/
-2026-10-07T12:06:29+00:00	Former Capcom developer says years of extreme crunch culture are part of why Japan’s game industry has so few female directors https://www.reddit.com/r/Games/comments/1wzus67/former_capcom_developer_says_years_of_extreme/
-2026-10-07T13:13:58+00:00	Monster Hunter Rise is coming to iOS and Android through Netflix according to new store pages https://www.reddit.com/r/Games/comments/1wzw7hj/monster_hunter_rise_is_coming_to_ios_and_android/
-2026-10-07T13:14:19+00:00	BECROWNED ► Release Window and Console Announcement Trailer https://www.reddit.com/r/Games/comments/1wzw7rg/becrowned_release_window_and_console_announcement/
-2026-10-07T13:17:28+00:00	ATMOSFAR EA Release Date Trailer : Enter Tycos https://www.reddit.com/r/Games/comments/1wzwafx/atmosfar_ea_release_date_trailer_enter_tycos/
-2026-10-07T13:34:25+00:00	Eletta - Official Release Date Trailer https://www.reddit.com/r/Games/comments/1wzwopo/eletta_official_release_date_trailer/
-2026-10-07T14:01:18+00:00	Annihilated - Official New Release Date Trailer https://www.reddit.com/r/Games/comments/1wzxbtc/annihilated_official_new_release_date_trailer/
-2026-10-07T15:22:54+00:00	Order of the Sinking Star Review Thread https://www.reddit.com/r/Games/comments/1wzzdhb/order_of_the_sinking_star_review_thread/
 2026-10-07T15:29:07+00:00	Gears of War: E-Day Studio Boss Insists 'The Next Game Will Not Take Nearly as Long' to Make, Responds to Layoff Concern https://www.reddit.com/r/Games/comments/1wzzj6j/gears_of_war_eday_studio_boss_insists_the_next/
-2026-10-07T16:26:11+00:00	Paramount Games Studio and Warner Bros. Games will merge into a single combined games division after Paramount's acquisition of Warner Bros. https://www.reddit.com/r/Games/comments/1x011b9/paramount_games_studio_and_warner_bros_games_will/
-2026-10-07T16:56:45+00:00	Coming to XBOX Game Pass: Battlefield 6, Valor Mortis, Forever Ago, and More https://www.reddit.com/r/Games/comments/1x01u1z/coming_to_xbox_game_pass_battlefield_6_valor/
 2026-10-07T17:04:17+00:00	But Reactor announces the rehiring of furloughed staff to continue ongoing Star Wars: Zero Company support https://www.reddit.com/r/Games/comments/1x021gr/but_reactor_announces_the_rehiring_of_furloughed/
-2026-10-07T17:32:28+00:00	THE INFILTRATOR | THE FINALS PRIME TIME https://www.reddit.com/r/Games/comments/1x02s5q/the_infiltrator_the_finals_prime_time/
-2026-10-07T17:36:14+00:00	March of Giants Cinematic Trailer https://www.reddit.com/r/Games/comments/1x02vv8/march_of_giants_cinematic_trailer/
 2026-10-07T17:37:09+00:00	MARVEL Tōkon: Fighting Souls | Phoenix Cyclops Gameplay Trailer https://www.reddit.com/r/Games/comments/1x02wrb/marvel_tōkon_fighting_souls_phoenix_cyclops/
 2026-10-07T17:51:35+00:00	Dispatch officially eligible for The Game Awards for a second year https://www.reddit.com/r/Games/comments/1x03am3/dispatch_officially_eligible_for_the_game_awards/
-2026-10-07T20:56:55+00:00	FSR 4 special version to boost gaming performance on handhelds, coming this year https://www.reddit.com/r/Games/comments/1x083p3/fsr_4_special_version_to_boost_gaming_performance/
 2026-10-07T21:10:58+00:00	Sony Sells off Dozens of XR Patents to Meta in Apparent Pullback from AR/VR Hardware https://www.reddit.com/r/Games/comments/1x08gts/sony_sells_off_dozens_of_xr_patents_to_meta_in/
 2026-10-07T22:02:44+00:00	Welcome to Dragon's Dogma 2: Dark Arisen - Presented by Ron Perlman https://www.reddit.com/r/Games/comments/1x09qyv/welcome_to_dragons_dogma_2_dark_arisen_presented/
 2026-10-07T22:19:59+00:00	Dragon's Dogma 2: Dark Arisen Review Thread https://www.reddit.com/r/Games/comments/1x0a5ri/dragons_dogma_2_dark_arisen_review_thread/
-2026-10-07T22:23:38+00:00	[LGR] Sierra Screamin' 3D Graphics Accelerator from 1996 https://www.reddit.com/r/Games/comments/1x0a8r9/lgr_sierra_screamin_3d_graphics_accelerator_from/
 2026-10-08T00:46:25+00:00	Samira and Sett Gameplay Reveal Trailer https://www.reddit.com/r/Games/comments/1x0dbu5/samira_and_sett_gameplay_reveal_trailer/
+2026-10-08T09:41:26+00:00	The original Grand Theft Auto was open-world because ‘we didn’t want to have to build a front end’, dev says https://www.reddit.com/r/Games/comments/1x0mnob/the_original_grand_theft_auto_was_openworld/
+2026-10-08T11:44:28+00:00	It has now been a week since Ace Combat 8 (officially) came out. What are your thoughts on it? https://www.reddit.com/r/Games/comments/1x0or2t/it_has_now_been_a_week_since_ace_combat_8/
+2026-10-08T12:15:15+00:00	Clive Barker’s Hellraiser: Revival - Launch Trailer https://www.reddit.com/r/Games/comments/1x0pcw3/clive_barkers_hellraiser_revival_launch_trailer/
+2026-10-08T12:19:46+00:00	Clive Barker's Hellraiser: Revival Review Thread https://www.reddit.com/r/Games/comments/1x0pg6p/clive_barkers_hellraiser_revival_review_thread/
+2026-10-08T12:33:41+00:00	Star Conflict now shutting down on October 9th with Community Edition to follow enabling custom servers https://www.reddit.com/r/Games/comments/1x0pqdk/star_conflict_now_shutting_down_on_october_9th/
+2026-10-08T13:01:50+00:00	Nintendo Switch Sports Resort – Overview Trailer – Nintendo Switch 2 https://www.reddit.com/r/Games/comments/1x0qbt8/nintendo_switch_sports_resort_overview_trailer/
+2026-10-08T13:05:14+00:00	Neon Abyss 2 | Out Now Trailer https://www.reddit.com/r/Games/comments/1x0qepa/neon_abyss_2_out_now_trailer/
+2026-10-08T13:06:00+00:00	KINGDOM HEARTS Collection [I ~ III] Launch Trailer https://www.reddit.com/r/Games/comments/1x0qf9k/kingdom_hearts_collection_i_iii_launch_trailer/
+2026-10-08T13:23:06+00:00	Spyder: Agent 8 | Release Date Announcement Trailer https://www.reddit.com/r/Games/comments/1x0qt4a/spyder_agent_8_release_date_announcement_trailer/
+2026-10-08T14:02:55+00:00	FATAL FURY: CotW - KEN RYUGUJI https://www.reddit.com/r/Games/comments/1x0rr7l/fatal_fury_cotw_ken_ryuguji/
+2026-10-08T14:03:00+00:00	Richard Garriott is officially regaining control of the Ultima series https://www.reddit.com/r/Games/comments/1x0rram/richard_garriott_is_officially_regaining_control/
+2026-10-08T14:04:48+00:00	The Music of Grand Theft Auto VI https://www.reddit.com/r/Games/comments/1x0rsu4/the_music_of_grand_theft_auto_vi/
+2026-10-08T14:49:01+00:00	Enshrouded - Introducing Sparkworks https://www.reddit.com/r/Games/comments/1x0swn1/enshrouded_introducing_sparkworks/
+2026-10-08T16:05:50+00:00	Outward 2 - New Release Date Trailer (Early Access Available on February 8th) https://www.reddit.com/r/Games/comments/1x0ux0p/outward_2_new_release_date_trailer_early_access/
+2026-10-08T16:06:17+00:00	Machinarium 2 | Announcement Trailer https://www.reddit.com/r/Games/comments/1x0uxg1/machinarium_2_announcement_trailer/
+2026-10-08T16:09:15+00:00	The Triple-i Initiative October 2026 https://www.reddit.com/r/Games/comments/1x0v07v/the_triplei_initiative_october_2026/
