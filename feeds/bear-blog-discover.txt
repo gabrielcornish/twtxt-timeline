@@ -3,8 +3,6 @@
 # source = https://bearblog.dev/discover/feed/
 # description = twtxt conversion of https://bearblog.dev/discover/feed/
 
-2026-10-05T16:37:00+00:00	Let's make /photo pages https://robertbirming.com/make-photo-pages/
-2026-10-05T19:20:00+00:00	I'm taking a break from Reddit https://www.inomnia.me/im-taking-a-break-from-reddit/
 2026-10-06T15:26:49.698744+00:00	how do you make new friends? https://midnight.bearblog.dev/how-do-you-make-new-friends/
 2026-10-06T21:10:00+00:00	'No AI' is a Feature https://lumpmotif.com/no-ai-is-now-a-software-feature/
 2026-10-07T03:59:00+00:00	october 6 llm https://combatdavey.net/october-6-2026/
@@ -13,13 +11,15 @@
 2026-10-08T01:08:00+00:00	The Rise of Software Clickbait https://urflow.bearblog.dev/the-rise-of-software-clickbait/
 2026-10-08T08:42:52.246117+00:00	When trusting website Analytics https://rants.jlopes.eu/when-trusting-website-analytics/
 2026-10-08T10:30:00+00:00	Toast on a Plate https://ludd.life/toast-plate/
-2026-10-08T13:27:00+00:00	Thoughts on Gemini (no, still not the AI) https://yunzi.co.uk/thoughts-on-gemini-no-still-not-the-ai/
 2026-10-08T13:39:52.052621+00:00	I don't want to argue with you. https://piimyon.bearblog.dev/notwanttoargue/
 2026-10-08T14:19:25.477641+00:00	Social Media Mental Health Advocacy https://actualspine.bearblog.dev/social-media-mental/
 2026-10-08T15:05:47.659210+00:00	Second puberty, but like, emotional. https://roseburrow.bearblog.dev/second-puberty-but-like-emotional/
 2026-10-08T15:21:00+00:00	The Deeply Impersonal Personalized Recruiter Mail https://blog.pentlander.com/the-deeply-impersonal-personalized-recruiter-mail/
+2026-10-08T16:00:17.995128+00:00	100th Post! https://turbiegaming.bearblog.dev/100th-post/
 2026-10-08T16:54:00+00:00	Nothing to do on my phone https://folkmoss.bearblog.dev/nothing-to-do-on-my-phone/
 2026-10-08T19:07:24.352328+00:00	Damn these limiting beliefs https://tinkerdwarf.com/damn-these-limiting-beliefs/
 2026-10-08T19:39:00+00:00	...a few questions for the Bear Blog community! https://coreyblogs.com/a-few-questions-for-the-bear-blog-community/
 2026-10-08T21:54:42.940538+00:00	I Got A New Job Today https://dreamingheretic.bearblog.dev/i-got-a-new-job-today/
 2026-10-08T23:21:00+00:00	On Second Thoughts https://loosescrews.bearblog.dev/on-second-thoughts/
+2026-10-08T23:57:00+00:00	collated gay thoughts from the past few months https://cherrysroom.bearblog.dev/collated-gay-thoughts-from-the-past-few-months/
+2026-10-09T06:32:14.056588+00:00	Lord, I don't want to be violent anymore https://lin-living-life.bearblog.dev/lord-i-dont-want-to-be-violent-anymore/

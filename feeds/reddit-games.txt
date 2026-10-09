@@ -7,7 +7,6 @@
 2026-10-08T09:41:26+00:00	The original Grand Theft Auto was open-world because ‘we didn’t want to have to build a front end’, dev says https://www.reddit.com/r/Games/comments/1x0mnob/the_original_grand_theft_auto_was_openworld/
 2026-10-08T11:44:28+00:00	It has now been a week since Ace Combat 8 (officially) came out. What are your thoughts on it? https://www.reddit.com/r/Games/comments/1x0or2t/it_has_now_been_a_week_since_ace_combat_8/
 2026-10-08T12:19:46+00:00	Clive Barker's Hellraiser: Revival Review Thread https://www.reddit.com/r/Games/comments/1x0pg6p/clive_barkers_hellraiser_revival_review_thread/
-2026-10-08T13:01:50+00:00	Nintendo Switch Sports Resort – Overview Trailer – Nintendo Switch 2 https://www.reddit.com/r/Games/comments/1x0qbt8/nintendo_switch_sports_resort_overview_trailer/
 2026-10-08T14:03:00+00:00	Richard Garriott is officially regaining control of the Ultima series https://www.reddit.com/r/Games/comments/1x0rram/richard_garriott_is_officially_regaining_control/
 2026-10-08T14:04:48+00:00	The Music of Grand Theft Auto VI https://www.reddit.com/r/Games/comments/1x0rsu4/the_music_of_grand_theft_auto_vi/
 2026-10-08T14:49:01+00:00	Enshrouded - Introducing Sparkworks https://www.reddit.com/r/Games/comments/1x0swn1/enshrouded_introducing_sparkworks/
@@ -28,3 +27,4 @@
 2026-10-09T00:02:37+00:00	Phantom Blade Zero Hands-on Impressions and Previews https://www.reddit.com/r/Games/comments/1x16th1/phantom_blade_zero_handson_impressions_and/
 2026-10-09T00:45:57+00:00	'Not Sure What I'm Allowed to Say' — Daredevil Star Charlie Cox Confirms He's in an Unannounced Sega Game https://www.reddit.com/r/Games/comments/1x17p7j/not_sure_what_im_allowed_to_say_daredevil_star/
 2026-10-09T01:07:23+00:00	ACE COMBAT 8 has surpassed 1 million copies worldwide faster than any other title in the series https://www.reddit.com/r/Games/comments/1x184ow/ace_combat_8_has_surpassed_1_million_copies/
+2026-10-09T07:35:39+00:00	Is there a name for a genre of games with a "living world", emergent simulation? Should there be? https://www.reddit.com/r/Games/comments/1x1f3hh/is_there_a_name_for_a_genre_of_games_with_a/
