@@ -4,22 +4,22 @@
 # description = twtxt conversion of https://bearblog.dev/discover/feed/
 
 2026-10-06T21:10:00+00:00	'No AI' is a Feature https://lumpmotif.com/no-ai-is-now-a-software-feature/
-2026-10-07T10:30:00+00:00	I Said Tomatoes https://ludd.life/said-tomatoes/
 2026-10-07T11:15:00+00:00	I've Been Deindexed by Google! https://kennyqin.com/deindexed-by-google/
 2026-10-08T01:08:00+00:00	The Rise of Software Clickbait https://urflow.bearblog.dev/the-rise-of-software-clickbait/
 2026-10-08T08:42:52.246117+00:00	When trusting website Analytics https://rants.jlopes.eu/when-trusting-website-analytics/
 2026-10-08T10:30:00+00:00	Toast on a Plate https://ludd.life/toast-plate/
 2026-10-08T13:39:52.052621+00:00	I don't want to argue with you. https://piimyon.bearblog.dev/notwanttoargue/
-2026-10-08T14:19:25.477641+00:00	Social Media Mental Health Advocacy https://actualspine.bearblog.dev/social-media-mental/
 2026-10-08T15:05:47.659210+00:00	Second puberty, but like, emotional. https://roseburrow.bearblog.dev/second-puberty-but-like-emotional/
 2026-10-08T15:21:00+00:00	The Deeply Impersonal Personalized Recruiter Mail https://blog.pentlander.com/the-deeply-impersonal-personalized-recruiter-mail/
 2026-10-08T19:07:24.352328+00:00	Damn these limiting beliefs https://tinkerdwarf.com/damn-these-limiting-beliefs/
-2026-10-08T19:39:00+00:00	...a few questions for the Bear Blog community! https://coreyblogs.com/a-few-questions-for-the-bear-blog-community/
+2026-10-08T19:39:00+00:00	...a few questions for the Bear Blog community! [Updated] https://coreyblogs.com/a-few-questions-for-the-bear-blog-community/
 2026-10-08T21:54:42.940538+00:00	I Got A New Job Today https://davidbarton.bearblog.dev/i-got-a-new-job-today/
 2026-10-08T23:57:00+00:00	collated gay thoughts from the past few months https://cherrysroom.bearblog.dev/collated-gay-thoughts-from-the-past-few-months/
 2026-10-09T02:49:00+00:00	Negative Space Playstyle Principles https://writeodd.bearblog.dev/negative-space/
+2026-10-09T03:59:00+00:00	october 8 ack https://combatdavey.net/october-8-2026/
 2026-10-09T06:32:14.056588+00:00	Lord, I don't want to be violent anymore https://lin-living-life.bearblog.dev/lord-i-dont-want-to-be-violent-anymore/
 2026-10-09T07:31:00+00:00	My Husband Is a Good Man https://asma-en.bearblog.dev/my-husband-is-a-good-man/
 2026-10-09T10:30:00+00:00	Still Wearing One Shoe https://ludd.life/plan-fell-through-evening/
 2026-10-09T12:43:20.744646+00:00	Dolmenwolves Campaign https://elmc.at/dolmenwolves-campaign/
+2026-10-09T17:32:18.401252+00:00	if i could do it all over again https://rnotte.art/if-i-could-do-it-all-over-again/
 2026-10-09T19:12:00+00:00	Eu não falo de política? https://bruja.bearblog.dev/eu-nao-falo-de-politica/

@@ -4,17 +4,14 @@
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
 2026-10-07T11:00:36+00:00	Daily /r/Games Discussion - Suggest Me a Game - October 07, 2026 https://www.reddit.com/r/Games/comments/1wztk7i/daily_rgames_discussion_suggest_me_a_game_october/
-2026-10-08T14:04:48+00:00	The Music of Grand Theft Auto VI https://www.reddit.com/r/Games/comments/1x0rsu4/the_music_of_grand_theft_auto_vi/
 2026-10-08T16:06:17+00:00	Machinarium 2 | Announcement Trailer https://www.reddit.com/r/Games/comments/1x0uxg1/machinarium_2_announcement_trailer/
 2026-10-08T19:59:44+00:00	Yoko Taro says he already achieved his game development dreams with Drakengard, and now works “to prevent dementia” https://www.reddit.com/r/Games/comments/1x11305/yoko_taro_says_he_already_achieved_his_game/
 2026-10-08T22:44:01+00:00	Ubisoft Shutting Down Rainbow Six Mobile After Less Than A Year https://www.reddit.com/r/Games/comments/1x1543o/ubisoft_shutting_down_rainbow_six_mobile_after/
-2026-10-09T00:02:37+00:00	Phantom Blade Zero Hands-on Impressions and Previews https://www.reddit.com/r/Games/comments/1x16th1/phantom_blade_zero_handson_impressions_and/
 2026-10-09T00:45:57+00:00	'Not Sure What I'm Allowed to Say' — Daredevil Star Charlie Cox Confirms He's in an Unannounced Sega Game https://www.reddit.com/r/Games/comments/1x17p7j/not_sure_what_im_allowed_to_say_daredevil_star/
 2026-10-09T01:07:23+00:00	ACE COMBAT 8 has surpassed 1 million copies worldwide faster than any other title in the series https://www.reddit.com/r/Games/comments/1x184ow/ace_combat_8_has_surpassed_1_million_copies/
 2026-10-09T07:35:39+00:00	Is there a name for a genre of games with a "living world", emergent simulation? Should there be? https://www.reddit.com/r/Games/comments/1x1f3hh/is_there_a_name_for_a_genre_of_games_with_a/
 2026-10-09T10:27:55+00:00	Car Park Capital | Launch Trailer https://www.reddit.com/r/Games/comments/1x1htgs/car_park_capital_launch_trailer/
 2026-10-09T12:35:56+00:00	Heathen | Official Gameplay Overview Trailer https://www.reddit.com/r/Games/comments/1x1k7zg/heathen_official_gameplay_overview_trailer/
-2026-10-09T13:12:59+00:00	Wildaria – Early Access Launch Trailer https://www.reddit.com/r/Games/comments/1x1l0vb/wildaria_early_access_launch_trailer/
 2026-10-09T13:15:55+00:00	Valor Mortis - Official Launch Trailer | October 13 https://www.reddit.com/r/Games/comments/1x1l3ce/valor_mortis_official_launch_trailer_october_13/
 2026-10-09T14:57:16+00:00	Inside The Failed Fight To Unionize Double Fine https://www.reddit.com/r/Games/comments/1x1njy8/inside_the_failed_fight_to_unionize_double_fine/
 2026-10-09T15:20:20+00:00	Magnavale: Eternal Soul - Official Demo Trailer https://www.reddit.com/r/Games/comments/1x1o57v/magnavale_eternal_soul_official_demo_trailer/
@@ -26,5 +23,8 @@
 2026-10-09T19:54:35+00:00	Steam Frame updates: Reservation timing, software updates, and more https://www.reddit.com/r/Games/comments/1x1v8ke/steam_frame_updates_reservation_timing_software/
 2026-10-09T20:21:38+00:00	Bloomberg: Disney’s ‘Star Wars’ Strategy Is Working Out Much Better for Video Games https://www.reddit.com/r/Games/comments/1x1vxgz/bloomberg_disneys_star_wars_strategy_is_working/
 2026-10-09T20:24:44+00:00	Truckful - Launch Trailer - Pocketpair Publishing https://www.reddit.com/r/Games/comments/1x1w0ag/truckful_launch_trailer_pocketpair_publishing/
-2026-10-09T21:00:45+00:00	Deadlock - Make Your Move. - New Deadlock hero https://www.reddit.com/r/Games/comments/1x1ww5v/deadlock_make_your_move_new_deadlock_hero/
 2026-10-09T21:09:06+00:00	Sonic Racing: Crossworlds - Year Two Showcase https://www.reddit.com/r/Games/comments/1x1x385/sonic_racing_crossworlds_year_two_showcase/
+2026-10-09T21:43:15+00:00	Gears of War: E-Day | Accolades Trailer https://www.reddit.com/r/Games/comments/1x1xw4a/gears_of_war_eday_accolades_trailer/
+2026-10-09T22:23:49+00:00	Medium Rare | Demo Trailer https://www.reddit.com/r/Games/comments/1x1ytof/medium_rare_demo_trailer/
+2026-10-09T22:58:47+00:00	FLAK Simulator | Teaser Trailer https://www.reddit.com/r/Games/comments/1x1zkzx/flak_simulator_teaser_trailer/
+2026-10-10T00:10:25+00:00	Crazy Taxi: World Tour - Official 'Welcome to Brazil' Trailer https://www.reddit.com/r/Games/comments/1x214g1/crazy_taxi_world_tour_official_welcome_to_brazil/
