@@ -4,9 +4,7 @@
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
 2026-10-07T11:00:36+00:00	Daily /r/Games Discussion - Suggest Me a Game - October 07, 2026 https://www.reddit.com/r/Games/comments/1wztk7i/daily_rgames_discussion_suggest_me_a_game_october/
-2026-10-08T16:06:17+00:00	Machinarium 2 | Announcement Trailer https://www.reddit.com/r/Games/comments/1x0uxg1/machinarium_2_announcement_trailer/
 2026-10-08T19:59:44+00:00	Yoko Taro says he already achieved his game development dreams with Drakengard, and now works “to prevent dementia” https://www.reddit.com/r/Games/comments/1x11305/yoko_taro_says_he_already_achieved_his_game/
-2026-10-08T22:44:01+00:00	Ubisoft Shutting Down Rainbow Six Mobile After Less Than A Year https://www.reddit.com/r/Games/comments/1x1543o/ubisoft_shutting_down_rainbow_six_mobile_after/
 2026-10-09T00:45:57+00:00	'Not Sure What I'm Allowed to Say' — Daredevil Star Charlie Cox Confirms He's in an Unannounced Sega Game https://www.reddit.com/r/Games/comments/1x17p7j/not_sure_what_im_allowed_to_say_daredevil_star/
 2026-10-09T01:07:23+00:00	ACE COMBAT 8 has surpassed 1 million copies worldwide faster than any other title in the series https://www.reddit.com/r/Games/comments/1x184ow/ace_combat_8_has_surpassed_1_million_copies/
 2026-10-09T07:35:39+00:00	Is there a name for a genre of games with a "living world", emergent simulation? Should there be? https://www.reddit.com/r/Games/comments/1x1f3hh/is_there_a_name_for_a_genre_of_games_with_a/
@@ -28,3 +26,5 @@
 2026-10-09T22:23:49+00:00	Medium Rare | Demo Trailer https://www.reddit.com/r/Games/comments/1x1ytof/medium_rare_demo_trailer/
 2026-10-09T22:58:47+00:00	FLAK Simulator | Teaser Trailer https://www.reddit.com/r/Games/comments/1x1zkzx/flak_simulator_teaser_trailer/
 2026-10-10T00:10:25+00:00	Crazy Taxi: World Tour - Official 'Welcome to Brazil' Trailer https://www.reddit.com/r/Games/comments/1x214g1/crazy_taxi_world_tour_official_welcome_to_brazil/
+2026-10-10T03:15:03+00:00	Eternal Tombs - Development, Demo Release, Next Fest, & Launch Timeline https://www.reddit.com/r/Games/comments/1x24pli/eternal_tombs_development_demo_release_next_fest/
+2026-10-10T04:07:43+00:00	Kopernicus: Incremental Suffering | Demo Trailer https://www.reddit.com/r/Games/comments/1x25o3u/kopernicus_incremental_suffering_demo_trailer/
