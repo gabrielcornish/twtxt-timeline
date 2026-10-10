@@ -4,18 +4,14 @@
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
 2026-10-07T11:00:36+00:00	Daily /r/Games Discussion - Suggest Me a Game - October 07, 2026 https://www.reddit.com/r/Games/comments/1wztk7i/daily_rgames_discussion_suggest_me_a_game_october/
-2026-10-09T01:07:23+00:00	ACE COMBAT 8 has surpassed 1 million copies worldwide faster than any other title in the series https://www.reddit.com/r/Games/comments/1x184ow/ace_combat_8_has_surpassed_1_million_copies/
 2026-10-09T10:27:55+00:00	Car Park Capital | Launch Trailer https://www.reddit.com/r/Games/comments/1x1htgs/car_park_capital_launch_trailer/
 2026-10-09T12:35:56+00:00	Heathen | Official Gameplay Overview Trailer https://www.reddit.com/r/Games/comments/1x1k7zg/heathen_official_gameplay_overview_trailer/
 2026-10-09T13:15:55+00:00	Valor Mortis - Official Launch Trailer | October 13 https://www.reddit.com/r/Games/comments/1x1l3ce/valor_mortis_official_launch_trailer_october_13/
 2026-10-09T14:57:16+00:00	Inside The Failed Fight To Unionize Double Fine https://www.reddit.com/r/Games/comments/1x1njy8/inside_the_failed_fight_to_unionize_double_fine/
 2026-10-09T16:06:36+00:00	STAR WARS Zero Company has reached 1 million units sold https://www.reddit.com/r/Games/comments/1x1pclq/star_wars_zero_company_has_reached_1_million/
-2026-10-09T16:44:28+00:00	Phantom Blade Zero - 20 Minutes of Combat & Exploration Gameplay: No Commentary https://www.reddit.com/r/Games/comments/1x1qbt7/phantom_blade_zero_20_minutes_of_combat/
-2026-10-09T17:09:32+00:00	「FATAL FURY: CotW ×TEKKEN8｜Reina｜Teaser Trailer」 https://www.reddit.com/r/Games/comments/1x1qz29/fatal_fury_cotw_tekken8reinateaser_trailer/
 2026-10-09T18:13:13+00:00	Rockstar HR Questioned Over Discord ‘Mole’ And Sudden Timing Of GTA 6 Dev Firings In Latest Labor Tribunal Hearing https://www.reddit.com/r/Games/comments/1x1smj5/rockstar_hr_questioned_over_discord_mole_and/
 2026-10-09T19:54:35+00:00	Steam Frame updates: Reservation timing, software updates, and more https://www.reddit.com/r/Games/comments/1x1v8ke/steam_frame_updates_reservation_timing_software/
 2026-10-09T20:21:38+00:00	Bloomberg: Disney’s ‘Star Wars’ Strategy Is Working Out Much Better for Video Games https://www.reddit.com/r/Games/comments/1x1vxgz/bloomberg_disneys_star_wars_strategy_is_working/
-2026-10-09T20:24:44+00:00	Truckful - Launch Trailer - Pocketpair Publishing https://www.reddit.com/r/Games/comments/1x1w0ag/truckful_launch_trailer_pocketpair_publishing/
 2026-10-09T21:09:06+00:00	Sonic Racing: Crossworlds - Year Two Showcase https://www.reddit.com/r/Games/comments/1x1x385/sonic_racing_crossworlds_year_two_showcase/
 2026-10-09T21:43:15+00:00	Gears of War: E-Day | Accolades Trailer https://www.reddit.com/r/Games/comments/1x1xw4a/gears_of_war_eday_accolades_trailer/
 2026-10-09T22:23:49+00:00	Medium Rare | Demo Trailer https://www.reddit.com/r/Games/comments/1x1ytof/medium_rare_demo_trailer/
@@ -28,3 +24,7 @@
 2026-10-10T13:28:59+00:00	As Xbox and PlayStation sales reach new lows, analyst says the "US hardware market has not been in a more precarious position since the early 80s" https://www.reddit.com/r/Games/comments/1x2fc94/as_xbox_and_playstation_sales_reach_new_lows/
 2026-10-10T13:33:43+00:00	AMA: Alex & friends from ATOM TEAM, an indie roleplaying game developer with a 10 year record. Ask us anything! https://www.reddit.com/r/Games/comments/1x2ffx8/ama_alex_friends_from_atom_team_an_indie/
 2026-10-10T15:00:41+00:00	‘Squadron 42’ Release Nears as Cloud Imperium Opens Steam Wishlist https://www.reddit.com/r/Games/comments/1x2hejd/squadron_42_release_nears_as_cloud_imperium_opens/
+2026-10-10T15:39:39+00:00	Squadron 42 - Official Wishlist Trailer https://www.reddit.com/r/Games/comments/1x2ibuf/squadron_42_official_wishlist_trailer/
+2026-10-10T16:11:20+00:00	Loothold official Announcement Trailer https://www.reddit.com/r/Games/comments/1x2j3ab/loothold_official_announcement_trailer/
+2026-10-10T17:17:15+00:00	"A creative idea can save more money than AI can right now" – Glen Schofield on his retirement, Callisto Protocol's development, and the state of AAA https://www.reddit.com/r/Games/comments/1x2koal/a_creative_idea_can_save_more_money_than_ai_can/
+2026-10-10T18:00:48+00:00	WOIM Releases October 21st! (world earthworm day) https://www.reddit.com/r/Games/comments/1x2lpwl/woim_releases_october_21st_world_earthworm_day/
