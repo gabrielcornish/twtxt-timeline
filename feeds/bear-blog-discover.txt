@@ -4,22 +4,22 @@
 # description = twtxt conversion of https://bearblog.dev/discover/feed/
 
 2026-10-07T11:15:00+00:00	I've Been Deindexed by Google! https://kennyqin.com/deindexed-by-google/
-2026-10-08T01:08:00+00:00	The Rise of Software Clickbait https://urflow.bearblog.dev/the-rise-of-software-clickbait/
 2026-10-08T08:42:52.246117+00:00	When trusting website Analytics https://rants.jlopes.eu/when-trusting-website-analytics/
 2026-10-08T10:30:00+00:00	Toast on a Plate https://ludd.life/toast-plate/
-2026-10-08T13:39:52.052621+00:00	I don't want to argue with you. https://piimyon.bearblog.dev/notwanttoargue/
-2026-10-08T15:05:47.659210+00:00	Second puberty, but like, emotional. https://roseburrow.bearblog.dev/second-puberty-but-like-emotional/
 2026-10-08T15:21:00+00:00	The Deeply Impersonal Personalized Recruiter Mail https://blog.pentlander.com/the-deeply-impersonal-personalized-recruiter-mail/
-2026-10-08T19:07:24.352328+00:00	Damn these limiting beliefs https://tinkerdwarf.com/damn-these-limiting-beliefs/
 2026-10-08T19:39:00+00:00	...a few questions for the Bear Blog community! [Updated] https://coreyblogs.com/a-few-questions-for-the-bear-blog-community/
-2026-10-08T21:54:42.940538+00:00	I Got A New Job Today https://davidbarton.bearblog.dev/i-got-a-new-job-today/
 2026-10-09T02:49:00+00:00	Negative Space Playstyle Principles https://writeodd.bearblog.dev/negative-space/
-2026-10-09T03:59:00+00:00	october 8 ack https://combatdavey.net/october-8-2026/
 2026-10-09T06:32:14.056588+00:00	Lord, I don't want to be violent anymore https://lin-living-life.bearblog.dev/lord-i-dont-want-to-be-violent-anymore/
 2026-10-09T10:30:00+00:00	Still Wearing One Shoe https://ludd.life/plan-fell-through-evening/
 2026-10-09T12:43:20.744646+00:00	Dolmenwolves Campaign https://elmc.at/dolmenwolves-campaign/
+2026-10-09T13:25:26.552968+00:00	Godot was on time, and he brought presents. https://itsme.bearblog.dev/godot-was-on-time-and-he-brought-presents/
+2026-10-09T17:16:00+00:00	Nudity: a surprising and reflective experience! https://forkingmad.blog/nudity-a-surprising-and-reflective-experience/
 2026-10-09T17:32:18.401252+00:00	if i could do it all over again https://rnotte.art/if-i-could-do-it-all-over-again/
 2026-10-09T18:45:10.086350+00:00	PTSD and the workplace https://tadaima.bearblog.dev/ptsd-and-the-workplace/
-2026-10-09T19:12:00+00:00	Eu não falo de política? https://bruja.bearblog.dev/eu-nao-falo-de-politica/
-2026-10-09T22:31:00+00:00	...some words about some words. https://coreyblogs.com/some-words-about-some-words/
+2026-10-09T20:42:05.915158+00:00	past 9pm thoughts https://symliadoo.bearblog.dev/past-9pm-thoughts/
+2026-10-09T22:31:00+00:00	...some wise words about life, none of which are his. https://coreyblogs.com/some-wise-words-about-life-none-of-which-are-his/
 2026-10-10T02:02:34.128224+00:00	Justifying beliefs https://doodhpeda.bearblog.dev/blog/justifying-beliefs/
+2026-10-10T02:36:03.574701+00:00	Hard and Soft https://rickw.bearblog.dev/hard-and-soft/
+2026-10-10T06:31:00+00:00	Maybe the nicest pictures I have taken in 2026 https://blog.lauramichet.com/maybe-the-nicest-pictures-i-have-taken-in-2026/
+2026-10-10T12:54:23.240896+00:00	A lingering feeling https://feresunajacaranda.bearblog.dev/a-lingering-feeling/
+2026-10-10T13:29:57.134442+00:00	little mountain https://sesame.bearblog.dev/little-mountain/

@@ -4,20 +4,15 @@
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
 2026-10-07T11:00:36+00:00	Daily /r/Games Discussion - Suggest Me a Game - October 07, 2026 https://www.reddit.com/r/Games/comments/1wztk7i/daily_rgames_discussion_suggest_me_a_game_october/
-2026-10-08T19:59:44+00:00	Yoko Taro says he already achieved his game development dreams with Drakengard, and now works “to prevent dementia” https://www.reddit.com/r/Games/comments/1x11305/yoko_taro_says_he_already_achieved_his_game/
-2026-10-09T00:45:57+00:00	'Not Sure What I'm Allowed to Say' — Daredevil Star Charlie Cox Confirms He's in an Unannounced Sega Game https://www.reddit.com/r/Games/comments/1x17p7j/not_sure_what_im_allowed_to_say_daredevil_star/
 2026-10-09T01:07:23+00:00	ACE COMBAT 8 has surpassed 1 million copies worldwide faster than any other title in the series https://www.reddit.com/r/Games/comments/1x184ow/ace_combat_8_has_surpassed_1_million_copies/
-2026-10-09T07:35:39+00:00	Is there a name for a genre of games with a "living world", emergent simulation? Should there be? https://www.reddit.com/r/Games/comments/1x1f3hh/is_there_a_name_for_a_genre_of_games_with_a/
 2026-10-09T10:27:55+00:00	Car Park Capital | Launch Trailer https://www.reddit.com/r/Games/comments/1x1htgs/car_park_capital_launch_trailer/
 2026-10-09T12:35:56+00:00	Heathen | Official Gameplay Overview Trailer https://www.reddit.com/r/Games/comments/1x1k7zg/heathen_official_gameplay_overview_trailer/
 2026-10-09T13:15:55+00:00	Valor Mortis - Official Launch Trailer | October 13 https://www.reddit.com/r/Games/comments/1x1l3ce/valor_mortis_official_launch_trailer_october_13/
 2026-10-09T14:57:16+00:00	Inside The Failed Fight To Unionize Double Fine https://www.reddit.com/r/Games/comments/1x1njy8/inside_the_failed_fight_to_unionize_double_fine/
-2026-10-09T15:20:20+00:00	Magnavale: Eternal Soul - Official Demo Trailer https://www.reddit.com/r/Games/comments/1x1o57v/magnavale_eternal_soul_official_demo_trailer/
 2026-10-09T16:06:36+00:00	STAR WARS Zero Company has reached 1 million units sold https://www.reddit.com/r/Games/comments/1x1pclq/star_wars_zero_company_has_reached_1_million/
 2026-10-09T16:44:28+00:00	Phantom Blade Zero - 20 Minutes of Combat & Exploration Gameplay: No Commentary https://www.reddit.com/r/Games/comments/1x1qbt7/phantom_blade_zero_20_minutes_of_combat/
 2026-10-09T17:09:32+00:00	「FATAL FURY: CotW ×TEKKEN8｜Reina｜Teaser Trailer」 https://www.reddit.com/r/Games/comments/1x1qz29/fatal_fury_cotw_tekken8reinateaser_trailer/
 2026-10-09T18:13:13+00:00	Rockstar HR Questioned Over Discord ‘Mole’ And Sudden Timing Of GTA 6 Dev Firings In Latest Labor Tribunal Hearing https://www.reddit.com/r/Games/comments/1x1smj5/rockstar_hr_questioned_over_discord_mole_and/
-2026-10-09T18:17:49+00:00	Right after graduation, I jumped into indie dev for 3 years. Today, my rhythm-platformer Beat, Heart, Beat launches in Early Access! - AMA https://www.reddit.com/r/Games/comments/1x1sqrq/right_after_graduation_i_jumped_into_indie_dev/
 2026-10-09T19:54:35+00:00	Steam Frame updates: Reservation timing, software updates, and more https://www.reddit.com/r/Games/comments/1x1v8ke/steam_frame_updates_reservation_timing_software/
 2026-10-09T20:21:38+00:00	Bloomberg: Disney’s ‘Star Wars’ Strategy Is Working Out Much Better for Video Games https://www.reddit.com/r/Games/comments/1x1vxgz/bloomberg_disneys_star_wars_strategy_is_working/
 2026-10-09T20:24:44+00:00	Truckful - Launch Trailer - Pocketpair Publishing https://www.reddit.com/r/Games/comments/1x1w0ag/truckful_launch_trailer_pocketpair_publishing/
@@ -28,3 +23,8 @@
 2026-10-10T00:10:25+00:00	Crazy Taxi: World Tour - Official 'Welcome to Brazil' Trailer https://www.reddit.com/r/Games/comments/1x214g1/crazy_taxi_world_tour_official_welcome_to_brazil/
 2026-10-10T03:15:03+00:00	Eternal Tombs - Development, Demo Release, Next Fest, & Launch Timeline https://www.reddit.com/r/Games/comments/1x24pli/eternal_tombs_development_demo_release_next_fest/
 2026-10-10T04:07:43+00:00	Kopernicus: Incremental Suffering | Demo Trailer https://www.reddit.com/r/Games/comments/1x25o3u/kopernicus_incremental_suffering_demo_trailer/
+2026-10-10T11:47:19+00:00	Jay and Silent Bob’s Joint Venture - Official Trailer | NYCC 2026 https://www.reddit.com/r/Games/comments/1x2dbpu/jay_and_silent_bobs_joint_venture_official/
+2026-10-10T12:36:58+00:00	Silent Hill Producer Says ‘Second’ And ‘Third Wave’ Of Games Are Already Being Considered https://www.reddit.com/r/Games/comments/1x2e9v1/silent_hill_producer_says_second_and_third_wave/
+2026-10-10T13:28:59+00:00	As Xbox and PlayStation sales reach new lows, analyst says the "US hardware market has not been in a more precarious position since the early 80s" https://www.reddit.com/r/Games/comments/1x2fc94/as_xbox_and_playstation_sales_reach_new_lows/
+2026-10-10T13:33:43+00:00	AMA: Alex & friends from ATOM TEAM, an indie roleplaying game developer with a 10 year record. Ask us anything! https://www.reddit.com/r/Games/comments/1x2ffx8/ama_alex_friends_from_atom_team_an_indie/
+2026-10-10T15:00:41+00:00	‘Squadron 42’ Release Nears as Cloud Imperium Opens Steam Wishlist https://www.reddit.com/r/Games/comments/1x2hejd/squadron_42_release_nears_as_cloud_imperium_opens/
