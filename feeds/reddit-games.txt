@@ -3,28 +3,28 @@
 # source = https://www.reddit.com/r/Games.rss
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
-2026-10-10T12:36:58+00:00	Silent Hill Producer Says ‘Second’ And ‘Third Wave’ Of Games Are Already Being Considered https://www.reddit.com/r/Games/comments/1x2e9v1/silent_hill_producer_says_second_and_third_wave/
 2026-10-10T13:28:59+00:00	As Xbox and PlayStation sales reach new lows, analyst says the "US hardware market has not been in a more precarious position since the early 80s" https://www.reddit.com/r/Games/comments/1x2fc94/as_xbox_and_playstation_sales_reach_new_lows/
 2026-10-10T15:00:41+00:00	‘Squadron 42’ Release Nears as Cloud Imperium Opens Steam Wishlist https://www.reddit.com/r/Games/comments/1x2hejd/squadron_42_release_nears_as_cloud_imperium_opens/
 2026-10-10T15:39:39+00:00	Squadron 42 - Official Wishlist Trailer https://www.reddit.com/r/Games/comments/1x2ibuf/squadron_42_official_wishlist_trailer/
-2026-10-10T16:11:20+00:00	Loothold official Announcement Trailer https://www.reddit.com/r/Games/comments/1x2j3ab/loothold_official_announcement_trailer/
-2026-10-10T17:17:15+00:00	"A creative idea can save more money than AI can right now" – Glen Schofield on his retirement, Callisto Protocol's development, and the state of AAA https://www.reddit.com/r/Games/comments/1x2koal/a_creative_idea_can_save_more_money_than_ai_can/
 2026-10-10T23:45:10+00:00	Windrose - Ashlands Reveal Trailer https://www.reddit.com/r/Games/comments/1x2th5o/windrose_ashlands_reveal_trailer/
 2026-10-11T01:06:47+00:00	Electronic Arts' leveraged buyout faces a bondholder battle https://www.reddit.com/r/Games/comments/1x2v3y0/electronic_arts_leveraged_buyout_faces_a/
 2026-10-11T01:07:39+00:00	Re-release of Wing Commander III coming out with video taken from the original tapes courtesy of a restoration project led by Jim Vessella who has been digitizing the EA video archive https://www.reddit.com/r/Games/comments/1x2v4jm/rerelease_of_wing_commander_iii_coming_out_with/
 2026-10-11T04:00:41+00:00	Indie Sunday Hub - October 11, 2026 https://www.reddit.com/r/Games/comments/1x2ydck/indie_sunday_hub_october_11_2026/
 2026-10-11T08:34:00+00:00	FEED ME MORE BRAINS - Sheraf Games - A first person incremental about feeding a lovecraftian god https://www.reddit.com/r/Games/comments/1x32ydu/feed_me_more_brains_sheraf_games_a_first_person/
 2026-10-11T09:00:35+00:00	Weekly /r/Games Discussion - What have you been playing, and what are your thoughts? - October 11, 2026 https://www.reddit.com/r/Games/comments/1x33dro/weekly_rgames_discussion_what_have_you_been/
-2026-10-11T10:07:21+00:00	Air Combat Legends - AirCombatLegend - Retro Cold War combat flight sim with a dynamic campaign https://www.reddit.com/r/Games/comments/1x34goo/air_combat_legends_aircombatlegend_retro_cold_war/
 2026-10-11T10:14:29+00:00	Rune Runners - Pierogi Games - 3D Coop Adventure Platformer inspired by Mage Bros https://www.reddit.com/r/Games/comments/1x34l3z/rune_runners_pierogi_games_3d_coop_adventure/
-2026-10-11T10:31:56+00:00	Pathwright Defense - unoul - Free browser tower defense with a built-in level editor https://www.reddit.com/r/Games/comments/1x34vx1/pathwright_defense_unoul_free_browser_tower/
-2026-10-11T10:47:00+00:00	FMV | Full Motion Voyeur - Ten Thousand Hearts - A surveillance horror game where you investigate sinners and feed them to a Demon https://www.reddit.com/r/Games/comments/1x354wt/fmv_full_motion_voyeur_ten_thousand_hearts_a/
-2026-10-11T10:53:29+00:00	Hasami: Moonlight Trim - Symfonim - A peaceful tree pruning game with procedural physically simulated trees https://www.reddit.com/r/Games/comments/1x358rk/hasami_moonlight_trim_symfonim_a_peaceful_tree/
-2026-10-11T11:07:54+00:00	SYSTEM INTRUDER - R_Games - Cyberpunk Survival Horror https://www.reddit.com/r/Games/comments/1x35hrk/system_intruder_r_games_cyberpunk_survival_horror/
-2026-10-11T11:10:40+00:00	DreadHaven: The Last Colony - Woum - Turn-based city builder by day, and tower defense by night https://www.reddit.com/r/Games/comments/1x35jhl/dreadhaven_the_last_colony_woum_turnbased_city/
 2026-10-11T11:54:03+00:00	Reality Drift - Arganoid Industries - roguelike racing with art by Katamari Damacy creator https://www.reddit.com/r/Games/comments/1x36b7x/reality_drift_arganoid_industries_roguelike/
 2026-10-11T11:57:12+00:00	Echoes of Aromia - Studio Targa - A 14 year old Dungeons and Dragons campaign turned Pixel art RPG https://www.reddit.com/r/Games/comments/1x36dat/echoes_of_aromia_studio_targa_a_14_year_old/
 2026-10-11T12:08:19+00:00	MARVEL Tōkon: Fighting Souls | Year 1 DLC Character - Thor (Jane Foster) https://www.reddit.com/r/Games/comments/1x36leg/marvel_tōkon_fighting_souls_year_1_dlc_character/
 2026-10-11T12:23:03+00:00	Hungry Horrors - Clumsy Bear Studio - Monsters, cards, folklore and Jellied Eels, full release in 2 days https://www.reddit.com/r/Games/comments/1x36vlf/hungry_horrors_clumsy_bear_studio_monsters_cards/
 2026-10-11T12:29:48+00:00	Seer’s Gambit - Unleash The Giraffe - Tactical roguelite about discovering overpowered hero combos https://www.reddit.com/r/Games/comments/1x37085/seers_gambit_unleash_the_giraffe_tactical/
 2026-10-11T12:45:27+00:00	TEKKEN 8 - Roger Jr. Gameplay Reveal Trailer https://www.reddit.com/r/Games/comments/1x37bj1/tekken_8_roger_jr_gameplay_reveal_trailer/
+2026-10-11T14:06:42+00:00	Dagon - Bit Golem - how lovecraftian visual novel hit 2mln downloads (Postmortem) https://www.reddit.com/r/Games/comments/1x393bg/dagon_bit_golem_how_lovecraftian_visual_novel_hit/
+2026-10-11T14:09:35+00:00	New F-Zero Cheat Codes Have Been Discovered 23 Years Later https://www.reddit.com/r/Games/comments/1x395mc/new_fzero_cheat_codes_have_been_discovered_23/
+2026-10-11T14:23:07+00:00	Devour Protocol - Angel Shift Games - A reverse tower defense where you are the invader https://www.reddit.com/r/Games/comments/1x39h62/devour_protocol_angel_shift_games_a_reverse_tower/
+2026-10-11T15:04:01+00:00	Skate N Chill - Off Hours Studio - A cozy skateboarding sandbox where you build your own park https://www.reddit.com/r/Games/comments/1x3agid/skate_n_chill_off_hours_studio_a_cozy/
+2026-10-11T15:10:52+00:00	WoW: Forever's classes won't be modernized, but Blizzard has added some new mechanics for 'engaging depth' as 'some classes' in World of Warcraft Classic 'were too simple' https://www.reddit.com/r/Games/comments/1x3amgd/wow_forevers_classes_wont_be_modernized_but/
+2026-10-11T16:24:52+00:00	Into the Crypt - Megaglope Studios - A first-person roguelike deckbuilder with a new demo out and releasing on Oct 29th https://www.reddit.com/r/Games/comments/1x3cgkk/into_the_crypt_megaglope_studios_a_firstperson/
+2026-10-11T16:52:36+00:00	Beyond the Grove - Not a Duck Games - Colorful RTS/Autobattler Roguelite https://www.reddit.com/r/Games/comments/1x3d5ev/beyond_the_grove_not_a_duck_games_colorful/
+2026-10-11T17:18:15+00:00	Deserter - AskaLot Games - an immersive isometric stealth RPG featuring open-world exploration, house robberies, deep character progression, and a dystopian setting. https://www.reddit.com/r/Games/comments/1x3dt2t/deserter_askalot_games_an_immersive_isometric/
+2026-10-11T17:46:32+00:00	Free Steam demo runs up $1,000 daily AI bill and forces devs to take out bank loan — studio eyes local hardware models to escape cloud limits as cheaper automatic fallback AI models create problems, game uses AI to process your voice and build responses https://www.reddit.com/r/Games/comments/1x3eidq/free_steam_demo_runs_up_1000_daily_ai_bill_and/
