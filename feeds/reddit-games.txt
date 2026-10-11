@@ -4,8 +4,6 @@
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
 2026-10-07T11:00:36+00:00	Daily /r/Games Discussion - Suggest Me a Game - October 07, 2026 https://www.reddit.com/r/Games/comments/1wztk7i/daily_rgames_discussion_suggest_me_a_game_october/
-2026-10-09T10:27:55+00:00	Car Park Capital | Launch Trailer https://www.reddit.com/r/Games/comments/1x1htgs/car_park_capital_launch_trailer/
-2026-10-09T12:35:56+00:00	Heathen | Official Gameplay Overview Trailer https://www.reddit.com/r/Games/comments/1x1k7zg/heathen_official_gameplay_overview_trailer/
 2026-10-09T14:57:16+00:00	Inside The Failed Fight To Unionize Double Fine https://www.reddit.com/r/Games/comments/1x1njy8/inside_the_failed_fight_to_unionize_double_fine/
 2026-10-09T16:06:36+00:00	STAR WARS Zero Company has reached 1 million units sold https://www.reddit.com/r/Games/comments/1x1pclq/star_wars_zero_company_has_reached_1_million/
 2026-10-09T18:13:13+00:00	Rockstar HR Questioned Over Discord ‘Mole’ And Sudden Timing Of GTA 6 Dev Firings In Latest Labor Tribunal Hearing https://www.reddit.com/r/Games/comments/1x1smj5/rockstar_hr_questioned_over_discord_mole_and/
@@ -13,8 +11,6 @@
 2026-10-09T20:21:38+00:00	Bloomberg: Disney’s ‘Star Wars’ Strategy Is Working Out Much Better for Video Games https://www.reddit.com/r/Games/comments/1x1vxgz/bloomberg_disneys_star_wars_strategy_is_working/
 2026-10-09T21:09:06+00:00	Sonic Racing: Crossworlds - Year Two Showcase https://www.reddit.com/r/Games/comments/1x1x385/sonic_racing_crossworlds_year_two_showcase/
 2026-10-09T21:43:15+00:00	Gears of War: E-Day | Accolades Trailer https://www.reddit.com/r/Games/comments/1x1xw4a/gears_of_war_eday_accolades_trailer/
-2026-10-09T22:23:49+00:00	Medium Rare | Demo Trailer https://www.reddit.com/r/Games/comments/1x1ytof/medium_rare_demo_trailer/
-2026-10-09T22:58:47+00:00	FLAK Simulator | Teaser Trailer https://www.reddit.com/r/Games/comments/1x1zkzx/flak_simulator_teaser_trailer/
 2026-10-10T00:10:25+00:00	Crazy Taxi: World Tour - Official 'Welcome to Brazil' Trailer https://www.reddit.com/r/Games/comments/1x214g1/crazy_taxi_world_tour_official_welcome_to_brazil/
 2026-10-10T03:15:03+00:00	Eternal Tombs - Development, Demo Release, Next Fest, & Launch Timeline https://www.reddit.com/r/Games/comments/1x24pli/eternal_tombs_development_demo_release_next_fest/
 2026-10-10T04:07:43+00:00	Kopernicus: Incremental Suffering | Demo Trailer https://www.reddit.com/r/Games/comments/1x25o3u/kopernicus_incremental_suffering_demo_trailer/
@@ -27,4 +23,8 @@
 2026-10-10T16:11:20+00:00	Loothold official Announcement Trailer https://www.reddit.com/r/Games/comments/1x2j3ab/loothold_official_announcement_trailer/
 2026-10-10T17:17:15+00:00	"A creative idea can save more money than AI can right now" – Glen Schofield on his retirement, Callisto Protocol's development, and the state of AAA https://www.reddit.com/r/Games/comments/1x2koal/a_creative_idea_can_save_more_money_than_ai_can/
 2026-10-10T18:00:48+00:00	WOIM Releases October 21st! (world earthworm day) https://www.reddit.com/r/Games/comments/1x2lpwl/woim_releases_october_21st_world_earthworm_day/
-2026-10-10T21:52:27+00:00	Exciting History of Movement in Counter-Strike | 3kliksphilip https://www.reddit.com/r/Games/comments/1x2r4al/exciting_history_of_movement_in_counterstrike/
+2026-10-10T23:45:10+00:00	Windrose - Ashlands Reveal Trailer https://www.reddit.com/r/Games/comments/1x2th5o/windrose_ashlands_reveal_trailer/
+2026-10-11T01:06:47+00:00	Electronic Arts' leveraged buyout faces a bondholder battle https://www.reddit.com/r/Games/comments/1x2v3y0/electronic_arts_leveraged_buyout_faces_a/
+2026-10-11T01:07:39+00:00	Re-release of Wing Commander III coming out with video taken from the original tapes courtesy of a restoration project led by Jim Vessella who has been digitizing the EA video archive https://www.reddit.com/r/Games/comments/1x2v4jm/rerelease_of_wing_commander_iii_coming_out_with/
+2026-10-11T04:00:41+00:00	Indie Sunday Hub - October 11, 2026 https://www.reddit.com/r/Games/comments/1x2ydck/indie_sunday_hub_october_11_2026/
+2026-10-11T05:07:15+00:00	Medieval Wars: Hundred Years - Zaka Creative - Offline castle battles for Android https://www.reddit.com/r/Games/comments/1x2zjzx/medieval_wars_hundred_years_zaka_creative_offline/

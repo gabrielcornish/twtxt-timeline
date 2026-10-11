@@ -3,10 +3,7 @@
 # source = https://bearblog.dev/discover/feed/
 # description = twtxt conversion of https://bearblog.dev/discover/feed/
 
-2026-10-08T10:30:00+00:00	Toast on a Plate https://ludd.life/toast-plate/
 2026-10-08T19:39:00+00:00	...a few questions for the Bear Blog community! [Updated] https://coreyblogs.com/a-few-questions-for-the-bear-blog-community/
-2026-10-09T06:32:14.056588+00:00	Lord, I don't want to be violent anymore https://lin-living-life.bearblog.dev/lord-i-dont-want-to-be-violent-anymore/
-2026-10-09T13:25:26.552968+00:00	Godot was on time, and he brought presents. https://itsme.bearblog.dev/godot-was-on-time-and-he-brought-presents/
 2026-10-09T17:32:18.401252+00:00	if i could do it all over again https://rnotte.art/if-i-could-do-it-all-over-again/
 2026-10-09T20:42:05.915158+00:00	past 9pm thoughts https://symliadoo.bearblog.dev/past-9pm-thoughts/
 2026-10-09T22:31:00+00:00	...some wise words about life, none of which are his own. https://coreyblogs.com/some-wise-words-about-life-none-of-which-are-his-own/
@@ -18,8 +15,11 @@
 2026-10-10T12:03:04.525590+00:00	Patterns in chaos? https://itsme.bearblog.dev/patterns-in-chaos/
 2026-10-10T12:54:23.240896+00:00	A lingering feeling https://feresunajacaranda.bearblog.dev/a-lingering-feeling/
 2026-10-10T13:29:57.134442+00:00	little mountain https://sesame.bearblog.dev/little-mountain/
-2026-10-10T13:34:00+00:00	Hate Mail https://terminallucidity.net/hate-mail/
 2026-10-10T16:08:00+00:00	passage https://annahamilton.art/passage/
 2026-10-10T17:54:00+00:00	Photo https://blog.curiousquail.com/photo/
 2026-10-10T18:14:49.424196+00:00	Added a /Photo Page To The Blog https://blog.curiousquail.com/added-a-photo-page-to-the-blog/
 2026-10-10T19:27:00+00:00	How not to learn a language https://life-after-ssri.bearblog.dev/how-not-to-learn-a-language/
+2026-10-10T20:12:19.295900+00:00	Wood Effect Leatherbound Book https://bookbinding.bearblog.dev/wood-effect-leatherbound-book/
+2026-10-10T23:25:00+00:00	ya like jazz? https://valentine.bearblog.dev/ya-like-jazz/
+2026-10-10T23:47:54.009959+00:00	slower living club https://tugbakibar.pro/slower-living-club/
+2026-10-11T01:50:00+00:00	Leaving Algorithm-Driven Spaces https://heychat.bearblog.dev/leaving-algorithm-driven-spaces/
