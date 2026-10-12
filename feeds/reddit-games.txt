@@ -4,27 +4,27 @@
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
 2026-10-09T10:00:39+00:00	Daily /r/Games Discussion - Free Talk Friday - October 09, 2026 https://www.reddit.com/r/Games/comments/1x1hcok/daily_rgames_discussion_free_talk_friday_october/
-2026-10-10T13:28:59+00:00	As Xbox and PlayStation sales reach new lows, analyst says the "US hardware market has not been in a more precarious position since the early 80s" https://www.reddit.com/r/Games/comments/1x2fc94/as_xbox_and_playstation_sales_reach_new_lows/
-2026-10-10T15:39:39+00:00	Squadron 42 - Official Wishlist Trailer https://www.reddit.com/r/Games/comments/1x2ibuf/squadron_42_official_wishlist_trailer/
-2026-10-11T01:07:39+00:00	Re-release of Wing Commander III coming out with video taken from the original tapes courtesy of a restoration project led by Jim Vessella who has been digitizing the EA video archive https://www.reddit.com/r/Games/comments/1x2v4jm/rerelease_of_wing_commander_iii_coming_out_with/
-2026-10-11T08:34:00+00:00	FEED ME MORE BRAINS - Sheraf Games - A first person incremental about feeding a lovecraftian god https://www.reddit.com/r/Games/comments/1x32ydu/feed_me_more_brains_sheraf_games_a_first_person/
 2026-10-11T09:00:35+00:00	Weekly /r/Games Discussion - What have you been playing, and what are your thoughts? - October 11, 2026 https://www.reddit.com/r/Games/comments/1x33dro/weekly_rgames_discussion_what_have_you_been/
-2026-10-11T10:14:29+00:00	Rune Runners - Pierogi Games - 3D Coop Adventure Platformer inspired by Mage Bros https://www.reddit.com/r/Games/comments/1x34l3z/rune_runners_pierogi_games_3d_coop_adventure/
-2026-10-11T11:54:03+00:00	Reality Drift - Arganoid Industries - roguelike racing with art by Katamari Damacy creator https://www.reddit.com/r/Games/comments/1x36b7x/reality_drift_arganoid_industries_roguelike/
-2026-10-11T11:57:12+00:00	Echoes of Aromia - Studio Targa - A 14 year old Dungeons and Dragons campaign turned Pixel art RPG https://www.reddit.com/r/Games/comments/1x36dat/echoes_of_aromia_studio_targa_a_14_year_old/
-2026-10-11T12:08:19+00:00	MARVEL Tōkon: Fighting Souls | Year 1 DLC Character - Thor (Jane Foster) https://www.reddit.com/r/Games/comments/1x36leg/marvel_tōkon_fighting_souls_year_1_dlc_character/
-2026-10-11T12:23:03+00:00	Hungry Horrors - Clumsy Bear Studio - Monsters, cards, folklore and Jellied Eels, full release in 2 days https://www.reddit.com/r/Games/comments/1x36vlf/hungry_horrors_clumsy_bear_studio_monsters_cards/
-2026-10-11T12:29:48+00:00	Seer’s Gambit - Unleash The Giraffe - Tactical roguelite about discovering overpowered hero combos https://www.reddit.com/r/Games/comments/1x37085/seers_gambit_unleash_the_giraffe_tactical/
-2026-10-11T12:45:27+00:00	TEKKEN 8 - Roger Jr. Gameplay Reveal Trailer https://www.reddit.com/r/Games/comments/1x37bj1/tekken_8_roger_jr_gameplay_reveal_trailer/
 2026-10-11T14:09:35+00:00	New F-Zero Cheat Codes Have Been Discovered 23 Years Later https://www.reddit.com/r/Games/comments/1x395mc/new_fzero_cheat_codes_have_been_discovered_23/
-2026-10-11T15:04:01+00:00	Skate N Chill - Off Hours Studio - A cozy skateboarding sandbox where you build your own park https://www.reddit.com/r/Games/comments/1x3agid/skate_n_chill_off_hours_studio_a_cozy/
 2026-10-11T15:10:52+00:00	WoW: Forever's classes won't be modernized, but Blizzard has added some new mechanics for 'engaging depth' as 'some classes' in World of Warcraft Classic 'were too simple' https://www.reddit.com/r/Games/comments/1x3amgd/wow_forevers_classes_wont_be_modernized_but/
-2026-10-11T16:16:59+00:00	The Unbreakable Gumball - New Game+ - An open-world superhero game set inside of a comoc book! https://www.reddit.com/r/Games/comments/1x3c9aj/the_unbreakable_gumball_new_game_an_openworld/
-2026-10-11T17:18:15+00:00	Deserter - AskaLot Games - an immersive isometric stealth RPG featuring open-world exploration, house robberies, deep character progression, and a dystopian setting. https://www.reddit.com/r/Games/comments/1x3dt2t/deserter_askalot_games_an_immersive_isometric/
 2026-10-11T17:46:32+00:00	Free Steam demo runs up $1,000 daily AI bill and forces devs to take out bank loan — studio eyes local hardware models to escape cloud limits as cheaper automatic fallback AI models create problems, game uses AI to process your voice and build responses https://www.reddit.com/r/Games/comments/1x3eidq/free_steam_demo_runs_up_1000_daily_ai_bill_and/
-2026-10-11T23:09:19+00:00	Good Luck, Little Truck! - POLYFORGE Games - navigation puzzler/narrative delivery sim where you play as a sentient kei truck https://www.reddit.com/r/Games/comments/1x3m9sz/good_luck_little_truck_polyforge_games_navigation/
-2026-10-11T23:33:03+00:00	A fan mod recreates Crowd Play for Minecraft: Story Mode Season Two and adds it to Season One https://www.reddit.com/r/Games/comments/1x3mrkd/a_fan_mod_recreates_crowd_play_for_minecraft/
 2026-10-11T23:57:31+00:00	Obscure & Forgotten PS1 Games Vol.18 | Sean Seanson https://www.reddit.com/r/Games/comments/1x3n97k/obscure_forgotten_ps1_games_vol18_sean_seanson/
 2026-10-12T00:43:28+00:00	Agent Spider Reveal Trailer | Invincible VS https://www.reddit.com/r/Games/comments/1x3o74l/agent_spider_reveal_trailer_invincible_vs/
-2026-10-12T01:27:24+00:00	Ascend: Journey beyond the clouds - York Games - A physics-based precision platformer with slingshot mechanics https://www.reddit.com/r/Games/comments/1x3p234/ascend_journey_beyond_the_clouds_york_games_a/
+2026-10-12T08:05:13+00:00	Killing Floor 3 - Halloween Horrors: Ghastly Getaway Trailer https://www.reddit.com/r/Games/comments/1x3w260/killing_floor_3_halloween_horrors_ghastly_getaway/
 2026-10-12T08:53:27+00:00	Gunner, HEAT, PC! - 2026 Trailer https://www.reddit.com/r/Games/comments/1x3wsm9/gunner_heat_pc_2026_trailer/
+2026-10-12T10:25:23+00:00	"There are monsters, there are boss fights" - ConcernedApe's follow-up to Stardew Valley, Haunted Chocolatier, is "more of an action RPG" than his first game https://www.reddit.com/r/Games/comments/1x3y9t3/there_are_monsters_there_are_boss_fights/
+2026-10-12T11:32:09+00:00	SLB: DAWNBREAKERS OF RONDO Gameplay Trailer - PUBG https://www.reddit.com/r/Games/comments/1x3zfnu/slb_dawnbreakers_of_rondo_gameplay_trailer_pubg/
+2026-10-12T11:47:00+00:00	MechWarrior 5: Mercenaries - Ashes and Ascension DLC Review - 'The Hunt for the Smoke Jaguars Begins' https://www.reddit.com/r/Games/comments/1x3zpmx/mechwarrior_5_mercenaries_ashes_and_ascension_dlc/
+2026-10-12T12:11:51+00:00	ScummVM 2026.4.0 "Never-slop" is released on the 25th anniversary https://www.reddit.com/r/Games/comments/1x4078m/scummvm_202640_neverslop_is_released_on_the_25th/
+2026-10-12T13:00:42+00:00	Valor Mortis Review Thread https://www.reddit.com/r/Games/comments/1x418ay/valor_mortis_review_thread/
+2026-10-12T14:18:56+00:00	No Man's Sky Releases Oct 28th on IOS https://www.reddit.com/r/Games/comments/1x433us/no_mans_sky_releases_oct_28th_on_ios/
+2026-10-12T14:46:09+00:00	The team behind StrataWx is opening its own flight sim store, and developers keep 85% https://www.reddit.com/r/Games/comments/1x43sis/the_team_behind_stratawx_is_opening_its_own/
+2026-10-12T14:59:01+00:00	Hytale Early Access: Chapter I (Official Trailer) https://www.reddit.com/r/Games/comments/1x4445i/hytale_early_access_chapter_i_official_trailer/
+2026-10-12T15:01:27+00:00	Chivalware Releases Nov 5th on PC & Switch 2 https://www.reddit.com/r/Games/comments/1x446no/chivalware_releases_nov_5th_on_pc_switch_2/
+2026-10-12T15:16:50+00:00	Quake VR: UNLEASHED 🔥 | Release Trailer https://www.reddit.com/r/Games/comments/1x44l4t/quake_vr_unleashed_release_trailer/
+2026-10-12T15:40:12+00:00	Dragon Quest Creator Yuji Horii Thinks AI Is Amazing As He No Longer Needs To Code Or Draw To Make A Game https://www.reddit.com/r/Games/comments/1x456xb/dragon_quest_creator_yuji_horii_thinks_ai_is/
+2026-10-12T16:12:02+00:00	Dragon Ball: Sparking. Zero Super-Limit Breaking Neo | The Return https://www.reddit.com/r/Games/comments/1x461w4/dragon_ball_sparking_zero_superlimit_breaking_neo/
+2026-10-12T17:59:24+00:00	Rimworld - Announcing the Waylith Engine and Update 1.7 https://www.reddit.com/r/Games/comments/1x48ylw/rimworld_announcing_the_waylith_engine_and_update/
+2026-10-12T18:29:25+00:00	Epic Games Delays Disney Project, Asks Developers to Use More AI https://www.reddit.com/r/Games/comments/1x49sht/epic_games_delays_disney_project_asks_developers/
+2026-10-12T19:10:37+00:00	The Dark West: Official "Liquid Courage" Trailer https://www.reddit.com/r/Games/comments/1x4axpj/the_dark_west_official_liquid_courage_trailer/
+2026-10-12T19:11:15+00:00	Blind Descent Releases In Early Access Dec 2nd for PC https://www.reddit.com/r/Games/comments/1x4ayb8/blind_descent_releases_in_early_access_dec_2nd/
