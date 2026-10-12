@@ -3,7 +3,6 @@
 # source = https://www.gamesindustry.biz/feed
 # description = twtxt conversion of https://www.gamesindustry.biz/feed
 
-2026-10-01T09:26:54+00:00	Jobs roundup: October | Playstack CEO Harvey Elliott voted chair of UKIE https://www.gamesindustry.biz/jobs-roundup-october-playstack-ceo-harvey-elliott-voted-in-as-char-of-ukie
 2026-10-01T13:28:21+00:00	Ubisoft Workers of Montreal Union petition to "preserve hybrid work" secures over 300 signatures https://www.gamesindustry.biz/ubisoft-workers-of-montreal-union-petition-to-preserve-hybrid-work-secures-over-300-signatures
 2026-10-01T14:15:37+00:00	Consumer Protection Cooperation Network launches coordinated actions against nine companies on in-game currency | Opinion https://www.gamesindustry.biz/consumer-protection-cooperation-network-launches-coordinated-actions-against-nine-companies-on-in-game-currency
 2026-10-02T08:03:39+00:00	Krafton shuts down PUBG spin-off Black Budget nine months after closed alpha test https://www.gamesindustry.biz/krafton-shuts-down-pubg-spin-off-black-budget-nine-months-after-closed-alpha-test
@@ -53,3 +52,4 @@
 2026-10-09T12:54:02+00:00	Paramount Pictures adapting live-action movie set in Cyberpunk 2077 universe, co-produced by CD Projekt Red https://www.gamesindustry.biz/paramount-pictures-adapting-live-action-movie-set-in-cyberpunk-2077-universe-co-produced-by-cd-projekt-red
 2026-10-09T13:58:18+00:00	Undead Labs boss "reluctant to share" number affected by layoffs: "I would hate to reduce the impact to those individuals to a number or statistic" https://www.gamesindustry.biz/undead-labs-boss-reluctant-to-share-number-affected-by-layoffs-i-would-hate-to-reduce-the-impact-to-those-individuals-to-a-number-or-statistic
 2026-10-09T15:42:04+00:00	This should be game streaming’s moment. It's not | Opinion https://www.gamesindustry.biz/this-should-be-game-streamings-moment-its-not-opinion
+2026-10-12T08:00:00+00:00	BAFTA awards over £270,000 to 112 recipients in UK and US to support career growth in games, film, and TV https://www.gamesindustry.biz/bafta-awards-over-270000-to-112-recipients-in-uk-and-us-to-support-career-growth-in-games-film-and-tv
