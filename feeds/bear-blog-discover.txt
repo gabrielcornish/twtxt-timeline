@@ -4,8 +4,6 @@
 # description = twtxt conversion of https://bearblog.dev/discover/feed/
 
 2026-10-08T19:39:00+00:00	...a few questions for the Bear Blog community! [Updated] https://coreyblogs.com/a-few-questions-for-the-bear-blog-community/
-2026-10-09T17:32:18.401252+00:00	if i could do it all over again https://rnotte.art/if-i-could-do-it-all-over-again/
-2026-10-09T22:31:00+00:00	...some wise words about life, none of which are his own. https://coreyblogs.com/some-wise-words-about-life-none-of-which-are-his-own/
 2026-10-10T02:02:34.128224+00:00	Justifying beliefs https://doodhpeda.bearblog.dev/blog/justifying-beliefs/
 2026-10-10T06:31:00+00:00	Maybe the nicest pictures I have taken in 2026 https://blog.lauramichet.com/maybe-the-nicest-pictures-i-have-taken-in-2026/
 2026-10-10T07:11:34.018605+00:00	Camping inside our home https://nextchapter.bearblog.dev/camping-inside-our-home/
@@ -13,7 +11,6 @@
 2026-10-10T16:08:00+00:00	passage https://annahamilton.art/passage/
 2026-10-10T17:54:00+00:00	Photo https://blog.curiousquail.com/photo/
 2026-10-10T18:14:49.424196+00:00	Added a /Photo Page To The Blog https://blog.curiousquail.com/added-a-photo-page-to-the-blog/
-2026-10-10T19:27:00+00:00	How not to learn a language https://life-after-ssri.bearblog.dev/how-not-to-learn-a-language/
 2026-10-10T20:12:19.295900+00:00	Wood Effect Leatherbound Book https://bookbinding.bearblog.dev/wood-effect-leatherbound-book/
 2026-10-10T23:25:00+00:00	ya like jazz? https://valentine.bearblog.dev/ya-like-jazz/
 2026-10-10T23:47:54.009959+00:00	slower living club https://tugbakibar.pro/slower-living-club/
@@ -23,3 +20,6 @@
 2026-10-11T13:21:00+00:00	a (temporary) win for meta glasses in the classroom https://blog.avas.space/smart-glasses-school/
 2026-10-11T14:27:56.140245+00:00	most of my posts have typos + on lowercase hate https://skuka.online/most-of-my-posts-have-typos-on-lowercase-hate/
 2026-10-11T14:34:00+00:00	the pettiest reason i had unfollowed anyone https://skuka.online/the-pettiest-reason-i-had-unfollowed-anyone/
+2026-10-11T20:12:17.924948+00:00	Instagram’s insidious ways to trap you in reels https://themourningdove.bearblog.dev/instagrams-insidious-ways-to-trap-you-in-reels/
+2026-10-11T23:05:00+00:00	Old Sparky https://terminallucidity.net/old-sparky/
+2026-10-11T23:26:00+00:00	How AI Strips Joy and Meaning from Mathematics and Life https://gr-y.uk/how-ai-strips-joy-and-meaning-from-mathematics-and-life/
