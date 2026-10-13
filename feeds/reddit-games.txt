@@ -6,14 +6,11 @@
 2026-10-09T10:00:39+00:00	Daily /r/Games Discussion - Free Talk Friday - October 09, 2026 https://www.reddit.com/r/Games/comments/1x1hcok/daily_rgames_discussion_free_talk_friday_october/
 2026-10-11T09:00:35+00:00	Weekly /r/Games Discussion - What have you been playing, and what are your thoughts? - October 11, 2026 https://www.reddit.com/r/Games/comments/1x33dro/weekly_rgames_discussion_what_have_you_been/
 2026-10-11T14:09:35+00:00	New F-Zero Cheat Codes Have Been Discovered 23 Years Later https://www.reddit.com/r/Games/comments/1x395mc/new_fzero_cheat_codes_have_been_discovered_23/
-2026-10-11T15:10:52+00:00	WoW: Forever's classes won't be modernized, but Blizzard has added some new mechanics for 'engaging depth' as 'some classes' in World of Warcraft Classic 'were too simple' https://www.reddit.com/r/Games/comments/1x3amgd/wow_forevers_classes_wont_be_modernized_but/
 2026-10-11T17:46:32+00:00	Free Steam demo runs up $1,000 daily AI bill and forces devs to take out bank loan — studio eyes local hardware models to escape cloud limits as cheaper automatic fallback AI models create problems, game uses AI to process your voice and build responses https://www.reddit.com/r/Games/comments/1x3eidq/free_steam_demo_runs_up_1000_daily_ai_bill_and/
-2026-10-11T23:57:31+00:00	Obscure & Forgotten PS1 Games Vol.18 | Sean Seanson https://www.reddit.com/r/Games/comments/1x3n97k/obscure_forgotten_ps1_games_vol18_sean_seanson/
 2026-10-12T00:43:28+00:00	Agent Spider Reveal Trailer | Invincible VS https://www.reddit.com/r/Games/comments/1x3o74l/agent_spider_reveal_trailer_invincible_vs/
 2026-10-12T08:05:13+00:00	Killing Floor 3 - Halloween Horrors: Ghastly Getaway Trailer https://www.reddit.com/r/Games/comments/1x3w260/killing_floor_3_halloween_horrors_ghastly_getaway/
 2026-10-12T08:53:27+00:00	Gunner, HEAT, PC! - 2026 Trailer https://www.reddit.com/r/Games/comments/1x3wsm9/gunner_heat_pc_2026_trailer/
 2026-10-12T10:25:23+00:00	"There are monsters, there are boss fights" - ConcernedApe's follow-up to Stardew Valley, Haunted Chocolatier, is "more of an action RPG" than his first game https://www.reddit.com/r/Games/comments/1x3y9t3/there_are_monsters_there_are_boss_fights/
-2026-10-12T11:32:09+00:00	SLB: DAWNBREAKERS OF RONDO Gameplay Trailer - PUBG https://www.reddit.com/r/Games/comments/1x3zfnu/slb_dawnbreakers_of_rondo_gameplay_trailer_pubg/
 2026-10-12T11:47:00+00:00	MechWarrior 5: Mercenaries - Ashes and Ascension DLC Review - 'The Hunt for the Smoke Jaguars Begins' https://www.reddit.com/r/Games/comments/1x3zpmx/mechwarrior_5_mercenaries_ashes_and_ascension_dlc/
 2026-10-12T12:11:51+00:00	ScummVM 2026.4.0 "Never-slop" is released on the 25th anniversary https://www.reddit.com/r/Games/comments/1x4078m/scummvm_202640_neverslop_is_released_on_the_25th/
 2026-10-12T13:00:42+00:00	Valor Mortis Review Thread https://www.reddit.com/r/Games/comments/1x418ay/valor_mortis_review_thread/
@@ -28,3 +25,6 @@
 2026-10-12T18:29:25+00:00	Epic Games Delays Disney Project, Asks Developers to Use More AI https://www.reddit.com/r/Games/comments/1x49sht/epic_games_delays_disney_project_asks_developers/
 2026-10-12T19:10:37+00:00	The Dark West: Official "Liquid Courage" Trailer https://www.reddit.com/r/Games/comments/1x4axpj/the_dark_west_official_liquid_courage_trailer/
 2026-10-12T19:11:15+00:00	Blind Descent Releases In Early Access Dec 2nd for PC https://www.reddit.com/r/Games/comments/1x4ayb8/blind_descent_releases_in_early_access_dec_2nd/
+2026-10-12T20:50:57+00:00	Colorbound | Now Available! https://www.reddit.com/r/Games/comments/1x4dksr/colorbound_now_available/
+2026-10-12T23:03:48+00:00	Satisfactory: The Board Game Preview https://www.reddit.com/r/Games/comments/1x4gpre/satisfactory_the_board_game_preview/
+2026-10-13T00:09:11+00:00	Steam Cooking Fest 2026 is now live _discounts and demos through October 19 https://www.reddit.com/r/Games/comments/1x4i4y1/steam_cooking_fest_2026_is_now_live_discounts_and/

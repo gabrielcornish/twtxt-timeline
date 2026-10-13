@@ -3,7 +3,6 @@
 # source = https://www.gamesindustry.biz/feed
 # description = twtxt conversion of https://www.gamesindustry.biz/feed
 
-2026-10-02T14:29:12+00:00	"Quite often it's given me more to do" – Why AI might be creating more work for games companies, rather than saving time https://www.gamesindustry.biz/quite-often-its-given-me-more-to-do-why-ai-might-be-creating-more-work-for-games-companies-rather-than-saving-time
 2026-10-02T14:55:28+00:00	In pictures: the Best Places To Work Awards 2026 https://www.gamesindustry.biz/in-pictures-the-best-places-to-work-awards-2026
 2026-10-02T15:19:56+00:00	Sony's consultation on physical media: better late than never | Opinion https://www.gamesindustry.biz/sonys-consultation-on-physical-media-better-late-than-never-opinion
 2026-10-05T08:29:51+00:00	Capcom aims to enhance its propriety RE Engine with AI to accelerate efficiency in QA, debugging, and data processing https://www.gamesindustry.biz/capcom-aims-to-enhance-its-propriety-re-engine-with-ai-to-accelerate-efficiency-in-qa-debugging-and-data-processing
@@ -53,3 +52,4 @@
 2026-10-12T16:17:15+00:00	Nvidia reportedly ends GeForce RTX 5090 graphics card production https://www.gamesindustry.biz/nvidia-reportedly-ends-geforce-rtx-5090-graphics-card-production
 2026-10-12T17:58:32+00:00	Nintendo's Latin America VP says there are no plans to ditch physical games https://www.gamesindustry.biz/nintendos-latin-america-vp-says-there-are-no-plans-to-ditch-physical-games
 2026-10-12T18:49:25+00:00	Dragon Quest creator Yuji Horii releases game he says he made with AI in about 30 minutes https://www.gamesindustry.biz/dragon-quest-creator-yuji-horii-releases-game-he-says-he-made-with-ai-in-about-30-minutes
+2026-10-12T19:54:58+00:00	Epic Games delays Disney game and tells developers to go "AI first" https://www.gamesindustry.biz/epic-games-delays-disney-game-and-tells-developers-to-go-ai-first
