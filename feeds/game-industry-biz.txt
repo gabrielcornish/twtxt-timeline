@@ -3,7 +3,6 @@
 # source = https://www.gamesindustry.biz/feed
 # description = twtxt conversion of https://www.gamesindustry.biz/feed
 
-2026-10-05T08:29:51+00:00	Capcom aims to enhance its propriety RE Engine with AI to accelerate efficiency in QA, debugging, and data processing https://www.gamesindustry.biz/capcom-aims-to-enhance-its-propriety-re-engine-with-ai-to-accelerate-efficiency-in-qa-debugging-and-data-processing
 2026-10-05T10:05:48+00:00	Disney president and CCO dismisses rumours of Epic Games buyout: "Those are not the conversations we are having right now" https://www.gamesindustry.biz/disney-president-and-cco-dismisses-rumours-of-epic-games-buyout-those-are-not-the-conversations-we-are-having-right-now
 2026-10-05T11:08:39+00:00	Jagex responds to use of generative AI in RuneScape trailer made by "trusted external partner" https://www.gamesindustry.biz/jagex-responds-to-use-of-generative-ai-in-runescape-trailer-made-by-trusted-external-partner
 2026-10-05T13:12:44+00:00	"It's less risky to be the masters of our own fate" – The AAA developers going indie https://www.gamesindustry.biz/its-less-risky-to-be-the-masters-of-our-own-fate-the-aaa-developers-going-indie
@@ -53,3 +52,4 @@
 2026-10-12T19:54:58+00:00	Epic Games delays Disney game and tells developers to go "AI first" https://www.gamesindustry.biz/epic-games-delays-disney-game-and-tells-developers-to-go-ai-first
 2026-10-13T11:25:38+00:00	A guide to six regulatory risks shaping games in 2026 https://www.gamesindustry.biz/a-guide-to-six-regulatory-risks-shaping-games-in-2026
 2026-10-13T12:30:00+00:00	"Years of building, pitching and raising for games made the same failure painful to watch" – Why GameDataCore wants to find out how players feel https://www.gamesindustry.biz/years-of-building-pitching-and-raising-for-games-made-the-same-failure-painful-to-watch-why-gamedatacore-wants-to-find-out-how-players-feel
+2026-10-13T19:00:00+00:00	Xbox announces Xbox Labs, a new initiative to trial emerging ideas and "new technology" https://www.gamesindustry.biz/xbox-announces-xbox-labs-a-new-initiative-to-trial-emerging-ideas-and-new-technology

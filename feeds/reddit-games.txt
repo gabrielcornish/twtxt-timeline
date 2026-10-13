@@ -3,20 +3,12 @@
 # source = https://www.reddit.com/r/Games.rss
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
-2026-10-09T10:00:39+00:00	Daily /r/Games Discussion - Free Talk Friday - October 09, 2026 https://www.reddit.com/r/Games/comments/1x1hcok/daily_rgames_discussion_free_talk_friday_october/
 2026-10-11T09:00:35+00:00	Weekly /r/Games Discussion - What have you been playing, and what are your thoughts? - October 11, 2026 https://www.reddit.com/r/Games/comments/1x33dro/weekly_rgames_discussion_what_have_you_been/
-2026-10-12T10:25:23+00:00	"There are monsters, there are boss fights" - ConcernedApe's follow-up to Stardew Valley, Haunted Chocolatier, is "more of an action RPG" than his first game https://www.reddit.com/r/Games/comments/1x3y9t3/there_are_monsters_there_are_boss_fights/
-2026-10-12T14:59:01+00:00	Hytale Early Access: Chapter I (Official Trailer) https://www.reddit.com/r/Games/comments/1x4445i/hytale_early_access_chapter_i_official_trailer/
-2026-10-12T15:40:12+00:00	Dragon Quest Creator Yuji Horii Thinks AI Is Amazing As He No Longer Needs To Code Or Draw To Make A Game https://www.reddit.com/r/Games/comments/1x456xb/dragon_quest_creator_yuji_horii_thinks_ai_is/
 2026-10-12T17:59:24+00:00	Rimworld - Announcing the Waylith Engine and Update 1.7 https://www.reddit.com/r/Games/comments/1x48ylw/rimworld_announcing_the_waylith_engine_and_update/
-2026-10-12T18:29:25+00:00	Epic Games Delays Disney Project, Asks Developers to Use More AI https://www.reddit.com/r/Games/comments/1x49sht/epic_games_delays_disney_project_asks_developers/
-2026-10-12T23:03:48+00:00	Satisfactory: The Board Game Preview https://www.reddit.com/r/Games/comments/1x4gpre/satisfactory_the_board_game_preview/
 2026-10-13T02:21:52+00:00	Games Event Criticised After Dumping Sponsor Over 'Zionist' Allegations https://www.reddit.com/r/Games/comments/1x4kuki/games_event_criticised_after_dumping_sponsor_over/
-2026-10-13T07:07:20+00:00	Annotated Demon's Souls: The Journey to the Nexus https://www.reddit.com/r/Games/comments/1x4pxsn/annotated_demons_souls_the_journey_to_the_nexus/
 2026-10-13T07:57:00+00:00	Castlevania: Belmont's Curse Review Thread https://www.reddit.com/r/Games/comments/1x4qopk/castlevania_belmonts_curse_review_thread/
 2026-10-13T08:14:24+00:00	Nvidia reportedly ends GeForce RTX 5090 graphics card production https://www.reddit.com/r/Games/comments/1x4qy6h/nvidia_reportedly_ends_geforce_rtx_5090_graphics/
 2026-10-13T09:26:18+00:00	Street Fighter 6 - Arjun Update Launch Trailer https://www.reddit.com/r/Games/comments/1x4s1ej/street_fighter_6_arjun_update_launch_trailer/
-2026-10-13T09:35:44+00:00	Burn With Me - Launch Trailer https://www.reddit.com/r/Games/comments/1x4s6mq/burn_with_me_launch_trailer/
 2026-10-13T11:45:49+00:00	ACE COMBAT 8: WINGS OF THEVE - About ACE COMBAT ZERO: THE BELKAN WAR | Update 3 https://www.reddit.com/r/Games/comments/1x4ufxc/ace_combat_8_wings_of_theve_about_ace_combat_zero/
 2026-10-13T13:33:17+00:00	‘I Got That Completely Wrong’ — Dan Houser Considers Rockstar’s Max Payne 3 a Failure https://www.reddit.com/r/Games/comments/1x4wr7r/i_got_that_completely_wrong_dan_houser_considers/
 2026-10-13T14:00:08+00:00	Grand Theft Auto VI’s PC release is slated for Q1 2027 https://www.reddit.com/r/Games/comments/1x4xfa0/grand_theft_auto_vis_pc_release_is_slated_for_q1/
@@ -28,3 +20,11 @@
 2026-10-13T16:16:41+00:00	Phantom Blade Zero: The Hunt Boss Fight & Blood-Steel Form Appearance - IGN https://www.reddit.com/r/Games/comments/1x5108d/phantom_blade_zero_the_hunt_boss_fight_bloodsteel/
 2026-10-13T16:48:24+00:00	Living World Seasons Are Now Included with Guild Wars 2 Expansions – GuildWars2.com https://www.reddit.com/r/Games/comments/1x51uzb/living_world_seasons_are_now_included_with_guild/
 2026-10-13T17:18:58+00:00	Nidhogg - Online Update (Rollback Barcode) + Training Mode https://www.reddit.com/r/Games/comments/1x52p8n/nidhogg_online_update_rollback_barcode_training/
+2026-10-13T17:53:30+00:00	Entertainment Software Association Requests U.S. Trade Investigate Anbernic's 'Superfake' Handheld Emulator Market https://www.reddit.com/r/Games/comments/1x53nk0/entertainment_software_association_requests_us/
+2026-10-13T18:26:43+00:00	NVIDIA's DLSS 5 Is Getting A 2x Performance Boost With 20% Less VRAM Usage Needed Compared To Initial Model Released In September https://www.reddit.com/r/Games/comments/1x54knv/nvidias_dlss_5_is_getting_a_2x_performance_boost/
+2026-10-13T18:43:23+00:00	Apogee Entertainment: We are deeply saddened by the passing of Richard “Levelord” Gray. From his legendary work on Duke Nukem 3D to the countless players and developers he inspired, Richard leaves behind a lasting legacy. https://www.reddit.com/r/Games/comments/1x550xe/apogee_entertainment_we_are_deeply_saddened_by/
+2026-10-13T19:04:13+00:00	Introducing XBOX LABS https://www.reddit.com/r/Games/comments/1x55l35/introducing_xbox_labs/
+2026-10-13T19:50:46+00:00	The Forge: Steel Frontier - Official Announcement Trailer | IGN Fall Fan Fest 2026 https://www.reddit.com/r/Games/comments/1x56tmm/the_forge_steel_frontier_official_announcement/
+2026-10-13T20:08:19+00:00	Two days before Enshrouded's 1.0 launch, director admits Keen Games bet the studio's future on It, and over 5 million players paid off that gamble https://www.reddit.com/r/Games/comments/1x57and/two_days_before_enshroudeds_10_launch_director/
+2026-10-13T21:02:18+00:00	Deadlock (New Character) - Fairfax Industries Employee Spotlight https://www.reddit.com/r/Games/comments/1x58ntz/deadlock_new_character_fairfax_industries/
+2026-10-13T22:30:49+00:00	S&Box - Rethinking https://www.reddit.com/r/Games/comments/1x5as5g/sbox_rethinking/
