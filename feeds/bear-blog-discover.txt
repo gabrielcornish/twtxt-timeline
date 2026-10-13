@@ -3,23 +3,23 @@
 # source = https://bearblog.dev/discover/feed/
 # description = twtxt conversion of https://bearblog.dev/discover/feed/
 
-2026-10-10T23:47:54.009959+00:00	slower living club https://tugbakibar.pro/slower-living-club/
 2026-10-11T01:50:00+00:00	Leaving Algorithm-Driven Spaces https://heychat.bearblog.dev/leaving-algorithm-driven-spaces/
-2026-10-11T06:15:05.843480+00:00	why are we so embarrassed to be sincere? https://yenecys.bearblog.dev/why-are-we-so-embarrassed-to-be-sincere/
-2026-10-11T13:21:00+00:00	a (temporary) win for meta glasses in the classroom https://blog.avas.space/smart-glasses-school/
-2026-10-11T18:19:00+00:00	Would You Trust an Author Whose Book Cover Can't Get Its Character's Legs Right? https://imeldaspaws.com/would-you-trust-an-author-whose-book-cover-cant-get-its-characters-legs-right/
+2026-10-11T18:19:00+00:00	Would you trust an author whose book cover can't get its character's legs right? https://imeldaspaws.com/would-you-trust-an-author-whose-book-cover-cant-get-its-characters-legs-right/
 2026-10-11T20:12:17.924948+00:00	Instagram’s insidious ways to trap you in reels https://themourningdove.bearblog.dev/instagrams-insidious-ways-to-trap-you-in-reels/
-2026-10-11T20:29:42.135978+00:00	My Cat and Her Cone https://foolishmortal.bearblog.dev/my-cat-and-her-cone/
 2026-10-11T23:26:00+00:00	How AI Strips Joy and Meaning from Mathematics and Life https://gr-y.uk/how-ai-strips-joy-and-meaning-from-mathematics-and-life/
 2026-10-12T10:30:00+00:00	A Line About the Coffee Machine https://ludd.life/line-about-coffee-machine/
-2026-10-12T15:53:12.805914+00:00	Ask Dr. Glowcat: Can We Has Data Centres in Space? https://drglowcatsdebuglog.bearblog.dev/ask-dr-glowcat-can-we-has-data-centres-in-space/
+2026-10-12T15:53:00+00:00	Ask Dr. Glowcat: Can We Has Data Centres in Space? https://drglowcatsdebuglog.bearblog.dev/ask-dr-glowcat-can-we-has-data-centres-in-space/
 2026-10-12T16:48:55.465644+00:00	Stand up for hemorrhoids https://robertbirming.com/stand-up-hemorrhoids/
+2026-10-12T17:46:34.573604+00:00	Where is all the new, good software? https://www.natemeyvis.com/where-is-all-the-new-good-software/
 2026-10-12T18:59:00+00:00	...a dog pic, the first of many, probably. https://coreyblogs.com/a-dog-pic-the-first-of-many-probably/
 2026-10-12T21:00:00+00:00	Bulba-san unlocks an achievement https://bulbasaur.bearblog.dev/blog/2026/10/12/
 2026-10-12T21:02:00+00:00	i'm embarrassed of my screen time and i'm trying to change https://dreamlogic.blog/im-embarrassed-of-my-screen-time-and-im-trying-to-change/
 2026-10-12T22:08:00+00:00	Why Am I Always So Anxious? https://shitmypants.bearblog.dev/why-am-i-always-so-anxious/
-2026-10-13T02:21:46.102968+00:00	I went ghost hunting https://cats-musings.blog/0105-ghost-huntsville/
 2026-10-13T03:45:00+00:00	the joy of good morning coffee and bánh mì https://ly.bearblog.dev/the-joy-of-good-morning-coffee-and-banh-mi/
 2026-10-13T03:59:00+00:00	october 12 ego https://combatdavey.net/october-12-2026/
+2026-10-13T03:59:51.524426+00:00	it's time to start freaking out https://icyti.me/its-time-to-start-freaking-out/
 2026-10-13T06:03:09.697230+00:00	I Was A Meat Proxy For A Day https://mayberay.bearblog.dev/i-was-a-meat-proxy-for-a-day/
 2026-10-13T06:55:00+00:00	You should just download your favorite YouTube content and put it on a hard drive in your home https://blog.lauramichet.com/you-should-just-download-your-favorite-youtube-content-and-put-it-on-a-hard-drive-in-your-home/
+2026-10-13T12:56:20.772129+00:00	The human element. https://itsme.bearblog.dev/the-human-element/
+2026-10-13T13:30:00+00:00	The Halloween We Used to Know https://ridewithpride.bearblog.dev/the-halloween-we-used-to-know/
+2026-10-13T15:05:00+00:00	What is a Mystery? https://elmc.at/what-is-a-mystery/
