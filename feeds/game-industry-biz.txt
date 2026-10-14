@@ -3,11 +3,6 @@
 # source = https://www.gamesindustry.biz/feed
 # description = twtxt conversion of https://www.gamesindustry.biz/feed
 
-2026-10-05T10:05:48+00:00	Disney president and CCO dismisses rumours of Epic Games buyout: "Those are not the conversations we are having right now" https://www.gamesindustry.biz/disney-president-and-cco-dismisses-rumours-of-epic-games-buyout-those-are-not-the-conversations-we-are-having-right-now
-2026-10-05T11:08:39+00:00	Jagex responds to use of generative AI in RuneScape trailer made by "trusted external partner" https://www.gamesindustry.biz/jagex-responds-to-use-of-generative-ai-in-runescape-trailer-made-by-trusted-external-partner
-2026-10-05T13:12:44+00:00	"It's less risky to be the masters of our own fate" – The AAA developers going indie https://www.gamesindustry.biz/its-less-risky-to-be-the-masters-of-our-own-fate-the-aaa-developers-going-indie
-2026-10-05T13:35:22+00:00	Sony introduces AI upscaling to base PS5; Marvel's Wolverine and Ghost of Yōtei are first games to implement new tech https://www.gamesindustry.biz/sony-introduces-ai-upscaling-to-base-ps5-marvels-wolverine-and-ghost-of-yotei-are-first-games-to-implement-new-tech
-2026-10-05T17:15:00+00:00	Free-to-play playtime is broadly flat as gacha RPGs drive PC growth, says Newzoo https://www.gamesindustry.biz/free-to-play-playtime-is-broadly-flat-as-gacha-rpgs-drive-pc-growth-says-newzoo
 2026-10-05T17:44:03+00:00	Ninja Theory begins laying off staff, according to employee posts https://www.gamesindustry.biz/ninja-theory-begins-laying-off-staff-according-to-employee-posts
 2026-10-05T19:33:21+00:00	Arc Raiders and The Finals are getting TV series and film adaptations https://www.gamesindustry.biz/arc-raiders-and-the-finals-are-getting-tv-series-and-film-adaptations
 2026-10-06T07:24:06+00:00	NBA 2K25 servers to shut down on December 31, single-player story mode will become unplayable https://www.gamesindustry.biz/nba-2k25-servers-to-shut-down-on-december-31-single-player-story-mode-will-become-unplayable
@@ -53,3 +48,8 @@
 2026-10-13T11:25:38+00:00	A guide to six regulatory risks shaping games in 2026 https://www.gamesindustry.biz/a-guide-to-six-regulatory-risks-shaping-games-in-2026
 2026-10-13T12:30:00+00:00	"Years of building, pitching and raising for games made the same failure painful to watch" – Why GameDataCore wants to find out how players feel https://www.gamesindustry.biz/years-of-building-pitching-and-raising-for-games-made-the-same-failure-painful-to-watch-why-gamedatacore-wants-to-find-out-how-players-feel
 2026-10-13T19:00:00+00:00	Xbox announces Xbox Labs, a new initiative to trial emerging ideas and "new technology" https://www.gamesindustry.biz/xbox-announces-xbox-labs-a-new-initiative-to-trial-emerging-ideas-and-new-technology
+2026-10-14T07:44:27+00:00	Xbox CEO reportedly warns firm will "not survive" if it only relies on existing franchises https://www.gamesindustry.biz/xbox-ceo-reportedly-warns-firm-will-not-survive-if-it-only-relies-on-existing-franchises
+2026-10-14T08:55:05+00:00	Ubisoft closing Trials developer RedLynx and cutting jobs in Singapore studio https://www.gamesindustry.biz/ubisoft-closing-trials-developer-redlynx-and-cutting-jobs-in-singapore-studio
+2026-10-14T09:59:16+00:00	ESA flags retro console maker Anbernic for inclusion on US government's Notorious Market List https://www.gamesindustry.biz/esa-flags-retro-console-maker-anbernic-for-inclusion-on-us-governments-notorious-market-list
+2026-10-14T12:26:32+00:00	Rockstar's next game won't take eight years to make: "The engine, the tools and the team we've built during GTA 6 will allow us to do things more quickly" https://www.gamesindustry.biz/rockstars-next-game-wont-take-eight-years-to-make-the-engine-the-tools-and-the-team-weve-built-during-gta-6-will-allow-us-to-do-things-more-quickly
+2026-10-14T13:42:31+00:00	Casual game marketplace Legacy Games to close online store this December https://www.gamesindustry.biz/casual-game-marketplace-legacy-games-to-close-online-store-this-december
