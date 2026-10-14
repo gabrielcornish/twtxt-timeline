@@ -3,9 +3,6 @@
 # source = https://www.reddit.com/r/Games.rss
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
-2026-10-13T14:00:08+00:00	Grand Theft Auto VI’s PC release is slated for Q1 2027 https://www.reddit.com/r/Games/comments/1x4xfa0/grand_theft_auto_vis_pc_release_is_slated_for_q1/
-2026-10-13T18:26:43+00:00	NVIDIA's DLSS 5 Is Getting A 2x Performance Boost With 20% Less VRAM Usage Needed Compared To Initial Model Released In September https://www.reddit.com/r/Games/comments/1x54knv/nvidias_dlss_5_is_getting_a_2x_performance_boost/
-2026-10-13T21:02:18+00:00	Deadlock (New Character) - Fairfax Industries Employee Spotlight https://www.reddit.com/r/Games/comments/1x58ntz/deadlock_new_character_fairfax_industries/
 2026-10-14T08:00:57+00:00	Valve Index Sunset https://www.reddit.com/r/Games/comments/1x5les1/valve_index_sunset/
 2026-10-14T09:13:39+00:00	Ubisoft is planning to shut down Trials studio RedLynx and lay off 70 Ubisoft Singapore staff https://www.reddit.com/r/Games/comments/1x5miag/ubisoft_is_planning_to_shut_down_trials_studio/
 2026-10-14T10:16:09+00:00	Bloomberg / Jason Schreier: The Making of Grand Theft Auto VI https://www.reddit.com/r/Games/comments/1x5nhp7/bloomberg_jason_schreier_the_making_of_grand/
@@ -18,13 +15,16 @@
 2026-10-14T13:06:24+00:00	The Legend of Zelda: Ocarina of Time Hands-on and Impressions Thread https://www.reddit.com/r/Games/comments/1x5qqhj/the_legend_of_zelda_ocarina_of_time_handson_and/
 2026-10-14T13:19:38+00:00	Game Boy Advance – Nintendo Classics – October 2026 Game Updates https://www.reddit.com/r/Games/comments/1x5r1cy/game_boy_advance_nintendo_classics_october_2026/
 2026-10-14T14:27:12+00:00	PlayStation user nets $50,000 after reporting PS5 exploit in lesser-known rewards scheme https://www.reddit.com/r/Games/comments/1x5sog1/playstation_user_nets_50000_after_reporting_ps5/
-2026-10-14T14:40:03+00:00	Awesome Gaming on Linux Without Cheating https://www.reddit.com/r/Games/comments/1x5szof/awesome_gaming_on_linux_without_cheating/
 2026-10-14T15:29:03+00:00	Enshrouded 1.0 - Launch Trailer https://www.reddit.com/r/Games/comments/1x5u9hq/enshrouded_10_launch_trailer/
 2026-10-14T15:31:57+00:00	PlayStation Plus Game Catalog for October: Mafia: The Old Country, Horizon Forbidden West, Mycopunk and more https://www.reddit.com/r/Games/comments/1x5uc7j/playstation_plus_game_catalog_for_october_mafia/
 2026-10-14T16:06:26+00:00	Meet the XBOX Nano Controller https://www.reddit.com/r/Games/comments/1x5v93y/meet_the_xbox_nano_controller/
-2026-10-14T17:11:23+00:00	Stage Tour Backstage: Official Deeper Dive Pt. 2 https://www.reddit.com/r/Games/comments/1x5wzn8/stage_tour_backstage_official_deeper_dive_pt_2/
 2026-10-14T17:12:54+00:00	WARDOGS | Season 02 Trailer https://www.reddit.com/r/Games/comments/1x5x163/wardogs_season_02_trailer/
 2026-10-14T17:38:46+00:00	Kotaro Uchikoshi (999, Zero Escape, AI Somnium Files) next game got cancelled, currently looking for work and investment opportunities for his new studio CrashKeys https://www.reddit.com/r/Games/comments/1x5xpjv/kotaro_uchikoshi_999_zero_escape_ai_somnium_files/
 2026-10-14T17:48:24+00:00	Jeff Kaplan Was An Industry Icon, Now Peers Ignore His Emails: Ex-Overwatch Director Talks “Humbling” Reality Of Indie Dev https://www.reddit.com/r/Games/comments/1x5xyp5/jeff_kaplan_was_an_industry_icon_now_peers_ignore/
 2026-10-14T18:20:20+00:00	over the hill - Launch Trailer https://www.reddit.com/r/Games/comments/1x5ytwg/over_the_hill_launch_trailer/
 2026-10-14T18:26:23+00:00	GTA 6 Reviews Will Be Released Before Launch https://www.reddit.com/r/Games/comments/1x5yzr2/gta_6_reviews_will_be_released_before_launch/
+2026-10-14T18:39:13+00:00	Tape To Tape 1.0 Official Trailer https://www.reddit.com/r/Games/comments/1x5zc1m/tape_to_tape_10_official_trailer/
+2026-10-14T19:33:34+00:00	League of Legends Classic Will Be Shutting Down at the End of This Season https://www.reddit.com/r/Games/comments/1x60s6o/league_of_legends_classic_will_be_shutting_down/
+2026-10-14T20:57:38+00:00	Warhammer 40,000: Boltgun 2 Review Thread https://www.reddit.com/r/Games/comments/1x62w4a/warhammer_40000_boltgun_2_review_thread/
+2026-10-14T21:10:02+00:00	Culture of the Belt | The Expanse: Osiris Reborn https://www.reddit.com/r/Games/comments/1x637f1/culture_of_the_belt_the_expanse_osiris_reborn/
+2026-10-14T21:46:05+00:00	Titanium Court | Console and Mobile Trailer https://www.reddit.com/r/Games/comments/1x642lj/titanium_court_console_and_mobile_trailer/
