@@ -3,10 +3,7 @@
 # source = https://bearblog.dev/discover/feed/
 # description = twtxt conversion of https://bearblog.dev/discover/feed/
 
-2026-10-11T01:50:00+00:00	Leaving Algorithm-Driven Spaces https://heychat.bearblog.dev/leaving-algorithm-driven-spaces/
-2026-10-11T18:19:00+00:00	Would you trust an author whose book cover can't get its character's legs right? https://imeldaspaws.com/would-you-trust-an-author-whose-book-cover-cant-get-its-characters-legs-right/
 2026-10-11T23:26:00+00:00	How AI Strips Joy and Meaning from Mathematics and Life https://gr-y.uk/how-ai-strips-joy-and-meaning-from-mathematics-and-life/
-2026-10-12T15:53:00+00:00	Ask Dr. Glowcat: Can We Has Data Centres in Space? https://drglowcatsdebuglog.bearblog.dev/ask-dr-glowcat-can-we-has-data-centres-in-space/
 2026-10-12T16:48:55.465644+00:00	Stand up for hemorrhoids https://robertbirming.com/stand-up-hemorrhoids/
 2026-10-12T17:46:34.573604+00:00	Where is all the new, good software? https://www.natemeyvis.com/where-is-all-the-new-good-software/
 2026-10-12T21:02:00+00:00	i'm embarrassed of my screen time and i'm trying to change https://dreamlogic.blog/im-embarrassed-of-my-screen-time-and-im-trying-to-change/
@@ -16,6 +13,7 @@
 2026-10-13T06:03:09.697230+00:00	I Was A Meat Proxy For A Day https://mayberay.bearblog.dev/i-was-a-meat-proxy-for-a-day/
 2026-10-13T06:55:00+00:00	You should just download your favorite YouTube content and put it on a hard drive in your home https://blog.lauramichet.com/you-should-just-download-your-favorite-youtube-content-and-put-it-on-a-hard-drive-in-your-home/
 2026-10-13T12:56:20.772129+00:00	The human element. https://itsme.bearblog.dev/the-human-element/
+2026-10-13T13:30:00+00:00	The Halloween We Used to Know https://ridewithpride.bearblog.dev/the-halloween-we-used-to-know/
 2026-10-13T14:51:00+00:00	Your Screen Time Means Jack https://blog.absurdpirate.com/your-screen-time-means-jack/
 2026-10-13T15:05:00+00:00	What is a Mystery? https://elmc.at/what-is-a-mystery/
 2026-10-13T15:06:00+00:00	System update: Perimenopause has been installed https://imeldaspaws.com/system-update-perimenopause-has-been-installed/
@@ -23,3 +21,5 @@
 2026-10-13T17:11:53.394006+00:00	embracing sincerity https://blog.platinumtulip.net/embracing-sincerity/
 2026-10-13T18:11:00+00:00	Dying Daily https://terminallucidity.net/dying-daily/
 2026-10-13T18:19:35.286078+00:00	it just doesn't work out sometimes https://rnotte.art/it-just-doesnt-work-out-sometimes/
+2026-10-13T20:05:55.197212+00:00	my current low effort fun lunch i bring to work https://blog.fiddery.com/my-current-low-effort-fun-lunch-i-bring-to-work/
+2026-10-13T22:00:00+00:00	Bold Since June https://ludd.life/bold-since-june/

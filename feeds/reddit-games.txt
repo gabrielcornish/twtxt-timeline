@@ -8,7 +8,6 @@
 2026-10-13T02:21:52+00:00	Games Event Criticised After Dumping Sponsor Over 'Zionist' Allegations https://www.reddit.com/r/Games/comments/1x4kuki/games_event_criticised_after_dumping_sponsor_over/
 2026-10-13T07:57:00+00:00	Castlevania: Belmont's Curse Review Thread https://www.reddit.com/r/Games/comments/1x4qopk/castlevania_belmonts_curse_review_thread/
 2026-10-13T08:14:24+00:00	Nvidia reportedly ends GeForce RTX 5090 graphics card production https://www.reddit.com/r/Games/comments/1x4qy6h/nvidia_reportedly_ends_geforce_rtx_5090_graphics/
-2026-10-13T09:26:18+00:00	Street Fighter 6 - Arjun Update Launch Trailer https://www.reddit.com/r/Games/comments/1x4s1ej/street_fighter_6_arjun_update_launch_trailer/
 2026-10-13T11:45:49+00:00	ACE COMBAT 8: WINGS OF THEVE - About ACE COMBAT ZERO: THE BELKAN WAR | Update 3 https://www.reddit.com/r/Games/comments/1x4ufxc/ace_combat_8_wings_of_theve_about_ace_combat_zero/
 2026-10-13T13:33:17+00:00	‘I Got That Completely Wrong’ — Dan Houser Considers Rockstar’s Max Payne 3 a Failure https://www.reddit.com/r/Games/comments/1x4wr7r/i_got_that_completely_wrong_dan_houser_considers/
 2026-10-13T14:00:08+00:00	Grand Theft Auto VI’s PC release is slated for Q1 2027 https://www.reddit.com/r/Games/comments/1x4xfa0/grand_theft_auto_vis_pc_release_is_slated_for_q1/
@@ -28,3 +27,4 @@
 2026-10-13T20:08:19+00:00	Two days before Enshrouded's 1.0 launch, director admits Keen Games bet the studio's future on It, and over 5 million players paid off that gamble https://www.reddit.com/r/Games/comments/1x57and/two_days_before_enshroudeds_10_launch_director/
 2026-10-13T21:02:18+00:00	Deadlock (New Character) - Fairfax Industries Employee Spotlight https://www.reddit.com/r/Games/comments/1x58ntz/deadlock_new_character_fairfax_industries/
 2026-10-13T22:30:49+00:00	S&Box - Rethinking https://www.reddit.com/r/Games/comments/1x5as5g/sbox_rethinking/
+2026-10-14T00:02:44+00:00	Warhammer 40,000: Rogue Trader - Zealot Archetype: In the Name of the God-Emperor - Steam News https://www.reddit.com/r/Games/comments/1x5csnx/warhammer_40000_rogue_trader_zealot_archetype_in/
