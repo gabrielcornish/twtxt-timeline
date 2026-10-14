@@ -3,10 +3,6 @@
 # source = https://www.gamesindustry.biz/feed
 # description = twtxt conversion of https://www.gamesindustry.biz/feed
 
-2026-10-05T17:44:03+00:00	Ninja Theory begins laying off staff, according to employee posts https://www.gamesindustry.biz/ninja-theory-begins-laying-off-staff-according-to-employee-posts
-2026-10-05T19:33:21+00:00	Arc Raiders and The Finals are getting TV series and film adaptations https://www.gamesindustry.biz/arc-raiders-and-the-finals-are-getting-tv-series-and-film-adaptations
-2026-10-06T07:24:06+00:00	NBA 2K25 servers to shut down on December 31, single-player story mode will become unplayable https://www.gamesindustry.biz/nba-2k25-servers-to-shut-down-on-december-31-single-player-story-mode-will-become-unplayable
-2026-10-06T09:12:24+00:00	Star Wars: Galactic Racer launches on Amazon Luna as part of Prime subscription https://www.gamesindustry.biz/star-wars-galactic-racer-launches-on-amazon-luna-as-part-of-prime-subscription
 2026-10-06T11:11:16+00:00	South Australian government makes largest investment in game development by doubling its Digital Games Fund to $1m https://www.gamesindustry.biz/south-australian-government-makes-largest-investment-in-game-development-by-doubling-its-digital-games-fund-to-1m
 2026-10-06T13:00:00+00:00	Brazil wants to be in "the top five game producers in the world in less than 10 years" https://www.gamesindustry.biz/brazil-wants-to-be-in-the-top-five-game-producers-in-the-world-in-less-than-10-years
 2026-10-06T13:50:19+00:00	Sega won't "entrust the creative aspect of games to AI," but is using tech to "improve efficiency" in other departments https://www.gamesindustry.biz/sega-wont-entrust-the-creative-aspect-of-games-to-ai-but-is-using-tech-to-improve-efficiency-in-other-departments
@@ -53,3 +49,7 @@
 2026-10-14T09:59:16+00:00	ESA flags retro console maker Anbernic for inclusion on US government's Notorious Market List https://www.gamesindustry.biz/esa-flags-retro-console-maker-anbernic-for-inclusion-on-us-governments-notorious-market-list
 2026-10-14T12:26:32+00:00	Rockstar's next game won't take eight years to make: "The engine, the tools and the team we've built during GTA 6 will allow us to do things more quickly" https://www.gamesindustry.biz/rockstars-next-game-wont-take-eight-years-to-make-the-engine-the-tools-and-the-team-weve-built-during-gta-6-will-allow-us-to-do-things-more-quickly
 2026-10-14T13:42:31+00:00	Casual game marketplace Legacy Games to close online store this December https://www.gamesindustry.biz/casual-game-marketplace-legacy-games-to-close-online-store-this-december
+2026-10-14T14:00:00+00:00	How to run an indie game studio: Part 3, Dealing with issues https://www.gamesindustry.biz/how-to-run-an-indie-game-studio-part-3-dealing-with-issues
+2026-10-14T14:57:54+00:00	"I wanted to make the show I wanted to watch" – How Galaxies found a place in the crowded showcase landscape https://www.gamesindustry.biz/i-wanted-to-make-the-show-i-wanted-to-watch-how-galaxies-found-a-place-in-the-crowded-showcase-landscape
+2026-10-14T16:34:08+00:00	Funcom to lay off staff as it pivots to focusing solely on Conan Exiles and Dune: Awakening https://www.gamesindustry.biz/funcom-to-lay-off-staff-as-it-pivots-to-focusing-solely-on-conan-exiles-and-dune-awakening
+2026-10-14T17:58:59+00:00	S&box plans to go free-to-play and embrace human curation saying "Netflix for games doesn't work" https://www.gamesindustry.biz/sbox-plans-to-go-free-to-play-and-embrace-human-curation-saying-netflix-for-games-doesnt-work

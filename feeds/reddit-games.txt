@@ -3,24 +3,13 @@
 # source = https://www.reddit.com/r/Games.rss
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
-2026-10-13T08:14:24+00:00	Nvidia reportedly ends GeForce RTX 5090 graphics card production https://www.reddit.com/r/Games/comments/1x4qy6h/nvidia_reportedly_ends_geforce_rtx_5090_graphics/
-2026-10-13T13:33:17+00:00	‘I Got That Completely Wrong’ — Dan Houser Considers Rockstar’s Max Payne 3 a Failure https://www.reddit.com/r/Games/comments/1x4wr7r/i_got_that_completely_wrong_dan_houser_considers/
 2026-10-13T14:00:08+00:00	Grand Theft Auto VI’s PC release is slated for Q1 2027 https://www.reddit.com/r/Games/comments/1x4xfa0/grand_theft_auto_vis_pc_release_is_slated_for_q1/
-2026-10-13T15:08:27+00:00	Digital Foundry: Ace Combat 8: Wings of Theve Is a Masterpiece - and a Technical High-Point for the Series https://www.reddit.com/r/Games/comments/1x4z6ew/digital_foundry_ace_combat_8_wings_of_theve_is_a/
-2026-10-13T16:48:24+00:00	Living World Seasons Are Now Included with Guild Wars 2 Expansions – GuildWars2.com https://www.reddit.com/r/Games/comments/1x51uzb/living_world_seasons_are_now_included_with_guild/
 2026-10-13T18:26:43+00:00	NVIDIA's DLSS 5 Is Getting A 2x Performance Boost With 20% Less VRAM Usage Needed Compared To Initial Model Released In September https://www.reddit.com/r/Games/comments/1x54knv/nvidias_dlss_5_is_getting_a_2x_performance_boost/
-2026-10-13T18:43:23+00:00	Apogee Entertainment: We are deeply saddened by the passing of Richard “Levelord” Gray. From his legendary work on Duke Nukem 3D to the countless players and developers he inspired, Richard leaves behind a lasting legacy. https://www.reddit.com/r/Games/comments/1x550xe/apogee_entertainment_we_are_deeply_saddened_by/
-2026-10-13T19:04:13+00:00	Introducing XBOX LABS https://www.reddit.com/r/Games/comments/1x55l35/introducing_xbox_labs/
-2026-10-13T20:08:19+00:00	Two days before Enshrouded's 1.0 launch, director admits Keen Games bet the studio's future on It, and over 5 million players paid off that gamble https://www.reddit.com/r/Games/comments/1x57and/two_days_before_enshroudeds_10_launch_director/
 2026-10-13T21:02:18+00:00	Deadlock (New Character) - Fairfax Industries Employee Spotlight https://www.reddit.com/r/Games/comments/1x58ntz/deadlock_new_character_fairfax_industries/
-2026-10-13T22:30:49+00:00	S&Box - Rethinking https://www.reddit.com/r/Games/comments/1x5as5g/sbox_rethinking/
-2026-10-14T00:02:44+00:00	Warhammer 40,000: Rogue Trader - Zealot Archetype: In the Name of the God-Emperor - Steam News https://www.reddit.com/r/Games/comments/1x5csnx/warhammer_40000_rogue_trader_zealot_archetype_in/
-2026-10-14T07:10:18+00:00	BF2 New Jabba's Palace Preview (New Engine) | Star Wars Battlefront 2 Remaster https://www.reddit.com/r/Games/comments/1x5knaf/bf2_new_jabbas_palace_preview_new_engine_star/
 2026-10-14T08:00:57+00:00	Valve Index Sunset https://www.reddit.com/r/Games/comments/1x5les1/valve_index_sunset/
 2026-10-14T09:13:39+00:00	Ubisoft is planning to shut down Trials studio RedLynx and lay off 70 Ubisoft Singapore staff https://www.reddit.com/r/Games/comments/1x5miag/ubisoft_is_planning_to_shut_down_trials_studio/
-2026-10-14T09:32:23+00:00	Escape Academy 2 launches November 5 with split-screen co-op, Game Pass and an optional no-timer mode https://www.reddit.com/r/Games/comments/1x5msge/escape_academy_2_launches_november_5_with/
 2026-10-14T10:16:09+00:00	Bloomberg / Jason Schreier: The Making of Grand Theft Auto VI https://www.reddit.com/r/Games/comments/1x5nhp7/bloomberg_jason_schreier_the_making_of_grand/
-2026-10-14T10:18:56+00:00	Going Medieval - Diplomacy Update: Diplomacy options, mercs, evolved trade and more! https://www.reddit.com/r/Games/comments/1x5nj92/going_medieval_diplomacy_update_diplomacy_options/
+2026-10-14T10:23:01+00:00	Battlefield 6 Season 5 Littered With AI-Made Cosmetics; With One Operator Equipped With 5 Pistols https://www.reddit.com/r/Games/comments/1x5nlqu/battlefield_6_season_5_littered_with_aimade/
 2026-10-14T11:00:43+00:00	Daily /r/Games Discussion - Suggest Me a Game - October 14, 2026 https://www.reddit.com/r/Games/comments/1x5o8ii/daily_rgames_discussion_suggest_me_a_game_october/
 2026-10-14T11:43:43+00:00	The Skywalker Saga is the definition of quantity over quality, and I think it's one of TT Games' most bloated LEGO games. https://www.reddit.com/r/Games/comments/1x5p0n0/the_skywalker_saga_is_the_definition_of_quantity/
 2026-10-14T11:59:25+00:00	Thank You Bus Driver - Launch Trailer https://www.reddit.com/r/Games/comments/1x5pb86/thank_you_bus_driver_launch_trailer/
@@ -28,3 +17,14 @@
 2026-10-14T13:04:06+00:00	RED ROOSTER: AN INCENDIARY RPG — SUMMER ETERNAL https://www.reddit.com/r/Games/comments/1x5qomo/red_rooster_an_incendiary_rpg_summer_eternal/
 2026-10-14T13:06:24+00:00	The Legend of Zelda: Ocarina of Time Hands-on and Impressions Thread https://www.reddit.com/r/Games/comments/1x5qqhj/the_legend_of_zelda_ocarina_of_time_handson_and/
 2026-10-14T13:19:38+00:00	Game Boy Advance – Nintendo Classics – October 2026 Game Updates https://www.reddit.com/r/Games/comments/1x5r1cy/game_boy_advance_nintendo_classics_october_2026/
+2026-10-14T14:27:12+00:00	PlayStation user nets $50,000 after reporting PS5 exploit in lesser-known rewards scheme https://www.reddit.com/r/Games/comments/1x5sog1/playstation_user_nets_50000_after_reporting_ps5/
+2026-10-14T14:40:03+00:00	Awesome Gaming on Linux Without Cheating https://www.reddit.com/r/Games/comments/1x5szof/awesome_gaming_on_linux_without_cheating/
+2026-10-14T15:29:03+00:00	Enshrouded 1.0 - Launch Trailer https://www.reddit.com/r/Games/comments/1x5u9hq/enshrouded_10_launch_trailer/
+2026-10-14T15:31:57+00:00	PlayStation Plus Game Catalog for October: Mafia: The Old Country, Horizon Forbidden West, Mycopunk and more https://www.reddit.com/r/Games/comments/1x5uc7j/playstation_plus_game_catalog_for_october_mafia/
+2026-10-14T16:06:26+00:00	Meet the XBOX Nano Controller https://www.reddit.com/r/Games/comments/1x5v93y/meet_the_xbox_nano_controller/
+2026-10-14T17:11:23+00:00	Stage Tour Backstage: Official Deeper Dive Pt. 2 https://www.reddit.com/r/Games/comments/1x5wzn8/stage_tour_backstage_official_deeper_dive_pt_2/
+2026-10-14T17:12:54+00:00	WARDOGS | Season 02 Trailer https://www.reddit.com/r/Games/comments/1x5x163/wardogs_season_02_trailer/
+2026-10-14T17:38:46+00:00	Kotaro Uchikoshi (999, Zero Escape, AI Somnium Files) next game got cancelled, currently looking for work and investment opportunities for his new studio CrashKeys https://www.reddit.com/r/Games/comments/1x5xpjv/kotaro_uchikoshi_999_zero_escape_ai_somnium_files/
+2026-10-14T17:48:24+00:00	Jeff Kaplan Was An Industry Icon, Now Peers Ignore His Emails: Ex-Overwatch Director Talks “Humbling” Reality Of Indie Dev https://www.reddit.com/r/Games/comments/1x5xyp5/jeff_kaplan_was_an_industry_icon_now_peers_ignore/
+2026-10-14T18:20:20+00:00	over the hill - Launch Trailer https://www.reddit.com/r/Games/comments/1x5ytwg/over_the_hill_launch_trailer/
+2026-10-14T18:26:23+00:00	GTA 6 Reviews Will Be Released Before Launch https://www.reddit.com/r/Games/comments/1x5yzr2/gta_6_reviews_will_be_released_before_launch/
