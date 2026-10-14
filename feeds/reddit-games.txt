@@ -4,14 +4,12 @@
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
 2026-10-11T09:00:35+00:00	Weekly /r/Games Discussion - What have you been playing, and what are your thoughts? - October 11, 2026 https://www.reddit.com/r/Games/comments/1x33dro/weekly_rgames_discussion_what_have_you_been/
-2026-10-12T17:59:24+00:00	Rimworld - Announcing the Waylith Engine and Update 1.7 https://www.reddit.com/r/Games/comments/1x48ylw/rimworld_announcing_the_waylith_engine_and_update/
 2026-10-13T02:21:52+00:00	Games Event Criticised After Dumping Sponsor Over 'Zionist' Allegations https://www.reddit.com/r/Games/comments/1x4kuki/games_event_criticised_after_dumping_sponsor_over/
 2026-10-13T07:57:00+00:00	Castlevania: Belmont's Curse Review Thread https://www.reddit.com/r/Games/comments/1x4qopk/castlevania_belmonts_curse_review_thread/
 2026-10-13T08:14:24+00:00	Nvidia reportedly ends GeForce RTX 5090 graphics card production https://www.reddit.com/r/Games/comments/1x4qy6h/nvidia_reportedly_ends_geforce_rtx_5090_graphics/
 2026-10-13T11:45:49+00:00	ACE COMBAT 8: WINGS OF THEVE - About ACE COMBAT ZERO: THE BELKAN WAR | Update 3 https://www.reddit.com/r/Games/comments/1x4ufxc/ace_combat_8_wings_of_theve_about_ace_combat_zero/
 2026-10-13T13:33:17+00:00	‘I Got That Completely Wrong’ — Dan Houser Considers Rockstar’s Max Payne 3 a Failure https://www.reddit.com/r/Games/comments/1x4wr7r/i_got_that_completely_wrong_dan_houser_considers/
 2026-10-13T14:00:08+00:00	Grand Theft Auto VI’s PC release is slated for Q1 2027 https://www.reddit.com/r/Games/comments/1x4xfa0/grand_theft_auto_vis_pc_release_is_slated_for_q1/
-2026-10-13T14:25:04+00:00	REPLACED Releases Dec 8th on Android https://www.reddit.com/r/Games/comments/1x4y22y/replaced_releases_dec_8th_on_android/
 2026-10-13T15:02:02+00:00	METRO 2039 Pre-Order Trailer https://www.reddit.com/r/Games/comments/1x4z0c3/metro_2039_preorder_trailer/
 2026-10-13T15:08:27+00:00	Digital Foundry: Ace Combat 8: Wings of Theve Is a Masterpiece - and a Technical High-Point for the Series https://www.reddit.com/r/Games/comments/1x4z6ew/digital_foundry_ace_combat_8_wings_of_theve_is_a/
 2026-10-13T15:58:38+00:00	Total War: SHOGUN 2 - Complete Edition - Launch Trailer https://www.reddit.com/r/Games/comments/1x50i8f/total_war_shogun_2_complete_edition_launch_trailer/
@@ -28,3 +26,5 @@
 2026-10-13T21:02:18+00:00	Deadlock (New Character) - Fairfax Industries Employee Spotlight https://www.reddit.com/r/Games/comments/1x58ntz/deadlock_new_character_fairfax_industries/
 2026-10-13T22:30:49+00:00	S&Box - Rethinking https://www.reddit.com/r/Games/comments/1x5as5g/sbox_rethinking/
 2026-10-14T00:02:44+00:00	Warhammer 40,000: Rogue Trader - Zealot Archetype: In the Name of the God-Emperor - Steam News https://www.reddit.com/r/Games/comments/1x5csnx/warhammer_40000_rogue_trader_zealot_archetype_in/
+2026-10-14T03:22:24+00:00	Kyoko Yamashita (Marketing, Squaresoft - Final Fantasy 6-11, KH1; Co-founder, XSeed Games) - "30 Years Between Japanese and Western Games" [INTERVIEW] https://www.reddit.com/r/Games/comments/1x5gssi/kyoko_yamashita_marketing_squaresoft_final/
+2026-10-14T07:10:18+00:00	BF2 New Jabba's Palace Preview (New Engine) | Star Wars Battlefront 2 Remaster https://www.reddit.com/r/Games/comments/1x5knaf/bf2_new_jabbas_palace_preview_new_engine_star/
