@@ -4,7 +4,6 @@
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
 2026-10-14T08:00:57+00:00	Valve Index Sunset https://www.reddit.com/r/Games/comments/1x5les1/valve_index_sunset/
-2026-10-14T09:13:39+00:00	Ubisoft is planning to shut down Trials studio RedLynx and lay off 70 Ubisoft Singapore staff https://www.reddit.com/r/Games/comments/1x5miag/ubisoft_is_planning_to_shut_down_trials_studio/
 2026-10-14T10:16:09+00:00	Bloomberg / Jason Schreier: The Making of Grand Theft Auto VI https://www.reddit.com/r/Games/comments/1x5nhp7/bloomberg_jason_schreier_the_making_of_grand/
 2026-10-14T10:23:01+00:00	Battlefield 6 Season 5 Littered With AI-Made Cosmetics; With One Operator Equipped With 5 Pistols https://www.reddit.com/r/Games/comments/1x5nlqu/battlefield_6_season_5_littered_with_aimade/
 2026-10-14T11:00:43+00:00	Daily /r/Games Discussion - Suggest Me a Game - October 14, 2026 https://www.reddit.com/r/Games/comments/1x5o8ii/daily_rgames_discussion_suggest_me_a_game_october/
@@ -16,9 +15,7 @@
 2026-10-14T13:19:38+00:00	Game Boy Advance – Nintendo Classics – October 2026 Game Updates https://www.reddit.com/r/Games/comments/1x5r1cy/game_boy_advance_nintendo_classics_october_2026/
 2026-10-14T14:27:12+00:00	PlayStation user nets $50,000 after reporting PS5 exploit in lesser-known rewards scheme https://www.reddit.com/r/Games/comments/1x5sog1/playstation_user_nets_50000_after_reporting_ps5/
 2026-10-14T15:29:03+00:00	Enshrouded 1.0 - Launch Trailer https://www.reddit.com/r/Games/comments/1x5u9hq/enshrouded_10_launch_trailer/
-2026-10-14T15:31:57+00:00	PlayStation Plus Game Catalog for October: Mafia: The Old Country, Horizon Forbidden West, Mycopunk and more https://www.reddit.com/r/Games/comments/1x5uc7j/playstation_plus_game_catalog_for_october_mafia/
 2026-10-14T16:06:26+00:00	Meet the XBOX Nano Controller https://www.reddit.com/r/Games/comments/1x5v93y/meet_the_xbox_nano_controller/
-2026-10-14T17:12:54+00:00	WARDOGS | Season 02 Trailer https://www.reddit.com/r/Games/comments/1x5x163/wardogs_season_02_trailer/
 2026-10-14T17:38:46+00:00	Kotaro Uchikoshi (999, Zero Escape, AI Somnium Files) next game got cancelled, currently looking for work and investment opportunities for his new studio CrashKeys https://www.reddit.com/r/Games/comments/1x5xpjv/kotaro_uchikoshi_999_zero_escape_ai_somnium_files/
 2026-10-14T17:48:24+00:00	Jeff Kaplan Was An Industry Icon, Now Peers Ignore His Emails: Ex-Overwatch Director Talks “Humbling” Reality Of Indie Dev https://www.reddit.com/r/Games/comments/1x5xyp5/jeff_kaplan_was_an_industry_icon_now_peers_ignore/
 2026-10-14T18:20:20+00:00	over the hill - Launch Trailer https://www.reddit.com/r/Games/comments/1x5ytwg/over_the_hill_launch_trailer/
@@ -27,4 +24,7 @@
 2026-10-14T19:33:34+00:00	League of Legends Classic Will Be Shutting Down at the End of This Season https://www.reddit.com/r/Games/comments/1x60s6o/league_of_legends_classic_will_be_shutting_down/
 2026-10-14T20:57:38+00:00	Warhammer 40,000: Boltgun 2 Review Thread https://www.reddit.com/r/Games/comments/1x62w4a/warhammer_40000_boltgun_2_review_thread/
 2026-10-14T21:10:02+00:00	Culture of the Belt | The Expanse: Osiris Reborn https://www.reddit.com/r/Games/comments/1x637f1/culture_of_the_belt_the_expanse_osiris_reborn/
+2026-10-14T21:41:19+00:00	Ubisoft plans workforce cuts at German studios - Ubisoft Dusseldorf, Berlin, Mainz [Formerly Blue Byte, known for Anno franchise] https://www.reddit.com/r/Games/comments/1x63yjt/ubisoft_plans_workforce_cuts_at_german_studios/
 2026-10-14T21:46:05+00:00	Titanium Court | Console and Mobile Trailer https://www.reddit.com/r/Games/comments/1x642lj/titanium_court_console_and_mobile_trailer/
+2026-10-15T00:48:44+00:00	Fire Emblem: Fortune’s Weave Expansion Pass — Announcement Trailer | Nintendo Today! https://www.reddit.com/r/Games/comments/1x682ox/fire_emblem_fortunes_weave_expansion_pass/
+2026-10-15T01:02:39+00:00	Fire Emblem: Fortune’s Weave Expansion Pass — Announcement Trailer — Nintendo Switch 2 https://www.reddit.com/r/Games/comments/1x68cpf/fire_emblem_fortunes_weave_expansion_pass/
