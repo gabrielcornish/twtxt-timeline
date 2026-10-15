@@ -4,12 +4,11 @@
 # description = twtxt conversion of https://bearblog.dev/discover/feed/
 
 2026-10-12T21:02:00+00:00	i'm embarrassed of my screen time and i'm trying to change https://dreamlogic.blog/im-embarrassed-of-my-screen-time-and-im-trying-to-change/
-2026-10-13T06:03:09.697230+00:00	I Was A Meat Proxy For A Day https://mayberay.bearblog.dev/i-was-a-meat-proxy-for-a-day/
 2026-10-13T06:55:00+00:00	You should just download your favorite YouTube content and put it on a hard drive in your home https://blog.lauramichet.com/you-should-just-download-your-favorite-youtube-content-and-put-it-on-a-hard-drive-in-your-home/
 2026-10-13T17:11:53.394006+00:00	embracing sincerity https://blog.platinumtulip.net/embracing-sincerity/
 2026-10-13T18:19:35.286078+00:00	it just doesn't work out sometimes https://rnotte.art/it-just-doesnt-work-out-sometimes/
-2026-10-14T03:56:30.902471+00:00	YouTube apocalypse, and other relevant thoughts https://punkthefrog.bearblog.dev/youtube-apocalypse-and-other-relevant-thoughts/
 2026-10-14T07:55:00+00:00	Clumsiness, stinginess, and phone addiction https://doodhpeda.bearblog.dev/blog/clumsiness-stinginess-and-phone-addiction/
+2026-10-14T12:00:00+00:00	Know it, don’t memorise it https://deedee.bearblog.dev/know-it-dont-memorise-it/
 2026-10-14T14:46:00+00:00	AI is mass decompiling games. That's both awesome and scary. https://popcar.bearblog.dev/ai-is-mass-decompiling-games-thats-both-awesome-and-scary/
 2026-10-14T16:27:00+00:00	Battle of the Ghouls https://lettersfrombeeftown.bearblog.dev/battle-of-the-ghouls/
 2026-10-14T16:51:00+00:00	...from a front row seat to the sunrise. https://coreyblogs.com/from-a-front-row-seat-to-the-sunrise/
@@ -19,7 +18,8 @@
 2026-10-14T21:35:00+00:00	Introducing Read Mode to my blog https://explorator.dev/introducing-read-mode-to-my-blog/
 2026-10-14T22:19:00+00:00	the worst thing he did in his life https://ninetimes.bearblog.dev/the-worst-thing-he-did-in-his-life/
 2026-10-15T01:36:36.733731+00:00	what would elmcat do https://elmc.at/wwed/
-2026-10-15T03:22:00+00:00	Give me a break https://glonk.bearblog.dev/give-me-a-break/
+2026-10-15T02:31:00+00:00	Why are new Players the best Players? https://writeodd.bearblog.dev/why-are-new-players-the-best-players/
 2026-10-15T03:35:00+00:00	drawing of a good guava https://ly.bearblog.dev/drawing-of-a-good-guava/
 2026-10-15T06:37:00+00:00	My biggest FOMO in life is not being young and adorable in New York City https://nikkindaeyo.bearblog.dev/my-biggest-fomo-in-life-is-not-being-young-and-adorable-in-new-york-city/
 2026-10-15T10:30:00+00:00	Last Year's Worry, Underlined Three Times https://ludd.life/ring-him-back-about/
+2026-10-15T17:40:00+00:00	The Last Day https://jannouna.dev/the-last-day/
