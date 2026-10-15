@@ -3,7 +3,6 @@
 # source = https://www.gamesindustry.biz/feed
 # description = twtxt conversion of https://www.gamesindustry.biz/feed
 
-2026-10-07T12:00:00+00:00	Unity unveils a web-based AI game creation platform https://www.gamesindustry.biz/unity-unveils-a-web-based-ai-game-creation-platform
 2026-10-07T14:00:00+00:00	How to run an indie game studio: Part 2, Defining your future https://www.gamesindustry.biz/how-to-run-an-indie-game-studio-part-2-defining-your-future
 2026-10-07T14:00:22+00:00	Paramount Games Studio and WB Games merge under Skydance following completion of $111bn acquisition https://www.gamesindustry.biz/paramount-games-studio-and-wb-games-merge-under-skydance-following-completion-of-111bn-acquisition
 2026-10-07T15:58:18+00:00	Wizards of the Coast union expands, demands company stop pushing generative AI https://www.gamesindustry.biz/wizards-of-the-coast-union-expands-demands-company-stop-pushing-generative-ai
@@ -53,3 +52,4 @@
 2026-10-15T11:08:03+00:00	House House will not release Big Walk on Xbox in support of pro-Palestinian BDS campaign https://www.gamesindustry.biz/house-house-will-not-release-big-walk-on-xbox-in-support-of-pro-palestinian-bds-campaign
 2026-10-15T12:30:00+00:00	An oral history of the Tomb Raider game no one wanted to make https://www.gamesindustry.biz/an-oral-history-of-the-tomb-raider-game-no-one-wanted-to-make
 2026-10-15T13:25:49+00:00	Reforj developer 4J Studios announces PC release date at Game Republic New Horizons https://www.gamesindustry.biz/reforj-developer-4j-studios-announces-pc-release-date-at-game-republic-new-horizons
+2026-10-15T14:31:28+00:00	DayZ creator Dean Hall releases open-source game development framework Brutal https://www.gamesindustry.biz/dayz-creator-dean-hall-releases-open-source-game-development-framework-brutal
