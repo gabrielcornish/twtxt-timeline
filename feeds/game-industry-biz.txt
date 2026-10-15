@@ -3,11 +3,6 @@
 # source = https://www.gamesindustry.biz/feed
 # description = twtxt conversion of https://www.gamesindustry.biz/feed
 
-2026-10-06T13:50:19+00:00	Sega won't "entrust the creative aspect of games to AI," but is using tech to "improve efficiency" in other departments https://www.gamesindustry.biz/sega-wont-entrust-the-creative-aspect-of-games-to-ai-but-is-using-tech-to-improve-efficiency-in-other-departments
-2026-10-06T14:00:00+00:00	Resident Evil games engagement leapt 50% following release of Zach Cregger's movie, but analysts say real value is in brand building https://www.gamesindustry.biz/resident-evil-games-engagement-leapt-50-following-release-of-zach-creggers-movie-but-analysts-say-real-value-is-in-brand-building-1
-2026-10-07T08:21:09+00:00	Paramount and Warner Bros. Discovery operating under Skydance following completion of $111bn merger https://www.gamesindustry.biz/paramount-and-warner-bros-discovery-operating-under-skydance-following-completion-of-111bn-merger
-2026-10-07T09:40:56+00:00	GamesIndustry.biz to host panel at Game Republic's Investment Summit at MCM Comic Con October 2026 https://www.gamesindustry.biz/gamesindustrybiz-to-host-panel-at-game-republics-investment-summit-at-mcm-comic-con-october-2026
-2026-10-07T10:59:12+00:00	Asha Sharma reportedly informs staff that Xbox has "started to return to growth" during internal town hall https://www.gamesindustry.biz/asha-sharma-reportedly-informs-staff-that-xbox-has-started-to-return-to-growth-during-internal-town-hall
 2026-10-07T12:00:00+00:00	Unity unveils a web-based AI game creation platform https://www.gamesindustry.biz/unity-unveils-a-web-based-ai-game-creation-platform
 2026-10-07T14:00:00+00:00	How to run an indie game studio: Part 2, Defining your future https://www.gamesindustry.biz/how-to-run-an-indie-game-studio-part-2-defining-your-future
 2026-10-07T14:00:22+00:00	Paramount Games Studio and WB Games merge under Skydance following completion of $111bn acquisition https://www.gamesindustry.biz/paramount-games-studio-and-wb-games-merge-under-skydance-following-completion-of-111bn-acquisition
@@ -53,3 +48,8 @@
 2026-10-14T17:58:59+00:00	S&box plans to go free-to-play and embrace human curation saying "Netflix for games doesn't work" https://www.gamesindustry.biz/sbox-plans-to-go-free-to-play-and-embrace-human-curation-saying-netflix-for-games-doesnt-work
 2026-10-14T19:45:48+00:00	Duke Nukem 3D level designer Richard "Levelord" Gray dies aged 68 https://www.gamesindustry.biz/duke-nukem-3d-level-designer-richard-levelord-gray-dies-aged-68
 2026-10-14T21:02:24+00:00	Google Play adds Game Finder, Sprints, and Sidekick Playbacks in discovery push https://www.gamesindustry.biz/google-play-adds-game-finder-sprints-and-sidekick-playbacks-in-discovery-push
+2026-10-15T08:09:37+00:00	Ubisoft to reduce workforce across Düsseldorf, Berlin, and Mainz as part of "proposed voluntary departure plan" https://www.gamesindustry.biz/ubisoft-to-reduce-workforce-across-dusseldorf-berlin-and-mainz-as-part-of-proposed-voluntary-departure-plan
+2026-10-15T09:35:29+00:00	Epic Games claims its new "vibe coded" launcher runs 46% faster than Steam from cold start to store page https://www.gamesindustry.biz/epic-games-claims-its-new-vibe-coded-launcher-runs-46-faster-than-steam-from-cold-start-to-store-page
+2026-10-15T11:08:03+00:00	House House will not release Big Walk on Xbox in support of pro-Palestinian BDS campaign https://www.gamesindustry.biz/house-house-will-not-release-big-walk-on-xbox-in-support-of-pro-palestinian-bds-campaign
+2026-10-15T12:30:00+00:00	An oral history of the Tomb Raider game no one wanted to make https://www.gamesindustry.biz/an-oral-history-of-the-tomb-raider-game-no-one-wanted-to-make
+2026-10-15T13:25:49+00:00	Reforj developer 4J Studios announces PC release date at Game Republic New Horizons https://www.gamesindustry.biz/reforj-developer-4j-studios-announces-pc-release-date-at-game-republic-new-horizons

@@ -3,14 +3,9 @@
 # source = https://www.reddit.com/r/Games.rss
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
-2026-10-14T10:16:09+00:00	Bloomberg / Jason Schreier: The Making of Grand Theft Auto VI https://www.reddit.com/r/Games/comments/1x5nhp7/bloomberg_jason_schreier_the_making_of_grand/
 2026-10-14T10:23:01+00:00	Battlefield 6 Season 5 Littered With AI-Made Cosmetics; With One Operator Equipped With 5 Pistols https://www.reddit.com/r/Games/comments/1x5nlqu/battlefield_6_season_5_littered_with_aimade/
 2026-10-14T11:00:43+00:00	Daily /r/Games Discussion - Suggest Me a Game - October 14, 2026 https://www.reddit.com/r/Games/comments/1x5o8ii/daily_rgames_discussion_suggest_me_a_game_october/
-2026-10-14T11:43:43+00:00	The Skywalker Saga is the definition of quantity over quality, and I think it's one of TT Games' most bloated LEGO games. https://www.reddit.com/r/Games/comments/1x5p0n0/the_skywalker_saga_is_the_definition_of_quantity/
-2026-10-14T13:00:18+00:00	The Legend of Zelda: Ocarina of Time – Overview Trailer (Nintendo Switch 2) https://www.reddit.com/r/Games/comments/1x5ql98/the_legend_of_zelda_ocarina_of_time_overview/
-2026-10-14T13:04:06+00:00	RED ROOSTER: AN INCENDIARY RPG — SUMMER ETERNAL https://www.reddit.com/r/Games/comments/1x5qomo/red_rooster_an_incendiary_rpg_summer_eternal/
 2026-10-14T13:06:24+00:00	The Legend of Zelda: Ocarina of Time Hands-on and Impressions Thread https://www.reddit.com/r/Games/comments/1x5qqhj/the_legend_of_zelda_ocarina_of_time_handson_and/
-2026-10-14T15:29:03+00:00	Enshrouded 1.0 - Launch Trailer https://www.reddit.com/r/Games/comments/1x5u9hq/enshrouded_10_launch_trailer/
 2026-10-14T16:06:26+00:00	Meet the XBOX Nano Controller https://www.reddit.com/r/Games/comments/1x5v93y/meet_the_xbox_nano_controller/
 2026-10-14T17:38:46+00:00	Kotaro Uchikoshi (999, Zero Escape, AI Somnium Files) next game got cancelled, currently looking for work and investment opportunities for his new studio CrashKeys https://www.reddit.com/r/Games/comments/1x5xpjv/kotaro_uchikoshi_999_zero_escape_ai_somnium_files/
 2026-10-14T17:48:24+00:00	Jeff Kaplan Was An Industry Icon, Now Peers Ignore His Emails: Ex-Overwatch Director Talks “Humbling” Reality Of Indie Dev https://www.reddit.com/r/Games/comments/1x5xyp5/jeff_kaplan_was_an_industry_icon_now_peers_ignore/
@@ -19,12 +14,17 @@
 2026-10-14T19:33:34+00:00	League of Legends Classic Will Be Shutting Down at the End of This Season https://www.reddit.com/r/Games/comments/1x60s6o/league_of_legends_classic_will_be_shutting_down/
 2026-10-14T20:57:38+00:00	Warhammer 40,000: Boltgun 2 Review Thread https://www.reddit.com/r/Games/comments/1x62w4a/warhammer_40000_boltgun_2_review_thread/
 2026-10-14T21:10:02+00:00	Culture of the Belt | The Expanse: Osiris Reborn https://www.reddit.com/r/Games/comments/1x637f1/culture_of_the_belt_the_expanse_osiris_reborn/
-2026-10-14T21:41:19+00:00	Ubisoft plans workforce cuts at German studios - Ubisoft Dusseldorf, Berlin, Mainz [Formerly Blue Byte, known for Anno franchise] https://www.reddit.com/r/Games/comments/1x63yjt/ubisoft_plans_workforce_cuts_at_german_studios/
-2026-10-14T21:46:05+00:00	Titanium Court | Console and Mobile Trailer https://www.reddit.com/r/Games/comments/1x642lj/titanium_court_console_and_mobile_trailer/
-2026-10-15T00:32:41+00:00	Grimbeard - Parasite Eve II (PS1) - Review https://www.reddit.com/r/Games/comments/1x67r5m/grimbeard_parasite_eve_ii_ps1_review/
 2026-10-15T00:48:44+00:00	Fire Emblem: Fortune’s Weave Expansion Pass — Announcement Trailer | Nintendo Today! https://www.reddit.com/r/Games/comments/1x682ox/fire_emblem_fortunes_weave_expansion_pass/
 2026-10-15T01:02:39+00:00	Fire Emblem: Fortune’s Weave Expansion Pass — Announcement Trailer — Nintendo Switch 2 https://www.reddit.com/r/Games/comments/1x68cpf/fire_emblem_fortunes_weave_expansion_pass/
 2026-10-15T04:04:03+00:00	Castlevania: Belmont’s Curse is out now https://www.reddit.com/r/Games/comments/1x6bv28/castlevania_belmonts_curse_is_out_now/
-2026-10-15T05:23:33+00:00	Elite Dangerous - Law & Disorder , Anaconda Mk II, and new Operation preview https://www.reddit.com/r/Games/comments/1x6d8xd/elite_dangerous_law_disorder_anaconda_mk_ii_and/
 2026-10-15T05:30:43+00:00	An explanation on why Big Walk isn't available on Xbox. https://www.reddit.com/r/Games/comments/1x6dd9l/an_explanation_on_why_big_walk_isnt_available_on/
-2026-10-15T06:38:19+00:00	Viral co-op hit Peak is seemingly coming to PS5 https://www.reddit.com/r/Games/comments/1x6egtk/viral_coop_hit_peak_is_seemingly_coming_to_ps5/
+2026-10-15T11:05:42+00:00	Toy Story: Retro Roundup! Review Thread https://www.reddit.com/r/Games/comments/1x6iqm6/toy_story_retro_roundup_review_thread/
+2026-10-15T11:17:07+00:00	Sunsetting decomp.dev https://www.reddit.com/r/Games/comments/1x6ixwa/sunsetting_decompdev/
+2026-10-15T11:17:15+00:00	Drova II - Torn Lands Announcement Trailer https://www.reddit.com/r/Games/comments/1x6ixzj/drova_ii_torn_lands_announcement_trailer/
+2026-10-15T11:29:06+00:00	Toy Story 3 Complete Edition Review Thread https://www.reddit.com/r/Games/comments/1x6j5ls/toy_story_3_complete_edition_review_thread/
+2026-10-15T12:13:19+00:00	"Fate/EXTRA Record" Character Introduction Trailer (RIVAL’s SIDE) https://www.reddit.com/r/Games/comments/1x6k09t/fateextra_record_character_introduction_trailer/
+2026-10-15T12:13:25+00:00	Order of the Sinking Star has been out for a week, what are your thoughts? https://www.reddit.com/r/Games/comments/1x6k0by/order_of_the_sinking_star_has_been_out_for_a_week/
+2026-10-15T12:49:58+00:00	Enshrouded 1.0 - Launch Trailer https://www.reddit.com/r/Games/comments/1x6krd4/enshrouded_10_launch_trailer/
+2026-10-15T13:01:26+00:00	Grand Theft Auto VI Launch Trailer https://www.reddit.com/r/Games/comments/1x6l0l6/grand_theft_auto_vi_launch_trailer/
+2026-10-15T13:05:38+00:00	CONTROL Resonant has been out for about three weeks, what are your thoughts? https://www.reddit.com/r/Games/comments/1x6l44f/control_resonant_has_been_out_for_about_three/
+2026-10-15T13:14:31+00:00	Creative Assembly is temporarily removing Total War Shogun 2: Complete Edition from sale and restating the original game while investigating issues https://www.reddit.com/r/Games/comments/1x6lble/creative_assembly_is_temporarily_removing_total/
