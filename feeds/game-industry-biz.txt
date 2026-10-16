@@ -3,10 +3,6 @@
 # source = https://www.gamesindustry.biz/feed
 # description = twtxt conversion of https://www.gamesindustry.biz/feed
 
-2026-10-07T14:00:00+00:00	How to run an indie game studio: Part 2, Defining your future https://www.gamesindustry.biz/how-to-run-an-indie-game-studio-part-2-defining-your-future
-2026-10-07T14:00:22+00:00	Paramount Games Studio and WB Games merge under Skydance following completion of $111bn acquisition https://www.gamesindustry.biz/paramount-games-studio-and-wb-games-merge-under-skydance-following-completion-of-111bn-acquisition
-2026-10-07T15:58:18+00:00	Wizards of the Coast union expands, demands company stop pushing generative AI https://www.gamesindustry.biz/wizards-of-the-coast-union-expands-demands-company-stop-pushing-generative-ai
-2026-10-07T19:15:58+00:00	Discord protection bot Double Counter hit by breach exposing around 1 million email addresses https://www.gamesindustry.biz/discord-protection-bot-double-counter-hit-by-breach-exposing-around-1-million-email-addresses
 2026-10-07T19:41:33+00:00	Star Wars Zero Company developer Bit Reactor begins bringing furloughed staff back https://www.gamesindustry.biz/star-wars-zero-company-developer-bit-reactor-begins-bringing-furloughed-staff-back
 2026-10-07T20:30:32+00:00	Gravity Well lays off more than 40 developers after losing its funding https://www.gamesindustry.biz/gravity-well-lays-off-more-than-40-developers-after-losing-its-funding
 2026-10-08T08:09:16+00:00	Fireshine Games acquires Necesse dev Fair Games, described as a "defining moment" for Danish indie studio https://www.gamesindustry.biz/fireshine-games-acquires-necesse-dev-fair-games-described-as-a-defining-moment-for-danish-indie-studio
@@ -53,3 +49,7 @@
 2026-10-15T12:30:00+00:00	An oral history of the Tomb Raider game no one wanted to make https://www.gamesindustry.biz/an-oral-history-of-the-tomb-raider-game-no-one-wanted-to-make
 2026-10-15T13:25:49+00:00	Reforj developer 4J Studios announces PC release date at Game Republic New Horizons https://www.gamesindustry.biz/reforj-developer-4j-studios-announces-pc-release-date-at-game-republic-new-horizons
 2026-10-15T14:31:28+00:00	DayZ creator Dean Hall releases open-source game development framework Brutal https://www.gamesindustry.biz/dayz-creator-dean-hall-releases-open-source-game-development-framework-brutal
+2026-10-16T08:22:20+00:00	Sega and Creative Assembly remove Total War: Shogun 2 remaster from sale as it "falls short of both your expectations and our own standards" https://www.gamesindustry.biz/sega-and-creative-assembly-remove-total-war-shogun-2-remaster-from-sale-as-it-falls-short-of-both-your-expectations-and-our-own-standards
+2026-10-16T09:27:33+00:00	Fishlabs announces layoffs due to "changing project requirements," development and support teams affected https://www.gamesindustry.biz/fishlabs-announces-layoffs-due-to-changing-project-requirements-development-and-support-teams-affected
+2026-10-16T10:10:06+00:00	Game Republic New Horizons 2026 attendance grew 76% to over 461 visitors https://www.gamesindustry.biz/game-republic-new-horizons-2026-attendance-grew-76-to-over-461-visitors
+2026-10-16T12:26:23+00:00	The Netflix series Drive to Survive inspired Star Wars: Galactic Racer https://www.gamesindustry.biz/the-netflix-series-drive-to-survive-inspired-star-wars-galactic-racer
