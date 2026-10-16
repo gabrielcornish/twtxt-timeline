@@ -4,27 +4,27 @@
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
 2026-10-14T11:00:43+00:00	Daily /r/Games Discussion - Suggest Me a Game - October 14, 2026 https://www.reddit.com/r/Games/comments/1x5o8ii/daily_rgames_discussion_suggest_me_a_game_october/
-2026-10-15T05:30:43+00:00	An explanation on why Big Walk isn't available on Xbox. https://www.reddit.com/r/Games/comments/1x6dd9l/an_explanation_on_why_big_walk_isnt_available_on/
-2026-10-15T11:17:07+00:00	Sunsetting decomp.dev https://www.reddit.com/r/Games/comments/1x6ixwa/sunsetting_decompdev/
-2026-10-15T11:17:15+00:00	Drova II - Torn Lands Announcement Trailer https://www.reddit.com/r/Games/comments/1x6ixzj/drova_ii_torn_lands_announcement_trailer/
 2026-10-15T13:01:26+00:00	Grand Theft Auto VI Launch Trailer https://www.reddit.com/r/Games/comments/1x6l0l6/grand_theft_auto_vi_launch_trailer/
-2026-10-15T13:05:38+00:00	CONTROL Resonant has been out for about three weeks, what are your thoughts? https://www.reddit.com/r/Games/comments/1x6l44f/control_resonant_has_been_out_for_about_three/
 2026-10-15T13:14:31+00:00	Creative Assembly is temporarily removing Total War Shogun 2: Complete Edition from sale and restating the original game while investigating issues https://www.reddit.com/r/Games/comments/1x6lble/creative_assembly_is_temporarily_removing_total/
-2026-10-15T13:23:57+00:00	Ratatan Launch Trailer https://www.reddit.com/r/Games/comments/1x6ljet/ratatan_launch_trailer/
 2026-10-15T15:13:32+00:00	Caves of Qud: Diaspora - Official Expansion DLC Teaser https://www.reddit.com/r/Games/comments/1x6obxa/caves_of_qud_diaspora_official_expansion_dlc/
 2026-10-15T16:01:55+00:00	Control Resonant has reached 1 million copies sold https://www.reddit.com/r/Games/comments/1x6pmcx/control_resonant_has_reached_1_million_copies_sold/
-2026-10-15T17:03:51+00:00	PEAK Releases Oct 22nd On PS5, Xbox Series, Switch 2 https://www.reddit.com/r/Games/comments/1x6r9tt/peak_releases_oct_22nd_on_ps5_xbox_series_switch_2/
 2026-10-15T18:21:53+00:00	RuneScape Reignited has been cancelled https://www.reddit.com/r/Games/comments/1x6tcax/runescape_reignited_has_been_cancelled/
 2026-10-15T18:46:35+00:00	AI Vibe-Coding Just Hit The Video Game Industry Like An Avalanche https://www.reddit.com/r/Games/comments/1x6u00b/ai_vibecoding_just_hit_the_video_game_industry/
-2026-10-15T18:50:12+00:00	CDPR Has Taken 'Several Years' To Give Project Hadar a 'Coherent Vision' https://www.reddit.com/r/Games/comments/1x6u3kj/cdpr_has_taken_several_years_to_give_project/
 2026-10-15T19:34:52+00:00	"We are not going away:" Activision QA workers vote to authorise strike after two years of contract negotiations https://www.reddit.com/r/Games/comments/1x6v9wy/we_are_not_going_away_activision_qa_workers_vote/
-2026-10-15T20:47:05+00:00	GAMEPLAY TRAILER | THE FINALS - PRIME TIME https://www.reddit.com/r/Games/comments/1x6x50w/gameplay_trailer_the_finals_prime_time/
 2026-10-15T22:09:23+00:00	Steam Achievement Sets Now in Beta https://www.reddit.com/r/Games/comments/1x6z3of/steam_achievement_sets_now_in_beta/
 2026-10-15T22:58:47+00:00	Join the World of Warcraft: Forever Stress Test [Oct 19th] https://www.reddit.com/r/Games/comments/1x707so/join_the_world_of_warcraft_forever_stress_test/
-2026-10-15T23:17:41+00:00	CD-R Racing - Official Announcement Trailer https://www.reddit.com/r/Games/comments/1x70msn/cdr_racing_official_announcement_trailer/
 2026-10-15T23:18:08+00:00	Lair of the Leviathan - Official Announcement Trailer https://www.reddit.com/r/Games/comments/1x70n68/lair_of_the_leviathan_official_announcement/
 2026-10-16T00:13:00+00:00	Rep. Torres Announces Power To The Players Act, Legislation to Ensure Gamers Own Their Games https://www.reddit.com/r/Games/comments/1x71u8a/rep_torres_announces_power_to_the_players_act/
-2026-10-16T00:32:06+00:00	Satellite Odyssey: Jupiter - Official Gameplay Trailer https://www.reddit.com/r/Games/comments/1x728qd/satellite_odyssey_jupiter_official_gameplay/
 2026-10-16T00:57:16+00:00	SPINE - Customization Announcement https://www.reddit.com/r/Games/comments/1x72quf/spine_customization_announcement/
-2026-10-16T07:57:54+00:00	Beyond Tetris: The Other Games of Alexey Pajitnov https://www.reddit.com/r/Games/comments/1x7a8ej/beyond_tetris_the_other_games_of_alexey_pajitnov/
+2026-10-16T07:29:28+00:00	L is Real 2401 SOLVED: What Mario 64's Plaque Really Says https://www.reddit.com/r/Games/comments/1x79shd/l_is_real_2401_solved_what_mario_64s_plaque/
 2026-10-16T10:00:40+00:00	Daily /r/Games Discussion - Free Talk Friday - October 16, 2026 https://www.reddit.com/r/Games/comments/1x7c5ju/daily_rgames_discussion_free_talk_friday_october/
+2026-10-16T12:35:20+00:00	Marvel's Wolverine star Debra Wilson isn't sure why Insomniac used her likeness for Callisto, "Why make it look like me when there are so many iterations?"; Is tired of studios constantly using her likeness in the roles she plays: "I honestly love games where they don't look like me at all" https://www.reddit.com/r/Games/comments/1x7f1lh/marvels_wolverine_star_debra_wilson_isnt_sure_why/
+2026-10-16T14:10:27+00:00	Blood of Dawnwalker Update 1.1 Details Revealed: Draught of Mind Rebirth, Petting Animals, Update to the Story Mode, Additional subtitle settings, Changes and Improvements https://www.reddit.com/r/Games/comments/1x7h9t3/blood_of_dawnwalker_update_11_details_revealed/
+2026-10-16T14:24:11+00:00	Drunken Goddess Reflux - Change to the Demo Release Plan for Drunken Goddess Reflux https://www.reddit.com/r/Games/comments/1x7hmac/drunken_goddess_reflux_change_to_the_demo_release/
+2026-10-16T14:35:22+00:00	Subnautica 2 | The Voyage to Early Access 2 Begins https://www.reddit.com/r/Games/comments/1x7hwby/subnautica_2_the_voyage_to_early_access_2_begins/
+2026-10-16T15:16:38+00:00	Survival mining roguelike Hold The Mine leaves EA December 10th https://www.reddit.com/r/Games/comments/1x7iy65/survival_mining_roguelike_hold_the_mine_leaves_ea/
+2026-10-16T15:17:51+00:00	No Rest for the Wicked | Wicked Inside Showcase | Class System | 1.0 Launch Preview https://www.reddit.com/r/Games/comments/1x7izai/no_rest_for_the_wicked_wicked_inside_showcase/
+2026-10-16T16:02:07+00:00	Konami president Hayakawa believes AI “won’t bring a significant change” to the game market. “Humans” and “creators” are crucial for developing innovative games https://www.reddit.com/r/Games/comments/1x7k5bo/konami_president_hayakawa_believes_ai_wont_bring/
+2026-10-16T16:31:20+00:00	LADYKILLER UNLEASHED Announced - Expansion DLC for Ladykiller In A Bind https://www.reddit.com/r/Games/comments/1x7kxjv/ladykiller_unleashed_announced_expansion_dlc_for/
+2026-10-16T16:35:48+00:00	Analogue announces Mega Sg+ and Super Nt+ https://www.reddit.com/r/Games/comments/1x7l1sd/analogue_announces_mega_sg_and_super_nt/
+2026-10-16T17:18:34+00:00	Penguin Colony is now available https://www.reddit.com/r/Games/comments/1x7m6dd/penguin_colony_is_now_available/

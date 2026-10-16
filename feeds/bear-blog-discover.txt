@@ -4,22 +4,22 @@
 # description = twtxt conversion of https://bearblog.dev/discover/feed/
 
 2026-10-13T06:55:00+00:00	You should just download your favorite YouTube content and put it on a hard drive in your home https://blog.lauramichet.com/you-should-just-download-your-favorite-youtube-content-and-put-it-on-a-hard-drive-in-your-home/
-2026-10-13T18:19:35.286078+00:00	it just doesn't work out sometimes https://rnotte.art/it-just-doesnt-work-out-sometimes/
 2026-10-14T07:55:00+00:00	Clumsiness, stinginess, and phone addiction https://doodhpeda.bearblog.dev/blog/clumsiness-stinginess-and-phone-addiction/
 2026-10-14T14:46:00+00:00	AI is mass decompiling games. That's both awesome and scary. https://popcar.bearblog.dev/ai-is-mass-decompiling-games-thats-both-awesome-and-scary/
-2026-10-14T16:27:00+00:00	Battle of the Ghouls https://lettersfrombeeftown.bearblog.dev/battle-of-the-ghouls/
 2026-10-14T16:51:00+00:00	...from a front row seat to the sunrise. https://coreyblogs.com/from-a-front-row-seat-to-the-sunrise/
 2026-10-14T18:03:00+00:00	i am so afraid of starting small... https://jila.bearblog.dev/i-am-so-afraid-of-starting-small/
 2026-10-14T19:25:44.147393+00:00	AI agents on the IndieWeb https://winther.sysctl.dk/ai-agents-on-the-indieweb/
 2026-10-14T20:08:53.734575+00:00	i went premium and i'm suddenly craving validation https://giuls.bearblog.dev/i-went-premium-and-im-suddenly-craving-validation/
 2026-10-14T21:35:00+00:00	Introducing Read Mode to my blog https://explorator.dev/introducing-read-mode-to-my-blog/
-2026-10-14T22:19:00+00:00	the worst thing he did in his life https://ninetimes.bearblog.dev/the-worst-thing-he-did-in-his-life/
 2026-10-15T01:36:36.733731+00:00	what would elmcat do https://elmc.at/wwed/
-2026-10-15T02:31:00+00:00	Why are new Players the best Players? https://writeodd.bearblog.dev/why-are-new-players-the-best-players/
 2026-10-15T03:35:00+00:00	drawing of a good guava https://ly.bearblog.dev/drawing-of-a-good-guava/
 2026-10-15T06:37:00+00:00	My biggest FOMO in life is not being young and adorable in New York City https://nikkindaeyo.bearblog.dev/my-biggest-fomo-in-life-is-not-being-young-and-adorable-in-new-york-city/
 2026-10-15T10:30:00+00:00	Last Year's Worry, Underlined Three Times https://ludd.life/ring-him-back-about/
-2026-10-15T16:00:00+00:00	I Think I Might Have a Preference When it Comes to Blog Platform https://turbiegaming.bearblog.dev/i-think-i-might-have-a-preference-when-it-comes-to-blog-platform/
 2026-10-15T20:40:00+00:00	Is it possible to stop AI from stealing art? https://lifebythesea.bearblog.dev/is-it-possible-to-stop-ai-from-stealing-art/
 2026-10-16T00:13:00+00:00	Microwaved coffee https://valerakushnir.com/blog/microwaved-coffee/
 2026-10-16T00:17:00+00:00	New Noodlist Website https://jetgirl.art/new-noodlist-website/
+2026-10-16T01:42:00+00:00	The Three "I"s And What I Want In A Player https://torn.bearblog.dev/the-three-is-and-what-i-want-in-a-player/
+2026-10-16T10:30:00+00:00	Some of It Is Rent: The List That Keeps Me Up https://ludd.life/some-rent/
+2026-10-16T14:22:41.670549+00:00	No it's cool, Possum. Make yourself at home up there. https://blog.curiousquail.com/t-no-its-cool-possum-make-yourself-at-home-up-there-scarf/
+2026-10-16T15:02:00.174678+00:00	GNOME makes me sad https://nate.spot/gnome-makes-me-sad/
+2026-10-16T15:10:44.721926+00:00	...the worst thing he's ever done. https://coreyblogs.com/the-worst-thing-hes-ever-done/

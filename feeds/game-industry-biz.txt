@@ -3,9 +3,6 @@
 # source = https://www.gamesindustry.biz/feed
 # description = twtxt conversion of https://www.gamesindustry.biz/feed
 
-2026-10-07T19:41:33+00:00	Star Wars Zero Company developer Bit Reactor begins bringing furloughed staff back https://www.gamesindustry.biz/star-wars-zero-company-developer-bit-reactor-begins-bringing-furloughed-staff-back
-2026-10-07T20:30:32+00:00	Gravity Well lays off more than 40 developers after losing its funding https://www.gamesindustry.biz/gravity-well-lays-off-more-than-40-developers-after-losing-its-funding
-2026-10-08T08:09:16+00:00	Fireshine Games acquires Necesse dev Fair Games, described as a "defining moment" for Danish indie studio https://www.gamesindustry.biz/fireshine-games-acquires-necesse-dev-fair-games-described-as-a-defining-moment-for-danish-indie-studio
 2026-10-08T09:58:52+00:00	Gardens Interactive, founded by veterans behind Journey and Sky: Children of the Light, raises over $35m in Series B funding round https://www.gamesindustry.biz/gardens-interactive-founded-by-veterans-behind-journey-and-sky-children-of-the-light-raise-over-35m-in-series-b-funding-round
 2026-10-08T10:31:11+00:00	Hell Let Loose developer Expression opens new studio in Manchester "in response to what's happening in the talent market" https://www.gamesindustry.biz/hell-let-loose-developer-expression-opens-new-studio-in-manchester-in-response-to-whats-happening-in-the-talent-market
 2026-10-08T12:18:40+00:00	Xbox announces new XP division to deliver transmedia spinoffs including film, TV, and theme parks https://www.gamesindustry.biz/xbox-announces-new-xp-division-to-deliver-transmedia-spinoffs-including-film-tv-and-theme-parks
@@ -51,5 +48,8 @@
 2026-10-15T14:31:28+00:00	DayZ creator Dean Hall releases open-source game development framework Brutal https://www.gamesindustry.biz/dayz-creator-dean-hall-releases-open-source-game-development-framework-brutal
 2026-10-16T08:22:20+00:00	Sega and Creative Assembly remove Total War: Shogun 2 remaster from sale as it "falls short of both your expectations and our own standards" https://www.gamesindustry.biz/sega-and-creative-assembly-remove-total-war-shogun-2-remaster-from-sale-as-it-falls-short-of-both-your-expectations-and-our-own-standards
 2026-10-16T09:27:33+00:00	Fishlabs announces layoffs due to "changing project requirements," development and support teams affected https://www.gamesindustry.biz/fishlabs-announces-layoffs-due-to-changing-project-requirements-development-and-support-teams-affected
-2026-10-16T10:10:06+00:00	Game Republic New Horizons 2026 attendance grew 76% to over 461 visitors https://www.gamesindustry.biz/game-republic-new-horizons-2026-attendance-grew-76-to-over-461-visitors
+2026-10-16T10:10:06+00:00	Game Republic New Horizons 2026 attendance grew 78% to over 461 visitors https://www.gamesindustry.biz/game-republic-new-horizons-2026-attendance-grew-76-to-over-461-visitors
 2026-10-16T12:26:23+00:00	The Netflix series Drive to Survive inspired Star Wars: Galactic Racer https://www.gamesindustry.biz/the-netflix-series-drive-to-survive-inspired-star-wars-galactic-racer
+2026-10-16T12:44:48+00:00	Gamescom Asia x Thailand Game Show 2026 announces four additional pavilions from Indonesia, Japan, Malaysia, and the US https://www.gamesindustry.biz/gamescom-asia-x-thailand-game-show-2026-announces-four-additional-pavilions-from-indonesia-japan-malaysia-and-the-us
+2026-10-16T14:30:00+00:00	How Star Wars: Galactic Racer kept the core team small and sustainable through "distributed development" https://www.gamesindustry.biz/how-star-wars-galactic-racer-kept-the-core-team-small-and-sustainable-through-distributed-development
+2026-10-16T15:18:57+00:00	A hardware market freeze could transform the industry forever | Opinion https://www.gamesindustry.biz/a-hardware-market-freeze-could-transform-the-industry-forever-opinion
