@@ -4,8 +4,6 @@
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
 2026-10-14T11:00:43+00:00	Daily /r/Games Discussion - Suggest Me a Game - October 14, 2026 https://www.reddit.com/r/Games/comments/1x5o8ii/daily_rgames_discussion_suggest_me_a_game_october/
-2026-10-14T17:48:24+00:00	Jeff Kaplan Was An Industry Icon, Now Peers Ignore His Emails: Ex-Overwatch Director Talks “Humbling” Reality Of Indie Dev https://www.reddit.com/r/Games/comments/1x5xyp5/jeff_kaplan_was_an_industry_icon_now_peers_ignore/
-2026-10-15T04:04:03+00:00	Castlevania: Belmont’s Curse is out now https://www.reddit.com/r/Games/comments/1x6bv28/castlevania_belmonts_curse_is_out_now/
 2026-10-15T05:30:43+00:00	An explanation on why Big Walk isn't available on Xbox. https://www.reddit.com/r/Games/comments/1x6dd9l/an_explanation_on_why_big_walk_isnt_available_on/
 2026-10-15T11:17:07+00:00	Sunsetting decomp.dev https://www.reddit.com/r/Games/comments/1x6ixwa/sunsetting_decompdev/
 2026-10-15T11:17:15+00:00	Drova II - Torn Lands Announcement Trailer https://www.reddit.com/r/Games/comments/1x6ixzj/drova_ii_torn_lands_announcement_trailer/
@@ -25,6 +23,8 @@
 2026-10-15T18:46:35+00:00	AI Vibe-Coding Just Hit The Video Game Industry Like An Avalanche https://www.reddit.com/r/Games/comments/1x6u00b/ai_vibecoding_just_hit_the_video_game_industry/
 2026-10-15T18:50:12+00:00	CDPR Has Taken 'Several Years' To Give Project Hadar a 'Coherent Vision' https://www.reddit.com/r/Games/comments/1x6u3kj/cdpr_has_taken_several_years_to_give_project/
 2026-10-15T19:34:52+00:00	"We are not going away:" Activision QA workers vote to authorise strike after two years of contract negotiations https://www.reddit.com/r/Games/comments/1x6v9wy/we_are_not_going_away_activision_qa_workers_vote/
-2026-10-15T19:48:00+00:00	Ancestors Releases Dec 8th On PS5, Xbox Series, & Switch 2 https://www.reddit.com/r/Games/comments/1x6vm2c/ancestors_releases_dec_8th_on_ps5_xbox_series/
 2026-10-15T20:47:05+00:00	GAMEPLAY TRAILER | THE FINALS - PRIME TIME https://www.reddit.com/r/Games/comments/1x6x50w/gameplay_trailer_the_finals_prime_time/
 2026-10-15T22:09:23+00:00	Steam Achievement Sets Now in Beta https://www.reddit.com/r/Games/comments/1x6z3of/steam_achievement_sets_now_in_beta/
+2026-10-15T22:58:47+00:00	Join the World of Warcraft: Forever Stress Test [Oct 19th] https://www.reddit.com/r/Games/comments/1x707so/join_the_world_of_warcraft_forever_stress_test/
+2026-10-15T23:18:08+00:00	Lair of the Leviathan - Official Announcement Trailer https://www.reddit.com/r/Games/comments/1x70n68/lair_of_the_leviathan_official_announcement/
+2026-10-16T00:13:00+00:00	Rep. Torres Announces Power To The Players Act, Legislation to Ensure Gamers Own Their Games https://www.reddit.com/r/Games/comments/1x71u8a/rep_torres_announces_power_to_the_players_act/
