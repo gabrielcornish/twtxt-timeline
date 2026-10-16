@@ -7,8 +7,6 @@
 2026-10-15T05:30:43+00:00	An explanation on why Big Walk isn't available on Xbox. https://www.reddit.com/r/Games/comments/1x6dd9l/an_explanation_on_why_big_walk_isnt_available_on/
 2026-10-15T11:17:07+00:00	Sunsetting decomp.dev https://www.reddit.com/r/Games/comments/1x6ixwa/sunsetting_decompdev/
 2026-10-15T11:17:15+00:00	Drova II - Torn Lands Announcement Trailer https://www.reddit.com/r/Games/comments/1x6ixzj/drova_ii_torn_lands_announcement_trailer/
-2026-10-15T11:29:06+00:00	Toy Story 3 Complete Edition Review Thread https://www.reddit.com/r/Games/comments/1x6j5ls/toy_story_3_complete_edition_review_thread/
-2026-10-15T12:13:25+00:00	Order of the Sinking Star has been out for a week, what are your thoughts? https://www.reddit.com/r/Games/comments/1x6k0by/order_of_the_sinking_star_has_been_out_for_a_week/
 2026-10-15T12:49:58+00:00	Enshrouded 1.0 - Launch Trailer https://www.reddit.com/r/Games/comments/1x6krd4/enshrouded_10_launch_trailer/
 2026-10-15T13:01:26+00:00	Grand Theft Auto VI Launch Trailer https://www.reddit.com/r/Games/comments/1x6l0l6/grand_theft_auto_vi_launch_trailer/
 2026-10-15T13:05:38+00:00	CONTROL Resonant has been out for about three weeks, what are your thoughts? https://www.reddit.com/r/Games/comments/1x6l44f/control_resonant_has_been_out_for_about_three/
@@ -26,5 +24,7 @@
 2026-10-15T20:47:05+00:00	GAMEPLAY TRAILER | THE FINALS - PRIME TIME https://www.reddit.com/r/Games/comments/1x6x50w/gameplay_trailer_the_finals_prime_time/
 2026-10-15T22:09:23+00:00	Steam Achievement Sets Now in Beta https://www.reddit.com/r/Games/comments/1x6z3of/steam_achievement_sets_now_in_beta/
 2026-10-15T22:58:47+00:00	Join the World of Warcraft: Forever Stress Test [Oct 19th] https://www.reddit.com/r/Games/comments/1x707so/join_the_world_of_warcraft_forever_stress_test/
+2026-10-15T23:17:41+00:00	CD-R Racing - Official Announcement Trailer https://www.reddit.com/r/Games/comments/1x70msn/cdr_racing_official_announcement_trailer/
 2026-10-15T23:18:08+00:00	Lair of the Leviathan - Official Announcement Trailer https://www.reddit.com/r/Games/comments/1x70n68/lair_of_the_leviathan_official_announcement/
 2026-10-16T00:13:00+00:00	Rep. Torres Announces Power To The Players Act, Legislation to Ensure Gamers Own Their Games https://www.reddit.com/r/Games/comments/1x71u8a/rep_torres_announces_power_to_the_players_act/
+2026-10-16T00:57:16+00:00	SPINE - Customization Announcement https://www.reddit.com/r/Games/comments/1x72quf/spine_customization_announcement/
