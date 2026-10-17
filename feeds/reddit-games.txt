@@ -3,8 +3,6 @@
 # source = https://www.reddit.com/r/Games.rss
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
-2026-10-15T16:01:55+00:00	Control Resonant has reached 1 million copies sold https://www.reddit.com/r/Games/comments/1x6pmcx/control_resonant_has_reached_1_million_copies_sold/
-2026-10-15T18:46:35+00:00	AI Vibe-Coding Just Hit The Video Game Industry Like An Avalanche https://www.reddit.com/r/Games/comments/1x6u00b/ai_vibecoding_just_hit_the_video_game_industry/
 2026-10-16T00:13:00+00:00	Rep. Torres Announces Power To The Players Act, Legislation to Ensure Gamers Own Their Games https://www.reddit.com/r/Games/comments/1x71u8a/rep_torres_announces_power_to_the_players_act/
 2026-10-16T10:00:40+00:00	Daily /r/Games Discussion - Free Talk Friday - October 16, 2026 https://www.reddit.com/r/Games/comments/1x7c5ju/daily_rgames_discussion_free_talk_friday_october/
 2026-10-16T12:35:20+00:00	Marvel's Wolverine star Debra Wilson isn't sure why Insomniac used her likeness for Callisto, "Why make it look like me when there are so many iterations?"; Is tired of studios constantly using her likeness in the roles she plays: "I honestly love games where they don't look like me at all" https://www.reddit.com/r/Games/comments/1x7f1lh/marvels_wolverine_star_debra_wilson_isnt_sure_why/
@@ -19,7 +17,6 @@
 2026-10-16T18:13:57+00:00	IGN: Call of Duty: Modern Warfare 4 Review In Progress (8/10) https://www.reddit.com/r/Games/comments/1x7nmv1/ign_call_of_duty_modern_warfare_4_review_in/
 2026-10-16T18:14:37+00:00	Bloomberg: Behind the Scenes of ‘Grand Theft Auto VI’ https://www.reddit.com/r/Games/comments/1x7nnh1/bloomberg_behind_the_scenes_of_grand_theft_auto_vi/
 2026-10-16T18:51:49+00:00	Tenebris Somnia - Launch Trailer https://www.reddit.com/r/Games/comments/1x7omc4/tenebris_somnia_launch_trailer/
-2026-10-16T18:57:02+00:00	Dreadline Express Official Launch Trailer https://www.reddit.com/r/Games/comments/1x7or3i/dreadline_express_official_launch_trailer/
 2026-10-16T19:01:06+00:00	March of Giants - Pioneer Playtest Thank You https://www.reddit.com/r/Games/comments/1x7ov2s/march_of_giants_pioneer_playtest_thank_you/
 2026-10-16T20:02:03+00:00	MandaloreGaming - Bioshock 2 Review https://www.reddit.com/r/Games/comments/1x7qffk/mandaloregaming_bioshock_2_review/
 2026-10-16T20:15:52+00:00	AMA- I created Desolus, a first-person puzzle game where you explore a city of Gothic architecture. I worked on it for 13 years, and it just released! I'm here with our development team. https://www.reddit.com/r/Games/comments/1x7qs3y/ama_i_created_desolus_a_firstperson_puzzle_game/
@@ -28,3 +25,6 @@
 2026-10-16T21:04:33+00:00	Iron Bramble - Gameplay Trailer https://www.reddit.com/r/Games/comments/1x7rzj8/iron_bramble_gameplay_trailer/
 2026-10-16T21:16:33+00:00	Beyond These Stars Launch Trailer https://www.reddit.com/r/Games/comments/1x7sa10/beyond_these_stars_launch_trailer/
 2026-10-17T00:42:37+00:00	Rollercoaster Tycoon meets Anti-Pedestrian City Planning in CAR PARK CAPITAL https://www.reddit.com/r/Games/comments/1x7wtoo/rollercoaster_tycoon_meets_antipedestrian_city/
+2026-10-17T04:49:23+00:00	Order of the Sinking Star has sold 45% more units on Steam in its first week than The Witness did https://www.reddit.com/r/Games/comments/1x81dll/order_of_the_sinking_star_has_sold_45_more_units/
+2026-10-17T12:34:41+00:00	Samson Developer Liquid Swords Goes Bankrupt https://www.reddit.com/r/Games/comments/1x895qu/samson_developer_liquid_swords_goes_bankrupt/
+2026-10-17T12:55:17+00:00	'We're Pretty Proud of It' — Castlevania: Belmont’s Curse Devs Say They Made the Game's Characters Hot on Purpose, Are Fully Aware and Loving the ‘Horny’ Fanart - IGN https://www.reddit.com/r/Games/comments/1x89kkt/were_pretty_proud_of_it_castlevania_belmonts/
