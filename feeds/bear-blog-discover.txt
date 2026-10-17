@@ -3,23 +3,23 @@
 # source = https://bearblog.dev/discover/feed/
 # description = twtxt conversion of https://bearblog.dev/discover/feed/
 
-2026-10-14T07:55:00+00:00	Clumsiness, stinginess, and phone addiction https://doodhpeda.bearblog.dev/blog/clumsiness-stinginess-and-phone-addiction/
 2026-10-14T14:46:00+00:00	AI is mass decompiling games. That's both awesome and scary. https://popcar.bearblog.dev/ai-is-mass-decompiling-games-thats-both-awesome-and-scary/
 2026-10-14T16:51:00+00:00	...from a front row seat to the sunrise. https://coreyblogs.com/from-a-front-row-seat-to-the-sunrise/
 2026-10-14T19:25:44.147393+00:00	AI agents on the IndieWeb https://winther.sysctl.dk/ai-agents-on-the-indieweb/
 2026-10-14T20:08:53.734575+00:00	i went premium and i'm suddenly craving validation https://giuls.bearblog.dev/i-went-premium-and-im-suddenly-craving-validation/
-2026-10-14T21:35:00+00:00	Introducing Read Mode to my blog https://explorator.dev/introducing-read-mode-to-my-blog/
-2026-10-15T01:36:36.733731+00:00	what would elmcat do https://elmc.at/wwed/
 2026-10-15T20:40:00+00:00	Is it possible to stop AI from stealing art? https://lifebythesea.bearblog.dev/is-it-possible-to-stop-ai-from-stealing-art/
 2026-10-16T00:13:00+00:00	Microwaved coffee https://valerakushnir.com/blog/microwaved-coffee/
-2026-10-16T00:17:00+00:00	New Noodlist Website https://jetgirl.art/new-noodlist-website/
 2026-10-16T10:30:00+00:00	Some of It Is Rent: The List That Keeps Me Up https://ludd.life/some-rent/
-2026-10-16T11:10:21.225313+00:00	The Things We Forget to Be Grateful For https://dreamchaser.bearblog.dev/new-post/
 2026-10-16T14:22:41.670549+00:00	No it's cool, Possum. Make yourself at home up there. https://blog.curiousquail.com/t-no-its-cool-possum-make-yourself-at-home-up-there-scarf/
 2026-10-16T14:29:00+00:00	God I Need More Color In My Life https://blog.absurdpirate.com/god-i-need-more-color-in-my-life/
 2026-10-16T14:43:34.741922+00:00	Return to the Red telephone box book swap https://yunzi.co.uk/return-to-the-red-telephone-box-book-swap/
 2026-10-16T15:02:00.174678+00:00	GNOME makes me sad https://nate.spot/gnome-makes-me-sad/
-2026-10-16T15:10:44.721926+00:00	...the worst thing he's ever done. https://coreyblogs.com/the-worst-thing-hes-ever-done/
-2026-10-16T17:13:11.028801+00:00	28 - just pick a demon and live with it, man https://sepuluhkupang.bearblog.dev/28-just-pick-a-demon-and-live-with-it-man/
+2026-10-16T15:10:00+00:00	...the worst thing he's ever done. https://coreyblogs.com/the-worst-thing-hes-ever-done/
+2026-10-16T16:51:00+00:00	The Bear Site: Still A Learning Curve https://mamasporch.bearblog.dev/the-bear-site-still-a-learning-curve/
+2026-10-16T16:51:17.665151+00:00	Naples at Night https://ninetimes.bearblog.dev/naples-by-night/
+2026-10-16T16:53:00+00:00	cat tax https://blog.fiddery.com/cat-tax/
 2026-10-16T17:31:53.511534+00:00	An oddly sophisticated phishing attack https://blog.damonreece.com/an-oddly-sophisticated-phishing-attack/
+2026-10-16T18:09:00+00:00	started the portrait of my sister yay https://donthave2sting.bearblog.dev/started-the-portrait-of-my-sister-yay/
 2026-10-16T20:00:00+00:00	Old-School Children's Television Hits Different: Why You Should Be Making Space for Thomas the Tank Engine, Postman Pat, and Rosie and Jim https://homeworkinghenry.com/old-school-childrens-television-hits-different/
+2026-10-16T21:12:00+00:00	Innocence is kind of beautiful actually https://tadaima.bearblog.dev/innocence-is-beautiful/
+2026-10-16T21:24:00+00:00	RE: i am so afraid of starting small https://rnotte.art/re-i-am-so-afraid-of-starting-small/
