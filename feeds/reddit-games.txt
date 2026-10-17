@@ -3,16 +3,12 @@
 # source = https://www.reddit.com/r/Games.rss
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
-2026-10-16T00:13:00+00:00	Rep. Torres Announces Power To The Players Act, Legislation to Ensure Gamers Own Their Games https://www.reddit.com/r/Games/comments/1x71u8a/rep_torres_announces_power_to_the_players_act/
 2026-10-16T10:00:40+00:00	Daily /r/Games Discussion - Free Talk Friday - October 16, 2026 https://www.reddit.com/r/Games/comments/1x7c5ju/daily_rgames_discussion_free_talk_friday_october/
 2026-10-16T12:35:20+00:00	Marvel's Wolverine star Debra Wilson isn't sure why Insomniac used her likeness for Callisto, "Why make it look like me when there are so many iterations?"; Is tired of studios constantly using her likeness in the roles she plays: "I honestly love games where they don't look like me at all" https://www.reddit.com/r/Games/comments/1x7f1lh/marvels_wolverine_star_debra_wilson_isnt_sure_why/
 2026-10-16T14:10:27+00:00	Blood of Dawnwalker Update 1.1 Details Revealed: Draught of Mind Rebirth, Petting Animals, Update to the Story Mode, Additional subtitle settings, Changes and Improvements https://www.reddit.com/r/Games/comments/1x7h9t3/blood_of_dawnwalker_update_11_details_revealed/
-2026-10-16T14:24:11+00:00	Drunken Goddess Reflux - Change to the Demo Release Plan for Drunken Goddess Reflux https://www.reddit.com/r/Games/comments/1x7hmac/drunken_goddess_reflux_change_to_the_demo_release/
 2026-10-16T14:35:22+00:00	Subnautica 2 | The Voyage to Early Access 2 Begins https://www.reddit.com/r/Games/comments/1x7hwby/subnautica_2_the_voyage_to_early_access_2_begins/
 2026-10-16T15:17:51+00:00	No Rest for the Wicked | Wicked Inside Showcase | Class System | 1.0 Launch Preview https://www.reddit.com/r/Games/comments/1x7izai/no_rest_for_the_wicked_wicked_inside_showcase/
 2026-10-16T16:02:07+00:00	Konami president Hayakawa believes AI “won’t bring a significant change” to the game market. “Humans” and “creators” are crucial for developing innovative games https://www.reddit.com/r/Games/comments/1x7k5bo/konami_president_hayakawa_believes_ai_wont_bring/
-2026-10-16T16:31:20+00:00	LADYKILLER UNLEASHED Announced - Expansion DLC for Ladykiller In A Bind https://www.reddit.com/r/Games/comments/1x7kxjv/ladykiller_unleashed_announced_expansion_dlc_for/
-2026-10-16T16:35:48+00:00	Analogue announces Mega Sg+ and Super Nt+ https://www.reddit.com/r/Games/comments/1x7l1sd/analogue_announces_mega_sg_and_super_nt/
 2026-10-16T17:18:34+00:00	Penguin Colony is now available https://www.reddit.com/r/Games/comments/1x7m6dd/penguin_colony_is_now_available/
 2026-10-16T18:13:57+00:00	IGN: Call of Duty: Modern Warfare 4 Review In Progress (8/10) https://www.reddit.com/r/Games/comments/1x7nmv1/ign_call_of_duty_modern_warfare_4_review_in/
 2026-10-16T18:14:37+00:00	Bloomberg: Behind the Scenes of ‘Grand Theft Auto VI’ https://www.reddit.com/r/Games/comments/1x7nnh1/bloomberg_behind_the_scenes_of_grand_theft_auto_vi/
@@ -28,3 +24,7 @@
 2026-10-17T04:49:23+00:00	Order of the Sinking Star has sold 45% more units on Steam in its first week than The Witness did https://www.reddit.com/r/Games/comments/1x81dll/order_of_the_sinking_star_has_sold_45_more_units/
 2026-10-17T12:34:41+00:00	Samson Developer Liquid Swords Goes Bankrupt https://www.reddit.com/r/Games/comments/1x895qu/samson_developer_liquid_swords_goes_bankrupt/
 2026-10-17T12:55:17+00:00	'We're Pretty Proud of It' — Castlevania: Belmont’s Curse Devs Say They Made the Game's Characters Hot on Purpose, Are Fully Aware and Loving the ‘Horny’ Fanart - IGN https://www.reddit.com/r/Games/comments/1x89kkt/were_pretty_proud_of_it_castlevania_belmonts/
+2026-10-17T15:23:07+00:00	ESIC hand out lengthy bans to players involved in $4.5m matchfixing scheme at Portuguese LAN https://www.reddit.com/r/Games/comments/1x8cwo5/esic_hand_out_lengthy_bans_to_players_involved_in/
+2026-10-17T15:49:12+00:00	GOG: The Elder Scrolls IV: Oblivion – Game of the Year Edition Deluxe and Ghostwire: Tokyo join the GOG Preservation Program https://www.reddit.com/r/Games/comments/1x8djce/gog_the_elder_scrolls_iv_oblivion_game_of_the/
+2026-10-17T16:08:02+00:00	Newly Translated 1999 Resident Evil Interview with Shinji Mikami https://www.reddit.com/r/Games/comments/1x8e06s/newly_translated_1999_resident_evil_interview/
+2026-10-17T16:36:15+00:00	GitHub user creates open-source Nvidia GeForce Now client alternative — removes tracking, telemetry, and AFK limitations https://www.reddit.com/r/Games/comments/1x8epo3/github_user_creates_opensource_nvidia_geforce_now/

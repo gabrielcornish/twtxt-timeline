@@ -12,7 +12,6 @@
 2026-10-16T14:29:00+00:00	God I Need More Color In My Life https://blog.absurdpirate.com/god-i-need-more-color-in-my-life/
 2026-10-16T14:43:34.741922+00:00	Return to the Red telephone box book swap https://yunzi.co.uk/return-to-the-red-telephone-box-book-swap/
 2026-10-16T15:02:00.174678+00:00	GNOME makes me sad https://nate.spot/gnome-makes-me-sad/
-2026-10-16T15:10:00+00:00	...the worst thing he's ever done. https://coreyblogs.com/the-worst-thing-hes-ever-done/
 2026-10-16T16:51:00+00:00	The Bear Site: Still A Learning Curve https://mamasporch.bearblog.dev/the-bear-site-still-a-learning-curve/
 2026-10-16T16:51:00+00:00	Naples at Night https://ninetimes.bearblog.dev/naples-by-night/
 2026-10-16T16:53:00+00:00	cat tax https://blog.fiddery.com/cat-tax/
@@ -21,5 +20,6 @@
 2026-10-16T20:00:00+00:00	Old-School Children's Television Hits Different: Why You Should Be Making Space for Thomas the Tank Engine, Postman Pat, and Rosie and Jim https://homeworkinghenry.com/old-school-childrens-television-hits-different/
 2026-10-16T21:12:00+00:00	Innocence is kind of beautiful actually https://tadaima.bearblog.dev/innocence-is-beautiful/
 2026-10-16T21:24:00+00:00	RE: i am so afraid of starting small https://rnotte.art/re-i-am-so-afraid-of-starting-small/
+2026-10-17T08:38:27.083370+00:00	The AI Snitch Scandal Nobody Bothered to Explain https://thecynicalnerd.bearblog.dev/the-ai-snitch-scandal-nobody-bothered-to-explain/
 2026-10-17T10:30:00+00:00	See You Sunday https://ludd.life/see-sunday/
-2026-10-17T13:00:00+00:00	sadness https://lnebres.bearblog.dev/sadness/
+2026-10-17T13:49:00+00:00	Especial de mesversário do blog: Um dia eu saio da cama. https://heyimbriel.bearblog.dev/especial-de-mesversario/
