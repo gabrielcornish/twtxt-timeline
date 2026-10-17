@@ -4,9 +4,9 @@
 # description = twtxt conversion of https://bearblog.dev/discover/feed/
 
 2026-10-14T14:46:00+00:00	AI is mass decompiling games. That's both awesome and scary. https://popcar.bearblog.dev/ai-is-mass-decompiling-games-thats-both-awesome-and-scary/
-2026-10-14T16:51:00+00:00	...from a front row seat to the sunrise. https://coreyblogs.com/from-a-front-row-seat-to-the-sunrise/
 2026-10-14T19:25:44.147393+00:00	AI agents on the IndieWeb https://winther.sysctl.dk/ai-agents-on-the-indieweb/
 2026-10-14T20:08:53.734575+00:00	i went premium and i'm suddenly craving validation https://giuls.bearblog.dev/i-went-premium-and-im-suddenly-craving-validation/
+2026-10-15T01:36:36.733731+00:00	what would elmcat do https://elmc.at/wwed/
 2026-10-15T20:40:00+00:00	Is it possible to stop AI from stealing art? https://lifebythesea.bearblog.dev/is-it-possible-to-stop-ai-from-stealing-art/
 2026-10-16T00:13:00+00:00	Microwaved coffee https://valerakushnir.com/blog/microwaved-coffee/
 2026-10-16T10:30:00+00:00	Some of It Is Rent: The List That Keeps Me Up https://ludd.life/some-rent/
