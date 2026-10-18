@@ -5,7 +5,6 @@
 
 2026-10-17T12:34:41+00:00	Samson Developer Liquid Swords Goes Bankrupt https://www.reddit.com/r/Games/comments/1x895qu/samson_developer_liquid_swords_goes_bankrupt/
 2026-10-17T12:55:17+00:00	'We're Pretty Proud of It' — Castlevania: Belmont’s Curse Devs Say They Made the Game's Characters Hot on Purpose, Are Fully Aware and Loving the ‘Horny’ Fanart - IGN https://www.reddit.com/r/Games/comments/1x89kkt/were_pretty_proud_of_it_castlevania_belmonts/
-2026-10-17T15:23:07+00:00	ESIC hand out lengthy bans to players involved in $4.5m matchfixing scheme at Portuguese LAN https://www.reddit.com/r/Games/comments/1x8cwo5/esic_hand_out_lengthy_bans_to_players_involved_in/
 2026-10-17T15:49:12+00:00	GOG: The Elder Scrolls IV: Oblivion – Game of the Year Edition Deluxe and Ghostwire: Tokyo join the GOG Preservation Program https://www.reddit.com/r/Games/comments/1x8djce/gog_the_elder_scrolls_iv_oblivion_game_of_the/
 2026-10-17T16:08:02+00:00	Newly Translated 1999 Resident Evil Interview with Shinji Mikami https://www.reddit.com/r/Games/comments/1x8e06s/newly_translated_1999_resident_evil_interview/
 2026-10-17T16:36:15+00:00	GitHub user creates open-source Nvidia GeForce Now client alternative — removes tracking, telemetry, and AFK limitations https://www.reddit.com/r/Games/comments/1x8epo3/github_user_creates_opensource_nvidia_geforce_now/
@@ -17,14 +16,15 @@
 2026-10-18T12:00:45+00:00	HEXRITE - Phabula - make pacts with gods in a PS2-inspired magical action-adventure! https://www.reddit.com/r/Games/comments/1x91htv/hexrite_phabula_make_pacts_with_gods_in_a/
 2026-10-18T12:11:20+00:00	Seolhwa Dungeon - Sungki Soft - A roguelike RPG built from Korean folktales https://www.reddit.com/r/Games/comments/1x91p41/seolhwa_dungeon_sungki_soft_a_roguelike_rpg_built/
 2026-10-18T13:50:32+00:00	Cyberpunk 2077 CO-OP Mod: the Whole Story Together | NightCoop Gameplay https://www.reddit.com/r/Games/comments/1x93ptw/cyberpunk_2077_coop_mod_the_whole_story_together/
-2026-10-18T14:10:50+00:00	Wizards Never Lie - MARA//KESH - 4-player social deduction where your live webcam hangs above your seat https://www.reddit.com/r/Games/comments/1x946ir/wizards_never_lie_marakesh_4player_social/
 2026-10-18T15:05:57+00:00	How Star Wars: Galactic Racer kept the core team small and sustainable through "distributed development" https://www.reddit.com/r/Games/comments/1x95ggd/how_star_wars_galactic_racer_kept_the_core_team/
 2026-10-18T15:57:41+00:00	Knuckle Creek - Claymatic Games - A slapstick party brawler for up to 8 players https://www.reddit.com/r/Games/comments/1x96pcp/knuckle_creek_claymatic_games_a_slapstick_party/
 2026-10-18T16:44:34+00:00	Devolver Digital opens preorders for the BALL x PIT Deluxe Double Vinyl https://www.reddit.com/r/Games/comments/1x97vj1/devolver_digital_opens_preorders_for_the_ball_x/
-2026-10-18T16:58:15+00:00	Off The Rock - Logic Games - A 2D Sc-Fi/Fantasy Sandbox Survival https://www.reddit.com/r/Games/comments/1x987ce/off_the_rock_logic_games_a_2d_scfifantasy_sandbox/
 2026-10-18T17:05:40+00:00	Leviathan: Rhino - Amortiz Games - A horror game about loss, death, loneliness, and inevitability. The demo will be available during Steam Next Fest. https://www.reddit.com/r/Games/comments/1x98e3e/leviathan_rhino_amortiz_games_a_horror_game_about/
-2026-10-18T17:11:49+00:00	Usurpator - REIGEN GAMES - A top-down Soulslike PvPvE extraction game with skill-based melee combat https://www.reddit.com/r/Games/comments/1x98js3/usurpator_reigen_games_a_topdown_soulslike_pvpve/
-2026-10-18T17:29:12+00:00	Grab Your Deck - Sunday Games - Skateboarding Roguelike Deckbuilder https://www.reddit.com/r/Games/comments/1x98zhc/grab_your_deck_sunday_games_skateboarding/
 2026-10-18T17:30:10+00:00	Mage Blast - Frost Owl - Start weak. End legendary. A fantasy incremental game about a mage’s rise https://www.reddit.com/r/Games/comments/1x990ec/mage_blast_frost_owl_start_weak_end_legendary_a/
-2026-10-18T17:44:56+00:00	Lonely Dung Beetle - Oba Games - A cozy game about the only dung beetle for miles https://www.reddit.com/r/Games/comments/1x99dlj/lonely_dung_beetle_oba_games_a_cozy_game_about/
 2026-10-18T17:53:51+00:00	Second Stone will release a demo on Oct 19th for PC https://www.reddit.com/r/Games/comments/1x99luw/second_stone_will_release_a_demo_on_oct_19th_for/
+2026-10-18T19:01:07+00:00	No Rest for the Wicked's dramatic 1.0 transformation will "likely" lead to overpowered builds, but "who cares?" https://www.reddit.com/r/Games/comments/1x9bb8c/no_rest_for_the_wickeds_dramatic_10/
+2026-10-18T19:56:09+00:00	Everybody's Stranger - Tyrillion - A cozy, story-rich fantasy tavern RPG where you're not the hero. Everyone else is. https://www.reddit.com/r/Games/comments/1x9cot3/everybodys_stranger_tyrillion_a_cozy_storyrich/
+2026-10-18T20:01:21+00:00	Exil Island - Faerydust Games - a top-down survival game where home needs walls https://www.reddit.com/r/Games/comments/1x9ctwa/exil_island_faerydust_games_a_topdown_survival/
+2026-10-18T20:06:10+00:00	Trifolium: The Adventures of Gary Pretzelneck - EmptyMatter - Long neck puzzler https://www.reddit.com/r/Games/comments/1x9cycp/trifolium_the_adventures_of_gary_pretzelneck/
+2026-10-18T20:29:32+00:00	Silent Trench - Drazil - Horror game where the only way to see is a sonar pulse https://www.reddit.com/r/Games/comments/1x9dj3j/silent_trench_drazil_horror_game_where_the_only/
+2026-10-18T20:38:23+00:00	Number Machine - ARIELEK - factory automation with math mechanics https://www.reddit.com/r/Games/comments/1x9dqte/number_machine_arielek_factory_automation_with/
