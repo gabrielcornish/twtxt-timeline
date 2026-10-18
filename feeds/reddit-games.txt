@@ -6,20 +6,16 @@
 2026-10-16T10:00:40+00:00	Daily /r/Games Discussion - Free Talk Friday - October 16, 2026 https://www.reddit.com/r/Games/comments/1x7c5ju/daily_rgames_discussion_free_talk_friday_october/
 2026-10-16T12:35:20+00:00	Marvel's Wolverine star Debra Wilson isn't sure why Insomniac used her likeness for Callisto, "Why make it look like me when there are so many iterations?"; Is tired of studios constantly using her likeness in the roles she plays: "I honestly love games where they don't look like me at all" https://www.reddit.com/r/Games/comments/1x7f1lh/marvels_wolverine_star_debra_wilson_isnt_sure_why/
 2026-10-16T14:10:27+00:00	Blood of Dawnwalker Update 1.1 Details Revealed: Draught of Mind Rebirth, Petting Animals, Update to the Story Mode, Additional subtitle settings, Changes and Improvements https://www.reddit.com/r/Games/comments/1x7h9t3/blood_of_dawnwalker_update_11_details_revealed/
-2026-10-16T14:35:22+00:00	Subnautica 2 | The Voyage to Early Access 2 Begins https://www.reddit.com/r/Games/comments/1x7hwby/subnautica_2_the_voyage_to_early_access_2_begins/
 2026-10-16T15:17:51+00:00	No Rest for the Wicked | Wicked Inside Showcase | Class System | 1.0 Launch Preview https://www.reddit.com/r/Games/comments/1x7izai/no_rest_for_the_wicked_wicked_inside_showcase/
 2026-10-16T16:02:07+00:00	Konami president Hayakawa believes AI “won’t bring a significant change” to the game market. “Humans” and “creators” are crucial for developing innovative games https://www.reddit.com/r/Games/comments/1x7k5bo/konami_president_hayakawa_believes_ai_wont_bring/
 2026-10-16T17:18:34+00:00	Penguin Colony is now available https://www.reddit.com/r/Games/comments/1x7m6dd/penguin_colony_is_now_available/
 2026-10-16T18:13:57+00:00	IGN: Call of Duty: Modern Warfare 4 Review In Progress (8/10) https://www.reddit.com/r/Games/comments/1x7nmv1/ign_call_of_duty_modern_warfare_4_review_in/
 2026-10-16T18:14:37+00:00	Bloomberg: Behind the Scenes of ‘Grand Theft Auto VI’ https://www.reddit.com/r/Games/comments/1x7nnh1/bloomberg_behind_the_scenes_of_grand_theft_auto_vi/
 2026-10-16T18:51:49+00:00	Tenebris Somnia - Launch Trailer https://www.reddit.com/r/Games/comments/1x7omc4/tenebris_somnia_launch_trailer/
-2026-10-16T19:01:06+00:00	March of Giants - Pioneer Playtest Thank You https://www.reddit.com/r/Games/comments/1x7ov2s/march_of_giants_pioneer_playtest_thank_you/
 2026-10-16T20:02:03+00:00	MandaloreGaming - Bioshock 2 Review https://www.reddit.com/r/Games/comments/1x7qffk/mandaloregaming_bioshock_2_review/
-2026-10-16T20:15:52+00:00	AMA- I created Desolus, a first-person puzzle game where you explore a city of Gothic architecture. I worked on it for 13 years, and it just released! I'm here with our development team. https://www.reddit.com/r/Games/comments/1x7qs3y/ama_i_created_desolus_a_firstperson_puzzle_game/
 2026-10-16T20:49:21+00:00	Quatiica Motorsports | Official Cinematic Teaser https://www.reddit.com/r/Games/comments/1x7rlui/quatiica_motorsports_official_cinematic_teaser/
 2026-10-16T21:02:32+00:00	New Deadlock Character - Violet - Paint the Town https://www.reddit.com/r/Games/comments/1x7rxno/new_deadlock_character_violet_paint_the_town/
 2026-10-16T21:04:33+00:00	Iron Bramble - Gameplay Trailer https://www.reddit.com/r/Games/comments/1x7rzj8/iron_bramble_gameplay_trailer/
-2026-10-16T21:16:33+00:00	Beyond These Stars Launch Trailer https://www.reddit.com/r/Games/comments/1x7sa10/beyond_these_stars_launch_trailer/
 2026-10-17T00:42:37+00:00	Rollercoaster Tycoon meets Anti-Pedestrian City Planning in CAR PARK CAPITAL https://www.reddit.com/r/Games/comments/1x7wtoo/rollercoaster_tycoon_meets_antipedestrian_city/
 2026-10-17T04:49:23+00:00	Order of the Sinking Star has sold 45% more units on Steam in its first week than The Witness did https://www.reddit.com/r/Games/comments/1x81dll/order_of_the_sinking_star_has_sold_45_more_units/
 2026-10-17T12:34:41+00:00	Samson Developer Liquid Swords Goes Bankrupt https://www.reddit.com/r/Games/comments/1x895qu/samson_developer_liquid_swords_goes_bankrupt/
@@ -28,3 +24,7 @@
 2026-10-17T15:49:12+00:00	GOG: The Elder Scrolls IV: Oblivion – Game of the Year Edition Deluxe and Ghostwire: Tokyo join the GOG Preservation Program https://www.reddit.com/r/Games/comments/1x8djce/gog_the_elder_scrolls_iv_oblivion_game_of_the/
 2026-10-17T16:08:02+00:00	Newly Translated 1999 Resident Evil Interview with Shinji Mikami https://www.reddit.com/r/Games/comments/1x8e06s/newly_translated_1999_resident_evil_interview/
 2026-10-17T16:36:15+00:00	GitHub user creates open-source Nvidia GeForce Now client alternative — removes tracking, telemetry, and AFK limitations https://www.reddit.com/r/Games/comments/1x8epo3/github_user_creates_opensource_nvidia_geforce_now/
+2026-10-18T04:00:41+00:00	Indie Sunday Hub - October 18, 2026 https://www.reddit.com/r/Games/comments/1x8tjbm/indie_sunday_hub_october_18_2026/
+2026-10-18T04:12:31+00:00	The Pink Robot - A fast-paced 3D action roguelite about a cat exploring distorted memories https://www.reddit.com/r/Games/comments/1x8tr5a/the_pink_robot_a_fastpaced_3d_action_roguelite/
+2026-10-18T04:30:52+00:00	One More Shake - XnaxlZzz_Studios - An incremental idle game about shaking vending machines https://www.reddit.com/r/Games/comments/1x8u2lj/one_more_shake_xnaxlzzz_studios_an_incremental/
+2026-10-18T04:45:25+00:00	Zodiac Legion - Studio Draconis - turn based tactical RPG in which you lead an arcane chivalric order in dungeon raids, through a dynamic campaign https://www.reddit.com/r/Games/comments/1x8ubih/zodiac_legion_studio_draconis_turn_based_tactical/
