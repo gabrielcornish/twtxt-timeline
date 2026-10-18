@@ -3,19 +3,8 @@
 # source = https://www.reddit.com/r/Games.rss
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
-2026-10-16T10:00:40+00:00	Daily /r/Games Discussion - Free Talk Friday - October 16, 2026 https://www.reddit.com/r/Games/comments/1x7c5ju/daily_rgames_discussion_free_talk_friday_october/
 2026-10-16T12:35:20+00:00	Marvel's Wolverine star Debra Wilson isn't sure why Insomniac used her likeness for Callisto, "Why make it look like me when there are so many iterations?"; Is tired of studios constantly using her likeness in the roles she plays: "I honestly love games where they don't look like me at all" https://www.reddit.com/r/Games/comments/1x7f1lh/marvels_wolverine_star_debra_wilson_isnt_sure_why/
-2026-10-16T14:10:27+00:00	Blood of Dawnwalker Update 1.1 Details Revealed: Draught of Mind Rebirth, Petting Animals, Update to the Story Mode, Additional subtitle settings, Changes and Improvements https://www.reddit.com/r/Games/comments/1x7h9t3/blood_of_dawnwalker_update_11_details_revealed/
-2026-10-16T15:17:51+00:00	No Rest for the Wicked | Wicked Inside Showcase | Class System | 1.0 Launch Preview https://www.reddit.com/r/Games/comments/1x7izai/no_rest_for_the_wicked_wicked_inside_showcase/
-2026-10-16T16:02:07+00:00	Konami president Hayakawa believes AI “won’t bring a significant change” to the game market. “Humans” and “creators” are crucial for developing innovative games https://www.reddit.com/r/Games/comments/1x7k5bo/konami_president_hayakawa_believes_ai_wont_bring/
-2026-10-16T17:18:34+00:00	Penguin Colony is now available https://www.reddit.com/r/Games/comments/1x7m6dd/penguin_colony_is_now_available/
-2026-10-16T18:13:57+00:00	IGN: Call of Duty: Modern Warfare 4 Review In Progress (8/10) https://www.reddit.com/r/Games/comments/1x7nmv1/ign_call_of_duty_modern_warfare_4_review_in/
-2026-10-16T18:14:37+00:00	Bloomberg: Behind the Scenes of ‘Grand Theft Auto VI’ https://www.reddit.com/r/Games/comments/1x7nnh1/bloomberg_behind_the_scenes_of_grand_theft_auto_vi/
-2026-10-16T18:51:49+00:00	Tenebris Somnia - Launch Trailer https://www.reddit.com/r/Games/comments/1x7omc4/tenebris_somnia_launch_trailer/
-2026-10-16T20:02:03+00:00	MandaloreGaming - Bioshock 2 Review https://www.reddit.com/r/Games/comments/1x7qffk/mandaloregaming_bioshock_2_review/
-2026-10-16T20:49:21+00:00	Quatiica Motorsports | Official Cinematic Teaser https://www.reddit.com/r/Games/comments/1x7rlui/quatiica_motorsports_official_cinematic_teaser/
 2026-10-16T21:02:32+00:00	New Deadlock Character - Violet - Paint the Town https://www.reddit.com/r/Games/comments/1x7rxno/new_deadlock_character_violet_paint_the_town/
-2026-10-16T21:04:33+00:00	Iron Bramble - Gameplay Trailer https://www.reddit.com/r/Games/comments/1x7rzj8/iron_bramble_gameplay_trailer/
 2026-10-17T00:42:37+00:00	Rollercoaster Tycoon meets Anti-Pedestrian City Planning in CAR PARK CAPITAL https://www.reddit.com/r/Games/comments/1x7wtoo/rollercoaster_tycoon_meets_antipedestrian_city/
 2026-10-17T04:49:23+00:00	Order of the Sinking Star has sold 45% more units on Steam in its first week than The Witness did https://www.reddit.com/r/Games/comments/1x81dll/order_of_the_sinking_star_has_sold_45_more_units/
 2026-10-17T12:34:41+00:00	Samson Developer Liquid Swords Goes Bankrupt https://www.reddit.com/r/Games/comments/1x895qu/samson_developer_liquid_swords_goes_bankrupt/
@@ -25,6 +14,17 @@
 2026-10-17T16:08:02+00:00	Newly Translated 1999 Resident Evil Interview with Shinji Mikami https://www.reddit.com/r/Games/comments/1x8e06s/newly_translated_1999_resident_evil_interview/
 2026-10-17T16:36:15+00:00	GitHub user creates open-source Nvidia GeForce Now client alternative — removes tracking, telemetry, and AFK limitations https://www.reddit.com/r/Games/comments/1x8epo3/github_user_creates_opensource_nvidia_geforce_now/
 2026-10-18T04:00:41+00:00	Indie Sunday Hub - October 18, 2026 https://www.reddit.com/r/Games/comments/1x8tjbm/indie_sunday_hub_october_18_2026/
-2026-10-18T04:12:31+00:00	The Pink Robot - A fast-paced 3D action roguelite about a cat exploring distorted memories https://www.reddit.com/r/Games/comments/1x8tr5a/the_pink_robot_a_fastpaced_3d_action_roguelite/
-2026-10-18T04:30:52+00:00	One More Shake - XnaxlZzz_Studios - An incremental idle game about shaking vending machines https://www.reddit.com/r/Games/comments/1x8u2lj/one_more_shake_xnaxlzzz_studios_an_incremental/
 2026-10-18T04:45:25+00:00	Zodiac Legion - Studio Draconis - turn based tactical RPG in which you lead an arcane chivalric order in dungeon raids, through a dynamic campaign https://www.reddit.com/r/Games/comments/1x8ubih/zodiac_legion_studio_draconis_turn_based_tactical/
+2026-10-18T06:43:02+00:00	Butaro's Overtime Office - BronzeOrange Games - A funny desktop companion idler where you try to escape the corporate 9 to 5. https://www.reddit.com/r/Games/comments/1x8waq1/butaros_overtime_office_bronzeorange_games_a/
+2026-10-18T07:17:49+00:00	No Publisher Wanted Outlast. 60 Million Players Later, The Horror Juggernaut Is Doing Just Fine. https://www.reddit.com/r/Games/comments/1x8wvsu/no_publisher_wanted_outlast_60_million_players/
+2026-10-18T08:27:06+00:00	Umbraelum - Vallarius Forge - I'm making an action roguelite where getting stronger makes the dungeon more dangerous https://www.reddit.com/r/Games/comments/1x8xzx1/umbraelum_vallarius_forge_im_making_an_action/
+2026-10-18T08:32:53+00:00	ArcaneBound - AsardialStudio - A 2D pixel art action RPG with monster card drops inspired by Ragnarok Online https://www.reddit.com/r/Games/comments/1x8y34y/arcanebound_asardialstudio_a_2d_pixel_art_action/
+2026-10-18T09:00:28+00:00	Weekly /r/Games Discussion - What have you been playing, and what are your thoughts? - October 18, 2026 https://www.reddit.com/r/Games/comments/1x8yicr/weekly_rgames_discussion_what_have_you_been/
+2026-10-18T09:02:24+00:00	Worlds Explorers - Pioneers Games - a Sci-Fi Survival management game in a style of a Colony Sim https://www.reddit.com/r/Games/comments/1x8yjkv/worlds_explorers_pioneers_games_a_scifi_survival/
+2026-10-18T09:03:16+00:00	How Star Wars: Galactic Racer Was Made With Fuse Games | BAFTA https://www.reddit.com/r/Games/comments/1x8yk0z/how_star_wars_galactic_racer_was_made_with_fuse/
+2026-10-18T09:43:21+00:00	Buy Happiness - Wayne Made A Game - Playtest signups now open for my big money deckbuilder! https://www.reddit.com/r/Games/comments/1x8z6ef/buy_happiness_wayne_made_a_game_playtest_signups/
+2026-10-18T10:25:05+00:00	Starmax - Tangleroots - a sci-fi roguelike bag-builder where you explore hostile planets and scavenge for resources https://www.reddit.com/r/Games/comments/1x8zue2/starmax_tangleroots_a_scifi_roguelike_bagbuilder/
+2026-10-18T10:49:05+00:00	Against Heroes - Spacewisp Games - A strategy autobattler where the Demon Lord hunts heroes before they grow too powerful https://www.reddit.com/r/Games/comments/1x908g6/against_heroes_spacewisp_games_a_strategy/
+2026-10-18T10:50:44+00:00	Maré - Yuri Farion - Cozy fishing simulator where you ride your boat and explore a relaxing scenery https://www.reddit.com/r/Games/comments/1x909ez/maré_yuri_farion_cozy_fishing_simulator_where_you/
+2026-10-18T11:03:17+00:00	Into the Crypt - Megaglope Studios - A first-person solo and co-op deckbuilder where you play cards on dungeon doors and enemies. https://www.reddit.com/r/Games/comments/1x90h8o/into_the_crypt_megaglope_studios_a_firstperson/
+2026-10-18T11:06:27+00:00	Harmony Strike - Robin The Cat - A survivors-like where you control a whole party https://www.reddit.com/r/Games/comments/1x90j9h/harmony_strike_robin_the_cat_a_survivorslike/
