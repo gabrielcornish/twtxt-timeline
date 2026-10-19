@@ -3,17 +3,11 @@
 # source = https://www.reddit.com/r/Games.rss
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
-2026-10-17T12:34:41+00:00	Samson Developer Liquid Swords Goes Bankrupt https://www.reddit.com/r/Games/comments/1x895qu/samson_developer_liquid_swords_goes_bankrupt/
 2026-10-17T12:55:17+00:00	'We're Pretty Proud of It' — Castlevania: Belmont’s Curse Devs Say They Made the Game's Characters Hot on Purpose, Are Fully Aware and Loving the ‘Horny’ Fanart - IGN https://www.reddit.com/r/Games/comments/1x89kkt/were_pretty_proud_of_it_castlevania_belmonts/
-2026-10-17T15:49:12+00:00	GOG: The Elder Scrolls IV: Oblivion – Game of the Year Edition Deluxe and Ghostwire: Tokyo join the GOG Preservation Program https://www.reddit.com/r/Games/comments/1x8djce/gog_the_elder_scrolls_iv_oblivion_game_of_the/
-2026-10-17T16:08:02+00:00	Newly Translated 1999 Resident Evil Interview with Shinji Mikami https://www.reddit.com/r/Games/comments/1x8e06s/newly_translated_1999_resident_evil_interview/
 2026-10-17T16:36:15+00:00	GitHub user creates open-source Nvidia GeForce Now client alternative — removes tracking, telemetry, and AFK limitations https://www.reddit.com/r/Games/comments/1x8epo3/github_user_creates_opensource_nvidia_geforce_now/
-2026-10-18T04:45:25+00:00	Zodiac Legion - Studio Draconis - turn based tactical RPG in which you lead an arcane chivalric order in dungeon raids, through a dynamic campaign https://www.reddit.com/r/Games/comments/1x8ubih/zodiac_legion_studio_draconis_turn_based_tactical/
 2026-10-18T07:17:49+00:00	No Publisher Wanted Outlast. 60 Million Players Later, The Horror Juggernaut Is Doing Just Fine. https://www.reddit.com/r/Games/comments/1x8wvsu/no_publisher_wanted_outlast_60_million_players/
 2026-10-18T09:00:28+00:00	Weekly /r/Games Discussion - What have you been playing, and what are your thoughts? - October 18, 2026 https://www.reddit.com/r/Games/comments/1x8yicr/weekly_rgames_discussion_what_have_you_been/
 2026-10-18T09:03:16+00:00	How Star Wars: Galactic Racer Was Made With Fuse Games | BAFTA https://www.reddit.com/r/Games/comments/1x8yk0z/how_star_wars_galactic_racer_was_made_with_fuse/
-2026-10-18T12:00:45+00:00	HEXRITE - Phabula - make pacts with gods in a PS2-inspired magical action-adventure! https://www.reddit.com/r/Games/comments/1x91htv/hexrite_phabula_make_pacts_with_gods_in_a/
-2026-10-18T12:11:20+00:00	Seolhwa Dungeon - Sungki Soft - A roguelike RPG built from Korean folktales https://www.reddit.com/r/Games/comments/1x91p41/seolhwa_dungeon_sungki_soft_a_roguelike_rpg_built/
 2026-10-18T13:50:32+00:00	Cyberpunk 2077 CO-OP Mod: the Whole Story Together | NightCoop Gameplay https://www.reddit.com/r/Games/comments/1x93ptw/cyberpunk_2077_coop_mod_the_whole_story_together/
 2026-10-18T15:05:57+00:00	How Star Wars: Galactic Racer kept the core team small and sustainable through "distributed development" https://www.reddit.com/r/Games/comments/1x95ggd/how_star_wars_galactic_racer_kept_the_core_team/
 2026-10-18T15:57:41+00:00	Knuckle Creek - Claymatic Games - A slapstick party brawler for up to 8 players https://www.reddit.com/r/Games/comments/1x96pcp/knuckle_creek_claymatic_games_a_slapstick_party/
@@ -22,9 +16,15 @@
 2026-10-18T17:30:10+00:00	Mage Blast - Frost Owl - Start weak. End legendary. A fantasy incremental game about a mage’s rise https://www.reddit.com/r/Games/comments/1x990ec/mage_blast_frost_owl_start_weak_end_legendary_a/
 2026-10-18T17:53:51+00:00	Second Stone will release a demo on Oct 19th for PC https://www.reddit.com/r/Games/comments/1x99luw/second_stone_will_release_a_demo_on_oct_19th_for/
 2026-10-18T19:01:07+00:00	No Rest for the Wicked's dramatic 1.0 transformation will "likely" lead to overpowered builds, but "who cares?" https://www.reddit.com/r/Games/comments/1x9bb8c/no_rest_for_the_wickeds_dramatic_10/
-2026-10-18T20:29:32+00:00	Silent Trench - Drazil - Horror game where the only way to see is a sonar pulse https://www.reddit.com/r/Games/comments/1x9dj3j/silent_trench_drazil_horror_game_where_the_only/
 2026-10-18T21:13:04+00:00	Clive Barker Was “Astonished” by How Far ‘Hellraiser: Revival’ Goes: “I’m Proud as Fuck” [Exclusive] https://www.reddit.com/r/Games/comments/1x9eknc/clive_barker_was_astonished_by_how_far_hellraiser/
-2026-10-18T23:57:06+00:00	Underground Security Inc - KRNK Studios - Roguelite Dungeon Defender https://www.reddit.com/r/Games/comments/1x9i5dr/underground_security_inc_krnk_studios_roguelite/
 2026-10-19T01:33:33+00:00	Shadows of Christmas Eve - InLoop Studios - A narrative-driven psychological horror game where nightmares invade reality https://www.reddit.com/r/Games/comments/1x9k43y/shadows_of_christmas_eve_inloop_studios_a/
-2026-10-19T06:55:22+00:00	How to Fish - 10 MILLION FISHERMEN WITHIN 2 MONTHS https://www.reddit.com/r/Games/comments/1x9pu5x/how_to_fish_10_million_fishermen_within_2_months/
+2026-10-19T02:43:18+00:00	Nemorsys at Steam Next Fest : A 2D Stealth Action Game Powered by Darkness https://www.reddit.com/r/Games/comments/1x9lgth/nemorsys_at_steam_next_fest_a_2d_stealth_action/
 2026-10-19T08:27:09+00:00	Motorsport Manager 2: First Trailer https://www.reddit.com/r/Games/comments/1x9rakc/motorsport_manager_2_first_trailer/
+2026-10-19T13:17:27+00:00	Clannad and Kanon developer Jun Maeda diagnosed with pharyngeal cancer, chooses to “devote himself to his creative work” https://www.reddit.com/r/Games/comments/1x9wn5u/clannad_and_kanon_developer_jun_maeda_diagnosed/
+2026-10-19T14:00:32+00:00	The Saros: Zenith update out today, brings more ways to play for newcomers and veterans alike https://www.reddit.com/r/Games/comments/1x9xoc3/the_saros_zenith_update_out_today_brings_more/
+2026-10-19T14:42:20+00:00	Cinder City - Official Gameplay and Tactical Systems Overview https://www.reddit.com/r/Games/comments/1x9yr02/cinder_city_official_gameplay_and_tactical/
+2026-10-19T15:07:37+00:00	Faraway Releases Nov 5th on PC, PS5, Xbox Series, Switch 2, Switch https://www.reddit.com/r/Games/comments/1x9zekp/faraway_releases_nov_5th_on_pc_ps5_xbox_series/
+2026-10-19T15:22:49+00:00	Critical Reflex's Buckshot Roulette passes 10.5 million sales on Steam https://www.reddit.com/r/Games/comments/1x9zt3g/critical_reflexs_buckshot_roulette_passes_105/
+2026-10-19T15:47:14+00:00	Reshine Releases Nov 26th on PC, PS5, Xbox Series, Switch https://www.reddit.com/r/Games/comments/1xa0gln/reshine_releases_nov_26th_on_pc_ps5_xbox_series/
+2026-10-19T16:11:23+00:00	DOUBLE TRIGGER | Ace Combat 7 Co-Op Mod Trailer https://www.reddit.com/r/Games/comments/1xa13vs/double_trigger_ace_combat_7_coop_mod_trailer/
+2026-10-19T17:23:45+00:00	Steam Next Fest is back! Join us now for the October 2026 event for free demos on upcoming games of all kinds. https://www.reddit.com/r/Games/comments/1xa325p/steam_next_fest_is_back_join_us_now_for_the/
