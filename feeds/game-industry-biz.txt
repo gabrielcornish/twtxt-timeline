@@ -3,7 +3,6 @@
 # source = https://www.gamesindustry.biz/feed
 # description = twtxt conversion of https://www.gamesindustry.biz/feed
 
-2026-10-09T07:44:35+00:00	Ubisoft announces shutdown of Rainbow Six Mobile seven months after global launch https://www.gamesindustry.biz/ubisoft-announces-shutdown-of-rainbow-six-mobile-seven-months-after-global-launch
 2026-10-09T08:51:01+00:00	Avalanche Studio Group to globally publish, market, and distribute titles from Supermassive Games https://www.gamesindustry.biz/avalanche-studio-group-to-globally-publish-market-and-distribute-titles-from-supermassive-games
 2026-10-09T10:50:02+00:00	Sony agrees to transfer over 400 global VR patents to Meta following December 2025 agreement https://www.gamesindustry.biz/sony-agrees-to-transfer-over-400-global-vr-patents-to-meta-following-december-2025-agreement
 2026-10-09T11:01:00+00:00	Video games aren't the enemy of kids' mental health – ignoring them is | Opinion https://www.gamesindustry.biz/video-games-arent-the-enemy-of-kids-mental-health-ignoring-them-is-opinion
@@ -53,3 +52,4 @@
 2026-10-19T10:13:55+00:00	Activision QA United-CWA union vote to authorise strike, claims publisher has "failed to bargain in good faith over key issues" https://www.gamesindustry.biz/activision-qa-united-cwa-union-vote-to-authorise-strike-claims-publisher-has-failed-to-bargain-in-good-faith-over-key-issues
 2026-10-19T10:57:47+00:00	GDCA 2027 moves away from nominations-based system, publishers and devs can now submit games for consideration https://www.gamesindustry.biz/gdca-2027-moves-away-from-nominations-based-system-publishers-and-devs-can-now-submit-games-for-consideration
 2026-10-19T16:36:11+00:00	Wizards of the Coast declines to voluntarily recognize D&D and Studio X union drive https://www.gamesindustry.biz/wizards-of-the-coast-declines-to-voluntarily-recognize-dd-and-studio-x-union-drive
+2026-10-19T19:12:21+00:00	PEGI begins moving existing digital-only games with loot boxes up to a 16 rating https://www.gamesindustry.biz/pegi-begins-moving-existing-digital-only-games-with-loot-boxes-up-to-a-16-rating

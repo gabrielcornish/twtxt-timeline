@@ -3,22 +3,13 @@
 # source = https://www.reddit.com/r/Games.rss
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
-2026-10-17T12:55:17+00:00	'We're Pretty Proud of It' — Castlevania: Belmont’s Curse Devs Say They Made the Game's Characters Hot on Purpose, Are Fully Aware and Loving the ‘Horny’ Fanart - IGN https://www.reddit.com/r/Games/comments/1x89kkt/were_pretty_proud_of_it_castlevania_belmonts/
-2026-10-17T16:36:15+00:00	GitHub user creates open-source Nvidia GeForce Now client alternative — removes tracking, telemetry, and AFK limitations https://www.reddit.com/r/Games/comments/1x8epo3/github_user_creates_opensource_nvidia_geforce_now/
 2026-10-18T07:17:49+00:00	No Publisher Wanted Outlast. 60 Million Players Later, The Horror Juggernaut Is Doing Just Fine. https://www.reddit.com/r/Games/comments/1x8wvsu/no_publisher_wanted_outlast_60_million_players/
 2026-10-18T09:00:28+00:00	Weekly /r/Games Discussion - What have you been playing, and what are your thoughts? - October 18, 2026 https://www.reddit.com/r/Games/comments/1x8yicr/weekly_rgames_discussion_what_have_you_been/
-2026-10-18T09:03:16+00:00	How Star Wars: Galactic Racer Was Made With Fuse Games | BAFTA https://www.reddit.com/r/Games/comments/1x8yk0z/how_star_wars_galactic_racer_was_made_with_fuse/
 2026-10-18T13:50:32+00:00	Cyberpunk 2077 CO-OP Mod: the Whole Story Together | NightCoop Gameplay https://www.reddit.com/r/Games/comments/1x93ptw/cyberpunk_2077_coop_mod_the_whole_story_together/
 2026-10-18T15:05:57+00:00	How Star Wars: Galactic Racer kept the core team small and sustainable through "distributed development" https://www.reddit.com/r/Games/comments/1x95ggd/how_star_wars_galactic_racer_kept_the_core_team/
-2026-10-18T15:57:41+00:00	Knuckle Creek - Claymatic Games - A slapstick party brawler for up to 8 players https://www.reddit.com/r/Games/comments/1x96pcp/knuckle_creek_claymatic_games_a_slapstick_party/
-2026-10-18T16:44:34+00:00	Devolver Digital opens preorders for the BALL x PIT Deluxe Double Vinyl https://www.reddit.com/r/Games/comments/1x97vj1/devolver_digital_opens_preorders_for_the_ball_x/
-2026-10-18T17:05:40+00:00	Leviathan: Rhino - Amortiz Games - A horror game about loss, death, loneliness, and inevitability. The demo will be available during Steam Next Fest. https://www.reddit.com/r/Games/comments/1x98e3e/leviathan_rhino_amortiz_games_a_horror_game_about/
-2026-10-18T17:30:10+00:00	Mage Blast - Frost Owl - Start weak. End legendary. A fantasy incremental game about a mage’s rise https://www.reddit.com/r/Games/comments/1x990ec/mage_blast_frost_owl_start_weak_end_legendary_a/
 2026-10-18T17:53:51+00:00	Second Stone will release a demo on Oct 19th for PC https://www.reddit.com/r/Games/comments/1x99luw/second_stone_will_release_a_demo_on_oct_19th_for/
 2026-10-18T19:01:07+00:00	No Rest for the Wicked's dramatic 1.0 transformation will "likely" lead to overpowered builds, but "who cares?" https://www.reddit.com/r/Games/comments/1x9bb8c/no_rest_for_the_wickeds_dramatic_10/
 2026-10-18T21:13:04+00:00	Clive Barker Was “Astonished” by How Far ‘Hellraiser: Revival’ Goes: “I’m Proud as Fuck” [Exclusive] https://www.reddit.com/r/Games/comments/1x9eknc/clive_barker_was_astonished_by_how_far_hellraiser/
-2026-10-19T01:33:33+00:00	Shadows of Christmas Eve - InLoop Studios - A narrative-driven psychological horror game where nightmares invade reality https://www.reddit.com/r/Games/comments/1x9k43y/shadows_of_christmas_eve_inloop_studios_a/
-2026-10-19T02:43:18+00:00	Nemorsys at Steam Next Fest : A 2D Stealth Action Game Powered by Darkness https://www.reddit.com/r/Games/comments/1x9lgth/nemorsys_at_steam_next_fest_a_2d_stealth_action/
 2026-10-19T08:27:09+00:00	Motorsport Manager 2: First Trailer https://www.reddit.com/r/Games/comments/1x9rakc/motorsport_manager_2_first_trailer/
 2026-10-19T13:17:27+00:00	Clannad and Kanon developer Jun Maeda diagnosed with pharyngeal cancer, chooses to “devote himself to his creative work” https://www.reddit.com/r/Games/comments/1x9wn5u/clannad_and_kanon_developer_jun_maeda_diagnosed/
 2026-10-19T14:00:32+00:00	The Saros: Zenith update out today, brings more ways to play for newcomers and veterans alike https://www.reddit.com/r/Games/comments/1x9xoc3/the_saros_zenith_update_out_today_brings_more/
@@ -28,3 +19,12 @@
 2026-10-19T15:47:14+00:00	Reshine Releases Nov 26th on PC, PS5, Xbox Series, Switch https://www.reddit.com/r/Games/comments/1xa0gln/reshine_releases_nov_26th_on_pc_ps5_xbox_series/
 2026-10-19T16:11:23+00:00	DOUBLE TRIGGER | Ace Combat 7 Co-Op Mod Trailer https://www.reddit.com/r/Games/comments/1xa13vs/double_trigger_ace_combat_7_coop_mod_trailer/
 2026-10-19T17:23:45+00:00	Steam Next Fest is back! Join us now for the October 2026 event for free demos on upcoming games of all kinds. https://www.reddit.com/r/Games/comments/1xa325p/steam_next_fest_is_back_join_us_now_for_the/
+2026-10-19T17:40:24+00:00	ReBlade: The Death Spiral – Official Steam Next Fest Demo Trailer https://www.reddit.com/r/Games/comments/1xa3ikd/reblade_the_death_spiral_official_steam_next_fest/
+2026-10-19T18:06:00+00:00	Brian Altano: We Got Laid Off But Here's What's Next! https://www.reddit.com/r/Games/comments/1xa47sw/brian_altano_we_got_laid_off_but_heres_whats_next/
+2026-10-19T18:41:45+00:00	Star Wars Battlefront 3 Could Be Developed by Destiny 2 Maker Bungie https://www.reddit.com/r/Games/comments/1xa579f/star_wars_battlefront_3_could_be_developed_by/
+2026-10-19T18:46:50+00:00	The Steam Next Fest October 2026 Edition is live! What's gone on your wishlist? https://www.reddit.com/r/Games/comments/1xa5c9v/the_steam_next_fest_october_2026_edition_is_live/
+2026-10-19T18:49:00+00:00	BeamNG.drive - Release Trailer | PS5 Games https://www.reddit.com/r/Games/comments/1xa5eca/beamngdrive_release_trailer_ps5_games/
+2026-10-19T19:36:54+00:00	Former Capcom Staffer recounts Resident Evil 7's development (origin, influence, Mia vs Zoe, AAA trends, sales) https://www.reddit.com/r/Games/comments/1xa6pi7/former_capcom_staffer_recounts_resident_evil_7s/
+2026-10-19T19:49:44+00:00	25 Games From The October 2026 Steam Next Fest That You Should Check Out https://www.reddit.com/r/Games/comments/1xa71xf/25_games_from_the_october_2026_steam_next_fest/
+2026-10-19T20:41:33+00:00	Penguin Colony Developers Talk The BDS Talk And Walk The Walk By Banning The Game For Sale In Israel https://www.reddit.com/r/Games/comments/1xa8fy3/penguin_colony_developers_talk_the_bds_talk_and/
+2026-10-19T22:01:51+00:00	Stupid Never Dies Review Thread https://www.reddit.com/r/Games/comments/1xaaih3/stupid_never_dies_review_thread/
