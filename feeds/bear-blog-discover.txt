@@ -3,12 +3,10 @@
 # source = https://bearblog.dev/discover/feed/
 # description = twtxt conversion of https://bearblog.dev/discover/feed/
 
-2026-10-16T16:51:00+00:00	The Bear Site: Still A Learning Curve https://mamasporch.bearblog.dev/the-bear-site-still-a-learning-curve/
 2026-10-16T17:31:53.511534+00:00	An oddly sophisticated phishing attack https://blog.damonreece.com/an-oddly-sophisticated-phishing-attack/
 2026-10-16T21:24:00+00:00	RE: i am so afraid of starting small https://rnotte.art/re-i-am-so-afraid-of-starting-small/
 2026-10-17T15:49:00+00:00	inbox zero and being an adult https://jottednotes.bearblog.dev/inbox-zero-and-being-an-adult/
 2026-10-17T19:32:00+00:00	The Customer Doesn't Exist https://jetgirl.art/the-customer-doesnt-exist/
-2026-10-17T20:02:03.191976+00:00	Getting suffocated by books https://coppershaman.com/getting-suffocated-by-books/
 2026-10-17T22:28:00+00:00	Why I love Being a Librarian https://www.justinthestacks.com/why-i-love-being-a-librarian/
 2026-10-18T02:14:00+00:00	some photos i took today https://icyti.me/some-photos-i-took-today/
 2026-10-18T04:58:35.262861+00:00	Being a better writer https://doodhpeda.bearblog.dev/blog/being-a-better-writer/
@@ -20,6 +18,8 @@
 2026-10-18T17:41:00+00:00	i miss talking about death. https://etiamastra.com/i-miss-talking-about-death/
 2026-10-18T17:43:13.601949+00:00	You Don't Have to Publish That Thing https://crescendo.bearblog.dev/you-dont-have-to-publish-that-thing/
 2026-10-18T18:10:46.612748+00:00	There go 200 of my closest friends https://bungleinthejungle.bearblog.dev/there-go-200-of-my-closest-friends/
-2026-10-18T18:22:28.913562+00:00	Ladies and Gentlemen We Are Floating in Slop https://leavethefeed.org/ladies-and-gentlemen-we-are-floating-in-slop/
+2026-10-18T18:22:00+00:00	Ladies and Gentlemen We Are Floating in Slop https://leavethefeed.org/ladies-and-gentlemen-we-are-floating-in-slop/
 2026-10-18T19:49:00+00:00	Just showing up to No Kings https://bungleinthejungle.bearblog.dev/some-time-sensitive-thoughts/
 2026-10-19T00:33:30.943078+00:00	The next chapter begins--MAINE! https://nextchapter.bearblog.dev/the-next-chapter-begins-maine/
+2026-10-19T03:11:00+00:00	this is the process of it all https://zoeloukia.bearblog.dev/this-is-the-process-of-it-all/
+2026-10-19T07:04:00+00:00	Burn all my journals if I die https://sufyazi.bearblog.dev/burn-all-my-journals-if-i-die/
