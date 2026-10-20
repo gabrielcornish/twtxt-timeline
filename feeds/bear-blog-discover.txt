@@ -5,7 +5,6 @@
 
 2026-10-18T07:24:00+00:00	leafy https://ly.bearblog.dev/leafy/
 2026-10-18T13:45:53.409709+00:00	Hirelings and You https://elmc.at/hirelings-and-you/
-2026-10-18T14:30:00+00:00	Re: Being A Better Writer https://carlosacollazo.com/re-being-a-better-writer/
 2026-10-18T17:41:00+00:00	i miss talking about death. https://etiamastra.com/i-miss-talking-about-death/
 2026-10-18T18:10:46.612748+00:00	There go 200 of my closest friends https://bungleinthejungle.bearblog.dev/there-go-200-of-my-closest-friends/
 2026-10-18T18:22:00+00:00	Ladies and Gentlemen We Are Floating in Slop https://leavethefeed.org/ladies-and-gentlemen-we-are-floating-in-slop/
@@ -17,9 +16,10 @@
 2026-10-19T18:50:30.902342+00:00	on hurting others https://reedybear.bearblog.dev/on-hurting-others/
 2026-10-19T21:00:00+00:00	The appeal of never being rejected https://norulesjustme.bearblog.dev/the-appeal-of-never-being-rejected/
 2026-10-20T00:02:40.490977+00:00	I was Wrong about Hirelings https://valerialoves.com/i-was-wrong-about-hirelings/
-2026-10-20T03:01:00+00:00	hmmm https://ly.bearblog.dev/hmmm/
 2026-10-20T03:50:05.182814+00:00	A spontaneous trip https://toska.bearblog.dev/a-spontaneous-trip/
-2026-10-20T05:10:00+00:00	On Material Wealth, the Restless Heart, and the Freedom to See the World https://dreamchaser.bearblog.dev/onmaterialwealththerestlessheartandthefreedomtoseetheworld/
 2026-10-20T05:33:33.985796+00:00	Walkable Cities Are Actually Swag... https://boogerdiary.bearblog.dev/walkable-cities-are-actually-swag/
-2026-10-20T07:11:00+00:00	beauty and the beast (cherry's version) https://cherrysroom.bearblog.dev/beauty-and-the-beast-cherrys-version/
 2026-10-20T07:44:00+00:00	the al gore rhythm https://bez-lightyear.bearblog.dev/the-al-gore-rhythm/
+2026-10-20T13:32:43.681395+00:00	Unlock Your Infinite Potential (And Other Doors Better Left Shut) https://angrybunnyman.com/unlock-your-infinite-potential-and-other-doors-better-left-shut/
+2026-10-20T14:42:31.572960+00:00	Precious pauses https://robertbirming.com/precious-pauses/
+2026-10-20T15:51:00+00:00	CerebralTransmission.c https://bluemountain.bearblog.dev/cerebraltransmission/
+2026-10-20T17:02:00+00:00	Chaos im Kopf - mehr nicht https://www.zweisechsneun.de/chaos-im-kopf/

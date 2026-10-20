@@ -4,27 +4,27 @@
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
 2026-10-18T09:00:28+00:00	Weekly /r/Games Discussion - What have you been playing, and what are your thoughts? - October 18, 2026 https://www.reddit.com/r/Games/comments/1x8yicr/weekly_rgames_discussion_what_have_you_been/
-2026-10-19T08:27:09+00:00	Motorsport Manager 2: First Trailer https://www.reddit.com/r/Games/comments/1x9rakc/motorsport_manager_2_first_trailer/
 2026-10-19T13:17:27+00:00	Clannad and Kanon developer Jun Maeda diagnosed with pharyngeal cancer, chooses to “devote himself to his creative work” https://www.reddit.com/r/Games/comments/1x9wn5u/clannad_and_kanon_developer_jun_maeda_diagnosed/
-2026-10-19T14:00:32+00:00	The Saros: Zenith update out today, brings more ways to play for newcomers and veterans alike https://www.reddit.com/r/Games/comments/1x9xoc3/the_saros_zenith_update_out_today_brings_more/
-2026-10-19T14:42:20+00:00	Cinder City - Official Gameplay and Tactical Systems Overview https://www.reddit.com/r/Games/comments/1x9yr02/cinder_city_official_gameplay_and_tactical/
-2026-10-19T15:22:49+00:00	Critical Reflex's Buckshot Roulette passes 10.5 million sales on Steam https://www.reddit.com/r/Games/comments/1x9zt3g/critical_reflexs_buckshot_roulette_passes_105/
-2026-10-19T17:23:45+00:00	Steam Next Fest is back! Join us now for the October 2026 event for free demos on upcoming games of all kinds. https://www.reddit.com/r/Games/comments/1xa325p/steam_next_fest_is_back_join_us_now_for_the/
-2026-10-19T17:40:24+00:00	ReBlade: The Death Spiral – Official Steam Next Fest Demo Trailer https://www.reddit.com/r/Games/comments/1xa3ikd/reblade_the_death_spiral_official_steam_next_fest/
 2026-10-19T18:06:00+00:00	Brian Altano: We Got Laid Off But Here's What's Next! https://www.reddit.com/r/Games/comments/1xa47sw/brian_altano_we_got_laid_off_but_heres_whats_next/
 2026-10-19T18:41:45+00:00	Star Wars Battlefront 3 Could Be Developed by Destiny 2 Maker Bungie https://www.reddit.com/r/Games/comments/1xa579f/star_wars_battlefront_3_could_be_developed_by/
-2026-10-19T18:46:50+00:00	The Steam Next Fest October 2026 Edition is live! What's gone on your wishlist? https://www.reddit.com/r/Games/comments/1xa5c9v/the_steam_next_fest_october_2026_edition_is_live/
-2026-10-19T18:49:00+00:00	BeamNG.drive - Release Trailer | PS5 Games https://www.reddit.com/r/Games/comments/1xa5eca/beamngdrive_release_trailer_ps5_games/
-2026-10-19T19:36:54+00:00	Former Capcom Staffer recounts Resident Evil 7's development (origin, influence, Mia vs Zoe, AAA trends, sales) https://www.reddit.com/r/Games/comments/1xa6pi7/former_capcom_staffer_recounts_resident_evil_7s/
-2026-10-19T19:49:44+00:00	25 Games From The October 2026 Steam Next Fest That You Should Check Out https://www.reddit.com/r/Games/comments/1xa71xf/25_games_from_the_october_2026_steam_next_fest/
 2026-10-19T20:41:33+00:00	Penguin Colony Developers Talk The BDS Talk And Walk The Walk By Banning The Game For Sale In Israel https://www.reddit.com/r/Games/comments/1xa8fy3/penguin_colony_developers_talk_the_bds_talk_and/
-2026-10-19T22:01:51+00:00	Stupid Never Dies Review Thread https://www.reddit.com/r/Games/comments/1xaaih3/stupid_never_dies_review_thread/
 2026-10-20T02:43:03+00:00	Giant Bomb has released their own Video Game Tracker! https://www.reddit.com/r/Games/comments/1xagmys/giant_bomb_has_released_their_own_video_game/
 2026-10-20T05:50:34+00:00	ReVamp's previously-announced public Steam playtest is moving to a private Discord playtest due to concerns over the game being reverse-engineered and copied https://www.reddit.com/r/Games/comments/1xak2tc/revamps_previouslyannounced_public_steam_playtest/
 2026-10-20T06:15:06+00:00	Leaker Claims PS6 Storage and RAM Will Cost $680, Suggesting a $1,000+ Price Point https://www.reddit.com/r/Games/comments/1xakhnf/leaker_claims_ps6_storage_and_ram_will_cost_680/
-2026-10-20T07:49:12+00:00	Nonolith - Official Gameplay Trailer https://www.reddit.com/r/Games/comments/1xalzrz/nonolith_official_gameplay_trailer/
 2026-10-20T08:39:07+00:00	PEGI Raises Ratings for Digital Games With Loot Boxes https://www.reddit.com/r/Games/comments/1xamr1b/pegi_raises_ratings_for_digital_games_with_loot/
-2026-10-20T11:43:59+00:00	REDstreams — Cyberpunk 2077: Edgerunners 2 Update (2.5) is coming! https://www.reddit.com/r/Games/comments/1xapwl1/redstreams_cyberpunk_2077_edgerunners_2_update_25/
+2026-10-20T11:21:13+00:00	REDstreams — Cyberpunk 2077: Edgerunners 2 Update (2.5) is coming! https://www.reddit.com/r/Games/comments/1xaphb6/redstreams_cyberpunk_2077_edgerunners_2_update_25/
 2026-10-20T11:52:02+00:00	Demands for AI Filter on Steam Grow as Next Fest Is Flooded with AI Slop https://www.reddit.com/r/Games/comments/1xaq26q/demands_for_ai_filter_on_steam_grow_as_next_fest/
 2026-10-20T13:00:32+00:00	Final Fantasy Resonance Review Thread https://www.reddit.com/r/Games/comments/1xari7q/final_fantasy_resonance_review_thread/
 2026-10-20T13:21:15+00:00	I Am Your Beast: “Quitting Time” DLC Release Trailer https://www.reddit.com/r/Games/comments/1xarzpc/i_am_your_beast_quitting_time_dlc_release_trailer/
+2026-10-20T13:46:42+00:00	WELCOME TO PRIME TIME | THE FINALS https://www.reddit.com/r/Games/comments/1xaslna/welcome_to_prime_time_the_finals/
+2026-10-20T14:20:35+00:00	The Finals Season 12 Preview: A Solo Mode, QoL Changes, and Better Destruction https://www.reddit.com/r/Games/comments/1xatfkj/the_finals_season_12_preview_a_solo_mode_qol/
+2026-10-20T14:53:23+00:00	Nintendo Switch Sports Resort Review Thread https://www.reddit.com/r/Games/comments/1xau96v/nintendo_switch_sports_resort_review_thread/
+2026-10-20T14:53:47+00:00	Hideo Kojima points to Death Stranding’s “just a walking simulator” reputation as an example of how social media echo chambers distort reality - AUTOMATON WEST https://www.reddit.com/r/Games/comments/1xau9l1/hideo_kojima_points_to_death_strandings_just_a/
+2026-10-20T15:28:09+00:00	AMD FSR™ Upscaling 4.1 for Desktop, Laptop, Handheld and Console https://www.reddit.com/r/Games/comments/1xav64s/amd_fsr_upscaling_41_for_desktop_laptop_handheld/
+2026-10-20T17:01:26+00:00	Cabernet (PC) Review - "This is One of The Best Vampire Games I've Played" https://www.reddit.com/r/Games/comments/1xaxow0/cabernet_pc_review_this_is_one_of_the_best/
+2026-10-20T17:08:24+00:00	Mycopunk - 1.0 IS HERE!!! https://www.reddit.com/r/Games/comments/1xaxvxm/mycopunk_10_is_here/
+2026-10-20T17:34:19+00:00	Shrek 2 Remastered - Official Gameplay Trailer | ID@Xbox Fall 2026 https://www.reddit.com/r/Games/comments/1xaykrw/shrek_2_remastered_official_gameplay_trailer/
+2026-10-20T17:39:43+00:00	Cyberpunk 2077 Gets Surprise Official New Update Announcement From CD Projekt https://www.reddit.com/r/Games/comments/1xaypxq/cyberpunk_2077_gets_surprise_official_new_update/
+2026-10-20T18:00:34+00:00	Mouthwashing | Console Release Date Reveal https://www.reddit.com/r/Games/comments/1xazaxv/mouthwashing_console_release_date_reveal/
+2026-10-20T18:02:00+00:00	I'm a french comic artist and solodev, AMA about my detective game Legion Was Here https://www.reddit.com/r/Games/comments/1xazcgc/im_a_french_comic_artist_and_solodev_ama_about_my/
+2026-10-20T18:06:40+00:00	Star Trek: Outposts Unknown - Out Now! Crate Shanty https://www.reddit.com/r/Games/comments/1xazh2z/star_trek_outposts_unknown_out_now_crate_shanty/
