@@ -3,11 +3,8 @@
 # source = https://www.reddit.com/r/Games.rss
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
-2026-10-18T07:17:49+00:00	No Publisher Wanted Outlast. 60 Million Players Later, The Horror Juggernaut Is Doing Just Fine. https://www.reddit.com/r/Games/comments/1x8wvsu/no_publisher_wanted_outlast_60_million_players/
 2026-10-18T09:00:28+00:00	Weekly /r/Games Discussion - What have you been playing, and what are your thoughts? - October 18, 2026 https://www.reddit.com/r/Games/comments/1x8yicr/weekly_rgames_discussion_what_have_you_been/
 2026-10-18T13:50:32+00:00	Cyberpunk 2077 CO-OP Mod: the Whole Story Together | NightCoop Gameplay https://www.reddit.com/r/Games/comments/1x93ptw/cyberpunk_2077_coop_mod_the_whole_story_together/
-2026-10-18T15:05:57+00:00	How Star Wars: Galactic Racer kept the core team small and sustainable through "distributed development" https://www.reddit.com/r/Games/comments/1x95ggd/how_star_wars_galactic_racer_kept_the_core_team/
-2026-10-18T17:53:51+00:00	Second Stone will release a demo on Oct 19th for PC https://www.reddit.com/r/Games/comments/1x99luw/second_stone_will_release_a_demo_on_oct_19th_for/
 2026-10-18T19:01:07+00:00	No Rest for the Wicked's dramatic 1.0 transformation will "likely" lead to overpowered builds, but "who cares?" https://www.reddit.com/r/Games/comments/1x9bb8c/no_rest_for_the_wickeds_dramatic_10/
 2026-10-18T21:13:04+00:00	Clive Barker Was “Astonished” by How Far ‘Hellraiser: Revival’ Goes: “I’m Proud as Fuck” [Exclusive] https://www.reddit.com/r/Games/comments/1x9eknc/clive_barker_was_astonished_by_how_far_hellraiser/
 2026-10-19T08:27:09+00:00	Motorsport Manager 2: First Trailer https://www.reddit.com/r/Games/comments/1x9rakc/motorsport_manager_2_first_trailer/
@@ -28,3 +25,6 @@
 2026-10-19T19:49:44+00:00	25 Games From The October 2026 Steam Next Fest That You Should Check Out https://www.reddit.com/r/Games/comments/1xa71xf/25_games_from_the_october_2026_steam_next_fest/
 2026-10-19T20:41:33+00:00	Penguin Colony Developers Talk The BDS Talk And Walk The Walk By Banning The Game For Sale In Israel https://www.reddit.com/r/Games/comments/1xa8fy3/penguin_colony_developers_talk_the_bds_talk_and/
 2026-10-19T22:01:51+00:00	Stupid Never Dies Review Thread https://www.reddit.com/r/Games/comments/1xaaih3/stupid_never_dies_review_thread/
+2026-10-20T02:43:03+00:00	Giant Bomb has released their own Video Game Tracker! https://www.reddit.com/r/Games/comments/1xagmys/giant_bomb_has_released_their_own_video_game/
+2026-10-20T05:50:34+00:00	ReVamp's previously-announced public Steam playtest is moving to a private Discord playtest due to concerns over the game being reverse-engineered and copied https://www.reddit.com/r/Games/comments/1xak2tc/revamps_previouslyannounced_public_steam_playtest/
+2026-10-20T06:15:06+00:00	Leaker Claims PS6 Storage and RAM Will Cost $680, Suggesting a $1,000+ Price Point https://www.reddit.com/r/Games/comments/1xakhnf/leaker_claims_ps6_storage_and_ram_will_cost_680/
