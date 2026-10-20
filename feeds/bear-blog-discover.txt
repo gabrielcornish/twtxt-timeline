@@ -3,8 +3,6 @@
 # source = https://bearblog.dev/discover/feed/
 # description = twtxt conversion of https://bearblog.dev/discover/feed/
 
-2026-10-17T22:28:00+00:00	Why I love Being a Librarian https://www.justinthestacks.com/why-i-love-being-a-librarian/
-2026-10-18T04:58:35.262861+00:00	Being a better writer https://doodhpeda.bearblog.dev/blog/being-a-better-writer/
 2026-10-18T07:24:00+00:00	leafy https://ly.bearblog.dev/leafy/
 2026-10-18T13:45:53.409709+00:00	Hirelings and You https://elmc.at/hirelings-and-you/
 2026-10-18T14:30:00+00:00	Re: Being A Better Writer https://carlosacollazo.com/re-being-a-better-writer/
@@ -12,14 +10,16 @@
 2026-10-18T18:10:46.612748+00:00	There go 200 of my closest friends https://bungleinthejungle.bearblog.dev/there-go-200-of-my-closest-friends/
 2026-10-18T18:22:00+00:00	Ladies and Gentlemen We Are Floating in Slop https://leavethefeed.org/ladies-and-gentlemen-we-are-floating-in-slop/
 2026-10-19T07:04:00+00:00	Burn all my journals if I die https://sufyazi.bearblog.dev/burn-all-my-journals-if-i-die/
-2026-10-19T10:30:00+00:00	A Crossword in Pen, or Doing Things Scared https://ludd.life/do-things-when-scared/
 2026-10-19T12:56:00+00:00	Bad News Monday: We Are Losing Linux https://drglowcatsdebuglog.bearblog.dev/bad-news-monday-we-are-losing-linux/
-2026-10-19T15:26:00.111907+00:00	"Thy Will be Done" https://fatherlasher.bearblog.dev/thy-will-be-done/
 2026-10-19T17:35:00+00:00	Two Types of Cities https://dungeonmecha.bearblog.dev/two-types-of-cities/
 2026-10-19T17:51:00+00:00	There is no witness to my suffering https://ginoz.bearblog.dev/there-is-no-witness-to-my-suffering/
 2026-10-19T18:20:00+00:00	Are you a NIMBY? https://forkingmad.blog/are-you-a-nimby/
 2026-10-19T18:50:30.902342+00:00	on hurting others https://reedybear.bearblog.dev/on-hurting-others/
 2026-10-19T21:00:00+00:00	The appeal of never being rejected https://norulesjustme.bearblog.dev/the-appeal-of-never-being-rejected/
 2026-10-20T00:02:40.490977+00:00	I was Wrong about Hirelings https://valerialoves.com/i-was-wrong-about-hirelings/
+2026-10-20T03:01:00+00:00	hmmm https://ly.bearblog.dev/hmmm/
 2026-10-20T03:50:05.182814+00:00	A spontaneous trip https://toska.bearblog.dev/a-spontaneous-trip/
+2026-10-20T05:10:00+00:00	On Material Wealth, the Restless Heart, and the Freedom to See the World https://dreamchaser.bearblog.dev/onmaterialwealththerestlessheartandthefreedomtoseetheworld/
 2026-10-20T05:33:33.985796+00:00	Walkable Cities Are Actually Swag... https://boogerdiary.bearblog.dev/walkable-cities-are-actually-swag/
+2026-10-20T07:11:00+00:00	beauty and the beast (cherry's version) https://cherrysroom.bearblog.dev/beauty-and-the-beast-cherrys-version/
+2026-10-20T07:44:00+00:00	the al gore rhythm https://bez-lightyear.bearblog.dev/the-al-gore-rhythm/

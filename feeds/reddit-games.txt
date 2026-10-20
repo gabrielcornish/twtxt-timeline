@@ -4,17 +4,11 @@
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
 2026-10-18T09:00:28+00:00	Weekly /r/Games Discussion - What have you been playing, and what are your thoughts? - October 18, 2026 https://www.reddit.com/r/Games/comments/1x8yicr/weekly_rgames_discussion_what_have_you_been/
-2026-10-18T13:50:32+00:00	Cyberpunk 2077 CO-OP Mod: the Whole Story Together | NightCoop Gameplay https://www.reddit.com/r/Games/comments/1x93ptw/cyberpunk_2077_coop_mod_the_whole_story_together/
-2026-10-18T19:01:07+00:00	No Rest for the Wicked's dramatic 1.0 transformation will "likely" lead to overpowered builds, but "who cares?" https://www.reddit.com/r/Games/comments/1x9bb8c/no_rest_for_the_wickeds_dramatic_10/
-2026-10-18T21:13:04+00:00	Clive Barker Was “Astonished” by How Far ‘Hellraiser: Revival’ Goes: “I’m Proud as Fuck” [Exclusive] https://www.reddit.com/r/Games/comments/1x9eknc/clive_barker_was_astonished_by_how_far_hellraiser/
 2026-10-19T08:27:09+00:00	Motorsport Manager 2: First Trailer https://www.reddit.com/r/Games/comments/1x9rakc/motorsport_manager_2_first_trailer/
 2026-10-19T13:17:27+00:00	Clannad and Kanon developer Jun Maeda diagnosed with pharyngeal cancer, chooses to “devote himself to his creative work” https://www.reddit.com/r/Games/comments/1x9wn5u/clannad_and_kanon_developer_jun_maeda_diagnosed/
 2026-10-19T14:00:32+00:00	The Saros: Zenith update out today, brings more ways to play for newcomers and veterans alike https://www.reddit.com/r/Games/comments/1x9xoc3/the_saros_zenith_update_out_today_brings_more/
 2026-10-19T14:42:20+00:00	Cinder City - Official Gameplay and Tactical Systems Overview https://www.reddit.com/r/Games/comments/1x9yr02/cinder_city_official_gameplay_and_tactical/
-2026-10-19T15:07:37+00:00	Faraway Releases Nov 5th on PC, PS5, Xbox Series, Switch 2, Switch https://www.reddit.com/r/Games/comments/1x9zekp/faraway_releases_nov_5th_on_pc_ps5_xbox_series/
 2026-10-19T15:22:49+00:00	Critical Reflex's Buckshot Roulette passes 10.5 million sales on Steam https://www.reddit.com/r/Games/comments/1x9zt3g/critical_reflexs_buckshot_roulette_passes_105/
-2026-10-19T15:47:14+00:00	Reshine Releases Nov 26th on PC, PS5, Xbox Series, Switch https://www.reddit.com/r/Games/comments/1xa0gln/reshine_releases_nov_26th_on_pc_ps5_xbox_series/
-2026-10-19T16:11:23+00:00	DOUBLE TRIGGER | Ace Combat 7 Co-Op Mod Trailer https://www.reddit.com/r/Games/comments/1xa13vs/double_trigger_ace_combat_7_coop_mod_trailer/
 2026-10-19T17:23:45+00:00	Steam Next Fest is back! Join us now for the October 2026 event for free demos on upcoming games of all kinds. https://www.reddit.com/r/Games/comments/1xa325p/steam_next_fest_is_back_join_us_now_for_the/
 2026-10-19T17:40:24+00:00	ReBlade: The Death Spiral – Official Steam Next Fest Demo Trailer https://www.reddit.com/r/Games/comments/1xa3ikd/reblade_the_death_spiral_official_steam_next_fest/
 2026-10-19T18:06:00+00:00	Brian Altano: We Got Laid Off But Here's What's Next! https://www.reddit.com/r/Games/comments/1xa47sw/brian_altano_we_got_laid_off_but_heres_whats_next/
@@ -28,3 +22,9 @@
 2026-10-20T02:43:03+00:00	Giant Bomb has released their own Video Game Tracker! https://www.reddit.com/r/Games/comments/1xagmys/giant_bomb_has_released_their_own_video_game/
 2026-10-20T05:50:34+00:00	ReVamp's previously-announced public Steam playtest is moving to a private Discord playtest due to concerns over the game being reverse-engineered and copied https://www.reddit.com/r/Games/comments/1xak2tc/revamps_previouslyannounced_public_steam_playtest/
 2026-10-20T06:15:06+00:00	Leaker Claims PS6 Storage and RAM Will Cost $680, Suggesting a $1,000+ Price Point https://www.reddit.com/r/Games/comments/1xakhnf/leaker_claims_ps6_storage_and_ram_will_cost_680/
+2026-10-20T07:49:12+00:00	Nonolith - Official Gameplay Trailer https://www.reddit.com/r/Games/comments/1xalzrz/nonolith_official_gameplay_trailer/
+2026-10-20T08:39:07+00:00	PEGI Raises Ratings for Digital Games With Loot Boxes https://www.reddit.com/r/Games/comments/1xamr1b/pegi_raises_ratings_for_digital_games_with_loot/
+2026-10-20T11:43:59+00:00	REDstreams — Cyberpunk 2077: Edgerunners 2 Update (2.5) is coming! https://www.reddit.com/r/Games/comments/1xapwl1/redstreams_cyberpunk_2077_edgerunners_2_update_25/
+2026-10-20T11:52:02+00:00	Demands for AI Filter on Steam Grow as Next Fest Is Flooded with AI Slop https://www.reddit.com/r/Games/comments/1xaq26q/demands_for_ai_filter_on_steam_grow_as_next_fest/
+2026-10-20T13:00:32+00:00	Final Fantasy Resonance Review Thread https://www.reddit.com/r/Games/comments/1xari7q/final_fantasy_resonance_review_thread/
+2026-10-20T13:21:15+00:00	I Am Your Beast: “Quitting Time” DLC Release Trailer https://www.reddit.com/r/Games/comments/1xarzpc/i_am_your_beast_quitting_time_dlc_release_trailer/
