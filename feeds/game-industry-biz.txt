@@ -3,9 +3,6 @@
 # source = https://www.gamesindustry.biz/feed
 # description = twtxt conversion of https://www.gamesindustry.biz/feed
 
-2026-10-12T16:00:00+00:00	Aream & Co: Games industry M&A generates $57.8 bn in Q3, including EA's $55bn leveraged buyout https://www.gamesindustry.biz/aream-co-games-industry-ma-generates-578-bn-in-q3-including-eas-55bn-leveraged-buyout
-2026-10-12T16:17:15+00:00	Nvidia reportedly ends GeForce RTX 5090 graphics card production https://www.gamesindustry.biz/nvidia-reportedly-ends-geforce-rtx-5090-graphics-card-production
-2026-10-12T17:58:32+00:00	Nintendo's Latin America VP says there are no plans to ditch physical games https://www.gamesindustry.biz/nintendos-latin-america-vp-says-there-are-no-plans-to-ditch-physical-games
 2026-10-12T18:49:25+00:00	Dragon Quest creator Yuji Horii releases game he says he made with AI in about 30 minutes https://www.gamesindustry.biz/dragon-quest-creator-yuji-horii-releases-game-he-says-he-made-with-ai-in-about-30-minutes
 2026-10-12T19:54:58+00:00	Epic Games delays Disney game and tells developers to go "AI first" https://www.gamesindustry.biz/epic-games-delays-disney-game-and-tells-developers-to-go-ai-first
 2026-10-13T11:25:38+00:00	A guide to six regulatory risks shaping games in 2026 https://www.gamesindustry.biz/a-guide-to-six-regulatory-risks-shaping-games-in-2026
@@ -53,3 +50,6 @@
 2026-10-21T10:53:35+00:00	Games like Call of Duty and EA Sports FC most at risk of losing players during GTA 6 launch, according to new data https://www.gamesindustry.biz/games-like-call-of-duty-and-ea-sports-fc-most-at-risk-of-losing-players-during-gta-6-launch-according-to-new-data
 2026-10-21T11:39:48+00:00	Indies and original IP blew up in 2026 https://www.gamesindustry.biz/indies-and-original-ip-blew-up-in-2026
 2026-10-21T13:38:47+00:00	Project Helix reportedly launching in late 2028, projected to cost between $1,200 and $1,800 https://www.gamesindustry.biz/project-helix-reportedly-launching-in-late-2028-projected-to-cost-between-1200-and-1800
+2026-10-21T14:00:00+00:00	How to run an indie game studio: Part 4, Setting (and hitting) quarterly rocks https://www.gamesindustry.biz/how-to-run-an-indie-game-studio-part-4-setting-and-hitting-quarterly-rocks
+2026-10-21T17:39:13+00:00	AMD's FSR 4.1 upscaling is coming to Xbox Series X|S https://www.gamesindustry.biz/amds-fsr-41-upscaling-is-coming-to-xbox-series-xs
+2026-10-21T17:55:20+00:00	BioWare is closing after 30 years https://www.gamesindustry.biz/bioware-is-closing-after-30-years

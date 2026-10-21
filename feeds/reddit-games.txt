@@ -3,28 +3,28 @@
 # source = https://www.reddit.com/r/Games.rss
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
-2026-10-20T06:15:06+00:00	Leaker Claims PS6 Storage and RAM Will Cost $680, Suggesting a $1,000+ Price Point https://www.reddit.com/r/Games/comments/1xakhnf/leaker_claims_ps6_storage_and_ram_will_cost_680/
-2026-10-20T08:39:07+00:00	PEGI Raises Ratings for Digital Games With Loot Boxes https://www.reddit.com/r/Games/comments/1xamr1b/pegi_raises_ratings_for_digital_games_with_loot/
 2026-10-20T11:52:02+00:00	Demands for AI Filter on Steam Grow as Next Fest Is Flooded with AI Slop https://www.reddit.com/r/Games/comments/1xaq26q/demands_for_ai_filter_on_steam_grow_as_next_fest/
-2026-10-20T13:00:32+00:00	Final Fantasy Resonance Review Thread https://www.reddit.com/r/Games/comments/1xari7q/final_fantasy_resonance_review_thread/
-2026-10-20T13:46:42+00:00	WELCOME TO PRIME TIME | THE FINALS https://www.reddit.com/r/Games/comments/1xaslna/welcome_to_prime_time_the_finals/
-2026-10-20T14:53:23+00:00	Nintendo Switch Sports Resort Review Thread https://www.reddit.com/r/Games/comments/1xau96v/nintendo_switch_sports_resort_review_thread/
 2026-10-20T14:53:47+00:00	Hideo Kojima points to Death Stranding’s “just a walking simulator” reputation as an example of how social media echo chambers distort reality - AUTOMATON WEST https://www.reddit.com/r/Games/comments/1xau9l1/hideo_kojima_points_to_death_strandings_just_a/
-2026-10-20T15:28:09+00:00	AMD FSR™ Upscaling 4.1 for Desktop, Laptop, Handheld and Console https://www.reddit.com/r/Games/comments/1xav64s/amd_fsr_upscaling_41_for_desktop_laptop_handheld/
-2026-10-20T17:08:24+00:00	Mycopunk - 1.0 IS HERE!!! https://www.reddit.com/r/Games/comments/1xaxvxm/mycopunk_10_is_here/
-2026-10-20T17:34:19+00:00	Shrek 2 Remastered - Official Gameplay Trailer | ID@Xbox Fall 2026 https://www.reddit.com/r/Games/comments/1xaykrw/shrek_2_remastered_official_gameplay_trailer/
 2026-10-20T17:39:43+00:00	Cyberpunk 2077 Gets Surprise Official New Update Announcement From CD Projekt https://www.reddit.com/r/Games/comments/1xaypxq/cyberpunk_2077_gets_surprise_official_new_update/
 2026-10-20T18:00:34+00:00	Mouthwashing | Console Release Date Reveal https://www.reddit.com/r/Games/comments/1xazaxv/mouthwashing_console_release_date_reveal/
-2026-10-20T18:02:00+00:00	I'm a french comic artist and solodev, AMA about my detective game Legion Was Here https://www.reddit.com/r/Games/comments/1xazcgc/im_a_french_comic_artist_and_solodev_ama_about_my/
 2026-10-20T18:41:15+00:00	Report: Next-Gen Xbox Project Helix Targets 2028 Release, Could Cost $1,200 to $1,800 https://www.reddit.com/r/Games/comments/1xb0epo/report_nextgen_xbox_project_helix_targets_2028/
 2026-10-20T18:45:03+00:00	Life is Strange studio Don't Nod opens safeguarding proceedings to freeze debt in fight for survival https://www.reddit.com/r/Games/comments/1xb0ibu/life_is_strange_studio_dont_nod_opens/
-2026-10-20T19:48:16+00:00	EA Sports "Fight Night" teases return https://www.reddit.com/r/Games/comments/1xb278a/ea_sports_fight_night_teases_return/
-2026-10-20T20:03:22+00:00	Elite Dangerous - Anaconda MK II Release Trailer https://www.reddit.com/r/Games/comments/1xb2ltd/elite_dangerous_anaconda_mk_ii_release_trailer/
 2026-10-20T21:00:21+00:00	Deadlock - Shh... This Won't Hurt a Bit. https://www.reddit.com/r/Games/comments/1xb41sf/deadlock_shh_this_wont_hurt_a_bit/
-2026-10-20T22:49:59+00:00	Croc Legend of the Gobbos & Croc 2 Kingdom of the Gobbos Release soon on Switch 2 https://www.reddit.com/r/Games/comments/1xb6nzy/croc_legend_of_the_gobbos_croc_2_kingdom_of_the/
 2026-10-20T23:01:42+00:00	Features Overview: Charting the Unknown | Crimson Desert DLC https://www.reddit.com/r/Games/comments/1xb6xhx/features_overview_charting_the_unknown_crimson/
 2026-10-21T00:32:11+00:00	Evil Genuises Is Shutting Down - former esports giant ends operations https://www.reddit.com/r/Games/comments/1xb8w5h/evil_genuises_is_shutting_down_former_esports/
-2026-10-21T02:31:04+00:00	Ordinary Oddness Announced, Releases TBD on PC, PS5, Xbox Series https://www.reddit.com/r/Games/comments/1xbbc7v/ordinary_oddness_announced_releases_tbd_on_pc_ps5/
 2026-10-21T11:00:43+00:00	Daily /r/Games Discussion - Suggest Me a Game - October 21, 2026 https://www.reddit.com/r/Games/comments/1xbk2nh/daily_rgames_discussion_suggest_me_a_game_october/
-2026-10-21T11:58:38+00:00	Demon Spore Demo trailer | 80s Monster movie inspired roguelike https://www.reddit.com/r/Games/comments/1xbl61x/demon_spore_demo_trailer_80s_monster_movie/
 2026-10-21T13:03:34+00:00	The Apothecary Diaries: The False Imperial Brother - Gameplay Trailer https://www.reddit.com/r/Games/comments/1xbml4b/the_apothecary_diaries_the_false_imperial_brother/
+2026-10-21T13:43:14+00:00	ZERO PARADES: Director's Cut | Xbox Series Announcement Trailer https://www.reddit.com/r/Games/comments/1xbnjh5/zero_parades_directors_cut_xbox_series/
+2026-10-21T14:14:38+00:00	We’re Auroch Digital! Ask us anything about our upcoming video game, Warhammer Survivors! https://www.reddit.com/r/Games/comments/1xbobvf/were_auroch_digital_ask_us_anything_about_our/
+2026-10-21T14:51:10+00:00	Cassette Beasts 2002 Showcase - Watch now! https://www.reddit.com/r/Games/comments/1xbp9rv/cassette_beasts_2002_showcase_watch_now/
+2026-10-21T14:53:41+00:00	Official statement from Stick Run. https://www.reddit.com/r/Games/comments/1xbpc8v/official_statement_from_stick_run/
+2026-10-21T15:20:50+00:00	[Digital Foundry] Call of Duty: Modern Warfare 4 - The Big Infinity Ward Engine Deep Dive https://www.reddit.com/r/Games/comments/1xbq25i/digital_foundry_call_of_duty_modern_warfare_4_the/
+2026-10-21T15:34:35+00:00	Masahiro Sakurai - AI usage will lead to "unoriginal" and "unprofitable" games, resulting in a "bigger flood of games that players simply don’t want." https://www.reddit.com/r/Games/comments/1xbqfdq/masahiro_sakurai_ai_usage_will_lead_to_unoriginal/
+2026-10-21T15:36:16+00:00	Xbox was reportedly valued up to $150B as private equity firms explored buying Microsoft’s gaming business https://www.reddit.com/r/Games/comments/1xbqgx3/xbox_was_reportedly_valued_up_to_150b_as_private/
+2026-10-21T15:45:45+00:00	Check out what's coming to Night City in the Edgerunners 2 Update for Cyberpunk 2077! https://www.reddit.com/r/Games/comments/1xbqpqh/check_out_whats_coming_to_night_city_in_the/
+2026-10-21T16:02:37+00:00	Warhammer 40,000: Dawn of War IV – Official Game Overview Trailer https://www.reddit.com/r/Games/comments/1xbr6jl/warhammer_40000_dawn_of_war_iv_official_game/
+2026-10-21T16:10:05+00:00	Serious Sam: The Third Encounter | Official Teaser https://www.reddit.com/r/Games/comments/1xbre3w/serious_sam_the_third_encounter_official_teaser/
+2026-10-21T16:29:43+00:00	Napoleonic Soulslike Valor Mortis Has Started Making Money in Just One Week https://www.reddit.com/r/Games/comments/1xbrxso/napoleonic_soulslike_valor_mortis_has_started/
+2026-10-21T17:06:18+00:00	Schreier: Electronic Arts to Cut 400 Jobs, Shut Down BioWare https://www.reddit.com/r/Games/comments/1xbsxuj/schreier_electronic_arts_to_cut_400_jobs_shut/
+2026-10-21T17:59:03+00:00	BioWare Confirms Closure With Farewell Message https://www.reddit.com/r/Games/comments/1xbueuf/bioware_confirms_closure_with_farewell_message/
+2026-10-21T18:07:01+00:00	Cloud Playtime Now Available to Test with XBOX Insiders https://www.reddit.com/r/Games/comments/1xbun25/cloud_playtime_now_available_to_test_with_xbox/
