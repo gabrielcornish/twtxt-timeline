@@ -4,14 +4,11 @@
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
 2026-10-18T09:00:28+00:00	Weekly /r/Games Discussion - What have you been playing, and what are your thoughts? - October 18, 2026 https://www.reddit.com/r/Games/comments/1x8yicr/weekly_rgames_discussion_what_have_you_been/
-2026-10-19T20:41:33+00:00	Penguin Colony Developers Talk The BDS Talk And Walk The Walk By Banning The Game For Sale In Israel https://www.reddit.com/r/Games/comments/1xa8fy3/penguin_colony_developers_talk_the_bds_talk_and/
-2026-10-20T05:50:34+00:00	ReVamp's previously-announced public Steam playtest is moving to a private Discord playtest due to concerns over the game being reverse-engineered and copied https://www.reddit.com/r/Games/comments/1xak2tc/revamps_previouslyannounced_public_steam_playtest/
 2026-10-20T06:15:06+00:00	Leaker Claims PS6 Storage and RAM Will Cost $680, Suggesting a $1,000+ Price Point https://www.reddit.com/r/Games/comments/1xakhnf/leaker_claims_ps6_storage_and_ram_will_cost_680/
 2026-10-20T08:39:07+00:00	PEGI Raises Ratings for Digital Games With Loot Boxes https://www.reddit.com/r/Games/comments/1xamr1b/pegi_raises_ratings_for_digital_games_with_loot/
 2026-10-20T11:21:13+00:00	REDstreams — Cyberpunk 2077: Edgerunners 2 Update (2.5) is coming! https://www.reddit.com/r/Games/comments/1xaphb6/redstreams_cyberpunk_2077_edgerunners_2_update_25/
 2026-10-20T11:52:02+00:00	Demands for AI Filter on Steam Grow as Next Fest Is Flooded with AI Slop https://www.reddit.com/r/Games/comments/1xaq26q/demands_for_ai_filter_on_steam_grow_as_next_fest/
 2026-10-20T13:00:32+00:00	Final Fantasy Resonance Review Thread https://www.reddit.com/r/Games/comments/1xari7q/final_fantasy_resonance_review_thread/
-2026-10-20T13:21:15+00:00	I Am Your Beast: “Quitting Time” DLC Release Trailer https://www.reddit.com/r/Games/comments/1xarzpc/i_am_your_beast_quitting_time_dlc_release_trailer/
 2026-10-20T13:46:42+00:00	WELCOME TO PRIME TIME | THE FINALS https://www.reddit.com/r/Games/comments/1xaslna/welcome_to_prime_time_the_finals/
 2026-10-20T14:20:35+00:00	The Finals Season 12 Preview: A Solo Mode, QoL Changes, and Better Destruction https://www.reddit.com/r/Games/comments/1xatfkj/the_finals_season_12_preview_a_solo_mode_qol/
 2026-10-20T14:53:23+00:00	Nintendo Switch Sports Resort Review Thread https://www.reddit.com/r/Games/comments/1xau96v/nintendo_switch_sports_resort_review_thread/
@@ -26,5 +23,8 @@
 2026-10-20T18:45:03+00:00	Life is Strange studio Don't Nod opens safeguarding proceedings to freeze debt in fight for survival https://www.reddit.com/r/Games/comments/1xb0ibu/life_is_strange_studio_dont_nod_opens/
 2026-10-20T18:55:44+00:00	No, I'm not a Human Releases 2027 on PS5, Xbox Series, Switch https://www.reddit.com/r/Games/comments/1xb0sbq/no_im_not_a_human_releases_2027_on_ps5_xbox/
 2026-10-20T19:48:16+00:00	EA Sports "Fight Night" teases return https://www.reddit.com/r/Games/comments/1xb278a/ea_sports_fight_night_teases_return/
+2026-10-20T20:03:22+00:00	Elite Dangerous - Anaconda MK II Release Trailer https://www.reddit.com/r/Games/comments/1xb2ltd/elite_dangerous_anaconda_mk_ii_release_trailer/
 2026-10-20T20:08:12+00:00	Zero Parades: Director's Cut | Xbox Release Date Trailer https://www.reddit.com/r/Games/comments/1xb2qeb/zero_parades_directors_cut_xbox_release_date/
 2026-10-20T21:00:21+00:00	Deadlock - Shh... This Won't Hurt a Bit. https://www.reddit.com/r/Games/comments/1xb41sf/deadlock_shh_this_wont_hurt_a_bit/
+2026-10-20T23:01:42+00:00	Features Overview: Charting the Unknown | Crimson Desert DLC https://www.reddit.com/r/Games/comments/1xb6xhx/features_overview_charting_the_unknown_crimson/
+2026-10-21T00:32:11+00:00	Evil Genuises Is Shutting Down - former esports giant ends operations https://www.reddit.com/r/Games/comments/1xb8w5h/evil_genuises_is_shutting_down_former_esports/
