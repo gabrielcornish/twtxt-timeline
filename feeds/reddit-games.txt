@@ -3,13 +3,8 @@
 # source = https://www.reddit.com/r/Games.rss
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
-2026-10-21T00:32:11+00:00	Evil Genuises Is Shutting Down - former esports giant ends operations https://www.reddit.com/r/Games/comments/1xb8w5h/evil_genuises_is_shutting_down_former_esports/
 2026-10-21T11:00:43+00:00	Daily /r/Games Discussion - Suggest Me a Game - October 21, 2026 https://www.reddit.com/r/Games/comments/1xbk2nh/daily_rgames_discussion_suggest_me_a_game_october/
 2026-10-21T13:03:34+00:00	The Apothecary Diaries: The False Imperial Brother - Gameplay Trailer https://www.reddit.com/r/Games/comments/1xbml4b/the_apothecary_diaries_the_false_imperial_brother/
-2026-10-21T13:43:14+00:00	ZERO PARADES: Director's Cut | Xbox Series Announcement Trailer https://www.reddit.com/r/Games/comments/1xbnjh5/zero_parades_directors_cut_xbox_series/
-2026-10-21T14:51:10+00:00	Cassette Beasts 2002 Showcase - Watch now! https://www.reddit.com/r/Games/comments/1xbp9rv/cassette_beasts_2002_showcase_watch_now/
-2026-10-21T14:53:41+00:00	Official statement from Stick Run. https://www.reddit.com/r/Games/comments/1xbpc8v/official_statement_from_stick_run/
-2026-10-21T15:20:50+00:00	[Digital Foundry] Call of Duty: Modern Warfare 4 - The Big Infinity Ward Engine Deep Dive https://www.reddit.com/r/Games/comments/1xbq25i/digital_foundry_call_of_duty_modern_warfare_4_the/
 2026-10-21T15:34:35+00:00	Masahiro Sakurai - AI usage will lead to "unoriginal" and "unprofitable" games, resulting in a "bigger flood of games that players simply don’t want." https://www.reddit.com/r/Games/comments/1xbqfdq/masahiro_sakurai_ai_usage_will_lead_to_unoriginal/
 2026-10-21T15:36:16+00:00	Xbox was reportedly valued up to $150B as private equity firms explored buying Microsoft’s gaming business https://www.reddit.com/r/Games/comments/1xbqgx3/xbox_was_reportedly_valued_up_to_150b_as_private/
 2026-10-21T15:45:45+00:00	Check out what's coming to Night City in the Edgerunners 2 Update for Cyberpunk 2077! https://www.reddit.com/r/Games/comments/1xbqpqh/check_out_whats_coming_to_night_city_in_the/
@@ -28,3 +23,8 @@
 2026-10-22T00:56:58+00:00	Doctors & Dragons; the history of the RPG powerhouse BioWare as told by the dungeon masters who wrote it https://www.reddit.com/r/Games/comments/1xc4px1/doctors_dragons_the_history_of_the_rpg_powerhouse/
 2026-10-22T02:19:49+00:00	Phantom Blade Zero Launch Trailer https://www.reddit.com/r/Games/comments/1xc6g08/phantom_blade_zero_launch_trailer/
 2026-10-22T02:58:01+00:00	What's the pettiest reason you've ever bailed on a game? https://www.reddit.com/r/Games/comments/1xc7864/whats_the_pettiest_reason_youve_ever_bailed_on_a/
+2026-10-22T10:15:40+00:00	Beyond Good & Evil 2 reportedly still in development 18 years after being announced, and Ubisoft is making it a "solo-first" adventure https://www.reddit.com/r/Games/comments/1xcenxj/beyond_good_evil_2_reportedly_still_in/
+2026-10-22T10:40:05+00:00	Fellowship Roundtable: Halloween Reset https://www.reddit.com/r/Games/comments/1xcf3fq/fellowship_roundtable_halloween_reset/
+2026-10-22T10:51:12+00:00	'Capcom Takes This Matter Extremely Seriously' — Resident Evil Dev Issues Phishing Warning After Data Breach Hits Over 11 Million Customer Accounts https://www.reddit.com/r/Games/comments/1xcfacr/capcom_takes_this_matter_extremely_seriously/
+2026-10-22T11:29:36+00:00	First Jailbreak Opens Up the Nintendo Switch 2 to Custom Mods and Homebrew https://www.reddit.com/r/Games/comments/1xcg073/first_jailbreak_opens_up_the_nintendo_switch_2_to/
+2026-10-22T13:03:16+00:00	Marvel's Wolverine leads US September charts, achieves highest monthly dollar sales for a Sony-published title since Helldivers 2 https://www.reddit.com/r/Games/comments/1xchzhs/marvels_wolverine_leads_us_september_charts/

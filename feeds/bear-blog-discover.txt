@@ -5,7 +5,6 @@
 
 2026-10-19T12:56:00+00:00	Bad News Monday: We Are Losing Linux https://drglowcatsdebuglog.bearblog.dev/bad-news-monday-we-are-losing-linux/
 2026-10-20T05:33:33.985796+00:00	Walkable Cities Are Actually Swag... https://boogerdiary.bearblog.dev/walkable-cities-are-actually-swag/
-2026-10-20T16:27:00+00:00	...Delia's little scandal! https://coreyblogs.com/delias-little-scandal/
 2026-10-20T17:02:00+00:00	Chaos im Kopf - mehr nicht https://www.zweisechsneun.de/chaos-im-kopf/
 2026-10-20T18:47:00+00:00	Response to Paolo Pedercini's stance on AI usage https://blog.dante.cool/response-to-paolo-pedercinis-stance-on-ai-usage/
 2026-10-20T19:09:00+00:00	...some favorite Bear Blog finds! [Updated] https://coreyblogs.com/some-favorite-bear-blog-finds/
@@ -14,12 +13,13 @@
 2026-10-21T02:58:00+00:00	I Gave Up And You Should Too! https://blog.damonreece.com/i-gave-up-and-you-should-too/
 2026-10-21T03:59:00+00:00	october 20 nba https://combatdavey.net/october-20-2026/
 2026-10-21T03:59:00+00:00	the truest sign of getting old https://icyti.me/the-truest-sign-of-getting-old/
-2026-10-21T05:25:00+00:00	I Am Making The MOST Exciting Thing https://knivesforcats.online/i-am-making-the-most-exciting-thing/
 2026-10-21T09:05:00+00:00	break an onsen egg https://ly.bearblog.dev/break-an-onsen-egg/
 2026-10-21T13:44:07.185283+00:00	Upset about France and Brazil https://indecisiorama.bearblog.dev/upset-about-france-and-brazil/
 2026-10-21T17:36:00+00:00	the evil and fucked up php vulnerability from hell https://kami.bearblog.dev/the-evil-and-fucked-up-php-vulnerability-from-hell/
 2026-10-21T19:30:00+00:00	brief pillowfort thoughts https://imperfect.bearblog.dev/brief-pillowfort-thoughts/
 2026-10-21T19:39:58+00:00	Ubiquitous means it's everywhere; not that it's required https://blog.curiousquail.com/ubiquitous-means-its-everywhere-not-that-its-required/
 2026-10-21T20:05:00+00:00	Unlabeled puzzle design: good decoys are all you need https://andrewantes.com/unlabeled-good-decoys/
+2026-10-21T22:58:00+00:00	changing season https://peelingtheonion.bearblog.dev/changing-season/
 2026-10-21T23:31:00+00:00	My Dog Died https://shitmypants.bearblog.dev/my-dog-died/
 2026-10-22T05:48:00+00:00	On Facebook's 25bn USD fine https://thoughts.pivic.com/on-facebooks-25bn-usd-fine/
+2026-10-22T12:19:00+00:00	If people would just https://herman.bearblog.dev/if-people-would-just/
