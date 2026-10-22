@@ -3,9 +3,6 @@
 # source = https://www.reddit.com/r/Games.rss
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
-2026-10-20T11:52:02+00:00	Demands for AI Filter on Steam Grow as Next Fest Is Flooded with AI Slop https://www.reddit.com/r/Games/comments/1xaq26q/demands_for_ai_filter_on_steam_grow_as_next_fest/
-2026-10-20T14:53:47+00:00	Hideo Kojima points to Death Stranding’s “just a walking simulator” reputation as an example of how social media echo chambers distort reality - AUTOMATON WEST https://www.reddit.com/r/Games/comments/1xau9l1/hideo_kojima_points_to_death_strandings_just_a/
-2026-10-20T18:41:15+00:00	Report: Next-Gen Xbox Project Helix Targets 2028 Release, Could Cost $1,200 to $1,800 https://www.reddit.com/r/Games/comments/1xb0epo/report_nextgen_xbox_project_helix_targets_2028/
 2026-10-21T00:32:11+00:00	Evil Genuises Is Shutting Down - former esports giant ends operations https://www.reddit.com/r/Games/comments/1xb8w5h/evil_genuises_is_shutting_down_former_esports/
 2026-10-21T11:00:43+00:00	Daily /r/Games Discussion - Suggest Me a Game - October 21, 2026 https://www.reddit.com/r/Games/comments/1xbk2nh/daily_rgames_discussion_suggest_me_a_game_october/
 2026-10-21T13:03:34+00:00	The Apothecary Diaries: The False Imperial Brother - Gameplay Trailer https://www.reddit.com/r/Games/comments/1xbml4b/the_apothecary_diaries_the_false_imperial_brother/
@@ -28,3 +25,6 @@
 2026-10-21T20:12:48+00:00	Report: Maxis, Full Circle, and Ripple Effect targeted by EA during sweeping layoffs https://www.reddit.com/r/Games/comments/1xby2ab/report_maxis_full_circle_and_ripple_effect/
 2026-10-21T21:22:09+00:00	The Untold History of Slave Zero - Featuring interviews with Ken Capelli and Trevor Grimshaw. https://www.reddit.com/r/Games/comments/1xbzuzc/the_untold_history_of_slave_zero_featuring/
 2026-10-21T21:52:22+00:00	Tenebris Somnia - Review Thread https://www.reddit.com/r/Games/comments/1xc0m7v/tenebris_somnia_review_thread/
+2026-10-21T22:42:55+00:00	NDP leader Avi Lewis on the BioWare closure: “This is private equity, this is what it does. Buy up businesses, run them into the ground, and rip them apart for short-term profit.” https://www.reddit.com/r/Games/comments/1xc1tdl/ndp_leader_avi_lewis_on_the_bioware_closure_this/
+2026-10-21T23:26:30+00:00	The Halo We Grew Up With Is Never Coming Back - GameSpot https://www.reddit.com/r/Games/comments/1xc2saa/the_halo_we_grew_up_with_is_never_coming_back/
+2026-10-22T00:56:58+00:00	Doctors & Dragons; the history of the RPG powerhouse BioWare as told by the dungeon masters who wrote it https://www.reddit.com/r/Games/comments/1xc4px1/doctors_dragons_the_history_of_the_rpg_powerhouse/

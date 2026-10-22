@@ -5,16 +5,12 @@
 
 2026-10-19T12:56:00+00:00	Bad News Monday: We Are Losing Linux https://drglowcatsdebuglog.bearblog.dev/bad-news-monday-we-are-losing-linux/
 2026-10-19T18:20:00+00:00	Are you a NIMBY? https://forkingmad.blog/are-you-a-nimby/
-2026-10-19T18:50:30.902342+00:00	on hurting others https://reedybear.bearblog.dev/on-hurting-others/
 2026-10-19T21:00:00+00:00	The appeal of never being rejected https://norulesjustme.bearblog.dev/the-appeal-of-never-being-rejected/
 2026-10-20T05:33:33.985796+00:00	Walkable Cities Are Actually Swag... https://boogerdiary.bearblog.dev/walkable-cities-are-actually-swag/
-2026-10-20T14:42:00+00:00	Precious pauses https://robertbirming.com/precious-pauses/
-2026-10-20T15:10:35.460210+00:00	euro truck simulator 2 and the gaming industry https://anubiarts.bearblog.dev/ets2-gaming-industry-32/
 2026-10-20T16:27:00+00:00	...Delia's little scandal! https://coreyblogs.com/delias-little-scandal/
 2026-10-20T17:02:00+00:00	Chaos im Kopf - mehr nicht https://www.zweisechsneun.de/chaos-im-kopf/
 2026-10-20T18:47:00+00:00	Response to Paolo Pedercini's stance on AI usage https://blog.dante.cool/response-to-paolo-pedercinis-stance-on-ai-usage/
 2026-10-20T19:09:00+00:00	...some favorite Bear Blog finds! [Updated] https://coreyblogs.com/some-favorite-bear-blog-finds/
-2026-10-20T19:19:16.926498+00:00	The False Intimacy of Late-Night Wakefulness (At Midnight, We Are All Philosophers) https://kailo.bearblog.dev/the-false-intimacy-of-late-night-wakefulness-at-midnight-we-are-all-philosophers/
 2026-10-20T23:47:00+00:00	No longer feeling the need to rush https://forsomeone.bearblog.dev/no-longer-feeling-the-need-to-rush/
 2026-10-21T02:27:41.948523+00:00	"Who Owns ROM Hacking?" And Other Questions AI Poisons Us With https://shoujo.gay/who-owns-rom-hacking/
 2026-10-21T02:58:00+00:00	I Gave Up And You Should Too! https://blog.damonreece.com/i-gave-up-and-you-should-too/
@@ -22,4 +18,8 @@
 2026-10-21T03:59:00+00:00	the truest sign of getting old https://icyti.me/the-truest-sign-of-getting-old/
 2026-10-21T05:25:00+00:00	I Am Making The MOST Exciting Thing https://knivesforcats.online/i-am-making-the-most-exciting-thing/
 2026-10-21T09:05:00+00:00	break an onsen egg https://ly.bearblog.dev/break-an-onsen-egg/
+2026-10-21T11:00:00+00:00	A Cuddle Booking Took an Unexpected Turn https://norulesjustme.bearblog.dev/a-cuddle-booking-took-an-unexpected-turn/
 2026-10-21T13:44:07.185283+00:00	Upset about France and Brazil https://indecisiorama.bearblog.dev/upset-about-france-and-brazil/
+2026-10-21T17:36:00+00:00	the evil and fucked up php vulnerability from hell https://kami.bearblog.dev/the-evil-and-fucked-up-php-vulnerability-from-hell/
+2026-10-21T20:05:00+00:00	Unlabeled puzzle design: good decoys are all you need https://andrewantes.com/unlabeled-good-decoys/
+2026-10-21T23:31:00+00:00	My Dog Died https://shitmypants.bearblog.dev/my-dog-died/
