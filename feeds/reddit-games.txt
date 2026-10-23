@@ -4,17 +4,13 @@
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
 2026-10-21T11:00:43+00:00	Daily /r/Games Discussion - Suggest Me a Game - October 21, 2026 https://www.reddit.com/r/Games/comments/1xbk2nh/daily_rgames_discussion_suggest_me_a_game_october/
-2026-10-21T17:06:18+00:00	Schreier: Electronic Arts to Cut 400 Jobs, Shut Down BioWare https://www.reddit.com/r/Games/comments/1xbsxuj/schreier_electronic_arts_to_cut_400_jobs_shut/
-2026-10-21T17:59:03+00:00	BioWare Confirms Closure With Farewell Message https://www.reddit.com/r/Games/comments/1xbueuf/bioware_confirms_closure_with_farewell_message/
 2026-10-21T22:42:55+00:00	NDP leader Avi Lewis on the BioWare closure: “This is private equity, this is what it does. Buy up businesses, run them into the ground, and rip them apart for short-term profit.” https://www.reddit.com/r/Games/comments/1xc1tdl/ndp_leader_avi_lewis_on_the_bioware_closure_this/
-2026-10-22T02:58:01+00:00	What's the pettiest reason you've ever bailed on a game? https://www.reddit.com/r/Games/comments/1xc7864/whats_the_pettiest_reason_youve_ever_bailed_on_a/
 2026-10-22T10:15:40+00:00	Beyond Good & Evil 2 reportedly still in development 18 years after being announced, and Ubisoft is making it a "solo-first" adventure https://www.reddit.com/r/Games/comments/1xcenxj/beyond_good_evil_2_reportedly_still_in/
 2026-10-22T10:51:12+00:00	'Capcom Takes This Matter Extremely Seriously' — Resident Evil Dev Issues Phishing Warning After Data Breach Hits Over 11 Million Customer Accounts https://www.reddit.com/r/Games/comments/1xcfacr/capcom_takes_this_matter_extremely_seriously/
 2026-10-22T11:29:36+00:00	First Jailbreak Opens Up the Nintendo Switch 2 to Custom Mods and Homebrew https://www.reddit.com/r/Games/comments/1xcg073/first_jailbreak_opens_up_the_nintendo_switch_2_to/
 2026-10-22T13:03:16+00:00	Marvel's Wolverine leads US September charts, achieves highest monthly dollar sales for a Sony-published title since Helldivers 2 https://www.reddit.com/r/Games/comments/1xchzhs/marvels_wolverine_leads_us_september_charts/
 2026-10-22T14:08:31+00:00	Cyberpunk 2077 | Broken Dreams | Edgerunners 2 Update Launch Trailer https://www.reddit.com/r/Games/comments/1xcjljw/cyberpunk_2077_broken_dreams_edgerunners_2_update/
 2026-10-22T15:02:41+00:00	Katana Zero DLC Dev Update - "We made it bigger. It's the size of a full sequel, plus a soundtrack of over 30+ new songs. More updates to come." https://www.reddit.com/r/Games/comments/1xcl0b8/katana_zero_dlc_dev_update_we_made_it_bigger_its/
-2026-10-22T15:45:16+00:00	SYNTHETIK: Legion Rising - Update 27: now running on GameMaker 2026 runtime, stability and bugfix improvements https://www.reddit.com/r/Games/comments/1xcm5y1/synthetik_legion_rising_update_27_now_running_on/
 2026-10-22T16:04:10+00:00	BioWare Reportedly Had a Mass Effect 5 Trailer Ready to Go Before EA Canceled the Game and Shut the Studio Down https://www.reddit.com/r/Games/comments/1xcmo7v/bioware_reportedly_had_a_mass_effect_5_trailer/
 2026-10-22T16:21:15+00:00	Cancelled Mass Effect Universe: Trailer Leaks https://www.reddit.com/r/Games/comments/1xcn51i/cancelled_mass_effect_universe_trailer_leaks/
 2026-10-22T17:12:55+00:00	Dispatch Releases Dec 9th on Android & IOS https://www.reddit.com/r/Games/comments/1xcok4w/dispatch_releases_dec_9th_on_android_ios/
@@ -28,3 +24,7 @@
 2026-10-22T21:46:58+00:00	SULFUR 1.0 - Coming 28 October to PC & Consoles https://www.reddit.com/r/Games/comments/1xcvu36/sulfur_10_coming_28_october_to_pc_consoles/
 2026-10-22T23:25:33+00:00	System Era (Astroneer Dev) Lays Off 30 https://www.reddit.com/r/Games/comments/1xcy3z5/system_era_astroneer_dev_lays_off_30/
 2026-10-22T23:45:48+00:00	Monster Prom 5: Monster Retreat - Reveal Teaser https://www.reddit.com/r/Games/comments/1xcyk6b/monster_prom_5_monster_retreat_reveal_teaser/
+2026-10-23T00:36:52+00:00	World War Z - Official Viral State Update Announcement Trailer https://www.reddit.com/r/Games/comments/1xczo3n/world_war_z_official_viral_state_update/
+2026-10-23T01:55:27+00:00	Hackers Have Unlocked Homebrew Access On Switch 2 Less Than 24 Hours After Its First Jailbreak https://www.reddit.com/r/Games/comments/1xd1ahz/hackers_have_unlocked_homebrew_access_on_switch_2/
+2026-10-23T02:27:50+00:00	ACE COMBAT 8: WINGS OF THEVE - About ACE COMBAT ZERO: THE BELKAN WAR | Update 4 (Standalone Version Released) https://www.reddit.com/r/Games/comments/1xd1y5e/ace_combat_8_wings_of_theve_about_ace_combat_zero/
+2026-10-23T04:21:48+00:00	Shigeru Miyamoto to Become First Gaming Industry Figure to Receive Japan’s Order of Culture https://www.reddit.com/r/Games/comments/1xd46lz/shigeru_miyamoto_to_become_first_gaming_industry/

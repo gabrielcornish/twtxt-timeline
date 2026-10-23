@@ -3,15 +3,12 @@
 # source = https://bearblog.dev/discover/feed/
 # description = twtxt conversion of https://bearblog.dev/discover/feed/
 
-2026-10-20T18:47:00+00:00	Response to Paolo Pedercini's stance on AI usage https://blog.dante.cool/response-to-paolo-pedercinis-stance-on-ai-usage/
 2026-10-20T19:09:00+00:00	...some favorite Bear Blog finds! [Updated] https://coreyblogs.com/some-favorite-bear-blog-finds/
 2026-10-20T23:47:00+00:00	No longer feeling the need to rush https://forsomeone.bearblog.dev/no-longer-feeling-the-need-to-rush/
 2026-10-21T02:27:41.948523+00:00	"Who Owns ROM Hacking?" And Other Questions AI Poisons Us With https://shoujo.gay/who-owns-rom-hacking/
 2026-10-21T02:58:00+00:00	I Gave Up And You Should Too! https://blog.damonreece.com/i-gave-up-and-you-should-too/
 2026-10-21T09:05:00+00:00	break an onsen egg https://ly.bearblog.dev/break-an-onsen-egg/
-2026-10-21T13:44:07.185283+00:00	Upset about France and Brazil https://indecisiorama.bearblog.dev/upset-about-france-and-brazil/
 2026-10-21T17:36:00+00:00	the evil and fucked up php vulnerability from hell https://kami.bearblog.dev/the-evil-and-fucked-up-php-vulnerability-from-hell/
-2026-10-21T19:30:00+00:00	brief pillowfort thoughts https://imperfect.bearblog.dev/brief-pillowfort-thoughts/
 2026-10-21T19:39:58+00:00	Ubiquitous means it's everywhere; not that it's required https://blog.curiousquail.com/ubiquitous-means-its-everywhere-not-that-its-required/
 2026-10-21T20:05:00+00:00	Unlabeled puzzle design: good decoys are all you need https://andrewantes.com/unlabeled-good-decoys/
 2026-10-21T23:31:00+00:00	My Dog Died https://shitmypants.bearblog.dev/my-dog-died/
@@ -23,3 +20,6 @@
 2026-10-22T17:43:00+00:00	S.F. in the age of A.I. https://lnebres.bearblog.dev/sf-in-the-age-of-ai/
 2026-10-22T21:18:09.994901+00:00	Returning to Myself (I am, as I always am) https://lin-living-life.bearblog.dev/returning-to-myself-i-am-as-i-always-am/
 2026-10-22T22:37:54.924438+00:00	The Old Man and the Young One https://itsme.bearblog.dev/the-old-man-and-the-young-one/
+2026-10-22T23:07:00+00:00	Consumption as a political identity (A critique) https://writeitdown.bearblog.dev/consumption-as-a-political-identity-a-critique/
+2026-10-23T02:12:02.210734+00:00	i got a dumbphone! https://alieniloquy.bearblog.dev/i-got-a-dumbphone/
+2026-10-23T04:25:00+00:00	Rules for Good Players https://kraftpaperhat.net/rules-for-good-players/
