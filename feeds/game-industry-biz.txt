@@ -3,8 +3,6 @@
 # source = https://www.gamesindustry.biz/feed
 # description = twtxt conversion of https://www.gamesindustry.biz/feed
 
-2026-10-14T14:00:00+00:00	How to run an indie game studio: Part 3, Dealing with issues https://www.gamesindustry.biz/how-to-run-an-indie-game-studio-part-3-dealing-with-issues
-2026-10-14T14:57:54+00:00	"I wanted to make the show I wanted to watch" – How Galaxies found a place in the crowded showcase landscape https://www.gamesindustry.biz/i-wanted-to-make-the-show-i-wanted-to-watch-how-galaxies-found-a-place-in-the-crowded-showcase-landscape
 2026-10-14T16:34:08+00:00	Funcom to lay off staff as it pivots to focusing solely on Conan Exiles and Dune: Awakening https://www.gamesindustry.biz/funcom-to-lay-off-staff-as-it-pivots-to-focusing-solely-on-conan-exiles-and-dune-awakening
 2026-10-14T17:58:59+00:00	S&box plans to go free-to-play and embrace human curation saying "Netflix for games doesn't work" https://www.gamesindustry.biz/sbox-plans-to-go-free-to-play-and-embrace-human-curation-saying-netflix-for-games-doesnt-work
 2026-10-14T19:45:48+00:00	Duke Nukem 3D level designer Richard "Levelord" Gray dies aged 68 https://www.gamesindustry.biz/duke-nukem-3d-level-designer-richard-levelord-gray-dies-aged-68
@@ -53,3 +51,5 @@
 2026-10-23T09:59:48+00:00	Call of Duty: Modern Warfare 4 | Critical Consensus https://www.gamesindustry.biz/call-of-duty-modern-warfare-4-critical-consensus
 2026-10-23T11:05:20+00:00	Capcom affected by data breach, over 11.7m Capcom ID accounts compromised https://www.gamesindustry.biz/capcom-affected-by-data-breach-over-117m-capcom-id-accounts-compromised
 2026-10-23T13:06:01+00:00	Nintendo veteran Shigeru Miyamoto to receive Japan's Order of Culture award https://www.gamesindustry.biz/nintendo-veteran-shigeru-miyamoto-to-receive-japans-order-of-culture-award
+2026-10-23T13:52:52+00:00	GameMaker to make its "next-generation runtime" GMRT free for commercial use in January 2027 https://www.gamesindustry.biz/gamemaker-to-make-its-next-generation-runtime-gmrt-free-for-commercial-use-in-january-2027
+2026-10-23T15:04:13+00:00	BioWare's end is a tragically familiar tale | Opinion https://www.gamesindustry.biz/biowares-end-is-a-tragically-familiar-tale-opinion
