@@ -9,7 +9,6 @@
 2026-10-22T17:32:12+00:00	Jason Schreier regarding the Mass Effect Universe trailer: Can confirm that this is a real trailer of the Mass Effect game that BioWare was developing up until its closure yesterday https://www.reddit.com/r/Games/comments/1xcp30r/jason_schreier_regarding_the_mass_effect_universe/
 2026-10-22T18:43:46+00:00	Thoughts on AI in game development (from the trenches) https://www.reddit.com/r/Games/comments/1xcr1au/thoughts_on_ai_in_game_development_from_the/
 2026-10-22T19:04:43+00:00	Baldur's Gate 3 has surpassed 23 million copies sold, generating over $1.2 billion in revenue https://www.reddit.com/r/Games/comments/1xcrlqt/baldurs_gate_3_has_surpassed_23_million_copies/
-2026-10-22T23:25:33+00:00	System Era (Astroneer Dev) Lays Off 30 https://www.reddit.com/r/Games/comments/1xcy3z5/system_era_astroneer_dev_lays_off_30/
 2026-10-23T01:55:27+00:00	Hackers Have Unlocked Homebrew Access On Switch 2 Less Than 24 Hours After Its First Jailbreak https://www.reddit.com/r/Games/comments/1xd1ahz/hackers_have_unlocked_homebrew_access_on_switch_2/
 2026-10-23T02:27:50+00:00	ACE COMBAT 8: WINGS OF THEVE - About ACE COMBAT ZERO: THE BELKAN WAR | Update 4 (Standalone Version Released) https://www.reddit.com/r/Games/comments/1xd1y5e/ace_combat_8_wings_of_theve_about_ace_combat_zero/
 2026-10-23T04:21:48+00:00	Shigeru Miyamoto to Become First Gaming Industry Figure to Receive Japan’s Order of Culture https://www.reddit.com/r/Games/comments/1xd46lz/shigeru_miyamoto_to_become_first_gaming_industry/
@@ -17,8 +16,6 @@
 2026-10-23T10:00:42+00:00	Daily /r/Games Discussion - Free Talk Friday - October 23, 2026 https://www.reddit.com/r/Games/comments/1xd9uws/daily_rgames_discussion_free_talk_friday_october/
 2026-10-23T10:06:04+00:00	Nintendo reportedly blocks access to Switch 2 exploit software, first homebrew tests demonstrated https://www.reddit.com/r/Games/comments/1xd9ye4/nintendo_reportedly_blocks_access_to_switch_2/
 2026-10-23T11:13:19+00:00	Atari announces shutdown of VCS platform on February 1, 2027 https://www.reddit.com/r/Games/comments/1xdb599/atari_announces_shutdown_of_vcs_platform_on/
-2026-10-23T11:52:35+00:00	FATAL FURY: City of the Wolves | Nintendo Switch 2 Promo Video https://www.reddit.com/r/Games/comments/1xdbwby/fatal_fury_city_of_the_wolves_nintendo_switch_2/
-2026-10-23T12:06:13+00:00	Noble Fates - Feature Breakdown Trailer https://www.reddit.com/r/Games/comments/1xdc6s6/noble_fates_feature_breakdown_trailer/
 2026-10-23T13:29:28+00:00	Factorio version 2.1, the final major update for the game, has been released https://www.reddit.com/r/Games/comments/1xde2hi/factorio_version_21_the_final_major_update_for/
 2026-10-23T13:30:59+00:00	Factorio - Trailer 2026 https://www.reddit.com/r/Games/comments/1xde43k/factorio_trailer_2026/
 2026-10-23T13:32:01+00:00	Tape to Tape 1.0 Launches Today at Noon (EST) on Steam, Nintendo Switch, PlayStation 5, and Xbox Series X/S https://www.reddit.com/r/Games/comments/1xde4yz/tape_to_tape_10_launches_today_at_noon_est_on/
@@ -28,3 +25,6 @@
 2026-10-23T15:59:22+00:00	Jason Schreier: Despite all the gloomy headlines today, my understanding is that there are multiple paths actively being explored that would save Arkane Lyon. Anything can happen during negotiations, but at this point I'd be surprised if the studio is shut down. https://www.reddit.com/r/Games/comments/1xdi06e/jason_schreier_despite_all_the_gloomy_headlines/
 2026-10-23T16:11:25+00:00	[New Frame Plus] The Best Game Animation of 2025 *UPDATED* https://www.reddit.com/r/Games/comments/1xdicoi/new_frame_plus_the_best_game_animation_of_2025/
 2026-10-23T16:47:35+00:00	Multiple Reports Say Nvidia Manufactured the Gaming GPU Crisis by Forcing Big Tech to Stockpile Unused AI Hardware https://www.reddit.com/r/Games/comments/1xdjbd1/multiple_reports_say_nvidia_manufactured_the/
+2026-10-23T18:41:28+00:00	Mass Effect 5 Details Revealed Following Cancellation, Including 'Hitman-Style Freedom' in Missions https://www.reddit.com/r/Games/comments/1xdmccv/mass_effect_5_details_revealed_following/
+2026-10-23T20:09:58+00:00	The Legend of Zelda: Ocarina of Time – The Battle for Hyrule Begins – Nintendo Switch 2 https://www.reddit.com/r/Games/comments/1xdoo91/the_legend_of_zelda_ocarina_of_time_the_battle/
+2026-10-23T21:34:56+00:00	Steam's Personal Calendar Full Release https://www.reddit.com/r/Games/comments/1xdqsnb/steams_personal_calendar_full_release/
