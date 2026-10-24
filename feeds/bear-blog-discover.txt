@@ -3,11 +3,9 @@
 # source = https://bearblog.dev/discover/feed/
 # description = twtxt conversion of https://bearblog.dev/discover/feed/
 
-2026-10-20T19:09:00+00:00	...some favorite Bear Blog finds! [Updated] https://coreyblogs.com/some-favorite-bear-blog-finds/
 2026-10-21T02:27:41.948523+00:00	"Who Owns ROM Hacking?" And Other Questions AI Poisons Us With https://shoujo.gay/who-owns-rom-hacking/
 2026-10-21T02:58:00+00:00	I Gave Up And You Should Too! https://blog.damonreece.com/i-gave-up-and-you-should-too/
 2026-10-21T19:39:58+00:00	Ubiquitous means it's everywhere; not that it's required https://blog.curiousquail.com/ubiquitous-means-its-everywhere-not-that-its-required/
-2026-10-21T23:31:00+00:00	My Dog Died https://shitmypants.bearblog.dev/my-dog-died/
 2026-10-22T05:48:00+00:00	On Facebook's 25bn USD fine https://thoughts.pivic.com/on-facebooks-25bn-usd-fine/
 2026-10-22T12:19:00+00:00	If people would just https://herman.bearblog.dev/if-people-would-just/
 2026-10-22T14:56:55.850010+00:00	Carve a pumpkin! https://blog.willmeye.rs/carve-a-pumpkin/
@@ -22,4 +20,6 @@
 2026-10-23T14:44:00+00:00	What Two Cartoon Characters and a French Dude Taught Me About Life https://blog.absurdpirate.com/what-two-cartoon-characters-and-a-french-dude-taught-me-about-life/
 2026-10-23T15:19:00+00:00	Uma breve aula de boiologia https://spirit.bearblog.dev/uma-breve-aula-de-boiologia/
 2026-10-23T16:24:00+00:00	We are all living inside of an obscure sci-fi film from 1970 https://thanksforthatjim.bearblog.dev/we-are-all-living-inside-of-an-obscure-sci-fi-film-from-1970/
+2026-10-23T16:47:51.570864+00:00	Unusual You https://robertbirming.com/unusual-you/
 2026-10-23T19:42:00+00:00	the price of community is not inconvenience https://olu.online/the-price-of-community-is-not-inconvenience/
+2026-10-23T20:02:00+00:00	it’s always been trash https://signalundefied.bearblog.dev/its-always-been-trash/
