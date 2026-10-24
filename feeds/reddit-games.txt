@@ -4,7 +4,6 @@
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
 2026-10-21T11:00:43+00:00	Daily /r/Games Discussion - Suggest Me a Game - October 21, 2026 https://www.reddit.com/r/Games/comments/1xbk2nh/daily_rgames_discussion_suggest_me_a_game_october/
-2026-10-22T19:04:43+00:00	Baldur's Gate 3 has surpassed 23 million copies sold, generating over $1.2 billion in revenue https://www.reddit.com/r/Games/comments/1xcrlqt/baldurs_gate_3_has_surpassed_23_million_copies/
 2026-10-23T01:55:27+00:00	Hackers Have Unlocked Homebrew Access On Switch 2 Less Than 24 Hours After Its First Jailbreak https://www.reddit.com/r/Games/comments/1xd1ahz/hackers_have_unlocked_homebrew_access_on_switch_2/
 2026-10-23T04:21:48+00:00	Shigeru Miyamoto to Become First Gaming Industry Figure to Receive Japan’s Order of Culture https://www.reddit.com/r/Games/comments/1xd46lz/shigeru_miyamoto_to_become_first_gaming_industry/
 2026-10-23T10:00:42+00:00	Daily /r/Games Discussion - Free Talk Friday - October 23, 2026 https://www.reddit.com/r/Games/comments/1xd9uws/daily_rgames_discussion_free_talk_friday_october/
@@ -14,11 +13,9 @@
 2026-10-23T13:32:01+00:00	Tape to Tape 1.0 Launches Today at Noon (EST) on Steam, Nintendo Switch, PlayStation 5, and Xbox Series X/S https://www.reddit.com/r/Games/comments/1xde4yz/tape_to_tape_10_launches_today_at_noon_est_on/
 2026-10-23T13:54:14+00:00	[Le Monde] Arkane Lyon has until November 13 to find a buyer, 217 jobs are at risk https://www.reddit.com/r/Games/comments/1xdep7f/le_monde_arkane_lyon_has_until_november_13_to/
 2026-10-23T14:12:26+00:00	Village In the Shade Review Thread https://www.reddit.com/r/Games/comments/1xdf6tn/village_in_the_shade_review_thread/
-2026-10-23T14:54:46+00:00	WH40k: Necromunda Roleplay expansion (Tabletop) cancelled https://www.reddit.com/r/Games/comments/1xdgaci/wh40k_necromunda_roleplay_expansion_tabletop/
 2026-10-23T15:59:22+00:00	Jason Schreier: Despite all the gloomy headlines today, my understanding is that there are multiple paths actively being explored that would save Arkane Lyon. Anything can happen during negotiations, but at this point I'd be surprised if the studio is shut down. https://www.reddit.com/r/Games/comments/1xdi06e/jason_schreier_despite_all_the_gloomy_headlines/
 2026-10-23T16:11:25+00:00	[New Frame Plus] The Best Game Animation of 2025 *UPDATED* https://www.reddit.com/r/Games/comments/1xdicoi/new_frame_plus_the_best_game_animation_of_2025/
 2026-10-23T16:47:35+00:00	Multiple Reports Say Nvidia Manufactured the Gaming GPU Crisis by Forcing Big Tech to Stockpile Unused AI Hardware https://www.reddit.com/r/Games/comments/1xdjbd1/multiple_reports_say_nvidia_manufactured_the/
-2026-10-23T18:20:31+00:00	The Legend of California AMA w/ Jeff Kaplan & Tim Ford https://www.reddit.com/r/Games/comments/1xdlscf/the_legend_of_california_ama_w_jeff_kaplan_tim/
 2026-10-23T18:41:28+00:00	Mass Effect 5 Details Revealed Following Cancellation, Including 'Hitman-Style Freedom' in Missions https://www.reddit.com/r/Games/comments/1xdmccv/mass_effect_5_details_revealed_following/
 2026-10-23T20:09:58+00:00	The Legend of Zelda: Ocarina of Time – The Battle for Hyrule Begins – Nintendo Switch 2 https://www.reddit.com/r/Games/comments/1xdoo91/the_legend_of_zelda_ocarina_of_time_the_battle/
 2026-10-23T21:34:56+00:00	Steam's Personal Calendar Full Release https://www.reddit.com/r/Games/comments/1xdqsnb/steams_personal_calendar_full_release/
@@ -28,3 +25,6 @@
 2026-10-24T12:12:22+00:00	The Hive - Official Trailer https://www.reddit.com/r/Games/comments/1xe72gc/the_hive_official_trailer/
 2026-10-24T13:48:24+00:00	"This was not a Creative Assembly developed game": Total War boss points the finger at external partner for Shogun 2 Complete Edition disaster https://www.reddit.com/r/Games/comments/1xe9501/this_was_not_a_creative_assembly_developed_game/
 2026-10-24T14:02:46+00:00	Look Outside coming to PS5, Switch 2, PS4, and Switch on October 30 https://www.reddit.com/r/Games/comments/1xe9hcs/look_outside_coming_to_ps5_switch_2_ps4_and/
+2026-10-24T15:56:51+00:00	Japan Actors Union reveals new guidelines to combat unauthorized AI voice cloning, including strict ban on copying voices of deceased seiyuu https://www.reddit.com/r/Games/comments/1xec8x8/japan_actors_union_reveals_new_guidelines_to/
+2026-10-24T16:12:06+00:00	Iceland DLC for Euro Truck Simulator 2 will be released on November 10 https://www.reddit.com/r/Games/comments/1xecmvq/iceland_dlc_for_euro_truck_simulator_2_will_be/
+2026-10-24T18:00:03+00:00	The Legend of Zelda: Ocarina of Time official download size is 24.54 GB. Nintendo's backend eShop details have updated from the estimated 27 GB down to 24.54 GB. The eShop page will update in the next few days. https://www.reddit.com/r/Games/comments/1xefbfd/the_legend_of_zelda_ocarina_of_time_official/
