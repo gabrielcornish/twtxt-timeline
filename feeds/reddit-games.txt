@@ -4,14 +4,11 @@
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
 2026-10-21T11:00:43+00:00	Daily /r/Games Discussion - Suggest Me a Game - October 21, 2026 https://www.reddit.com/r/Games/comments/1xbk2nh/daily_rgames_discussion_suggest_me_a_game_october/
-2026-10-22T16:21:15+00:00	Cancelled Mass Effect Universe: Trailer Leaks https://www.reddit.com/r/Games/comments/1xcn51i/cancelled_mass_effect_universe_trailer_leaks/
 2026-10-22T19:04:43+00:00	Baldur's Gate 3 has surpassed 23 million copies sold, generating over $1.2 billion in revenue https://www.reddit.com/r/Games/comments/1xcrlqt/baldurs_gate_3_has_surpassed_23_million_copies/
 2026-10-23T01:55:27+00:00	Hackers Have Unlocked Homebrew Access On Switch 2 Less Than 24 Hours After Its First Jailbreak https://www.reddit.com/r/Games/comments/1xd1ahz/hackers_have_unlocked_homebrew_access_on_switch_2/
 2026-10-23T04:21:48+00:00	Shigeru Miyamoto to Become First Gaming Industry Figure to Receive Japan’s Order of Culture https://www.reddit.com/r/Games/comments/1xd46lz/shigeru_miyamoto_to_become_first_gaming_industry/
-2026-10-23T08:45:27+00:00	Romancing SaGa 2: Revenge of the Seven shipments and digital sales top one million. The first SaGa title to surpass one million since 1997. https://www.reddit.com/r/Games/comments/1xd8mwg/romancing_saga_2_revenge_of_the_seven_shipments/
 2026-10-23T10:00:42+00:00	Daily /r/Games Discussion - Free Talk Friday - October 23, 2026 https://www.reddit.com/r/Games/comments/1xd9uws/daily_rgames_discussion_free_talk_friday_october/
 2026-10-23T10:06:04+00:00	Nintendo reportedly blocks access to Switch 2 exploit software, first homebrew tests demonstrated https://www.reddit.com/r/Games/comments/1xd9ye4/nintendo_reportedly_blocks_access_to_switch_2/
-2026-10-23T11:13:19+00:00	Atari announces shutdown of VCS platform on February 1, 2027 https://www.reddit.com/r/Games/comments/1xdb599/atari_announces_shutdown_of_vcs_platform_on/
 2026-10-23T13:29:28+00:00	Factorio version 2.1, the final major update for the game, has been released https://www.reddit.com/r/Games/comments/1xde2hi/factorio_version_21_the_final_major_update_for/
 2026-10-23T13:30:59+00:00	Factorio - Trailer 2026 https://www.reddit.com/r/Games/comments/1xde43k/factorio_trailer_2026/
 2026-10-23T13:32:01+00:00	Tape to Tape 1.0 Launches Today at Noon (EST) on Steam, Nintendo Switch, PlayStation 5, and Xbox Series X/S https://www.reddit.com/r/Games/comments/1xde4yz/tape_to_tape_10_launches_today_at_noon_est_on/
@@ -28,3 +25,6 @@
 2026-10-23T23:13:26+00:00	Civilization: The Oral History https://www.reddit.com/r/Games/comments/1xdt1ee/civilization_the_oral_history/
 2026-10-24T03:24:19+00:00	Franchises Like Mass Effect Are a 'Prestige Project' for EA, and BioWare's Closure Was 'Entirely Predictable,' Analysts Say https://www.reddit.com/r/Games/comments/1xdy1gj/franchises_like_mass_effect_are_a_prestige/
 2026-10-24T03:47:44+00:00	Xbox’s first chief operating officer is out after just a few months https://www.reddit.com/r/Games/comments/1xdygzd/xboxs_first_chief_operating_officer_is_out_after/
+2026-10-24T12:12:22+00:00	The Hive - Official Trailer https://www.reddit.com/r/Games/comments/1xe72gc/the_hive_official_trailer/
+2026-10-24T13:48:24+00:00	"This was not a Creative Assembly developed game": Total War boss points the finger at external partner for Shogun 2 Complete Edition disaster https://www.reddit.com/r/Games/comments/1xe9501/this_was_not_a_creative_assembly_developed_game/
+2026-10-24T14:02:46+00:00	Look Outside coming to PS5, Switch 2, PS4, and Switch on October 30 https://www.reddit.com/r/Games/comments/1xe9hcs/look_outside_coming_to_ps5_switch_2_ps4_and/
