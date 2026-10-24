@@ -4,15 +4,12 @@
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
 2026-10-21T11:00:43+00:00	Daily /r/Games Discussion - Suggest Me a Game - October 21, 2026 https://www.reddit.com/r/Games/comments/1xbk2nh/daily_rgames_discussion_suggest_me_a_game_october/
-2026-10-23T01:55:27+00:00	Hackers Have Unlocked Homebrew Access On Switch 2 Less Than 24 Hours After Its First Jailbreak https://www.reddit.com/r/Games/comments/1xd1ahz/hackers_have_unlocked_homebrew_access_on_switch_2/
-2026-10-23T04:21:48+00:00	Shigeru Miyamoto to Become First Gaming Industry Figure to Receive Japan’s Order of Culture https://www.reddit.com/r/Games/comments/1xd46lz/shigeru_miyamoto_to_become_first_gaming_industry/
 2026-10-23T10:00:42+00:00	Daily /r/Games Discussion - Free Talk Friday - October 23, 2026 https://www.reddit.com/r/Games/comments/1xd9uws/daily_rgames_discussion_free_talk_friday_october/
 2026-10-23T10:06:04+00:00	Nintendo reportedly blocks access to Switch 2 exploit software, first homebrew tests demonstrated https://www.reddit.com/r/Games/comments/1xd9ye4/nintendo_reportedly_blocks_access_to_switch_2/
 2026-10-23T13:29:28+00:00	Factorio version 2.1, the final major update for the game, has been released https://www.reddit.com/r/Games/comments/1xde2hi/factorio_version_21_the_final_major_update_for/
 2026-10-23T13:30:59+00:00	Factorio - Trailer 2026 https://www.reddit.com/r/Games/comments/1xde43k/factorio_trailer_2026/
 2026-10-23T13:32:01+00:00	Tape to Tape 1.0 Launches Today at Noon (EST) on Steam, Nintendo Switch, PlayStation 5, and Xbox Series X/S https://www.reddit.com/r/Games/comments/1xde4yz/tape_to_tape_10_launches_today_at_noon_est_on/
 2026-10-23T13:54:14+00:00	[Le Monde] Arkane Lyon has until November 13 to find a buyer, 217 jobs are at risk https://www.reddit.com/r/Games/comments/1xdep7f/le_monde_arkane_lyon_has_until_november_13_to/
-2026-10-23T14:12:26+00:00	Village In the Shade Review Thread https://www.reddit.com/r/Games/comments/1xdf6tn/village_in_the_shade_review_thread/
 2026-10-23T15:59:22+00:00	Jason Schreier: Despite all the gloomy headlines today, my understanding is that there are multiple paths actively being explored that would save Arkane Lyon. Anything can happen during negotiations, but at this point I'd be surprised if the studio is shut down. https://www.reddit.com/r/Games/comments/1xdi06e/jason_schreier_despite_all_the_gloomy_headlines/
 2026-10-23T16:11:25+00:00	[New Frame Plus] The Best Game Animation of 2025 *UPDATED* https://www.reddit.com/r/Games/comments/1xdicoi/new_frame_plus_the_best_game_animation_of_2025/
 2026-10-23T16:47:35+00:00	Multiple Reports Say Nvidia Manufactured the Gaming GPU Crisis by Forcing Big Tech to Stockpile Unused AI Hardware https://www.reddit.com/r/Games/comments/1xdjbd1/multiple_reports_say_nvidia_manufactured_the/
@@ -28,3 +25,6 @@
 2026-10-24T15:56:51+00:00	Japan Actors Union reveals new guidelines to combat unauthorized AI voice cloning, including strict ban on copying voices of deceased seiyuu https://www.reddit.com/r/Games/comments/1xec8x8/japan_actors_union_reveals_new_guidelines_to/
 2026-10-24T16:12:06+00:00	Iceland DLC for Euro Truck Simulator 2 will be released on November 10 https://www.reddit.com/r/Games/comments/1xecmvq/iceland_dlc_for_euro_truck_simulator_2_will_be/
 2026-10-24T18:00:03+00:00	The Legend of Zelda: Ocarina of Time official download size is 24.54 GB. Nintendo's backend eShop details have updated from the estimated 27 GB down to 24.54 GB. The eShop page will update in the next few days. https://www.reddit.com/r/Games/comments/1xefbfd/the_legend_of_zelda_ocarina_of_time_official/
+2026-10-24T18:53:53+00:00	Claude’s Reverse Engineering Capabilities Used To Recompile Games May Have Been Quietly Nerfed https://www.reddit.com/r/Games/comments/1xegogi/claudes_reverse_engineering_capabilities_used_to/
+2026-10-24T18:57:26+00:00	'I Don't Know if There's Perfecting It' — Call of Duty: Modern Warfare 4 Multiplayer Chief Weighs in on Matchmaking https://www.reddit.com/r/Games/comments/1xegrms/i_dont_know_if_theres_perfecting_it_call_of_duty/
+2026-10-24T20:03:21+00:00	Starship Troopers: Extermination - Flying Hoppers, Camp Rasczak, and more https://www.reddit.com/r/Games/comments/1xeiebv/starship_troopers_extermination_flying_hoppers/
