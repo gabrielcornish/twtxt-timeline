@@ -5,7 +5,6 @@
 
 2026-10-21T11:00:43+00:00	Daily /r/Games Discussion - Suggest Me a Game - October 21, 2026 https://www.reddit.com/r/Games/comments/1xbk2nh/daily_rgames_discussion_suggest_me_a_game_october/
 2026-10-22T16:21:15+00:00	Cancelled Mass Effect Universe: Trailer Leaks https://www.reddit.com/r/Games/comments/1xcn51i/cancelled_mass_effect_universe_trailer_leaks/
-2026-10-22T18:43:46+00:00	Thoughts on AI in game development (from the trenches) https://www.reddit.com/r/Games/comments/1xcr1au/thoughts_on_ai_in_game_development_from_the/
 2026-10-22T19:04:43+00:00	Baldur's Gate 3 has surpassed 23 million copies sold, generating over $1.2 billion in revenue https://www.reddit.com/r/Games/comments/1xcrlqt/baldurs_gate_3_has_surpassed_23_million_copies/
 2026-10-23T01:55:27+00:00	Hackers Have Unlocked Homebrew Access On Switch 2 Less Than 24 Hours After Its First Jailbreak https://www.reddit.com/r/Games/comments/1xd1ahz/hackers_have_unlocked_homebrew_access_on_switch_2/
 2026-10-23T04:21:48+00:00	Shigeru Miyamoto to Become First Gaming Industry Figure to Receive Japan’s Order of Culture https://www.reddit.com/r/Games/comments/1xd46lz/shigeru_miyamoto_to_become_first_gaming_industry/
@@ -28,3 +27,4 @@
 2026-10-23T21:34:56+00:00	Steam's Personal Calendar Full Release https://www.reddit.com/r/Games/comments/1xdqsnb/steams_personal_calendar_full_release/
 2026-10-23T23:13:26+00:00	Civilization: The Oral History https://www.reddit.com/r/Games/comments/1xdt1ee/civilization_the_oral_history/
 2026-10-24T03:24:19+00:00	Franchises Like Mass Effect Are a 'Prestige Project' for EA, and BioWare's Closure Was 'Entirely Predictable,' Analysts Say https://www.reddit.com/r/Games/comments/1xdy1gj/franchises_like_mass_effect_are_a_prestige/
+2026-10-24T03:47:44+00:00	Xbox’s first chief operating officer is out after just a few months https://www.reddit.com/r/Games/comments/1xdygzd/xboxs_first_chief_operating_officer_is_out_after/
