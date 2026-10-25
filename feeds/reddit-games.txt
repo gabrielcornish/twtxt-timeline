@@ -3,13 +3,8 @@
 # source = https://www.reddit.com/r/Games.rss
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
-2026-10-21T11:00:43+00:00	Daily /r/Games Discussion - Suggest Me a Game - October 21, 2026 https://www.reddit.com/r/Games/comments/1xbk2nh/daily_rgames_discussion_suggest_me_a_game_october/
-2026-10-23T13:29:28+00:00	Factorio version 2.1, the final major update for the game, has been released https://www.reddit.com/r/Games/comments/1xde2hi/factorio_version_21_the_final_major_update_for/
-2026-10-23T13:54:14+00:00	[Le Monde] Arkane Lyon has until November 13 to find a buyer, 217 jobs are at risk https://www.reddit.com/r/Games/comments/1xdep7f/le_monde_arkane_lyon_has_until_november_13_to/
 2026-10-23T15:59:22+00:00	Jason Schreier: Despite all the gloomy headlines today, my understanding is that there are multiple paths actively being explored that would save Arkane Lyon. Anything can happen during negotiations, but at this point I'd be surprised if the studio is shut down. https://www.reddit.com/r/Games/comments/1xdi06e/jason_schreier_despite_all_the_gloomy_headlines/
 2026-10-23T16:47:35+00:00	Multiple Reports Say Nvidia Manufactured the Gaming GPU Crisis by Forcing Big Tech to Stockpile Unused AI Hardware https://www.reddit.com/r/Games/comments/1xdjbd1/multiple_reports_say_nvidia_manufactured_the/
-2026-10-23T18:41:28+00:00	Mass Effect 5 Details Revealed Following Cancellation, Including 'Hitman-Style Freedom' in Missions https://www.reddit.com/r/Games/comments/1xdmccv/mass_effect_5_details_revealed_following/
-2026-10-23T20:09:58+00:00	The Legend of Zelda: Ocarina of Time – The Battle for Hyrule Begins – Nintendo Switch 2 https://www.reddit.com/r/Games/comments/1xdoo91/the_legend_of_zelda_ocarina_of_time_the_battle/
 2026-10-23T21:34:56+00:00	Steam's Personal Calendar Full Release https://www.reddit.com/r/Games/comments/1xdqsnb/steams_personal_calendar_full_release/
 2026-10-24T03:24:19+00:00	Franchises Like Mass Effect Are a 'Prestige Project' for EA, and BioWare's Closure Was 'Entirely Predictable,' Analysts Say https://www.reddit.com/r/Games/comments/1xdy1gj/franchises_like_mass_effect_are_a_prestige/
 2026-10-24T03:47:44+00:00	Xbox’s first chief operating officer is out after just a few months https://www.reddit.com/r/Games/comments/1xdygzd/xboxs_first_chief_operating_officer_is_out_after/
@@ -25,6 +20,11 @@
 2026-10-24T23:24:29+00:00	Ashes & Blood - Official Gameplay Trailer https://www.reddit.com/r/Games/comments/1xemxas/ashes_blood_official_gameplay_trailer/
 2026-10-25T01:17:54+00:00	IFComp 2026 Winners Announced https://www.reddit.com/r/Games/comments/1xep9k0/ifcomp_2026_winners_announced/
 2026-10-25T04:00:41+00:00	Indie Sunday Hub - October 25, 2026 https://www.reddit.com/r/Games/comments/1xesefz/indie_sunday_hub_october_25_2026/
-2026-10-25T04:06:29+00:00	Gun Monkey - Madpoly Games - A quirky game that requires your reflexes and timing! https://www.reddit.com/r/Games/comments/1xesiir/gun_monkey_madpoly_games_a_quirky_game_that/
 2026-10-25T04:16:36+00:00	Glowtide Isle - Kul Studio - a cozy island life game where you play as a cat and help relight an old lighthouse https://www.reddit.com/r/Games/comments/1xesp5d/glowtide_isle_kul_studio_a_cozy_island_life_game/
 2026-10-25T04:33:20+00:00	Ice Pond: An Ice Fishing Adventure - Snails Arcade - A cozy winter fishing game with light management and RPG elements https://www.reddit.com/r/Games/comments/1xeszym/ice_pond_an_ice_fishing_adventure_snails_arcade_a/
+2026-10-25T05:41:19+00:00	GridPi: Defense 3014 - HAEPARI - Dice poker and co-op tower defense https://www.reddit.com/r/Games/comments/1xeu6ea/gridpi_defense_3014_haepari_dice_poker_and_coop/
+2026-10-25T08:19:32+00:00	Destined Dungeon Quest - Destined - A Roguelike dungeon crawler with unique combat https://www.reddit.com/r/Games/comments/1xewt7f/destined_dungeon_quest_destined_a_roguelike/
+2026-10-25T08:25:32+00:00	Into The Grid - Flatline Studios - Live your cyberpunk hacker fantasy, infiltrate servers and explore cyberspace! https://www.reddit.com/r/Games/comments/1xewwsb/into_the_grid_flatline_studios_live_your/
+2026-10-25T08:56:01+00:00	Parshuraam: Krishna's Warrior Incarnation - Harikatha Studios - Action and adventure battling demonic forces across celestial realms https://www.reddit.com/r/Games/comments/1xexe9u/parshuraam_krishnas_warrior_incarnation_harikatha/
+2026-10-25T09:00:23+00:00	Weekly /r/Games Discussion - What have you been playing, and what are your thoughts? - October 25, 2026 https://www.reddit.com/r/Games/comments/1xexgu4/weekly_rgames_discussion_what_have_you_been/
+2026-10-25T09:30:43+00:00	Cargo Calling - Vokayl - Social deduction-like(?) https://www.reddit.com/r/Games/comments/1xexyb5/cargo_calling_vokayl_social_deductionlike/
