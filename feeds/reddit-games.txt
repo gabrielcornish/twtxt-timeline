@@ -4,19 +4,13 @@
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
 2026-10-21T11:00:43+00:00	Daily /r/Games Discussion - Suggest Me a Game - October 21, 2026 https://www.reddit.com/r/Games/comments/1xbk2nh/daily_rgames_discussion_suggest_me_a_game_october/
-2026-10-23T10:00:42+00:00	Daily /r/Games Discussion - Free Talk Friday - October 23, 2026 https://www.reddit.com/r/Games/comments/1xd9uws/daily_rgames_discussion_free_talk_friday_october/
-2026-10-23T10:06:04+00:00	Nintendo reportedly blocks access to Switch 2 exploit software, first homebrew tests demonstrated https://www.reddit.com/r/Games/comments/1xd9ye4/nintendo_reportedly_blocks_access_to_switch_2/
 2026-10-23T13:29:28+00:00	Factorio version 2.1, the final major update for the game, has been released https://www.reddit.com/r/Games/comments/1xde2hi/factorio_version_21_the_final_major_update_for/
-2026-10-23T13:30:59+00:00	Factorio - Trailer 2026 https://www.reddit.com/r/Games/comments/1xde43k/factorio_trailer_2026/
-2026-10-23T13:32:01+00:00	Tape to Tape 1.0 Launches Today at Noon (EST) on Steam, Nintendo Switch, PlayStation 5, and Xbox Series X/S https://www.reddit.com/r/Games/comments/1xde4yz/tape_to_tape_10_launches_today_at_noon_est_on/
 2026-10-23T13:54:14+00:00	[Le Monde] Arkane Lyon has until November 13 to find a buyer, 217 jobs are at risk https://www.reddit.com/r/Games/comments/1xdep7f/le_monde_arkane_lyon_has_until_november_13_to/
 2026-10-23T15:59:22+00:00	Jason Schreier: Despite all the gloomy headlines today, my understanding is that there are multiple paths actively being explored that would save Arkane Lyon. Anything can happen during negotiations, but at this point I'd be surprised if the studio is shut down. https://www.reddit.com/r/Games/comments/1xdi06e/jason_schreier_despite_all_the_gloomy_headlines/
-2026-10-23T16:11:25+00:00	[New Frame Plus] The Best Game Animation of 2025 *UPDATED* https://www.reddit.com/r/Games/comments/1xdicoi/new_frame_plus_the_best_game_animation_of_2025/
 2026-10-23T16:47:35+00:00	Multiple Reports Say Nvidia Manufactured the Gaming GPU Crisis by Forcing Big Tech to Stockpile Unused AI Hardware https://www.reddit.com/r/Games/comments/1xdjbd1/multiple_reports_say_nvidia_manufactured_the/
 2026-10-23T18:41:28+00:00	Mass Effect 5 Details Revealed Following Cancellation, Including 'Hitman-Style Freedom' in Missions https://www.reddit.com/r/Games/comments/1xdmccv/mass_effect_5_details_revealed_following/
 2026-10-23T20:09:58+00:00	The Legend of Zelda: Ocarina of Time – The Battle for Hyrule Begins – Nintendo Switch 2 https://www.reddit.com/r/Games/comments/1xdoo91/the_legend_of_zelda_ocarina_of_time_the_battle/
 2026-10-23T21:34:56+00:00	Steam's Personal Calendar Full Release https://www.reddit.com/r/Games/comments/1xdqsnb/steams_personal_calendar_full_release/
-2026-10-23T23:13:26+00:00	Civilization: The Oral History https://www.reddit.com/r/Games/comments/1xdt1ee/civilization_the_oral_history/
 2026-10-24T03:24:19+00:00	Franchises Like Mass Effect Are a 'Prestige Project' for EA, and BioWare's Closure Was 'Entirely Predictable,' Analysts Say https://www.reddit.com/r/Games/comments/1xdy1gj/franchises_like_mass_effect_are_a_prestige/
 2026-10-24T03:47:44+00:00	Xbox’s first chief operating officer is out after just a few months https://www.reddit.com/r/Games/comments/1xdygzd/xboxs_first_chief_operating_officer_is_out_after/
 2026-10-24T12:12:22+00:00	The Hive - Official Trailer https://www.reddit.com/r/Games/comments/1xe72gc/the_hive_official_trailer/
@@ -28,3 +22,9 @@
 2026-10-24T18:57:26+00:00	'I Don't Know if There's Perfecting It' — Call of Duty: Modern Warfare 4 Multiplayer Chief Weighs in on Matchmaking https://www.reddit.com/r/Games/comments/1xegrms/i_dont_know_if_theres_perfecting_it_call_of_duty/
 2026-10-24T20:03:21+00:00	Starship Troopers: Extermination - Flying Hoppers, Camp Rasczak, and more https://www.reddit.com/r/Games/comments/1xeiebv/starship_troopers_extermination_flying_hoppers/
 2026-10-24T22:23:04+00:00	Metal Gear Online 2 (SaveMGO) now runs natively on PC. 120 FPS, SteamDeck support and full cross-play with PS3. https://www.reddit.com/r/Games/comments/1xelmld/metal_gear_online_2_savemgo_now_runs_natively_on/
+2026-10-24T23:24:29+00:00	Ashes & Blood - Official Gameplay Trailer https://www.reddit.com/r/Games/comments/1xemxas/ashes_blood_official_gameplay_trailer/
+2026-10-25T01:17:54+00:00	IFComp 2026 Winners Announced https://www.reddit.com/r/Games/comments/1xep9k0/ifcomp_2026_winners_announced/
+2026-10-25T04:00:41+00:00	Indie Sunday Hub - October 25, 2026 https://www.reddit.com/r/Games/comments/1xesefz/indie_sunday_hub_october_25_2026/
+2026-10-25T04:06:29+00:00	Gun Monkey - Madpoly Games - A quirky game that requires your reflexes and timing! https://www.reddit.com/r/Games/comments/1xesiir/gun_monkey_madpoly_games_a_quirky_game_that/
+2026-10-25T04:16:36+00:00	Glowtide Isle - Kul Studio - a cozy island life game where you play as a cat and help relight an old lighthouse https://www.reddit.com/r/Games/comments/1xesp5d/glowtide_isle_kul_studio_a_cozy_island_life_game/
+2026-10-25T04:33:20+00:00	Ice Pond: An Ice Fishing Adventure - Snails Arcade - A cozy winter fishing game with light management and RPG elements https://www.reddit.com/r/Games/comments/1xeszym/ice_pond_an_ice_fishing_adventure_snails_arcade_a/
