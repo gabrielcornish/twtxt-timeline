@@ -3,7 +3,6 @@
 # source = https://www.reddit.com/r/Games.rss
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
-2026-10-24T03:24:19+00:00	Franchises Like Mass Effect Are a 'Prestige Project' for EA, and BioWare's Closure Was 'Entirely Predictable,' Analysts Say https://www.reddit.com/r/Games/comments/1xdy1gj/franchises_like_mass_effect_are_a_prestige/
 2026-10-24T13:48:24+00:00	"This was not a Creative Assembly developed game": Total War boss points the finger at external partner for Shogun 2 Complete Edition disaster https://www.reddit.com/r/Games/comments/1xe9501/this_was_not_a_creative_assembly_developed_game/
 2026-10-24T14:02:46+00:00	Look Outside coming to PS5, Switch 2, PS4, and Switch on October 30 https://www.reddit.com/r/Games/comments/1xe9hcs/look_outside_coming_to_ps5_switch_2_ps4_and/
 2026-10-24T15:56:51+00:00	Japan Actors Union reveals new guidelines to combat unauthorized AI voice cloning, including strict ban on copying voices of deceased seiyuu https://www.reddit.com/r/Games/comments/1xec8x8/japan_actors_union_reveals_new_guidelines_to/
@@ -19,12 +18,13 @@
 2026-10-25T04:00:41+00:00	Indie Sunday Hub - October 25, 2026 https://www.reddit.com/r/Games/comments/1xesefz/indie_sunday_hub_october_25_2026/
 2026-10-25T08:25:32+00:00	Into The Grid - Flatline Studios - Live your cyberpunk hacker fantasy, infiltrate servers and explore cyberspace! https://www.reddit.com/r/Games/comments/1xewwsb/into_the_grid_flatline_studios_live_your/
 2026-10-25T09:00:23+00:00	Weekly /r/Games Discussion - What have you been playing, and what are your thoughts? - October 25, 2026 https://www.reddit.com/r/Games/comments/1xexgu4/weekly_rgames_discussion_what_have_you_been/
-2026-10-25T10:35:46+00:00	Gembound - Denis Solonenko - A turn-based match-3 RPG where you build the gem satchel https://www.reddit.com/r/Games/comments/1xez1d3/gembound_denis_solonenko_a_turnbased_match3_rpg/
-2026-10-25T11:01:16+00:00	Evidence Vault - Skymonq Games - A first-person police archive simulator about restoring decades of forgotten evidence https://www.reddit.com/r/Games/comments/1xezhf8/evidence_vault_skymonq_games_a_firstperson_police/
 2026-10-25T11:24:23+00:00	Distant Isles - worldform - Sail the seas, build your crew and explore treacherous islands in this turn-based strategy game https://www.reddit.com/r/Games/comments/1xezwb7/distant_isles_worldform_sail_the_seas_build_your/
 2026-10-25T11:29:41+00:00	Pioneers of Pagonia - Envision Entertainment - Relaxing City Builder with 2 new DLCs released! https://www.reddit.com/r/Games/comments/1xezznn/pioneers_of_pagonia_envision_entertainment/
 2026-10-25T13:18:40+00:00	Indies and original IP blew up in 2026. More than half of the games that sold more than 500,000 units in their first month were the start of a new series, and 43% were indies https://www.reddit.com/r/Games/comments/1xf26bp/indies_and_original_ip_blew_up_in_2026_more_than/
-2026-10-25T13:52:17+00:00	Whirlight - No Time To Trip - imaginarylab - An adventure game about an unforgettable journey across space and time. https://www.reddit.com/r/Games/comments/1xf2x9l/whirlight_no_time_to_trip_imaginarylab_an/
-2026-10-25T14:00:25+00:00	Iron Dice - Colin Teberg - Build a kingdom through industry, diplomacy and war https://www.reddit.com/r/Games/comments/1xf344x/iron_dice_colin_teberg_build_a_kingdom_through/
-2026-10-25T14:01:26+00:00	DON'T BLINK - Collateral Damage - A horror game where monsters only move when you blink, and the game watches you through your webcam https://www.reddit.com/r/Games/comments/1xf357m/dont_blink_collateral_damage_a_horror_game_where/
 2026-10-25T14:03:21+00:00	Big Dig - Bird Gang - Silly Narrative Incremental about helping Mayor Dog dig out a highway. Released this week and already at 480+ reviews, 96% positive! https://www.reddit.com/r/Games/comments/1xf36w9/big_dig_bird_gang_silly_narrative_incremental/
+2026-10-25T14:22:59+00:00	An English Patch for Tokimeki Memorial: Forever With You on PS1 is now available https://www.reddit.com/r/Games/comments/1xf3o07/an_english_patch_for_tokimeki_memorial_forever/
+2026-10-25T14:26:44+00:00	Valve adds CD-ROM drive support to Steam Frame kernel, took less than ten minutes — update comes one day after user requests for capability in the Steam Community forum https://www.reddit.com/r/Games/comments/1xf3r9o/valve_adds_cdrom_drive_support_to_steam_frame/
+2026-10-25T15:05:18+00:00	Strange Seed - Chronicle Games - Eat, evolve & adventure through a Spore-like RPG world https://www.reddit.com/r/Games/comments/1xf4pdt/strange_seed_chronicle_games_eat_evolve_adventure/
+2026-10-25T16:00:13+00:00	Rogue Zodiacs - QueL Games - Roguelite with a "survivor-like but turn-based" gameplay https://www.reddit.com/r/Games/comments/1xf62id/rogue_zodiacs_quel_games_roguelite_with_a/
+2026-10-25T16:38:02+00:00	Tomb Raider: Legacy of Atlantis 30th Anniversary Teaser Video https://www.reddit.com/r/Games/comments/1xf71zw/tomb_raider_legacy_of_atlantis_30th_anniversary/
+2026-10-25T17:21:51+00:00	Ardenfall - Spellcast Studios - Morrowind-like RPG set in a strange world, with open-ended quests and exploration https://www.reddit.com/r/Games/comments/1xf86fs/ardenfall_spellcast_studios_morrowindlike_rpg_set/
