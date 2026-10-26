@@ -3,11 +3,6 @@
 # source = https://www.gamesindustry.biz/feed
 # description = twtxt conversion of https://www.gamesindustry.biz/feed
 
-2026-10-15T08:09:37+00:00	Ubisoft to reduce workforce across Düsseldorf, Berlin, and Mainz as part of "proposed voluntary departure plan" https://www.gamesindustry.biz/ubisoft-to-reduce-workforce-across-dusseldorf-berlin-and-mainz-as-part-of-proposed-voluntary-departure-plan
-2026-10-15T09:35:29+00:00	Epic Games claims its new "vibe coded" launcher runs 46% faster than Steam from cold start to store page https://www.gamesindustry.biz/epic-games-claims-its-new-vibe-coded-launcher-runs-46-faster-than-steam-from-cold-start-to-store-page
-2026-10-15T11:08:03+00:00	House House will not release Big Walk on Xbox in support of pro-Palestinian BDS campaign https://www.gamesindustry.biz/house-house-will-not-release-big-walk-on-xbox-in-support-of-pro-palestinian-bds-campaign
-2026-10-15T12:30:00+00:00	An oral history of the Tomb Raider game no one wanted to make https://www.gamesindustry.biz/an-oral-history-of-the-tomb-raider-game-no-one-wanted-to-make
-2026-10-15T13:25:49+00:00	Reforj developer 4J Studios announces PC release date at Game Republic New Horizons https://www.gamesindustry.biz/reforj-developer-4j-studios-announces-pc-release-date-at-game-republic-new-horizons
 2026-10-15T14:31:28+00:00	DayZ creator Dean Hall releases open-source game development framework Brutal https://www.gamesindustry.biz/dayz-creator-dean-hall-releases-open-source-game-development-framework-brutal
 2026-10-16T08:22:20+00:00	Sega and Creative Assembly remove Total War: Shogun 2 remaster from sale as it "falls short of both your expectations and our own standards" https://www.gamesindustry.biz/sega-and-creative-assembly-remove-total-war-shogun-2-remaster-from-sale-as-it-falls-short-of-both-your-expectations-and-our-own-standards
 2026-10-16T09:27:33+00:00	Fishlabs announces layoffs due to "changing project requirements," development and support teams affected https://www.gamesindustry.biz/fishlabs-announces-layoffs-due-to-changing-project-requirements-development-and-support-teams-affected
@@ -53,3 +48,8 @@
 2026-10-26T10:52:14+00:00	Microsoft extends consultation period for Arkane Lyon as it continues development on Marvel's Blade https://www.gamesindustry.biz/microsoft-extends-consultation-period-for-arkane-lyon-as-it-continues-development-on-marvels-blade
 2026-10-26T13:02:57+00:00	Netflix reportedly offered $500m to Microsoft to license Xbox IP for seven years https://www.gamesindustry.biz/netflix-reportedly-offered-500m-to-microsoft-to-license-xbox-ip-for-seven-years
 2026-10-26T13:30:00+00:00	"It was a pretty harrowing three months" – Undead Labs head Philip Holt on what happened after Xbox cut the studio loose https://www.gamesindustry.biz/it-was-a-pretty-harrowing-three-months-undead-labs-head-philip-holt-on-what-happened-after-xbox-cut-the-studio-loose
+2026-10-26T14:33:18+00:00	Side expands presence in China, opens new studio and acquires art outsourcing provider Roboto Entertainment https://www.gamesindustry.biz/side-expands-presence-in-china-opens-new-studio-and-acquires-art-outsourcing-provider-roboto-entertainment
+2026-10-26T16:33:59+00:00	Paris Games Biz showcased a guarded optimism in the face of turmoil, both locally and in the industry at large | Opinion https://www.gamesindustry.biz/paris-games-biz-showcased-a-guarded-optimism-in-the-face-of-turmoil-locally-and-in-the-industry-at-large-opinion
+2026-10-26T18:05:17+00:00	223,000+ people sign petition to "save Mass Effect" https://www.gamesindustry.biz/223000-people-sign-petition-to-save-mass-effect
+2026-10-26T18:20:01+00:00	Auroch Digital lays off a quarter of its staff https://www.gamesindustry.biz/auroch-digital-lays-off-a-quarter-of-its-staff
+2026-10-26T19:54:19+00:00	Epic Games CEO calls Steam's AI disclosure policies "a political act" https://www.gamesindustry.biz/epic-games-ceo-calls-steams-ai-disclosure-policies-a-political-act

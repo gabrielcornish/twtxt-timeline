@@ -4,22 +4,22 @@
 # description = twtxt conversion of https://bearblog.dev/discover/feed/
 
 2026-10-23T16:24:00+00:00	We are all living inside of an obscure sci-fi film from 1970 https://thanksforthatjim.bearblog.dev/we-are-all-living-inside-of-an-obscure-sci-fi-film-from-1970/
-2026-10-24T03:05:33.229581+00:00	I'm SO nervous for tomorrow https://reedybear.bearblog.dev/im-so-nervous-for-tomorrow/
-2026-10-24T03:59:00+00:00	so NOW you care???? https://icyti.me/so-now-you-care/
-2026-10-24T18:45:08.472638+00:00	7 Months Sober https://boogerdiary.bearblog.dev/7-months-sober/
+2026-10-24T18:45:00+00:00	7 Months Sober https://boogerdiary.bearblog.dev/7-months-sober/
 2026-10-24T22:34:00+00:00	I won’t let my husband see my blog https://littleducky.bearblog.dev/i-wont-let-my-husband-see-my-blog/
-2026-10-25T04:35:00+00:00	A Drawer Full of Ramune Marbles https://actualspine.bearblog.dev/a-drawer-full-of-ramune-marbles/
 2026-10-25T05:23:00+00:00	on letting myself be an inconvenience https://midnight.bearblog.dev/on-letting-myself-be-an-inconvenience/
-2026-10-25T10:30:31.062405+00:00	More disabled than you think https://tismlens.net/more-disabled-than-you-think/
 2026-10-25T10:34:00+00:00	my ffxiv character https://blog.avas.space/ffxiv/
 2026-10-25T12:32:00+00:00	Music tips from AI? No slop, please https://thoughts.pivic.com/music-tips-from-ai-no-slop-please/
 2026-10-25T13:06:00+00:00	What Is A Tool? https://blog.enceledean.com/what-is-a-tool/
 2026-10-25T14:06:37.680924+00:00	I actually started journaling! https://forkingmad.blog/i-actually-started-journaling/
-2026-10-25T14:33:03.708935+00:00	...five dumb lists! https://coreyblogs.com/five-dumb-lists/
+2026-10-25T14:33:00+00:00	...five dumb lists! [Updated] https://coreyblogs.com/five-dumb-lists/
 2026-10-25T15:32:00+00:00	💌 Newsletter #018 - Muse-ings, Many Data Breaches, and... 4 https://technically-good.ca/newsletter/018-2026-10-25/
 2026-10-25T21:07:54.710978+00:00	Unlearning Adulthood https://aishwaryagoel.com/unlearning-adulthood/
 2026-10-25T23:42:00+00:00	24, already? https://anotherjournal.bearblog.dev/24-already/
 2026-10-26T02:05:00+00:00	Being called a "Heretic" and a "Cultist" in the Indonesian TTRPG scene https://afraidofencounters.bearblog.dev/being-called-a-heretic-and-a-cultist-in-the-indonesian-ttrpg-scene/
-2026-10-26T02:47:00+00:00	it's just a bad day, not a bad life https://tiramisu.bearblog.dev/bad-day/
-2026-10-26T03:13:27.272999+00:00	on loneliness https://sundries.bearblog.dev/on-loneliness/
 2026-10-26T10:24:02.036955+00:00	a list of very stupid blogpost ideas i will almost certainly not use for anything https://kami.bearblog.dev/a-list-of-very-stupid-blogpost-ideas-i-will-almost-certainly-not-use-for-anything/
+2026-10-26T14:02:19.460275+00:00	being honest about mental illness https://ostinato.bearblog.dev/being-honest-about-mental-illness/
+2026-10-26T14:28:00+00:00	Minimum Viable Cities https://dungeonmecha.bearblog.dev/minimum-viable-cities/
+2026-10-26T15:50:00+00:00	world, don't stop watching Brasil https://spindlecrow.space/world-dont-stop-watching-brasil/
+2026-10-26T16:29:06.478769+00:00	A few of my favorite software documentaries https://nate.spot/software-documentaries/
+2026-10-26T17:51:00+00:00	How a shift in colour can completely change a scene https://annoflo.net/change-colour/
+2026-10-26T18:41:22.018676+00:00	Pac-Man Fucks https://makebad.games/pac-man-fucks/
