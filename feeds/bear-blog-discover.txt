@@ -3,14 +3,12 @@
 # source = https://bearblog.dev/discover/feed/
 # description = twtxt conversion of https://bearblog.dev/discover/feed/
 
-2026-10-22T17:43:00+00:00	S.F. in the age of A.I. https://lnebres.bearblog.dev/sf-in-the-age-of-ai/
 2026-10-23T16:24:00+00:00	We are all living inside of an obscure sci-fi film from 1970 https://thanksforthatjim.bearblog.dev/we-are-all-living-inside-of-an-obscure-sci-fi-film-from-1970/
 2026-10-24T03:05:33.229581+00:00	I'm SO nervous for tomorrow https://reedybear.bearblog.dev/im-so-nervous-for-tomorrow/
 2026-10-24T03:59:00+00:00	so NOW you care???? https://icyti.me/so-now-you-care/
 2026-10-24T18:33:12.256871+00:00	Ethos, Pathos, Logos: Game Texts as Texts, Part I https://jaredsinclair.bearblog.dev/ethos-pathos-logos-game-texts-as-texts-part-i/
 2026-10-24T18:45:08.472638+00:00	7 Months Sober https://boogerdiary.bearblog.dev/7-months-sober/
 2026-10-24T22:34:00+00:00	I won’t let my husband see my blog https://littleducky.bearblog.dev/i-wont-let-my-husband-see-my-blog/
-2026-10-25T03:43:00+00:00	Further remarks on the online dogs https://blog.lauramichet.com/further-remarks-on-the-online-dogs/
 2026-10-25T04:35:00+00:00	A Drawer Full of Ramune Marbles https://actualspine.bearblog.dev/a-drawer-full-of-ramune-marbles/
 2026-10-25T05:23:00+00:00	on letting myself be an inconvenience https://midnight.bearblog.dev/on-letting-myself-be-an-inconvenience/
 2026-10-25T10:30:31.062405+00:00	More disabled than you think https://tismlens.net/more-disabled-than-you-think/
@@ -23,3 +21,5 @@
 2026-10-25T15:32:00+00:00	💌 Newsletter #018 - Muse-ings, Many Data Breaches, and... 4 https://technically-good.ca/newsletter/018-2026-10-25/
 2026-10-25T16:01:00+00:00	Air-Breather; Sage-of-Sea https://unturnedhovel.bearblog.dev/air-breather-sage-of-sea/
 2026-10-25T21:07:54.710978+00:00	Unlearning Adulthood https://aishwaryagoel.com/unlearning-adulthood/
+2026-10-25T23:42:00+00:00	24, already? https://anotherjournal.bearblog.dev/24-already/
+2026-10-26T02:05:00+00:00	Being called a "Heretic" and a "Cultist" in the Indonesian TTRPG scene https://afraidofencounters.bearblog.dev/being-called-a-heretic-and-a-cultist-in-the-indonesian-ttrpg-scene/

@@ -10,9 +10,9 @@
 2026-10-24T18:57:26+00:00	'I Don't Know if There's Perfecting It' — Call of Duty: Modern Warfare 4 Multiplayer Chief Weighs in on Matchmaking https://www.reddit.com/r/Games/comments/1xegrms/i_dont_know_if_theres_perfecting_it_call_of_duty/
 2026-10-24T20:58:54+00:00	Dead Space Remake's Infamous Traversal Stutters Finally Tamed By Ishimura Patch Mod — Our Tests Show 176% Higher 0.1% Lows https://www.reddit.com/r/Games/comments/1xejpi3/dead_space_remakes_infamous_traversal_stutters/
 2026-10-24T22:23:04+00:00	Metal Gear Online 2 (SaveMGO) now runs natively on PC. 120 FPS, SteamDeck support and full cross-play with PS3. https://www.reddit.com/r/Games/comments/1xelmld/metal_gear_online_2_savemgo_now_runs_natively_on/
-2026-10-25T04:00:41+00:00	Indie Sunday Hub - October 25, 2026 https://www.reddit.com/r/Games/comments/1xesefz/indie_sunday_hub_october_25_2026/
 2026-10-25T08:25:32+00:00	Into The Grid - Flatline Studios - Live your cyberpunk hacker fantasy, infiltrate servers and explore cyberspace! https://www.reddit.com/r/Games/comments/1xewwsb/into_the_grid_flatline_studios_live_your/
 2026-10-25T09:00:23+00:00	Weekly /r/Games Discussion - What have you been playing, and what are your thoughts? - October 25, 2026 https://www.reddit.com/r/Games/comments/1xexgu4/weekly_rgames_discussion_what_have_you_been/
+2026-10-25T11:24:23+00:00	Distant Isles - worldform - Sail the seas, build your crew and explore treacherous islands in this turn-based strategy game https://www.reddit.com/r/Games/comments/1xezwb7/distant_isles_worldform_sail_the_seas_build_your/
 2026-10-25T11:29:41+00:00	Pioneers of Pagonia - Envision Entertainment - Relaxing City Builder with 2 new DLCs released! https://www.reddit.com/r/Games/comments/1xezznn/pioneers_of_pagonia_envision_entertainment/
 2026-10-25T13:18:40+00:00	Indies and original IP blew up in 2026. More than half of the games that sold more than 500,000 units in their first month were the start of a new series, and 43% were indies https://www.reddit.com/r/Games/comments/1xf26bp/indies_and_original_ip_blew_up_in_2026_more_than/
 2026-10-25T14:03:21+00:00	Big Dig - Bird Gang - Silly Narrative Incremental about helping Mayor Dog dig out a highway. Released this week and already at 480+ reviews, 96% positive! https://www.reddit.com/r/Games/comments/1xf36w9/big_dig_bird_gang_silly_narrative_incremental/
@@ -27,4 +27,4 @@
 2026-10-25T22:06:51+00:00	DF Retro: Inside The Embracer Games Archive (Massive physical game + game hardware for developers, researchers etc) https://www.reddit.com/r/Games/comments/1xff90x/df_retro_inside_the_embracer_games_archive/
 2026-10-26T00:01:43+00:00	Phantom Blade Zero Review Thread https://www.reddit.com/r/Games/comments/1xfhuji/phantom_blade_zero_review_thread/
 2026-10-26T00:02:07+00:00	Waterline - SnapJoy Games - PS1-style flood survival horror https://www.reddit.com/r/Games/comments/1xfhuva/waterline_snapjoy_games_ps1style_flood_survival/
-2026-10-26T00:02:26+00:00	The Beast Awoke to Eat Your Darlings - QUIRKIGAMI - Surreal puzzle horror game https://www.reddit.com/r/Games/comments/1xfhv44/the_beast_awoke_to_eat_your_darlings_quirkigami/
+2026-10-26T02:10:52+00:00	We Will Die For You - Front Porch Games - An incremental action game where you play as a white blood cell https://www.reddit.com/r/Games/comments/1xfklvh/we_will_die_for_you_front_porch_games_an/
