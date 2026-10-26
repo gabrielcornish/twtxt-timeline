@@ -3,10 +3,6 @@
 # source = https://www.gamesindustry.biz/feed
 # description = twtxt conversion of https://www.gamesindustry.biz/feed
 
-2026-10-14T16:34:08+00:00	Funcom to lay off staff as it pivots to focusing solely on Conan Exiles and Dune: Awakening https://www.gamesindustry.biz/funcom-to-lay-off-staff-as-it-pivots-to-focusing-solely-on-conan-exiles-and-dune-awakening
-2026-10-14T17:58:59+00:00	S&box plans to go free-to-play and embrace human curation saying "Netflix for games doesn't work" https://www.gamesindustry.biz/sbox-plans-to-go-free-to-play-and-embrace-human-curation-saying-netflix-for-games-doesnt-work
-2026-10-14T19:45:48+00:00	Duke Nukem 3D level designer Richard "Levelord" Gray dies aged 68 https://www.gamesindustry.biz/duke-nukem-3d-level-designer-richard-levelord-gray-dies-aged-68
-2026-10-14T21:02:24+00:00	Google Play adds Game Finder, Sprints, and Sidekick Playbacks in discovery push https://www.gamesindustry.biz/google-play-adds-game-finder-sprints-and-sidekick-playbacks-in-discovery-push
 2026-10-15T08:09:37+00:00	Ubisoft to reduce workforce across Düsseldorf, Berlin, and Mainz as part of "proposed voluntary departure plan" https://www.gamesindustry.biz/ubisoft-to-reduce-workforce-across-dusseldorf-berlin-and-mainz-as-part-of-proposed-voluntary-departure-plan
 2026-10-15T09:35:29+00:00	Epic Games claims its new "vibe coded" launcher runs 46% faster than Steam from cold start to store page https://www.gamesindustry.biz/epic-games-claims-its-new-vibe-coded-launcher-runs-46-faster-than-steam-from-cold-start-to-store-page
 2026-10-15T11:08:03+00:00	House House will not release Big Walk on Xbox in support of pro-Palestinian BDS campaign https://www.gamesindustry.biz/house-house-will-not-release-big-walk-on-xbox-in-support-of-pro-palestinian-bds-campaign
@@ -53,3 +49,7 @@
 2026-10-23T13:06:01+00:00	Nintendo veteran Shigeru Miyamoto to receive Japan's Order of Culture award https://www.gamesindustry.biz/nintendo-veteran-shigeru-miyamoto-to-receive-japans-order-of-culture-award
 2026-10-23T13:52:52+00:00	GameMaker to make its "next-generation runtime" GMRT free for commercial use in January 2027 https://www.gamesindustry.biz/gamemaker-to-make-its-next-generation-runtime-gmrt-free-for-commercial-use-in-january-2027
 2026-10-23T15:04:13+00:00	BioWare's end is a tragically familiar tale | Opinion https://www.gamesindustry.biz/biowares-end-is-a-tragically-familiar-tale-opinion
+2026-10-26T08:40:16+00:00	Shogun 2 – Complete Edition was "not a Creative Assembly developed game," says Total War VP after it was pulled amid generative AI concerns https://www.gamesindustry.biz/shogun-2-complete-edition-was-not-a-creative-assembly-developed-game-says-total-war-vp-after-it-was-pulled-amid-generative-ai-concerns
+2026-10-26T10:52:14+00:00	Microsoft extends consultation period for Arkane Lyon as it continues development on Marvel's Blade https://www.gamesindustry.biz/microsoft-extends-consultation-period-for-arkane-lyon-as-it-continues-development-on-marvels-blade
+2026-10-26T13:02:57+00:00	Netflix reportedly offered $500m to Microsoft to license Xbox IP for seven years https://www.gamesindustry.biz/netflix-reportedly-offered-500m-to-microsoft-to-license-xbox-ip-for-seven-years
+2026-10-26T13:30:00+00:00	"It was a pretty harrowing three months" – Undead Labs head Philip Holt on what happened after Xbox cut the studio loose https://www.gamesindustry.biz/it-was-a-pretty-harrowing-three-months-undead-labs-head-philip-holt-on-what-happened-after-xbox-cut-the-studio-loose
