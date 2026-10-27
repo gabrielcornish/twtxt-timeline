@@ -4,22 +4,10 @@
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
 2026-10-25T09:00:23+00:00	Weekly /r/Games Discussion - What have you been playing, and what are your thoughts? - October 25, 2026 https://www.reddit.com/r/Games/comments/1xexgu4/weekly_rgames_discussion_what_have_you_been/
-2026-10-25T14:26:44+00:00	Valve adds CD-ROM drive support to Steam Frame kernel, took less than ten minutes — update comes one day after user requests for capability in the Steam Community forum https://www.reddit.com/r/Games/comments/1xf3r9o/valve_adds_cdrom_drive_support_to_steam_frame/
-2026-10-26T00:01:43+00:00	Phantom Blade Zero Review Thread https://www.reddit.com/r/Games/comments/1xfhuji/phantom_blade_zero_review_thread/
-2026-10-26T07:34:35+00:00	30 years of “Tomb Raider”: Destined for success https://www.reddit.com/r/Games/comments/1xfqa40/30_years_of_tomb_raider_destined_for_success/
-2026-10-26T14:03:07+00:00	Golden Joystick's "Ultimate Game of the Year" nominees are revealed, and votes for the winner are open until October 30 https://www.reddit.com/r/Games/comments/1xfxpio/golden_joysticks_ultimate_game_of_the_year/
 2026-10-26T14:23:30+00:00	Konami deliberately kept its multiple Silent Hill games secret from each studio, to avoid ideas crossing over https://www.reddit.com/r/Games/comments/1xfy8r9/konami_deliberately_kept_its_multiple_silent_hill/
-2026-10-26T15:47:04+00:00	Kairosoft just released a new One Piece licensed game https://www.reddit.com/r/Games/comments/1xg0iq6/kairosoft_just_released_a_new_one_piece_licensed/
 2026-10-26T16:15:30+00:00	Epic CEO Tim Sweeney lambasts “abhorrent” Steam AI Disclosure Policy claiming labels double as “political statement” https://www.reddit.com/r/Games/comments/1xg1btm/epic_ceo_tim_sweeney_lambasts_abhorrent_steam_ai/
 2026-10-26T16:21:11+00:00	Layoffs Hit Ghost Of Yotei Developer Sucker Punch https://www.reddit.com/r/Games/comments/1xg1hqq/layoffs_hit_ghost_of_yotei_developer_sucker_punch/
-2026-10-26T17:03:44+00:00	Final Fantasy VII Revelation - Chocobo Exploration Gameplay https://www.reddit.com/r/Games/comments/1xg2nvn/final_fantasy_vii_revelation_chocobo_exploration/
-2026-10-26T17:37:18+00:00	Assassin's Creed Black Flag Resynced New Game + Update releases Oct 27th https://www.reddit.com/r/Games/comments/1xg3l7t/assassins_creed_black_flag_resynced_new_game/
-2026-10-26T18:02:09+00:00	"We've finally found the strength to SEEK A WAY OUT of the dark prison we've been trapped in" - Kotaro Uchikoshi on CRASH KEYS, ARGs, Zero Escape, Too Kyo Games, movies, coffee, and much more https://www.reddit.com/r/Games/comments/1xg4a4x/weve_finally_found_the_strength_to_seek_a_way_out/
-2026-10-26T18:23:52+00:00	Auroch Digital Announces Layoffs Affecting Around a Quarter of Staff https://www.reddit.com/r/Games/comments/1xg4vww/auroch_digital_announces_layoffs_affecting_around/
-2026-10-26T18:24:09+00:00	S.T.A.L.K.E.R. 2: Heart of Chornobyl - The Zone Lookout - Update 2.1 https://www.reddit.com/r/Games/comments/1xg4w6u/stalker_2_heart_of_chornobyl_the_zone_lookout/
 2026-10-26T20:14:44+00:00	Mass Effect fans ramp up efforts to save BioWare's RPG series with a Times Square billboard and plans for more ads outside The Game Awards "funded by the community" https://www.reddit.com/r/Games/comments/1xg7v8b/mass_effect_fans_ramp_up_efforts_to_save_biowares/
-2026-10-26T20:22:39+00:00	Arisen Force: Vonimir - The WORLD-PV 2026 https://www.reddit.com/r/Games/comments/1xg82vf/arisen_force_vonimir_the_worldpv_2026/
-2026-10-26T20:23:14+00:00	Emberville Delayed From Oct 27 2026 To Jan 7 2027 One Day Before Launch https://www.reddit.com/r/Games/comments/1xg83ga/emberville_delayed_from_oct_27_2026_to_jan_7_2027/
 2026-10-26T20:28:59+00:00	Austin Wintory releases Mass Effect 5 early musical drafts https://www.reddit.com/r/Games/comments/1xg891e/austin_wintory_releases_mass_effect_5_early/
 2026-10-27T02:45:14+00:00	Avatar Legends: The Fighting Game Reimagined Avatar State Aang VS. Nightmare Korra coming October 28 https://www.reddit.com/r/Games/comments/1xgh261/avatar_legends_the_fighting_game_reimagined/
 2026-10-27T03:51:39+00:00	Ashes of the Singularity II - Launch Trailer | Massive-Scale RTS https://www.reddit.com/r/Games/comments/1xgie4w/ashes_of_the_singularity_ii_launch_trailer/
@@ -28,3 +16,15 @@
 2026-10-27T08:38:54+00:00	Jabba's Palace Update released on ModDB! | Star Wars Battlefront 2 Remastered Project https://www.reddit.com/r/Games/comments/1xgn3cm/jabbas_palace_update_released_on_moddb_star_wars/
 2026-10-27T11:01:51+00:00	New Capcom Sales Report: Onimusha: Way of the Sword surpasses 1.7 million sales, Devil May Cry 5 nears 15 million, Resident Evil 4 (2023) reaches 17 million https://www.reddit.com/r/Games/comments/1xgph0a/new_capcom_sales_report_onimusha_way_of_the_sword/
 2026-10-27T11:59:04+00:00	Bad Ice Cream Triple Scoop [By Nitrome] - Announcement Trailer https://www.reddit.com/r/Games/comments/1xgqkab/bad_ice_cream_triple_scoop_by_nitrome/
+2026-10-27T13:13:00+00:00	A look back at The Game Awards 2025 Trailers and Announcements and how they reviewed! https://www.reddit.com/r/Games/comments/1xgs66b/a_look_back_at_the_game_awards_2025_trailers_and/
+2026-10-27T13:47:48+00:00	Nintendo Indie World Showcase announced for October 28, 2026 https://www.reddit.com/r/Games/comments/1xgt0i4/nintendo_indie_world_showcase_announced_for/
+2026-10-27T13:51:23+00:00	Best Games of Next Fest, No AI - Best of the Fest October 2026 https://www.reddit.com/r/Games/comments/1xgt3mk/best_games_of_next_fest_no_ai_best_of_the_fest/
+2026-10-27T14:10:54+00:00	"I don't want to work at this place anymore:" EA workers decry mismanagement and corporate greed after mass layoffs https://www.reddit.com/r/Games/comments/1xgtlmx/i_dont_want_to_work_at_this_place_anymore_ea/
+2026-10-27T15:32:13+00:00	Active Matter surpasses 500,000 copies sold https://www.reddit.com/r/Games/comments/1xgvpcv/active_matter_surpasses_500000_copies_sold/
+2026-10-27T16:39:24+00:00	Bad Ice Cream Resort [By Nitrome] - Official Trailer https://www.reddit.com/r/Games/comments/1xgxjjo/bad_ice_cream_resort_by_nitrome_official_trailer/
+2026-10-27T16:52:56+00:00	Transformers Reactivate gameplay trailer leaks online https://www.reddit.com/r/Games/comments/1xgxx95/transformers_reactivate_gameplay_trailer_leaks/
+2026-10-27T17:18:51+00:00	Grand Theft Auto 6 Download Size Revealed To Be 210 GB https://www.reddit.com/r/Games/comments/1xgyngk/grand_theft_auto_6_download_size_revealed_to_be/
+2026-10-27T17:21:03+00:00	WARPATH | World of Warcraft: Forever AMV Launch Trailer https://www.reddit.com/r/Games/comments/1xgypik/warpath_world_of_warcraft_forever_amv_launch/
+2026-10-27T17:22:37+00:00	Official Statement from Warhorse Studios Regarding Cybersecurity Incident https://www.reddit.com/r/Games/comments/1xgyqzu/official_statement_from_warhorse_studios/
+2026-10-27T17:44:03+00:00	Jason Schreier: Big news from the Independent Workers Union of Great Britain: Employees at Rockstar Games in the UK will hold a union vote next month, just as they release Grand Theft Auto VI https://www.reddit.com/r/Games/comments/1xgzc51/jason_schreier_big_news_from_the_independent/
+2026-10-27T18:19:35+00:00	OpenCNC 3D + RA3D Announcement Trailer https://www.reddit.com/r/Games/comments/1xh0bfe/opencnc_3d_ra3d_announcement_trailer/

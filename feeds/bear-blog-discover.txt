@@ -6,15 +6,9 @@
 2026-10-24T18:45:00+00:00	7 Months Sober https://boogerdiary.bearblog.dev/7-months-sober/
 2026-10-24T22:34:00+00:00	I won’t let my husband see my blog https://littleducky.bearblog.dev/i-wont-let-my-husband-see-my-blog/
 2026-10-25T05:23:00+00:00	on letting myself be an inconvenience https://midnight.bearblog.dev/on-letting-myself-be-an-inconvenience/
-2026-10-25T13:06:00+00:00	What Is A Tool? https://blog.enceledean.com/what-is-a-tool/
-2026-10-25T14:33:00+00:00	...five dumb lists! [Updated] https://coreyblogs.com/five-dumb-lists/
 2026-10-25T15:32:00+00:00	💌 Newsletter #018 - Muse-ings, Many Data Breaches, and... 4 https://technically-good.ca/newsletter/018-2026-10-25/
-2026-10-25T21:07:54.710978+00:00	Unlearning Adulthood https://aishwaryagoel.com/unlearning-adulthood/
-2026-10-25T23:42:00+00:00	24, already? https://anotherjournal.bearblog.dev/24-already/
 2026-10-26T02:05:00+00:00	Being called a "Heretic" and a "Cultist" in the Indonesian TTRPG scene https://afraidofencounters.bearblog.dev/being-called-a-heretic-and-a-cultist-in-the-indonesian-ttrpg-scene/
 2026-10-26T10:24:02.036955+00:00	a list of very stupid blogpost ideas i will almost certainly not use for anything https://kami.bearblog.dev/a-list-of-very-stupid-blogpost-ideas-i-will-almost-certainly-not-use-for-anything/
-2026-10-26T14:02:19.460275+00:00	being honest about mental illness https://ostinato.bearblog.dev/being-honest-about-mental-illness/
-2026-10-26T14:28:00+00:00	Minimum Viable Cities https://dungeonmecha.bearblog.dev/minimum-viable-cities/
 2026-10-26T15:50:00+00:00	world, don't stop watching Brasil https://spindlecrow.space/world-dont-stop-watching-brasil/
 2026-10-26T16:29:06.478769+00:00	A few of my favorite software documentaries https://nate.spot/software-documentaries/
 2026-10-26T17:51:00+00:00	How a shift in colour can completely change a scene https://annoflo.net/change-colour/
@@ -23,3 +17,9 @@
 2026-10-26T20:57:35.294189+00:00	my insecurities on bearblog https://bx.bearblog.dev/my-insecurities-on-bearblog/
 2026-10-27T01:36:33.790711+00:00	Bubbles Makes the Web Interesting Again https://widdershins.verja.net/bubbles-makes-the-web-interesting-again/
 2026-10-27T08:49:00+00:00	Virtual museum for my wife's artworks https://dostoynikov.bearblog.dev/virtual-museum-for-my-wifes-artworks/
+2026-10-27T13:05:30.399781+00:00	The upvote dilemma https://herman.bearblog.dev/the-upvote-dilemma/
+2026-10-27T13:48:00+00:00	…yet another rejection from The New York Times. https://coreyblogs.com/yet-another-rejection-from-the-new-york-times/
+2026-10-27T16:00:00+00:00	You Can See Everything (2026) | review + analysis https://thewarmvoid.cc/see-everything-review/
+2026-10-27T16:24:00+00:00	Winter 2026/27 in Europe: what a record El Niño can and cannot tell us https://weatherlinguist.bearblog.dev/winter-202627-in-europe-what-a-record-el-nino-can-and-cannot-tell-us/
+2026-10-27T16:30:25.931088+00:00	what if we started over? https://rnotte.art/what-if-we-started-over/
+2026-10-27T16:47:43.521290+00:00	The Costs of Political Connections https://priceofpower.bearblog.dev/the-costs-of-political-connections/
