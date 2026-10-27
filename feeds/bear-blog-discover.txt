@@ -13,7 +13,6 @@
 2026-10-25T21:07:54.710978+00:00	Unlearning Adulthood https://aishwaryagoel.com/unlearning-adulthood/
 2026-10-25T23:42:00+00:00	24, already? https://anotherjournal.bearblog.dev/24-already/
 2026-10-26T02:05:00+00:00	Being called a "Heretic" and a "Cultist" in the Indonesian TTRPG scene https://afraidofencounters.bearblog.dev/being-called-a-heretic-and-a-cultist-in-the-indonesian-ttrpg-scene/
-2026-10-26T02:47:00+00:00	it's just a bad day, not a bad life https://tiramisu.bearblog.dev/bad-day/
 2026-10-26T10:24:02.036955+00:00	a list of very stupid blogpost ideas i will almost certainly not use for anything https://kami.bearblog.dev/a-list-of-very-stupid-blogpost-ideas-i-will-almost-certainly-not-use-for-anything/
 2026-10-26T14:02:19.460275+00:00	being honest about mental illness https://ostinato.bearblog.dev/being-honest-about-mental-illness/
 2026-10-26T14:28:00+00:00	Minimum Viable Cities https://dungeonmecha.bearblog.dev/minimum-viable-cities/
@@ -23,3 +22,4 @@
 2026-10-26T18:41:22.018676+00:00	Pac-Man Fucks https://makebad.games/pac-man-fucks/
 2026-10-26T19:55:00+00:00	The Threat of Generative Writing https://jetgirl.art/the-threat-of-generative-writing/
 2026-10-26T20:57:35.294189+00:00	my insecurities on bearblog https://bx.bearblog.dev/my-insecurities-on-bearblog/
+2026-10-27T01:36:33.790711+00:00	Bubbles Makes the Web Interesting Again https://widdershins.verja.net/bubbles-makes-the-web-interesting-again/
