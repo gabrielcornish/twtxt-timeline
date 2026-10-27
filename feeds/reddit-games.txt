@@ -4,16 +4,10 @@
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
 2026-10-25T09:00:23+00:00	Weekly /r/Games Discussion - What have you been playing, and what are your thoughts? - October 25, 2026 https://www.reddit.com/r/Games/comments/1xexgu4/weekly_rgames_discussion_what_have_you_been/
-2026-10-26T14:23:30+00:00	Konami deliberately kept its multiple Silent Hill games secret from each studio, to avoid ideas crossing over https://www.reddit.com/r/Games/comments/1xfy8r9/konami_deliberately_kept_its_multiple_silent_hill/
 2026-10-26T16:15:30+00:00	Epic CEO Tim Sweeney lambasts “abhorrent” Steam AI Disclosure Policy claiming labels double as “political statement” https://www.reddit.com/r/Games/comments/1xg1btm/epic_ceo_tim_sweeney_lambasts_abhorrent_steam_ai/
-2026-10-26T16:21:11+00:00	Layoffs Hit Ghost Of Yotei Developer Sucker Punch https://www.reddit.com/r/Games/comments/1xg1hqq/layoffs_hit_ghost_of_yotei_developer_sucker_punch/
 2026-10-26T20:14:44+00:00	Mass Effect fans ramp up efforts to save BioWare's RPG series with a Times Square billboard and plans for more ads outside The Game Awards "funded by the community" https://www.reddit.com/r/Games/comments/1xg7v8b/mass_effect_fans_ramp_up_efforts_to_save_biowares/
 2026-10-26T20:28:59+00:00	Austin Wintory releases Mass Effect 5 early musical drafts https://www.reddit.com/r/Games/comments/1xg891e/austin_wintory_releases_mass_effect_5_early/
-2026-10-27T02:45:14+00:00	Avatar Legends: The Fighting Game Reimagined Avatar State Aang VS. Nightmare Korra coming October 28 https://www.reddit.com/r/Games/comments/1xgh261/avatar_legends_the_fighting_game_reimagined/
-2026-10-27T03:51:39+00:00	Ashes of the Singularity II - Launch Trailer | Massive-Scale RTS https://www.reddit.com/r/Games/comments/1xgie4w/ashes_of_the_singularity_ii_launch_trailer/
 2026-10-27T05:05:00+00:00	Pokémon UNITE | Pokémon UNITE End of Service https://www.reddit.com/r/Games/comments/1xgjqlr/pokémon_unite_pokémon_unite_end_of_service/
-2026-10-27T06:10:58+00:00	Drawquarium - Official Release Date Trailer (PC, 13 Nov '26) https://www.reddit.com/r/Games/comments/1xgktuk/drawquarium_official_release_date_trailer_pc_13/
-2026-10-27T08:38:54+00:00	Jabba's Palace Update released on ModDB! | Star Wars Battlefront 2 Remastered Project https://www.reddit.com/r/Games/comments/1xgn3cm/jabbas_palace_update_released_on_moddb_star_wars/
 2026-10-27T11:01:51+00:00	New Capcom Sales Report: Onimusha: Way of the Sword surpasses 1.7 million sales, Devil May Cry 5 nears 15 million, Resident Evil 4 (2023) reaches 17 million https://www.reddit.com/r/Games/comments/1xgph0a/new_capcom_sales_report_onimusha_way_of_the_sword/
 2026-10-27T11:59:04+00:00	Bad Ice Cream Triple Scoop [By Nitrome] - Announcement Trailer https://www.reddit.com/r/Games/comments/1xgqkab/bad_ice_cream_triple_scoop_by_nitrome/
 2026-10-27T13:13:00+00:00	A look back at The Game Awards 2025 Trailers and Announcements and how they reviewed! https://www.reddit.com/r/Games/comments/1xgs66b/a_look_back_at_the_game_awards_2025_trailers_and/
@@ -21,6 +15,7 @@
 2026-10-27T13:51:23+00:00	Best Games of Next Fest, No AI - Best of the Fest October 2026 https://www.reddit.com/r/Games/comments/1xgt3mk/best_games_of_next_fest_no_ai_best_of_the_fest/
 2026-10-27T14:10:54+00:00	"I don't want to work at this place anymore:" EA workers decry mismanagement and corporate greed after mass layoffs https://www.reddit.com/r/Games/comments/1xgtlmx/i_dont_want_to_work_at_this_place_anymore_ea/
 2026-10-27T15:32:13+00:00	Active Matter surpasses 500,000 copies sold https://www.reddit.com/r/Games/comments/1xgvpcv/active_matter_surpasses_500000_copies_sold/
+2026-10-27T16:35:28+00:00	Outcast Tales - Official Launch Trailer https://www.reddit.com/r/Games/comments/1xgxfq0/outcast_tales_official_launch_trailer/
 2026-10-27T16:39:24+00:00	Bad Ice Cream Resort [By Nitrome] - Official Trailer https://www.reddit.com/r/Games/comments/1xgxjjo/bad_ice_cream_resort_by_nitrome_official_trailer/
 2026-10-27T16:52:56+00:00	Transformers Reactivate gameplay trailer leaks online https://www.reddit.com/r/Games/comments/1xgxx95/transformers_reactivate_gameplay_trailer_leaks/
 2026-10-27T17:18:51+00:00	Grand Theft Auto 6 Download Size Revealed To Be 210 GB https://www.reddit.com/r/Games/comments/1xgyngk/grand_theft_auto_6_download_size_revealed_to_be/
@@ -28,3 +23,8 @@
 2026-10-27T17:22:37+00:00	Official Statement from Warhorse Studios Regarding Cybersecurity Incident https://www.reddit.com/r/Games/comments/1xgyqzu/official_statement_from_warhorse_studios/
 2026-10-27T17:44:03+00:00	Jason Schreier: Big news from the Independent Workers Union of Great Britain: Employees at Rockstar Games in the UK will hold a union vote next month, just as they release Grand Theft Auto VI https://www.reddit.com/r/Games/comments/1xgzc51/jason_schreier_big_news_from_the_independent/
 2026-10-27T18:19:35+00:00	OpenCNC 3D + RA3D Announcement Trailer https://www.reddit.com/r/Games/comments/1xh0bfe/opencnc_3d_ra3d_announcement_trailer/
+2026-10-27T18:37:23+00:00	Library of Ruina Earns Guinness World Record for Longest Video Game Campaign, Surpassing Persona 5 Royal https://www.reddit.com/r/Games/comments/1xh0szu/library_of_ruina_earns_guinness_world_record_for/
+2026-10-27T18:44:05+00:00	Call of Duty’s Metacritic celebration highlights a bizarre Xbox problem — nobody is reviewing games on Xbox https://www.reddit.com/r/Games/comments/1xh0zlp/call_of_dutys_metacritic_celebration_highlights_a/
+2026-10-27T19:25:03+00:00	Conan Exiles Enhanced Is Coming to PlayStation®5 and Xbox Series X|S as Free Upgrade - Conan Exiles https://www.reddit.com/r/Games/comments/1xh23rw/conan_exiles_enhanced_is_coming_to_playstation5/
+2026-10-27T19:34:16+00:00	Call of Duty: Modern Warfare 4 - Review Thread https://www.reddit.com/r/Games/comments/1xh2cnq/call_of_duty_modern_warfare_4_review_thread/
+2026-10-27T20:13:26+00:00	"Every piece is unified": Dark Messiah of Might and Magic returns with co-op, an Adventure mode, a level generator and New Game+ in the 64-bit Community Edition https://www.reddit.com/r/Games/comments/1xh3ehw/every_piece_is_unified_dark_messiah_of_might_and/
