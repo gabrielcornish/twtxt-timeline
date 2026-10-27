@@ -6,7 +6,6 @@
 2026-10-24T18:45:00+00:00	7 Months Sober https://boogerdiary.bearblog.dev/7-months-sober/
 2026-10-24T22:34:00+00:00	I won’t let my husband see my blog https://littleducky.bearblog.dev/i-wont-let-my-husband-see-my-blog/
 2026-10-25T05:23:00+00:00	on letting myself be an inconvenience https://midnight.bearblog.dev/on-letting-myself-be-an-inconvenience/
-2026-10-25T10:34:00+00:00	my ffxiv character https://blog.avas.space/ffxiv/
 2026-10-25T13:06:00+00:00	What Is A Tool? https://blog.enceledean.com/what-is-a-tool/
 2026-10-25T14:33:00+00:00	...five dumb lists! [Updated] https://coreyblogs.com/five-dumb-lists/
 2026-10-25T15:32:00+00:00	💌 Newsletter #018 - Muse-ings, Many Data Breaches, and... 4 https://technically-good.ca/newsletter/018-2026-10-25/
@@ -23,3 +22,4 @@
 2026-10-26T19:55:00+00:00	The Threat of Generative Writing https://jetgirl.art/the-threat-of-generative-writing/
 2026-10-26T20:57:35.294189+00:00	my insecurities on bearblog https://bx.bearblog.dev/my-insecurities-on-bearblog/
 2026-10-27T01:36:33.790711+00:00	Bubbles Makes the Web Interesting Again https://widdershins.verja.net/bubbles-makes-the-web-interesting-again/
+2026-10-27T08:49:00+00:00	Virtual museum for my wife's artworks https://dostoynikov.bearblog.dev/virtual-museum-for-my-wifes-artworks/

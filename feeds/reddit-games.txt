@@ -4,9 +4,7 @@
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
 2026-10-25T09:00:23+00:00	Weekly /r/Games Discussion - What have you been playing, and what are your thoughts? - October 25, 2026 https://www.reddit.com/r/Games/comments/1xexgu4/weekly_rgames_discussion_what_have_you_been/
-2026-10-25T13:18:40+00:00	Indies and original IP blew up in 2026. More than half of the games that sold more than 500,000 units in their first month were the start of a new series, and 43% were indies https://www.reddit.com/r/Games/comments/1xf26bp/indies_and_original_ip_blew_up_in_2026_more_than/
 2026-10-25T14:26:44+00:00	Valve adds CD-ROM drive support to Steam Frame kernel, took less than ten minutes — update comes one day after user requests for capability in the Steam Community forum https://www.reddit.com/r/Games/comments/1xf3r9o/valve_adds_cdrom_drive_support_to_steam_frame/
-2026-10-25T22:06:51+00:00	DF Retro: Inside The Embracer Games Archive (Massive physical game + game hardware for developers, researchers etc) https://www.reddit.com/r/Games/comments/1xff90x/df_retro_inside_the_embracer_games_archive/
 2026-10-26T00:01:43+00:00	Phantom Blade Zero Review Thread https://www.reddit.com/r/Games/comments/1xfhuji/phantom_blade_zero_review_thread/
 2026-10-26T07:34:35+00:00	30 years of “Tomb Raider”: Destined for success https://www.reddit.com/r/Games/comments/1xfqa40/30_years_of_tomb_raider_destined_for_success/
 2026-10-26T14:03:07+00:00	Golden Joystick's "Ultimate Game of the Year" nominees are revealed, and votes for the winner are open until October 30 https://www.reddit.com/r/Games/comments/1xfxpio/golden_joysticks_ultimate_game_of_the_year/
@@ -23,8 +21,10 @@
 2026-10-26T20:22:39+00:00	Arisen Force: Vonimir - The WORLD-PV 2026 https://www.reddit.com/r/Games/comments/1xg82vf/arisen_force_vonimir_the_worldpv_2026/
 2026-10-26T20:23:14+00:00	Emberville Delayed From Oct 27 2026 To Jan 7 2027 One Day Before Launch https://www.reddit.com/r/Games/comments/1xg83ga/emberville_delayed_from_oct_27_2026_to_jan_7_2027/
 2026-10-26T20:28:59+00:00	Austin Wintory releases Mass Effect 5 early musical drafts https://www.reddit.com/r/Games/comments/1xg891e/austin_wintory_releases_mass_effect_5_early/
-2026-10-26T21:59:44+00:00	Microsoft makes new 'voluntary exit' offer to about a quarter of its workforce, including some execs https://www.reddit.com/r/Games/comments/1xgakrv/microsoft_makes_new_voluntary_exit_offer_to_about/
 2026-10-27T02:45:14+00:00	Avatar Legends: The Fighting Game Reimagined Avatar State Aang VS. Nightmare Korra coming October 28 https://www.reddit.com/r/Games/comments/1xgh261/avatar_legends_the_fighting_game_reimagined/
 2026-10-27T03:51:39+00:00	Ashes of the Singularity II - Launch Trailer | Massive-Scale RTS https://www.reddit.com/r/Games/comments/1xgie4w/ashes_of_the_singularity_ii_launch_trailer/
 2026-10-27T05:05:00+00:00	Pokémon UNITE | Pokémon UNITE End of Service https://www.reddit.com/r/Games/comments/1xgjqlr/pokémon_unite_pokémon_unite_end_of_service/
 2026-10-27T06:10:58+00:00	Drawquarium - Official Release Date Trailer (PC, 13 Nov '26) https://www.reddit.com/r/Games/comments/1xgktuk/drawquarium_official_release_date_trailer_pc_13/
+2026-10-27T08:38:54+00:00	Jabba's Palace Update released on ModDB! | Star Wars Battlefront 2 Remastered Project https://www.reddit.com/r/Games/comments/1xgn3cm/jabbas_palace_update_released_on_moddb_star_wars/
+2026-10-27T11:01:51+00:00	New Capcom Sales Report: Onimusha: Way of the Sword surpasses 1.7 million sales, Devil May Cry 5 nears 15 million, Resident Evil 4 (2023) reaches 17 million https://www.reddit.com/r/Games/comments/1xgph0a/new_capcom_sales_report_onimusha_way_of_the_sword/
+2026-10-27T11:59:04+00:00	Bad Ice Cream Triple Scoop [By Nitrome] - Announcement Trailer https://www.reddit.com/r/Games/comments/1xgqkab/bad_ice_cream_triple_scoop_by_nitrome/

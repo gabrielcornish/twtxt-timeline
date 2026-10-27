@@ -3,9 +3,6 @@
 # source = https://www.gamesindustry.biz/feed
 # description = twtxt conversion of https://www.gamesindustry.biz/feed
 
-2026-10-16T08:22:20+00:00	Sega and Creative Assembly remove Total War: Shogun 2 remaster from sale as it "falls short of both your expectations and our own standards" https://www.gamesindustry.biz/sega-and-creative-assembly-remove-total-war-shogun-2-remaster-from-sale-as-it-falls-short-of-both-your-expectations-and-our-own-standards
-2026-10-16T09:27:33+00:00	Fishlabs announces layoffs due to "changing project requirements," development and support teams affected https://www.gamesindustry.biz/fishlabs-announces-layoffs-due-to-changing-project-requirements-development-and-support-teams-affected
-2026-10-16T10:10:06+00:00	Game Republic New Horizons 2026 attendance grew 78% to over 461 visitors https://www.gamesindustry.biz/game-republic-new-horizons-2026-attendance-grew-76-to-over-461-visitors
 2026-10-16T12:26:23+00:00	The Netflix series Drive to Survive inspired Star Wars: Galactic Racer https://www.gamesindustry.biz/the-netflix-series-drive-to-survive-inspired-star-wars-galactic-racer
 2026-10-16T12:44:48+00:00	Gamescom Asia x Thailand Game Show 2026 announces four additional pavilions from Indonesia, Japan, Malaysia, and the US https://www.gamesindustry.biz/gamescom-asia-x-thailand-game-show-2026-announces-four-additional-pavilions-from-indonesia-japan-malaysia-and-the-us
 2026-10-16T14:30:00+00:00	How Star Wars: Galactic Racer kept the core team small and sustainable through "distributed development" https://www.gamesindustry.biz/how-star-wars-galactic-racer-kept-the-core-team-small-and-sustainable-through-distributed-development
@@ -53,3 +50,6 @@
 2026-10-26T18:20:01+00:00	Auroch Digital lays off a quarter of its staff https://www.gamesindustry.biz/auroch-digital-lays-off-a-quarter-of-its-staff
 2026-10-26T19:54:19+00:00	Epic Games CEO calls Steam's AI disclosure policies "a political act" https://www.gamesindustry.biz/epic-games-ceo-calls-steams-ai-disclosure-policies-a-political-act
 2026-10-26T21:34:00+00:00	Xbox staff among up to 60,000 Microsoft employees offered voluntary exit https://www.gamesindustry.biz/xbox-staff-among-up-to-60000-microsoft-employees-offered-voluntary-exit
+2026-10-27T10:29:28+00:00	Sucker Punch Productions reportedly lays off 24 employees following launch of Ghost of Yōtei: Complete Edition https://www.gamesindustry.biz/sucker-punch-productions-reportedly-lays-off-24-employees-following-launch-of-ghost-of-yotei-complete-edition
+2026-10-27T11:43:41+00:00	TiMi Studio Group's Pokémon Unite to shut down on March 23, 2027 https://www.gamesindustry.biz/timi-studio-groups-pokemon-unite-to-shut-down-on-march-23-2027
+2026-10-27T12:00:59+00:00	UKIE calls on government to modernise Video Games Expenditure Credit ahead of Autumn Budget https://www.gamesindustry.biz/ukie-calls-on-government-to-modernise-video-games-expenditure-credit-ahead-of-autumn-budget
