@@ -3,7 +3,6 @@
 # source = https://www.gamesindustry.biz/feed
 # description = twtxt conversion of https://www.gamesindustry.biz/feed
 
-2026-10-15T14:31:28+00:00	DayZ creator Dean Hall releases open-source game development framework Brutal https://www.gamesindustry.biz/dayz-creator-dean-hall-releases-open-source-game-development-framework-brutal
 2026-10-16T08:22:20+00:00	Sega and Creative Assembly remove Total War: Shogun 2 remaster from sale as it "falls short of both your expectations and our own standards" https://www.gamesindustry.biz/sega-and-creative-assembly-remove-total-war-shogun-2-remaster-from-sale-as-it-falls-short-of-both-your-expectations-and-our-own-standards
 2026-10-16T09:27:33+00:00	Fishlabs announces layoffs due to "changing project requirements," development and support teams affected https://www.gamesindustry.biz/fishlabs-announces-layoffs-due-to-changing-project-requirements-development-and-support-teams-affected
 2026-10-16T10:10:06+00:00	Game Republic New Horizons 2026 attendance grew 78% to over 461 visitors https://www.gamesindustry.biz/game-republic-new-horizons-2026-attendance-grew-76-to-over-461-visitors
@@ -53,3 +52,4 @@
 2026-10-26T18:05:17+00:00	223,000+ people sign petition to "save Mass Effect" https://www.gamesindustry.biz/223000-people-sign-petition-to-save-mass-effect
 2026-10-26T18:20:01+00:00	Auroch Digital lays off a quarter of its staff https://www.gamesindustry.biz/auroch-digital-lays-off-a-quarter-of-its-staff
 2026-10-26T19:54:19+00:00	Epic Games CEO calls Steam's AI disclosure policies "a political act" https://www.gamesindustry.biz/epic-games-ceo-calls-steams-ai-disclosure-policies-a-political-act
+2026-10-26T21:34:00+00:00	Xbox staff among up to 60,000 Microsoft employees offered voluntary exit https://www.gamesindustry.biz/xbox-staff-among-up-to-60000-microsoft-employees-offered-voluntary-exit
