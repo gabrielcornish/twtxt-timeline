@@ -3,28 +3,28 @@
 # source = https://www.reddit.com/r/Games.rss
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
-2026-10-25T09:00:23+00:00	Weekly /r/Games Discussion - What have you been playing, and what are your thoughts? - October 25, 2026 https://www.reddit.com/r/Games/comments/1xexgu4/weekly_rgames_discussion_what_have_you_been/
-2026-10-27T05:05:00+00:00	Pokémon UNITE | Pokémon UNITE End of Service https://www.reddit.com/r/Games/comments/1xgjqlr/pokémon_unite_pokémon_unite_end_of_service/
-2026-10-27T11:01:51+00:00	New Capcom Sales Report: Onimusha: Way of the Sword surpasses 1.7 million sales, Devil May Cry 5 nears 15 million, Resident Evil 4 (2023) reaches 17 million https://www.reddit.com/r/Games/comments/1xgph0a/new_capcom_sales_report_onimusha_way_of_the_sword/
-2026-10-27T13:13:00+00:00	A look back at The Game Awards 2025 Trailers and Announcements and how they reviewed! https://www.reddit.com/r/Games/comments/1xgs66b/a_look_back_at_the_game_awards_2025_trailers_and/
-2026-10-27T13:47:48+00:00	Nintendo Indie World Showcase announced for October 28, 2026 https://www.reddit.com/r/Games/comments/1xgt0i4/nintendo_indie_world_showcase_announced_for/
-2026-10-27T13:51:23+00:00	Best Games of Next Fest, No AI - Best of the Fest October 2026 https://www.reddit.com/r/Games/comments/1xgt3mk/best_games_of_next_fest_no_ai_best_of_the_fest/
 2026-10-27T14:10:54+00:00	"I don't want to work at this place anymore:" EA workers decry mismanagement and corporate greed after mass layoffs https://www.reddit.com/r/Games/comments/1xgtlmx/i_dont_want_to_work_at_this_place_anymore_ea/
-2026-10-27T15:32:13+00:00	Active Matter surpasses 500,000 copies sold https://www.reddit.com/r/Games/comments/1xgvpcv/active_matter_surpasses_500000_copies_sold/
-2026-10-27T16:39:24+00:00	Bad Ice Cream Resort [By Nitrome] - Official Trailer https://www.reddit.com/r/Games/comments/1xgxjjo/bad_ice_cream_resort_by_nitrome_official_trailer/
-2026-10-27T16:52:56+00:00	Transformers Reactivate gameplay trailer leaks online https://www.reddit.com/r/Games/comments/1xgxx95/transformers_reactivate_gameplay_trailer_leaks/
 2026-10-27T17:18:51+00:00	Grand Theft Auto 6 Download Size Revealed To Be 210 GB https://www.reddit.com/r/Games/comments/1xgyngk/grand_theft_auto_6_download_size_revealed_to_be/
-2026-10-27T17:21:03+00:00	WARPATH | World of Warcraft: Forever AMV Launch Trailer https://www.reddit.com/r/Games/comments/1xgypik/warpath_world_of_warcraft_forever_amv_launch/
-2026-10-27T17:22:37+00:00	Official Statement from Warhorse Studios Regarding Cybersecurity Incident https://www.reddit.com/r/Games/comments/1xgyqzu/official_statement_from_warhorse_studios/
 2026-10-27T17:44:03+00:00	Jason Schreier: Big news from the Independent Workers Union of Great Britain: Employees at Rockstar Games in the UK will hold a union vote next month, just as they release Grand Theft Auto VI https://www.reddit.com/r/Games/comments/1xgzc51/jason_schreier_big_news_from_the_independent/
-2026-10-27T18:19:35+00:00	OpenCNC 3D + RA3D Announcement Trailer https://www.reddit.com/r/Games/comments/1xh0bfe/opencnc_3d_ra3d_announcement_trailer/
-2026-10-27T18:37:23+00:00	Library of Ruina Earns Guinness World Record for Longest Video Game Campaign, Surpassing Persona 5 Royal https://www.reddit.com/r/Games/comments/1xh0szu/library_of_ruina_earns_guinness_world_record_for/
 2026-10-27T18:44:05+00:00	Call of Duty’s Metacritic celebration highlights a bizarre Xbox problem — nobody is reviewing games on Xbox https://www.reddit.com/r/Games/comments/1xh0zlp/call_of_dutys_metacritic_celebration_highlights_a/
-2026-10-27T19:25:03+00:00	Conan Exiles Enhanced Is Coming to PlayStation®5 and Xbox Series X|S as Free Upgrade - Conan Exiles https://www.reddit.com/r/Games/comments/1xh23rw/conan_exiles_enhanced_is_coming_to_playstation5/
 2026-10-27T19:34:16+00:00	Call of Duty: Modern Warfare 4 - Review Thread https://www.reddit.com/r/Games/comments/1xh2cnq/call_of_duty_modern_warfare_4_review_thread/
 2026-10-27T20:13:26+00:00	"Every piece is unified": Dark Messiah of Might and Magic returns with co-op, an Adventure mode, a level generator and New Game+ in the 64-bit Community Edition https://www.reddit.com/r/Games/comments/1xh3ehw/every_piece_is_unified_dark_messiah_of_might_and/
-2026-10-28T00:14:20+00:00	Aloft V1.0 releases early 2027 on PC & PS5 https://www.reddit.com/r/Games/comments/1xh9efk/aloft_v10_releases_early_2027_on_pc_ps5/
 2026-10-28T00:47:36+00:00	Rift of the NecroDancer: Mystery Skulls Animated Music Pack Official Trailer https://www.reddit.com/r/Games/comments/1xha4kr/rift_of_the_necrodancer_mystery_skulls_animated/
-2026-10-28T01:25:36+00:00	Several Capcom console classics rated in Korea https://www.reddit.com/r/Games/comments/1xhaxyj/several_capcom_console_classics_rated_in_korea/
 2026-10-28T07:30:23+00:00	The New Trackmania Cheating Scandal https://www.reddit.com/r/Games/comments/1xhhk81/the_new_trackmania_cheating_scandal/
 2026-10-28T07:48:56+00:00	Valve Responds to Developers Fearing AI Slop and Clones https://www.reddit.com/r/Games/comments/1xhhufp/valve_responds_to_developers_fearing_ai_slop_and/
+2026-10-28T11:00:42+00:00	Daily /r/Games Discussion - Suggest Me a Game - October 28, 2026 https://www.reddit.com/r/Games/comments/1xhkyds/daily_rgames_discussion_suggest_me_a_game_october/
+2026-10-28T11:37:01+00:00	MOBILE SUIT GUNDAM GUNDAM BATTLE OPERATION 3 Announced, Releases TBD on PC & PS5 https://www.reddit.com/r/Games/comments/1xhlnkj/mobile_suit_gundam_gundam_battle_operation_3/
+2026-10-28T12:55:26+00:00	ATMOSFAR Early Access Gameplay Overview Trailer https://www.reddit.com/r/Games/comments/1xhnane/atmosfar_early_access_gameplay_overview_trailer/
+2026-10-28T13:08:10+00:00	Austin recommends: The Wolf Among Us Remastered (Review) https://www.reddit.com/r/Games/comments/1xhnlmp/austin_recommends_the_wolf_among_us_remastered/
+2026-10-28T13:16:36+00:00	Smalland 2: Lost Realms Releases 2027 on PC, PS5, Xbox Series, Switch 2 https://www.reddit.com/r/Games/comments/1xhnsmu/smalland_2_lost_realms_releases_2027_on_pc_ps5/
+2026-10-28T13:52:07+00:00	Capcom has temporarily delisted Street Fighter 5 and turned off its servers as it works on PHP security issue https://www.reddit.com/r/Games/comments/1xhonny/capcom_has_temporarily_delisted_street_fighter_5/
+2026-10-28T14:02:50+00:00	The Complicated History of Star Wars: Battlefront https://www.reddit.com/r/Games/comments/1xhoxz2/the_complicated_history_of_star_wars_battlefront/
+2026-10-28T14:04:37+00:00	No Man's Sky Forsaken Trailer https://www.reddit.com/r/Games/comments/1xhozqa/no_mans_sky_forsaken_trailer/
+2026-10-28T14:11:38+00:00	Witchbrook Coming to PC, Nintendo Switch, Nintendo Switch 2, PS5, and Xbox on January 28th! https://www.reddit.com/r/Games/comments/1xhp615/witchbrook_coming_to_pc_nintendo_switch_nintendo/
+2026-10-28T14:32:41+00:00	Sulfur 1.0 | Out Now on PC and Consoles https://www.reddit.com/r/Games/comments/1xhppmm/sulfur_10_out_now_on_pc_and_consoles/
+2026-10-28T15:04:04+00:00	AMA - We are Total Mayhem Games, creators of the co-op puzzle series We Were Here and the recently launched We Were Here Tomorrow. Ask Us Anything! https://www.reddit.com/r/Games/comments/1xhqjcl/ama_we_are_total_mayhem_games_creators_of_the/
+2026-10-28T15:05:39+00:00	Control Resonant is now available on GOG https://www.reddit.com/r/Games/comments/1xhqkw9/control_resonant_is_now_available_on_gog/
+2026-10-28T15:18:38+00:00	Revisiting the cloning of Threes by 2028; the reason devs cant rely on making "the best version available" to fight copycats, and why we're going to lose creative indie games as a chilling effect https://www.reddit.com/r/Games/comments/1xhqxip/revisiting_the_cloning_of_threes_by_2028_the/
+2026-10-28T15:24:06+00:00	Probably Stolen: Cyberpunk Pawnshop Simulator - Launch Trailer https://www.reddit.com/r/Games/comments/1xhr36j/probably_stolen_cyberpunk_pawnshop_simulator/
+2026-10-28T15:29:58+00:00	Cronos - Lazarus DLC Releases Dec 3rd on PC, PS5, Xbox Series. Releases Q1 2027 on Switch 2 https://www.reddit.com/r/Games/comments/1xhr8yh/cronos_lazarus_dlc_releases_dec_3rd_on_pc_ps5/
+2026-10-28T16:24:48+00:00	PlayStation Plus Monthly Games for November: Dead Island 2, Tomb Raider IV – VI Remastered, Monster Train 2 https://www.reddit.com/r/Games/comments/1xhssmi/playstation_plus_monthly_games_for_november_dead/

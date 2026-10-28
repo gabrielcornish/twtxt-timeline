@@ -3,10 +3,6 @@
 # source = https://www.gamesindustry.biz/feed
 # description = twtxt conversion of https://www.gamesindustry.biz/feed
 
-2026-10-19T08:00:00+00:00	The AI state of play: AI laws and game development https://www.gamesindustry.biz/the-ai-state-of-play-ai-laws-and-game-development
-2026-10-19T08:00:00+00:00	UKIE partners with Sheridans on AI Compliance and Accreditation Service to guide UK studios in using AI lawfully and responsibly https://www.gamesindustry.biz/ukie-partners-with-sheridans-on-ai-compliance-and-accreditation-service-to-guide-uk-studios-in-using-ai-lawfully-and-responsibly
-2026-10-19T08:43:25+00:00	Liquid Swords CEO confirms studio closure following bankruptcy proceedings https://www.gamesindustry.biz/samson-studio-liquid-swords-files-for-bankruptcy-staff-reportedly-unpaid-for-two-months
-2026-10-19T09:00:00+00:00	New Croatian conference Splitscreen wants to keep "that half-holiday, half-work feeling" of Reboot Develop https://www.gamesindustry.biz/new-croatian-conference-splitscreen-wants-to-keep-that-half-holiday-half-work-feeling-of-reboot-develop
 2026-10-19T10:13:55+00:00	Activision QA United-CWA union vote to authorise strike, claims publisher has "failed to bargain in good faith over key issues" https://www.gamesindustry.biz/activision-qa-united-cwa-union-vote-to-authorise-strike-claims-publisher-has-failed-to-bargain-in-good-faith-over-key-issues
 2026-10-19T10:57:47+00:00	GDCA 2027 moves away from nominations-based system, publishers and devs can now submit games for consideration https://www.gamesindustry.biz/gdca-2027-moves-away-from-nominations-based-system-publishers-and-devs-can-now-submit-games-for-consideration
 2026-10-19T16:36:11+00:00	Wizards of the Coast declines to voluntarily recognize D&D and Studio X union drive https://www.gamesindustry.biz/wizards-of-the-coast-declines-to-voluntarily-recognize-dd-and-studio-x-union-drive
@@ -53,3 +49,7 @@
 2026-10-27T14:20:32+00:00	Warhorse Studios hit by cyberattack, company systems and data affected https://www.gamesindustry.biz/warhorse-studios-hit-by-cyberattack-company-systems-and-data-affected
 2026-10-28T08:16:13+00:00	Gamescom Asia touts new records for international attendance and showfloor size https://www.gamesindustry.biz/gamescom-asia-touts-new-records-for-international-attendance-and-showfloor-size
 2026-10-28T09:28:56+00:00	Interior Night studio head Charu Desodt appointed chair of BAFTA Games Committee https://www.gamesindustry.biz/interior-night-studio-head-charu-desodt-appointed-chair-of-bafta-games-committee
+2026-10-28T10:15:53+00:00	First Xbox COO Helen Chiang leaves company after three months in the role https://www.gamesindustry.biz/first-xbox-coo-helen-chiang-leaves-company-after-three-months-in-the-role
+2026-10-28T11:54:35+00:00	Wardogs leads Newzoo's September PC revenue charts https://www.gamesindustry.biz/wardogs-leads-newzoos-september-pc-revenue-charts
+2026-10-28T13:30:00+00:00	"Taking several years with several thousand people… It's almost impossible" – PlayStation creator Ken Kutaragi on the current state of gaming https://www.gamesindustry.biz/taking-several-years-with-several-thousand-people-its-almost-impossible-playstation-creator-ken-kutaragi-on-the-current-state-of-gaming
+2026-10-28T15:00:00+00:00	How to run an indie game studio: Part 5, Better meetings https://www.gamesindustry.biz/how-to-run-an-indie-game-studio-part-5-better-meetings
