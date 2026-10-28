@@ -4,11 +4,8 @@
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
 2026-10-25T09:00:23+00:00	Weekly /r/Games Discussion - What have you been playing, and what are your thoughts? - October 25, 2026 https://www.reddit.com/r/Games/comments/1xexgu4/weekly_rgames_discussion_what_have_you_been/
-2026-10-26T16:15:30+00:00	Epic CEO Tim Sweeney lambasts “abhorrent” Steam AI Disclosure Policy claiming labels double as “political statement” https://www.reddit.com/r/Games/comments/1xg1btm/epic_ceo_tim_sweeney_lambasts_abhorrent_steam_ai/
-2026-10-26T20:14:44+00:00	Mass Effect fans ramp up efforts to save BioWare's RPG series with a Times Square billboard and plans for more ads outside The Game Awards "funded by the community" https://www.reddit.com/r/Games/comments/1xg7v8b/mass_effect_fans_ramp_up_efforts_to_save_biowares/
 2026-10-27T05:05:00+00:00	Pokémon UNITE | Pokémon UNITE End of Service https://www.reddit.com/r/Games/comments/1xgjqlr/pokémon_unite_pokémon_unite_end_of_service/
 2026-10-27T11:01:51+00:00	New Capcom Sales Report: Onimusha: Way of the Sword surpasses 1.7 million sales, Devil May Cry 5 nears 15 million, Resident Evil 4 (2023) reaches 17 million https://www.reddit.com/r/Games/comments/1xgph0a/new_capcom_sales_report_onimusha_way_of_the_sword/
-2026-10-27T11:59:04+00:00	Bad Ice Cream Triple Scoop [By Nitrome] - Announcement Trailer https://www.reddit.com/r/Games/comments/1xgqkab/bad_ice_cream_triple_scoop_by_nitrome/
 2026-10-27T13:13:00+00:00	A look back at The Game Awards 2025 Trailers and Announcements and how they reviewed! https://www.reddit.com/r/Games/comments/1xgs66b/a_look_back_at_the_game_awards_2025_trailers_and/
 2026-10-27T13:47:48+00:00	Nintendo Indie World Showcase announced for October 28, 2026 https://www.reddit.com/r/Games/comments/1xgt0i4/nintendo_indie_world_showcase_announced_for/
 2026-10-27T13:51:23+00:00	Best Games of Next Fest, No AI - Best of the Fest October 2026 https://www.reddit.com/r/Games/comments/1xgt3mk/best_games_of_next_fest_no_ai_best_of_the_fest/
@@ -28,3 +25,6 @@
 2026-10-27T20:13:26+00:00	"Every piece is unified": Dark Messiah of Might and Magic returns with co-op, an Adventure mode, a level generator and New Game+ in the 64-bit Community Edition https://www.reddit.com/r/Games/comments/1xh3ehw/every_piece_is_unified_dark_messiah_of_might_and/
 2026-10-28T00:14:20+00:00	Aloft V1.0 releases early 2027 on PC & PS5 https://www.reddit.com/r/Games/comments/1xh9efk/aloft_v10_releases_early_2027_on_pc_ps5/
 2026-10-28T00:47:36+00:00	Rift of the NecroDancer: Mystery Skulls Animated Music Pack Official Trailer https://www.reddit.com/r/Games/comments/1xha4kr/rift_of_the_necrodancer_mystery_skulls_animated/
+2026-10-28T01:25:36+00:00	Several Capcom console classics rated in Korea https://www.reddit.com/r/Games/comments/1xhaxyj/several_capcom_console_classics_rated_in_korea/
+2026-10-28T07:30:23+00:00	The New Trackmania Cheating Scandal https://www.reddit.com/r/Games/comments/1xhhk81/the_new_trackmania_cheating_scandal/
+2026-10-28T07:48:56+00:00	Valve Responds to Developers Fearing AI Slop and Clones https://www.reddit.com/r/Games/comments/1xhhufp/valve_responds_to_developers_fearing_ai_slop_and/
