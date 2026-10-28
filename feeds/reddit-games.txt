@@ -3,22 +3,12 @@
 # source = https://www.reddit.com/r/Games.rss
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
-2026-10-27T14:10:54+00:00	"I don't want to work at this place anymore:" EA workers decry mismanagement and corporate greed after mass layoffs https://www.reddit.com/r/Games/comments/1xgtlmx/i_dont_want_to_work_at_this_place_anymore_ea/
 2026-10-27T17:18:51+00:00	Grand Theft Auto 6 Download Size Revealed To Be 210 GB https://www.reddit.com/r/Games/comments/1xgyngk/grand_theft_auto_6_download_size_revealed_to_be/
-2026-10-27T17:44:03+00:00	Jason Schreier: Big news from the Independent Workers Union of Great Britain: Employees at Rockstar Games in the UK will hold a union vote next month, just as they release Grand Theft Auto VI https://www.reddit.com/r/Games/comments/1xgzc51/jason_schreier_big_news_from_the_independent/
-2026-10-27T18:44:05+00:00	Call of Duty’s Metacritic celebration highlights a bizarre Xbox problem — nobody is reviewing games on Xbox https://www.reddit.com/r/Games/comments/1xh0zlp/call_of_dutys_metacritic_celebration_highlights_a/
-2026-10-27T19:34:16+00:00	Call of Duty: Modern Warfare 4 - Review Thread https://www.reddit.com/r/Games/comments/1xh2cnq/call_of_duty_modern_warfare_4_review_thread/
-2026-10-27T20:13:26+00:00	"Every piece is unified": Dark Messiah of Might and Magic returns with co-op, an Adventure mode, a level generator and New Game+ in the 64-bit Community Edition https://www.reddit.com/r/Games/comments/1xh3ehw/every_piece_is_unified_dark_messiah_of_might_and/
-2026-10-28T00:47:36+00:00	Rift of the NecroDancer: Mystery Skulls Animated Music Pack Official Trailer https://www.reddit.com/r/Games/comments/1xha4kr/rift_of_the_necrodancer_mystery_skulls_animated/
 2026-10-28T07:30:23+00:00	The New Trackmania Cheating Scandal https://www.reddit.com/r/Games/comments/1xhhk81/the_new_trackmania_cheating_scandal/
 2026-10-28T07:48:56+00:00	Valve Responds to Developers Fearing AI Slop and Clones https://www.reddit.com/r/Games/comments/1xhhufp/valve_responds_to_developers_fearing_ai_slop_and/
 2026-10-28T11:00:42+00:00	Daily /r/Games Discussion - Suggest Me a Game - October 28, 2026 https://www.reddit.com/r/Games/comments/1xhkyds/daily_rgames_discussion_suggest_me_a_game_october/
 2026-10-28T11:37:01+00:00	MOBILE SUIT GUNDAM GUNDAM BATTLE OPERATION 3 Announced, Releases TBD on PC & PS5 https://www.reddit.com/r/Games/comments/1xhlnkj/mobile_suit_gundam_gundam_battle_operation_3/
-2026-10-28T12:55:26+00:00	ATMOSFAR Early Access Gameplay Overview Trailer https://www.reddit.com/r/Games/comments/1xhnane/atmosfar_early_access_gameplay_overview_trailer/
-2026-10-28T13:08:10+00:00	Austin recommends: The Wolf Among Us Remastered (Review) https://www.reddit.com/r/Games/comments/1xhnlmp/austin_recommends_the_wolf_among_us_remastered/
-2026-10-28T13:16:36+00:00	Smalland 2: Lost Realms Releases 2027 on PC, PS5, Xbox Series, Switch 2 https://www.reddit.com/r/Games/comments/1xhnsmu/smalland_2_lost_realms_releases_2027_on_pc_ps5/
 2026-10-28T13:52:07+00:00	Capcom has temporarily delisted Street Fighter 5 and turned off its servers as it works on PHP security issue https://www.reddit.com/r/Games/comments/1xhonny/capcom_has_temporarily_delisted_street_fighter_5/
-2026-10-28T14:02:50+00:00	The Complicated History of Star Wars: Battlefront https://www.reddit.com/r/Games/comments/1xhoxz2/the_complicated_history_of_star_wars_battlefront/
 2026-10-28T14:04:37+00:00	No Man's Sky Forsaken Trailer https://www.reddit.com/r/Games/comments/1xhozqa/no_mans_sky_forsaken_trailer/
 2026-10-28T14:11:38+00:00	Witchbrook Coming to PC, Nintendo Switch, Nintendo Switch 2, PS5, and Xbox on January 28th! https://www.reddit.com/r/Games/comments/1xhp615/witchbrook_coming_to_pc_nintendo_switch_nintendo/
 2026-10-28T14:32:41+00:00	Sulfur 1.0 | Out Now on PC and Consoles https://www.reddit.com/r/Games/comments/1xhppmm/sulfur_10_out_now_on_pc_and_consoles/
@@ -28,3 +18,13 @@
 2026-10-28T15:24:06+00:00	Probably Stolen: Cyberpunk Pawnshop Simulator - Launch Trailer https://www.reddit.com/r/Games/comments/1xhr36j/probably_stolen_cyberpunk_pawnshop_simulator/
 2026-10-28T15:29:58+00:00	Cronos - Lazarus DLC Releases Dec 3rd on PC, PS5, Xbox Series. Releases Q1 2027 on Switch 2 https://www.reddit.com/r/Games/comments/1xhr8yh/cronos_lazarus_dlc_releases_dec_3rd_on_pc_ps5/
 2026-10-28T16:24:48+00:00	PlayStation Plus Monthly Games for November: Dead Island 2, Tomb Raider IV – VI Remastered, Monster Train 2 https://www.reddit.com/r/Games/comments/1xhssmi/playstation_plus_monthly_games_for_november_dead/
+2026-10-28T16:32:15+00:00	Insomniac Games’ Upcoming X-MEN Game to Feature Multiple Playable Characters https://www.reddit.com/r/Games/comments/1xhszr0/insomniac_games_upcoming_xmen_game_to_feature/
+2026-10-28T16:59:40+00:00	Winds of Viridia Trailer https://www.reddit.com/r/Games/comments/1xhtr8j/winds_of_viridia_trailer/
+2026-10-28T17:07:02+00:00	EXODUS Gameplay | Liberating the Kay Mission Demo https://www.reddit.com/r/Games/comments/1xhtyy8/exodus_gameplay_liberating_the_kay_mission_demo/
+2026-10-28T17:11:07+00:00	Monster Train 2 - New DLC Announcement https://www.reddit.com/r/Games/comments/1xhu352/monster_train_2_new_dlc_announcement/
+2026-10-28T17:31:36+00:00	CROAK - Official Release Month Trailer https://www.reddit.com/r/Games/comments/1xhuojw/croak_official_release_month_trailer/
+2026-10-28T19:03:16+00:00	Alien: Isolation 2 Team Confirms Physical Edition, Photo Mode, and New Gameplay Details https://www.reddit.com/r/Games/comments/1xhx8vb/alien_isolation_2_team_confirms_physical_edition/
+2026-10-28T19:05:28+00:00	Threads of Time Release Window Trailer. Coming Summer 2027 https://www.reddit.com/r/Games/comments/1xhxb6f/threads_of_time_release_window_trailer_coming/
+2026-10-28T19:29:08+00:00	"We basically rewrote the entire State of Decay game": Undead Labs spent years trying to make State of Decay 3 into a full-blown zombie apocalypse MMO https://www.reddit.com/r/Games/comments/1xhxyo5/we_basically_rewrote_the_entire_state_of_decay/
+2026-10-28T20:28:58+00:00	No Man’s Sky - Forsaken Update https://www.reddit.com/r/Games/comments/1xhzl00/no_mans_sky_forsaken_update/
+2026-10-28T20:34:27+00:00	Xbox content and services revenue decreased 2% in September quarter, hardware revenue declines 14% https://www.reddit.com/r/Games/comments/1xhzqdv/xbox_content_and_services_revenue_decreased_2_in/

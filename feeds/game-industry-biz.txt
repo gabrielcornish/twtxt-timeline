@@ -3,8 +3,6 @@
 # source = https://www.gamesindustry.biz/feed
 # description = twtxt conversion of https://www.gamesindustry.biz/feed
 
-2026-10-19T10:13:55+00:00	Activision QA United-CWA union vote to authorise strike, claims publisher has "failed to bargain in good faith over key issues" https://www.gamesindustry.biz/activision-qa-united-cwa-union-vote-to-authorise-strike-claims-publisher-has-failed-to-bargain-in-good-faith-over-key-issues
-2026-10-19T10:57:47+00:00	GDCA 2027 moves away from nominations-based system, publishers and devs can now submit games for consideration https://www.gamesindustry.biz/gdca-2027-moves-away-from-nominations-based-system-publishers-and-devs-can-now-submit-games-for-consideration
 2026-10-19T16:36:11+00:00	Wizards of the Coast declines to voluntarily recognize D&D and Studio X union drive https://www.gamesindustry.biz/wizards-of-the-coast-declines-to-voluntarily-recognize-dd-and-studio-x-union-drive
 2026-10-19T19:12:21+00:00	PEGI begins moving existing digital-only games with loot boxes up to a 16 rating https://www.gamesindustry.biz/pegi-begins-moving-existing-digital-only-games-with-loot-boxes-up-to-a-16-rating
 2026-10-20T08:37:14+00:00	GDC Festival of Gaming 2027 moves to four-day format to "create a higher quality, more focused and valuable experience" https://www.gamesindustry.biz/gdc-festival-of-gaming-2027-moves-to-four-day-format-to-create-a-higher-quality-more-focused-and-valuable-experience
@@ -53,3 +51,5 @@
 2026-10-28T11:54:35+00:00	Wardogs leads Newzoo's September PC revenue charts https://www.gamesindustry.biz/wardogs-leads-newzoos-september-pc-revenue-charts
 2026-10-28T13:30:00+00:00	"Taking several years with several thousand people… It's almost impossible" – PlayStation creator Ken Kutaragi on the current state of gaming https://www.gamesindustry.biz/taking-several-years-with-several-thousand-people-its-almost-impossible-playstation-creator-ken-kutaragi-on-the-current-state-of-gaming
 2026-10-28T15:00:00+00:00	How to run an indie game studio: Part 5, Better meetings https://www.gamesindustry.biz/how-to-run-an-indie-game-studio-part-5-better-meetings
+2026-10-28T17:56:48+00:00	Hearth and Hamlet publisher Runic Forge rebrands as Pythia Games https://www.gamesindustry.biz/hearth-and-hamlet-publisher-runic-forge-rebrands-as-pythia-games
+2026-10-28T19:13:51+00:00	PressEngine announces The Pre-Show, an in-person London showcase for upcoming games https://www.gamesindustry.biz/pressengine-announces-the-pre-show-an-in-person-london-showcase-for-upcoming-games
