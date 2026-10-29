@@ -3,11 +3,8 @@
 # source = https://www.reddit.com/r/Games.rss
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
-2026-10-27T17:18:51+00:00	Grand Theft Auto 6 Download Size Revealed To Be 210 GB https://www.reddit.com/r/Games/comments/1xgyngk/grand_theft_auto_6_download_size_revealed_to_be/
-2026-10-28T07:30:23+00:00	The New Trackmania Cheating Scandal https://www.reddit.com/r/Games/comments/1xhhk81/the_new_trackmania_cheating_scandal/
 2026-10-28T07:48:56+00:00	Valve Responds to Developers Fearing AI Slop and Clones https://www.reddit.com/r/Games/comments/1xhhufp/valve_responds_to_developers_fearing_ai_slop_and/
 2026-10-28T11:00:42+00:00	Daily /r/Games Discussion - Suggest Me a Game - October 28, 2026 https://www.reddit.com/r/Games/comments/1xhkyds/daily_rgames_discussion_suggest_me_a_game_october/
-2026-10-28T11:37:01+00:00	MOBILE SUIT GUNDAM GUNDAM BATTLE OPERATION 3 Announced, Releases TBD on PC & PS5 https://www.reddit.com/r/Games/comments/1xhlnkj/mobile_suit_gundam_gundam_battle_operation_3/
 2026-10-28T13:52:07+00:00	Capcom has temporarily delisted Street Fighter 5 and turned off its servers as it works on PHP security issue https://www.reddit.com/r/Games/comments/1xhonny/capcom_has_temporarily_delisted_street_fighter_5/
 2026-10-28T14:04:37+00:00	No Man's Sky Forsaken Trailer https://www.reddit.com/r/Games/comments/1xhozqa/no_mans_sky_forsaken_trailer/
 2026-10-28T14:11:38+00:00	Witchbrook Coming to PC, Nintendo Switch, Nintendo Switch 2, PS5, and Xbox on January 28th! https://www.reddit.com/r/Games/comments/1xhp615/witchbrook_coming_to_pc_nintendo_switch_nintendo/
@@ -28,3 +25,6 @@
 2026-10-28T19:29:08+00:00	"We basically rewrote the entire State of Decay game": Undead Labs spent years trying to make State of Decay 3 into a full-blown zombie apocalypse MMO https://www.reddit.com/r/Games/comments/1xhxyo5/we_basically_rewrote_the_entire_state_of_decay/
 2026-10-28T20:28:58+00:00	No Man’s Sky - Forsaken Update https://www.reddit.com/r/Games/comments/1xhzl00/no_mans_sky_forsaken_update/
 2026-10-28T20:34:27+00:00	Xbox content and services revenue decreased 2% in September quarter, hardware revenue declines 14% https://www.reddit.com/r/Games/comments/1xhzqdv/xbox_content_and_services_revenue_decreased_2_in/
+2026-10-28T22:38:07+00:00	A message from Soulframe LIANG, CEO of S-Game and Creative Director of Phantom Blade Zero, on the eve of the game's release https://www.reddit.com/r/Games/comments/1xi2vfy/a_message_from_soulframe_liang_ceo_of_sgame_and/
+2026-10-28T23:51:26+00:00	MoonDeck, a popular Steam Deck plugin used to simplify and improve streaming games from a user's own PC (running Moonlight) to their Steam Deck, is ceasing development because "Steam Remote Play has simply become too good" https://www.reddit.com/r/Games/comments/1xi4lmz/moondeck_a_popular_steam_deck_plugin_used_to/
+2026-10-29T00:32:07+00:00	New GTA 6 info / quotes from the @edgeonline feature https://www.reddit.com/r/Games/comments/1xi5jxb/new_gta_6_info_quotes_from_the_edgeonline_feature/
