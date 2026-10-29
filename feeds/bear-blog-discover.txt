@@ -3,7 +3,6 @@
 # source = https://bearblog.dev/discover/feed/
 # description = twtxt conversion of https://bearblog.dev/discover/feed/
 
-2026-10-26T10:24:02.036955+00:00	a list of very stupid blogpost ideas i will almost certainly not use for anything https://kami.bearblog.dev/a-list-of-very-stupid-blogpost-ideas-i-will-almost-certainly-not-use-for-anything/
 2026-10-26T15:50:00+00:00	world, don't stop watching Brasil https://spindlecrow.space/world-dont-stop-watching-brasil/
 2026-10-26T19:55:00+00:00	The Threat of Generative Writing https://jetgirl.art/the-threat-of-generative-writing/
 2026-10-26T20:57:35.294189+00:00	my insecurities on bearblog https://bx.bearblog.dev/my-insecurities-on-bearblog/
@@ -15,10 +14,11 @@
 2026-10-27T22:02:00+00:00	Learning To Be Alone After a Relationship https://samwigglesworth.bearblog.dev/learning-to-be-alone-after-a-relationship/
 2026-10-28T06:23:00+00:00	Makin' movies https://blog.lauramichet.com/makin-movies/
 2026-10-28T06:38:18.558933+00:00	An honest attempt at transparency https://shuttershyness100.bearblog.dev/an-honest-attempt-at-transparency/
-2026-10-28T08:55:00+00:00	paper 投稿記 https://doghappylife.bearblog.dev/6184/
+2026-10-28T12:08:00+00:00	I hand wash my laundry out of spite https://littleducky.bearblog.dev/i-hand-wash-my-laundry-out-of-spite/
 2026-10-28T13:24:00+00:00	...how to ruin a perfectly good sunset photo. https://coreyblogs.com/how-to-ruin-a-perfectly-good-sunset-photo/
 2026-10-28T14:34:19.827889+00:00	what does my pain feel like? https://blog.avas.space/my-pain/
 2026-10-28T14:34:58.632123+00:00	New post https://folkmoss.bearblog.dev/new-post-new-new-new/
+2026-10-28T15:41:00+00:00	Sampai Jauh-Jauh ke Solo https://alang-alang.bearblog.dev/sampai-jauh-jauh-ke-solo/
 2026-10-28T15:53:01.884331+00:00	We aren’t entitled to a good, happy life https://futureperfect.bearblog.dev/we-arent-entitled-to-a-good-happy-life/
 2026-10-28T16:03:00+00:00	Financial trauma I hope I won't pass down on my daughter https://topopa.bearblog.dev/financial-trauma/
 2026-10-28T16:50:00+00:00	Stubbornness is not conviction https://writeitdown.bearblog.dev/stubbornness-is-not-conviction/
