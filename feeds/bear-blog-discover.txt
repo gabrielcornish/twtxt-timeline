@@ -4,14 +4,10 @@
 # description = twtxt conversion of https://bearblog.dev/discover/feed/
 
 2026-10-26T15:50:00+00:00	world, don't stop watching Brasil https://spindlecrow.space/world-dont-stop-watching-brasil/
-2026-10-26T19:55:00+00:00	The Threat of Generative Writing https://jetgirl.art/the-threat-of-generative-writing/
 2026-10-26T20:57:35.294189+00:00	my insecurities on bearblog https://bx.bearblog.dev/my-insecurities-on-bearblog/
 2026-10-27T08:49:00+00:00	Virtual museum for my wife's artworks https://dostoynikov.bearblog.dev/virtual-museum-for-my-wifes-artworks/
-2026-10-27T11:30:00+00:00	I have been doing this little blog for a year now and I love it. https://etan.bearblog.dev/i-have-been-doing-this-little-blog-for-a-year-now-and-i-love-it/
 2026-10-27T13:05:00+00:00	The upvote dilemma https://herman.bearblog.dev/the-upvote-dilemma/
-2026-10-27T16:30:25.931088+00:00	what if we started over? https://rnotte.art/what-if-we-started-over/
 2026-10-27T22:02:00+00:00	Learning To Be Alone After a Relationship https://samwigglesworth.bearblog.dev/learning-to-be-alone-after-a-relationship/
-2026-10-28T06:23:00+00:00	Makin' movies https://blog.lauramichet.com/makin-movies/
 2026-10-28T06:38:18.558933+00:00	An honest attempt at transparency https://shuttershyness100.bearblog.dev/an-honest-attempt-at-transparency/
 2026-10-28T12:08:00+00:00	I hand wash my laundry out of spite https://littleducky.bearblog.dev/i-hand-wash-my-laundry-out-of-spite/
 2026-10-28T13:24:00+00:00	...how to ruin a perfectly good sunset photo. https://coreyblogs.com/how-to-ruin-a-perfectly-good-sunset-photo/
@@ -20,6 +16,10 @@
 2026-10-28T15:53:01.884331+00:00	We aren’t entitled to a good, happy life https://futureperfect.bearblog.dev/we-arent-entitled-to-a-good-happy-life/
 2026-10-28T16:03:00+00:00	Financial trauma I hope I won't pass down on my daughter https://topopa.bearblog.dev/financial-trauma/
 2026-10-28T16:50:00+00:00	Stubbornness is not conviction https://writeitdown.bearblog.dev/stubbornness-is-not-conviction/
-2026-10-28T19:57:50.947390+00:00	a trepid return to bearblog https://neko.bearblog.dev/a-trepid-return-to-bearblog/
+2026-10-28T19:57:00+00:00	a trepid return to bearblog https://neko.bearblog.dev/a-trepid-return-to-bearblog/
 2026-10-29T11:58:53.808532+00:00	So you've been made redundant https://enemyterritory.blog/so-youve-been-made-redundant/
-2026-10-29T12:05:52.729313+00:00	Tribes don't grow brands (strangers do) https://enemyterritory.blog/tribes-dont-grow-brands-strangers-do/
+2026-10-29T13:49:00+00:00	...three adorable (gay) questions from his niblings. https://coreyblogs.com/three-adorable-gay-questions-from-his-niblings/
+2026-10-29T16:04:00+00:00	ask me something https://tiramisu.bearblog.dev/ask-me-something/
+2026-10-29T16:51:00.678602+00:00	Making a Character You'll Enjoy Playing https://tbr.bearblog.dev/making-a-character-youll-enjoy-playing/
+2026-10-29T17:07:32.421387+00:00	Our gov't invests in AI https://itsme.bearblog.dev/our-govt-invests-in-ai/
+2026-10-29T17:27:41.640377+00:00	Inside Sika Agent: What Two Models Compute When Your Request Comes in Twi–English https://geeksilas.bearblog.dev/inside-sika-agent/
