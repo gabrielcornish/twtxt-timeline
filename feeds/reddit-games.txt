@@ -4,27 +4,27 @@
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
 2026-10-28T11:00:42+00:00	Daily /r/Games Discussion - Suggest Me a Game - October 28, 2026 https://www.reddit.com/r/Games/comments/1xhkyds/daily_rgames_discussion_suggest_me_a_game_october/
-2026-10-28T13:52:07+00:00	Capcom has temporarily delisted Street Fighter 5 and turned off its servers as it works on PHP security issue https://www.reddit.com/r/Games/comments/1xhonny/capcom_has_temporarily_delisted_street_fighter_5/
-2026-10-28T14:04:37+00:00	No Man's Sky Forsaken Trailer https://www.reddit.com/r/Games/comments/1xhozqa/no_mans_sky_forsaken_trailer/
-2026-10-28T14:11:38+00:00	Witchbrook Coming to PC, Nintendo Switch, Nintendo Switch 2, PS5, and Xbox on January 28th! https://www.reddit.com/r/Games/comments/1xhp615/witchbrook_coming_to_pc_nintendo_switch_nintendo/
-2026-10-28T14:32:41+00:00	Sulfur 1.0 | Out Now on PC and Consoles https://www.reddit.com/r/Games/comments/1xhppmm/sulfur_10_out_now_on_pc_and_consoles/
-2026-10-28T15:04:04+00:00	AMA - We are Total Mayhem Games, creators of the co-op puzzle series We Were Here and the recently launched We Were Here Tomorrow. Ask Us Anything! https://www.reddit.com/r/Games/comments/1xhqjcl/ama_we_are_total_mayhem_games_creators_of_the/
 2026-10-28T15:05:39+00:00	Control Resonant is now available on GOG https://www.reddit.com/r/Games/comments/1xhqkw9/control_resonant_is_now_available_on_gog/
-2026-10-28T15:18:38+00:00	Revisiting the cloning of Threes by 2028; the reason devs cant rely on making "the best version available" to fight copycats, and why we're going to lose creative indie games as a chilling effect https://www.reddit.com/r/Games/comments/1xhqxip/revisiting_the_cloning_of_threes_by_2028_the/
-2026-10-28T16:32:15+00:00	Insomniac Games’ Upcoming X-MEN Game to Feature Multiple Playable Characters https://www.reddit.com/r/Games/comments/1xhszr0/insomniac_games_upcoming_xmen_game_to_feature/
-2026-10-28T17:07:02+00:00	EXODUS Gameplay | Liberating the Kay Mission Demo https://www.reddit.com/r/Games/comments/1xhtyy8/exodus_gameplay_liberating_the_kay_mission_demo/
-2026-10-28T17:11:07+00:00	Monster Train 2 - New DLC Announcement https://www.reddit.com/r/Games/comments/1xhu352/monster_train_2_new_dlc_announcement/
-2026-10-28T19:03:16+00:00	Alien: Isolation 2 Team Confirms Physical Edition, Photo Mode, and New Gameplay Details https://www.reddit.com/r/Games/comments/1xhx8vb/alien_isolation_2_team_confirms_physical_edition/
-2026-10-28T19:05:28+00:00	Threads of Time Release Window Trailer. Coming Summer 2027 https://www.reddit.com/r/Games/comments/1xhxb6f/threads_of_time_release_window_trailer_coming/
 2026-10-28T19:29:08+00:00	"We basically rewrote the entire State of Decay game": Undead Labs spent years trying to make State of Decay 3 into a full-blown zombie apocalypse MMO https://www.reddit.com/r/Games/comments/1xhxyo5/we_basically_rewrote_the_entire_state_of_decay/
 2026-10-28T20:28:58+00:00	No Man’s Sky - Forsaken Update https://www.reddit.com/r/Games/comments/1xhzl00/no_mans_sky_forsaken_update/
-2026-10-28T20:34:27+00:00	Xbox content and services revenue decreased 2% in September quarter, hardware revenue declines 14% https://www.reddit.com/r/Games/comments/1xhzqdv/xbox_content_and_services_revenue_decreased_2_in/
 2026-10-28T22:38:07+00:00	A message from Soulframe LIANG, CEO of S-Game and Creative Director of Phantom Blade Zero, on the eve of the game's release https://www.reddit.com/r/Games/comments/1xi2vfy/a_message_from_soulframe_liang_ceo_of_sgame_and/
 2026-10-28T23:51:26+00:00	MoonDeck, a popular Steam Deck plugin used to simplify and improve streaming games from a user's own PC (running Moonlight) to their Steam Deck, is ceasing development because "Steam Remote Play has simply become too good" https://www.reddit.com/r/Games/comments/1xi4lmz/moondeck_a_popular_steam_deck_plugin_used_to/
 2026-10-29T00:32:07+00:00	New GTA 6 info / quotes from the @edgeonline feature https://www.reddit.com/r/Games/comments/1xi5jxb/new_gta_6_info_quotes_from_the_edgeonline_feature/
 2026-10-29T02:19:30+00:00	Noah Caldwell-Gervais - Scenic Despair: Scorn vs. Necrophosis https://www.reddit.com/r/Games/comments/1xi7ux3/noah_caldwellgervais_scenic_despair_scorn_vs/
-2026-10-29T02:30:37+00:00	Fallout 2: New Reno Area Design https://www.reddit.com/r/Games/comments/1xi836i/fallout_2_new_reno_area_design/
 2026-10-29T03:21:15+00:00	Dokapon Kingdom: Connect 2 | Announced, Releases Summer 2027 on PC, Switch 2, Switch https://www.reddit.com/r/Games/comments/1xi93tb/dokapon_kingdom_connect_2_announced_releases/
 2026-10-29T05:15:48+00:00	Talos Principle 2 base price increased from $29.99 to $39.99 https://www.reddit.com/r/Games/comments/1xib74u/talos_principle_2_base_price_increased_from_2999/
 2026-10-29T06:18:10+00:00	New Grand Theft Auto 6 Gameplay Revealed During Latest South Park Episode https://www.reddit.com/r/Games/comments/1xic8ie/new_grand_theft_auto_6_gameplay_revealed_during/
 2026-10-29T07:07:09+00:00	BAKUDO Official Trailer — Coming to Nintendo Switch 2 https://www.reddit.com/r/Games/comments/1xid0sz/bakudo_official_trailer_coming_to_nintendo_switch/
+2026-10-29T11:42:08+00:00	COD Modern Warfare 4 uses real news footage from South Korean tragedy, is urged by families to remove it https://www.reddit.com/r/Games/comments/1xihmww/cod_modern_warfare_4_uses_real_news_footage_from/
+2026-10-29T12:11:55+00:00	Melvor Idle 2: Coming November 17 (& Published by Jagex) https://www.reddit.com/r/Games/comments/1xii9b2/melvor_idle_2_coming_november_17_published_by/
+2026-10-29T12:13:51+00:00	Vampire Tactics Reveal Trailer https://www.reddit.com/r/Games/comments/1xiiar4/vampire_tactics_reveal_trailer/
+2026-10-29T12:55:34+00:00	Phantom Blade Zero: Longtime Sonic, Ezio Voice Actor Roger Craig Smith Is The New VO For Protagonist Soul (Original VO Jay Maksenuk Replaced Right Before Release) https://www.reddit.com/r/Games/comments/1xij744/phantom_blade_zero_longtime_sonic_ezio_voice/
+2026-10-29T13:04:00+00:00	The Grimm Reapress and the Drearytale Monster releases May 13th 2027 on PC, PS5, Switch 2, Switch https://www.reddit.com/r/Games/comments/1xijeap/the_grimm_reapress_and_the_drearytale_monster/
+2026-10-29T13:39:40+00:00	The Lord of the Rings Online: The Wolves of Mordor - Launch Trailer https://www.reddit.com/r/Games/comments/1xik97l/the_lord_of_the_rings_online_the_wolves_of_mordor/
+2026-10-29T14:03:46+00:00	HITMAN World of Assassination - The Host (ft. Jacksepticeye) Elusive Target https://www.reddit.com/r/Games/comments/1xikw01/hitman_world_of_assassination_the_host_ft/
+2026-10-29T14:07:12+00:00	The Duskbloods delayed to 2027 https://www.reddit.com/r/Games/comments/1xikzgt/the_duskbloods_delayed_to_2027/
+2026-10-29T14:15:38+00:00	Resonance of Fate 4K/HD Edition to receive an 'Enhanced Remaster' DLC, adding HDR, 120FPS, 2x speed mode, & more https://www.reddit.com/r/Games/comments/1xil7f1/resonance_of_fate_4khd_edition_to_receive_an/
+2026-10-29T14:51:50+00:00	The Wolf Among Us Remastered Review Thread https://www.reddit.com/r/Games/comments/1xim4o4/the_wolf_among_us_remastered_review_thread/
+2026-10-29T15:04:06+00:00	VIRTUA FIGHTER CROSSROADS: Lionel Rafale Announcement Trailer https://www.reddit.com/r/Games/comments/1ximg7v/virtua_fighter_crossroads_lionel_rafale/
+2026-10-29T15:04:52+00:00	[Circana] PS5 & XBS - Current Sales vs Previous Generations Sales (US) https://www.reddit.com/r/Games/comments/1ximh25/circana_ps5_xbs_current_sales_vs_previous/
+2026-10-29T15:05:59+00:00	Celeste and Towerfall Delisted from Xbox Storefront https://www.reddit.com/r/Games/comments/1ximi8d/celeste_and_towerfall_delisted_from_xbox/
