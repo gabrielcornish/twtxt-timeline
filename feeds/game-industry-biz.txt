@@ -3,10 +3,6 @@
 # source = https://www.gamesindustry.biz/feed
 # description = twtxt conversion of https://www.gamesindustry.biz/feed
 
-2026-10-20T13:00:45+00:00	Griffin Gaming Partners and Entertainment 360 launch new company to support video game adaptations for film and TV https://www.gamesindustry.biz/griffin-gaming-partners-and-entertainment-360-launch-new-company-to-support-video-game-adaptations-for-film-and-tv
-2026-10-21T08:00:00+00:00	Demystifying unions: What games leaders need to know https://www.gamesindustry.biz/demystifying-unions-what-games-leaders-need-to-know
-2026-10-21T08:40:54+00:00	Vivrato: 97% of studio leaders use AI in some form during development in EU and North America https://www.gamesindustry.biz/vivrato-97-of-studio-leaders-use-ai-in-some-form-during-development-in-eu-and-north-america
-2026-10-21T10:53:35+00:00	Games like Call of Duty and EA Sports FC most at risk of losing players during GTA 6 launch, according to new data https://www.gamesindustry.biz/games-like-call-of-duty-and-ea-sports-fc-most-at-risk-of-losing-players-during-gta-6-launch-according-to-new-data
 2026-10-21T11:39:48+00:00	Indies and original IP blew up in 2026 https://www.gamesindustry.biz/indies-and-original-ip-blew-up-in-2026
 2026-10-21T13:38:47+00:00	Project Helix reportedly launching in late 2028, projected to cost between $1,200 and $1,800 https://www.gamesindustry.biz/project-helix-reportedly-launching-in-late-2028-projected-to-cost-between-1200-and-1800
 2026-10-21T14:00:00+00:00	How to run an indie game studio: Part 4, Setting (and hitting) quarterly rocks https://www.gamesindustry.biz/how-to-run-an-indie-game-studio-part-4-setting-and-hitting-quarterly-rocks
@@ -53,3 +49,7 @@
 2026-10-29T13:04:14+00:00	"I wish I had the formula" – 2Awesome Studio on navigating indie development while creating Altered Alma, its biggest project to date https://www.gamesindustry.biz/i-wish-i-had-the-formula-2awesome-studio-on-navigating-indie-development-while-creating-altered-alma-its-biggest-project-to-date
 2026-10-29T13:30:00+00:00	"We are very eager to learn from the real veterans" – How Tencent's TiMi Studio Group collaborated with Capcom on Monster Hunter Outlanders https://www.gamesindustry.biz/we-are-very-eager-to-learn-from-the-real-veterans-how-tencents-timi-studio-group-collaborated-with-capcom-on-monster-hunter-outlanders
 2026-10-29T14:29:45+00:00	Newly merged Skydance mandates staff return to office five days a week, offers Voluntary Buyout Program https://www.gamesindustry.biz/newly-merged-skydance-mandates-staff-return-to-office-five-days-a-week-offers-voluntary-buyout-program
+2026-10-30T09:00:00+00:00	Why asking "what's the budget for your game?" doesn't make sense in 2026 | Opinion https://www.gamesindustry.biz/why-asking-whats-the-budget-for-your-game-doesnt-make-sense-in-2026-opinion
+2026-10-30T10:44:44+00:00	Roblox Q3 results beat expectations despite bookings falling 12% to $1.7bn https://www.gamesindustry.biz/roblox-q3-results-beat-expectations-despite-bookings-falling-12-to-17bn
+2026-10-30T12:00:00+00:00	Gaming storefronts are facing a Slop Grenade problem | Opinion https://www.gamesindustry.biz/gaming-storefronts-are-facing-a-slop-grenade-problem-opinion
+2026-10-30T12:10:27+00:00	Maddy Makes Games removes Celeste and TowerFall from Xbox in support of pro-Palestinian BDS boycott https://www.gamesindustry.biz/maddy-makes-games-removes-celeste-and-towerfall-from-xbox-in-support-of-pro-palestinian-bds-boycott

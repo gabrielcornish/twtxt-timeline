@@ -4,27 +4,27 @@
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
 2026-10-28T11:00:42+00:00	Daily /r/Games Discussion - Suggest Me a Game - October 28, 2026 https://www.reddit.com/r/Games/comments/1xhkyds/daily_rgames_discussion_suggest_me_a_game_october/
-2026-10-28T23:51:26+00:00	MoonDeck, a popular Steam Deck plugin used to simplify and improve streaming games from a user's own PC (running Moonlight) to their Steam Deck, is ceasing development because "Steam Remote Play has simply become too good" https://www.reddit.com/r/Games/comments/1xi4lmz/moondeck_a_popular_steam_deck_plugin_used_to/
 2026-10-29T06:18:10+00:00	New Grand Theft Auto 6 Gameplay Revealed During Latest South Park Episode https://www.reddit.com/r/Games/comments/1xic8ie/new_grand_theft_auto_6_gameplay_revealed_during/
 2026-10-29T11:42:08+00:00	COD Modern Warfare 4 uses real news footage from South Korean tragedy, is urged by families to remove it https://www.reddit.com/r/Games/comments/1xihmww/cod_modern_warfare_4_uses_real_news_footage_from/
-2026-10-29T12:11:55+00:00	Melvor Idle 2: Coming November 17 (& Published by Jagex) https://www.reddit.com/r/Games/comments/1xii9b2/melvor_idle_2_coming_november_17_published_by/
 2026-10-29T13:39:40+00:00	The Lord of the Rings Online: The Wolves of Mordor - Launch Trailer https://www.reddit.com/r/Games/comments/1xik97l/the_lord_of_the_rings_online_the_wolves_of_mordor/
 2026-10-29T14:07:12+00:00	The Duskbloods delayed to 2027 https://www.reddit.com/r/Games/comments/1xikzgt/the_duskbloods_delayed_to_2027/
-2026-10-29T14:15:38+00:00	Resonance of Fate 4K/HD Edition to receive an 'Enhanced Remaster' DLC, adding HDR, 120FPS, 2x speed mode, & more https://www.reddit.com/r/Games/comments/1xil7f1/resonance_of_fate_4khd_edition_to_receive_an/
 2026-10-29T14:51:50+00:00	The Wolf Among Us Remastered Review Thread https://www.reddit.com/r/Games/comments/1xim4o4/the_wolf_among_us_remastered_review_thread/
-2026-10-29T15:04:06+00:00	VIRTUA FIGHTER CROSSROADS: Lionel Rafale Announcement Trailer https://www.reddit.com/r/Games/comments/1ximg7v/virtua_fighter_crossroads_lionel_rafale/
 2026-10-29T15:05:59+00:00	Celeste and Towerfall Delisted from Xbox Storefront https://www.reddit.com/r/Games/comments/1ximi8d/celeste_and_towerfall_delisted_from_xbox/
 2026-10-29T16:18:51+00:00	Bungie Community Update – October 2026 https://www.reddit.com/r/Games/comments/1xiohpq/bungie_community_update_october_2026/
 2026-10-29T16:32:21+00:00	TheVerge: Sources familiar with Bethesda’s plans tell me that the Xbox-owned publisher is about to announce that the next Elder Scrolls game will officially be called The Elder Scrolls VI: Sentinel, Xbox’s architect of Forza Motorsport is leaving after nearly 27 years https://www.reddit.com/r/Games/comments/1xiov00/theverge_sources_familiar_with_bethesdas_plans/
 2026-10-29T16:33:30+00:00	The Elder Scrolls 6 Title Reportedly Being Revealed Next Month, Just About Eight Years After It Was Announced https://www.reddit.com/r/Games/comments/1xiow2z/the_elder_scrolls_6_title_reportedly_being/
-2026-10-29T16:44:07+00:00	Warhammer Age of Sigmar: Deathmaster | Story Trailer https://www.reddit.com/r/Games/comments/1xip6mb/warhammer_age_of_sigmar_deathmaster_story_trailer/
-2026-10-29T16:46:37+00:00	Dune: Awakening - Blood and Ice Free Expansion https://www.reddit.com/r/Games/comments/1xip91f/dune_awakening_blood_and_ice_free_expansion/
 2026-10-29T17:19:41+00:00	New Game+ is coming to Assassin's Creed Valhalla https://www.reddit.com/r/Games/comments/1xiq6c6/new_game_is_coming_to_assassins_creed_valhalla/
 2026-10-29T18:00:12+00:00	Cairn - On the Trail: Deep Water is out now! https://www.reddit.com/r/Games/comments/1xir9tz/cairn_on_the_trail_deep_water_is_out_now/
-2026-10-29T18:01:35+00:00	Terrible Lizards - Official Launch Trailer https://www.reddit.com/r/Games/comments/1xirban/terrible_lizards_official_launch_trailer/
 2026-10-29T19:08:29+00:00	Gears of War E-Day Has Sold Over 400k Copies per New Report https://www.reddit.com/r/Games/comments/1xit3yg/gears_of_war_eday_has_sold_over_400k_copies_per/
-2026-10-29T19:55:03+00:00	Gothic 1 Remake Gets Photo Mode and More https://www.reddit.com/r/Games/comments/1xiuc0i/gothic_1_remake_gets_photo_mode_and_more/
 2026-10-29T19:59:50+00:00	Patrick Stewart, VA in games such as Elder Scrolls Oblivion, Castlevania Lords of Shadow, and various X-Men games, has passed away https://www.reddit.com/r/Games/comments/1xiugpo/patrick_stewart_va_in_games_such_as_elder_scrolls/
 2026-10-29T21:30:19+00:00	Assassin's Creed: Fall 2026 Update https://www.reddit.com/r/Games/comments/1xiwugs/assassins_creed_fall_2026_update/
 2026-10-29T22:16:19+00:00	The History of Every Video Game Genre - Game Maker's Toolkit https://www.reddit.com/r/Games/comments/1xiy029/the_history_of_every_video_game_genre_game_makers/
 2026-10-30T00:09:24+00:00	AMA: I’m Lance Priebe (RocketSnail), creator of Club Penguin - Ask Me Anything on Oct 30 @ 10am PT / 1pm ET! https://www.reddit.com/r/Games/comments/1xj0nxa/ama_im_lance_priebe_rocketsnail_creator_of_club/
+2026-10-30T09:42:14+00:00	COP BASTARD | Launch Trailer https://www.reddit.com/r/Games/comments/1xjaxu6/cop_bastard_launch_trailer/
+2026-10-30T09:47:09+00:00	Monster Taming meets Roguelite - Aethermancer's Maverick's Compendium Update - Release Trailer https://www.reddit.com/r/Games/comments/1xjb0q7/monster_taming_meets_roguelite_aethermancers/
+2026-10-30T12:08:27+00:00	Seoul crush scene to be removed from Call of Duty after backlash https://www.reddit.com/r/Games/comments/1xjdlto/seoul_crush_scene_to_be_removed_from_call_of_duty/
+2026-10-30T12:24:04+00:00	Fake PS5 emulators on GitHub are spreading password-stealing malware https://www.reddit.com/r/Games/comments/1xjdxpb/fake_ps5_emulators_on_github_are_spreading/
+2026-10-30T12:40:42+00:00	Crimson Desert’s update adds sailing, underwater exploration, housing and marriage https://www.reddit.com/r/Games/comments/1xjeajr/crimson_deserts_update_adds_sailing_underwater/
+2026-10-30T13:35:56+00:00	Chronicles: Medieval - A statement from Raw Power Games https://www.reddit.com/r/Games/comments/1xjfkhu/chronicles_medieval_a_statement_from_raw_power/
+2026-10-30T13:42:11+00:00	SULFUR 1.0 is OUT NOW on PC + ALL CONSOLES!!! https://www.reddit.com/r/Games/comments/1xjfpuc/sulfur_10_is_out_now_on_pc_all_consoles/
+2026-10-30T14:03:03+00:00	Bloomberg: Why Electronic Arts Shut Down BioWare https://www.reddit.com/r/Games/comments/1xjg810/bloomberg_why_electronic_arts_shut_down_bioware/
