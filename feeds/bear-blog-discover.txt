@@ -3,15 +3,12 @@
 # source = https://bearblog.dev/discover/feed/
 # description = twtxt conversion of https://bearblog.dev/discover/feed/
 
-2026-10-27T13:05:00+00:00	The upvote dilemma https://herman.bearblog.dev/the-upvote-dilemma/
 2026-10-28T13:24:00+00:00	...how to ruin a perfectly good sunset photo. https://coreyblogs.com/how-to-ruin-a-perfectly-good-sunset-photo/
-2026-10-28T16:03:00+00:00	Financial trauma I hope I won't pass down on my daughter https://topopa.bearblog.dev/financial-trauma/
 2026-10-28T19:57:00+00:00	a trepid return to bearblog https://neko.bearblog.dev/a-trepid-return-to-bearblog/
 2026-10-28T20:54:00+00:00	Legal exploits may emerge at scale https://felixringe.com/legal-exploits/
 2026-10-29T11:58:53.808532+00:00	So you've been made redundant https://enemyterritory.blog/so-youve-been-made-redundant/
 2026-10-29T13:49:00+00:00	...three adorable (gay) questions from his niblings. https://coreyblogs.com/three-adorable-gay-questions-from-his-niblings/
 2026-10-29T16:04:00+00:00	ask me something https://tiramisu.bearblog.dev/ask-me-something/
-2026-10-29T22:16:00+00:00	📸 https://virtualdream.bearblog.dev/photo-dump/
 2026-10-30T01:30:09.565606+00:00	Actionable Worldbuilding https://elmc.at/actionable-worldbuilding/
 2026-10-30T04:43:09.708976+00:00	Child-like imagination https://doodhpeda.bearblog.dev/blog/child-like-imagination/
 2026-10-30T06:29:00+00:00	The Upvote Dilemma 👍 https://www.wmprkr.xyz/the-upvote-dilemma/
@@ -19,7 +16,10 @@
 2026-10-30T07:45:00+00:00	My daughter at ninety days: Patron of the arts https://abhinandan.bearblog.dev/my-daughter-at-ninety-days-patron-of-the-arts/
 2026-10-30T07:53:46.548193+00:00	some blog updates & a thank you to blogs that inspire me https://nothings.bearblog.dev/some-blog-updates-a-thank-you-to-blogs-that-inspire-me/
 2026-10-30T12:18:00+00:00	What's in my iPhone's Dock https://pzumk.com/dock/
+2026-10-30T13:50:27.078270+00:00	Truth, bullshit and reputation https://blog.happyfellow.dev/truth-bullshit-and-reputation/
 2026-10-30T14:12:00+00:00	...a confession on his one-month Bear Blog-versary. https://coreyblogs.com/a-confession-on-his-one-month-bear-blog-versary/
 2026-10-30T14:21:44.537907+00:00	What Does It Mean to Be Online? https://drglowcatsdebuglog.bearblog.dev/what-does-it-mean-to-be-online/
-2026-10-30T16:44:13.448179+00:00	Stay spooky https://robertbirming.com/stay-spooky/
+2026-10-30T16:21:37.820232+00:00	Missing printed magazines. https://jetgirl.art/missing-printed-magazines/
+2026-10-30T16:44:00+00:00	Stay spooky https://robertbirming.com/stay-spooky/
 2026-10-30T17:48:00+00:00	The geodesic distance between you and I https://flowerpeko.bearblog.dev/the-geodesic-distance-between-you-and-i/
+2026-10-30T18:52:30.629282+00:00	it's okay to do things the hard way https://jeffdelp.bearblog.dev/the-hard-way/

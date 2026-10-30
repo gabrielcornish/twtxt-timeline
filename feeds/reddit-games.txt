@@ -4,7 +4,6 @@
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
 2026-10-28T11:00:42+00:00	Daily /r/Games Discussion - Suggest Me a Game - October 28, 2026 https://www.reddit.com/r/Games/comments/1xhkyds/daily_rgames_discussion_suggest_me_a_game_october/
-2026-10-29T15:05:59+00:00	Celeste and Towerfall Delisted from Xbox Storefront https://www.reddit.com/r/Games/comments/1ximi8d/celeste_and_towerfall_delisted_from_xbox/
 2026-10-29T16:33:30+00:00	The Elder Scrolls 6 Title Reportedly Being Revealed Next Month, Just About Eight Years After It Was Announced https://www.reddit.com/r/Games/comments/1xiow2z/the_elder_scrolls_6_title_reportedly_being/
 2026-10-29T19:08:29+00:00	Gears of War E-Day Has Sold Over 400k Copies per New Report https://www.reddit.com/r/Games/comments/1xit3yg/gears_of_war_eday_has_sold_over_400k_copies_per/
 2026-10-29T19:59:50+00:00	Patrick Stewart, VA in games such as Elder Scrolls Oblivion, Castlevania Lords of Shadow, and various X-Men games, has passed away https://www.reddit.com/r/Games/comments/1xiugpo/patrick_stewart_va_in_games_such_as_elder_scrolls/
@@ -23,8 +22,9 @@
 2026-10-30T17:16:21+00:00	Ace Combat Brand Director explains Kate Evans’ appeal and why he’s Team Little Bee https://www.reddit.com/r/Games/comments/1xjld69/ace_combat_brand_director_explains_kate_evans/
 2026-10-30T17:38:23+00:00	Castlevania's Struggle with Dimensions: The Reception of Symphony of the Night and Castlevania 64 - The Video Game History Foundation https://www.reddit.com/r/Games/comments/1xjlz56/castlevanias_struggle_with_dimensions_the/
 2026-10-30T17:48:44+00:00	John Romero confirms his axed Xbox game has a new publisher and has rehired some staff https://www.reddit.com/r/Games/comments/1xjm97s/john_romero_confirms_his_axed_xbox_game_has_a_new/
-2026-10-30T18:06:01+00:00	Warped Universe Finally Lets You Fight Alongside Friends in Every Mode https://www.reddit.com/r/Games/comments/1xjmpur/warped_universe_finally_lets_you_fight_alongside/
+2026-10-30T18:03:40+00:00	Become the Darkness | Path of Exile 2 Full Release Teaser https://www.reddit.com/r/Games/comments/1xjmnm5/become_the_darkness_path_of_exile_2_full_release/
 2026-10-30T18:11:52+00:00	Queen's Domain - PC & Console Launch Trailer https://www.reddit.com/r/Games/comments/1xjmvf4/queens_domain_pc_console_launch_trailer/
 2026-10-30T18:46:03+00:00	Singularity is a trip back to the FPS past | Ahoy https://www.reddit.com/r/Games/comments/1xjnsb1/singularity_is_a_trip_back_to_the_fps_past_ahoy/
 2026-10-30T18:58:09+00:00	'It's Better if You Don't Have Many Expectations' — Hideki Kamiya Opens Up on Okami Sequel https://www.reddit.com/r/Games/comments/1xjo3k3/its_better_if_you_dont_have_many_expectations/
-2026-10-30T19:21:02+00:00	Gears of War: E-Day Reportedly Cost XBOX $500 Million to Make (Now Corraborated by Jason Schreier), Amid Claims It Has Sold Just 400,000 Copies https://www.reddit.com/r/Games/comments/1xjooxr/gears_of_war_eday_reportedly_cost_xbox_500/
+2026-10-30T21:51:45+00:00	Honkai: Star Rail leakers ordered to pay miHoYo around $150,000 in damages after distributing unreleased game data and assets https://www.reddit.com/r/Games/comments/1xjsie2/honkai_star_rail_leakers_ordered_to_pay_mihoyo/
+2026-10-30T22:08:05+00:00	RoboGAL: Gaga Delta Lady - Launch Trailer https://www.reddit.com/r/Games/comments/1xjswns/robogal_gaga_delta_lady_launch_trailer/
