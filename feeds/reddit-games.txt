@@ -4,16 +4,12 @@
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
 2026-10-28T11:00:42+00:00	Daily /r/Games Discussion - Suggest Me a Game - October 28, 2026 https://www.reddit.com/r/Games/comments/1xhkyds/daily_rgames_discussion_suggest_me_a_game_october/
-2026-10-29T16:33:30+00:00	The Elder Scrolls 6 Title Reportedly Being Revealed Next Month, Just About Eight Years After It Was Announced https://www.reddit.com/r/Games/comments/1xiow2z/the_elder_scrolls_6_title_reportedly_being/
-2026-10-29T19:08:29+00:00	Gears of War E-Day Has Sold Over 400k Copies per New Report https://www.reddit.com/r/Games/comments/1xit3yg/gears_of_war_eday_has_sold_over_400k_copies_per/
 2026-10-29T19:59:50+00:00	Patrick Stewart, VA in games such as Elder Scrolls Oblivion, Castlevania Lords of Shadow, and various X-Men games, has passed away https://www.reddit.com/r/Games/comments/1xiugpo/patrick_stewart_va_in_games_such_as_elder_scrolls/
 2026-10-30T00:09:24+00:00	AMA: I’m Lance Priebe (RocketSnail), creator of Club Penguin - Ask Me Anything on Oct 30 @ 10am PT / 1pm ET! https://www.reddit.com/r/Games/comments/1xj0nxa/ama_im_lance_priebe_rocketsnail_creator_of_club/
-2026-10-30T09:42:14+00:00	COP BASTARD | Launch Trailer https://www.reddit.com/r/Games/comments/1xjaxu6/cop_bastard_launch_trailer/
 2026-10-30T09:47:09+00:00	Monster Taming meets Roguelite - Aethermancer's Maverick's Compendium Update - Release Trailer https://www.reddit.com/r/Games/comments/1xjb0q7/monster_taming_meets_roguelite_aethermancers/
 2026-10-30T12:08:27+00:00	Seoul crush scene to be removed from Call of Duty after backlash https://www.reddit.com/r/Games/comments/1xjdlto/seoul_crush_scene_to_be_removed_from_call_of_duty/
 2026-10-30T12:24:04+00:00	Fake PS5 emulators on GitHub are spreading password-stealing malware https://www.reddit.com/r/Games/comments/1xjdxpb/fake_ps5_emulators_on_github_are_spreading/
 2026-10-30T12:40:42+00:00	Crimson Desert’s update adds sailing, underwater exploration, housing and marriage https://www.reddit.com/r/Games/comments/1xjeajr/crimson_deserts_update_adds_sailing_underwater/
-2026-10-30T13:10:08+00:00	Curse of Resthaven Launch Trailer https://www.reddit.com/r/Games/comments/1xjeyrw/curse_of_resthaven_launch_trailer/
 2026-10-30T13:35:56+00:00	Chronicles: Medieval - A statement from Raw Power Games https://www.reddit.com/r/Games/comments/1xjfkhu/chronicles_medieval_a_statement_from_raw_power/
 2026-10-30T14:03:03+00:00	Bloomberg: Why Electronic Arts Shut Down BioWare https://www.reddit.com/r/Games/comments/1xjg810/bloomberg_why_electronic_arts_shut_down_bioware/
 2026-10-30T15:11:26+00:00	Analysts Say That Xbox’s Recent Efforts And GTA 6 Hasn’t Done Anything To Boost Xbox As Console Sales, Game Sales, And Revenue Continue To Plummet: “It’s Really Hard To Find Any Signs Of Hope Or Positivity On That Platform Right Now” https://www.reddit.com/r/Games/comments/1xjhzhw/analysts_say_that_xboxs_recent_efforts_and_gta_6/
@@ -28,3 +24,7 @@
 2026-10-30T18:58:09+00:00	'It's Better if You Don't Have Many Expectations' — Hideki Kamiya Opens Up on Okami Sequel https://www.reddit.com/r/Games/comments/1xjo3k3/its_better_if_you_dont_have_many_expectations/
 2026-10-30T21:51:45+00:00	Honkai: Star Rail leakers ordered to pay miHoYo around $150,000 in damages after distributing unreleased game data and assets https://www.reddit.com/r/Games/comments/1xjsie2/honkai_star_rail_leakers_ordered_to_pay_mihoyo/
 2026-10-30T22:08:05+00:00	RoboGAL: Gaga Delta Lady - Launch Trailer https://www.reddit.com/r/Games/comments/1xjswns/robogal_gaga_delta_lady_launch_trailer/
+2026-10-31T00:33:33+00:00	Xbox's Doom, Wolfenstein Developers Working 'More Closely Than Ever' Following Xbox 'Reset' Layoffs https://www.reddit.com/r/Games/comments/1xjw7yz/xboxs_doom_wolfenstein_developers_working_more/
+2026-10-31T02:18:49+00:00	Final Fantasy XIV Evercold Early Access to launch on Feb 19, 2027. Official Launch Feb 23, 2027. https://www.reddit.com/r/Games/comments/1xjyfxp/final_fantasy_xiv_evercold_early_access_to_launch/
+2026-10-31T04:56:49+00:00	FINAL FANTASY XIV: Evercold | Full Trailer https://www.reddit.com/r/Games/comments/1xk1evj/final_fantasy_xiv_evercold_full_trailer/
+2026-10-31T05:10:26+00:00	Anthropic Nerfs Claude Again To Stop Users From Making AI Slop Out Of Any ‘Specific Existing Game’ https://www.reddit.com/r/Games/comments/1xk1ngh/anthropic_nerfs_claude_again_to_stop_users_from/
