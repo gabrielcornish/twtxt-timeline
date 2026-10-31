@@ -3,12 +3,11 @@
 # source = https://bearblog.dev/discover/feed/
 # description = twtxt conversion of https://bearblog.dev/discover/feed/
 
-2026-10-28T13:24:00+00:00	...how to ruin a perfectly good sunset photo. https://coreyblogs.com/how-to-ruin-a-perfectly-good-sunset-photo/
 2026-10-28T20:54:00+00:00	Legal exploits may emerge at scale https://felixringe.com/legal-exploits/
 2026-10-29T16:04:00+00:00	ask me something https://tiramisu.bearblog.dev/ask-me-something/
 2026-10-30T01:30:09.565606+00:00	Actionable Worldbuilding https://elmc.at/actionable-worldbuilding/
-2026-10-30T04:43:09.708976+00:00	Child-like imagination https://doodhpeda.bearblog.dev/blog/child-like-imagination/
 2026-10-30T06:29:00+00:00	The Upvote Dilemma 👍 https://www.wmprkr.xyz/the-upvote-dilemma/
+2026-10-30T07:53:46.548193+00:00	some blog updates & a thank you to blogs that inspire me https://nothings.bearblog.dev/some-blog-updates-a-thank-you-to-blogs-that-inspire-me/
 2026-10-30T12:18:00+00:00	What's in my iPhone's Dock https://pzumk.com/dock/
 2026-10-30T14:12:00+00:00	...a confession on his one-month Bear Blog-versary. https://coreyblogs.com/a-confession-on-his-one-month-bear-blog-versary/
 2026-10-30T16:21:37.820232+00:00	Missing printed magazines. https://jetgirl.art/missing-printed-magazines/
@@ -23,3 +22,4 @@
 2026-10-31T09:58:21.275978+00:00	Domain (James Herbert) https://habitualmood.com/domain-james-herbert/
 2026-10-31T10:41:00+00:00	Daily Rhythm https://mingrelia.bearblog.dev/rhythm/
 2026-10-31T12:29:00+00:00	Bear Halloween upvote button https://robertbirming.com/bear-halloween-upvote-button/
+2026-10-31T19:46:17.932072+00:00	"for the last american buffalo" by steve scafidi https://tiramisu.bearblog.dev/for-the-last-american-buffalo-by-steve-scafidi/
