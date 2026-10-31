@@ -5,15 +5,13 @@
 
 2026-10-28T11:00:42+00:00	Daily /r/Games Discussion - Suggest Me a Game - October 28, 2026 https://www.reddit.com/r/Games/comments/1xhkyds/daily_rgames_discussion_suggest_me_a_game_october/
 2026-10-29T19:59:50+00:00	Patrick Stewart, VA in games such as Elder Scrolls Oblivion, Castlevania Lords of Shadow, and various X-Men games, has passed away https://www.reddit.com/r/Games/comments/1xiugpo/patrick_stewart_va_in_games_such_as_elder_scrolls/
-2026-10-30T00:09:24+00:00	AMA: I’m Lance Priebe (RocketSnail), creator of Club Penguin - Ask Me Anything on Oct 30 @ 10am PT / 1pm ET! https://www.reddit.com/r/Games/comments/1xj0nxa/ama_im_lance_priebe_rocketsnail_creator_of_club/
+2026-10-30T10:00:55+00:00	Daily /r/Games Discussion - Free Talk Friday - October 30, 2026 https://www.reddit.com/r/Games/comments/1xjb8z9/daily_rgames_discussion_free_talk_friday_october/
 2026-10-30T12:08:27+00:00	Seoul crush scene to be removed from Call of Duty after backlash https://www.reddit.com/r/Games/comments/1xjdlto/seoul_crush_scene_to_be_removed_from_call_of_duty/
 2026-10-30T12:24:04+00:00	Fake PS5 emulators on GitHub are spreading password-stealing malware https://www.reddit.com/r/Games/comments/1xjdxpb/fake_ps5_emulators_on_github_are_spreading/
 2026-10-30T12:40:42+00:00	Crimson Desert’s update adds sailing, underwater exploration, housing and marriage https://www.reddit.com/r/Games/comments/1xjeajr/crimson_deserts_update_adds_sailing_underwater/
 2026-10-30T14:03:03+00:00	Bloomberg: Why Electronic Arts Shut Down BioWare https://www.reddit.com/r/Games/comments/1xjg810/bloomberg_why_electronic_arts_shut_down_bioware/
 2026-10-30T15:11:26+00:00	Analysts Say That Xbox’s Recent Efforts And GTA 6 Hasn’t Done Anything To Boost Xbox As Console Sales, Game Sales, And Revenue Continue To Plummet: “It’s Really Hard To Find Any Signs Of Hope Or Positivity On That Platform Right Now” https://www.reddit.com/r/Games/comments/1xjhzhw/analysts_say_that_xboxs_recent_efforts_and_gta_6/
-2026-10-30T15:13:03+00:00	Rayman Legends Retold - Astro Bot Outfit Trailer https://www.reddit.com/r/Games/comments/1xji13d/rayman_legends_retold_astro_bot_outfit_trailer/
 2026-10-30T15:25:22+00:00	Crown's Edge – Reveal Trailer | Medieval Kingdom Sim Where Any Villager Is a Real Player https://www.reddit.com/r/Games/comments/1xjicpb/crowns_edge_reveal_trailer_medieval_kingdom_sim/
-2026-10-30T17:16:21+00:00	Ace Combat Brand Director explains Kate Evans’ appeal and why he’s Team Little Bee https://www.reddit.com/r/Games/comments/1xjld69/ace_combat_brand_director_explains_kate_evans/
 2026-10-30T17:38:23+00:00	Castlevania's Struggle with Dimensions: The Reception of Symphony of the Night and Castlevania 64 - The Video Game History Foundation https://www.reddit.com/r/Games/comments/1xjlz56/castlevanias_struggle_with_dimensions_the/
 2026-10-30T17:48:44+00:00	John Romero confirms his axed Xbox game has a new publisher and has rehired some staff https://www.reddit.com/r/Games/comments/1xjm97s/john_romero_confirms_his_axed_xbox_game_has_a_new/
 2026-10-30T18:03:40+00:00	Become the Darkness | Path of Exile 2 Full Release Teaser https://www.reddit.com/r/Games/comments/1xjmnm5/become_the_darkness_path_of_exile_2_full_release/
@@ -21,10 +19,12 @@
 2026-10-30T18:46:03+00:00	Singularity is a trip back to the FPS past | Ahoy https://www.reddit.com/r/Games/comments/1xjnsb1/singularity_is_a_trip_back_to_the_fps_past_ahoy/
 2026-10-30T18:58:09+00:00	'It's Better if You Don't Have Many Expectations' — Hideki Kamiya Opens Up on Okami Sequel https://www.reddit.com/r/Games/comments/1xjo3k3/its_better_if_you_dont_have_many_expectations/
 2026-10-30T21:51:45+00:00	Honkai: Star Rail leakers ordered to pay miHoYo around $150,000 in damages after distributing unreleased game data and assets https://www.reddit.com/r/Games/comments/1xjsie2/honkai_star_rail_leakers_ordered_to_pay_mihoyo/
-2026-10-30T22:08:05+00:00	RoboGAL: Gaga Delta Lady - Launch Trailer https://www.reddit.com/r/Games/comments/1xjswns/robogal_gaga_delta_lady_launch_trailer/
 2026-10-31T00:33:33+00:00	Xbox's Doom, Wolfenstein Developers Working 'More Closely Than Ever' Following Xbox 'Reset' Layoffs https://www.reddit.com/r/Games/comments/1xjw7yz/xboxs_doom_wolfenstein_developers_working_more/
 2026-10-31T02:18:49+00:00	Final Fantasy XIV Evercold Early Access to launch on Feb 19, 2027. Official Launch Feb 23, 2027. https://www.reddit.com/r/Games/comments/1xjyfxp/final_fantasy_xiv_evercold_early_access_to_launch/
 2026-10-31T04:56:49+00:00	FINAL FANTASY XIV: Evercold | Full Trailer https://www.reddit.com/r/Games/comments/1xk1evj/final_fantasy_xiv_evercold_full_trailer/
 2026-10-31T05:10:26+00:00	Anthropic Nerfs Claude Again To Stop Users From Making AI Slop Out Of Any ‘Specific Existing Game’ https://www.reddit.com/r/Games/comments/1xk1ngh/anthropic_nerfs_claude_again_to_stop_users_from/
-2026-10-31T10:11:49+00:00	Marvel Snap - Knights of Avalon | Developer Update | November 2026 https://www.reddit.com/r/Games/comments/1xk6gyw/marvel_snap_knights_of_avalon_developer_update/
 2026-10-31T12:22:41+00:00	The First Switch 2 Emulator Has Been Released To The Public https://www.reddit.com/r/Games/comments/1xk8u2l/the_first_switch_2_emulator_has_been_released_to/
+2026-10-31T13:04:36+00:00	Dark Souls 2 and Dark Souls 3's online servers are temporarily going dark, FromSoftware announces https://www.reddit.com/r/Games/comments/1xk9pa1/dark_souls_2_and_dark_souls_3s_online_servers_are/
+2026-10-31T14:12:11+00:00	Pikmin Day Direct https://www.reddit.com/r/Games/comments/1xkb9gb/pikmin_day_direct/
+2026-10-31T14:39:04+00:00	Kingdom Come: Deliverance Dev Reportedly Halts Work Over "Serious" Cybersecurity Incident https://www.reddit.com/r/Games/comments/1xkbwjz/kingdom_come_deliverance_dev_reportedly_halts/
+2026-10-31T17:34:19+00:00	"Persona: Be Your True Mind" Remake allegedly leaks online. https://www.reddit.com/r/Games/comments/1xkg923/persona_be_your_true_mind_remake_allegedly_leaks/

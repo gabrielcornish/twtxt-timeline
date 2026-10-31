@@ -9,8 +9,6 @@
 2026-10-30T01:30:09.565606+00:00	Actionable Worldbuilding https://elmc.at/actionable-worldbuilding/
 2026-10-30T04:43:09.708976+00:00	Child-like imagination https://doodhpeda.bearblog.dev/blog/child-like-imagination/
 2026-10-30T06:29:00+00:00	The Upvote Dilemma 👍 https://www.wmprkr.xyz/the-upvote-dilemma/
-2026-10-30T06:32:00+00:00	Cannibalizing our own business https://blog.lauramichet.com/cannibalizing-our-own-business/
-2026-10-30T07:53:46.548193+00:00	some blog updates & a thank you to blogs that inspire me https://nothings.bearblog.dev/some-blog-updates-a-thank-you-to-blogs-that-inspire-me/
 2026-10-30T12:18:00+00:00	What's in my iPhone's Dock https://pzumk.com/dock/
 2026-10-30T14:12:00+00:00	...a confession on his one-month Bear Blog-versary. https://coreyblogs.com/a-confession-on-his-one-month-bear-blog-versary/
 2026-10-30T16:21:37.820232+00:00	Missing printed magazines. https://jetgirl.art/missing-printed-magazines/
@@ -23,3 +21,5 @@
 2026-10-31T03:28:00+00:00	Safe Systems, not school shaming https://finnk.ca/lets-get-visible/
 2026-10-31T09:48:00+00:00	Spellistor https://melange.bearblog.dev/spellistor/
 2026-10-31T09:58:21.275978+00:00	Domain (James Herbert) https://habitualmood.com/domain-james-herbert/
+2026-10-31T10:41:00+00:00	Daily Rhythm https://mingrelia.bearblog.dev/rhythm/
+2026-10-31T12:29:00+00:00	Bear Halloween upvote button https://robertbirming.com/bear-halloween-upvote-button/
