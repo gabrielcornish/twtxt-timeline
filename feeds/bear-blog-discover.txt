@@ -3,23 +3,23 @@
 # source = https://bearblog.dev/discover/feed/
 # description = twtxt conversion of https://bearblog.dev/discover/feed/
 
-2026-10-30T06:29:00+00:00	The Upvote Dilemma 👍 https://www.wmprkr.xyz/the-upvote-dilemma/
 2026-10-30T14:12:00+00:00	...a confession on his one-month Bear Blog-versary. https://coreyblogs.com/a-confession-on-his-one-month-bear-blog-versary/
 2026-10-30T16:21:37.820232+00:00	Missing printed magazines. https://jetgirl.art/missing-printed-magazines/
 2026-10-30T16:44:00+00:00	Stay spooky https://robertbirming.com/stay-spooky/
 2026-10-30T18:52:30.629282+00:00	it's okay to do things the hard way https://jeffdelp.bearblog.dev/the-hard-way/
 2026-10-30T20:50:00+00:00	30-year-old grandmas https://tadaima.bearblog.dev/30-year-old-grandmas-new/
 2026-10-30T22:54:00+00:00	my favorite photos 📸 https://sugarforbrains.bearblog.dev/photos-by-me/
-2026-10-31T01:21:00+00:00	Goodbye https://someoldguy.bearblog.dev/goodbye/
 2026-10-31T03:28:00+00:00	Safe Systems, not school shaming https://finnk.ca/lets-get-visible/
 2026-10-31T09:48:00+00:00	Spellistor https://melange.bearblog.dev/spellistor/
-2026-10-31T09:58:21.275978+00:00	Domain (James Herbert) https://habitualmood.com/domain-james-herbert/
 2026-10-31T12:14:13.856510+00:00	little update https://monocyte.blog/little-update/
 2026-10-31T12:29:00+00:00	Bear Halloween upvote button https://robertbirming.com/bear-halloween-upvote-button/
 2026-10-31T17:00:00+00:00	HackerTube https://karpathy.bearblog.dev/hacker-tube/
-2026-10-31T18:35:00+00:00	Happy Halloween & October Updates https://onlinegoddess.net/2026/10/happy-halloween-october-updates/
 2026-10-31T19:46:17.932072+00:00	"for the last american buffalo" by steve scafidi https://tiramisu.bearblog.dev/for-the-last-american-buffalo-by-steve-scafidi/
 2026-11-01T05:01:00+00:00	things i'm starting to believe https://barelydiscernible.bearblog.dev/things-im-starting-to-believe/
+2026-11-01T10:19:00+00:00	Single Ladies and Banana's https://samwigglesworth.bearblog.dev/single-ladies-and-bananas/
 2026-11-01T11:27:00+00:00	How to talk to a baby https://kangminsuk.com/talk-to-a-baby/
 2026-11-01T12:34:00+00:00	Inside Kasada's ips.js Bytecode Virtual Machine https://hendrvx.bearblog.dev/inside-kasadas-ipsjs-bytecode-virtual-machine/
 2026-11-01T13:30:00+00:00	Do you want to come over for dinner? https://crystaljjlee.com/do-you-want-to-come-over-for-dinner/
+2026-11-01T15:22:00+00:00	...18 things he hates! https://coreyblogs.com/18-things-he-hates/
+2026-11-01T16:17:30.684505+00:00	How to deliver over a THOUSAND zines https://goodgollyzines.ca/how-to-deliver-over-a-thousand-zines/
+2026-11-01T17:34:00+00:00	The Cost of Blogging https://onlinegoddess.net/2026/11/the-cost-of-blogging/
