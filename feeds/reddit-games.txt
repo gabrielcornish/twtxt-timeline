@@ -3,13 +3,6 @@
 # source = https://www.reddit.com/r/Games.rss
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
-2026-10-28T11:00:42+00:00	Daily /r/Games Discussion - Suggest Me a Game - October 28, 2026 https://www.reddit.com/r/Games/comments/1xhkyds/daily_rgames_discussion_suggest_me_a_game_october/
-2026-10-30T12:24:04+00:00	Fake PS5 emulators on GitHub are spreading password-stealing malware https://www.reddit.com/r/Games/comments/1xjdxpb/fake_ps5_emulators_on_github_are_spreading/
-2026-10-30T17:48:44+00:00	John Romero confirms his axed Xbox game has a new publisher and has rehired some staff https://www.reddit.com/r/Games/comments/1xjm97s/john_romero_confirms_his_axed_xbox_game_has_a_new/
-2026-10-30T18:11:52+00:00	Queen's Domain - PC & Console Launch Trailer https://www.reddit.com/r/Games/comments/1xjmvf4/queens_domain_pc_console_launch_trailer/
-2026-10-30T21:51:45+00:00	Honkai: Star Rail leakers ordered to pay miHoYo around $150,000 in damages after distributing unreleased game data and assets https://www.reddit.com/r/Games/comments/1xjsie2/honkai_star_rail_leakers_ordered_to_pay_mihoyo/
-2026-10-31T02:18:49+00:00	Final Fantasy XIV Evercold Early Access to launch on Feb 19, 2027. Official Launch Feb 23, 2027. https://www.reddit.com/r/Games/comments/1xjyfxp/final_fantasy_xiv_evercold_early_access_to_launch/
-2026-10-31T04:56:49+00:00	FINAL FANTASY XIV: Evercold | Full Trailer https://www.reddit.com/r/Games/comments/1xk1evj/final_fantasy_xiv_evercold_full_trailer/
 2026-10-31T05:10:26+00:00	Anthropic Nerfs Claude Again To Stop Users From Making AI Slop Out Of Any ‘Specific Existing Game’ https://www.reddit.com/r/Games/comments/1xk1ngh/anthropic_nerfs_claude_again_to_stop_users_from/
 2026-10-31T12:22:41+00:00	The First Switch 2 Emulator Has Been Released To The Public https://www.reddit.com/r/Games/comments/1xk8u2l/the_first_switch_2_emulator_has_been_released_to/
 2026-10-31T13:04:36+00:00	Dark Souls 2 and Dark Souls 3's online servers are temporarily going dark, FromSoftware announces https://www.reddit.com/r/Games/comments/1xk9pa1/dark_souls_2_and_dark_souls_3s_online_servers_are/
@@ -21,10 +14,17 @@
 2026-11-01T00:07:06+00:00	Showa American Story director talks about the game's progress, preserving cultural references in localization, and the easy mode "even a cat could beat" https://www.reddit.com/r/Games/comments/1xkp8fg/showa_american_story_director_talks_about_the/
 2026-11-01T03:58:56+00:00	Swery65's Forgotten Metal Gear Ripoff Was Bad, But Not THAT Bad! - Super Bunnyhop https://www.reddit.com/r/Games/comments/1xktioq/swery65s_forgotten_metal_gear_ripoff_was_bad_but/
 2026-11-01T04:00:41+00:00	Indie Sunday Hub - November 1, 2026 https://www.reddit.com/r/Games/comments/1xktjun/indie_sunday_hub_november_1_2026/
-2026-11-01T04:02:02+00:00	Pilot Tycoon - Earthrise Games - Airline pilot career sim-RPG https://www.reddit.com/r/Games/comments/1xktkvd/pilot_tycoon_earthrise_games_airline_pilot_career/
-2026-11-01T04:16:32+00:00	Todroth - Toad Games - Free 3D sandbox MMO in the browser where guilds fight to crown a King who changes the game https://www.reddit.com/r/Games/comments/1xktub5/todroth_toad_games_free_3d_sandbox_mmo_in_the/
-2026-11-01T04:17:41+00:00	Vermin Cull - Social Technologies - night-vision pest-control shooter for mobile https://www.reddit.com/r/Games/comments/1xktuzm/vermin_cull_social_technologies_nightvision/
-2026-11-01T04:38:38+00:00	Voidwood - Santa Barbara Games - 1-4 player co-op survival horror where the monster hunts by sound and your own voice gives you away https://www.reddit.com/r/Games/comments/1xku7li/voidwood_santa_barbara_games_14_player_coop/
 2026-11-01T06:27:01+00:00	Roguebound Pirates - Redbeak Games - 3D Pirate Action Roguelike https://www.reddit.com/r/Games/comments/1xkvz9k/roguebound_pirates_redbeak_games_3d_pirate_action/
-2026-11-01T06:44:47+00:00	The Lantern Man Cometh - Peculiar Games - A spooky incremental https://www.reddit.com/r/Games/comments/1xkw96e/the_lantern_man_cometh_peculiar_games_a_spooky/
 2026-11-01T07:21:57+00:00	Queen's Domain is a brilliant King's Field-alike RPG that forces you to walk so you can learn to fly | Rock Paper Shotgun https://www.reddit.com/r/Games/comments/1xkwum6/queens_domain_is_a_brilliant_kings_fieldalike_rpg/
+2026-11-01T09:10:08+00:00	Kaiju Ace - GTGD - Fight colossal kaiju with fighter jets https://www.reddit.com/r/Games/comments/1xkyijg/kaiju_ace_gtgd_fight_colossal_kaiju_with_fighter/
+2026-11-01T09:18:52+00:00	Mann Vs Zombies - Gameplay Trailer (Team Fortress 2 Mod) https://www.reddit.com/r/Games/comments/1xkynl2/mann_vs_zombies_gameplay_trailer_team_fortress_2/
+2026-11-01T09:24:24+00:00	Confession of murder - Birparaq Team - psychological horror about a detective transferred to a small town to investigate a series of murders. https://www.reddit.com/r/Games/comments/1xkyqki/confession_of_murder_birparaq_team_psychological/
+2026-11-01T10:01:45+00:00	Weekly /r/Games Discussion - What have you been playing, and what are your thoughts? - November 01, 2026 https://www.reddit.com/r/Games/comments/1xkzbgq/weekly_rgames_discussion_what_have_you_been/
+2026-11-01T10:37:11+00:00	Sublustrum - Brickworks Games - A surreal psychological adventure. Play Chapter One free until November 9 https://www.reddit.com/r/Games/comments/1xkzw5b/sublustrum_brickworks_games_a_surreal/
+2026-11-01T11:02:41+00:00	Spearhead - GreenLight - WW2 Eastern Front RTS with real armor penetration and direct tank control https://www.reddit.com/r/Games/comments/1xl0ben/spearhead_greenlight_ww2_eastern_front_rts_with/
+2026-11-01T12:55:47+00:00	Itch.io: The number of game pages being created per-day has doubled in the past 2 months. The number of downloads and purchases has not doubled. https://www.reddit.com/r/Games/comments/1xl2dih/itchio_the_number_of_game_pages_being_created/
+2026-11-01T13:21:10+00:00	Method in the Witchness - SQRT Games - Story-Driven Puzzle & Sorting Game https://www.reddit.com/r/Games/comments/1xl2wz0/method_in_the_witchness_sqrt_games_storydriven/
+2026-11-01T14:06:26+00:00	Sucks to be in the sticks - coAction - Congrats, you are a vampire. Unfortunately, you still live here. 2D game in a sad decaying post-Soviet town. https://www.reddit.com/r/Games/comments/1xl3x9l/sucks_to_be_in_the_sticks_coaction_congrats_you/
+2026-11-01T14:13:07+00:00	Now That The Shoe Is On The Other Foot, Microsoft And Epic Games Suddenly Agree That AI Is Theft (Lewis Parker for Kotaku) https://www.reddit.com/r/Games/comments/1xl42ru/now_that_the_shoe_is_on_the_other_foot_microsoft/
+2026-11-01T14:50:27+00:00	Persona 4 Revival director says he ‘would’ve liked to create a more substantial post-game storyline’ if he could revisit the project https://www.reddit.com/r/Games/comments/1xl4y5l/persona_4_revival_director_says_he_wouldve_liked/
+2026-11-01T15:09:23+00:00	Prism od Darkness - Futuregames Warsaw - Dark fantasy turn-based RPG with timed attacks and active parries https://www.reddit.com/r/Games/comments/1xl5ew3/prism_od_darkness_futuregames_warsaw_dark_fantasy/

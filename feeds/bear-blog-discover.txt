@@ -3,9 +3,6 @@
 # source = https://bearblog.dev/discover/feed/
 # description = twtxt conversion of https://bearblog.dev/discover/feed/
 
-2026-10-28T20:54:00+00:00	Legal exploits may emerge at scale https://felixringe.com/legal-exploits/
-2026-10-29T16:04:00+00:00	ask me something https://tiramisu.bearblog.dev/ask-me-something/
-2026-10-30T01:30:09.565606+00:00	Actionable Worldbuilding https://elmc.at/actionable-worldbuilding/
 2026-10-30T06:29:00+00:00	The Upvote Dilemma 👍 https://www.wmprkr.xyz/the-upvote-dilemma/
 2026-10-30T14:12:00+00:00	...a confession on his one-month Bear Blog-versary. https://coreyblogs.com/a-confession-on-his-one-month-bear-blog-versary/
 2026-10-30T16:21:37.820232+00:00	Missing printed magazines. https://jetgirl.art/missing-printed-magazines/
@@ -22,4 +19,7 @@
 2026-10-31T17:00:00+00:00	HackerTube https://karpathy.bearblog.dev/hacker-tube/
 2026-10-31T18:35:00+00:00	Happy Halloween & October Updates https://onlinegoddess.net/2026/10/happy-halloween-october-updates/
 2026-10-31T19:46:17.932072+00:00	"for the last american buffalo" by steve scafidi https://tiramisu.bearblog.dev/for-the-last-american-buffalo-by-steve-scafidi/
-2026-11-01T05:01:42.587228+00:00	things i'm starting to believe https://barelydiscernible.bearblog.dev/things-im-starting-to-believe/
+2026-11-01T05:01:00+00:00	things i'm starting to believe https://barelydiscernible.bearblog.dev/things-im-starting-to-believe/
+2026-11-01T11:27:00+00:00	How to talk to a baby https://kangminsuk.com/talk-to-a-baby/
+2026-11-01T12:34:00+00:00	Inside Kasada's ips.js Bytecode Virtual Machine https://hendrvx.bearblog.dev/inside-kasadas-ipsjs-bytecode-virtual-machine/
+2026-11-01T13:30:00+00:00	Do you want to come over for dinner? https://crystaljjlee.com/do-you-want-to-come-over-for-dinner/
