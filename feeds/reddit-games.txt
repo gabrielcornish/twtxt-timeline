@@ -10,7 +10,6 @@
 2026-10-30T12:40:42+00:00	Crimson Desert’s update adds sailing, underwater exploration, housing and marriage https://www.reddit.com/r/Games/comments/1xjeajr/crimson_deserts_update_adds_sailing_underwater/
 2026-10-30T14:03:03+00:00	Bloomberg: Why Electronic Arts Shut Down BioWare https://www.reddit.com/r/Games/comments/1xjg810/bloomberg_why_electronic_arts_shut_down_bioware/
 2026-10-30T15:25:22+00:00	Crown's Edge – Reveal Trailer | Medieval Kingdom Sim Where Any Villager Is a Real Player https://www.reddit.com/r/Games/comments/1xjicpb/crowns_edge_reveal_trailer_medieval_kingdom_sim/
-2026-10-30T17:38:23+00:00	Castlevania's Struggle with Dimensions: The Reception of Symphony of the Night and Castlevania 64 - The Video Game History Foundation https://www.reddit.com/r/Games/comments/1xjlz56/castlevanias_struggle_with_dimensions_the/
 2026-10-30T17:48:44+00:00	John Romero confirms his axed Xbox game has a new publisher and has rehired some staff https://www.reddit.com/r/Games/comments/1xjm97s/john_romero_confirms_his_axed_xbox_game_has_a_new/
 2026-10-30T18:03:40+00:00	Become the Darkness | Path of Exile 2 Full Release Teaser https://www.reddit.com/r/Games/comments/1xjmnm5/become_the_darkness_path_of_exile_2_full_release/
 2026-10-30T18:11:52+00:00	Queen's Domain - PC & Console Launch Trailer https://www.reddit.com/r/Games/comments/1xjmvf4/queens_domain_pc_console_launch_trailer/
@@ -28,3 +27,4 @@
 2026-10-31T17:34:19+00:00	"Persona: Be Your True Mind" Remake allegedly leaks online. https://www.reddit.com/r/Games/comments/1xkg923/persona_be_your_true_mind_remake_allegedly_leaks/
 2026-10-31T18:25:38+00:00	Waveling Island – World Premiere Trailer https://www.reddit.com/r/Games/comments/1xkhjrd/waveling_island_world_premiere_trailer/
 2026-10-31T19:15:07+00:00	Persona 5 Series Reaches 15.5 Million Sales - Persona Central https://www.reddit.com/r/Games/comments/1xkirji/persona_5_series_reaches_155_million_sales/
+2026-11-01T00:07:06+00:00	Showa American Story director talks about the game's progress, preserving cultural references in localization, and the easy mode "even a cat could beat" https://www.reddit.com/r/Games/comments/1xkp8fg/showa_american_story_director_talks_about_the/
