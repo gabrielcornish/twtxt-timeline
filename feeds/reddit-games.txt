@@ -4,12 +4,9 @@
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
 2026-10-31T12:22:41+00:00	The First Switch 2 Emulator Has Been Released To The Public https://www.reddit.com/r/Games/comments/1xk8u2l/the_first_switch_2_emulator_has_been_released_to/
-2026-10-31T14:39:04+00:00	Kingdom Come: Deliverance Dev Reportedly Halts Work Over "Serious" Cybersecurity Incident https://www.reddit.com/r/Games/comments/1xkbwjz/kingdom_come_deliverance_dev_reportedly_halts/
 2026-10-31T17:34:19+00:00	"Persona: Be Your True Mind" Remake allegedly leaks online. https://www.reddit.com/r/Games/comments/1xkg923/persona_be_your_true_mind_remake_allegedly_leaks/
 2026-10-31T19:15:07+00:00	Persona 5 Series Reaches 15.5 Million Sales - Persona Central https://www.reddit.com/r/Games/comments/1xkirji/persona_5_series_reaches_155_million_sales/
-2026-11-01T00:07:06+00:00	Showa American Story director talks about the game's progress, preserving cultural references in localization, and the easy mode "even a cat could beat" https://www.reddit.com/r/Games/comments/1xkp8fg/showa_american_story_director_talks_about_the/
 2026-11-01T03:58:56+00:00	Swery65's Forgotten Metal Gear Ripoff Was Bad, But Not THAT Bad! - Super Bunnyhop https://www.reddit.com/r/Games/comments/1xktioq/swery65s_forgotten_metal_gear_ripoff_was_bad_but/
-2026-11-01T04:00:41+00:00	Indie Sunday Hub - November 1, 2026 https://www.reddit.com/r/Games/comments/1xktjun/indie_sunday_hub_november_1_2026/
 2026-11-01T07:21:57+00:00	Queen's Domain is a brilliant King's Field-alike RPG that forces you to walk so you can learn to fly | Rock Paper Shotgun https://www.reddit.com/r/Games/comments/1xkwum6/queens_domain_is_a_brilliant_kings_fieldalike_rpg/
 2026-11-01T09:18:52+00:00	Mann Vs Zombies - Gameplay Trailer (Team Fortress 2 Mod) https://www.reddit.com/r/Games/comments/1xkynl2/mann_vs_zombies_gameplay_trailer_team_fortress_2/
 2026-11-01T10:01:45+00:00	Weekly /r/Games Discussion - What have you been playing, and what are your thoughts? - November 01, 2026 https://www.reddit.com/r/Games/comments/1xkzbgq/weekly_rgames_discussion_what_have_you_been/
@@ -17,7 +14,6 @@
 2026-11-01T14:13:07+00:00	Now That The Shoe Is On The Other Foot, Microsoft And Epic Games Suddenly Agree That AI Is Theft (Lewis Parker for Kotaku) https://www.reddit.com/r/Games/comments/1xl42ru/now_that_the_shoe_is_on_the_other_foot_microsoft/
 2026-11-01T14:50:27+00:00	Persona 4 Revival director says he ‘would’ve liked to create a more substantial post-game storyline’ if he could revisit the project https://www.reddit.com/r/Games/comments/1xl4y5l/persona_4_revival_director_says_he_wouldve_liked/
 2026-11-01T15:39:39+00:00	Ziggurat Interactive, owners of the 'BloodRayne' multimedia franchise, have announced that the formerly "video game first" IP will now be transitioned to a "comic first" franchise. Starting next year with BloodRayne #1, which will finally follow up the cliffhanger ending to 2004's BloodRayne 2 game https://www.reddit.com/r/Games/comments/1xl65p7/ziggurat_interactive_owners_of_the_bloodrayne/
-2026-11-01T15:46:05+00:00	Armita's Search - Raiders World Studio - Story-driven tactical deckbuilder about growing up in a post-apocalyptic world https://www.reddit.com/r/Games/comments/1xl6be0/armitas_search_raiders_world_studio_storydriven/
 2026-11-01T16:18:37+00:00	Euro Truck Simulator 2: Coaches Video Trailer (releasing November 12th) https://www.reddit.com/r/Games/comments/1xl7583/euro_truck_simulator_2_coaches_video_trailer/
 2026-11-01T16:22:42+00:00	Doom creator John Romero believes the games industry will go ‘more towards smaller, episodic releases’ and says developers should not make their own engine https://www.reddit.com/r/Games/comments/1xl78u3/doom_creator_john_romero_believes_the_games/
 2026-11-01T17:17:43+00:00	When Ultima Came to Playstation [Japan-exclusive PS1 Port of "Ultima Underworld"] https://www.reddit.com/r/Games/comments/1xl8nr7/when_ultima_came_to_playstation_japanexclusive/
@@ -25,6 +21,10 @@
 2026-11-01T18:58:51+00:00	Nascor Descent - Tiny Goblins - a first person dungeon crawler inspired by FromSoftware games, Vermis and Fear & Hunger! https://www.reddit.com/r/Games/comments/1xlb97e/nascor_descent_tiny_goblins_a_first_person/
 2026-11-01T19:55:54+00:00	Paper Perjury 2: Shadow of Justice - Paper Cat games -An Ace Attorney inspired mystery game https://www.reddit.com/r/Games/comments/1xlcpbj/paper_perjury_2_shadow_of_justice_paper_cat_games/
 2026-11-01T20:01:51+00:00	CI Games secures financing to finish Lords of the Fallen II https://www.reddit.com/r/Games/comments/1xlcuyr/ci_games_secures_financing_to_finish_lords_of_the/
+2026-11-01T21:43:16+00:00	White Mask Mansion - Golden Fleece - Old-school first-person survival horror with a relentless stalker https://www.reddit.com/r/Games/comments/1xlfccq/white_mask_mansion_golden_fleece_oldschool/
 2026-11-01T22:19:13+00:00	Physical PC games could make a comeback thanks to GOG: "I really hope that we'll be able to do it" https://www.reddit.com/r/Games/comments/1xlg70j/physical_pc_games_could_make_a_comeback_thanks_to/
-2026-11-01T23:20:42+00:00	In Print - Roguelike Fighting game https://www.reddit.com/r/Games/comments/1xlhkjf/in_print_roguelike_fighting_game/
+2026-11-01T22:26:02+00:00	Copperfell - Grandayy - Singleplayer RuneScape meets Stardew Valley https://www.reddit.com/r/Games/comments/1xlgcng/copperfell_grandayy_singleplayer_runescape_meets/
 2026-11-01T23:31:55+00:00	State of Masada - Indie RTS/RPG that is a mix between Homeworld and Kenshi https://www.reddit.com/r/Games/comments/1xlhtf1/state_of_masada_indie_rtsrpg_that_is_a_mix/
+2026-11-02T02:09:01+00:00	Phantom Blade Zero has sold over 4 million copies in just 72 hours! https://www.reddit.com/r/Games/comments/1xll3s6/phantom_blade_zero_has_sold_over_4_million_copies/
+2026-11-02T03:32:38+00:00	Last Light Island Demo - akshay33169 - 2D Top Down Zombie Shooter Where Your Flashlight is Your Only Resource! https://www.reddit.com/r/Games/comments/1xlmrjb/last_light_island_demo_akshay33169_2d_top_down/
+2026-11-02T04:11:57+00:00	Nagoshi Studio has been dissolved by a shareholder vote as of October 31, 2026. https://www.reddit.com/r/Games/comments/1xlnhww/nagoshi_studio_has_been_dissolved_by_a/
