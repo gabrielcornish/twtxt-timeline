@@ -3,11 +3,6 @@
 # source = https://www.gamesindustry.biz/feed
 # description = twtxt conversion of https://www.gamesindustry.biz/feed
 
-2026-10-21T13:38:47+00:00	Project Helix reportedly launching in late 2028, projected to cost between $1,200 and $1,800 https://www.gamesindustry.biz/project-helix-reportedly-launching-in-late-2028-projected-to-cost-between-1200-and-1800
-2026-10-21T14:00:00+00:00	How to run an indie game studio: Part 4, Setting (and hitting) quarterly rocks https://www.gamesindustry.biz/how-to-run-an-indie-game-studio-part-4-setting-and-hitting-quarterly-rocks
-2026-10-21T17:39:13+00:00	AMD's FSR 4.1 upscaling is coming to Xbox Series X|S https://www.gamesindustry.biz/amds-fsr-41-upscaling-is-coming-to-xbox-series-xs
-2026-10-21T17:55:20+00:00	BioWare is closing after 30 years https://www.gamesindustry.biz/bioware-is-closing-after-30-years
-2026-10-22T08:08:08+00:00	Fortnite returns to iOS in Australia after court rules Apple violated competition law https://www.gamesindustry.biz/fortnite-returns-to-ios-in-australia-after-court-rules-apple-violated-competition-law
 2026-10-22T09:14:16+00:00	Xbox reveals pricing for cloud gaming limits, starting at $3.99 for 10 hours https://www.gamesindustry.biz/xbox-reveals-pricing-for-cloud-gaming-limits-starting-at-399-for-10-hours
 2026-10-22T11:00:00+00:00	Report explores how Roblox can maintain older players as it becomes most-played game by total hours in H1 2026 https://www.gamesindustry.biz/report-explores-how-roblox-can-maintain-older-players-as-it-becomes-most-played-game-by-total-hours-in-h1-2026
 2026-10-22T11:00:00+00:00	How Pantaloon is curating an "evolving library of bold and bizarre games" with its new subscription service https://www.gamesindustry.biz/how-pantaloon-is-curating-an-evolving-library-of-bold-and-bizarre-games-with-its-new-subscription-service
@@ -53,3 +48,8 @@
 2026-10-30T12:00:00+00:00	Gaming storefronts are facing a Slop Grenade problem | Opinion https://www.gamesindustry.biz/gaming-storefronts-are-facing-a-slop-grenade-problem-opinion
 2026-10-30T12:10:27+00:00	Maddy Makes Games removes Celeste and TowerFall from Xbox in support of pro-Palestinian BDS boycott https://www.gamesindustry.biz/maddy-makes-games-removes-celeste-and-towerfall-from-xbox-in-support-of-pro-palestinian-bds-boycott
 2026-10-30T14:39:49+00:00	Studio Atelico launches Atelico AI Engine into Early Access https://www.gamesindustry.biz/studio-atelico-launches-atelico-ai-engine-into-early-access
+2026-11-02T09:00:00+00:00	A vital message to people in HR: "Protecting our own wellbeing is paramount" https://www.gamesindustry.biz/a-vital-message-to-people-in-hr-protecting-our-own-wellbeing-is-paramount
+2026-11-02T10:00:16+00:00	Gang of Dragon developer Nagoshi Studio shutters months after NetEase cut funding https://www.gamesindustry.biz/gang-of-dragon-developer-nagoshi-studio-shutters-months-after-netease-cut-funding
+2026-11-02T11:51:05+00:00	Among Us VR co-developer Schell Games announces second round of layoffs this year https://www.gamesindustry.biz/among-us-vr-co-developer-schell-games-announces-second-round-of-layoffs-this-year
+2026-11-02T13:30:00+00:00	"We all met by doing improv comedy" – The Los Angeles indie studio making a comedy game in one of the most expensive places for game dev in the world https://www.gamesindustry.biz/we-all-met-by-doing-improv-comedy-the-los-angeles-indie-studio-making-a-comedy-game-in-one-of-the-most-expensive-places-for-game-dev-in-the-world
+2026-11-02T14:32:18+00:00	Gamescom Asia x Thailand Game Show "most international yet", attracting nearly 220,000 visitors from 113 countries https://www.gamesindustry.biz/gamescom-asia-x-thailand-game-show-most-international-yet-attracting-nearly-220000-visitors-from-113-countries

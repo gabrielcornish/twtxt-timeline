@@ -3,12 +3,7 @@
 # source = https://www.reddit.com/r/Games.rss
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
-2026-10-31T12:22:41+00:00	The First Switch 2 Emulator Has Been Released To The Public https://www.reddit.com/r/Games/comments/1xk8u2l/the_first_switch_2_emulator_has_been_released_to/
-2026-10-31T17:34:19+00:00	"Persona: Be Your True Mind" Remake allegedly leaks online. https://www.reddit.com/r/Games/comments/1xkg923/persona_be_your_true_mind_remake_allegedly_leaks/
-2026-10-31T19:15:07+00:00	Persona 5 Series Reaches 15.5 Million Sales - Persona Central https://www.reddit.com/r/Games/comments/1xkirji/persona_5_series_reaches_155_million_sales/
-2026-11-01T03:58:56+00:00	Swery65's Forgotten Metal Gear Ripoff Was Bad, But Not THAT Bad! - Super Bunnyhop https://www.reddit.com/r/Games/comments/1xktioq/swery65s_forgotten_metal_gear_ripoff_was_bad_but/
 2026-11-01T07:21:57+00:00	Queen's Domain is a brilliant King's Field-alike RPG that forces you to walk so you can learn to fly | Rock Paper Shotgun https://www.reddit.com/r/Games/comments/1xkwum6/queens_domain_is_a_brilliant_kings_fieldalike_rpg/
-2026-11-01T09:18:52+00:00	Mann Vs Zombies - Gameplay Trailer (Team Fortress 2 Mod) https://www.reddit.com/r/Games/comments/1xkynl2/mann_vs_zombies_gameplay_trailer_team_fortress_2/
 2026-11-01T10:01:45+00:00	Weekly /r/Games Discussion - What have you been playing, and what are your thoughts? - November 01, 2026 https://www.reddit.com/r/Games/comments/1xkzbgq/weekly_rgames_discussion_what_have_you_been/
 2026-11-01T12:55:47+00:00	Itch.io: The number of game pages being created per-day has doubled in the past 2 months. The number of downloads and purchases has not doubled. https://www.reddit.com/r/Games/comments/1xl2dih/itchio_the_number_of_game_pages_being_created/
 2026-11-01T14:13:07+00:00	Now That The Shoe Is On The Other Foot, Microsoft And Epic Games Suddenly Agree That AI Is Theft (Lewis Parker for Kotaku) https://www.reddit.com/r/Games/comments/1xl42ru/now_that_the_shoe_is_on_the_other_foot_microsoft/
@@ -19,12 +14,17 @@
 2026-11-01T17:17:43+00:00	When Ultima Came to Playstation [Japan-exclusive PS1 Port of "Ultima Underworld"] https://www.reddit.com/r/Games/comments/1xl8nr7/when_ultima_came_to_playstation_japanexclusive/
 2026-11-01T18:11:56+00:00	After Nintendo Removed SmileBasic Hackers Found A Way To Do The Same Switch 2 Jailbreak With The Physical Switch 1 Version Of Civilization 7 https://www.reddit.com/r/Games/comments/1xla2dn/after_nintendo_removed_smilebasic_hackers_found_a/
 2026-11-01T18:58:51+00:00	Nascor Descent - Tiny Goblins - a first person dungeon crawler inspired by FromSoftware games, Vermis and Fear & Hunger! https://www.reddit.com/r/Games/comments/1xlb97e/nascor_descent_tiny_goblins_a_first_person/
-2026-11-01T19:55:54+00:00	Paper Perjury 2: Shadow of Justice - Paper Cat games -An Ace Attorney inspired mystery game https://www.reddit.com/r/Games/comments/1xlcpbj/paper_perjury_2_shadow_of_justice_paper_cat_games/
 2026-11-01T20:01:51+00:00	CI Games secures financing to finish Lords of the Fallen II https://www.reddit.com/r/Games/comments/1xlcuyr/ci_games_secures_financing_to_finish_lords_of_the/
-2026-11-01T21:43:16+00:00	White Mask Mansion - Golden Fleece - Old-school first-person survival horror with a relentless stalker https://www.reddit.com/r/Games/comments/1xlfccq/white_mask_mansion_golden_fleece_oldschool/
 2026-11-01T22:19:13+00:00	Physical PC games could make a comeback thanks to GOG: "I really hope that we'll be able to do it" https://www.reddit.com/r/Games/comments/1xlg70j/physical_pc_games_could_make_a_comeback_thanks_to/
-2026-11-01T22:26:02+00:00	Copperfell - Grandayy - Singleplayer RuneScape meets Stardew Valley https://www.reddit.com/r/Games/comments/1xlgcng/copperfell_grandayy_singleplayer_runescape_meets/
 2026-11-01T23:31:55+00:00	State of Masada - Indie RTS/RPG that is a mix between Homeworld and Kenshi https://www.reddit.com/r/Games/comments/1xlhtf1/state_of_masada_indie_rtsrpg_that_is_a_mix/
 2026-11-02T02:09:01+00:00	Phantom Blade Zero has sold over 4 million copies in just 72 hours! https://www.reddit.com/r/Games/comments/1xll3s6/phantom_blade_zero_has_sold_over_4_million_copies/
-2026-11-02T03:32:38+00:00	Last Light Island Demo - akshay33169 - 2D Top Down Zombie Shooter Where Your Flashlight is Your Only Resource! https://www.reddit.com/r/Games/comments/1xlmrjb/last_light_island_demo_akshay33169_2d_top_down/
 2026-11-02T04:11:57+00:00	Nagoshi Studio has been dissolved by a shareholder vote as of October 31, 2026. https://www.reddit.com/r/Games/comments/1xlnhww/nagoshi_studio_has_been_dissolved_by_a/
+2026-11-02T08:17:02+00:00	Ethyrial - New Character Models, hand-painted armor and weapons, redesigned world map, and more https://www.reddit.com/r/Games/comments/1xlrmgo/ethyrial_new_character_models_handpainted_armor/
+2026-11-02T09:52:03+00:00	Fate of the Galaxy: Release Trailer - Star Wars Mod for Freespace Open https://www.reddit.com/r/Games/comments/1xlt2r3/fate_of_the_galaxy_release_trailer_star_wars_mod/
+2026-11-02T13:10:17+00:00	More than 50% of all games released on Steam last month had an AI Disclosure https://www.reddit.com/r/Games/comments/1xlwr42/more_than_50_of_all_games_released_on_steam_last/
+2026-11-02T13:28:41+00:00	[Grimbeard] Grimpressions - Next Fest: October 2026 https://www.reddit.com/r/Games/comments/1xlx6hp/grimbeard_grimpressions_next_fest_october_2026/
+2026-11-02T13:58:00+00:00	Tower of Gold trailer - Remar Games https://www.reddit.com/r/Games/comments/1xlxvme/tower_of_gold_trailer_remar_games/
+2026-11-02T15:05:39+00:00	PowerWash Simulator 2 | Barbie Pack Releases Dec 3rd on PC, PS5, Xbox Series, Switch 2 https://www.reddit.com/r/Games/comments/1xlzm26/powerwash_simulator_2_barbie_pack_releases_dec/
+2026-11-02T15:26:44+00:00	Thief: The Dark Project Remastered releases Dec 3rd on PC, PS5, PS4, Xbox Series, Xbox One, Switch 2, Switch https://www.reddit.com/r/Games/comments/1xm06aa/thief_the_dark_project_remastered_releases_dec/
+2026-11-02T15:38:20+00:00	Ask the Developer: The Legend of Zelda: Ocarina of Time (2026) https://www.reddit.com/r/Games/comments/1xm0hpt/ask_the_developer_the_legend_of_zelda_ocarina_of/
+2026-11-02T16:02:55+00:00	Takeover 2 Releases Nov 10th on PC https://www.reddit.com/r/Games/comments/1xm15hv/takeover_2_releases_nov_10th_on_pc/
