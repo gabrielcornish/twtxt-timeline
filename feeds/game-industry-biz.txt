@@ -3,10 +3,6 @@
 # source = https://www.gamesindustry.biz/feed
 # description = twtxt conversion of https://www.gamesindustry.biz/feed
 
-2026-10-22T09:14:16+00:00	Xbox reveals pricing for cloud gaming limits, starting at $3.99 for 10 hours https://www.gamesindustry.biz/xbox-reveals-pricing-for-cloud-gaming-limits-starting-at-399-for-10-hours
-2026-10-22T11:00:00+00:00	Report explores how Roblox can maintain older players as it becomes most-played game by total hours in H1 2026 https://www.gamesindustry.biz/report-explores-how-roblox-can-maintain-older-players-as-it-becomes-most-played-game-by-total-hours-in-h1-2026
-2026-10-22T11:00:00+00:00	How Pantaloon is curating an "evolving library of bold and bizarre games" with its new subscription service https://www.gamesindustry.biz/how-pantaloon-is-curating-an-evolving-library-of-bold-and-bizarre-games-with-its-new-subscription-service
-2026-10-22T13:00:08+00:00	Marvel's Wolverine leads US September charts, achieves highest monthly dollar sales for a Sony-published title since Helldivers 2 https://www.gamesindustry.biz/marvels-wolverine-leads-us-september-charts-achieves-highest-monthly-dollar-sales-for-a-sony-published-title-since-helldivers-2
 2026-10-22T16:15:00+00:00	"It was crushing how hard it was" – The chaotic development of Dispatch, and what AdHoc Studio plans next https://www.gamesindustry.biz/it-was-crushing-how-hard-it-was-the-chaotic-development-of-dispatch-and-what-adhoc-studio-plans-next
 2026-10-23T08:00:00+00:00	Podcast: Landfall's Rebecca Lautner on Peak's 23 million sales and looking past friendslop https://www.gamesindustry.biz/podcast-landfalls-rebecca-lautner-on-peaks-23-million-sales-and-looking-past-friendslop
 2026-10-23T09:59:48+00:00	Call of Duty: Modern Warfare 4 | Critical Consensus https://www.gamesindustry.biz/call-of-duty-modern-warfare-4-critical-consensus
@@ -53,3 +49,7 @@
 2026-11-02T11:51:05+00:00	Among Us VR co-developer Schell Games announces second round of layoffs this year https://www.gamesindustry.biz/among-us-vr-co-developer-schell-games-announces-second-round-of-layoffs-this-year
 2026-11-02T13:30:00+00:00	"We all met by doing improv comedy" – The Los Angeles indie studio making a comedy game in one of the most expensive places for game dev in the world https://www.gamesindustry.biz/we-all-met-by-doing-improv-comedy-the-los-angeles-indie-studio-making-a-comedy-game-in-one-of-the-most-expensive-places-for-game-dev-in-the-world
 2026-11-02T14:32:18+00:00	Gamescom Asia x Thailand Game Show "most international yet", attracting nearly 220,000 visitors from 113 countries https://www.gamesindustry.biz/gamescom-asia-x-thailand-game-show-most-international-yet-attracting-nearly-220000-visitors-from-113-countries
+2026-11-02T17:50:20+00:00	Anthropic adds rule to stop Claude Code recreating existing games https://www.gamesindustry.biz/anthropic-adds-rule-to-stop-claude-code-recreating-existing-games
+2026-11-02T19:34:05+00:00	Astragon closes Independent Arts successor studio Astragon Development https://www.gamesindustry.biz/astragon-closes-independent-arts-successor-studio-astragon-development
+2026-11-02T21:28:03+00:00	CI Games secures $32 million loan to finish and self-publish Lords of the Fallen 2 https://www.gamesindustry.biz/ci-games-secures-32-million-loan-to-finish-and-self-publish-lords-of-the-fallen-2
+2026-11-02T21:46:06+00:00	Saudi-backed Kingdom of Gaming event delayed to 2027 https://www.gamesindustry.biz/saudi-backed-kingdom-of-gaming-event-delayed-to-2027
