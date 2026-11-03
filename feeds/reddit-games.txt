@@ -4,18 +4,10 @@
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
 2026-11-01T10:01:45+00:00	Weekly /r/Games Discussion - What have you been playing, and what are your thoughts? - November 01, 2026 https://www.reddit.com/r/Games/comments/1xkzbgq/weekly_rgames_discussion_what_have_you_been/
-2026-11-02T02:09:01+00:00	Phantom Blade Zero has sold over 4 million copies in just 72 hours! https://www.reddit.com/r/Games/comments/1xll3s6/phantom_blade_zero_has_sold_over_4_million_copies/
-2026-11-02T04:11:57+00:00	Nagoshi Studio has been dissolved by a shareholder vote as of October 31, 2026. https://www.reddit.com/r/Games/comments/1xlnhww/nagoshi_studio_has_been_dissolved_by_a/
-2026-11-02T09:52:03+00:00	Fate of the Galaxy: Release Trailer - Star Wars Mod for Freespace Open https://www.reddit.com/r/Games/comments/1xlt2r3/fate_of_the_galaxy_release_trailer_star_wars_mod/
 2026-11-02T13:10:17+00:00	More than 50% of all games released on Steam last month had an AI Disclosure https://www.reddit.com/r/Games/comments/1xlwr42/more_than_50_of_all_games_released_on_steam_last/
-2026-11-02T13:28:41+00:00	[Grimbeard] Grimpressions - Next Fest: October 2026 https://www.reddit.com/r/Games/comments/1xlx6hp/grimbeard_grimpressions_next_fest_october_2026/
-2026-11-02T13:58:00+00:00	Tower of Gold trailer - Remar Games https://www.reddit.com/r/Games/comments/1xlxvme/tower_of_gold_trailer_remar_games/
-2026-11-02T15:05:39+00:00	PowerWash Simulator 2 | Barbie Pack Releases Dec 3rd on PC, PS5, Xbox Series, Switch 2 https://www.reddit.com/r/Games/comments/1xlzm26/powerwash_simulator_2_barbie_pack_releases_dec/
 2026-11-02T15:26:44+00:00	Thief: The Dark Project Remastered releases Dec 3rd on PC, PS5, PS4, Xbox Series, Xbox One, Switch 2, Switch https://www.reddit.com/r/Games/comments/1xm06aa/thief_the_dark_project_remastered_releases_dec/
 2026-11-02T15:38:20+00:00	Ask the Developer: The Legend of Zelda: Ocarina of Time (2026) https://www.reddit.com/r/Games/comments/1xm0hpt/ask_the_developer_the_legend_of_zelda_ocarina_of/
-2026-11-02T16:02:55+00:00	Takeover 2 Releases Nov 10th on PC https://www.reddit.com/r/Games/comments/1xm15hv/takeover_2_releases_nov_10th_on_pc/
 2026-11-02T16:31:42+00:00	Jason Schreier - What a $500 Million Game Actually Means https://www.reddit.com/r/Games/comments/1xm1xrr/jason_schreier_what_a_500_million_game_actually/
-2026-11-02T16:33:20+00:00	SEGA arcade games' online servers are down due to investigations after a cyber attack. Online services and save data inaccessible. https://www.reddit.com/r/Games/comments/1xm1zby/sega_arcade_games_online_servers_are_down_due_to/
 2026-11-02T17:02:12+00:00	Thief: The Dark Project Remastered | The Tarnished Mirror Reveal Trailer and Physical Announcement https://www.reddit.com/r/Games/comments/1xm2rvb/thief_the_dark_project_remastered_the_tarnished/
 2026-11-02T17:03:54+00:00	Suda51 Wants A Now-Independent Grasshopper To Bring Back No More Heroes (And One Of His Earliest Games) https://www.reddit.com/r/Games/comments/1xm2tlv/suda51_wants_a_nowindependent_grasshopper_to/
 2026-11-02T17:32:05+00:00	Nobuo Uematsu Warns 'Hollywood-Style Scores' Are Making Game Music Sound Too Similar https://www.reddit.com/r/Games/comments/1xm3mhh/nobuo_uematsu_warns_hollywoodstyle_scores_are/
@@ -28,3 +20,11 @@
 2026-11-02T19:30:19+00:00	Xbox's former COO Helen Chiang posted on LinkedIn about her recent firing, writing: "The speculation about my abrupt departure from Microsoft is not accurate." https://www.reddit.com/r/Games/comments/1xm6y9c/xboxs_former_coo_helen_chiang_posted_on_linkedin/
 2026-11-02T22:05:11+00:00	Twilight Syndrome Part 1 Fan Translation Released https://www.reddit.com/r/Games/comments/1xmb1ry/twilight_syndrome_part_1_fan_translation_released/
 2026-11-02T22:27:13+00:00	Sonic Racing: CrossWorlds - Year Two 2.0.0 Patch Notes Preview https://www.reddit.com/r/Games/comments/1xmbljg/sonic_racing_crossworlds_year_two_200_patch_notes/
+2026-11-03T11:39:57+00:00	Remedy revenue soars by 226% following release of Control Resonant, the developer's fastest selling game ever, marking "a defining milestone for the company" https://www.reddit.com/r/Games/comments/1xmqpux/remedy_revenue_soars_by_226_following_release_of/
+2026-11-03T12:06:25+00:00	Death at Fleming Manor - Official Launch Trailer https://www.reddit.com/r/Games/comments/1xmr8am/death_at_fleming_manor_official_launch_trailer/
+2026-11-03T14:41:41+00:00	Gemporium Isn’t Launching On Xbox Due To The BDS Boycott https://www.reddit.com/r/Games/comments/1xmuq6x/gemporium_isnt_launching_on_xbox_due_to_the_bds/
+2026-11-03T14:42:31+00:00	Ask the Developer Vol. 24: The Legend of Zelda: Ocarina of Time — Parts 3 & 4 https://www.reddit.com/r/Games/comments/1xmur0b/ask_the_developer_vol_24_the_legend_of_zelda/
+2026-11-03T14:56:10+00:00	Grand Theft Auto VI Pre-Load Begins on November 10 https://www.reddit.com/r/Games/comments/1xmv3q0/grand_theft_auto_vi_preload_begins_on_november_10/
+2026-11-03T15:01:12+00:00	Celebrating 40 Years of Bethesda Game Studios https://www.reddit.com/r/Games/comments/1xmv8kq/celebrating_40_years_of_bethesda_game_studios/
+2026-11-03T15:06:00+00:00	The Division 2: Echoes of Central Park - Launch Trailer https://www.reddit.com/r/Games/comments/1xmvd9o/the_division_2_echoes_of_central_park_launch/
+2026-11-03T15:09:49+00:00	The Elder Scrolls VI: Official Name Reveal https://www.reddit.com/r/Games/comments/1xmvgqo/the_elder_scrolls_vi_official_name_reveal/
