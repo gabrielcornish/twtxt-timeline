@@ -4,7 +4,6 @@
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
 2026-11-01T10:01:45+00:00	Weekly /r/Games Discussion - What have you been playing, and what are your thoughts? - November 01, 2026 https://www.reddit.com/r/Games/comments/1xkzbgq/weekly_rgames_discussion_what_have_you_been/
-2026-11-01T14:13:07+00:00	Now That The Shoe Is On The Other Foot, Microsoft And Epic Games Suddenly Agree That AI Is Theft (Lewis Parker for Kotaku) https://www.reddit.com/r/Games/comments/1xl42ru/now_that_the_shoe_is_on_the_other_foot_microsoft/
 2026-11-02T02:09:01+00:00	Phantom Blade Zero has sold over 4 million copies in just 72 hours! https://www.reddit.com/r/Games/comments/1xll3s6/phantom_blade_zero_has_sold_over_4_million_copies/
 2026-11-02T04:11:57+00:00	Nagoshi Studio has been dissolved by a shareholder vote as of October 31, 2026. https://www.reddit.com/r/Games/comments/1xlnhww/nagoshi_studio_has_been_dissolved_by_a/
 2026-11-02T09:52:03+00:00	Fate of the Galaxy: Release Trailer - Star Wars Mod for Freespace Open https://www.reddit.com/r/Games/comments/1xlt2r3/fate_of_the_galaxy_release_trailer_star_wars_mod/
@@ -28,3 +27,4 @@
 2026-11-02T19:05:53+00:00	The Division 2: New Horror Twist, Endgame, and Skill Variants https://www.reddit.com/r/Games/comments/1xm6a3n/the_division_2_new_horror_twist_endgame_and_skill/
 2026-11-02T19:30:19+00:00	Xbox's former COO Helen Chiang posted on LinkedIn about her recent firing, writing: "The speculation about my abrupt departure from Microsoft is not accurate." https://www.reddit.com/r/Games/comments/1xm6y9c/xboxs_former_coo_helen_chiang_posted_on_linkedin/
 2026-11-02T22:05:11+00:00	Twilight Syndrome Part 1 Fan Translation Released https://www.reddit.com/r/Games/comments/1xmb1ry/twilight_syndrome_part_1_fan_translation_released/
+2026-11-02T22:27:13+00:00	Sonic Racing: CrossWorlds - Year Two 2.0.0 Patch Notes Preview https://www.reddit.com/r/Games/comments/1xmbljg/sonic_racing_crossworlds_year_two_200_patch_notes/

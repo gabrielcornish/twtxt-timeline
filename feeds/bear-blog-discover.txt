@@ -11,15 +11,15 @@
 2026-11-01T17:34:00+00:00	The Cost of Blogging https://onlinegoddess.net/2026/11/the-cost-of-blogging/
 2026-11-01T20:04:00+00:00	Player Advice: Questions https://dungeonmecha.bearblog.dev/player-advice-questions/
 2026-11-02T01:36:00+00:00	I am AI https://iam-luna-rose.bearblog.dev/i-am-ai/
-2026-11-02T04:25:10.113395+00:00	1000 Statues Retrospective https://bluemountain.bearblog.dev/1000-statues-retrospective/
+2026-11-02T04:25:00+00:00	1000 Statues Retrospective https://bluemountain.bearblog.dev/1000-statues-retrospective/
 2026-11-02T04:40:00+00:00	I rode the G line https://blog.lauramichet.com/i-rode-the-g-line/
-2026-11-02T05:13:54.411074+00:00	Reflections on National Adoption Month https://toska.bearblog.dev/reflections-on-national-adoption-month/
 2026-11-02T05:45:00.844145+00:00	crying in front of a donut ad https://nothings.bearblog.dev/crying-in-front-of-a-donut-ad/
-2026-11-02T10:49:55.836871+00:00	Sublime https://m1es.net/sublime/
+2026-11-02T13:09:00+00:00	"posso tirar uma foto sua?" https://th.blog.br/posso-tirar-uma-foto-sua/
 2026-11-02T13:49:44.930483+00:00	I was spending too much time on YouTube. Thanks to YouTube for fixing that. https://lance.bearblog.dev/i-was-spending-too-much-time-on-youtube-thanks-to-youtube-for-fixing-that/
+2026-11-02T14:31:11.902903+00:00	Kinds of Kindness https://slowburn.bearblog.dev/kinds-of-kindness/
 2026-11-02T15:35:14.941809+00:00	The Farewell Call https://rickw.bearblog.dev/the-farewell-call/
 2026-11-02T16:39:09.706227+00:00	In October 2026, the Video Game Industry Went All-In on AI https://joshgriffiths.site/in-october-2026-the-video-game-industry-went-all-in-on-ai/
-2026-11-02T16:47:05.326804+00:00	A Simple Heroic Adventure Game https://tbr.bearblog.dev/a-simple-heroic-adventure-game/
-2026-11-02T17:34:38.224910+00:00	Justice for Anguirus https://blog.curiousquail.com/justice-for-anguirus/
 2026-11-02T19:56:16.993209+00:00	Knowledge is not experience https://graybeard.ing/knowledge-is-not-experience/
 2026-11-02T20:13:00+00:00	"The World From A To Z with Carl Azuz" Has No Place In Our School. https://justsomenerd.bearblog.dev/the-world-from-a-to-z-with-carl-azuz-has-no-place-in-our-school/
+2026-11-02T21:19:00+00:00	Creating an Insta-Worthy Home https://onlinegoddess.net/2026/11/creating-an-insta-worthy-home/
+2026-11-03T03:44:00+00:00	Rooting an Echo Plus 2 with AI https://blog.tripton.dev/rooting-an-echo-plus-2-with-ai/
