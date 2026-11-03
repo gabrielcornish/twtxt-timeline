@@ -4,22 +4,8 @@
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
 2026-11-01T10:01:45+00:00	Weekly /r/Games Discussion - What have you been playing, and what are your thoughts? - November 01, 2026 https://www.reddit.com/r/Games/comments/1xkzbgq/weekly_rgames_discussion_what_have_you_been/
-2026-11-02T13:10:17+00:00	More than 50% of all games released on Steam last month had an AI Disclosure https://www.reddit.com/r/Games/comments/1xlwr42/more_than_50_of_all_games_released_on_steam_last/
-2026-11-02T15:26:44+00:00	Thief: The Dark Project Remastered releases Dec 3rd on PC, PS5, PS4, Xbox Series, Xbox One, Switch 2, Switch https://www.reddit.com/r/Games/comments/1xm06aa/thief_the_dark_project_remastered_releases_dec/
-2026-11-02T15:38:20+00:00	Ask the Developer: The Legend of Zelda: Ocarina of Time (2026) https://www.reddit.com/r/Games/comments/1xm0hpt/ask_the_developer_the_legend_of_zelda_ocarina_of/
-2026-11-02T16:31:42+00:00	Jason Schreier - What a $500 Million Game Actually Means https://www.reddit.com/r/Games/comments/1xm1xrr/jason_schreier_what_a_500_million_game_actually/
-2026-11-02T17:02:12+00:00	Thief: The Dark Project Remastered | The Tarnished Mirror Reveal Trailer and Physical Announcement https://www.reddit.com/r/Games/comments/1xm2rvb/thief_the_dark_project_remastered_the_tarnished/
-2026-11-02T17:03:54+00:00	Suda51 Wants A Now-Independent Grasshopper To Bring Back No More Heroes (And One Of His Earliest Games) https://www.reddit.com/r/Games/comments/1xm2tlv/suda51_wants_a_nowindependent_grasshopper_to/
 2026-11-02T17:32:05+00:00	Nobuo Uematsu Warns 'Hollywood-Style Scores' Are Making Game Music Sound Too Similar https://www.reddit.com/r/Games/comments/1xm3mhh/nobuo_uematsu_warns_hollywoodstyle_scores_are/
 2026-11-02T17:44:54+00:00	Over a decade later, Bloodborne remains so popular it reportedly sold a quarter of a million copies this year alone https://www.reddit.com/r/Games/comments/1xm3yyz/over_a_decade_later_bloodborne_remains_so_popular/
-2026-11-02T17:52:04+00:00	South Of Midnight's David Sears On Xbox’s Perplexing Management - MinnMax Interview https://www.reddit.com/r/Games/comments/1xm465f/south_of_midnights_david_sears_on_xboxs/
-2026-11-02T18:02:00+00:00	Frostpunk 2 - The Surge releases Dec 14th on PC, PS5, Xbox Series https://www.reddit.com/r/Games/comments/1xm4gh4/frostpunk_2_the_surge_releases_dec_14th_on_pc_ps5/
-2026-11-02T18:03:58+00:00	A message to the entire Borderlands community: the Borderlands franchise has officially crossed 100 million units sold! https://www.reddit.com/r/Games/comments/1xm4ih9/a_message_to_the_entire_borderlands_community_the/
-2026-11-02T18:13:25+00:00	Tomb Raider’s creators on how the game changed their lives: ‘Skint staff were suddenly pulling up in sports cars’ | Culture https://www.reddit.com/r/Games/comments/1xm4sfm/tomb_raiders_creators_on_how_the_game_changed/
-2026-11-02T19:05:53+00:00	The Division 2: New Horror Twist, Endgame, and Skill Variants https://www.reddit.com/r/Games/comments/1xm6a3n/the_division_2_new_horror_twist_endgame_and_skill/
-2026-11-02T19:30:19+00:00	Xbox's former COO Helen Chiang posted on LinkedIn about her recent firing, writing: "The speculation about my abrupt departure from Microsoft is not accurate." https://www.reddit.com/r/Games/comments/1xm6y9c/xboxs_former_coo_helen_chiang_posted_on_linkedin/
-2026-11-02T22:05:11+00:00	Twilight Syndrome Part 1 Fan Translation Released https://www.reddit.com/r/Games/comments/1xmb1ry/twilight_syndrome_part_1_fan_translation_released/
-2026-11-02T22:27:13+00:00	Sonic Racing: CrossWorlds - Year Two 2.0.0 Patch Notes Preview https://www.reddit.com/r/Games/comments/1xmbljg/sonic_racing_crossworlds_year_two_200_patch_notes/
 2026-11-03T11:39:57+00:00	Remedy revenue soars by 226% following release of Control Resonant, the developer's fastest selling game ever, marking "a defining milestone for the company" https://www.reddit.com/r/Games/comments/1xmqpux/remedy_revenue_soars_by_226_following_release_of/
 2026-11-03T12:06:25+00:00	Death at Fleming Manor - Official Launch Trailer https://www.reddit.com/r/Games/comments/1xmr8am/death_at_fleming_manor_official_launch_trailer/
 2026-11-03T14:41:41+00:00	Gemporium Isn’t Launching On Xbox Due To The BDS Boycott https://www.reddit.com/r/Games/comments/1xmuq6x/gemporium_isnt_launching_on_xbox_due_to_the_bds/
@@ -28,3 +14,17 @@
 2026-11-03T15:01:12+00:00	Celebrating 40 Years of Bethesda Game Studios https://www.reddit.com/r/Games/comments/1xmv8kq/celebrating_40_years_of_bethesda_game_studios/
 2026-11-03T15:06:00+00:00	The Division 2: Echoes of Central Park - Launch Trailer https://www.reddit.com/r/Games/comments/1xmvd9o/the_division_2_echoes_of_central_park_launch/
 2026-11-03T15:09:49+00:00	The Elder Scrolls VI: Official Name Reveal https://www.reddit.com/r/Games/comments/1xmvgqo/the_elder_scrolls_vi_official_name_reveal/
+2026-11-03T15:57:25+00:00	Jason Schreier: "I think a lot of people forget that The Elder Scrolls VI was only announced in 2018 (along with Starfield) to soften the blow of Fallout 76. Sorry to say this game is still more than two years away!" https://www.reddit.com/r/Games/comments/1xmwq4d/jason_schreier_i_think_a_lot_of_people_forget/
+2026-11-03T16:07:21+00:00	Stronghold 4 Delayed, Releases Apr 20th 2027 on PC https://www.reddit.com/r/Games/comments/1xmx033/stronghold_4_delayed_releases_apr_20th_2027_on_pc/
+2026-11-03T16:29:22+00:00	ROSETIA: A First Contact RPG Trailer https://www.reddit.com/r/Games/comments/1xmxlrl/rosetia_a_first_contact_rpg_trailer/
+2026-11-03T16:38:28+00:00	Hyperspace Neptunia: Unlimited Releases 2027 for PC, PS5, PS4, Switch 2, Switch https://www.reddit.com/r/Games/comments/1xmxuib/hyperspace_neptunia_unlimited_releases_2027_for/
+2026-11-03T17:23:26+00:00	Game Informer's December Cover Reveal – Tomb Raider: Legacy Of Atlantis https://www.reddit.com/r/Games/comments/1xmz2zz/game_informers_december_cover_reveal_tomb_raider/
+2026-11-03T17:29:31+00:00	The Nikke PC Launcher seems to have been compromised https://www.reddit.com/r/Games/comments/1xmz946/the_nikke_pc_launcher_seems_to_have_been/
+2026-11-03T17:32:04+00:00	Guild Wars Afterlife Announcement Trailer https://www.reddit.com/r/Games/comments/1xmzbqa/guild_wars_afterlife_announcement_trailer/
+2026-11-03T17:34:16+00:00	Darkest Dungeon II: The Butcher's Asylum Teaser Trailer https://www.reddit.com/r/Games/comments/1xmzduj/darkest_dungeon_ii_the_butchers_asylum_teaser/
+2026-11-03T18:00:38+00:00	Humble Choice November 2026 - Mafia: The Old Country w/ DLC, The Outer Worlds 2, Yakuza 6, Shinobi: Art of Vengeance and more https://www.reddit.com/r/Games/comments/1xn04ip/humble_choice_november_2026_mafia_the_old_country/
+2026-11-03T18:18:45+00:00	Loftia - Official Early Access Launch Trailer https://www.reddit.com/r/Games/comments/1xn0n09/loftia_official_early_access_launch_trailer/
+2026-11-03T18:19:58+00:00	Itch mass deletes ‘AI slop’, lets users filter out any AI assisted games https://www.reddit.com/r/Games/comments/1xn0o96/itch_mass_deletes_ai_slop_lets_users_filter_out/
+2026-11-03T18:21:24+00:00	Age of Wonders 4: The Silver Seas Out Now! | Release Trailer https://www.reddit.com/r/Games/comments/1xn0prx/age_of_wonders_4_the_silver_seas_out_now_release/
+2026-11-03T18:22:40+00:00	AI-Generated Content on Nexus Mods https://www.reddit.com/r/Games/comments/1xn0r2u/aigenerated_content_on_nexus_mods/
+2026-11-03T20:47:05+00:00	Xbox’s Arkane Studios Attracts Multiple Bidders, Including Ubisoft https://www.reddit.com/r/Games/comments/1xn4ok4/xboxs_arkane_studios_attracts_multiple_bidders/
