@@ -3,12 +3,8 @@
 # source = https://bearblog.dev/discover/feed/
 # description = twtxt conversion of https://bearblog.dev/discover/feed/
 
-2026-10-31T12:29:00+00:00	Bear Halloween upvote button https://robertbirming.com/bear-halloween-upvote-button/
-2026-10-31T17:00:00+00:00	HackerTube https://karpathy.bearblog.dev/hacker-tube/
-2026-11-01T11:27:00+00:00	How to talk to a baby https://kangminsuk.com/talk-to-a-baby/
 2026-11-01T17:34:00+00:00	The Cost of Blogging https://onlinegoddess.net/2026/11/the-cost-of-blogging/
 2026-11-02T01:36:00+00:00	I am AI https://iam-luna-rose.bearblog.dev/i-am-ai/
-2026-11-02T04:25:00+00:00	1000 Statues Retrospective https://bluemountain.bearblog.dev/1000-statues-retrospective/
 2026-11-02T05:45:00.844145+00:00	crying in front of a donut ad https://nothings.bearblog.dev/crying-in-front-of-a-donut-ad/
 2026-11-02T13:49:44.930483+00:00	I was spending too much time on YouTube. Thanks to YouTube for fixing that. https://lance.bearblog.dev/i-was-spending-too-much-time-on-youtube-thanks-to-youtube-for-fixing-that/
 2026-11-02T14:31:11.902903+00:00	Kinds of Kindness https://slowburn.bearblog.dev/kinds-of-kindness/
@@ -17,9 +13,13 @@
 2026-11-02T19:56:16.993209+00:00	Knowledge is not experience https://graybeard.ing/knowledge-is-not-experience/
 2026-11-02T20:13:00+00:00	"The World From A To Z with Carl Azuz" Has No Place In Our School. https://justsomenerd.bearblog.dev/the-world-from-a-to-z-with-carl-azuz-has-no-place-in-our-school/
 2026-11-02T21:19:00+00:00	Creating an Insta-Worthy Home https://onlinegoddess.net/2026/11/creating-an-insta-worthy-home/
+2026-11-03T07:55:23.803978+00:00	Yet again rewatched The Dark Crystal https://blog.lauramichet.com/yet-again-rewatched-the-dark-crystal/
 2026-11-03T11:40:00+00:00	Pluritine Customs https://elmc.at/pluritine-customs/
 2026-11-03T11:47:00+00:00	AI is destroying my CS degree https://lordtoots.bearblog.dev/ai-is-destroying-my-cs-degree/
-2026-11-03T12:10:14.202853+00:00	Politics at Work: Corporate Mobilization https://priceofpower.bearblog.dev/politics-at-work-corporate-mobilization/
 2026-11-03T14:23:00+00:00	...more favorite Bear Blog finds! https://coreyblogs.com/more-favorite-bear-blog-finds/
 2026-11-03T16:01:00+00:00	Slow Living https://mirroredworld.bearblog.dev/slow-living/
 2026-11-03T17:20:00+00:00	Theurgy https://elmc.at/theurgy/
+2026-11-03T20:23:00+00:00	Go vote, particularly if you live in LA https://blog.lauramichet.com/go-vote-particularly-if-you-live-in-la/
+2026-11-03T20:44:47.775940+00:00	We Won't Watch Severance Together Anymore https://samwigglesworth.bearblog.dev/we-wont-watch-severance-together-anymore/
+2026-11-03T21:25:00+00:00	some statements https://lamppost.bearblog.dev/probably-a-bad-song/
+2026-11-04T00:04:00+00:00	The Bell https://nburchett.com/the-bell/
