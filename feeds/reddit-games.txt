@@ -4,7 +4,6 @@
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
 2026-11-01T10:01:45+00:00	Weekly /r/Games Discussion - What have you been playing, and what are your thoughts? - November 01, 2026 https://www.reddit.com/r/Games/comments/1xkzbgq/weekly_rgames_discussion_what_have_you_been/
-2026-11-02T17:32:05+00:00	Nobuo Uematsu Warns 'Hollywood-Style Scores' Are Making Game Music Sound Too Similar https://www.reddit.com/r/Games/comments/1xm3mhh/nobuo_uematsu_warns_hollywoodstyle_scores_are/
 2026-11-03T11:39:57+00:00	Remedy revenue soars by 226% following release of Control Resonant, the developer's fastest selling game ever, marking "a defining milestone for the company" https://www.reddit.com/r/Games/comments/1xmqpux/remedy_revenue_soars_by_226_following_release_of/
 2026-11-03T14:41:41+00:00	Gemporium Isn’t Launching On Xbox Due To The BDS Boycott https://www.reddit.com/r/Games/comments/1xmuq6x/gemporium_isnt_launching_on_xbox_due_to_the_bds/
 2026-11-03T14:42:31+00:00	Ask the Developer Vol. 24: The Legend of Zelda: Ocarina of Time — Parts 3 & 4 https://www.reddit.com/r/Games/comments/1xmur0b/ask_the_developer_vol_24_the_legend_of_zelda/
@@ -13,8 +12,6 @@
 2026-11-03T15:06:00+00:00	The Division 2: Echoes of Central Park - Launch Trailer https://www.reddit.com/r/Games/comments/1xmvd9o/the_division_2_echoes_of_central_park_launch/
 2026-11-03T15:09:49+00:00	The Elder Scrolls VI: Official Name Reveal https://www.reddit.com/r/Games/comments/1xmvgqo/the_elder_scrolls_vi_official_name_reveal/
 2026-11-03T15:57:25+00:00	Jason Schreier: "I think a lot of people forget that The Elder Scrolls VI was only announced in 2018 (along with Starfield) to soften the blow of Fallout 76. Sorry to say this game is still more than two years away!" https://www.reddit.com/r/Games/comments/1xmwq4d/jason_schreier_i_think_a_lot_of_people_forget/
-2026-11-03T16:07:21+00:00	Stronghold 4 Delayed, Releases Apr 20th 2027 on PC https://www.reddit.com/r/Games/comments/1xmx033/stronghold_4_delayed_releases_apr_20th_2027_on_pc/
-2026-11-03T16:29:22+00:00	ROSETIA: A First Contact RPG Trailer https://www.reddit.com/r/Games/comments/1xmxlrl/rosetia_a_first_contact_rpg_trailer/
 2026-11-03T16:38:28+00:00	Hyperspace Neptunia: Unlimited Releases 2027 for PC, PS5, PS4, Switch 2, Switch https://www.reddit.com/r/Games/comments/1xmxuib/hyperspace_neptunia_unlimited_releases_2027_for/
 2026-11-03T17:23:26+00:00	Game Informer's December Cover Reveal – Tomb Raider: Legacy Of Atlantis https://www.reddit.com/r/Games/comments/1xmz2zz/game_informers_december_cover_reveal_tomb_raider/
 2026-11-03T17:29:31+00:00	The Nikke PC Launcher seems to have been compromised https://www.reddit.com/r/Games/comments/1xmz946/the_nikke_pc_launcher_seems_to_have_been/
@@ -28,3 +25,6 @@
 2026-11-03T20:19:58+00:00	The Mermaid Mask: A whodunit that refused to die https://www.reddit.com/r/Games/comments/1xn3z0t/the_mermaid_mask_a_whodunit_that_refused_to_die/
 2026-11-03T20:47:05+00:00	Xbox’s Arkane Studios Attracts Multiple Bidders, Including Ubisoft https://www.reddit.com/r/Games/comments/1xn4ok4/xboxs_arkane_studios_attracts_multiple_bidders/
 2026-11-03T23:00:02+00:00	Steamworks Development - Updates to the Pre-Release Review Process https://www.reddit.com/r/Games/comments/1xn80n0/steamworks_development_updates_to_the_prerelease/
+2026-11-04T01:31:13+00:00	Potato Please Official Release Trailer https://www.reddit.com/r/Games/comments/1xnbdhr/potato_please_official_release_trailer/
+2026-11-04T05:45:24+00:00	Beyond the Second Screen: The Story of PokeDaisy https://www.reddit.com/r/Games/comments/1xngc2o/beyond_the_second_screen_the_story_of_pokedaisy/
+2026-11-04T06:02:39+00:00	Phantom Blade Zero earns $223 million revenue on Steam and PlayStation https://www.reddit.com/r/Games/comments/1xngn3q/phantom_blade_zero_earns_223_million_revenue_on/
