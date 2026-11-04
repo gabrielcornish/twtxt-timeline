@@ -4,22 +4,22 @@
 # description = twtxt conversion of https://bearblog.dev/discover/feed/
 
 2026-11-01T17:34:00+00:00	The Cost of Blogging https://onlinegoddess.net/2026/11/the-cost-of-blogging/
-2026-11-02T01:36:00+00:00	I am AI https://iam-luna-rose.bearblog.dev/i-am-ai/
-2026-11-02T05:45:00.844145+00:00	crying in front of a donut ad https://nothings.bearblog.dev/crying-in-front-of-a-donut-ad/
 2026-11-02T13:49:44.930483+00:00	I was spending too much time on YouTube. Thanks to YouTube for fixing that. https://lance.bearblog.dev/i-was-spending-too-much-time-on-youtube-thanks-to-youtube-for-fixing-that/
-2026-11-02T15:35:14.941809+00:00	The Farewell Call https://rickw.bearblog.dev/the-farewell-call/
 2026-11-02T16:39:09.706227+00:00	In October 2026, the Video Game Industry Went All-In on AI https://joshgriffiths.site/in-october-2026-the-video-game-industry-went-all-in-on-ai/
-2026-11-02T19:56:16.993209+00:00	Knowledge is not experience https://graybeard.ing/knowledge-is-not-experience/
 2026-11-02T21:19:00+00:00	Creating an Insta-Worthy Home https://onlinegoddess.net/2026/11/creating-an-insta-worthy-home/
-2026-11-03T11:40:00+00:00	Pluritine Customs https://elmc.at/pluritine-customs/
 2026-11-03T11:47:00+00:00	AI is destroying my CS degree https://lordtoots.bearblog.dev/ai-is-destroying-my-cs-degree/
 2026-11-03T14:23:00+00:00	...more favorite Bear Blog finds! https://coreyblogs.com/more-favorite-bear-blog-finds/
 2026-11-03T16:01:00+00:00	Slow Living https://mirroredworld.bearblog.dev/slow-living/
-2026-11-03T17:20:00+00:00	Theurgy https://elmc.at/theurgy/
-2026-11-03T17:25:58.248490+00:00	One more time https://robertbirming.com/one-more-time/
 2026-11-03T20:23:00+00:00	Go vote, particularly if you live in LA https://blog.lauramichet.com/go-vote-particularly-if-you-live-in-la/
-2026-11-03T20:44:47.775940+00:00	We Won't Watch Severance Together Anymore https://samwigglesworth.bearblog.dev/we-wont-watch-severance-together-anymore/
+2026-11-03T20:44:00+00:00	We Won't Watch Severance Together Anymore https://samwigglesworth.bearblog.dev/we-wont-watch-severance-together-anymore/
 2026-11-03T21:25:00+00:00	some statements https://lamppost.bearblog.dev/probably-a-bad-song/
 2026-11-03T22:12:00+00:00	...on Election Day. [Updated] https://coreyblogs.com/on-election-day/
-2026-11-04T00:04:00+00:00	The Bell https://nburchett.com/the-bell/
 2026-11-04T04:08:00+00:00	Thirteen years ago I failed at their dream https://blog.ammonite.me/thirteen-years-ago-i-failed-at-their-dream/
+2026-11-04T05:27:00+00:00	tx blue!! https://blog.fiddery.com/tx-blue/
+2026-11-04T08:29:00+00:00	6 months of hitting the gym https://via.bearblog.dev/6-months-of-hitting-the-gym/
+2026-11-04T09:57:38.440719+00:00	Who Counts as Family https://magnusps.dev/who-counts-as-family/
+2026-11-04T14:55:00+00:00	...his first Bear Blog hate mail. https://coreyblogs.com/his-first-bear-blog-hate-mail/
+2026-11-04T14:55:45.880216+00:00	Is the polar vortex breaking up in november? https://weatherlinguist.bearblog.dev/is-the-polar-vortex-breaking-up-in-november/
+2026-11-04T15:15:00+00:00	I held no hopes but last night was a batshit midterm https://angrybunnyman.com/i-held-no-hopes-but-last-night-was-a-batshit-midterm/
+2026-11-04T16:13:59.745142+00:00	Ethics is dead and the Internet killed it. https://itsme.bearblog.dev/ethics-is-dead-and-the-internet-killed-it/
+2026-11-04T17:29:00+00:00	I Don't Like Roses https://samwigglesworth.bearblog.dev/i-dont-like-roses/

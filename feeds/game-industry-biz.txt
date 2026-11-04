@@ -3,9 +3,6 @@
 # source = https://www.gamesindustry.biz/feed
 # description = twtxt conversion of https://www.gamesindustry.biz/feed
 
-2026-10-23T13:52:52+00:00	GameMaker to make its "next-generation runtime" GMRT free for commercial use in January 2027 https://www.gamesindustry.biz/gamemaker-to-make-its-next-generation-runtime-gmrt-free-for-commercial-use-in-january-2027
-2026-10-23T15:04:13+00:00	BioWare's end is a tragically familiar tale | Opinion https://www.gamesindustry.biz/biowares-end-is-a-tragically-familiar-tale-opinion
-2026-10-26T08:40:16+00:00	Shogun 2 – Complete Edition was "not a Creative Assembly developed game," says Total War VP after it was pulled amid generative AI concerns https://www.gamesindustry.biz/shogun-2-complete-edition-was-not-a-creative-assembly-developed-game-says-total-war-vp-after-it-was-pulled-amid-generative-ai-concerns
 2026-10-26T10:52:14+00:00	Microsoft extends consultation period for Arkane Lyon as it continues development on Marvel's Blade https://www.gamesindustry.biz/microsoft-extends-consultation-period-for-arkane-lyon-as-it-continues-development-on-marvels-blade
 2026-10-26T13:02:57+00:00	Netflix reportedly offered $500m to Microsoft to license Xbox IP for seven years https://www.gamesindustry.biz/netflix-reportedly-offered-500m-to-microsoft-to-license-xbox-ip-for-seven-years
 2026-10-26T13:30:00+00:00	"It was a pretty harrowing three months" – Undead Labs head Philip Holt on what happened after Xbox cut the studio loose https://www.gamesindustry.biz/it-was-a-pretty-harrowing-three-months-undead-labs-head-philip-holt-on-what-happened-after-xbox-cut-the-studio-loose
@@ -53,3 +50,6 @@
 2026-11-03T13:30:00+00:00	The launch is not the end: How Beholder: Conductor equalled its launch sales 15 months after release https://www.gamesindustry.biz/the-launch-is-not-the-end-how-beholder-conductor-equalled-its-launch-sales-15-months-after-release
 2026-11-03T14:51:34+00:00	How traditional book clubs inspired The Game Club to help gamers forge friendships as adults https://www.gamesindustry.biz/how-traditional-book-clubs-inspired-the-game-club-to-help-gamers-forge-friendships-as-adults
 2026-11-04T08:35:49+00:00	Ubisoft reportedly seeking to acquire Arkane Lyon from Xbox https://www.gamesindustry.biz/ubisoft-reportedly-seeking-to-acquire-arkane-lyon-from-xbox
+2026-11-04T10:43:47+00:00	Advertising Standards Authority bans mobile ads from King, Scopely, and others for misrepresenting gameplay https://www.gamesindustry.biz/advertising-standards-authority-bans-mobile-ads-from-king-scopely-and-others-for-misrepresenting-gameplay
+2026-11-04T13:30:00+00:00	"I realised I might only have time to make one more game, so I wanted to try something new" – Tekken director Katsuhiro Harada on starting VS Studio https://www.gamesindustry.biz/i-realised-i-might-only-have-time-to-make-one-more-game-so-i-wanted-to-try-something-new-tekken-director-katsuhiro-harada-on-starting-vs-studio
+2026-11-04T15:51:40+00:00	Meet the UK's 2026 video game BAFTA Breakthroughs https://www.gamesindustry.biz/meet-the-uks-2026-video-game-bafta-breakthroughs

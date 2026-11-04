@@ -3,28 +3,28 @@
 # source = https://www.reddit.com/r/Games.rss
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
-2026-11-01T10:01:45+00:00	Weekly /r/Games Discussion - What have you been playing, and what are your thoughts? - November 01, 2026 https://www.reddit.com/r/Games/comments/1xkzbgq/weekly_rgames_discussion_what_have_you_been/
 2026-11-03T11:39:57+00:00	Remedy revenue soars by 226% following release of Control Resonant, the developer's fastest selling game ever, marking "a defining milestone for the company" https://www.reddit.com/r/Games/comments/1xmqpux/remedy_revenue_soars_by_226_following_release_of/
 2026-11-03T14:41:41+00:00	Gemporium Isn’t Launching On Xbox Due To The BDS Boycott https://www.reddit.com/r/Games/comments/1xmuq6x/gemporium_isnt_launching_on_xbox_due_to_the_bds/
-2026-11-03T14:42:31+00:00	Ask the Developer Vol. 24: The Legend of Zelda: Ocarina of Time — Parts 3 & 4 https://www.reddit.com/r/Games/comments/1xmur0b/ask_the_developer_vol_24_the_legend_of_zelda/
 2026-11-03T14:56:10+00:00	Grand Theft Auto VI Pre-Load Begins on November 10 https://www.reddit.com/r/Games/comments/1xmv3q0/grand_theft_auto_vi_preload_begins_on_november_10/
-2026-11-03T15:01:12+00:00	Celebrating 40 Years of Bethesda Game Studios https://www.reddit.com/r/Games/comments/1xmv8kq/celebrating_40_years_of_bethesda_game_studios/
-2026-11-03T15:06:00+00:00	The Division 2: Echoes of Central Park - Launch Trailer https://www.reddit.com/r/Games/comments/1xmvd9o/the_division_2_echoes_of_central_park_launch/
 2026-11-03T15:09:49+00:00	The Elder Scrolls VI: Official Name Reveal https://www.reddit.com/r/Games/comments/1xmvgqo/the_elder_scrolls_vi_official_name_reveal/
 2026-11-03T15:57:25+00:00	Jason Schreier: "I think a lot of people forget that The Elder Scrolls VI was only announced in 2018 (along with Starfield) to soften the blow of Fallout 76. Sorry to say this game is still more than two years away!" https://www.reddit.com/r/Games/comments/1xmwq4d/jason_schreier_i_think_a_lot_of_people_forget/
-2026-11-03T16:38:28+00:00	Hyperspace Neptunia: Unlimited Releases 2027 for PC, PS5, PS4, Switch 2, Switch https://www.reddit.com/r/Games/comments/1xmxuib/hyperspace_neptunia_unlimited_releases_2027_for/
-2026-11-03T17:23:26+00:00	Game Informer's December Cover Reveal – Tomb Raider: Legacy Of Atlantis https://www.reddit.com/r/Games/comments/1xmz2zz/game_informers_december_cover_reveal_tomb_raider/
 2026-11-03T17:29:31+00:00	The Nikke PC Launcher seems to have been compromised https://www.reddit.com/r/Games/comments/1xmz946/the_nikke_pc_launcher_seems_to_have_been/
 2026-11-03T17:32:04+00:00	Guild Wars Afterlife Announcement Trailer https://www.reddit.com/r/Games/comments/1xmzbqa/guild_wars_afterlife_announcement_trailer/
-2026-11-03T17:34:16+00:00	Darkest Dungeon II: The Butcher's Asylum Teaser Trailer https://www.reddit.com/r/Games/comments/1xmzduj/darkest_dungeon_ii_the_butchers_asylum_teaser/
-2026-11-03T18:00:38+00:00	Humble Choice November 2026 - Mafia: The Old Country w/ DLC, The Outer Worlds 2, Yakuza 6, Shinobi: Art of Vengeance and more https://www.reddit.com/r/Games/comments/1xn04ip/humble_choice_november_2026_mafia_the_old_country/
 2026-11-03T18:19:58+00:00	Itch mass deletes ‘AI slop’, lets users filter out any AI assisted games https://www.reddit.com/r/Games/comments/1xn0o96/itch_mass_deletes_ai_slop_lets_users_filter_out/
 2026-11-03T18:21:24+00:00	Age of Wonders 4: The Silver Seas Out Now! | Release Trailer https://www.reddit.com/r/Games/comments/1xn0prx/age_of_wonders_4_the_silver_seas_out_now_release/
 2026-11-03T18:22:40+00:00	AI-Generated Content on Nexus Mods https://www.reddit.com/r/Games/comments/1xn0r2u/aigenerated_content_on_nexus_mods/
 2026-11-03T18:49:58+00:00	How Noita Simulates Every Single Pixel [Noita Development Documentary] https://www.reddit.com/r/Games/comments/1xn1hs9/how_noita_simulates_every_single_pixel_noita/
-2026-11-03T20:19:58+00:00	The Mermaid Mask: A whodunit that refused to die https://www.reddit.com/r/Games/comments/1xn3z0t/the_mermaid_mask_a_whodunit_that_refused_to_die/
 2026-11-03T20:47:05+00:00	Xbox’s Arkane Studios Attracts Multiple Bidders, Including Ubisoft https://www.reddit.com/r/Games/comments/1xn4ok4/xboxs_arkane_studios_attracts_multiple_bidders/
 2026-11-03T23:00:02+00:00	Steamworks Development - Updates to the Pre-Release Review Process https://www.reddit.com/r/Games/comments/1xn80n0/steamworks_development_updates_to_the_prerelease/
-2026-11-04T01:31:13+00:00	Potato Please Official Release Trailer https://www.reddit.com/r/Games/comments/1xnbdhr/potato_please_official_release_trailer/
-2026-11-04T05:45:24+00:00	Beyond the Second Screen: The Story of PokeDaisy https://www.reddit.com/r/Games/comments/1xngc2o/beyond_the_second_screen_the_story_of_pokedaisy/
-2026-11-04T06:02:39+00:00	Phantom Blade Zero earns $223 million revenue on Steam and PlayStation https://www.reddit.com/r/Games/comments/1xngn3q/phantom_blade_zero_earns_223_million_revenue_on/
+2026-11-04T09:13:18+00:00	The Citadel Project - Official Early Access Trailer https://www.reddit.com/r/Games/comments/1xnjof7/the_citadel_project_official_early_access_trailer/
+2026-11-04T11:26:35+00:00	[Tales Of Destiny PS1] Method to recruit a previously Unrecruitable Character found after 30 Years https://www.reddit.com/r/Games/comments/1xnlte7/tales_of_destiny_ps1_method_to_recruit_a/
+2026-11-04T12:00:41+00:00	Daily /r/Games Discussion - Suggest Me a Game - November 04, 2026 https://www.reddit.com/r/Games/comments/1xnmf3b/daily_rgames_discussion_suggest_me_a_game/
+2026-11-04T12:35:59+00:00	The Legend of Zelda: Ocarina of Time (2026) - Review Thread https://www.reddit.com/r/Games/comments/1xnn3o0/the_legend_of_zelda_ocarina_of_time_2026_review/
+2026-11-04T14:03:03+00:00	Nintendo Joins The Accessible Games Initiative, Adopting A Bunch Of New eShop Game Tags https://www.reddit.com/r/Games/comments/1xnozq6/nintendo_joins_the_accessible_games_initiative/
+2026-11-04T14:32:12+00:00	Queen's Domain has sold 100k copies in less than 5 days https://www.reddit.com/r/Games/comments/1xnpp6k/queens_domain_has_sold_100k_copies_in_less_than_5/
+2026-11-04T14:34:13+00:00	Lunacid | 3 Year Anniversary Trailer https://www.reddit.com/r/Games/comments/1xnpqwr/lunacid_3_year_anniversary_trailer/
+2026-11-04T14:39:24+00:00	Delicious in Dungeon × Dragon's Dogma 2: Dark Arisen | Collaboration Trailer https://www.reddit.com/r/Games/comments/1xnpvd6/delicious_in_dungeon_dragons_dogma_2_dark_arisen/
+2026-11-04T15:00:08+00:00	Lords of the Fallen II: NEW ‘Steel & Sorcery’ Gameplay https://www.reddit.com/r/Games/comments/1xnqdcp/lords_of_the_fallen_ii_new_steel_sorcery_gameplay/
+2026-11-04T15:00:24+00:00	[Digital Foundry] SCSKiller - The beginning of the end for PC #StutterStruggle? https://www.reddit.com/r/Games/comments/1xnqdne/digital_foundry_scskiller_the_beginning_of_the/
+2026-11-04T15:30:35+00:00	Hull Rupture is out today https://www.reddit.com/r/Games/comments/1xnr5gr/hull_rupture_is_out_today/
+2026-11-04T17:05:37+00:00	God of War Laufey has been delayed to May 20th, 2027 https://www.reddit.com/r/Games/comments/1xntmdf/god_of_war_laufey_has_been_delayed_to_may_20th/
