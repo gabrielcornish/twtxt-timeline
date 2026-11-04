@@ -3,9 +3,6 @@
 # source = https://www.gamesindustry.biz/feed
 # description = twtxt conversion of https://www.gamesindustry.biz/feed
 
-2026-10-26T10:52:14+00:00	Microsoft extends consultation period for Arkane Lyon as it continues development on Marvel's Blade https://www.gamesindustry.biz/microsoft-extends-consultation-period-for-arkane-lyon-as-it-continues-development-on-marvels-blade
-2026-10-26T13:02:57+00:00	Netflix reportedly offered $500m to Microsoft to license Xbox IP for seven years https://www.gamesindustry.biz/netflix-reportedly-offered-500m-to-microsoft-to-license-xbox-ip-for-seven-years
-2026-10-26T13:30:00+00:00	"It was a pretty harrowing three months" – Undead Labs head Philip Holt on what happened after Xbox cut the studio loose https://www.gamesindustry.biz/it-was-a-pretty-harrowing-three-months-undead-labs-head-philip-holt-on-what-happened-after-xbox-cut-the-studio-loose
 2026-10-26T14:33:18+00:00	Side expands presence in China, opens new studio and acquires art outsourcing provider Roboto Entertainment https://www.gamesindustry.biz/side-expands-presence-in-china-opens-new-studio-and-acquires-art-outsourcing-provider-roboto-entertainment
 2026-10-26T16:33:59+00:00	Paris Games Biz showcased a guarded optimism in the face of turmoil, both locally and in the industry at large | Opinion https://www.gamesindustry.biz/paris-games-biz-showcased-a-guarded-optimism-in-the-face-of-turmoil-locally-and-in-the-industry-at-large-opinion
 2026-10-26T18:05:17+00:00	223,000+ people sign petition to "save Mass Effect" https://www.gamesindustry.biz/223000-people-sign-petition-to-save-mass-effect
@@ -53,3 +50,6 @@
 2026-11-04T10:43:47+00:00	Advertising Standards Authority bans mobile ads from King, Scopely, and others for misrepresenting gameplay https://www.gamesindustry.biz/advertising-standards-authority-bans-mobile-ads-from-king-scopely-and-others-for-misrepresenting-gameplay
 2026-11-04T13:30:00+00:00	"I realised I might only have time to make one more game, so I wanted to try something new" – Tekken director Katsuhiro Harada on starting VS Studio https://www.gamesindustry.biz/i-realised-i-might-only-have-time-to-make-one-more-game-so-i-wanted-to-try-something-new-tekken-director-katsuhiro-harada-on-starting-vs-studio
 2026-11-04T15:51:40+00:00	Meet the UK's 2026 video game BAFTA Breakthroughs https://www.gamesindustry.biz/meet-the-uks-2026-video-game-bafta-breakthroughs
+2026-11-04T18:56:00+00:00	Analysis: one in three acquired game studios has been shut down since 2000 https://www.gamesindustry.biz/analysis-one-in-three-acquired-game-studios-has-been-shut-down-since-2000
+2026-11-04T20:17:10+00:00	Arkane union accuses Microsoft of "sabotaging" Marvel's Blade with 19-month hiring freeze https://www.gamesindustry.biz/arkane-union-accuses-microsoft-of-sabotaging-marvels-blade-with-19-month-hiring-freeze
+2026-11-04T20:48:50+00:00	Tripwire Presents expands publishing business to support smaller indie developers https://www.gamesindustry.biz/tripwire-presents-expands-publishing-business-to-support-smaller-indie-developers

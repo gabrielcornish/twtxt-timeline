@@ -4,18 +4,14 @@
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
 2026-11-03T11:39:57+00:00	Remedy revenue soars by 226% following release of Control Resonant, the developer's fastest selling game ever, marking "a defining milestone for the company" https://www.reddit.com/r/Games/comments/1xmqpux/remedy_revenue_soars_by_226_following_release_of/
-2026-11-03T14:41:41+00:00	Gemporium Isn’t Launching On Xbox Due To The BDS Boycott https://www.reddit.com/r/Games/comments/1xmuq6x/gemporium_isnt_launching_on_xbox_due_to_the_bds/
 2026-11-03T14:56:10+00:00	Grand Theft Auto VI Pre-Load Begins on November 10 https://www.reddit.com/r/Games/comments/1xmv3q0/grand_theft_auto_vi_preload_begins_on_november_10/
 2026-11-03T15:09:49+00:00	The Elder Scrolls VI: Official Name Reveal https://www.reddit.com/r/Games/comments/1xmvgqo/the_elder_scrolls_vi_official_name_reveal/
 2026-11-03T15:57:25+00:00	Jason Schreier: "I think a lot of people forget that The Elder Scrolls VI was only announced in 2018 (along with Starfield) to soften the blow of Fallout 76. Sorry to say this game is still more than two years away!" https://www.reddit.com/r/Games/comments/1xmwq4d/jason_schreier_i_think_a_lot_of_people_forget/
 2026-11-03T17:29:31+00:00	The Nikke PC Launcher seems to have been compromised https://www.reddit.com/r/Games/comments/1xmz946/the_nikke_pc_launcher_seems_to_have_been/
 2026-11-03T17:32:04+00:00	Guild Wars Afterlife Announcement Trailer https://www.reddit.com/r/Games/comments/1xmzbqa/guild_wars_afterlife_announcement_trailer/
 2026-11-03T18:19:58+00:00	Itch mass deletes ‘AI slop’, lets users filter out any AI assisted games https://www.reddit.com/r/Games/comments/1xn0o96/itch_mass_deletes_ai_slop_lets_users_filter_out/
-2026-11-03T18:21:24+00:00	Age of Wonders 4: The Silver Seas Out Now! | Release Trailer https://www.reddit.com/r/Games/comments/1xn0prx/age_of_wonders_4_the_silver_seas_out_now_release/
 2026-11-03T18:22:40+00:00	AI-Generated Content on Nexus Mods https://www.reddit.com/r/Games/comments/1xn0r2u/aigenerated_content_on_nexus_mods/
-2026-11-03T18:49:58+00:00	How Noita Simulates Every Single Pixel [Noita Development Documentary] https://www.reddit.com/r/Games/comments/1xn1hs9/how_noita_simulates_every_single_pixel_noita/
 2026-11-03T20:47:05+00:00	Xbox’s Arkane Studios Attracts Multiple Bidders, Including Ubisoft https://www.reddit.com/r/Games/comments/1xn4ok4/xboxs_arkane_studios_attracts_multiple_bidders/
-2026-11-03T23:00:02+00:00	Steamworks Development - Updates to the Pre-Release Review Process https://www.reddit.com/r/Games/comments/1xn80n0/steamworks_development_updates_to_the_prerelease/
 2026-11-04T09:13:18+00:00	The Citadel Project - Official Early Access Trailer https://www.reddit.com/r/Games/comments/1xnjof7/the_citadel_project_official_early_access_trailer/
 2026-11-04T11:26:35+00:00	[Tales Of Destiny PS1] Method to recruit a previously Unrecruitable Character found after 30 Years https://www.reddit.com/r/Games/comments/1xnlte7/tales_of_destiny_ps1_method_to_recruit_a/
 2026-11-04T12:00:41+00:00	Daily /r/Games Discussion - Suggest Me a Game - November 04, 2026 https://www.reddit.com/r/Games/comments/1xnmf3b/daily_rgames_discussion_suggest_me_a_game/
@@ -26,5 +22,9 @@
 2026-11-04T14:39:24+00:00	Delicious in Dungeon × Dragon's Dogma 2: Dark Arisen | Collaboration Trailer https://www.reddit.com/r/Games/comments/1xnpvd6/delicious_in_dungeon_dragons_dogma_2_dark_arisen/
 2026-11-04T15:00:08+00:00	Lords of the Fallen II: NEW ‘Steel & Sorcery’ Gameplay https://www.reddit.com/r/Games/comments/1xnqdcp/lords_of_the_fallen_ii_new_steel_sorcery_gameplay/
 2026-11-04T15:00:24+00:00	[Digital Foundry] SCSKiller - The beginning of the end for PC #StutterStruggle? https://www.reddit.com/r/Games/comments/1xnqdne/digital_foundry_scskiller_the_beginning_of_the/
-2026-11-04T15:30:35+00:00	Hull Rupture is out today https://www.reddit.com/r/Games/comments/1xnr5gr/hull_rupture_is_out_today/
 2026-11-04T17:05:37+00:00	God of War Laufey has been delayed to May 20th, 2027 https://www.reddit.com/r/Games/comments/1xntmdf/god_of_war_laufey_has_been_delayed_to_may_20th/
+2026-11-04T18:17:07+00:00	Arkane union says Xbox is ‘sabotaging’ Blade development https://www.reddit.com/r/Games/comments/1xnvjm0/arkane_union_says_xbox_is_sabotaging_blade/
+2026-11-04T19:17:30+00:00	Final Fantasy’s Yoshinori Kitase Teases What’s Next for Square Enix, Says Company Will Prioritize New Games Over Remakes https://www.reddit.com/r/Games/comments/1xnx4hw/final_fantasys_yoshinori_kitase_teases_whats_next/
+2026-11-04T20:55:14+00:00	Hull Rupture launch trailer https://www.reddit.com/r/Games/comments/1xnzmku/hull_rupture_launch_trailer/
+2026-11-04T22:18:34+00:00	Fragmentary Order — Official Gameplay Reveal https://www.reddit.com/r/Games/comments/1xo1q86/fragmentary_order_official_gameplay_reveal/
+2026-11-04T22:28:48+00:00	[Anno 117]Union Update: Free Weekend and Dawn of the Delta release https://www.reddit.com/r/Games/comments/1xo1yua/anno_117union_update_free_weekend_and_dawn_of_the/
