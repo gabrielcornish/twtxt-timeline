@@ -3,28 +3,28 @@
 # source = https://www.reddit.com/r/Games.rss
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
-2026-11-04T11:26:35+00:00	[Tales Of Destiny PS1] Method to recruit a previously Unrecruitable Character found after 30 Years https://www.reddit.com/r/Games/comments/1xnlte7/tales_of_destiny_ps1_method_to_recruit_a/
 2026-11-04T12:00:41+00:00	Daily /r/Games Discussion - Suggest Me a Game - November 04, 2026 https://www.reddit.com/r/Games/comments/1xnmf3b/daily_rgames_discussion_suggest_me_a_game/
-2026-11-04T12:35:59+00:00	The Legend of Zelda: Ocarina of Time (2026) - Review Thread https://www.reddit.com/r/Games/comments/1xnn3o0/the_legend_of_zelda_ocarina_of_time_2026_review/
-2026-11-04T14:03:03+00:00	Nintendo Joins The Accessible Games Initiative, Adopting A Bunch Of New eShop Game Tags https://www.reddit.com/r/Games/comments/1xnozq6/nintendo_joins_the_accessible_games_initiative/
-2026-11-04T14:32:12+00:00	Queen's Domain has sold 100k copies in less than 5 days https://www.reddit.com/r/Games/comments/1xnpp6k/queens_domain_has_sold_100k_copies_in_less_than_5/
-2026-11-04T14:34:13+00:00	Lunacid | 3 Year Anniversary Trailer https://www.reddit.com/r/Games/comments/1xnpqwr/lunacid_3_year_anniversary_trailer/
-2026-11-04T14:39:24+00:00	Delicious in Dungeon × Dragon's Dogma 2: Dark Arisen | Collaboration Trailer https://www.reddit.com/r/Games/comments/1xnpvd6/delicious_in_dungeon_dragons_dogma_2_dark_arisen/
-2026-11-04T17:05:37+00:00	God of War Laufey has been delayed to May 20th, 2027 https://www.reddit.com/r/Games/comments/1xntmdf/god_of_war_laufey_has_been_delayed_to_may_20th/
-2026-11-04T18:17:07+00:00	Arkane union says Xbox is ‘sabotaging’ Blade development https://www.reddit.com/r/Games/comments/1xnvjm0/arkane_union_says_xbox_is_sabotaging_blade/
-2026-11-04T19:17:30+00:00	Final Fantasy’s Yoshinori Kitase Teases What’s Next for Square Enix, Says Company Will Prioritize New Games Over Remakes https://www.reddit.com/r/Games/comments/1xnx4hw/final_fantasys_yoshinori_kitase_teases_whats_next/
-2026-11-04T20:55:14+00:00	Hull Rupture launch trailer https://www.reddit.com/r/Games/comments/1xnzmku/hull_rupture_launch_trailer/
-2026-11-05T00:26:56+00:00	Nintendo's biggest ROM chip supplier is bowing out of the business https://www.reddit.com/r/Games/comments/1xo4noh/nintendos_biggest_rom_chip_supplier_is_bowing_out/
-2026-11-05T02:49:36+00:00	Embrace the City Life update in Forza Horizon 6 https://www.reddit.com/r/Games/comments/1xo7m40/embrace_the_city_life_update_in_forza_horizon_6/
-2026-11-05T03:46:29+00:00	Wendy’s Releases Free WendyQuest RPG on Steam https://www.reddit.com/r/Games/comments/1xo8r4v/wendys_releases_free_wendyquest_rpg_on_steam/
-2026-11-05T05:31:57+00:00	Zelda Ocarina Remake Producers Talk Changing And Maintaining The Game, Easter Eggs, The Bombchu Bowling Alley Operator, And More https://www.reddit.com/r/Games/comments/1xoaoi4/zelda_ocarina_remake_producers_talk_changing_and/
 2026-11-05T06:32:03+00:00	Nintendo Switch 2 has sold 26.35 million units, Nintendo Switch has sold 157.20 million units https://www.reddit.com/r/Games/comments/1xoboun/nintendo_switch_2_has_sold_2635_million_units/
 2026-11-05T06:59:54+00:00	As of November 4th, Marvel's Wolverine have sold 2.4m units https://www.reddit.com/r/Games/comments/1xoc4w1/as_of_november_4th_marvels_wolverine_have_sold/
 2026-11-05T07:55:40+00:00	Changes to Steam's Age Assurance for Australia https://www.reddit.com/r/Games/comments/1xoczdb/changes_to_steams_age_assurance_for_australia/
-2026-11-05T08:27:33+00:00	PS5 shipments top 97.9 million, PlayStation hits 127 Million Monthly Active Users https://www.reddit.com/r/Games/comments/1xodgxf/ps5_shipments_top_979_million_playstation_hits/
 2026-11-05T12:11:13+00:00	Nintendo Profit Drops After Memory Crunch and Lack of Big Debuts https://www.reddit.com/r/Games/comments/1xoh2vt/nintendo_profit_drops_after_memory_crunch_and/
 2026-11-05T13:35:15+00:00	My game was cloned with AI... what do I do? - Game Maker's Toolkit https://www.reddit.com/r/Games/comments/1xoishj/my_game_was_cloned_with_ai_what_do_i_do_game/
 2026-11-05T13:53:01+00:00	AMA: Psycho-Sleuth is out now on Steam! A mystery visual novel where you can't even trust your own perception. Ask me anything! https://www.reddit.com/r/Games/comments/1xoj6lt/ama_psychosleuth_is_out_now_on_steam_a_mystery/
 2026-11-05T14:09:01+00:00	Assassin's Creed Valhalla Title Update 1.8.0 https://www.reddit.com/r/Games/comments/1xojk7h/assassins_creed_valhalla_title_update_180/
-2026-11-05T15:12:18+00:00	Release Date Reveal Trailer | Petit Planet https://www.reddit.com/r/Games/comments/1xol4qs/release_date_reveal_trailer_petit_planet/
 2026-11-05T15:19:38+00:00	AMD FSR™ Upscaling 4 Is Now Available for XBOX https://www.reddit.com/r/Games/comments/1xolbm9/amd_fsr_upscaling_4_is_now_available_for_xbox/
+2026-11-05T16:55:54+00:00	World of Warcraft: Forever has gone live, and PC gamers are calling it the smoothest launch in Blizzard's MMORPG history https://www.reddit.com/r/Games/comments/1xonsu6/world_of_warcraft_forever_has_gone_live_and_pc/
+2026-11-05T17:01:53+00:00	The Legend of Zelda: Ocarina of Time Releases Today on Switch 2 https://www.reddit.com/r/Games/comments/1xonymc/the_legend_of_zelda_ocarina_of_time_releases/
+2026-11-05T17:03:48+00:00	Anno 117: Pax Romana - Dawn of the Delta Launch Trailer https://www.reddit.com/r/Games/comments/1xoo0ky/anno_117_pax_romana_dawn_of_the_delta_launch/
+2026-11-05T17:15:33+00:00	Miyamoto shows off The Legend of Zelda: Ocarina of Time at E3 1998 | The Video Game History Foundation https://www.reddit.com/r/Games/comments/1xoobn3/miyamoto_shows_off_the_legend_of_zelda_ocarina_of/
+2026-11-05T17:36:25+00:00	Stellar Blade - Live Action Launch Trailer - Nintendo Switch 2 https://www.reddit.com/r/Games/comments/1xoovnv/stellar_blade_live_action_launch_trailer_nintendo/
+2026-11-05T17:45:27+00:00	A Faster, Simpler XBOX Experience Is Coming to PC, Web and Cloud https://www.reddit.com/r/Games/comments/1xop486/a_faster_simpler_xbox_experience_is_coming_to_pc/
+2026-11-05T17:57:22+00:00	Pillars of Eternity II: Deadfire - Pillars of Eternity and Deadfire: Controller Support Public Test is Now Live! - Steam News https://www.reddit.com/r/Games/comments/1xopg15/pillars_of_eternity_ii_deadfire_pillars_of/
+2026-11-05T18:05:06+00:00	Rockstar Games: The Launch Gallery — Experience Vice City and beyond through new screenshots. https://www.reddit.com/r/Games/comments/1xopnp8/rockstar_games_the_launch_gallery_experience_vice/
+2026-11-05T18:14:30+00:00	GOG Eighteen Years In The Making: It all started in 2008. Learn how Good Old Games began, relive the infamous shutdown, and see how it became GOG https://www.reddit.com/r/Games/comments/1xopwjr/gog_eighteen_years_in_the_making_it_all_started/
+2026-11-05T18:52:55+00:00	EA's releasing a truckload of classic games on Steam, and 7 of them are remasters https://www.reddit.com/r/Games/comments/1xoqwzr/eas_releasing_a_truckload_of_classic_games_on/
+2026-11-05T18:53:39+00:00	Raiders of the Lost Archive: Inside the 20,000-tape discovery that’s brought EA classics back to life https://www.reddit.com/r/Games/comments/1xoqxo9/raiders_of_the_lost_archive_inside_the_20000tape/
+2026-11-05T18:54:55+00:00	Ultima series, Wing Commander series, Road Rash now available on Steam (updated versions also available on GOG.com) https://www.reddit.com/r/Games/comments/1xoqyuf/ultima_series_wing_commander_series_road_rash_now/
+2026-11-05T19:18:26+00:00	From the Vault to Your Library—How Seven of EA's Classic Games were Restored https://www.reddit.com/r/Games/comments/1xorl0l/from_the_vault_to_your_libraryhow_seven_of_eas/
+2026-11-05T19:27:50+00:00	Warhammer 40,000: Dawn of War IV – Battlefield Report Last Stand https://www.reddit.com/r/Games/comments/1xortnk/warhammer_40000_dawn_of_war_iv_battlefield_report/
+2026-11-05T20:35:11+00:00	Nier: Automata’s latest update increases game size from 50GB to 366GB https://www.reddit.com/r/Games/comments/1xotioo/nier_automatas_latest_update_increases_game_size/
+2026-11-05T20:46:02+00:00	Stellar Blade - Bayonetta Collaboration Trailer | PS5 & PC Games https://www.reddit.com/r/Games/comments/1xotskk/stellar_blade_bayonetta_collaboration_trailer_ps5/

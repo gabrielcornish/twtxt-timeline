@@ -3,7 +3,6 @@
 # source = https://www.gamesindustry.biz/feed
 # description = twtxt conversion of https://www.gamesindustry.biz/feed
 
-2026-10-26T21:34:00+00:00	Xbox staff among up to 60,000 Microsoft employees offered voluntary exit https://www.gamesindustry.biz/xbox-staff-among-up-to-60000-microsoft-employees-offered-voluntary-exit
 2026-10-27T10:29:28+00:00	Sucker Punch Productions reportedly lays off 24 employees following launch of Ghost of Yōtei: Complete Edition https://www.gamesindustry.biz/sucker-punch-productions-reportedly-lays-off-24-employees-following-launch-of-ghost-of-yotei-complete-edition
 2026-10-27T11:43:41+00:00	TiMi Studio Group's Pokémon Unite to shut down on March 23, 2027 https://www.gamesindustry.biz/timi-studio-groups-pokemon-unite-to-shut-down-on-march-23-2027
 2026-10-27T12:00:59+00:00	UKIE calls on government to modernise Video Games Expenditure Credit ahead of Autumn Budget https://www.gamesindustry.biz/ukie-calls-on-government-to-modernise-video-games-expenditure-credit-ahead-of-autumn-budget
@@ -53,3 +52,4 @@
 2026-11-05T12:23:50+00:00	IGN Entertainment promotes Alex Simmons to lead editorial across its portfolio, with Wesley Yin-Poole overseeing IGN https://www.gamesindustry.biz/ign-entertainment-promotes-alex-simmons-to-lead-editorial-across-its-portfolio-with-wesley-yin-poole-overseeing-ign
 2026-11-05T13:15:00+00:00	"It's such a massively underserved market in the gaming industry" – The creators of Dressmaker on why more games should be aimed at women https://www.gamesindustry.biz/its-such-a-massively-underserved-market-in-the-gaming-industry-the-creators-of-dressmaker-on-why-more-games-should-be-aimed-at-women
 2026-11-05T14:13:50+00:00	Sensor Tower: GTA 6 pre-orders almost reach 8m, 74% bought on PlayStation 5 https://www.gamesindustry.biz/sensor-tower-gta-6-pre-orders-almost-reach-8m-74-bought-on-playstation-5
+2026-11-05T16:00:00+00:00	Investment firm Denmu closes oversubscribed debut fund, surpassing $50 million target https://www.gamesindustry.biz/investment-firm-denmu-closes-oversubscribed-debut-fund-surpassing-50-million-target
