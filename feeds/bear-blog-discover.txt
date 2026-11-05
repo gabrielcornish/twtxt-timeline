@@ -3,16 +3,12 @@
 # source = https://bearblog.dev/discover/feed/
 # description = twtxt conversion of https://bearblog.dev/discover/feed/
 
-2026-11-02T13:49:44.930483+00:00	I was spending too much time on YouTube. Thanks to YouTube for fixing that. https://lance.bearblog.dev/i-was-spending-too-much-time-on-youtube-thanks-to-youtube-for-fixing-that/
-2026-11-02T16:39:09.706227+00:00	In October 2026, the Video Game Industry Went All-In on AI https://joshgriffiths.site/in-october-2026-the-video-game-industry-went-all-in-on-ai/
 2026-11-03T11:47:00+00:00	AI is destroying my CS degree https://lordtoots.bearblog.dev/ai-is-destroying-my-cs-degree/
-2026-11-03T14:23:00+00:00	...more favorite Bear Blog finds! https://coreyblogs.com/more-favorite-bear-blog-finds/
 2026-11-03T16:01:00+00:00	Slow Living https://mirroredworld.bearblog.dev/slow-living/
 2026-11-03T20:44:00+00:00	We Won't Watch Severance Together Anymore https://samwigglesworth.bearblog.dev/we-wont-watch-severance-together-anymore/
 2026-11-04T04:08:00+00:00	Thirteen years ago I failed at their dream https://blog.ammonite.me/thirteen-years-ago-i-failed-at-their-dream/
 2026-11-04T08:29:00+00:00	6 months of hitting the gym https://via.bearblog.dev/6-months-of-hitting-the-gym/
-2026-11-04T09:42:00+00:00	36 Flavours of Ventrue Victims https://loyaladvisor.bearblog.dev/36-flavours-of-ventrue-victims/
-2026-11-04T09:57:38.440719+00:00	Who Counts as Family https://magnusps.dev/who-counts-as-family/
+2026-11-04T09:42:00+00:00	36 Flavours of Ventrue Victims https://yourloyaladvisor.com/36-flavours-of-ventrue-victims/
 2026-11-04T14:55:00+00:00	...his first Bear Blog hate mail. https://coreyblogs.com/his-first-bear-blog-hate-mail/
 2026-11-04T14:55:45.880216+00:00	Is the polar vortex breaking up in november? https://weatherlinguist.bearblog.dev/is-the-polar-vortex-breaking-up-in-november/
 2026-11-04T15:15:00+00:00	I held no hopes but last night was a batshit midterm https://angrybunnyman.com/i-held-no-hopes-but-last-night-was-a-batshit-midterm/
@@ -21,5 +17,9 @@
 2026-11-04T18:51:00+00:00	"we got rid of our dogs" https://lassmaya.bearblog.dev/we-got-rid-of-our-dogs/
 2026-11-04T19:58:00+00:00	Roll #8 - Kodak Gold 200 https://qwyn.me/roll-8-kodak-gold/
 2026-11-04T20:07:32.657184+00:00	Really, WordPress? https://halinu.bearblog.dev/really-wordpress/
-2026-11-04T20:48:12.192213+00:00	What God has Made, He can Restore. https://fatherlasher.bearblog.dev/what-god-has-made-he-can-restore/
+2026-11-04T21:19:57.691628+00:00	individuality https://olu.online/individuality/
 2026-11-04T22:42:00+00:00	...the front page of today's paper. https://coreyblogs.com/the-front-page-of-todays-paper/
+2026-11-05T06:30:07.578193+00:00	Rescue Dog https://iam-luna-rose.bearblog.dev/rescue-dog/
+2026-11-05T07:57:04.567855+00:00	Things can be good !!!! https://blog.lauramichet.com/things-can-be-good/
+2026-11-05T13:01:00+00:00	서울국제고등학교 기숙사 학생 인권 https://1eld.bearblog.dev/6552/
+2026-11-05T14:55:14.186151+00:00	Sailing Newfoundland and Labrador: rides, cloudberries and cod https://nautifools.bearblog.dev/sailing-newfoundland-and-labrador-rides-cloudberries-and-cod/

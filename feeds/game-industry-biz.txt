@@ -3,11 +3,6 @@
 # source = https://www.gamesindustry.biz/feed
 # description = twtxt conversion of https://www.gamesindustry.biz/feed
 
-2026-10-26T14:33:18+00:00	Side expands presence in China, opens new studio and acquires art outsourcing provider Roboto Entertainment https://www.gamesindustry.biz/side-expands-presence-in-china-opens-new-studio-and-acquires-art-outsourcing-provider-roboto-entertainment
-2026-10-26T16:33:59+00:00	Paris Games Biz showcased a guarded optimism in the face of turmoil, both locally and in the industry at large | Opinion https://www.gamesindustry.biz/paris-games-biz-showcased-a-guarded-optimism-in-the-face-of-turmoil-locally-and-in-the-industry-at-large-opinion
-2026-10-26T18:05:17+00:00	223,000+ people sign petition to "save Mass Effect" https://www.gamesindustry.biz/223000-people-sign-petition-to-save-mass-effect
-2026-10-26T18:20:01+00:00	Auroch Digital lays off a quarter of its staff https://www.gamesindustry.biz/auroch-digital-lays-off-a-quarter-of-its-staff
-2026-10-26T19:54:19+00:00	Epic Games CEO calls Steam's AI disclosure policies "a political act" https://www.gamesindustry.biz/epic-games-ceo-calls-steams-ai-disclosure-policies-a-political-act
 2026-10-26T21:34:00+00:00	Xbox staff among up to 60,000 Microsoft employees offered voluntary exit https://www.gamesindustry.biz/xbox-staff-among-up-to-60000-microsoft-employees-offered-voluntary-exit
 2026-10-27T10:29:28+00:00	Sucker Punch Productions reportedly lays off 24 employees following launch of Ghost of Yōtei: Complete Edition https://www.gamesindustry.biz/sucker-punch-productions-reportedly-lays-off-24-employees-following-launch-of-ghost-of-yotei-complete-edition
 2026-10-27T11:43:41+00:00	TiMi Studio Group's Pokémon Unite to shut down on March 23, 2027 https://www.gamesindustry.biz/timi-studio-groups-pokemon-unite-to-shut-down-on-march-23-2027
@@ -53,3 +48,8 @@
 2026-11-04T18:56:00+00:00	Analysis: one in three acquired game studios has been shut down since 2000 https://www.gamesindustry.biz/analysis-one-in-three-acquired-game-studios-has-been-shut-down-since-2000
 2026-11-04T20:17:10+00:00	Arkane union accuses Microsoft of "sabotaging" Marvel's Blade with 19-month hiring freeze https://www.gamesindustry.biz/arkane-union-accuses-microsoft-of-sabotaging-marvels-blade-with-19-month-hiring-freeze
 2026-11-04T20:48:50+00:00	Tripwire Presents expands publishing business to support smaller indie developers https://www.gamesindustry.biz/tripwire-presents-expands-publishing-business-to-support-smaller-indie-developers
+2026-11-05T09:57:30+00:00	Nintendo H1 operating profit rises 49.1% supported by new titles including Splatoon Raiders https://www.gamesindustry.biz/nintendo-h1-operating-profit-rises-491-supported-by-new-titles-including-splatoon-raiders
+2026-11-05T11:55:30+00:00	PlayStation raises full-year forecast after revenue growth in network services and first-party software https://www.gamesindustry.biz/playstation-raises-full-year-forecast-after-revenue-growth-in-network-services-and-first-party-software
+2026-11-05T12:23:50+00:00	IGN Entertainment promotes Alex Simmons to lead editorial across its portfolio, with Wesley Yin-Poole overseeing IGN https://www.gamesindustry.biz/ign-entertainment-promotes-alex-simmons-to-lead-editorial-across-its-portfolio-with-wesley-yin-poole-overseeing-ign
+2026-11-05T13:15:00+00:00	"It's such a massively underserved market in the gaming industry" – The creators of Dressmaker on why more games should be aimed at women https://www.gamesindustry.biz/its-such-a-massively-underserved-market-in-the-gaming-industry-the-creators-of-dressmaker-on-why-more-games-should-be-aimed-at-women
+2026-11-05T14:13:50+00:00	Sensor Tower: GTA 6 pre-orders almost reach 8m, 74% bought on PlayStation 5 https://www.gamesindustry.biz/sensor-tower-gta-6-pre-orders-almost-reach-8m-74-bought-on-playstation-5
