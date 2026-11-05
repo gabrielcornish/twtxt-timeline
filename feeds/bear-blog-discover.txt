@@ -9,10 +9,9 @@
 2026-11-03T14:23:00+00:00	...more favorite Bear Blog finds! https://coreyblogs.com/more-favorite-bear-blog-finds/
 2026-11-03T16:01:00+00:00	Slow Living https://mirroredworld.bearblog.dev/slow-living/
 2026-11-03T20:44:00+00:00	We Won't Watch Severance Together Anymore https://samwigglesworth.bearblog.dev/we-wont-watch-severance-together-anymore/
-2026-11-03T21:25:00+00:00	some statements https://lamppost.bearblog.dev/probably-a-bad-song/
 2026-11-04T04:08:00+00:00	Thirteen years ago I failed at their dream https://blog.ammonite.me/thirteen-years-ago-i-failed-at-their-dream/
-2026-11-04T05:27:00+00:00	tx blue!! https://blog.fiddery.com/tx-blue/
 2026-11-04T08:29:00+00:00	6 months of hitting the gym https://via.bearblog.dev/6-months-of-hitting-the-gym/
+2026-11-04T09:42:00+00:00	36 Flavours of Ventrue Victims https://loyaladvisor.bearblog.dev/36-flavours-of-ventrue-victims/
 2026-11-04T09:57:38.440719+00:00	Who Counts as Family https://magnusps.dev/who-counts-as-family/
 2026-11-04T14:55:00+00:00	...his first Bear Blog hate mail. https://coreyblogs.com/his-first-bear-blog-hate-mail/
 2026-11-04T14:55:45.880216+00:00	Is the polar vortex breaking up in november? https://weatherlinguist.bearblog.dev/is-the-polar-vortex-breaking-up-in-november/
@@ -23,3 +22,4 @@
 2026-11-04T19:58:00+00:00	Roll #8 - Kodak Gold 200 https://qwyn.me/roll-8-kodak-gold/
 2026-11-04T20:07:32.657184+00:00	Really, WordPress? https://halinu.bearblog.dev/really-wordpress/
 2026-11-04T20:48:12.192213+00:00	What God has Made, He can Restore. https://fatherlasher.bearblog.dev/what-god-has-made-he-can-restore/
+2026-11-04T22:42:00+00:00	...the front page of today's paper. https://coreyblogs.com/the-front-page-of-todays-paper/

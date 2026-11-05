@@ -3,16 +3,9 @@
 # source = https://www.reddit.com/r/Games.rss
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
-2026-11-03T11:39:57+00:00	Remedy revenue soars by 226% following release of Control Resonant, the developer's fastest selling game ever, marking "a defining milestone for the company" https://www.reddit.com/r/Games/comments/1xmqpux/remedy_revenue_soars_by_226_following_release_of/
-2026-11-03T14:56:10+00:00	Grand Theft Auto VI Pre-Load Begins on November 10 https://www.reddit.com/r/Games/comments/1xmv3q0/grand_theft_auto_vi_preload_begins_on_november_10/
 2026-11-03T15:09:49+00:00	The Elder Scrolls VI: Official Name Reveal https://www.reddit.com/r/Games/comments/1xmvgqo/the_elder_scrolls_vi_official_name_reveal/
 2026-11-03T15:57:25+00:00	Jason Schreier: "I think a lot of people forget that The Elder Scrolls VI was only announced in 2018 (along with Starfield) to soften the blow of Fallout 76. Sorry to say this game is still more than two years away!" https://www.reddit.com/r/Games/comments/1xmwq4d/jason_schreier_i_think_a_lot_of_people_forget/
-2026-11-03T17:29:31+00:00	The Nikke PC Launcher seems to have been compromised https://www.reddit.com/r/Games/comments/1xmz946/the_nikke_pc_launcher_seems_to_have_been/
-2026-11-03T17:32:04+00:00	Guild Wars Afterlife Announcement Trailer https://www.reddit.com/r/Games/comments/1xmzbqa/guild_wars_afterlife_announcement_trailer/
 2026-11-03T18:19:58+00:00	Itch mass deletes ‘AI slop’, lets users filter out any AI assisted games https://www.reddit.com/r/Games/comments/1xn0o96/itch_mass_deletes_ai_slop_lets_users_filter_out/
-2026-11-03T18:22:40+00:00	AI-Generated Content on Nexus Mods https://www.reddit.com/r/Games/comments/1xn0r2u/aigenerated_content_on_nexus_mods/
-2026-11-03T20:47:05+00:00	Xbox’s Arkane Studios Attracts Multiple Bidders, Including Ubisoft https://www.reddit.com/r/Games/comments/1xn4ok4/xboxs_arkane_studios_attracts_multiple_bidders/
-2026-11-04T09:13:18+00:00	The Citadel Project - Official Early Access Trailer https://www.reddit.com/r/Games/comments/1xnjof7/the_citadel_project_official_early_access_trailer/
 2026-11-04T11:26:35+00:00	[Tales Of Destiny PS1] Method to recruit a previously Unrecruitable Character found after 30 Years https://www.reddit.com/r/Games/comments/1xnlte7/tales_of_destiny_ps1_method_to_recruit_a/
 2026-11-04T12:00:41+00:00	Daily /r/Games Discussion - Suggest Me a Game - November 04, 2026 https://www.reddit.com/r/Games/comments/1xnmf3b/daily_rgames_discussion_suggest_me_a_game/
 2026-11-04T12:35:59+00:00	The Legend of Zelda: Ocarina of Time (2026) - Review Thread https://www.reddit.com/r/Games/comments/1xnn3o0/the_legend_of_zelda_ocarina_of_time_2026_review/
@@ -28,3 +21,10 @@
 2026-11-04T20:55:14+00:00	Hull Rupture launch trailer https://www.reddit.com/r/Games/comments/1xnzmku/hull_rupture_launch_trailer/
 2026-11-04T22:18:34+00:00	Fragmentary Order — Official Gameplay Reveal https://www.reddit.com/r/Games/comments/1xo1q86/fragmentary_order_official_gameplay_reveal/
 2026-11-04T22:28:48+00:00	[Anno 117]Union Update: Free Weekend and Dawn of the Delta release https://www.reddit.com/r/Games/comments/1xo1yua/anno_117union_update_free_weekend_and_dawn_of_the/
+2026-11-05T00:26:56+00:00	Nintendo's biggest ROM chip supplier is bowing out of the business https://www.reddit.com/r/Games/comments/1xo4noh/nintendos_biggest_rom_chip_supplier_is_bowing_out/
+2026-11-05T02:14:55+00:00	Call of Duty: Modern Warfare 4 | Season 1 DMZ Trailer https://www.reddit.com/r/Games/comments/1xo6wry/call_of_duty_modern_warfare_4_season_1_dmz_trailer/
+2026-11-05T02:37:05+00:00	Halo Fest Showcase | Halo Infinite Playlist | Halo https://www.reddit.com/r/Games/comments/1xo7d08/halo_fest_showcase_halo_infinite_playlist_halo/
+2026-11-05T02:49:36+00:00	Embrace the City Life update in Forza Horizon 6 https://www.reddit.com/r/Games/comments/1xo7m40/embrace_the_city_life_update_in_forza_horizon_6/
+2026-11-05T03:46:29+00:00	Wendy’s Releases Free WendyQuest RPG on Steam https://www.reddit.com/r/Games/comments/1xo8r4v/wendys_releases_free_wendyquest_rpg_on_steam/
+2026-11-05T05:31:57+00:00	Zelda Ocarina Remake Producers Talk Changing And Maintaining The Game, Easter Eggs, The Bombchu Bowling Alley Operator, And More https://www.reddit.com/r/Games/comments/1xoaoi4/zelda_ocarina_remake_producers_talk_changing_and/
+2026-11-05T06:32:03+00:00	Nintendo Switch 2 has sold 26.35 million units, Nintendo Switch has sold 157.20 million units https://www.reddit.com/r/Games/comments/1xoboun/nintendo_switch_2_has_sold_2635_million_units/
