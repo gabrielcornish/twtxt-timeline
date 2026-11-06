@@ -3,14 +3,9 @@
 # source = https://www.reddit.com/r/Games.rss
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
-2026-11-05T13:35:15+00:00	My game was cloned with AI... what do I do? - Game Maker's Toolkit https://www.reddit.com/r/Games/comments/1xoishj/my_game_was_cloned_with_ai_what_do_i_do_game/
 2026-11-05T13:53:01+00:00	AMA: Psycho-Sleuth is out now on Steam! A mystery visual novel where you can't even trust your own perception. Ask me anything! https://www.reddit.com/r/Games/comments/1xoj6lt/ama_psychosleuth_is_out_now_on_steam_a_mystery/
-2026-11-05T15:19:38+00:00	AMD FSR™ Upscaling 4 Is Now Available for XBOX https://www.reddit.com/r/Games/comments/1xolbm9/amd_fsr_upscaling_4_is_now_available_for_xbox/
 2026-11-05T16:55:54+00:00	World of Warcraft: Forever has gone live, and PC gamers are calling it the smoothest launch in Blizzard's MMORPG history https://www.reddit.com/r/Games/comments/1xonsu6/world_of_warcraft_forever_has_gone_live_and_pc/
-2026-11-05T17:15:33+00:00	Miyamoto shows off The Legend of Zelda: Ocarina of Time at E3 1998 | The Video Game History Foundation https://www.reddit.com/r/Games/comments/1xoobn3/miyamoto_shows_off_the_legend_of_zelda_ocarina_of/
-2026-11-05T17:36:25+00:00	Stellar Blade - Live Action Launch Trailer - Nintendo Switch 2 https://www.reddit.com/r/Games/comments/1xoovnv/stellar_blade_live_action_launch_trailer_nintendo/
 2026-11-05T18:05:06+00:00	Rockstar Games: The Launch Gallery — Experience Vice City and beyond through new screenshots. https://www.reddit.com/r/Games/comments/1xopnp8/rockstar_games_the_launch_gallery_experience_vice/
-2026-11-05T18:54:55+00:00	Ultima series, Wing Commander series, Road Rash now available on Steam (updated versions also available on GOG.com) https://www.reddit.com/r/Games/comments/1xoqyuf/ultima_series_wing_commander_series_road_rash_now/
 2026-11-05T20:35:11+00:00	Nier: Automata’s latest update increases game size from 50GB to 366GB https://www.reddit.com/r/Games/comments/1xotioo/nier_automatas_latest_update_increases_game_size/
 2026-11-05T23:10:15+00:00	Nintendo hints the Switch 2 will keep getting classic remakes https://www.reddit.com/r/Games/comments/1xox95k/nintendo_hints_the_switch_2_will_keep_getting/
 2026-11-06T02:06:11+00:00	Tomb Raider: Legacy of Atlantis "Isn't just for fans," and is "First step in next major phase" for the Tomb Raider franchise (rumored to be adopting a Resident Evil style 'Remake, New Game, Remake, New Game' release cadence, featuring the newly reinvisioned 'Unified' Lara Croft https://www.reddit.com/r/Games/comments/1xp10b4/tomb_raider_legacy_of_atlantis_isnt_just_for_fans/
@@ -27,4 +22,9 @@
 2026-11-06T16:23:49+00:00	007 First Light – Free Starter Pack Trailer https://www.reddit.com/r/Games/comments/1xph09q/007_first_light_free_starter_pack_trailer/
 2026-11-06T16:37:15+00:00	Gears of War: E-Day | Conqueror Uzil RAAM https://www.reddit.com/r/Games/comments/1xphcrt/gears_of_war_eday_conqueror_uzil_raam/
 2026-11-06T17:05:36+00:00	Bloomberg: Why Blizzard Made a New ‘World of Warcraft’ https://www.reddit.com/r/Games/comments/1xpi3jg/bloomberg_why_blizzard_made_a_new_world_of/
-2026-11-06T17:21:42+00:00	CAPCOM Financials Report - Onimusha and Pragmata Excel. Dragon's Dogma 2: Dark Arisen "selling slightly ahead of expectations" https://www.reddit.com/r/Games/comments/1xpiis4/capcom_financials_report_onimusha_and_pragmata/
+2026-11-06T20:13:57+00:00	Vanillaware Explains Why Muramasa: Revenant Blades Became Its First PC Release https://www.reddit.com/r/Games/comments/1xpmx25/vanillaware_explains_why_muramasa_revenant_blades/
+2026-11-06T20:45:45+00:00	WARDOGS | Road to Season 03 https://www.reddit.com/r/Games/comments/1xpnoes/wardogs_road_to_season_03/
+2026-11-06T21:39:20+00:00	Rhythm Heaven Groove has sold 2.89 million units, Splatoon Raiders is at 2.42 million https://www.reddit.com/r/Games/comments/1xpoz2h/rhythm_heaven_groove_has_sold_289_million_units/
+2026-11-06T22:38:25+00:00	I Want Story, Not Lore-y | Semi-Ramblomatic https://www.reddit.com/r/Games/comments/1xpqcxp/i_want_story_not_lorey_semiramblomatic/
+2026-11-06T22:53:43+00:00	Path of Exile 2: Conquerors of Wraeclast Trailer https://www.reddit.com/r/Games/comments/1xpqp9p/path_of_exile_2_conquerors_of_wraeclast_trailer/
+2026-11-06T22:54:40+00:00	Path of Exile 2: The Shadow Trailer https://www.reddit.com/r/Games/comments/1xpqq1f/path_of_exile_2_the_shadow_trailer/

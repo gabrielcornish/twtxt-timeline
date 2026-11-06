@@ -3,12 +3,10 @@
 # source = https://bearblog.dev/discover/feed/
 # description = twtxt conversion of https://bearblog.dev/discover/feed/
 
-2026-11-04T04:08:00+00:00	Thirteen years ago I failed at their dream https://blog.ammonite.me/thirteen-years-ago-i-failed-at-their-dream/
 2026-11-04T14:55:00+00:00	...his first Bear Blog hate mail. https://coreyblogs.com/his-first-bear-blog-hate-mail/
 2026-11-04T16:13:59.745142+00:00	Ethics is dead and the Internet killed it. https://itsme.bearblog.dev/ethics-is-dead-and-the-internet-killed-it/
 2026-11-04T19:58:00+00:00	Roll #8 - Kodak Gold 200 https://qwyn.me/roll-8-kodak-gold/
 2026-11-04T20:07:32.657184+00:00	Really, WordPress? https://halinu.bearblog.dev/really-wordpress/
-2026-11-04T22:42:00+00:00	...the front page of today's paper. https://coreyblogs.com/the-front-page-of-todays-paper/
 2026-11-05T07:57:04.567855+00:00	Things can be good !!!! https://blog.lauramichet.com/things-can-be-good/
 2026-11-05T10:34:00+00:00	Knowember https://robertbirming.com/my-knowember/
 2026-11-05T13:01:00+00:00	서울국제고등학교 기숙사 학생 인권 https://1eld.bearblog.dev/6552/
@@ -21,5 +19,7 @@
 2026-11-06T12:37:54.573886+00:00	Still wearing a beanie to work https://sowieso.bearblog.dev/still-wearing-a-beanie-to-work/
 2026-11-06T13:08:20.638222+00:00	Almost lost a friend. https://itsme.bearblog.dev/almost-lost-a-friend/
 2026-11-06T15:39:00+00:00	...genuine gratitude for the Bear Blog community. https://coreyblogs.com/genuine-gratitude-for-the-bear-blog-community/
-2026-11-06T16:20:00+00:00	After Action Report: Delta-Sperrlisten https://fischerflorian.net/aar-delta/
-2026-11-06T16:26:52.978596+00:00	Chess, but you can make the board bigger https://blog.willmeye.rs/chess-but-you-can-make-the-board-bigger/
+2026-11-06T18:30:00+00:00	...six sweet things! https://coreyblogs.com/six-sweet-things/
+2026-11-06T18:49:00+00:00	my father died https://migrainebrain.bearblog.dev/my-father-died/
+2026-11-06T18:57:40.497437+00:00	knowember https://blog.fiddery.com/knowember/
+2026-11-06T19:19:44.179665+00:00	AI Almost Made Me Quit Writing https://joshgriffiths.site/ai-almost-made-me-quit-writing/
