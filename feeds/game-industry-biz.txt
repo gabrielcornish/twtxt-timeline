@@ -3,10 +3,6 @@
 # source = https://www.gamesindustry.biz/feed
 # description = twtxt conversion of https://www.gamesindustry.biz/feed
 
-2026-10-27T13:30:00+00:00	"Developers need to treat Early Access like a real launch, because players do" – Early Access games are on the rise, but so are player expectations https://www.gamesindustry.biz/developers-need-to-treat-early-access-like-a-real-launch-because-players-do-early-access-games-are-on-the-rise-but-so-are-player-expectations
-2026-10-27T14:20:32+00:00	Warhorse Studios hit by cyberattack, company systems and data affected https://www.gamesindustry.biz/warhorse-studios-hit-by-cyberattack-company-systems-and-data-affected
-2026-10-28T08:16:13+00:00	Gamescom Asia touts new records for international attendance and showfloor size https://www.gamesindustry.biz/gamescom-asia-touts-new-records-for-international-attendance-and-showfloor-size
-2026-10-28T09:28:56+00:00	Interior Night studio head Charu Desodt appointed chair of BAFTA Games Committee https://www.gamesindustry.biz/interior-night-studio-head-charu-desodt-appointed-chair-of-bafta-games-committee
 2026-10-28T10:15:53+00:00	"It's important for me to set the record straight" – former Xbox COO Helen Chiang issues statement following departure from Xbox https://www.gamesindustry.biz/first-xbox-coo-helen-chiang-leaves-company-after-three-months-in-the-role
 2026-10-28T11:54:35+00:00	Wardogs leads Newzoo's September PC revenue charts https://www.gamesindustry.biz/wardogs-leads-newzoos-september-pc-revenue-charts
 2026-10-28T13:30:00+00:00	"Taking several years with several thousand people… It's almost impossible" – PlayStation creator Ken Kutaragi on the current state of gaming https://www.gamesindustry.biz/taking-several-years-with-several-thousand-people-its-almost-impossible-playstation-creator-ken-kutaragi-on-the-current-state-of-gaming
@@ -53,3 +49,7 @@
 2026-11-06T07:55:00+00:00	How to get investment for your video game in 2026 https://www.gamesindustry.biz/how-to-get-investment-for-your-video-game-in-2026
 2026-11-06T08:59:40+00:00	Unity reportedly in acquisition talks with Silver Lake and Public Investment Fund, two firms involved in EA's $55bn buyout https://www.gamesindustry.biz/unity-reportedly-in-acquisition-talks-with-silver-lake-and-public-investment-fund-two-firms-involved-in-eas-55bn-buyout
 2026-11-06T10:04:40+00:00	Unity reports "strongest ever" Q3 results driven by its AI-powered ad network Vector https://www.gamesindustry.biz/unity-reports-strongest-ever-q3-results-driven-by-its-ai-powered-ad-network-vector
+2026-11-06T11:30:10+00:00	Sega Q2 results exceed expectations, driven by surge in operating income for pachislot and pachinko machines https://www.gamesindustry.biz/sega-q2-results-exceed-expectations-driven-by-surge-in-operating-income-for-pachislot-and-pachinko-machines
+2026-11-06T13:53:10+00:00	Jobs roundup: November | Nordisk Games appoints Stefanía Halldórsdóttir as CEO and Ásgeir Kröyer as CFO https://www.gamesindustry.biz/jobs-roundup-november-nordisk-games-appoints-stefania-halldorsdottir-as-ceo-and-asgeir-kroyer-as-cfo
+2026-11-06T14:50:40+00:00	SAG-AFTRA launches new video game agreement enabling devs to hire professional actors for demos and vertical slices https://www.gamesindustry.biz/sag-aftra-launches-new-video-game-agreement-enabling-devs-to-hire-professional-actors-for-demos-and-vertical-slices
+2026-11-06T16:10:00+00:00	Elections signal cultural shifts that no creative industry can dare to ignore | Opinion https://www.gamesindustry.biz/elections-signal-cultural-shifts-that-no-creative-industry-can-dare-to-ignore-opinion

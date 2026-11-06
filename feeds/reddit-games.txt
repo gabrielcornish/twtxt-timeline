@@ -3,28 +3,28 @@
 # source = https://www.reddit.com/r/Games.rss
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
-2026-11-04T12:00:41+00:00	Daily /r/Games Discussion - Suggest Me a Game - November 04, 2026 https://www.reddit.com/r/Games/comments/1xnmf3b/daily_rgames_discussion_suggest_me_a_game/
-2026-11-05T06:59:54+00:00	As of November 4th, Marvel's Wolverine have sold 2.4m units https://www.reddit.com/r/Games/comments/1xoc4w1/as_of_november_4th_marvels_wolverine_have_sold/
-2026-11-05T07:55:40+00:00	Changes to Steam's Age Assurance for Australia https://www.reddit.com/r/Games/comments/1xoczdb/changes_to_steams_age_assurance_for_australia/
 2026-11-05T13:35:15+00:00	My game was cloned with AI... what do I do? - Game Maker's Toolkit https://www.reddit.com/r/Games/comments/1xoishj/my_game_was_cloned_with_ai_what_do_i_do_game/
 2026-11-05T13:53:01+00:00	AMA: Psycho-Sleuth is out now on Steam! A mystery visual novel where you can't even trust your own perception. Ask me anything! https://www.reddit.com/r/Games/comments/1xoj6lt/ama_psychosleuth_is_out_now_on_steam_a_mystery/
-2026-11-05T14:09:01+00:00	Assassin's Creed Valhalla Title Update 1.8.0 https://www.reddit.com/r/Games/comments/1xojk7h/assassins_creed_valhalla_title_update_180/
 2026-11-05T15:19:38+00:00	AMD FSR™ Upscaling 4 Is Now Available for XBOX https://www.reddit.com/r/Games/comments/1xolbm9/amd_fsr_upscaling_4_is_now_available_for_xbox/
 2026-11-05T16:55:54+00:00	World of Warcraft: Forever has gone live, and PC gamers are calling it the smoothest launch in Blizzard's MMORPG history https://www.reddit.com/r/Games/comments/1xonsu6/world_of_warcraft_forever_has_gone_live_and_pc/
-2026-11-05T17:01:53+00:00	The Legend of Zelda: Ocarina of Time Releases Today on Switch 2 https://www.reddit.com/r/Games/comments/1xonymc/the_legend_of_zelda_ocarina_of_time_releases/
 2026-11-05T17:15:33+00:00	Miyamoto shows off The Legend of Zelda: Ocarina of Time at E3 1998 | The Video Game History Foundation https://www.reddit.com/r/Games/comments/1xoobn3/miyamoto_shows_off_the_legend_of_zelda_ocarina_of/
 2026-11-05T17:36:25+00:00	Stellar Blade - Live Action Launch Trailer - Nintendo Switch 2 https://www.reddit.com/r/Games/comments/1xoovnv/stellar_blade_live_action_launch_trailer_nintendo/
-2026-11-05T17:45:27+00:00	A Faster, Simpler XBOX Experience Is Coming to PC, Web and Cloud https://www.reddit.com/r/Games/comments/1xop486/a_faster_simpler_xbox_experience_is_coming_to_pc/
-2026-11-05T17:57:22+00:00	Pillars of Eternity II: Deadfire - Pillars of Eternity and Deadfire: Controller Support Public Test is Now Live! - Steam News https://www.reddit.com/r/Games/comments/1xopg15/pillars_of_eternity_ii_deadfire_pillars_of/
 2026-11-05T18:05:06+00:00	Rockstar Games: The Launch Gallery — Experience Vice City and beyond through new screenshots. https://www.reddit.com/r/Games/comments/1xopnp8/rockstar_games_the_launch_gallery_experience_vice/
-2026-11-05T18:35:51+00:00	Final Chapter Of ‘Mass Effect’ Studio BioWare To Be Told In Super Channel Feature Doc From Fennessey Films and Score G Productions https://www.reddit.com/r/Games/comments/1xoqgoj/final_chapter_of_mass_effect_studio_bioware_to_be/
-2026-11-05T18:52:55+00:00	EA's releasing a truckload of classic games on Steam, and 7 of them are remasters https://www.reddit.com/r/Games/comments/1xoqwzr/eas_releasing_a_truckload_of_classic_games_on/
 2026-11-05T18:54:55+00:00	Ultima series, Wing Commander series, Road Rash now available on Steam (updated versions also available on GOG.com) https://www.reddit.com/r/Games/comments/1xoqyuf/ultima_series_wing_commander_series_road_rash_now/
-2026-11-05T19:18:26+00:00	From the Vault to Your Library—How Seven of EA's Classic Games were Restored https://www.reddit.com/r/Games/comments/1xorl0l/from_the_vault_to_your_libraryhow_seven_of_eas/
-2026-11-05T19:27:50+00:00	Warhammer 40,000: Dawn of War IV – Battlefield Report Last Stand https://www.reddit.com/r/Games/comments/1xortnk/warhammer_40000_dawn_of_war_iv_battlefield_report/
 2026-11-05T20:35:11+00:00	Nier: Automata’s latest update increases game size from 50GB to 366GB https://www.reddit.com/r/Games/comments/1xotioo/nier_automatas_latest_update_increases_game_size/
-2026-11-05T20:46:02+00:00	Stellar Blade - Bayonetta Collaboration Trailer | PS5 & PC Games https://www.reddit.com/r/Games/comments/1xotskk/stellar_blade_bayonetta_collaboration_trailer_ps5/
 2026-11-05T23:10:15+00:00	Nintendo hints the Switch 2 will keep getting classic remakes https://www.reddit.com/r/Games/comments/1xox95k/nintendo_hints_the_switch_2_will_keep_getting/
-2026-11-06T00:54:42+00:00	Silver Lake, PIF have held recent talks to buy gaming software provider Unity, sources say https://www.reddit.com/r/Games/comments/1xozjoe/silver_lake_pif_have_held_recent_talks_to_buy/
 2026-11-06T02:06:11+00:00	Tomb Raider: Legacy of Atlantis "Isn't just for fans," and is "First step in next major phase" for the Tomb Raider franchise (rumored to be adopting a Resident Evil style 'Remake, New Game, Remake, New Game' release cadence, featuring the newly reinvisioned 'Unified' Lara Croft https://www.reddit.com/r/Games/comments/1xp10b4/tomb_raider_legacy_of_atlantis_isnt_just_for_fans/
 2026-11-06T04:20:13+00:00	Union actors could appear in early game demos, under new SAG-AFTRA plan https://www.reddit.com/r/Games/comments/1xp3mjz/union_actors_could_appear_in_early_game_demos/
+2026-11-06T10:07:31+00:00	Here are all units in other games/game engines and their real world equivalent of measurements https://www.reddit.com/r/Games/comments/1xp97rf/here_are_all_units_in_other_gamesgame_engines_and/
+2026-11-06T11:00:46+00:00	Daily /r/Games Discussion - Free Talk Friday - November 06, 2026 https://www.reddit.com/r/Games/comments/1xpa279/daily_rgames_discussion_free_talk_friday_november/
+2026-11-06T14:17:50+00:00	Nier: Automata Dev Working on Fix for Patch That Accidentally Bloated the Game Size to 366GB on PC https://www.reddit.com/r/Games/comments/1xpdww7/nier_automata_dev_working_on_fix_for_patch_that/
+2026-11-06T14:19:12+00:00	CRYMELIGHT Steam release delayed from original November 5th release date due to delays in the pre-release review process https://www.reddit.com/r/Games/comments/1xpdy0k/crymelight_steam_release_delayed_from_original/
+2026-11-06T14:22:26+00:00	An update from the team | The Expanse: Osiris Reborn https://www.reddit.com/r/Games/comments/1xpe0ru/an_update_from_the_team_the_expanse_osiris_reborn/
+2026-11-06T14:46:54+00:00	Ragnarok Console Project - A New Ragnarok Adventure Awaits https://www.reddit.com/r/Games/comments/1xpel40/ragnarok_console_project_a_new_ragnarok_adventure/
+2026-11-06T14:56:35+00:00	David Gaider reveals he has been collaborating with the Owlcat Games team on The Expanse: Osiris Reborn focusing on certain aspects of the game's narrative https://www.reddit.com/r/Games/comments/1xpet9v/david_gaider_reveals_he_has_been_collaborating/
+2026-11-06T15:09:21+00:00	Ratchet & Clank: Ranger Rumble has been Canceled https://www.reddit.com/r/Games/comments/1xpf4v6/ratchet_clank_ranger_rumble_has_been_canceled/
+2026-11-06T15:31:31+00:00	SaGa RPG franchise localization director Neil Broadley has passed away https://www.reddit.com/r/Games/comments/1xpfon0/saga_rpg_franchise_localization_director_neil/
+2026-11-06T16:23:49+00:00	007 First Light – Free Starter Pack Trailer https://www.reddit.com/r/Games/comments/1xph09q/007_first_light_free_starter_pack_trailer/
+2026-11-06T16:37:15+00:00	Gears of War: E-Day | Conqueror Uzil RAAM https://www.reddit.com/r/Games/comments/1xphcrt/gears_of_war_eday_conqueror_uzil_raam/
+2026-11-06T17:05:36+00:00	Bloomberg: Why Blizzard Made a New ‘World of Warcraft’ https://www.reddit.com/r/Games/comments/1xpi3jg/bloomberg_why_blizzard_made_a_new_world_of/
+2026-11-06T17:21:42+00:00	CAPCOM Financials Report - Onimusha and Pragmata Excel. Dragon's Dogma 2: Dark Arisen "selling slightly ahead of expectations" https://www.reddit.com/r/Games/comments/1xpiis4/capcom_financials_report_onimusha_and_pragmata/
