@@ -4,10 +4,8 @@
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
 2026-11-04T12:00:41+00:00	Daily /r/Games Discussion - Suggest Me a Game - November 04, 2026 https://www.reddit.com/r/Games/comments/1xnmf3b/daily_rgames_discussion_suggest_me_a_game/
-2026-11-05T06:32:03+00:00	Nintendo Switch 2 has sold 26.35 million units, Nintendo Switch has sold 157.20 million units https://www.reddit.com/r/Games/comments/1xoboun/nintendo_switch_2_has_sold_2635_million_units/
 2026-11-05T06:59:54+00:00	As of November 4th, Marvel's Wolverine have sold 2.4m units https://www.reddit.com/r/Games/comments/1xoc4w1/as_of_november_4th_marvels_wolverine_have_sold/
 2026-11-05T07:55:40+00:00	Changes to Steam's Age Assurance for Australia https://www.reddit.com/r/Games/comments/1xoczdb/changes_to_steams_age_assurance_for_australia/
-2026-11-05T12:11:13+00:00	Nintendo Profit Drops After Memory Crunch and Lack of Big Debuts https://www.reddit.com/r/Games/comments/1xoh2vt/nintendo_profit_drops_after_memory_crunch_and/
 2026-11-05T13:35:15+00:00	My game was cloned with AI... what do I do? - Game Maker's Toolkit https://www.reddit.com/r/Games/comments/1xoishj/my_game_was_cloned_with_ai_what_do_i_do_game/
 2026-11-05T13:53:01+00:00	AMA: Psycho-Sleuth is out now on Steam! A mystery visual novel where you can't even trust your own perception. Ask me anything! https://www.reddit.com/r/Games/comments/1xoj6lt/ama_psychosleuth_is_out_now_on_steam_a_mystery/
 2026-11-05T14:09:01+00:00	Assassin's Creed Valhalla Title Update 1.8.0 https://www.reddit.com/r/Games/comments/1xojk7h/assassins_creed_valhalla_title_update_180/
@@ -21,10 +19,12 @@
 2026-11-05T17:57:22+00:00	Pillars of Eternity II: Deadfire - Pillars of Eternity and Deadfire: Controller Support Public Test is Now Live! - Steam News https://www.reddit.com/r/Games/comments/1xopg15/pillars_of_eternity_ii_deadfire_pillars_of/
 2026-11-05T18:05:06+00:00	Rockstar Games: The Launch Gallery — Experience Vice City and beyond through new screenshots. https://www.reddit.com/r/Games/comments/1xopnp8/rockstar_games_the_launch_gallery_experience_vice/
 2026-11-05T18:14:30+00:00	GOG Eighteen Years In The Making: It all started in 2008. Learn how Good Old Games began, relive the infamous shutdown, and see how it became GOG https://www.reddit.com/r/Games/comments/1xopwjr/gog_eighteen_years_in_the_making_it_all_started/
+2026-11-05T18:35:51+00:00	Final Chapter Of ‘Mass Effect’ Studio BioWare To Be Told In Super Channel Feature Doc From Fennessey Films and Score G Productions https://www.reddit.com/r/Games/comments/1xoqgoj/final_chapter_of_mass_effect_studio_bioware_to_be/
 2026-11-05T18:52:55+00:00	EA's releasing a truckload of classic games on Steam, and 7 of them are remasters https://www.reddit.com/r/Games/comments/1xoqwzr/eas_releasing_a_truckload_of_classic_games_on/
-2026-11-05T18:53:39+00:00	Raiders of the Lost Archive: Inside the 20,000-tape discovery that’s brought EA classics back to life https://www.reddit.com/r/Games/comments/1xoqxo9/raiders_of_the_lost_archive_inside_the_20000tape/
 2026-11-05T18:54:55+00:00	Ultima series, Wing Commander series, Road Rash now available on Steam (updated versions also available on GOG.com) https://www.reddit.com/r/Games/comments/1xoqyuf/ultima_series_wing_commander_series_road_rash_now/
 2026-11-05T19:18:26+00:00	From the Vault to Your Library—How Seven of EA's Classic Games were Restored https://www.reddit.com/r/Games/comments/1xorl0l/from_the_vault_to_your_libraryhow_seven_of_eas/
 2026-11-05T19:27:50+00:00	Warhammer 40,000: Dawn of War IV – Battlefield Report Last Stand https://www.reddit.com/r/Games/comments/1xortnk/warhammer_40000_dawn_of_war_iv_battlefield_report/
 2026-11-05T20:35:11+00:00	Nier: Automata’s latest update increases game size from 50GB to 366GB https://www.reddit.com/r/Games/comments/1xotioo/nier_automatas_latest_update_increases_game_size/
 2026-11-05T20:46:02+00:00	Stellar Blade - Bayonetta Collaboration Trailer | PS5 & PC Games https://www.reddit.com/r/Games/comments/1xotskk/stellar_blade_bayonetta_collaboration_trailer_ps5/
+2026-11-05T23:10:15+00:00	Nintendo hints the Switch 2 will keep getting classic remakes https://www.reddit.com/r/Games/comments/1xox95k/nintendo_hints_the_switch_2_will_keep_getting/
+2026-11-06T00:54:42+00:00	Silver Lake, PIF have held recent talks to buy gaming software provider Unity, sources say https://www.reddit.com/r/Games/comments/1xozjoe/silver_lake_pif_have_held_recent_talks_to_buy/
