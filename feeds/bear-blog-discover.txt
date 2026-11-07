@@ -3,7 +3,6 @@
 # source = https://bearblog.dev/discover/feed/
 # description = twtxt conversion of https://bearblog.dev/discover/feed/
 
-2026-11-04T14:55:00+00:00	...his first Bear Blog hate mail. https://coreyblogs.com/his-first-bear-blog-hate-mail/
 2026-11-04T16:13:59.745142+00:00	Ethics is dead and the Internet killed it. https://itsme.bearblog.dev/ethics-is-dead-and-the-internet-killed-it/
 2026-11-04T19:58:00+00:00	Roll #8 - Kodak Gold 200 https://qwyn.me/roll-8-kodak-gold/
 2026-11-04T20:07:32.657184+00:00	Really, WordPress? https://halinu.bearblog.dev/really-wordpress/
@@ -15,7 +14,6 @@
 2026-11-05T18:15:02.235649+00:00	When you pick a prickly pear... https://ninetimes.bearblog.dev/new-post-new/
 2026-11-05T21:10:00+00:00	Wanna See Some Feral Kittens? https://onlinegoddess.net/2026/11/wanna-see-some-feral-kittens/
 2026-11-06T07:20:00+00:00	Knowember https://milog.bearblog.dev/knowember/
-2026-11-06T09:37:29.241387+00:00	i want to be able to accept setbacks as part of the journey https://midnight.bearblog.dev/i-want-to-be-able-to-accept-setbacks-as-part-of-the-journey/
 2026-11-06T12:37:54.573886+00:00	Still wearing a beanie to work https://sowieso.bearblog.dev/still-wearing-a-beanie-to-work/
 2026-11-06T13:08:20.638222+00:00	Almost lost a friend. https://itsme.bearblog.dev/almost-lost-a-friend/
 2026-11-06T15:39:00+00:00	...genuine gratitude for the Bear Blog community. https://coreyblogs.com/genuine-gratitude-for-the-bear-blog-community/
@@ -23,3 +21,5 @@
 2026-11-06T18:49:00+00:00	my father died https://migrainebrain.bearblog.dev/my-father-died/
 2026-11-06T18:57:40.497437+00:00	knowember https://blog.fiddery.com/knowember/
 2026-11-06T19:19:44.179665+00:00	AI Almost Made Me Quit Writing https://joshgriffiths.site/ai-almost-made-me-quit-writing/
+2026-11-06T20:50:00+00:00	You can now host Flash games on itch https://blog.lauramichet.com/you-can-now-host-flash-games-on-itch/
+2026-11-06T21:51:00+00:00	...the weekly Ellie! https://coreyblogs.com/the-weekly-ellie-1/

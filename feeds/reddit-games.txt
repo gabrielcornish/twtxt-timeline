@@ -5,7 +5,6 @@
 
 2026-11-05T13:53:01+00:00	AMA: Psycho-Sleuth is out now on Steam! A mystery visual novel where you can't even trust your own perception. Ask me anything! https://www.reddit.com/r/Games/comments/1xoj6lt/ama_psychosleuth_is_out_now_on_steam_a_mystery/
 2026-11-05T16:55:54+00:00	World of Warcraft: Forever has gone live, and PC gamers are calling it the smoothest launch in Blizzard's MMORPG history https://www.reddit.com/r/Games/comments/1xonsu6/world_of_warcraft_forever_has_gone_live_and_pc/
-2026-11-05T18:05:06+00:00	Rockstar Games: The Launch Gallery — Experience Vice City and beyond through new screenshots. https://www.reddit.com/r/Games/comments/1xopnp8/rockstar_games_the_launch_gallery_experience_vice/
 2026-11-05T20:35:11+00:00	Nier: Automata’s latest update increases game size from 50GB to 366GB https://www.reddit.com/r/Games/comments/1xotioo/nier_automatas_latest_update_increases_game_size/
 2026-11-05T23:10:15+00:00	Nintendo hints the Switch 2 will keep getting classic remakes https://www.reddit.com/r/Games/comments/1xox95k/nintendo_hints_the_switch_2_will_keep_getting/
 2026-11-06T02:06:11+00:00	Tomb Raider: Legacy of Atlantis "Isn't just for fans," and is "First step in next major phase" for the Tomb Raider franchise (rumored to be adopting a Resident Evil style 'Remake, New Game, Remake, New Game' release cadence, featuring the newly reinvisioned 'Unified' Lara Croft https://www.reddit.com/r/Games/comments/1xp10b4/tomb_raider_legacy_of_atlantis_isnt_just_for_fans/
@@ -28,3 +27,4 @@
 2026-11-06T22:38:25+00:00	I Want Story, Not Lore-y | Semi-Ramblomatic https://www.reddit.com/r/Games/comments/1xpqcxp/i_want_story_not_lorey_semiramblomatic/
 2026-11-06T22:53:43+00:00	Path of Exile 2: Conquerors of Wraeclast Trailer https://www.reddit.com/r/Games/comments/1xpqp9p/path_of_exile_2_conquerors_of_wraeclast_trailer/
 2026-11-06T22:54:40+00:00	Path of Exile 2: The Shadow Trailer https://www.reddit.com/r/Games/comments/1xpqq1f/path_of_exile_2_the_shadow_trailer/
+2026-11-07T01:14:09+00:00	Star Wars Zero Company Developer Bit Reactor Hit With Layoffs https://www.reddit.com/r/Games/comments/1xptp37/star_wars_zero_company_developer_bit_reactor_hit/
