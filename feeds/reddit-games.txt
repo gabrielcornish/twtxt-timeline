@@ -7,9 +7,6 @@
 2026-11-05T16:55:54+00:00	World of Warcraft: Forever has gone live, and PC gamers are calling it the smoothest launch in Blizzard's MMORPG history https://www.reddit.com/r/Games/comments/1xonsu6/world_of_warcraft_forever_has_gone_live_and_pc/
 2026-11-05T20:35:11+00:00	Nier: Automata’s latest update increases game size from 50GB to 366GB https://www.reddit.com/r/Games/comments/1xotioo/nier_automatas_latest_update_increases_game_size/
 2026-11-05T23:10:15+00:00	Nintendo hints the Switch 2 will keep getting classic remakes https://www.reddit.com/r/Games/comments/1xox95k/nintendo_hints_the_switch_2_will_keep_getting/
-2026-11-06T02:06:11+00:00	Tomb Raider: Legacy of Atlantis "Isn't just for fans," and is "First step in next major phase" for the Tomb Raider franchise (rumored to be adopting a Resident Evil style 'Remake, New Game, Remake, New Game' release cadence, featuring the newly reinvisioned 'Unified' Lara Croft https://www.reddit.com/r/Games/comments/1xp10b4/tomb_raider_legacy_of_atlantis_isnt_just_for_fans/
-2026-11-06T04:20:13+00:00	Union actors could appear in early game demos, under new SAG-AFTRA plan https://www.reddit.com/r/Games/comments/1xp3mjz/union_actors_could_appear_in_early_game_demos/
-2026-11-06T10:07:31+00:00	Here are all units in other games/game engines and their real world equivalent of measurements https://www.reddit.com/r/Games/comments/1xp97rf/here_are_all_units_in_other_gamesgame_engines_and/
 2026-11-06T11:00:46+00:00	Daily /r/Games Discussion - Free Talk Friday - November 06, 2026 https://www.reddit.com/r/Games/comments/1xpa279/daily_rgames_discussion_free_talk_friday_november/
 2026-11-06T14:17:50+00:00	Nier: Automata Dev Working on Fix for Patch That Accidentally Bloated the Game Size to 366GB on PC https://www.reddit.com/r/Games/comments/1xpdww7/nier_automata_dev_working_on_fix_for_patch_that/
 2026-11-06T14:19:12+00:00	CRYMELIGHT Steam release delayed from original November 5th release date due to delays in the pre-release review process https://www.reddit.com/r/Games/comments/1xpdy0k/crymelight_steam_release_delayed_from_original/
@@ -28,3 +25,6 @@
 2026-11-06T22:53:43+00:00	Path of Exile 2: Conquerors of Wraeclast Trailer https://www.reddit.com/r/Games/comments/1xpqp9p/path_of_exile_2_conquerors_of_wraeclast_trailer/
 2026-11-06T22:54:40+00:00	Path of Exile 2: The Shadow Trailer https://www.reddit.com/r/Games/comments/1xpqq1f/path_of_exile_2_the_shadow_trailer/
 2026-11-07T01:14:09+00:00	Star Wars Zero Company Developer Bit Reactor Hit With Layoffs https://www.reddit.com/r/Games/comments/1xptp37/star_wars_zero_company_developer_bit_reactor_hit/
+2026-11-07T04:05:05+00:00	WoW: Forever has achieved the biggest launch in WoW history by peak concurrent players and the highest number of returning players in WoW history https://www.reddit.com/r/Games/comments/1xpx0du/wow_forever_has_achieved_the_biggest_launch_in/
+2026-11-07T06:18:59+00:00	A D&D Inspired Co-Op RPG With Potential - My First Impressions of Wyldheart https://www.reddit.com/r/Games/comments/1xpzdsz/a_dd_inspired_coop_rpg_with_potential_my_first/
+2026-11-07T07:37:59+00:00	Jump Space announced for PS5. Coming Q1 2027 https://www.reddit.com/r/Games/comments/1xq0nxd/jump_space_announced_for_ps5_coming_q1_2027/
