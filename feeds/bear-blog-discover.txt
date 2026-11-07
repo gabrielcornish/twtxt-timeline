@@ -3,9 +3,7 @@
 # source = https://bearblog.dev/discover/feed/
 # description = twtxt conversion of https://bearblog.dev/discover/feed/
 
-2026-11-04T16:13:59.745142+00:00	Ethics is dead and the Internet killed it. https://itsme.bearblog.dev/ethics-is-dead-and-the-internet-killed-it/
 2026-11-04T20:07:32.657184+00:00	Really, WordPress? https://halinu.bearblog.dev/really-wordpress/
-2026-11-05T07:57:04.567855+00:00	Things can be good !!!! https://blog.lauramichet.com/things-can-be-good/
 2026-11-05T13:01:00+00:00	서울국제고등학교 기숙사 학생 인권 https://1eld.bearblog.dev/6552/
 2026-11-05T16:54:00+00:00	Knowember, get to know your blogger https://robertbirming.com/knowember/
 2026-11-05T21:10:00+00:00	Wanna See Some Feral Kittens? https://onlinegoddess.net/2026/11/wanna-see-some-feral-kittens/
@@ -13,7 +11,6 @@
 2026-11-06T12:37:54.573886+00:00	Still wearing a beanie to work https://sowieso.bearblog.dev/still-wearing-a-beanie-to-work/
 2026-11-06T13:08:20.638222+00:00	Almost lost a friend. https://itsme.bearblog.dev/almost-lost-a-friend/
 2026-11-06T15:39:00+00:00	...genuine gratitude for the Bear Blog community. https://coreyblogs.com/genuine-gratitude-for-the-bear-blog-community/
-2026-11-06T17:20:38.816946+00:00	I Forgot How Bad My ADHD Was: AKA AAAAAAHHHHHHH https://blog.absurdpirate.com/i-forgot-how-bad-my-adhd-was-aka-aaaaaahhhhhhh/
 2026-11-06T18:30:00+00:00	...six sweet things! https://coreyblogs.com/six-sweet-things/
 2026-11-06T18:49:00+00:00	my father died https://migrainebrain.bearblog.dev/my-father-died/
 2026-11-06T18:57:40.497437+00:00	knowember https://blog.fiddery.com/knowember/
@@ -21,5 +18,8 @@
 2026-11-06T20:50:00+00:00	You can now host Flash games on itch https://blog.lauramichet.com/you-can-now-host-flash-games-on-itch/
 2026-11-06T21:51:00+00:00	...the weekly Ellie! https://coreyblogs.com/the-weekly-ellie-1/
 2026-11-06T23:39:26.429990+00:00	Fall Leaves in Japan https://birdiefiles.bearblog.dev/fall-leaves-2026/
-2026-11-07T03:32:34.935649+00:00	Players Should Not Try to be Good https://valerialoves.com/players-should-not-try-to-be-good/
+2026-11-07T03:32:00+00:00	Players Should Not Try to be Good https://valerialoves.com/players-should-not-try-to-be-good/
 2026-11-07T03:33:00+00:00	Why I love Wonder Woman https://edmonddantes.ca/why-i-love-wonder-woman/
+2026-11-07T07:46:00+00:00	I downloaded a website https://blog.lauramichet.com/i-downloaded-a-website/
+2026-11-07T08:13:00+00:00	Knowember https://deedee.bearblog.dev/knowember/
+2026-11-07T09:06:00+00:00	chronic illness memes https://blog.avas.space/chronic-illness-memes/
