@@ -4,12 +4,9 @@
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
 2026-11-05T20:35:11+00:00	Nier: Automata’s latest update increases game size from 50GB to 366GB https://www.reddit.com/r/Games/comments/1xotioo/nier_automatas_latest_update_increases_game_size/
-2026-11-05T23:10:15+00:00	Nintendo hints the Switch 2 will keep getting classic remakes https://www.reddit.com/r/Games/comments/1xox95k/nintendo_hints_the_switch_2_will_keep_getting/
 2026-11-06T11:00:46+00:00	Daily /r/Games Discussion - Free Talk Friday - November 06, 2026 https://www.reddit.com/r/Games/comments/1xpa279/daily_rgames_discussion_free_talk_friday_november/
 2026-11-06T14:17:50+00:00	Nier: Automata Dev Working on Fix for Patch That Accidentally Bloated the Game Size to 366GB on PC https://www.reddit.com/r/Games/comments/1xpdww7/nier_automata_dev_working_on_fix_for_patch_that/
-2026-11-06T14:19:12+00:00	CRYMELIGHT Steam release delayed from original November 5th release date due to delays in the pre-release review process https://www.reddit.com/r/Games/comments/1xpdy0k/crymelight_steam_release_delayed_from_original/
 2026-11-06T14:22:26+00:00	An update from the team | The Expanse: Osiris Reborn https://www.reddit.com/r/Games/comments/1xpe0ru/an_update_from_the_team_the_expanse_osiris_reborn/
-2026-11-06T14:46:54+00:00	Ragnarok Console Project - A New Ragnarok Adventure Awaits https://www.reddit.com/r/Games/comments/1xpel40/ragnarok_console_project_a_new_ragnarok_adventure/
 2026-11-06T14:56:35+00:00	David Gaider reveals he has been collaborating with the Owlcat Games team on The Expanse: Osiris Reborn focusing on certain aspects of the game's narrative https://www.reddit.com/r/Games/comments/1xpet9v/david_gaider_reveals_he_has_been_collaborating/
 2026-11-06T15:09:21+00:00	Ratchet & Clank: Ranger Rumble has been Canceled https://www.reddit.com/r/Games/comments/1xpf4v6/ratchet_clank_ranger_rumble_has_been_canceled/
 2026-11-06T15:31:31+00:00	SaGa RPG franchise localization director Neil Broadley has passed away https://www.reddit.com/r/Games/comments/1xpfon0/saga_rpg_franchise_localization_director_neil/
@@ -27,4 +24,7 @@
 2026-11-07T07:37:59+00:00	Jump Space announced for PS5. Coming Q1 2027 https://www.reddit.com/r/Games/comments/1xq0nxd/jump_space_announced_for_ps5_coming_q1_2027/
 2026-11-07T10:33:27+00:00	Path of Exile 2: A Return to Oriath | Act 5 & 6 Trailer https://www.reddit.com/r/Games/comments/1xq3csx/path_of_exile_2_a_return_to_oriath_act_5_6_trailer/
 2026-11-07T12:56:01+00:00	Hideo Kojima says AI lacks what makes the creative process fun, despite its efficiency. “It’s not a form of creation I find particularly interesting” https://www.reddit.com/r/Games/comments/1xq5qbh/hideo_kojima_says_ai_lacks_what_makes_the/
-2026-11-07T15:03:58+00:00	Mass Effect composer Sam Hulick releases his 're-scored' trailer for N7 Day https://www.reddit.com/r/Games/comments/1xq8g64/mass_effect_composer_sam_hulick_releases_his/
+2026-11-07T17:07:44+00:00	Take Earth Back - Official N7 Day 2026 Trailer - Mass Effect Legendary Edition https://www.reddit.com/r/Games/comments/1xqbcz3/take_earth_back_official_n7_day_2026_trailer_mass/
+2026-11-07T17:46:15+00:00	Legendary Edition Multiplayer | N7 Day 2026 | ME3Tweaks https://www.reddit.com/r/Games/comments/1xqc9yi/legendary_edition_multiplayer_n7_day_2026/
+2026-11-07T19:09:16+00:00	Report: Skydance laying off game workers one month after buying Warner Bros for $110 billion https://www.reddit.com/r/Games/comments/1xqe8xp/report_skydance_laying_off_game_workers_one_month/
+2026-11-07T20:40:17+00:00	Data Found Inside Ocarina Of Time Remake Game Files Hints At Master Quest DLC https://www.reddit.com/r/Games/comments/1xqgco7/data_found_inside_ocarina_of_time_remake_game/
