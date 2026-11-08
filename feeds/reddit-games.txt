@@ -3,7 +3,6 @@
 # source = https://www.reddit.com/r/Games.rss
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
-2026-11-05T20:35:11+00:00	Nier: Automata’s latest update increases game size from 50GB to 366GB https://www.reddit.com/r/Games/comments/1xotioo/nier_automatas_latest_update_increases_game_size/
 2026-11-06T11:00:46+00:00	Daily /r/Games Discussion - Free Talk Friday - November 06, 2026 https://www.reddit.com/r/Games/comments/1xpa279/daily_rgames_discussion_free_talk_friday_november/
 2026-11-06T14:17:50+00:00	Nier: Automata Dev Working on Fix for Patch That Accidentally Bloated the Game Size to 366GB on PC https://www.reddit.com/r/Games/comments/1xpdww7/nier_automata_dev_working_on_fix_for_patch_that/
 2026-11-06T14:22:26+00:00	An update from the team | The Expanse: Osiris Reborn https://www.reddit.com/r/Games/comments/1xpe0ru/an_update_from_the_team_the_expanse_osiris_reborn/
@@ -11,7 +10,6 @@
 2026-11-06T15:09:21+00:00	Ratchet & Clank: Ranger Rumble has been Canceled https://www.reddit.com/r/Games/comments/1xpf4v6/ratchet_clank_ranger_rumble_has_been_canceled/
 2026-11-06T15:31:31+00:00	SaGa RPG franchise localization director Neil Broadley has passed away https://www.reddit.com/r/Games/comments/1xpfon0/saga_rpg_franchise_localization_director_neil/
 2026-11-06T16:23:49+00:00	007 First Light – Free Starter Pack Trailer https://www.reddit.com/r/Games/comments/1xph09q/007_first_light_free_starter_pack_trailer/
-2026-11-06T16:37:15+00:00	Gears of War: E-Day | Conqueror Uzil RAAM https://www.reddit.com/r/Games/comments/1xphcrt/gears_of_war_eday_conqueror_uzil_raam/
 2026-11-06T17:05:36+00:00	Bloomberg: Why Blizzard Made a New ‘World of Warcraft’ https://www.reddit.com/r/Games/comments/1xpi3jg/bloomberg_why_blizzard_made_a_new_world_of/
 2026-11-06T20:13:57+00:00	Vanillaware Explains Why Muramasa: Revenant Blades Became Its First PC Release https://www.reddit.com/r/Games/comments/1xpmx25/vanillaware_explains_why_muramasa_revenant_blades/
 2026-11-06T20:45:45+00:00	WARDOGS | Road to Season 03 https://www.reddit.com/r/Games/comments/1xpnoes/wardogs_road_to_season_03/
@@ -28,3 +26,5 @@
 2026-11-07T17:46:15+00:00	Legendary Edition Multiplayer | N7 Day 2026 | ME3Tweaks https://www.reddit.com/r/Games/comments/1xqc9yi/legendary_edition_multiplayer_n7_day_2026/
 2026-11-07T19:09:16+00:00	Report: Skydance laying off game workers one month after buying Warner Bros for $110 billion https://www.reddit.com/r/Games/comments/1xqe8xp/report_skydance_laying_off_game_workers_one_month/
 2026-11-07T20:40:17+00:00	Data Found Inside Ocarina Of Time Remake Game Files Hints At Master Quest DLC https://www.reddit.com/r/Games/comments/1xqgco7/data_found_inside_ocarina_of_time_remake_game/
+2026-11-07T23:51:23+00:00	Hitman World of Assassination devs say Elusive Targets are captured from studying talent over many hours and 'bespoke craftsmanship' rather than scans — 'You can have the 3d mesh completely right and still not feel like it looks like the person' https://www.reddit.com/r/Games/comments/1xqkgqu/hitman_world_of_assassination_devs_say_elusive/
+2026-11-08T00:08:28+00:00	Dungeons & Dynasties - Bretticus82 - A Football Manager-style guild management game in a grimdark fantasy realm https://www.reddit.com/r/Games/comments/1xqkuh1/dungeons_dynasties_bretticus82_a_football/
