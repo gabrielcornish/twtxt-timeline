@@ -3,23 +3,10 @@
 # source = https://www.reddit.com/r/Games.rss
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
-2026-11-06T11:00:46+00:00	Daily /r/Games Discussion - Free Talk Friday - November 06, 2026 https://www.reddit.com/r/Games/comments/1xpa279/daily_rgames_discussion_free_talk_friday_november/
-2026-11-06T14:17:50+00:00	Nier: Automata Dev Working on Fix for Patch That Accidentally Bloated the Game Size to 366GB on PC https://www.reddit.com/r/Games/comments/1xpdww7/nier_automata_dev_working_on_fix_for_patch_that/
-2026-11-06T14:22:26+00:00	An update from the team | The Expanse: Osiris Reborn https://www.reddit.com/r/Games/comments/1xpe0ru/an_update_from_the_team_the_expanse_osiris_reborn/
-2026-11-06T14:56:35+00:00	David Gaider reveals he has been collaborating with the Owlcat Games team on The Expanse: Osiris Reborn focusing on certain aspects of the game's narrative https://www.reddit.com/r/Games/comments/1xpet9v/david_gaider_reveals_he_has_been_collaborating/
-2026-11-06T15:09:21+00:00	Ratchet & Clank: Ranger Rumble has been Canceled https://www.reddit.com/r/Games/comments/1xpf4v6/ratchet_clank_ranger_rumble_has_been_canceled/
-2026-11-06T15:31:31+00:00	SaGa RPG franchise localization director Neil Broadley has passed away https://www.reddit.com/r/Games/comments/1xpfon0/saga_rpg_franchise_localization_director_neil/
-2026-11-06T16:23:49+00:00	007 First Light – Free Starter Pack Trailer https://www.reddit.com/r/Games/comments/1xph09q/007_first_light_free_starter_pack_trailer/
-2026-11-06T17:05:36+00:00	Bloomberg: Why Blizzard Made a New ‘World of Warcraft’ https://www.reddit.com/r/Games/comments/1xpi3jg/bloomberg_why_blizzard_made_a_new_world_of/
-2026-11-06T20:13:57+00:00	Vanillaware Explains Why Muramasa: Revenant Blades Became Its First PC Release https://www.reddit.com/r/Games/comments/1xpmx25/vanillaware_explains_why_muramasa_revenant_blades/
-2026-11-06T20:45:45+00:00	WARDOGS | Road to Season 03 https://www.reddit.com/r/Games/comments/1xpnoes/wardogs_road_to_season_03/
 2026-11-06T21:39:20+00:00	Rhythm Heaven Groove has sold 2.89 million units, Splatoon Raiders is at 2.42 million https://www.reddit.com/r/Games/comments/1xpoz2h/rhythm_heaven_groove_has_sold_289_million_units/
 2026-11-06T22:38:25+00:00	I Want Story, Not Lore-y | Semi-Ramblomatic https://www.reddit.com/r/Games/comments/1xpqcxp/i_want_story_not_lorey_semiramblomatic/
-2026-11-06T22:53:43+00:00	Path of Exile 2: Conquerors of Wraeclast Trailer https://www.reddit.com/r/Games/comments/1xpqp9p/path_of_exile_2_conquerors_of_wraeclast_trailer/
-2026-11-06T22:54:40+00:00	Path of Exile 2: The Shadow Trailer https://www.reddit.com/r/Games/comments/1xpqq1f/path_of_exile_2_the_shadow_trailer/
 2026-11-07T01:14:09+00:00	Star Wars Zero Company Developer Bit Reactor Hit With Layoffs https://www.reddit.com/r/Games/comments/1xptp37/star_wars_zero_company_developer_bit_reactor_hit/
 2026-11-07T04:05:05+00:00	WoW: Forever has achieved the biggest launch in WoW history by peak concurrent players and the highest number of returning players in WoW history https://www.reddit.com/r/Games/comments/1xpx0du/wow_forever_has_achieved_the_biggest_launch_in/
-2026-11-07T07:37:59+00:00	Jump Space announced for PS5. Coming Q1 2027 https://www.reddit.com/r/Games/comments/1xq0nxd/jump_space_announced_for_ps5_coming_q1_2027/
 2026-11-07T10:33:27+00:00	Path of Exile 2: A Return to Oriath | Act 5 & 6 Trailer https://www.reddit.com/r/Games/comments/1xq3csx/path_of_exile_2_a_return_to_oriath_act_5_6_trailer/
 2026-11-07T12:56:01+00:00	Hideo Kojima says AI lacks what makes the creative process fun, despite its efficiency. “It’s not a form of creation I find particularly interesting” https://www.reddit.com/r/Games/comments/1xq5qbh/hideo_kojima_says_ai_lacks_what_makes_the/
 2026-11-07T17:07:44+00:00	Take Earth Back - Official N7 Day 2026 Trailer - Mass Effect Legendary Edition https://www.reddit.com/r/Games/comments/1xqbcz3/take_earth_back_official_n7_day_2026_trailer_mass/
@@ -28,3 +15,16 @@
 2026-11-07T20:40:17+00:00	Data Found Inside Ocarina Of Time Remake Game Files Hints At Master Quest DLC https://www.reddit.com/r/Games/comments/1xqgco7/data_found_inside_ocarina_of_time_remake_game/
 2026-11-07T23:51:23+00:00	Hitman World of Assassination devs say Elusive Targets are captured from studying talent over many hours and 'bespoke craftsmanship' rather than scans — 'You can have the 3d mesh completely right and still not feel like it looks like the person' https://www.reddit.com/r/Games/comments/1xqkgqu/hitman_world_of_assassination_devs_say_elusive/
 2026-11-08T05:00:41+00:00	Indie Sunday Hub - November 8, 2026 https://www.reddit.com/r/Games/comments/1xqqbcg/indie_sunday_hub_november_8_2026/
+2026-11-08T08:04:54+00:00	Whispers of the Veil - Fading Cinders - First-person stealth game inspired by the Thief series https://www.reddit.com/r/Games/comments/1xqt9qh/whispers_of_the_veil_fading_cinders_firstperson/
+2026-11-08T08:31:39+00:00	Pogo Riot - AzDimension - A chaotic first-person multiplayer game with pogo sticks and guns https://www.reddit.com/r/Games/comments/1xqto1n/pogo_riot_azdimension_a_chaotic_firstperson/
+2026-11-08T09:02:22+00:00	Heaven Does Not Respond 2 - Rise Studios - Horror game where you trapped in a retro computer. https://www.reddit.com/r/Games/comments/1xqu4la/heaven_does_not_respond_2_rise_studios_horror/
+2026-11-08T10:00:41+00:00	Weekly /r/Games Discussion - What have you been playing, and what are your thoughts? - November 08, 2026 https://www.reddit.com/r/Games/comments/1xquzc1/weekly_rgames_discussion_what_have_you_been/
+2026-11-08T11:46:54+00:00	GameRant And Collider Owner Valnet Agrees To $2 Million Settlement In Class Action Lawsuit - Kotaku https://www.reddit.com/r/Games/comments/1xqwm08/gamerant_and_collider_owner_valnet_agrees_to_2/
+2026-11-08T12:43:08+00:00	Walljumps - Jetpacks - violent Gunfights! https://www.reddit.com/r/Games/comments/1xqxkj1/walljumps_jetpacks_violent_gunfights/
+2026-11-08T12:43:50+00:00	BoosterWare - Overhead Games - A deckbuilding autobattler where you cheat at your favorite card game by installing shady apps on your early-2000s PC. https://www.reddit.com/r/Games/comments/1xqxkzk/boosterware_overhead_games_a_deckbuilding/
+2026-11-08T14:15:41+00:00	AutoBeast Survivors - Melonsaur - A survivors-like where your weapons are a pack of animals you buy and merge https://www.reddit.com/r/Games/comments/1xqzegx/autobeast_survivors_melonsaur_a_survivorslike/
+2026-11-08T14:25:18+00:00	Infusion - Dragon’s Boat Studio - Narrative-heavy barista sim set in the fantasy world https://www.reddit.com/r/Games/comments/1xqzlq3/infusion_dragons_boat_studio_narrativeheavy/
+2026-11-08T14:35:01+00:00	Midnight Rogues - Aduran Studio - A comic-book-style roguelike autobattler where you arrange cards into timed sequences https://www.reddit.com/r/Games/comments/1xqzta1/midnight_rogues_aduran_studio_a_comicbookstyle/
+2026-11-08T15:01:31+00:00	Baseline Basketball Manager 27 - Baseline Interactive (solo dev) – a basketball management sim with Football Manager-style depth and a live 3D match https://www.reddit.com/r/Games/comments/1xr0e75/baseline_basketball_manager_27_baseline/
+2026-11-08T15:14:09+00:00	Slime, Get out! - Double Flint - A colorful wave-based action roguelite with 12 characters and over 300 items https://www.reddit.com/r/Games/comments/1xr0ols/slime_get_out_double_flint_a_colorful_wavebased/
+2026-11-08T15:15:22+00:00	Star Wars Galactic Racer Devs Explain Their Silence On DLC And Updates, the core reason why not much else is said is due to the team unwilling to “overpromise” and “ensure any changes are locked in” before they discuss them https://www.reddit.com/r/Games/comments/1xr0plk/star_wars_galactic_racer_devs_explain_their/
