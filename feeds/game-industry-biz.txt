@@ -3,11 +3,6 @@
 # source = https://www.gamesindustry.biz/feed
 # description = twtxt conversion of https://www.gamesindustry.biz/feed
 
-2026-10-28T10:15:53+00:00	"It's important for me to set the record straight" – former Xbox COO Helen Chiang issues statement following departure from Xbox https://www.gamesindustry.biz/first-xbox-coo-helen-chiang-leaves-company-after-three-months-in-the-role
-2026-10-28T11:54:35+00:00	Wardogs leads Newzoo's September PC revenue charts https://www.gamesindustry.biz/wardogs-leads-newzoos-september-pc-revenue-charts
-2026-10-28T13:30:00+00:00	"Taking several years with several thousand people… It's almost impossible" – PlayStation creator Ken Kutaragi on the current state of gaming https://www.gamesindustry.biz/taking-several-years-with-several-thousand-people-its-almost-impossible-playstation-creator-ken-kutaragi-on-the-current-state-of-gaming
-2026-10-28T15:00:00+00:00	How to run an indie game studio: Part 5, Better meetings https://www.gamesindustry.biz/how-to-run-an-indie-game-studio-part-5-better-meetings
-2026-10-28T17:56:48+00:00	Hearth and Hamlet publisher Runic Forge rebrands as Pythia Games https://www.gamesindustry.biz/hearth-and-hamlet-publisher-runic-forge-rebrands-as-pythia-games
 2026-10-28T19:13:51+00:00	PressEngine announces The Pre-Show, an in-person London showcase for upcoming games https://www.gamesindustry.biz/pressengine-announces-the-pre-show-an-in-person-london-showcase-for-upcoming-games
 2026-10-29T09:00:00+00:00	The five golden rules of external development https://www.gamesindustry.biz/the-five-golden-rules-of-external-development
 2026-10-29T10:53:08+00:00	Xbox first-party content partially offsets 2% drop in Q1 revenue, hardware decreases 14% https://www.gamesindustry.biz/xbox-first-party-content-partially-offsets-2-drop-in-q1-revenue-hardware-decreases-14
@@ -53,3 +48,8 @@
 2026-11-06T13:53:10+00:00	Jobs roundup: November | Nordisk Games appoints Stefanía Halldórsdóttir as CEO and Ásgeir Kröyer as CFO https://www.gamesindustry.biz/jobs-roundup-november-nordisk-games-appoints-stefania-halldorsdottir-as-ceo-and-asgeir-kroyer-as-cfo
 2026-11-06T14:50:40+00:00	SAG-AFTRA launches new video game agreement enabling devs to hire professional actors for demos and vertical slices https://www.gamesindustry.biz/sag-aftra-launches-new-video-game-agreement-enabling-devs-to-hire-professional-actors-for-demos-and-vertical-slices
 2026-11-06T16:10:00+00:00	Elections signal cultural shifts that no creative industry can dare to ignore | Opinion https://www.gamesindustry.biz/elections-signal-cultural-shifts-that-no-creative-industry-can-dare-to-ignore-opinion
+2026-11-09T09:43:50+00:00	German Games Industry Association warns the EU KIDS Act could undermine existing age-rating systems for video games https://www.gamesindustry.biz/german-games-industry-association-warns-the-eu-kids-act-could-undermine-existing-age-rating-systems-for-video-games
+2026-11-09T11:29:50+00:00	Star Wars Zero Company developer Bit Reactor has laid off an unspecified number of people https://www.gamesindustry.biz/star-wars-zero-company-developer-bit-reactor-has-laid-off-an-unspecified-number-of-people
+2026-11-09T12:27:00+00:00	Thanks to GTA 6, millions of people are about to discover what a manatee is | Opinion https://www.gamesindustry.biz/thanks-to-gta-6-millions-of-people-are-about-to-discover-what-a-manatee-is-opinion
+2026-11-09T15:00:00+00:00	Will Grand Theft Auto 6 break the internet? https://www.gamesindustry.biz/will-grand-theft-auto-6-break-the-internet
+2026-11-09T17:37:10+00:00	PlayStation cancels Ratchet & Clank: Ranger Rumble a year into soft launch https://www.gamesindustry.biz/playstation-cancels-ratchet-clank-ranger-rumble-a-year-into-soft-launch
