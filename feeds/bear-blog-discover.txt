@@ -3,10 +3,8 @@
 # source = https://bearblog.dev/discover/feed/
 # description = twtxt conversion of https://bearblog.dev/discover/feed/
 
-2026-11-06T15:39:00+00:00	...genuine gratitude for the Bear Blog community. https://coreyblogs.com/genuine-gratitude-for-the-bear-blog-community/
 2026-11-06T18:49:00+00:00	my father died https://migrainebrain.bearblog.dev/my-father-died/
 2026-11-06T23:39:26.429990+00:00	Fall Leaves in Japan https://birdiefiles.bearblog.dev/fall-leaves-2026/
-2026-11-07T03:32:00+00:00	Players Should Not Try to be Good https://valerialoves.com/players-should-not-try-to-be-good/
 2026-11-07T07:46:00+00:00	I downloaded a website https://blog.lauramichet.com/i-downloaded-a-website/
 2026-11-07T09:06:00+00:00	chronic illness memes https://blog.avas.space/chronic-illness-memes/
 2026-11-07T16:23:01.748077+00:00	one year blogiversary https://peelingtheonion.bearblog.dev/one-year-blogiversary/
@@ -16,10 +14,12 @@
 2026-11-08T07:21:00+00:00	The Wrapper https://blog.lauramichet.com/the-wrapper/
 2026-11-08T10:36:00+00:00	Knowember https://yordi.me/knowember/
 2026-11-08T11:28:00+00:00	A return to blogging: KnowEMber https://earth-to-emma.bearblog.dev/knowember/
-2026-11-08T13:22:20.303576+00:00	48th https://kangminsuk.com/48th/
 2026-11-08T14:47:31.264668+00:00	A rant on scents and public spaces https://smallquiet.bearblog.dev/a-rant-on-scents-and-public-spaces/
 2026-11-08T15:30:08.722663+00:00	...75 things he loves! https://coreyblogs.com/75-things-he-loves/
+2026-11-08T15:36:00+00:00	conversations with a friend: on rage & being free (pt. 1) https://tala.bearblog.dev/conversations-with-a-friend-on-rage-being-free-pt-1/
 2026-11-08T18:18:45.558384+00:00	Everyone Else Stopped Moving https://nburchett.com/everyone-else-stopped-moving/
-2026-11-08T21:19:58.071548+00:00	Knowember+ https://blog.absurdpirate.com/knowember/
+2026-11-08T21:19:00+00:00	Knowember+ https://blog.absurdpirate.com/knowember/
 2026-11-08T21:29:00+00:00	Believe in yourself https://robertbirming.com/believe-in-yourself/
+2026-11-08T22:53:11.280131+00:00	The Ninth Article https://nburchett.com/the-ninth-article/
 2026-11-08T22:54:00+00:00	dark night of the butthole https://jennfrank.bearblog.dev/dark-night-of-the-butthole/
+2026-11-09T02:28:31.219045+00:00	Hell Levels https://unturnedhovel.bearblog.dev/hell-levels/
