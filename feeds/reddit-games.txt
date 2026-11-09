@@ -3,7 +3,6 @@
 # source = https://www.reddit.com/r/Games.rss
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
-2026-11-07T04:05:05+00:00	WoW: Forever has achieved the biggest launch in WoW history by peak concurrent players and the highest number of returning players in WoW history https://www.reddit.com/r/Games/comments/1xpx0du/wow_forever_has_achieved_the_biggest_launch_in/
 2026-11-07T12:56:01+00:00	Hideo Kojima says AI lacks what makes the creative process fun, despite its efficiency. “It’s not a form of creation I find particularly interesting” https://www.reddit.com/r/Games/comments/1xq5qbh/hideo_kojima_says_ai_lacks_what_makes_the/
 2026-11-07T17:07:44+00:00	Take Earth Back - Official N7 Day 2026 Trailer - Mass Effect Legendary Edition https://www.reddit.com/r/Games/comments/1xqbcz3/take_earth_back_official_n7_day_2026_trailer_mass/
 2026-11-07T17:46:15+00:00	Legendary Edition Multiplayer | N7 Day 2026 | ME3Tweaks https://www.reddit.com/r/Games/comments/1xqc9yi/legendary_edition_multiplayer_n7_day_2026/
@@ -24,7 +23,8 @@
 2026-11-08T18:07:40+00:00	Billion Citizens - Sucre Discret - The French city-builder rogue-like deckbuilder. We recently opened the public playtest and we would love to have your feedback! https://www.reddit.com/r/Games/comments/1xr4t9l/billion_citizens_sucre_discret_the_french/
 2026-11-08T18:43:37+00:00	NEODRIVE - sevencrane - An arcade racing game where Hot Wheels meets Trackmania https://www.reddit.com/r/Games/comments/1xr5omv/neodrive_sevencrane_an_arcade_racing_game_where/
 2026-11-08T18:54:12+00:00	Finding Xanadu: Inside a JRPG classic translation 15 years in the making https://www.reddit.com/r/Games/comments/1xr5xyh/finding_xanadu_inside_a_jrpg_classic_translation/
-2026-11-08T18:59:50+00:00	Red Rain - Small Loan Studio - a short post-apocalypse survival story between a mother and daughter https://www.reddit.com/r/Games/comments/1xr62yh/red_rain_small_loan_studio_a_short_postapocalypse/
 2026-11-08T19:07:00+00:00	Tiny Knit - 100 Cozy Games - cozy building game where you knit a tiny yarn world https://www.reddit.com/r/Games/comments/1xr69ki/tiny_knit_100_cozy_games_cozy_building_game_where/
-2026-11-08T19:49:55+00:00	God Engine - PRIMUS-SOFTWARE - A massive co-op mech simulator set in a grimdark universe https://www.reddit.com/r/Games/comments/1xr7bjj/god_engine_primussoftware_a_massive_coop_mech/
-2026-11-08T20:17:12+00:00	Statement from NVIDIA Board of Directors: An independant investigation is being launched in light of recent reports that NVIDIA Founder and CEO, Jensen Huang, has been the target of Foreign Intelligence honeypotting efforts. https://www.reddit.com/r/Games/comments/1xr7zw0/statement_from_nvidia_board_of_directors_an/
+2026-11-08T20:33:28+00:00	Mario historian Supper Mario Broth announces he’s been diagnosed with heart failure and has a 2/3 chance of surviving past one year https://www.reddit.com/r/Games/comments/1xr8dem/mario_historian_supper_mario_broth_announces_hes/
+2026-11-08T22:39:36+00:00	Hell Wait - Mondbekker - a mahjong roguelike deckbuilder https://www.reddit.com/r/Games/comments/1xrb9q4/hell_wait_mondbekker_a_mahjong_roguelike/
+2026-11-08T23:59:41+00:00	Feeding Gooble - Displacer Labs - Roguelike Deck Builder: Come Feed Your Friend! https://www.reddit.com/r/Games/comments/1xrcz9t/feeding_gooble_displacer_labs_roguelike_deck/
+2026-11-09T00:45:06+00:00	Bolt of Whalington - Orca Studio - Just launched the demo of our Cat-and-mech metroidvania where you can hack the world and rewrite the rules! https://www.reddit.com/r/Games/comments/1xrdyml/bolt_of_whalington_orca_studio_just_launched_the/
