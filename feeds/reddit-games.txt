@@ -4,17 +4,13 @@
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
 2026-11-08T10:00:41+00:00	Weekly /r/Games Discussion - What have you been playing, and what are your thoughts? - November 08, 2026 https://www.reddit.com/r/Games/comments/1xquzc1/weekly_rgames_discussion_what_have_you_been/
-2026-11-08T20:33:28+00:00	Mario historian Supper Mario Broth announces he’s been diagnosed with heart failure and has a 2/3 chance of surviving past one year https://www.reddit.com/r/Games/comments/1xr8dem/mario_historian_supper_mario_broth_announces_hes/
 2026-11-09T06:43:40+00:00	The Legend of Zelda: Ocarina of Time Speedrunners Have Already Found New Ways to Break the Remake https://www.reddit.com/r/Games/comments/1xrkpis/the_legend_of_zelda_ocarina_of_time_speedrunners/
 2026-11-09T09:57:05+00:00	Skyrim lead designer Bruce Nesmith loved that Baldur's Gate 3 closed off story paths based on your decisions, but defends Bethesda's approach: 'They were both fun, they're just fun in different ways' https://www.reddit.com/r/Games/comments/1xrnr1t/skyrim_lead_designer_bruce_nesmith_loved_that/
-2026-11-09T10:13:07+00:00	What do you consider "retro" gaming in 2026? https://www.reddit.com/r/Games/comments/1xro0ky/what_do_you_consider_retro_gaming_in_2026/
-2026-11-09T12:01:15+00:00	Funeral for the Sun - Launch Trailer https://www.reddit.com/r/Games/comments/1xrpvp4/funeral_for_the_sun_launch_trailer/
 2026-11-09T13:21:31+00:00	Comically large Nier: Automata file size has been fixed on Steam as official account offers "apologies" for making the action RPG 154GB larger than GTA 6's pre-load https://www.reddit.com/r/Games/comments/1xrri4o/comically_large_nier_automata_file_size_has_been/
 2026-11-09T15:43:50+00:00	The Legend of Zelda: 40th Anniversary Edition console helped drive total US Switch 2 hardware dollar sales to its highest weekly total of 2026 to date (w/e Oct 31, 2026). Total US video game hardware spending jumped 81% in the week compared to a year ago. https://www.reddit.com/r/Games/comments/1xrv03v/the_legend_of_zelda_40th_anniversary_edition/
 2026-11-09T15:55:25+00:00	Porting Mass Effect 3 Multiplayer to Legendary Edition https://www.reddit.com/r/Games/comments/1xrvbjd/porting_mass_effect_3_multiplayer_to_legendary/
 2026-11-09T16:00:49+00:00	Release Date Trailer | Warhammer 40,000: Dark Heresy https://www.reddit.com/r/Games/comments/1xrvgyj/release_date_trailer_warhammer_40000_dark_heresy/
 2026-11-09T16:51:46+00:00	Devolver Digital on Bluesky: "Heads up: Devolver Digital is announcing its first AAA game tomorrow." https://www.reddit.com/r/Games/comments/1xrwv1o/devolver_digital_on_bluesky_heads_up_devolver/
-2026-11-09T18:03:09+00:00	Beholder IV Announced, Releases TBD on PC https://www.reddit.com/r/Games/comments/1xrytm9/beholder_iv_announced_releases_tbd_on_pc/
 2026-11-09T18:33:33+00:00	Games that reached Overwhelmingly Positive on Steam this week (Nov 3rd - Nov 9th) https://www.reddit.com/r/Games/comments/1xrznua/games_that_reached_overwhelmingly_positive_on/
 2026-11-09T18:55:54+00:00	Casualties: Unknown is out now! https://www.reddit.com/r/Games/comments/1xs09jv/casualties_unknown_is_out_now/
 2026-11-09T19:22:31+00:00	Killing Floor 3 Developer Tripwire Interactive Announces Layoffs https://www.reddit.com/r/Games/comments/1xs0zxf/killing_floor_3_developer_tripwire_interactive/
@@ -28,3 +24,7 @@
 2026-11-10T00:27:28+00:00	Skydance Lays Off Games Workers One Month After Warner Brothers Acquisition https://www.reddit.com/r/Games/comments/1xs8pd5/skydance_lays_off_games_workers_one_month_after/
 2026-11-10T01:00:30+00:00	Steam Deck Framerate - Average framerate data is now available for games on Steam Deck https://www.reddit.com/r/Games/comments/1xs9f0p/steam_deck_framerate_average_framerate_data_is/
 2026-11-10T01:33:16+00:00	System Update Information for Nintendo Switch 2 | Allow gifting to a family group member https://www.reddit.com/r/Games/comments/1xsa3q4/system_update_information_for_nintendo_switch_2/
+2026-11-10T05:55:47+00:00	Bandai Namco has just passed a resolution to dissolve and liquidate Reflector Entertainment https://www.reddit.com/r/Games/comments/1xsf74b/bandai_namco_has_just_passed_a_resolution_to/
+2026-11-10T07:03:11+00:00	Big Walk Used AI In 'The Final Stretch' Of Development, Kicking Off Intense Awards Debate https://www.reddit.com/r/Games/comments/1xsgbml/big_walk_used_ai_in_the_final_stretch_of/
+2026-11-10T07:39:59+00:00	Red Dead Redemption 2 has passed 89 million copies sold, up 2 million more in the last quarter. https://www.reddit.com/r/Games/comments/1xsgwj4/red_dead_redemption_2_has_passed_89_million/
+2026-11-10T08:50:42+00:00	Some IGF Jurors Are Declining To Vote For Any Game That Uses Generative AI In Any Capacity https://www.reddit.com/r/Games/comments/1xshzc6/some_igf_jurors_are_declining_to_vote_for_any/

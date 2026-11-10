@@ -3,7 +3,6 @@
 # source = https://www.gamesindustry.biz/feed
 # description = twtxt conversion of https://www.gamesindustry.biz/feed
 
-2026-10-29T12:57:05+00:00	Onimusha, Resident Evil, Pragmata, and Monster Hunter franchises boost Capcom H1 results https://www.gamesindustry.biz/onimusha-resident-evil-pragmata-and-monster-hunter-franchises-boost-capcom-h1-results
 2026-10-29T13:04:14+00:00	"I wish I had the formula" – 2Awesome Studio on navigating indie development while creating Altered Alma, its biggest project to date https://www.gamesindustry.biz/i-wish-i-had-the-formula-2awesome-studio-on-navigating-indie-development-while-creating-altered-alma-its-biggest-project-to-date
 2026-10-29T13:30:00+00:00	"We are very eager to learn from the real veterans" – How Tencent's TiMi Studio Group collaborated with Capcom on Monster Hunter Outlanders https://www.gamesindustry.biz/we-are-very-eager-to-learn-from-the-real-veterans-how-tencents-timi-studio-group-collaborated-with-capcom-on-monster-hunter-outlanders
 2026-10-29T14:29:45+00:00	Newly merged Skydance mandates staff return to office five days a week, offers Voluntary Buyout Program https://www.gamesindustry.biz/newly-merged-skydance-mandates-staff-return-to-office-five-days-a-week-offers-voluntary-buyout-program
@@ -53,3 +52,4 @@
 2026-11-09T19:43:10+00:00	Tripwire Interactive lays off 36 https://www.gamesindustry.biz/tripwire-interactive-lays-off-36
 2026-11-09T21:22:20+00:00	Take-Two Q2 net bookings fall 18% to $1.6bn as NBA 2K27 misses forecast but GTA 6 pre-orders are "tracking far in excess" of expectations https://www.gamesindustry.biz/take-two-q2-net-bookings-fall-18-to-16bn-as-nba-2k27-misses-forecast-but-gta-6-pre-orders-are-tracking-far-in-excess-of-expectations
 2026-11-09T21:39:40+00:00	"There's no such thing as easy money in our business" – Strauss Zelnick on GTA 6, BioShock, Take-Two's acquisition plans, and reviving old IP https://www.gamesindustry.biz/theres-no-such-thing-as-easy-money-in-our-business-strauss-zelnick-on-gta-6-bioshock-take-twos-acquisition-plans-and-reviving-old-ip
+2026-11-10T09:07:50+00:00	House House clarifies use of AI tools in Big Walk's "final stage of development" https://www.gamesindustry.biz/house-house-clarifies-use-of-ai-tools-in-big-walks-final-stage-of-development
