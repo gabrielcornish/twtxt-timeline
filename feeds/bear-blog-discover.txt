@@ -3,13 +3,10 @@
 # source = https://bearblog.dev/discover/feed/
 # description = twtxt conversion of https://bearblog.dev/discover/feed/
 
-2026-11-08T14:47:31.264668+00:00	A rant on scents and public spaces https://smallquiet.bearblog.dev/a-rant-on-scents-and-public-spaces/
 2026-11-08T18:18:45.558384+00:00	Everyone Else Stopped Moving https://nburchett.com/everyone-else-stopped-moving/
 2026-11-08T21:19:00+00:00	Knowember+ https://blog.absurdpirate.com/knowember/
 2026-11-08T21:29:00+00:00	Believe in yourself https://robertbirming.com/believe-in-yourself/
 2026-11-09T14:05:09.781360+00:00	Bear and the return to writing with joy https://nburchett.com/bear-and-the-return-to-writing-with-joy/
-2026-11-09T14:12:00+00:00	...an appointment he's dreading this week. https://coreyblogs.com/an-appointment-hes-dreading-this-week/
-2026-11-09T14:57:33.484052+00:00	Good Prose, Bad Structure https://explicatingelle.bearblog.dev/good-prose-bad-structure/
 2026-11-09T15:00:00+00:00	升级了 bearblog Lifetime License https://blog.solazy.me/20261109/
 2026-11-09T17:53:59.442781+00:00	gritted teeth optimism https://tala.bearblog.dev/gritted-teeth-optimism/
 2026-11-09T18:13:00+00:00	I turned the website of my workplace into Latin https://annoflo.net/latin-text/
@@ -17,9 +14,12 @@
 2026-11-10T01:22:03.365192+00:00	I am moving to Switzerland https://toska.bearblog.dev/i-am-moving-to-switzerland/
 2026-11-10T04:55:00+00:00	The Age of the Artless https://moodywarlock.net/the-age-of-the-artless/
 2026-11-10T07:16:00+00:00	on Today's Main Character https://blog.damonreece.com/on-todays-main-character/
-2026-11-10T07:22:00+00:00	Knowvember '26 https://agnes.love/knowvember-26/
 2026-11-10T07:55:00+00:00	Some IGF Jurors released a statement about AI usage https://blog.lauramichet.com/some-igf-jurors-released-a-statement-about-ai-usage/
 2026-11-10T13:54:00+00:00	...something dumb he once believed. https://coreyblogs.com/something-dumb-he-once-believed/
 2026-11-10T14:00:00+00:00	Hold Music for the Afterlife https://nburchett.com/hold-music-for-the-afterlife/
-2026-11-10T14:28:00+00:00	Imminence—A Rhapsody https://aquestionmore.bearblog.dev/imminencea-rhapsody/
 2026-11-10T15:01:49.610961+00:00	My Knowember https://constance.bearblog.dev/my-knowember/
+2026-11-10T18:40:29.462562+00:00	A Response from One of “Those People” in the Middle https://widdershins.verja.net/a-response-from-one-of-those-people-in-the-middle/
+2026-11-10T18:43:39.179351+00:00	i just want to make people happy https://rnotte.art/i-just-want-to-make-people-happy/
+2026-11-10T19:20:13.527284+00:00	Kuya Ed (vignette) https://rickw.bearblog.dev/kuya-ed/
+2026-11-10T20:43:16.633703+00:00	Well, here it is. The obligatory, slightly awkward first post. https://when-no-one-is-looking.bearblog.dev/new-post/
+2026-11-10T22:53:00+00:00	The Wave House https://sadappetizers.bearblog.dev/the-wave-house/

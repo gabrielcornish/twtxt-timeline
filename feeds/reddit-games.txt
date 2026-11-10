@@ -4,19 +4,10 @@
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
 2026-11-08T10:00:41+00:00	Weekly /r/Games Discussion - What have you been playing, and what are your thoughts? - November 08, 2026 https://www.reddit.com/r/Games/comments/1xquzc1/weekly_rgames_discussion_what_have_you_been/
-2026-11-09T16:51:46+00:00	Devolver Digital on Bluesky: "Heads up: Devolver Digital is announcing its first AAA game tomorrow." https://www.reddit.com/r/Games/comments/1xrwv1o/devolver_digital_on_bluesky_heads_up_devolver/
 2026-11-09T18:33:33+00:00	Games that reached Overwhelmingly Positive on Steam this week (Nov 3rd - Nov 9th) https://www.reddit.com/r/Games/comments/1xrznua/games_that_reached_overwhelmingly_positive_on/
-2026-11-09T19:29:01+00:00	Masahiro Sakurai doesn’t use AI for his games, but believes that avoiding it entirely could cause devs to fall behind in the “far-too-demanding” industry climate - AUTOMATON WEST https://www.reddit.com/r/Games/comments/1xs16ns/masahiro_sakurai_doesnt_use_ai_for_his_games_but/
 2026-11-09T21:15:56+00:00	‘GTA 6’ Presales ‘Far in Excess’ of Expectations Ahead of Next Week’s Launch, Take-Two CEO Says https://www.reddit.com/r/Games/comments/1xs40l7/gta_6_presales_far_in_excess_of_expectations/
-2026-11-09T21:44:26+00:00	Red Dead Redemption 2 Approaches 90M Units Sold Since Launch https://www.reddit.com/r/Games/comments/1xs4qol/red_dead_redemption_2_approaches_90m_units_sold/
-2026-11-09T22:08:37+00:00	GTA 5 Sales Reach Almost 235 Million Copies Since Launch https://www.reddit.com/r/Games/comments/1xs5czz/gta_5_sales_reach_almost_235_million_copies_since/
-2026-11-10T00:27:28+00:00	Skydance Lays Off Games Workers One Month After Warner Brothers Acquisition https://www.reddit.com/r/Games/comments/1xs8pd5/skydance_lays_off_games_workers_one_month_after/
-2026-11-10T01:00:30+00:00	Steam Deck Framerate - Average framerate data is now available for games on Steam Deck https://www.reddit.com/r/Games/comments/1xs9f0p/steam_deck_framerate_average_framerate_data_is/
-2026-11-10T01:33:16+00:00	System Update Information for Nintendo Switch 2 | Allow gifting to a family group member https://www.reddit.com/r/Games/comments/1xsa3q4/system_update_information_for_nintendo_switch_2/
-2026-11-10T05:55:47+00:00	Bandai Namco has just passed a resolution to dissolve and liquidate Reflector Entertainment https://www.reddit.com/r/Games/comments/1xsf74b/bandai_namco_has_just_passed_a_resolution_to/
 2026-11-10T07:03:11+00:00	Big Walk Used AI In 'The Final Stretch' Of Development, Kicking Off Intense Awards Debate https://www.reddit.com/r/Games/comments/1xsgbml/big_walk_used_ai_in_the_final_stretch_of/
 2026-11-10T08:50:42+00:00	Some IGF Jurors Are Declining To Vote For Any Game That Uses Generative AI In Any Capacity https://www.reddit.com/r/Games/comments/1xshzc6/some_igf_jurors_are_declining_to_vote_for_any/
-2026-11-10T10:44:33+00:00	Tanuki: Pon's Summer x ROG | Cinematic Launch Trailer https://www.reddit.com/r/Games/comments/1xsjscd/tanuki_pons_summer_x_rog_cinematic_launch_trailer/
 2026-11-10T12:45:36+00:00	HUNGER Releases in Early Access Dec 3rd 2026 on PC https://www.reddit.com/r/Games/comments/1xslzmu/hunger_releases_in_early_access_dec_3rd_2026_on_pc/
 2026-11-10T13:43:17+00:00	Zangief Actor Olivier Richters Competed in a Street Fighter 6 Tournament Using Zangief, and He's Actually Pretty Good https://www.reddit.com/r/Games/comments/1xsn8cc/zangief_actor_olivier_richters_competed_in_a/
 2026-11-10T13:58:40+00:00	Grand Theft Auto VI: Pre-load Now https://www.reddit.com/r/Games/comments/1xsnktd/grand_theft_auto_vi_preload_now/
@@ -28,3 +19,12 @@
 2026-11-10T17:07:51+00:00	Announcing: All Army Attack - Let the Auto-Battles Begin! - Devolver Digital https://www.reddit.com/r/Games/comments/1xssftg/announcing_all_army_attack_let_the_autobattles/
 2026-11-10T17:12:17+00:00	Doomsday | Marvel Rivals Season 11 Trailer | Marvel Rivals https://www.reddit.com/r/Games/comments/1xssk4t/doomsday_marvel_rivals_season_11_trailer_marvel/
 2026-11-10T17:38:20+00:00	Educational game dev program cancelled because students were submitting games made entirely with AI https://www.reddit.com/r/Games/comments/1xst8so/educational_game_dev_program_cancelled_because/
+2026-11-10T17:46:44+00:00	Nightcrawler: Hope and Brimstone | Character Reveal Trailer | Marvel Rivals https://www.reddit.com/r/Games/comments/1xstgnv/nightcrawler_hope_and_brimstone_character_reveal/
+2026-11-10T17:52:38+00:00	PlayStation Plus Game Catalog for November: Death Stranding 2: On the Beach, Like a Dragon: Pirate Yakuza in Hawaii, Atomfall, Dragon Quest III HD-2D Remake and more https://www.reddit.com/r/Games/comments/1xstm8g/playstation_plus_game_catalog_for_november_death/
+2026-11-10T18:32:50+00:00	The Outer Worlds 2: Side Effects Guaranteed - Official Announce Trailer https://www.reddit.com/r/Games/comments/1xsuq66/the_outer_worlds_2_side_effects_guaranteed/
+2026-11-10T18:56:44+00:00	The Snackbar at the End of the World -- Official Reveal Trailer https://www.reddit.com/r/Games/comments/1xsvd0b/the_snackbar_at_the_end_of_the_world_official/
+2026-11-10T19:19:19+00:00	Mouse Work - Official Nintendo Switch 2 Release Date Trailer [December 7] https://www.reddit.com/r/Games/comments/1xsvybb/mouse_work_official_nintendo_switch_2_release/
+2026-11-10T20:00:08+00:00	Pokemon Winds and Waves reportedly had 2026 launch planned before last-minute delay https://www.reddit.com/r/Games/comments/1xsx06d/pokemon_winds_and_waves_reportedly_had_2026/
+2026-11-10T20:39:33+00:00	PlayStation Cancels Online Shooting Title ‘Fairgames’ https://www.reddit.com/r/Games/comments/1xsy0iz/playstation_cancels_online_shooting_title/
+2026-11-10T20:47:23+00:00	Double Fine announces "Kiln: Reshaped", coming November 12th (big new Update for Kiln) https://www.reddit.com/r/Games/comments/1xsy7tc/double_fine_announces_kiln_reshaped_coming/
+2026-11-10T20:47:44+00:00	GRAND THEFT AUTO 1996 Making Of | BBC Archive https://www.reddit.com/r/Games/comments/1xsy84q/grand_theft_auto_1996_making_of_bbc_archive/
