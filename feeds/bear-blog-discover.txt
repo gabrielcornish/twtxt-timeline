@@ -3,23 +3,23 @@
 # source = https://bearblog.dev/discover/feed/
 # description = twtxt conversion of https://bearblog.dev/discover/feed/
 
-2026-11-07T07:46:00+00:00	I downloaded a website https://blog.lauramichet.com/i-downloaded-a-website/
 2026-11-07T18:20:00+00:00	Bloggies '27 - Enter the Arena https://elmc.at/bloggies-27-announcement/
-2026-11-07T23:04:00+00:00	Person of Interest https://krthr.co/person-of-interest/
 2026-11-08T01:08:00+00:00	The Notebook: A History of Thinking on Paper https://mintcitylights.com/2026/11/08/the-notebook/
 2026-11-08T07:21:00+00:00	The Wrapper https://blog.lauramichet.com/the-wrapper/
 2026-11-08T11:28:00+00:00	A return to blogging: KnowEMber https://earth-to-emma.bearblog.dev/knowember/
 2026-11-08T14:47:31.264668+00:00	A rant on scents and public spaces https://smallquiet.bearblog.dev/a-rant-on-scents-and-public-spaces/
-2026-11-08T15:30:00+00:00	...75 things he loves! [Updated] https://coreyblogs.com/75-things-he-loves/
-2026-11-08T15:36:00+00:00	conversations with a friend: on rage & being free (pt. 1) https://tala.bearblog.dev/conversations-with-a-friend-on-rage-being-free-pt-1/
 2026-11-08T18:18:45.558384+00:00	Everyone Else Stopped Moving https://nburchett.com/everyone-else-stopped-moving/
 2026-11-08T21:19:00+00:00	Knowember+ https://blog.absurdpirate.com/knowember/
 2026-11-08T21:29:00+00:00	Believe in yourself https://robertbirming.com/believe-in-yourself/
 2026-11-09T10:28:00+00:00	In the year since Jonathan killed himself/a failure I must atone for with every breath https://lin-living-life.bearblog.dev/in-the-year-since-jonathan-killed-himselfa-failure-i-must-atone-for-with-every-breath/
-2026-11-09T13:08:21.356431+00:00	What We Hear When We Say God https://ordinarythings.org/what-we-hear-when-we-say-god/
+2026-11-09T13:08:00+00:00	What We Hear When We Say God https://ordinarythings.org/what-we-hear-when-we-say-god/
 2026-11-09T14:00:00+00:00	Saved Copy https://nburchett.com/saved-copy/
 2026-11-09T14:05:09.781360+00:00	Bear and the return to writing with joy https://nburchett.com/bear-and-the-return-to-writing-with-joy/
+2026-11-09T14:12:00+00:00	...an appointment he's dreading this week. https://coreyblogs.com/an-appointment-hes-dreading-this-week/
 2026-11-09T14:23:58.902870+00:00	Running Social Games https://behindthehelm.bearblog.dev/running-social-games/
+2026-11-09T16:10:00+00:00	pocket ereaders are sick as hell (a quick review of the X4 Classic) https://heyhowdy.blog/pocket-ereaders-a-sick-as-hell/
 2026-11-09T17:53:59.442781+00:00	gritted teeth optimism https://tala.bearblog.dev/gritted-teeth-optimism/
-2026-11-09T18:00:00+00:00	An attempt at a place https://francescrossley.com/an-attempt-at-a-place/
 2026-11-09T18:13:00+00:00	I turned the website of my workplace into Latin https://annoflo.net/latin-text/
+2026-11-09T19:41:22.322104+00:00	Dunkelflaute: the weather pattern behind two dark, still weeks in Europe https://weatherlinguist.bearblog.dev/dunkelflaute-the-weather-pattern-behind-two-dark-still-weeks-in-europe/
+2026-11-09T20:16:00+00:00	Web designers/developers must be so bored https://futureperfect.bearblog.dev/web-designersdevelopers/
+2026-11-09T22:07:25.623522+00:00	What I learned from running a liquidity incentive bot on Kalshi https://ckruger.bearblog.dev/what-i-learned-from-running-a-liquidity-incentive-bot-on-kalshi/

@@ -3,9 +3,6 @@
 # source = https://www.gamesindustry.biz/feed
 # description = twtxt conversion of https://www.gamesindustry.biz/feed
 
-2026-10-28T19:13:51+00:00	PressEngine announces The Pre-Show, an in-person London showcase for upcoming games https://www.gamesindustry.biz/pressengine-announces-the-pre-show-an-in-person-london-showcase-for-upcoming-games
-2026-10-29T09:00:00+00:00	The five golden rules of external development https://www.gamesindustry.biz/the-five-golden-rules-of-external-development
-2026-10-29T10:53:08+00:00	Xbox first-party content partially offsets 2% drop in Q1 revenue, hardware decreases 14% https://www.gamesindustry.biz/xbox-first-party-content-partially-offsets-2-drop-in-q1-revenue-hardware-decreases-14
 2026-10-29T12:57:05+00:00	Onimusha, Resident Evil, Pragmata, and Monster Hunter franchises boost Capcom H1 results https://www.gamesindustry.biz/onimusha-resident-evil-pragmata-and-monster-hunter-franchises-boost-capcom-h1-results
 2026-10-29T13:04:14+00:00	"I wish I had the formula" – 2Awesome Studio on navigating indie development while creating Altered Alma, its biggest project to date https://www.gamesindustry.biz/i-wish-i-had-the-formula-2awesome-studio-on-navigating-indie-development-while-creating-altered-alma-its-biggest-project-to-date
 2026-10-29T13:30:00+00:00	"We are very eager to learn from the real veterans" – How Tencent's TiMi Studio Group collaborated with Capcom on Monster Hunter Outlanders https://www.gamesindustry.biz/we-are-very-eager-to-learn-from-the-real-veterans-how-tencents-timi-studio-group-collaborated-with-capcom-on-monster-hunter-outlanders
@@ -53,3 +50,6 @@
 2026-11-09T12:27:00+00:00	Thanks to GTA 6, millions of people are about to discover what a manatee is | Opinion https://www.gamesindustry.biz/thanks-to-gta-6-millions-of-people-are-about-to-discover-what-a-manatee-is-opinion
 2026-11-09T15:00:00+00:00	Will Grand Theft Auto 6 break the internet? https://www.gamesindustry.biz/will-grand-theft-auto-6-break-the-internet
 2026-11-09T17:37:10+00:00	PlayStation cancels Ratchet & Clank: Ranger Rumble a year into soft launch https://www.gamesindustry.biz/playstation-cancels-ratchet-clank-ranger-rumble-a-year-into-soft-launch
+2026-11-09T19:43:10+00:00	Tripwire Interactive lays off 36 https://www.gamesindustry.biz/tripwire-interactive-lays-off-36
+2026-11-09T21:22:20+00:00	Take-Two Q2 net bookings fall 18% to $1.6bn as NBA 2K27 misses forecast but GTA 6 pre-orders are "tracking far in excess" of expectations https://www.gamesindustry.biz/take-two-q2-net-bookings-fall-18-to-16bn-as-nba-2k27-misses-forecast-but-gta-6-pre-orders-are-tracking-far-in-excess-of-expectations
+2026-11-09T21:39:40+00:00	"There's no such thing as easy money in our business" – Strauss Zelnick on GTA 6, BioShock, Take-Two's acquisition plans, and reviving old IP https://www.gamesindustry.biz/theres-no-such-thing-as-easy-money-in-our-business-strauss-zelnick-on-gta-6-bioshock-take-twos-acquisition-plans-and-reviving-old-ip
