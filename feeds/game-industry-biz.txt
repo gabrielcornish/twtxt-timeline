@@ -3,11 +3,6 @@
 # source = https://www.gamesindustry.biz/feed
 # description = twtxt conversion of https://www.gamesindustry.biz/feed
 
-2026-10-30T09:00:00+00:00	Why asking "what's the budget for your game?" doesn't make sense in 2026 | Opinion https://www.gamesindustry.biz/why-asking-whats-the-budget-for-your-game-doesnt-make-sense-in-2026-opinion
-2026-10-30T10:44:44+00:00	Roblox Q3 results beat expectations despite bookings falling 12% to $1.7bn https://www.gamesindustry.biz/roblox-q3-results-beat-expectations-despite-bookings-falling-12-to-17bn
-2026-10-30T12:00:00+00:00	Gaming storefronts are facing a Slop Grenade problem | Opinion https://www.gamesindustry.biz/gaming-storefronts-are-facing-a-slop-grenade-problem-opinion
-2026-10-30T12:10:27+00:00	Maddy Makes Games removes Celeste and TowerFall from Xbox in support of pro-Palestinian BDS boycott https://www.gamesindustry.biz/maddy-makes-games-removes-celeste-and-towerfall-from-xbox-in-support-of-pro-palestinian-bds-boycott
-2026-10-30T14:39:49+00:00	Studio Atelico launches Atelico AI Engine into Early Access https://www.gamesindustry.biz/studio-atelico-launches-atelico-ai-engine-into-early-access
 2026-11-02T09:00:00+00:00	A vital message to people in HR: "Protecting our own wellbeing is paramount" https://www.gamesindustry.biz/a-vital-message-to-people-in-hr-protecting-our-own-wellbeing-is-paramount
 2026-11-02T10:00:16+00:00	Gang of Dragon developer Nagoshi Studio shutters months after NetEase cut funding https://www.gamesindustry.biz/gang-of-dragon-developer-nagoshi-studio-shutters-months-after-netease-cut-funding
 2026-11-02T11:51:05+00:00	Among Us VR co-developer Schell Games announces second round of layoffs this year https://www.gamesindustry.biz/among-us-vr-co-developer-schell-games-announces-second-round-of-layoffs-this-year
@@ -53,3 +48,8 @@
 2026-11-10T10:34:40+00:00	Skydance announces layoffs to games division following $111bn merger https://www.gamesindustry.biz/skydance-announces-layoffs-to-games-division-following-111bn-merger
 2026-11-10T11:46:00+00:00	Bandai Namco closes Reflector Entertainment, expects to post €21m loss in Q3 as a result https://www.gamesindustry.biz/bandai-namco-closes-reflector-entertainment-expects-to-post-21m-loss-in-q3-as-a-result
 2026-11-10T14:27:40+00:00	Krafton Q3 revenue rises 11.6% despite decreases in PC and console segments https://www.gamesindustry.biz/krafton-q3-revenue-rises-116-despite-decreases-in-pc-and-console-segments
+2026-11-11T09:10:30+00:00	Mobile publisher Fortis Games shuts down, up to 440 workers affected https://www.gamesindustry.biz/mobile-publisher-fortis-games-shuts-down-up-to-440-workers-affected
+2026-11-11T10:40:00+00:00	PlayStation cancels live-service shooter Fairgames https://www.gamesindustry.biz/playstation-cancels-live-service-shooter-fairgames
+2026-11-11T11:29:10+00:00	What the Digital Fairness Act means for the games industry https://www.gamesindustry.biz/what-the-digital-fairness-act-means-for-the-games-industry
+2026-11-11T12:10:40+00:00	GTA 6 becomes most pre-ordered game on PlayStation and Xbox storefronts https://www.gamesindustry.biz/gta-6-becomes-most-pre-ordered-game-on-playstation-and-xbox-storefronts
+2026-11-11T14:46:40+00:00	Lego Digital Play acquires ForthStar Games "to bring Lego to the prominence it truly deserves on mobile" https://www.gamesindustry.biz/lego-digital-play-acquires-forthstar-games-to-bring-lego-to-the-prominence-it-truly-deserves-on-mobile
