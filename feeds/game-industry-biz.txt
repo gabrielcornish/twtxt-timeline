@@ -3,9 +3,6 @@
 # source = https://www.gamesindustry.biz/feed
 # description = twtxt conversion of https://www.gamesindustry.biz/feed
 
-2026-11-02T09:00:00+00:00	A vital message to people in HR: "Protecting our own wellbeing is paramount" https://www.gamesindustry.biz/a-vital-message-to-people-in-hr-protecting-our-own-wellbeing-is-paramount
-2026-11-02T10:00:16+00:00	Gang of Dragon developer Nagoshi Studio shutters months after NetEase cut funding https://www.gamesindustry.biz/gang-of-dragon-developer-nagoshi-studio-shutters-months-after-netease-cut-funding
-2026-11-02T11:51:05+00:00	Among Us VR co-developer Schell Games announces second round of layoffs this year https://www.gamesindustry.biz/among-us-vr-co-developer-schell-games-announces-second-round-of-layoffs-this-year
 2026-11-02T13:30:00+00:00	"We all met by doing improv comedy" – The Los Angeles indie studio making a comedy game in one of the most expensive places for game dev in the world https://www.gamesindustry.biz/we-all-met-by-doing-improv-comedy-the-los-angeles-indie-studio-making-a-comedy-game-in-one-of-the-most-expensive-places-for-game-dev-in-the-world
 2026-11-02T14:32:18+00:00	Gamescom Asia x Thailand Game Show "most international yet", attracting nearly 220,000 visitors from 113 countries https://www.gamesindustry.biz/gamescom-asia-x-thailand-game-show-most-international-yet-attracting-nearly-220000-visitors-from-113-countries
 2026-11-02T17:50:20+00:00	Anthropic adds rule to stop Claude Code recreating existing games https://www.gamesindustry.biz/anthropic-adds-rule-to-stop-claude-code-recreating-existing-games
@@ -53,3 +50,6 @@
 2026-11-11T11:29:10+00:00	What the Digital Fairness Act means for the games industry https://www.gamesindustry.biz/what-the-digital-fairness-act-means-for-the-games-industry
 2026-11-11T12:10:40+00:00	GTA 6 becomes most pre-ordered game on PlayStation and Xbox storefronts https://www.gamesindustry.biz/gta-6-becomes-most-pre-ordered-game-on-playstation-and-xbox-storefronts
 2026-11-11T14:46:40+00:00	Lego Digital Play acquires ForthStar Games "to bring Lego to the prominence it truly deserves on mobile" https://www.gamesindustry.biz/lego-digital-play-acquires-forthstar-games-to-bring-lego-to-the-prominence-it-truly-deserves-on-mobile
+2026-11-12T08:34:30+00:00	Fredrik Wester steps down as Paradox Interactive CEO https://www.gamesindustry.biz/fredrik-wester-steps-down-as-paradox-interactive-ceo
+2026-11-12T10:17:40+00:00	Laid-off Id Software devs form employee-owned studio Hidden Horses https://www.gamesindustry.biz/laid-off-id-software-devs-form-employee-owned-studio-hidden-horses
+2026-11-12T11:53:40+00:00	Black Forest Games spins out from THQ Nordic, co-founds indie studio group Third Signal https://www.gamesindustry.biz/black-forest-games-spins-out-from-thq-nordic-co-founds-indie-studio-group-third-signal
