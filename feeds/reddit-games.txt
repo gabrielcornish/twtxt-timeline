@@ -3,28 +3,28 @@
 # source = https://www.reddit.com/r/Games.rss
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
-2026-11-11T06:35:19+00:00	The Legend of Zelda: Ocarina of Time for Nintendo Switch 2 Sells Over 5.2 Million Units Worldwide in First Four Days https://www.reddit.com/r/Games/comments/1xtap20/the_legend_of_zelda_ocarina_of_time_for_nintendo/
 2026-11-11T12:00:28+00:00	Daily /r/Games Discussion - Suggest Me a Game - November 11, 2026 https://www.reddit.com/r/Games/comments/1xtfyjj/daily_rgames_discussion_suggest_me_a_game/
-2026-11-11T13:12:52+00:00	The Legend of Heroes: Trails beyond the Horizon sequel to launch by September 2027 in Japan, Nihon Falcom said in its financial report https://www.reddit.com/r/Games/comments/1xthecc/the_legend_of_heroes_trails_beyond_the_horizon/
-2026-11-11T14:27:10+00:00	Remember when Nintendo Sold us Cardboard [ Nintendo Labo Retrospective] https://www.reddit.com/r/Games/comments/1xtj41i/remember_when_nintendo_sold_us_cardboard_nintendo/
-2026-11-11T14:48:33+00:00	"I wish hardware like the Xbox Series S wouldn't be released" - former Tekken director Katsuhiro Harada trashes Microsoft's console in front of senior Xbox staff https://www.reddit.com/r/Games/comments/1xtjmug/i_wish_hardware_like_the_xbox_series_s_wouldnt_be/
-2026-11-11T15:59:01+00:00	Proposal for a Digital Fairness Act https://www.reddit.com/r/Games/comments/1xtlfqm/proposal_for_a_digital_fairness_act/
-2026-11-11T17:56:15+00:00	Stephen Russell | Voice of Garrett in Thief | Nightdive Studios Deep Dive https://www.reddit.com/r/Games/comments/1xtonrh/stephen_russell_voice_of_garrett_in_thief/
-2026-11-11T18:17:42+00:00	Conan: The Black Pyramid Announced, Releases 2027 on PC https://www.reddit.com/r/Games/comments/1xtp8wl/conan_the_black_pyramid_announced_releases_2027/
-2026-11-11T19:02:02+00:00	AMA: We’re Super Evil Megacorp, developers of TMNT: Splintered Fate. The Shell Squad co-op update just dropped, King’s Gambit concluded our story, and we're here to answer your questions. Ask Us Anything! https://www.reddit.com/r/Games/comments/1xtqfkz/ama_were_super_evil_megacorp_developers_of_tmnt/
-2026-11-11T19:17:31+00:00	‘This was a special case.’ - For The Witcher 3’s 2027 expansion, CD Projekt is pairing Geralt of Rivia’s original Polish voice actor with AI https://www.reddit.com/r/Games/comments/1xtquux/this_was_a_special_case_for_the_witcher_3s_2027/
-2026-11-11T20:06:11+00:00	Steam's Growing Review Backlog Has Cost Another Game Its Launch Date ("Australia Did It: End-of-the-World Railway Defense Business") https://www.reddit.com/r/Games/comments/1xts56k/steams_growing_review_backlog_has_cost_another/
-2026-11-11T20:08:55+00:00	The Expanse: Osiris Reborn - Official Becoming the Captain Gameplay Trailer, Releases 2027 for PC, PS5, Xbox Series https://www.reddit.com/r/Games/comments/1xts7or/the_expanse_osiris_reborn_official_becoming_the/
-2026-11-11T20:10:25+00:00	Golden Joystick Awards 2026 – All Award Winners. Ultimate Game of the Year is Resident Evil Requiem https://www.reddit.com/r/Games/comments/1xts92u/golden_joystick_awards_2026_all_award_winners/
-2026-11-11T21:55:25+00:00	Jason Schrier: Skydance Games told the development team behind Marvel 1943: Rise of Hydra on Slack this afternoon that the game is not canceled https://www.reddit.com/r/Games/comments/1xtuw86/jason_schrier_skydance_games_told_the_development/
-2026-11-11T22:10:57+00:00	Starsector 0.98.5.a Release https://www.reddit.com/r/Games/comments/1xtva4r/starsector_0985a_release/
-2026-11-11T22:49:05+00:00	The Sound of Fury Announced, Releases Late 2027 on PC https://www.reddit.com/r/Games/comments/1xtw75n/the_sound_of_fury_announced_releases_late_2027_on/
 2026-11-11T23:02:55+00:00	Nvidia is preparing to oust CEO Jensen Huang, WSJ reports https://www.reddit.com/r/Games/comments/1xtwix2/nvidia_is_preparing_to_oust_ceo_jensen_huang_wsj/
 2026-11-11T23:42:33+00:00	Marvel 1943: Rise of Hydra is light on gameplay, primarily using only one button and lacking significant interaction, according to an insider https://www.reddit.com/r/Games/comments/1xtxf4i/marvel_1943_rise_of_hydra_is_light_on_gameplay/
-2026-11-12T04:12:16+00:00	Lola's Familiars: Prison of Argnoh - Reveal Trailer https://www.reddit.com/r/Games/comments/1xu32go/lolas_familiars_prison_of_argnoh_reveal_trailer/
 2026-11-12T06:17:45+00:00	Nintendo Takes Down Switch Emulators and Mod Chip Firmware in Massive GitHub DMCA Sweep https://www.reddit.com/r/Games/comments/1xu5cb5/nintendo_takes_down_switch_emulators_and_mod_chip/
-2026-11-12T07:12:26+00:00	Romancing SaGa 3: Destinies United release date moved up to February 4, 2027 https://www.reddit.com/r/Games/comments/1xu696w/romancing_saga_3_destinies_united_release_date/
-2026-11-12T08:39:10+00:00	Automaton-Media: List of games held up by the recent slow down of Steam's review process https://www.reddit.com/r/Games/comments/1xu7mmq/automatonmedia_list_of_games_held_up_by_the/
 2026-11-12T09:21:02+00:00	Humble Bundle Undergoes A Vibecoded-Looking Redesign, Forgets To Implement Full Account Security https://www.reddit.com/r/Games/comments/1xu8a8o/humble_bundle_undergoes_a_vibecodedlooking/
-2026-11-12T09:30:25+00:00	Kazutaka Kodaka jokes that his studio sometimes submits builds “no one should ever play” in order to meet absurd deadlines, prays players will install patches https://www.reddit.com/r/Games/comments/1xu8fbk/kazutaka_kodaka_jokes_that_his_studio_sometimes/
 2026-11-12T11:43:24+00:00	Square Enix sees steady profit growth in its game business thanks to Final Fantasy 7 Rebirth Switch 2 release and The Adventures of Elliot https://www.reddit.com/r/Games/comments/1xuanft/square_enix_sees_steady_profit_growth_in_its_game/
+2026-11-12T13:54:37+00:00	NVIDIA Announces CEO Transition https://www.reddit.com/r/Games/comments/1xudcgx/nvidia_announces_ceo_transition/
+2026-11-12T14:03:16+00:00	Marathon | Dev Deep Dive: Expedition - Phase 1 https://www.reddit.com/r/Games/comments/1xudkcr/marathon_dev_deep_dive_expedition_phase_1/
+2026-11-12T14:49:24+00:00	Palworld Dev Gives All Employees a GTA 6 Holiday Lasting Five Days https://www.reddit.com/r/Games/comments/1xuep60/palworld_dev_gives_all_employees_a_gta_6_holiday/
+2026-11-12T15:34:43+00:00	US Loses Grip on $121 Billion Mobile Gaming Sector to China https://www.reddit.com/r/Games/comments/1xufuzz/us_loses_grip_on_121_billion_mobile_gaming_sector/
+2026-11-12T16:15:39+00:00	GTA 6 Has 'Far Too Much Genital Exposure,' According To South Korean Regulators https://www.reddit.com/r/Games/comments/1xugy3c/gta_6_has_far_too_much_genital_exposure_according/
+2026-11-12T16:18:46+00:00	The Archives of Trevosa - Official Announcement Trailer https://www.reddit.com/r/Games/comments/1xuh10s/the_archives_of_trevosa_official_announcement/
+2026-11-12T17:07:57+00:00	Warhammer 40,000: Darktide - Sisters Novitiate | Class Reveal Trailer https://www.reddit.com/r/Games/comments/1xuicsw/warhammer_40000_darktide_sisters_novitiate_class/
+2026-11-12T17:32:46+00:00	Halo: Campaign Evolved Players Can Jump Into Firefight for Free This Winter https://www.reddit.com/r/Games/comments/1xuj1bg/halo_campaign_evolved_players_can_jump_into/
+2026-11-12T18:00:14+00:00	GRIME 2 – New Update & Nintendo Switch Announcement Trailer https://www.reddit.com/r/Games/comments/1xujs4e/grime_2_new_update_nintendo_switch_announcement/
+2026-11-12T18:04:13+00:00	One in three games industry professionals surveyed by GDC were laid off in the past two years, more than in its last report https://www.reddit.com/r/Games/comments/1xujw1b/one_in_three_games_industry_professionals/
+2026-11-12T18:15:10+00:00	The Game Awards Adds Disney+ to Livestream Lineup. “As the evening unfolds, viewers can expect major announcements and surprises from some of Disney’s most anticipated titles in gaming.” https://www.reddit.com/r/Games/comments/1xuk6ri/the_game_awards_adds_disney_to_livestream_lineup/
+2026-11-12T18:28:22+00:00	GDC State of the Game Industry report: 40% of developers are using generative AI for work https://www.reddit.com/r/Games/comments/1xukjqj/gdc_state_of_the_game_industry_report_40_of/
+2026-11-12T18:41:47+00:00	Hot Dogs, Horseshoes & Hand Grenades 2 - Release Trailer https://www.reddit.com/r/Games/comments/1xukwl6/hot_dogs_horseshoes_hand_grenades_2_release/
+2026-11-12T19:15:26+00:00	Fable - Official Quest Gameplay | XBOX 25th Anniversary https://www.reddit.com/r/Games/comments/1xultqy/fable_official_quest_gameplay_xbox_25th/
+2026-11-12T19:24:49+00:00	BALL x PIT: Risen Ballbylon is Out Now! https://www.reddit.com/r/Games/comments/1xum2zj/ball_x_pit_risen_ballbylon_is_out_now/
+2026-11-12T19:28:00+00:00	There were 47 graphics chip makers in 1998. Where did they all go? https://www.reddit.com/r/Games/comments/1xum63t/there_were_47_graphics_chip_makers_in_1998_where/
+2026-11-12T19:41:36+00:00	Ape Escape: Million Monkeys Full English Patch released! https://www.reddit.com/r/Games/comments/1xumjeo/ape_escape_million_monkeys_full_english_patch/
+2026-11-12T20:06:44+00:00	Doom Developer id Software Confirms Work on New Game, Will Be Directed by Hugo Martin https://www.reddit.com/r/Games/comments/1xun7wz/doom_developer_id_software_confirms_work_on_new/
+2026-11-12T20:32:26+00:00	Slay the Spire 2 - Beta Patch Notes - v0.113.0 - New Character and 2 New Game Modes https://www.reddit.com/r/Games/comments/1xunvei/slay_the_spire_2_beta_patch_notes_v01130_new/

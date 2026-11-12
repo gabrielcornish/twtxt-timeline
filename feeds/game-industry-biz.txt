@@ -3,12 +3,6 @@
 # source = https://www.gamesindustry.biz/feed
 # description = twtxt conversion of https://www.gamesindustry.biz/feed
 
-2026-11-02T13:30:00+00:00	"We all met by doing improv comedy" – The Los Angeles indie studio making a comedy game in one of the most expensive places for game dev in the world https://www.gamesindustry.biz/we-all-met-by-doing-improv-comedy-the-los-angeles-indie-studio-making-a-comedy-game-in-one-of-the-most-expensive-places-for-game-dev-in-the-world
-2026-11-02T14:32:18+00:00	Gamescom Asia x Thailand Game Show "most international yet", attracting nearly 220,000 visitors from 113 countries https://www.gamesindustry.biz/gamescom-asia-x-thailand-game-show-most-international-yet-attracting-nearly-220000-visitors-from-113-countries
-2026-11-02T17:50:20+00:00	Anthropic adds rule to stop Claude Code recreating existing games https://www.gamesindustry.biz/anthropic-adds-rule-to-stop-claude-code-recreating-existing-games
-2026-11-02T19:34:05+00:00	Astragon closes Independent Arts successor studio Astragon Development https://www.gamesindustry.biz/astragon-closes-independent-arts-successor-studio-astragon-development
-2026-11-02T21:28:03+00:00	CI Games secures $32 million loan to finish and self-publish Lords of the Fallen 2 https://www.gamesindustry.biz/ci-games-secures-32-million-loan-to-finish-and-self-publish-lords-of-the-fallen-2
-2026-11-02T21:46:06+00:00	Saudi-backed Kingdom of Gaming event delayed to 2027 https://www.gamesindustry.biz/saudi-backed-kingdom-of-gaming-event-delayed-to-2027
 2026-11-03T08:39:15+00:00	Remedy Q3 revenue triples to €39.6m following launch of Control Resonant https://www.gamesindustry.biz/remedy-q3-revenue-triples-to-396m-following-launch-of-control-resonant
 2026-11-03T12:24:23+00:00	AppMagic: Non-gaming apps have beaten mobile games in IAP revenue since 2016 https://www.gamesindustry.biz/appmagic-non-gaming-apps-have-beaten-mobile-games-in-iap-revenue-since-2016
 2026-11-03T13:30:00+00:00	The launch is not the end: How Beholder: Conductor equalled its launch sales 15 months after release https://www.gamesindustry.biz/the-launch-is-not-the-end-how-beholder-conductor-equalled-its-launch-sales-15-months-after-release
@@ -53,3 +47,9 @@
 2026-11-12T08:34:30+00:00	Fredrik Wester steps down as Paradox Interactive CEO https://www.gamesindustry.biz/fredrik-wester-steps-down-as-paradox-interactive-ceo
 2026-11-12T10:17:40+00:00	Laid-off Id Software devs form employee-owned studio Hidden Horses https://www.gamesindustry.biz/laid-off-id-software-devs-form-employee-owned-studio-hidden-horses
 2026-11-12T11:53:40+00:00	Black Forest Games spins out from THQ Nordic, co-founds indie studio group Third Signal https://www.gamesindustry.biz/black-forest-games-spins-out-from-thq-nordic-co-founds-indie-studio-group-third-signal
+2026-11-12T14:00:00+00:00	Eve Online maker Fenris Creations is adding a rendering technique to its open-source Carbon engine that promises more accurate shading and greater depth https://www.gamesindustry.biz/eve-online-maker-fenris-creations-is-adding-a-rendering-technique-to-its-open-source-carbon-engine-that-promises-more-accurate-shading-and-greater-depth
+2026-11-12T14:36:10+00:00	German Games Industry Association warns Digital Fairness Act could cause "double regulation and legal uncertainty" https://www.gamesindustry.biz/german-games-industry-association-warns-digital-fairness-act-could-cause-double-regulation-and-legal-uncertainty
+2026-11-12T14:42:10+00:00	Resident Evil Requiem wins four Golden Joystick Awards, including Ultimate and Console GOTY https://www.gamesindustry.biz/resident-evil-requiem-wins-four-golden-joystick-awards-including-ultimate-and-console-goty
+2026-11-12T16:00:00+00:00	"It's about giving more great games a chance" – Why Launchable thinks it can help more independent studios reach the market with its shared success model https://www.gamesindustry.biz/its-about-giving-more-great-games-a-chance-why-launchable-thinks-it-can-help-more-independent-studios-reach-the-market-with-its-shared-success-model
+2026-11-12T17:00:00+00:00	GDC's Mark DeLoura addresses the event's dip in attendance in 2026 as he details the planned changes for 2027 https://www.gamesindustry.biz/gdcs-mark-deloura-addresses-the-events-dip-in-attendance-in-2026-as-he-details-the-planned-changes-for-2027
+2026-11-12T17:00:00+00:00	GDC State of the Game Industry report: 40% of developers are using generative AI for work https://www.gamesindustry.biz/gdc-state-of-the-game-industry-report-40-of-developers-are-using-generative-ai-for-work
