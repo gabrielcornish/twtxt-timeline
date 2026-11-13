@@ -5,10 +5,8 @@
 
 2026-11-11T12:00:28+00:00	Daily /r/Games Discussion - Suggest Me a Game - November 11, 2026 https://www.reddit.com/r/Games/comments/1xtfyjj/daily_rgames_discussion_suggest_me_a_game/
 2026-11-11T23:02:55+00:00	Nvidia is preparing to oust CEO Jensen Huang, WSJ reports https://www.reddit.com/r/Games/comments/1xtwix2/nvidia_is_preparing_to_oust_ceo_jensen_huang_wsj/
-2026-11-12T06:17:45+00:00	Nintendo Takes Down Switch Emulators and Mod Chip Firmware in Massive GitHub DMCA Sweep https://www.reddit.com/r/Games/comments/1xu5cb5/nintendo_takes_down_switch_emulators_and_mod_chip/
 2026-11-12T09:21:02+00:00	Humble Bundle Undergoes A Vibecoded-Looking Redesign, Forgets To Implement Full Account Security https://www.reddit.com/r/Games/comments/1xu8a8o/humble_bundle_undergoes_a_vibecodedlooking/
 2026-11-12T13:54:37+00:00	NVIDIA Announces CEO Transition https://www.reddit.com/r/Games/comments/1xudcgx/nvidia_announces_ceo_transition/
-2026-11-12T14:03:16+00:00	Marathon | Dev Deep Dive: Expedition - Phase 1 https://www.reddit.com/r/Games/comments/1xudkcr/marathon_dev_deep_dive_expedition_phase_1/
 2026-11-12T14:49:24+00:00	Palworld Dev Gives All Employees a GTA 6 Holiday Lasting Five Days https://www.reddit.com/r/Games/comments/1xuep60/palworld_dev_gives_all_employees_a_gta_6_holiday/
 2026-11-12T15:34:43+00:00	US Loses Grip on $121 Billion Mobile Gaming Sector to China https://www.reddit.com/r/Games/comments/1xufuzz/us_loses_grip_on_121_billion_mobile_gaming_sector/
 2026-11-12T16:15:39+00:00	GTA 6 Has 'Far Too Much Genital Exposure,' According To South Korean Regulators https://www.reddit.com/r/Games/comments/1xugy3c/gta_6_has_far_too_much_genital_exposure_according/
@@ -20,7 +18,6 @@
 2026-11-12T19:15:26+00:00	Fable - Official Quest Gameplay | XBOX 25th Anniversary https://www.reddit.com/r/Games/comments/1xultqy/fable_official_quest_gameplay_xbox_25th/
 2026-11-12T19:24:49+00:00	BALL x PIT: Risen Ballbylon is Out Now! https://www.reddit.com/r/Games/comments/1xum2zj/ball_x_pit_risen_ballbylon_is_out_now/
 2026-11-12T19:28:00+00:00	There were 47 graphics chip makers in 1998. Where did they all go? https://www.reddit.com/r/Games/comments/1xum63t/there_were_47_graphics_chip_makers_in_1998_where/
-2026-11-12T19:41:36+00:00	Ape Escape: Million Monkeys Full English Patch released! https://www.reddit.com/r/Games/comments/1xumjeo/ape_escape_million_monkeys_full_english_patch/
 2026-11-12T19:53:01+00:00	Xbox boss seemingly champions gen-AI development as she celebrates 25 years of Xbox: "A small team will be able to build worlds that today demand hundreds of developers" https://www.reddit.com/r/Games/comments/1xumufc/xbox_boss_seemingly_champions_genai_development/
 2026-11-12T20:06:44+00:00	Doom Developer id Software Confirms Work on New Game, Will Be Directed by Hugo Martin https://www.reddit.com/r/Games/comments/1xun7wz/doom_developer_id_software_confirms_work_on_new/
 2026-11-12T20:32:26+00:00	Slay the Spire 2 - Beta Patch Notes - v0.113.0 - New Character and 2 New Game Modes https://www.reddit.com/r/Games/comments/1xunvei/slay_the_spire_2_beta_patch_notes_v01130_new/
@@ -28,3 +25,6 @@
 2026-11-12T22:31:45+00:00	DOOM: The Dark Ages | Revelations - Slaughter Mode Official Trailer | Available November 16 https://www.reddit.com/r/Games/comments/1xuquiu/doom_the_dark_ages_revelations_slaughter_mode/
 2026-11-13T00:00:04+00:00	Sonic the Hedgehog: Memories and Beyond - 35th Anniversary Animation https://www.reddit.com/r/Games/comments/1xusujv/sonic_the_hedgehog_memories_and_beyond_35th/
 2026-11-13T00:07:06+00:00	Asha Sharma announces the next Wolfenstein game is in production at MachineGames https://www.reddit.com/r/Games/comments/1xut1bq/asha_sharma_announces_the_next_wolfenstein_game/
+2026-11-13T01:20:08+00:00	Monomoon - Launch Trailer https://www.reddit.com/r/Games/comments/1xuum81/monomoon_launch_trailer/
+2026-11-13T02:52:54+00:00	[Ghost Ship Games] Everything we fixed in Rogue Core (+free weekend November 12-16, 2026) https://www.reddit.com/r/Games/comments/1xuwj7c/ghost_ship_games_everything_we_fixed_in_rogue/
+2026-11-13T06:29:03+00:00	Shade of the Marionette - Official First Trailer https://www.reddit.com/r/Games/comments/1xv0kvq/shade_of_the_marionette_official_first_trailer/

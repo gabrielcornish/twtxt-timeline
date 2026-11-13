@@ -3,8 +3,6 @@
 # source = https://www.gamesindustry.biz/feed
 # description = twtxt conversion of https://www.gamesindustry.biz/feed
 
-2026-11-03T08:39:15+00:00	Remedy Q3 revenue triples to €39.6m following launch of Control Resonant https://www.gamesindustry.biz/remedy-q3-revenue-triples-to-396m-following-launch-of-control-resonant
-2026-11-03T12:24:23+00:00	AppMagic: Non-gaming apps have beaten mobile games in IAP revenue since 2016 https://www.gamesindustry.biz/appmagic-non-gaming-apps-have-beaten-mobile-games-in-iap-revenue-since-2016
 2026-11-03T13:30:00+00:00	The launch is not the end: How Beholder: Conductor equalled its launch sales 15 months after release https://www.gamesindustry.biz/the-launch-is-not-the-end-how-beholder-conductor-equalled-its-launch-sales-15-months-after-release
 2026-11-03T14:51:34+00:00	How traditional book clubs inspired The Game Club to help gamers forge friendships as adults https://www.gamesindustry.biz/how-traditional-book-clubs-inspired-the-game-club-to-help-gamers-forge-friendships-as-adults
 2026-11-04T08:35:49+00:00	Ubisoft reportedly seeking to acquire Arkane Lyon from Xbox https://www.gamesindustry.biz/ubisoft-reportedly-seeking-to-acquire-arkane-lyon-from-xbox
@@ -51,5 +49,7 @@
 2026-11-12T14:36:10+00:00	German Games Industry Association warns Digital Fairness Act could cause "double regulation and legal uncertainty" https://www.gamesindustry.biz/german-games-industry-association-warns-digital-fairness-act-could-cause-double-regulation-and-legal-uncertainty
 2026-11-12T14:42:10+00:00	Resident Evil Requiem wins four Golden Joystick Awards, including Ultimate and Console GOTY https://www.gamesindustry.biz/resident-evil-requiem-wins-four-golden-joystick-awards-including-ultimate-and-console-goty
 2026-11-12T16:00:00+00:00	"It's about giving more great games a chance" – Why Launchable thinks it can help more independent studios reach the market with its shared success model https://www.gamesindustry.biz/its-about-giving-more-great-games-a-chance-why-launchable-thinks-it-can-help-more-independent-studios-reach-the-market-with-its-shared-success-model
-2026-11-12T17:00:00+00:00	GDC's Mark DeLoura addresses the event's dip in attendance in 2026 as he details the planned changes for 2027 https://www.gamesindustry.biz/gdcs-mark-deloura-addresses-the-events-dip-in-attendance-in-2026-as-he-details-the-planned-changes-for-2027
 2026-11-12T17:00:00+00:00	GDC State of the Game Industry report: 40% of developers are using generative AI for work https://www.gamesindustry.biz/gdc-state-of-the-game-industry-report-40-of-developers-are-using-generative-ai-for-work
+2026-11-12T17:00:00+00:00	GDC's Mark DeLoura addresses the event's dip in attendance in 2026 as he details the planned changes for 2027 https://www.gamesindustry.biz/gdcs-mark-deloura-addresses-the-events-dip-in-attendance-in-2026-as-he-details-the-planned-changes-for-2027
+2026-11-13T08:12:50+00:00	Nvidia's Jensen Huang resigns as CEO amid reports of affairs with alleged Chinese spy and two employees https://www.gamesindustry.biz/nvidias-jensen-huang-resigns-as-ceo-amid-reports-of-affairs-with-alleged-chinese-spy-and-two-employees
+2026-11-13T09:33:30+00:00	MapleStory franchise Q3 revenue rises 72%, drives overall growth for Nexon https://www.gamesindustry.biz/maplestory-franchise-q3-revenue-rises-72-drives-overall-growth-for-nexon

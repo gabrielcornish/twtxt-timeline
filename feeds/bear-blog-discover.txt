@@ -6,10 +6,8 @@
 2026-11-10T01:22:03.365192+00:00	I am moving to Switzerland https://toska.bearblog.dev/i-am-moving-to-switzerland/
 2026-11-10T07:16:00+00:00	on Today's Main Character https://blog.damonreece.com/on-todays-main-character/
 2026-11-10T18:43:39.179351+00:00	i just want to make people happy https://rnotte.art/i-just-want-to-make-people-happy/
-2026-11-11T13:20:05.591896+00:00	The Happiest Man https://kangminsuk.com/the-happiest-man/
 2026-11-11T14:55:00+00:00	...how to host a game night! https://coreyblogs.com/how-to-host-a-game-night/
 2026-11-11T16:52:00+00:00	Claude for Obsidian, really? https://topopa.bearblog.dev/claude-for-obsidian-really/
-2026-11-11T20:04:08.177946+00:00	abridged dictionary of overused words in book reviews https://cherrysroom.bearblog.dev/abridged-dictionary-of-overused-words-in-book-reviews/
 2026-11-12T01:29:00+00:00	back in the day, we used to speak to each other https://tiramisu.bearblog.dev/we-used-to-speak/
 2026-11-12T01:59:00+00:00	spherical https://jennfrank.bearblog.dev/spherical/
 2026-11-12T03:00:00+00:00	那些靠人命堆出来的奇观 https://blog.solazy.me/20261112/
@@ -19,7 +17,9 @@
 2026-11-12T12:23:44.378323+00:00	The AI Question https://kangminsuk.com/the-ai-question/
 2026-11-12T13:26:00+00:00	...a question for Bear Blog: Are you dating? https://coreyblogs.com/secondhand-stories-from-the-dating-pool/
 2026-11-12T16:54:00+00:00	RE: Being present should not be complicated https://widdershins.verja.net/re-being-present-should-not-be-complicated/
-2026-11-12T19:57:57.672447+00:00	Vol. 10 https://whenyougetasecond.bearblog.dev/vol-10/
 2026-11-12T20:37:00+00:00	Loneliness Before Aggro, and a Graphics Card I Can't Afford https://thecynicalnerd.bearblog.dev/loneliness-before-aggro-and-a-graphics-card-i-cant-afford/
-2026-11-12T21:58:00+00:00	CADA, l'approccio sbagliato dell'Europa alla sovranità digitale - EDRi https://mbtrad.bearblog.dev/cada-approccio-sbagliato-europa-sovranita-digitale-edri/
-2026-11-13T00:04:59.229459+00:00	Jika Bukan Semua Itu https://alang-alang.bearblog.dev/jika-bukan-semua-itu/
+2026-11-12T22:53:33.070577+00:00	What I’ve learned from this Microsoft outage https://futureperfect.bearblog.dev/what-ive-learned-from-this-microsoft-outage/
+2026-11-13T00:04:00+00:00	Jika Bukan Semua Itu https://alang-alang.bearblog.dev/jika-bukan-semua-itu/
+2026-11-13T05:21:00+00:00	trends that are going away, possibly? https://cherrysroom.bearblog.dev/trends-that-are-going-away-possibly/
+2026-11-13T05:40:00+00:00	WOKE feminist EXPOSES left-wing anti-meme (NOT CLICKBAIT) https://www.jenn.site/woke-feminist-exposes-left-wing-anti-meme-not-clickbait/
+2026-11-13T06:42:00+00:00	Wella, hi https://sparklewater.bearblog.dev/wella-hi/
