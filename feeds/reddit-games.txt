@@ -4,15 +4,9 @@
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
 2026-11-11T12:00:28+00:00	Daily /r/Games Discussion - Suggest Me a Game - November 11, 2026 https://www.reddit.com/r/Games/comments/1xtfyjj/daily_rgames_discussion_suggest_me_a_game/
-2026-11-12T09:21:02+00:00	Humble Bundle Undergoes A Vibecoded-Looking Redesign, Forgets To Implement Full Account Security https://www.reddit.com/r/Games/comments/1xu8a8o/humble_bundle_undergoes_a_vibecodedlooking/
 2026-11-12T13:54:37+00:00	NVIDIA Announces CEO Transition https://www.reddit.com/r/Games/comments/1xudcgx/nvidia_announces_ceo_transition/
-2026-11-12T14:49:24+00:00	Palworld Dev Gives All Employees a GTA 6 Holiday Lasting Five Days https://www.reddit.com/r/Games/comments/1xuep60/palworld_dev_gives_all_employees_a_gta_6_holiday/
 2026-11-12T16:15:39+00:00	GTA 6 Has 'Far Too Much Genital Exposure,' According To South Korean Regulators https://www.reddit.com/r/Games/comments/1xugy3c/gta_6_has_far_too_much_genital_exposure_according/
-2026-11-12T17:07:57+00:00	Warhammer 40,000: Darktide - Sisters Novitiate | Class Reveal Trailer https://www.reddit.com/r/Games/comments/1xuicsw/warhammer_40000_darktide_sisters_novitiate_class/
-2026-11-12T19:15:26+00:00	Fable - Official Quest Gameplay | XBOX 25th Anniversary https://www.reddit.com/r/Games/comments/1xultqy/fable_official_quest_gameplay_xbox_25th/
 2026-11-12T19:28:00+00:00	There were 47 graphics chip makers in 1998. Where did they all go? https://www.reddit.com/r/Games/comments/1xum63t/there_were_47_graphics_chip_makers_in_1998_where/
-2026-11-12T20:06:44+00:00	Doom Developer id Software Confirms Work on New Game, Will Be Directed by Hugo Martin https://www.reddit.com/r/Games/comments/1xun7wz/doom_developer_id_software_confirms_work_on_new/
-2026-11-12T20:32:26+00:00	Slay the Spire 2 - Beta Patch Notes - v0.113.0 - New Character and 2 New Game Modes https://www.reddit.com/r/Games/comments/1xunvei/slay_the_spire_2_beta_patch_notes_v01130_new/
 2026-11-12T21:29:06+00:00	25 Original XBOX Games Available Today on PC via XBOX Backward Compatibility https://www.reddit.com/r/Games/comments/1xupakv/25_original_xbox_games_available_today_on_pc_via/
 2026-11-13T00:07:06+00:00	Asha Sharma announces the next Wolfenstein game is in production at MachineGames https://www.reddit.com/r/Games/comments/1xut1bq/asha_sharma_announces_the_next_wolfenstein_game/
 2026-11-13T11:00:48+00:00	Daily /r/Games Discussion - Free Talk Friday - November 13, 2026 https://www.reddit.com/r/Games/comments/1xv4y22/daily_rgames_discussion_free_talk_friday_november/
@@ -28,3 +22,9 @@
 2026-11-13T15:25:59+00:00	God of War Sons of Sparta: new content and PS4 version arrive November 16 https://www.reddit.com/r/Games/comments/1xvaqmm/god_of_war_sons_of_sparta_new_content_and_ps4/
 2026-11-13T17:04:00+00:00	Ahead of ‘Grand Theft Auto VI,’ Rockstar Votes on Unions https://www.reddit.com/r/Games/comments/1xvdcdk/ahead_of_grand_theft_auto_vi_rockstar_votes_on/
 2026-11-13T17:05:03+00:00	SCRAPSCRAP - Launch Trailer https://www.reddit.com/r/Games/comments/1xvdddm/scrapscrap_launch_trailer/
+2026-11-13T17:06:44+00:00	Professor Layton and the New World of Steam - English Voice Cast https://www.reddit.com/r/Games/comments/1xvdez1/professor_layton_and_the_new_world_of_steam/
+2026-11-13T18:05:50+00:00	Selaco | The Machines of War - Free Update Trailer https://www.reddit.com/r/Games/comments/1xvf17i/selaco_the_machines_of_war_free_update_trailer/
+2026-11-13T18:17:05+00:00	Geoff Keighley - The Game Awards 2026's nominees will be revealed this Tuesday Live at 12 p.m. ET / 9 a.m PT / 5p GMT https://www.reddit.com/r/Games/comments/1xvfc03/geoff_keighley_the_game_awards_2026s_nominees/
+2026-11-13T18:18:05+00:00	Rainbow Six: Vegas Series Set to Return After Nearly Two Decades - Insider Gaming https://www.reddit.com/r/Games/comments/1xvfd3m/rainbow_six_vegas_series_set_to_return_after/
+2026-11-13T18:39:05+00:00	PIONER is shutting down https://www.reddit.com/r/Games/comments/1xvfxa4/pioner_is_shutting_down/
+2026-11-13T20:28:44+00:00	Pokémon Collector Discovers Rare Playable Copy of PokéPark Fishing Rally DS https://www.reddit.com/r/Games/comments/1xvis3c/pokémon_collector_discovers_rare_playable_copy_of/
