@@ -3,11 +3,6 @@
 # source = https://www.gamesindustry.biz/feed
 # description = twtxt conversion of https://www.gamesindustry.biz/feed
 
-2026-11-03T13:30:00+00:00	The launch is not the end: How Beholder: Conductor equalled its launch sales 15 months after release https://www.gamesindustry.biz/the-launch-is-not-the-end-how-beholder-conductor-equalled-its-launch-sales-15-months-after-release
-2026-11-03T14:51:34+00:00	How traditional book clubs inspired The Game Club to help gamers forge friendships as adults https://www.gamesindustry.biz/how-traditional-book-clubs-inspired-the-game-club-to-help-gamers-forge-friendships-as-adults
-2026-11-04T08:35:49+00:00	Ubisoft reportedly seeking to acquire Arkane Lyon from Xbox https://www.gamesindustry.biz/ubisoft-reportedly-seeking-to-acquire-arkane-lyon-from-xbox
-2026-11-04T10:43:47+00:00	Advertising Standards Authority bans mobile ads from King, Scopely, and others for misrepresenting gameplay https://www.gamesindustry.biz/advertising-standards-authority-bans-mobile-ads-from-king-scopely-and-others-for-misrepresenting-gameplay
-2026-11-04T13:30:00+00:00	"I realised I might only have time to make one more game, so I wanted to try something new" – Tekken director Katsuhiro Harada on starting VS Studio https://www.gamesindustry.biz/i-realised-i-might-only-have-time-to-make-one-more-game-so-i-wanted-to-try-something-new-tekken-director-katsuhiro-harada-on-starting-vs-studio
 2026-11-04T15:51:40+00:00	Meet the UK's 2026 video game BAFTA Breakthroughs https://www.gamesindustry.biz/meet-the-uks-2026-video-game-bafta-breakthroughs
 2026-11-04T18:56:00+00:00	Analysis: one in three acquired game studios has been shut down since 2000 https://www.gamesindustry.biz/analysis-one-in-three-acquired-game-studios-has-been-shut-down-since-2000
 2026-11-04T20:17:10+00:00	Arkane union accuses Microsoft of "sabotaging" Marvel's Blade with 19-month hiring freeze https://www.gamesindustry.biz/arkane-union-accuses-microsoft-of-sabotaging-marvels-blade-with-19-month-hiring-freeze
@@ -53,3 +48,8 @@
 2026-11-12T17:00:00+00:00	GDC's Mark DeLoura addresses the event's dip in attendance in 2026 as he details the planned changes for 2027 https://www.gamesindustry.biz/gdcs-mark-deloura-addresses-the-events-dip-in-attendance-in-2026-as-he-details-the-planned-changes-for-2027
 2026-11-13T08:12:50+00:00	Nvidia's Jensen Huang resigns as CEO amid reports of affairs with alleged Chinese spy and two employees https://www.gamesindustry.biz/nvidias-jensen-huang-resigns-as-ceo-amid-reports-of-affairs-with-alleged-chinese-spy-and-two-employees
 2026-11-13T09:33:30+00:00	MapleStory franchise Q3 revenue rises 72%, drives overall growth for Nexon https://www.gamesindustry.biz/maplestory-franchise-q3-revenue-rises-72-drives-overall-growth-for-nexon
+2026-11-13T12:00:00+00:00	Steam's submission and approval backlog is forcing indie devs to delay game launches https://www.gamesindustry.biz/steams-submission-and-approval-backlog-is-forcing-indie-devs-to-delay-game-launches
+2026-11-13T12:04:00+00:00	"It's a wild situation" – An investor and publisher perspective on the rise of AI copycats, the discoverability crisis, and more https://www.gamesindustry.biz/its-a-wild-situation-an-investor-and-publisher-perspective-on-the-rise-of-ai-copycats-the-discoverability-crisis-and-more
+2026-11-13T13:42:30+00:00	The Digital Fairness Act is a decade-long bill coming due | Opinion https://www.gamesindustry.biz/the-digital-fairness-act-is-a-decade-long-bill-coming-due-opinion
+2026-11-13T14:43:20+00:00	CD Projekt Red used AI to alter the voice of Geralt's original Polish actor in Witcher 3: Songs of the Past https://www.gamesindustry.biz/cd-projekt-red-used-ai-to-alter-the-voice-of-geralts-original-polish-actor-in-witcher-3-songs-of-the-past
+2026-11-13T15:00:00+00:00	How to protect your IP against the army of AI clones https://www.gamesindustry.biz/how-to-protect-your-ip-against-the-army-of-ai-clones

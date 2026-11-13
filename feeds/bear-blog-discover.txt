@@ -3,23 +3,23 @@
 # source = https://bearblog.dev/discover/feed/
 # description = twtxt conversion of https://bearblog.dev/discover/feed/
 
-2026-11-10T01:22:03.365192+00:00	I am moving to Switzerland https://toska.bearblog.dev/i-am-moving-to-switzerland/
-2026-11-10T07:16:00+00:00	on Today's Main Character https://blog.damonreece.com/on-todays-main-character/
 2026-11-10T18:43:39.179351+00:00	i just want to make people happy https://rnotte.art/i-just-want-to-make-people-happy/
-2026-11-11T14:55:00+00:00	...how to host a game night! https://coreyblogs.com/how-to-host-a-game-night/
 2026-11-11T16:52:00+00:00	Claude for Obsidian, really? https://topopa.bearblog.dev/claude-for-obsidian-really/
 2026-11-12T01:29:00+00:00	back in the day, we used to speak to each other https://tiramisu.bearblog.dev/we-used-to-speak/
-2026-11-12T01:59:00+00:00	spherical https://jennfrank.bearblog.dev/spherical/
 2026-11-12T03:00:00+00:00	那些靠人命堆出来的奇观 https://blog.solazy.me/20261112/
 2026-11-12T04:40:00+00:00	How To Get A Friend To Leave An Abusive Relationship https://www.jenn.site/how-to-get-a-friend-out-of-an-abusive-relationship/
-2026-11-12T07:22:00+00:00	armistice day https://themustyattic.bearblog.dev/armistice-day/
 2026-11-12T08:18:15.957078+00:00	Overstaying Your Welcome https://commune.cultnorthwest.com/overstaying-your-welcome/
 2026-11-12T12:23:44.378323+00:00	The AI Question https://kangminsuk.com/the-ai-question/
-2026-11-12T13:26:00+00:00	...a question for Bear Blog: Are you dating? https://coreyblogs.com/secondhand-stories-from-the-dating-pool/
+2026-11-12T13:26:00+00:00	...a question for Bear Blog: Are you dating? [Updated] https://coreyblogs.com/secondhand-stories-from-the-dating-pool/
 2026-11-12T16:54:00+00:00	RE: Being present should not be complicated https://widdershins.verja.net/re-being-present-should-not-be-complicated/
 2026-11-12T20:37:00+00:00	Loneliness Before Aggro, and a Graphics Card I Can't Afford https://thecynicalnerd.bearblog.dev/loneliness-before-aggro-and-a-graphics-card-i-cant-afford/
 2026-11-12T22:53:33.070577+00:00	What I’ve learned from this Microsoft outage https://futureperfect.bearblog.dev/what-ive-learned-from-this-microsoft-outage/
 2026-11-13T00:04:00+00:00	Jika Bukan Semua Itu https://alang-alang.bearblog.dev/jika-bukan-semua-itu/
+2026-11-13T04:46:13.805629+00:00	On Giving Advice To People Trapped In Suffering (it's not a good idea) https://otherother.bearblog.dev/on-giving-advice-to-people-trapped-in-suffering-its-not-a-good-idea/
 2026-11-13T05:21:00+00:00	trends that are going away, possibly? https://cherrysroom.bearblog.dev/trends-that-are-going-away-possibly/
 2026-11-13T05:40:00+00:00	WOKE feminist EXPOSES left-wing anti-meme (NOT CLICKBAIT) https://www.jenn.site/woke-feminist-exposes-left-wing-anti-meme-not-clickbait/
 2026-11-13T06:42:00+00:00	Wella, hi https://sparklewater.bearblog.dev/wella-hi/
+2026-11-13T07:48:00+00:00	I am having the time of my life https://blog.lauramichet.com/i-am-having-the-time-of-my-life/
+2026-11-13T12:03:02.814248+00:00	Curious side effect of the MS problem. https://itsme.bearblog.dev/curious-side-effect-of-the-ms-problem/
+2026-11-13T14:00:00.749098+00:00	people have been emailing me and i had no idea https://skuka.online/people-have-been-emailing-me-and-i-had-no-idea/
+2026-11-13T14:20:00+00:00	...a whole entire brand-new page on his personal internet website! https://coreyblogs.com/a-whole-entire-brand-new-page-on-his-personal-internet-website/

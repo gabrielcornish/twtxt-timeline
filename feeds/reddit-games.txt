@@ -4,27 +4,27 @@
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
 2026-11-11T12:00:28+00:00	Daily /r/Games Discussion - Suggest Me a Game - November 11, 2026 https://www.reddit.com/r/Games/comments/1xtfyjj/daily_rgames_discussion_suggest_me_a_game/
-2026-11-11T23:02:55+00:00	Nvidia is preparing to oust CEO Jensen Huang, WSJ reports https://www.reddit.com/r/Games/comments/1xtwix2/nvidia_is_preparing_to_oust_ceo_jensen_huang_wsj/
 2026-11-12T09:21:02+00:00	Humble Bundle Undergoes A Vibecoded-Looking Redesign, Forgets To Implement Full Account Security https://www.reddit.com/r/Games/comments/1xu8a8o/humble_bundle_undergoes_a_vibecodedlooking/
 2026-11-12T13:54:37+00:00	NVIDIA Announces CEO Transition https://www.reddit.com/r/Games/comments/1xudcgx/nvidia_announces_ceo_transition/
 2026-11-12T14:49:24+00:00	Palworld Dev Gives All Employees a GTA 6 Holiday Lasting Five Days https://www.reddit.com/r/Games/comments/1xuep60/palworld_dev_gives_all_employees_a_gta_6_holiday/
-2026-11-12T15:34:43+00:00	US Loses Grip on $121 Billion Mobile Gaming Sector to China https://www.reddit.com/r/Games/comments/1xufuzz/us_loses_grip_on_121_billion_mobile_gaming_sector/
 2026-11-12T16:15:39+00:00	GTA 6 Has 'Far Too Much Genital Exposure,' According To South Korean Regulators https://www.reddit.com/r/Games/comments/1xugy3c/gta_6_has_far_too_much_genital_exposure_according/
 2026-11-12T17:07:57+00:00	Warhammer 40,000: Darktide - Sisters Novitiate | Class Reveal Trailer https://www.reddit.com/r/Games/comments/1xuicsw/warhammer_40000_darktide_sisters_novitiate_class/
-2026-11-12T17:32:46+00:00	Halo: Campaign Evolved Players Can Jump Into Firefight for Free This Winter https://www.reddit.com/r/Games/comments/1xuj1bg/halo_campaign_evolved_players_can_jump_into/
-2026-11-12T18:04:13+00:00	One in three games industry professionals surveyed by GDC were laid off in the past two years, more than in its last report https://www.reddit.com/r/Games/comments/1xujw1b/one_in_three_games_industry_professionals/
-2026-11-12T18:15:10+00:00	The Game Awards Adds Disney+ to Livestream Lineup. “As the evening unfolds, viewers can expect major announcements and surprises from some of Disney’s most anticipated titles in gaming.” https://www.reddit.com/r/Games/comments/1xuk6ri/the_game_awards_adds_disney_to_livestream_lineup/
-2026-11-12T18:28:22+00:00	GDC State of the Game Industry report: 40% of developers are using generative AI for work https://www.reddit.com/r/Games/comments/1xukjqj/gdc_state_of_the_game_industry_report_40_of/
 2026-11-12T19:15:26+00:00	Fable - Official Quest Gameplay | XBOX 25th Anniversary https://www.reddit.com/r/Games/comments/1xultqy/fable_official_quest_gameplay_xbox_25th/
-2026-11-12T19:24:49+00:00	BALL x PIT: Risen Ballbylon is Out Now! https://www.reddit.com/r/Games/comments/1xum2zj/ball_x_pit_risen_ballbylon_is_out_now/
 2026-11-12T19:28:00+00:00	There were 47 graphics chip makers in 1998. Where did they all go? https://www.reddit.com/r/Games/comments/1xum63t/there_were_47_graphics_chip_makers_in_1998_where/
-2026-11-12T19:53:01+00:00	Xbox boss seemingly champions gen-AI development as she celebrates 25 years of Xbox: "A small team will be able to build worlds that today demand hundreds of developers" https://www.reddit.com/r/Games/comments/1xumufc/xbox_boss_seemingly_champions_genai_development/
 2026-11-12T20:06:44+00:00	Doom Developer id Software Confirms Work on New Game, Will Be Directed by Hugo Martin https://www.reddit.com/r/Games/comments/1xun7wz/doom_developer_id_software_confirms_work_on_new/
 2026-11-12T20:32:26+00:00	Slay the Spire 2 - Beta Patch Notes - v0.113.0 - New Character and 2 New Game Modes https://www.reddit.com/r/Games/comments/1xunvei/slay_the_spire_2_beta_patch_notes_v01130_new/
 2026-11-12T21:29:06+00:00	25 Original XBOX Games Available Today on PC via XBOX Backward Compatibility https://www.reddit.com/r/Games/comments/1xupakv/25_original_xbox_games_available_today_on_pc_via/
-2026-11-12T22:31:45+00:00	DOOM: The Dark Ages | Revelations - Slaughter Mode Official Trailer | Available November 16 https://www.reddit.com/r/Games/comments/1xuquiu/doom_the_dark_ages_revelations_slaughter_mode/
-2026-11-13T00:00:04+00:00	Sonic the Hedgehog: Memories and Beyond - 35th Anniversary Animation https://www.reddit.com/r/Games/comments/1xusujv/sonic_the_hedgehog_memories_and_beyond_35th/
 2026-11-13T00:07:06+00:00	Asha Sharma announces the next Wolfenstein game is in production at MachineGames https://www.reddit.com/r/Games/comments/1xut1bq/asha_sharma_announces_the_next_wolfenstein_game/
-2026-11-13T01:20:08+00:00	Monomoon - Launch Trailer https://www.reddit.com/r/Games/comments/1xuum81/monomoon_launch_trailer/
-2026-11-13T02:52:54+00:00	[Ghost Ship Games] Everything we fixed in Rogue Core (+free weekend November 12-16, 2026) https://www.reddit.com/r/Games/comments/1xuwj7c/ghost_ship_games_everything_we_fixed_in_rogue/
-2026-11-13T06:29:03+00:00	Shade of the Marionette - Official First Trailer https://www.reddit.com/r/Games/comments/1xv0kvq/shade_of_the_marionette_official_first_trailer/
+2026-11-13T11:00:48+00:00	Daily /r/Games Discussion - Free Talk Friday - November 13, 2026 https://www.reddit.com/r/Games/comments/1xv4y22/daily_rgames_discussion_free_talk_friday_november/
+2026-11-13T11:00:49+00:00	Road Rash 30th Anniversary Restoration Diaries Documentary: "Reviving the Pure Chaos of Road Rash" https://www.reddit.com/r/Games/comments/1xv4y31/road_rash_30th_anniversary_restoration_diaries/
+2026-11-13T11:02:26+00:00	Wing Commander Restoration Diaries Documentary: 'Celebrating the Legacy of Wing Commander' https://www.reddit.com/r/Games/comments/1xv4z8u/wing_commander_restoration_diaries_documentary/
+2026-11-13T12:33:15+00:00	9 Kings - 1.0 is Released https://www.reddit.com/r/Games/comments/1xv6oqg/9_kings_10_is_released/
+2026-11-13T13:22:59+00:00	ENDACOPIA releases 2027 on PS5, Xbox Series, Switch https://www.reddit.com/r/Games/comments/1xv7rax/endacopia_releases_2027_on_ps5_xbox_series_switch/
+2026-11-13T14:01:54+00:00	QSSR arrives in Marvel’s Spider-Man 2, Control Resonant, The Finals, ARC Raiders, and Hell Let Loose: Vietnam https://www.reddit.com/r/Games/comments/1xv8o0h/qssr_arrives_in_marvels_spiderman_2_control/
+2026-11-13T14:14:33+00:00	Lucky Luke - The Lonesome Cowboy Collection Announced, Releases TBD For PC, PS5, PS4, Xbox Series, Switch 2, Switch 1 https://www.reddit.com/r/Games/comments/1xv8ze2/lucky_luke_the_lonesome_cowboy_collection/
+2026-11-13T14:15:00+00:00	STRANGER THAN HEAVEN - Act 2: Kure Story Trailer https://www.reddit.com/r/Games/comments/1xv8zsv/stranger_than_heaven_act_2_kure_story_trailer/
+2026-11-13T14:31:14+00:00	What is Worms: Galactic Tactics? https://www.reddit.com/r/Games/comments/1xv9dyc/what_is_worms_galactic_tactics/
+2026-11-13T14:43:47+00:00	Vindictus: Defying Fate - Game Overview Trailer https://www.reddit.com/r/Games/comments/1xv9oqj/vindictus_defying_fate_game_overview_trailer/
+2026-11-13T15:25:59+00:00	God of War Sons of Sparta: new content and PS4 version arrive November 16 https://www.reddit.com/r/Games/comments/1xvaqmm/god_of_war_sons_of_sparta_new_content_and_ps4/
+2026-11-13T17:04:00+00:00	Ahead of ‘Grand Theft Auto VI,’ Rockstar Votes on Unions https://www.reddit.com/r/Games/comments/1xvdcdk/ahead_of_grand_theft_auto_vi_rockstar_votes_on/
+2026-11-13T17:05:03+00:00	SCRAPSCRAP - Launch Trailer https://www.reddit.com/r/Games/comments/1xvdddm/scrapscrap_launch_trailer/
