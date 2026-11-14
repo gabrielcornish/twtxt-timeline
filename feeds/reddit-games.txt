@@ -6,17 +6,13 @@
 2026-11-11T12:00:28+00:00	Daily /r/Games Discussion - Suggest Me a Game - November 11, 2026 https://www.reddit.com/r/Games/comments/1xtfyjj/daily_rgames_discussion_suggest_me_a_game/
 2026-11-13T00:07:06+00:00	Asha Sharma announces the next Wolfenstein game is in production at MachineGames https://www.reddit.com/r/Games/comments/1xut1bq/asha_sharma_announces_the_next_wolfenstein_game/
 2026-11-13T11:00:48+00:00	Daily /r/Games Discussion - Free Talk Friday - November 13, 2026 https://www.reddit.com/r/Games/comments/1xv4y22/daily_rgames_discussion_free_talk_friday_november/
-2026-11-13T11:02:26+00:00	Wing Commander Restoration Diaries Documentary: 'Celebrating the Legacy of Wing Commander' https://www.reddit.com/r/Games/comments/1xv4z8u/wing_commander_restoration_diaries_documentary/
 2026-11-13T12:33:15+00:00	9 Kings - 1.0 is Released https://www.reddit.com/r/Games/comments/1xv6oqg/9_kings_10_is_released/
 2026-11-13T13:22:59+00:00	ENDACOPIA releases 2027 on PS5, Xbox Series, Switch https://www.reddit.com/r/Games/comments/1xv7rax/endacopia_releases_2027_on_ps5_xbox_series_switch/
 2026-11-13T14:01:54+00:00	QSSR arrives in Marvel’s Spider-Man 2, Control Resonant, The Finals, ARC Raiders, and Hell Let Loose: Vietnam https://www.reddit.com/r/Games/comments/1xv8o0h/qssr_arrives_in_marvels_spiderman_2_control/
 2026-11-13T14:14:33+00:00	Lucky Luke - The Lonesome Cowboy Collection Announced, Releases TBD For PC, PS5, PS4, Xbox Series, Switch 2, Switch 1 https://www.reddit.com/r/Games/comments/1xv8ze2/lucky_luke_the_lonesome_cowboy_collection/
 2026-11-13T14:31:14+00:00	What is Worms: Galactic Tactics? https://www.reddit.com/r/Games/comments/1xv9dyc/what_is_worms_galactic_tactics/
-2026-11-13T14:43:47+00:00	Vindictus: Defying Fate - Game Overview Trailer https://www.reddit.com/r/Games/comments/1xv9oqj/vindictus_defying_fate_game_overview_trailer/
 2026-11-13T15:25:59+00:00	God of War Sons of Sparta: new content and PS4 version arrive November 16 https://www.reddit.com/r/Games/comments/1xvaqmm/god_of_war_sons_of_sparta_new_content_and_ps4/
 2026-11-13T17:04:00+00:00	Ahead of ‘Grand Theft Auto VI,’ Rockstar Votes on Unions https://www.reddit.com/r/Games/comments/1xvdcdk/ahead_of_grand_theft_auto_vi_rockstar_votes_on/
-2026-11-13T17:05:03+00:00	SCRAPSCRAP - Launch Trailer https://www.reddit.com/r/Games/comments/1xvdddm/scrapscrap_launch_trailer/
-2026-11-13T17:06:44+00:00	Professor Layton and the New World of Steam - English Voice Cast https://www.reddit.com/r/Games/comments/1xvdez1/professor_layton_and_the_new_world_of_steam/
 2026-11-13T18:05:50+00:00	Selaco | The Machines of War - Free Update Trailer https://www.reddit.com/r/Games/comments/1xvf17i/selaco_the_machines_of_war_free_update_trailer/
 2026-11-13T18:17:05+00:00	Geoff Keighley - The Game Awards 2026's nominees will be revealed this Tuesday Live at 12 p.m. ET / 9 a.m PT / 5p GMT https://www.reddit.com/r/Games/comments/1xvfc03/geoff_keighley_the_game_awards_2026s_nominees/
 2026-11-13T18:18:05+00:00	Rainbow Six: Vegas Series Set to Return After Nearly Two Decades - Insider Gaming https://www.reddit.com/r/Games/comments/1xvfd3m/rainbow_six_vegas_series_set_to_return_after/
@@ -28,3 +24,7 @@
 2026-11-14T05:36:45+00:00	Sonic The Hedgehog (commenly known by many as Sonic 06) was released 20 years ago today. https://www.reddit.com/r/Games/comments/1xvufvs/sonic_the_hedgehog_commenly_known_by_many_as/
 2026-11-14T13:18:01+00:00	Vice City was the GTA that established Rockstar's killer formula - and 24 years on, it's still one of the best games ever made https://www.reddit.com/r/Games/comments/1xw27dc/vice_city_was_the_gta_that_established_rockstars/
 2026-11-14T13:29:47+00:00	Super Meat Boy Again+ Announced, Releases TBD on PC https://www.reddit.com/r/Games/comments/1xw2fui/super_meat_boy_again_announced_releases_tbd_on_pc/
+2026-11-14T14:18:22+00:00	Before Resigning, Jensen Huang Admitted He Was Facing an “Avalanche” of Excess Wafers and Memory, New Report Sheds More Light on the GPU & RAM Crisis https://www.reddit.com/r/Games/comments/1xw3hmi/before_resigning_jensen_huang_admitted_he_was/
+2026-11-14T14:45:53+00:00	Tomb Raider: Legacy of Atlantis, the return of the Tomb Raider franchise after a 9 year hiatus and the introduction to the new 'Unified' Lara Croft, is "exceeding expectations". Pre-Orders and Wishlists well above targets, Collectors Editions are sold out. https://www.reddit.com/r/Games/comments/1xw44c1/tomb_raider_legacy_of_atlantis_the_return_of_the/
+2026-11-14T15:18:15+00:00	"How two guys made Queen’s Domain and revived FromSoftware's forgotten era" | Polygon interview https://www.reddit.com/r/Games/comments/1xw4vco/how_two_guys_made_queens_domain_and_revived/
+2026-11-14T17:09:31+00:00	"There's no such thing as easy money in our business" – Strauss Zelnick on GTA 6, BioShock, Take-Two's acquisition plans, and reviving old IP. "We are working on some legacy franchises that we're excited about" https://www.reddit.com/r/Games/comments/1xw7koc/theres_no_such_thing_as_easy_money_in_our/
