@@ -4,14 +4,8 @@
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
 2026-11-11T12:00:28+00:00	Daily /r/Games Discussion - Suggest Me a Game - November 11, 2026 https://www.reddit.com/r/Games/comments/1xtfyjj/daily_rgames_discussion_suggest_me_a_game/
-2026-11-13T00:07:06+00:00	Asha Sharma announces the next Wolfenstein game is in production at MachineGames https://www.reddit.com/r/Games/comments/1xut1bq/asha_sharma_announces_the_next_wolfenstein_game/
 2026-11-13T11:00:48+00:00	Daily /r/Games Discussion - Free Talk Friday - November 13, 2026 https://www.reddit.com/r/Games/comments/1xv4y22/daily_rgames_discussion_free_talk_friday_november/
 2026-11-13T12:33:15+00:00	9 Kings - 1.0 is Released https://www.reddit.com/r/Games/comments/1xv6oqg/9_kings_10_is_released/
-2026-11-13T13:22:59+00:00	ENDACOPIA releases 2027 on PS5, Xbox Series, Switch https://www.reddit.com/r/Games/comments/1xv7rax/endacopia_releases_2027_on_ps5_xbox_series_switch/
-2026-11-13T14:01:54+00:00	QSSR arrives in Marvel’s Spider-Man 2, Control Resonant, The Finals, ARC Raiders, and Hell Let Loose: Vietnam https://www.reddit.com/r/Games/comments/1xv8o0h/qssr_arrives_in_marvels_spiderman_2_control/
-2026-11-13T14:14:33+00:00	Lucky Luke - The Lonesome Cowboy Collection Announced, Releases TBD For PC, PS5, PS4, Xbox Series, Switch 2, Switch 1 https://www.reddit.com/r/Games/comments/1xv8ze2/lucky_luke_the_lonesome_cowboy_collection/
-2026-11-13T14:31:14+00:00	What is Worms: Galactic Tactics? https://www.reddit.com/r/Games/comments/1xv9dyc/what_is_worms_galactic_tactics/
-2026-11-13T15:25:59+00:00	God of War Sons of Sparta: new content and PS4 version arrive November 16 https://www.reddit.com/r/Games/comments/1xvaqmm/god_of_war_sons_of_sparta_new_content_and_ps4/
 2026-11-13T17:04:00+00:00	Ahead of ‘Grand Theft Auto VI,’ Rockstar Votes on Unions https://www.reddit.com/r/Games/comments/1xvdcdk/ahead_of_grand_theft_auto_vi_rockstar_votes_on/
 2026-11-13T18:05:50+00:00	Selaco | The Machines of War - Free Update Trailer https://www.reddit.com/r/Games/comments/1xvf17i/selaco_the_machines_of_war_free_update_trailer/
 2026-11-13T18:17:05+00:00	Geoff Keighley - The Game Awards 2026's nominees will be revealed this Tuesday Live at 12 p.m. ET / 9 a.m PT / 5p GMT https://www.reddit.com/r/Games/comments/1xvfc03/geoff_keighley_the_game_awards_2026s_nominees/
@@ -28,3 +22,9 @@
 2026-11-14T14:45:53+00:00	Tomb Raider: Legacy of Atlantis, the return of the Tomb Raider franchise after a 9 year hiatus and the introduction to the new 'Unified' Lara Croft, is "exceeding expectations". Pre-Orders and Wishlists well above targets, Collectors Editions are sold out. https://www.reddit.com/r/Games/comments/1xw44c1/tomb_raider_legacy_of_atlantis_the_return_of_the/
 2026-11-14T15:18:15+00:00	"How two guys made Queen’s Domain and revived FromSoftware's forgotten era" | Polygon interview https://www.reddit.com/r/Games/comments/1xw4vco/how_two_guys_made_queens_domain_and_revived/
 2026-11-14T17:09:31+00:00	"There's no such thing as easy money in our business" – Strauss Zelnick on GTA 6, BioShock, Take-Two's acquisition plans, and reviving old IP. "We are working on some legacy franchises that we're excited about" https://www.reddit.com/r/Games/comments/1xw7koc/theres_no_such_thing_as_easy_money_in_our/
+2026-11-14T19:18:02+00:00	Phantom Blade Zero has been out for a couple weeks now, what are your thoughts on it? https://www.reddit.com/r/Games/comments/1xwarrr/phantom_blade_zero_has_been_out_for_a_couple/
+2026-11-14T19:31:34+00:00	Do you have any favorite "unnecessary" little touches/moments in games? https://www.reddit.com/r/Games/comments/1xwb3l2/do_you_have_any_favorite_unnecessary_little/
+2026-11-14T19:54:03+00:00	Coffee Stain Rescues Chronicles: Medieval From Bankruptcy https://www.reddit.com/r/Games/comments/1xwbmsh/coffee_stain_rescues_chronicles_medieval_from/
+2026-11-14T20:56:03+00:00	Tavar Announcement Trailer - a Hotline Miami inspired FPS https://www.reddit.com/r/Games/comments/1xwd2ty/tavar_announcement_trailer_a_hotline_miami/
+2026-11-14T22:08:27+00:00	League of Legends: New Dawn Teaser https://www.reddit.com/r/Games/comments/1xwepb1/league_of_legends_new_dawn_teaser/
+2026-11-14T22:35:45+00:00	No One Hurt At Xbox Studio InXile Entertainment After A Gunman Allegedly Opened Fire On The Building https://www.reddit.com/r/Games/comments/1xwfau9/no_one_hurt_at_xbox_studio_inxile_entertainment/

@@ -3,7 +3,6 @@
 # source = https://bearblog.dev/discover/feed/
 # description = twtxt conversion of https://bearblog.dev/discover/feed/
 
-2026-11-11T16:52:00+00:00	Claude for Obsidian, really? https://topopa.bearblog.dev/claude-for-obsidian-really/
 2026-11-12T13:26:00+00:00	...a question for Bear Blog: Are you dating? [Updated x2] https://coreyblogs.com/secondhand-stories-from-the-dating-pool/
 2026-11-12T16:54:00+00:00	RE: Being present should not be complicated https://widdershins.verja.net/re-being-present-should-not-be-complicated/
 2026-11-12T22:53:33.070577+00:00	What I’ve learned from this Microsoft outage https://futureperfect.bearblog.dev/what-ive-learned-from-this-microsoft-outage/
@@ -15,11 +14,12 @@
 2026-11-13T15:21:00+00:00	For you https://fatherlasher.bearblog.dev/for-you/
 2026-11-13T17:23:52.020380+00:00	You’re still here https://robertbirming.com/youre-still-here/
 2026-11-13T18:40:00+00:00	Human writing only https://sparklewater.bearblog.dev/human-writing-only/
-2026-11-13T21:30:07.094639+00:00	...the weekly Ellie! https://coreyblogs.com/the-weekly-ellie-2/
-2026-11-14T03:47:34.606401+00:00	Who Does the Seattle Police Department Protect? https://cultnorthwest.com/who-does-the-seattle-police-department-protect/
 2026-11-14T07:48:00+00:00	Knowember 2026 https://vinceblog.net/knowember-2026/
 2026-11-14T13:23:34.486084+00:00	Did the 'AI doc' blow me off? https://itsme.bearblog.dev/did-the-ai-doc-blow-me-off/
 2026-11-14T14:22:35.616287+00:00	The Game Boy Camera https://whateverthewindbrings.com/the-game-boy-camera/
 2026-11-14T16:19:12.241531+00:00	Knowember https://qwertyfingers.bearblog.dev/knowember/
 2026-11-14T16:31:14.666973+00:00	Washington’s War on Trans Kids Comes With a Permission Slip https://cultnorthwest.com/washingtons-war-on-trans-kids-comes-with-a-permission-slip/
 2026-11-14T17:50:10.551707+00:00	The death you imagine https://zuma9pt5.com/the-death-you-imagine/
+2026-11-14T19:55:24.062647+00:00	Arroz con cosas https://whereabout-f.bearblog.dev/arroz-con-cosas/
+2026-11-14T20:54:00+00:00	El Alisio no vota n°18 https://zastava101letras.bearblog.dev/el-alisio-no-vota-n18/
+2026-11-14T22:07:03.849430+00:00	knowember https://olu.online/knowember/
