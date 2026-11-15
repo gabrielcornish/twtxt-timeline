@@ -3,9 +3,7 @@
 # source = https://www.reddit.com/r/Games.rss
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
-2026-11-14T01:13:22+00:00	Queen's Domain has sold 200k copies in less than 2 weeks. https://www.reddit.com/r/Games/comments/1xvpfav/queens_domain_has_sold_200k_copies_in_less_than_2/
 2026-11-14T13:18:01+00:00	Vice City was the GTA that established Rockstar's killer formula - and 24 years on, it's still one of the best games ever made https://www.reddit.com/r/Games/comments/1xw27dc/vice_city_was_the_gta_that_established_rockstars/
-2026-11-14T13:29:47+00:00	Super Meat Boy Again+ Announced, Releases TBD on PC https://www.reddit.com/r/Games/comments/1xw2fui/super_meat_boy_again_announced_releases_tbd_on_pc/
 2026-11-14T14:18:22+00:00	Before Resigning, Jensen Huang Admitted He Was Facing an “Avalanche” of Excess Wafers and Memory, New Report Sheds More Light on the GPU & RAM Crisis https://www.reddit.com/r/Games/comments/1xw3hmi/before_resigning_jensen_huang_admitted_he_was/
 2026-11-14T14:45:53+00:00	Tomb Raider: Legacy of Atlantis, the return of the Tomb Raider franchise after a 9 year hiatus and the introduction to the new 'Unified' Lara Croft, is "exceeding expectations". Pre-Orders and Wishlists well above targets, Collectors Editions are sold out. https://www.reddit.com/r/Games/comments/1xw44c1/tomb_raider_legacy_of_atlantis_the_return_of_the/
 2026-11-14T15:18:15+00:00	"How two guys made Queen’s Domain and revived FromSoftware's forgotten era" | Polygon interview https://www.reddit.com/r/Games/comments/1xw4vco/how_two_guys_made_queens_domain_and_revived/
@@ -22,9 +20,11 @@
 2026-11-15T10:00:31+00:00	Weekly /r/Games Discussion - What have you been playing, and what are your thoughts? - November 15, 2026 https://www.reddit.com/r/Games/comments/1xwrt02/weekly_rgames_discussion_what_have_you_been/
 2026-11-15T13:14:46+00:00	Baseline Basketball Manager 27 - Baseline Interactive (solo dev) – a basketball management sim with Football Manager-style depth and a live 3D match https://www.reddit.com/r/Games/comments/1xwv7ya/baseline_basketball_manager_27_baseline/
 2026-11-15T13:45:55+00:00	Videogame Automation Engineer - Prof. Scherer - A visual programming game where you automate different minigames with image based sensors and logic blocks. https://www.reddit.com/r/Games/comments/1xwvvm9/videogame_automation_engineer_prof_scherer_a/
-2026-11-15T14:44:30+00:00	Ichorian Tales - Caio Ramaglio - A Zelda-like focused on old-school, puzzle-box dungeons. New demo playable on browser! https://www.reddit.com/r/Games/comments/1xwx7uj/ichorian_tales_caio_ramaglio_a_zeldalike_focused/
 2026-11-15T14:47:47+00:00	Tom Henderson: GTA VI main story to be 50h with nearly 100 missions and 5 chapters https://www.reddit.com/r/Games/comments/1xwxahf/tom_henderson_gta_vi_main_story_to_be_50h_with/
 2026-11-15T15:51:07+00:00	Umamusume: Pretty Derby dev’s parent company reports “88% hit rate” for mobile games, plans to release 7 major new titles by 2030 https://www.reddit.com/r/Games/comments/1xwytfv/umamusume_pretty_derby_devs_parent_company/
 2026-11-15T17:02:14+00:00	XBOX 25th Anniversary Magazine: Explore 25 Years of Games, Stories, and Memories https://www.reddit.com/r/Games/comments/1xx0mdo/xbox_25th_anniversary_magazine_explore_25_years/
-2026-11-15T17:06:55+00:00	Alteah: Sovereign Shores - Frostcore - Co-op Medieval City Builder https://www.reddit.com/r/Games/comments/1xx0qtt/alteah_sovereign_shores_frostcore_coop_medieval/
-2026-11-15T17:43:29+00:00	BookBuster - Wayne Mars - A sports simulator with an incremental game on top https://www.reddit.com/r/Games/comments/1xx1ovr/bookbuster_wayne_mars_a_sports_simulator_with_an/
+2026-11-15T20:48:51+00:00	Burnette: The Scorched Shield | Official Character Trailer - Rivals of Aether II https://www.reddit.com/r/Games/comments/1xx6cha/burnette_the_scorched_shield_official_character/
+2026-11-15T20:57:08+00:00	Xbox reveals that Series X|S users, for the brand's 25th Anniversary, can boot up their consoles with the start-up animations for the original 2001 console or either of the Xbox 360's. https://www.reddit.com/r/Games/comments/1xx6jp4/xbox_reveals_that_series_xs_users_for_the_brands/
+2026-11-15T21:18:37+00:00	Mega Man: Dual Override - Robot Master Design Contest Winner Reveal https://www.reddit.com/r/Games/comments/1xx721t/mega_man_dual_override_robot_master_design/
+2026-11-15T21:24:51+00:00	Mr Figs - Joe Reynolds - A bomberman-inspired puzzle game https://www.reddit.com/r/Games/comments/1xx77ib/mr_figs_joe_reynolds_a_bombermaninspired_puzzle/
+2026-11-15T22:42:36+00:00	Core Reset - JABOI Games - A mech survivor extraction looter https://www.reddit.com/r/Games/comments/1xx90lz/core_reset_jaboi_games_a_mech_survivor_extraction/
