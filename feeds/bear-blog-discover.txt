@@ -4,14 +4,10 @@
 # description = twtxt conversion of https://bearblog.dev/discover/feed/
 
 2026-11-12T22:53:33.070577+00:00	What I’ve learned from this Microsoft outage https://futureperfect.bearblog.dev/what-ive-learned-from-this-microsoft-outage/
-2026-11-13T05:21:00+00:00	trends that are going away, possibly? https://cherrysroom.bearblog.dev/trends-that-are-going-away-possibly/
 2026-11-13T07:48:00+00:00	I am having the time of my life https://blog.lauramichet.com/i-am-having-the-time-of-my-life/
-2026-11-13T14:00:00.749098+00:00	people have been emailing me and i had no idea https://skuka.online/people-have-been-emailing-me-and-i-had-no-idea/
 2026-11-13T17:23:52.020380+00:00	You’re still here https://robertbirming.com/youre-still-here/
-2026-11-13T18:40:00+00:00	Human writing only https://sparklewater.bearblog.dev/human-writing-only/
 2026-11-14T07:48:00+00:00	Knowember 2026 https://vinceblog.net/knowember-2026/
 2026-11-14T13:23:34.486084+00:00	Did the 'AI doc' blow me off? https://itsme.bearblog.dev/did-the-ai-doc-blow-me-off/
-2026-11-14T13:46:00.310146+00:00	A couple of Robins https://danieln.uk/a-couple-of-robins/
 2026-11-14T14:22:35.616287+00:00	The Game Boy Camera https://whateverthewindbrings.com/the-game-boy-camera/
 2026-11-14T16:19:12.241531+00:00	Knowember https://qwertyfingers.bearblog.dev/knowember/
 2026-11-14T16:31:00+00:00	Washington’s War on Trans Kids Comes With a Permission Slip https://cultnorthwest.com/washingtons-war-on-trans-kids-comes-with-a-permission-slip/
@@ -21,5 +17,9 @@
 2026-11-15T02:30:00+00:00	部落格的有用與無用之用 https://shuyulin1127.com/blog-useful-and-useless/
 2026-11-15T03:46:00+00:00	Easier To Be Good https://www.jenn.site/easier-to-be-good/
 2026-11-15T05:59:00+00:00	We Heart Seattle Doesn't https://cultnorthwest.com/we-heart-seattle-doesnt/
-2026-11-15T07:23:00+00:00	cocktail time! sandra lee cocktails for stripping paint and blacking out, illustrated edition https://cherrysroom.bearblog.dev/cocktail-time-sandra-lee-cocktails/
-2026-11-15T08:57:00+00:00	Old Heads by Paul Sutherland https://www.mouthguard.observer/old-heads-by-paul-sutherland/
+2026-11-15T10:21:00+00:00	Could you help me tweak the search results on Bearblog discover, please? https://topopa.bearblog.dev/could-you-help-me-tweak-the-search-results-on-bearblog-discover-please/
+2026-11-15T10:28:00+00:00	Knowember in the world of Imelda's Paws https://imeldaspaws.com/knowember-in-the-world-of-imeldas-paws/
+2026-11-15T14:40:00+00:00	10 things to blog about https://robertbirming.com/10-things-blog-about/
+2026-11-15T15:53:52.466039+00:00	I will have to save myself https://psychidion.bearblog.dev/i-will-have-to-save-myself/
+2026-11-15T16:36:00+00:00	A nonogram inside a nanoparticle...... https://applemarshmallow.bearblog.dev/a-nonogram-inside-a-nanoparticle/
+2026-11-15T16:51:33.902097+00:00	All I wanted was to make a budget, and now I have all these feelings https://ev-fae.quest/reflections-on-vibecoding/
