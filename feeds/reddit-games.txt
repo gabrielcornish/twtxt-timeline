@@ -3,18 +3,7 @@
 # source = https://www.reddit.com/r/Games.rss
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
-2026-11-11T12:00:28+00:00	Daily /r/Games Discussion - Suggest Me a Game - November 11, 2026 https://www.reddit.com/r/Games/comments/1xtfyjj/daily_rgames_discussion_suggest_me_a_game/
-2026-11-13T11:00:48+00:00	Daily /r/Games Discussion - Free Talk Friday - November 13, 2026 https://www.reddit.com/r/Games/comments/1xv4y22/daily_rgames_discussion_free_talk_friday_november/
-2026-11-13T17:04:00+00:00	Ahead of ‘Grand Theft Auto VI,’ Rockstar Votes on Unions https://www.reddit.com/r/Games/comments/1xvdcdk/ahead_of_grand_theft_auto_vi_rockstar_votes_on/
-2026-11-13T18:05:50+00:00	Selaco | The Machines of War - Free Update Trailer https://www.reddit.com/r/Games/comments/1xvf17i/selaco_the_machines_of_war_free_update_trailer/
-2026-11-13T18:17:05+00:00	Geoff Keighley - The Game Awards 2026's nominees will be revealed this Tuesday Live at 12 p.m. ET / 9 a.m PT / 5p GMT https://www.reddit.com/r/Games/comments/1xvfc03/geoff_keighley_the_game_awards_2026s_nominees/
-2026-11-13T18:18:05+00:00	Rainbow Six: Vegas Series Set to Return After Nearly Two Decades - Insider Gaming https://www.reddit.com/r/Games/comments/1xvfd3m/rainbow_six_vegas_series_set_to_return_after/
-2026-11-13T18:39:05+00:00	PIONER is shutting down https://www.reddit.com/r/Games/comments/1xvfxa4/pioner_is_shutting_down/
-2026-11-13T20:28:44+00:00	Pokémon Collector Discovers Rare Playable Copy of PokéPark Fishing Rally DS https://www.reddit.com/r/Games/comments/1xvis3c/pokémon_collector_discovers_rare_playable_copy_of/
-2026-11-13T23:58:32+00:00	Blade Runner 2099 Executive Producers Confirm Franchise Owners Are In Talks for "AAA" Video Game Adaptation https://www.reddit.com/r/Games/comments/1xvnt4x/blade_runner_2099_executive_producers_confirm/
 2026-11-14T01:13:22+00:00	Queen's Domain has sold 200k copies in less than 2 weeks. https://www.reddit.com/r/Games/comments/1xvpfav/queens_domain_has_sold_200k_copies_in_less_than_2/
-2026-11-14T02:31:05+00:00	BitCraft Online – Launch Trailer https://www.reddit.com/r/Games/comments/1xvqywv/bitcraft_online_launch_trailer/
-2026-11-14T05:36:45+00:00	Sonic The Hedgehog (commenly known by many as Sonic 06) was released 20 years ago today. https://www.reddit.com/r/Games/comments/1xvufvs/sonic_the_hedgehog_commenly_known_by_many_as/
 2026-11-14T13:18:01+00:00	Vice City was the GTA that established Rockstar's killer formula - and 24 years on, it's still one of the best games ever made https://www.reddit.com/r/Games/comments/1xw27dc/vice_city_was_the_gta_that_established_rockstars/
 2026-11-14T13:29:47+00:00	Super Meat Boy Again+ Announced, Releases TBD on PC https://www.reddit.com/r/Games/comments/1xw2fui/super_meat_boy_again_announced_releases_tbd_on_pc/
 2026-11-14T14:18:22+00:00	Before Resigning, Jensen Huang Admitted He Was Facing an “Avalanche” of Excess Wafers and Memory, New Report Sheds More Light on the GPU & RAM Crisis https://www.reddit.com/r/Games/comments/1xw3hmi/before_resigning_jensen_huang_admitted_he_was/
@@ -24,7 +13,18 @@
 2026-11-14T19:18:02+00:00	Phantom Blade Zero has been out for a couple weeks now, what are your thoughts on it? https://www.reddit.com/r/Games/comments/1xwarrr/phantom_blade_zero_has_been_out_for_a_couple/
 2026-11-14T19:31:34+00:00	Do you have any favorite "unnecessary" little touches/moments in games? https://www.reddit.com/r/Games/comments/1xwb3l2/do_you_have_any_favorite_unnecessary_little/
 2026-11-14T19:54:03+00:00	Coffee Stain Rescues Chronicles: Medieval From Bankruptcy https://www.reddit.com/r/Games/comments/1xwbmsh/coffee_stain_rescues_chronicles_medieval_from/
-2026-11-14T20:56:03+00:00	Tavar Announcement Trailer - a Hotline Miami inspired FPS https://www.reddit.com/r/Games/comments/1xwd2ty/tavar_announcement_trailer_a_hotline_miami/
 2026-11-14T22:08:27+00:00	League of Legends: New Dawn Teaser https://www.reddit.com/r/Games/comments/1xwepb1/league_of_legends_new_dawn_teaser/
 2026-11-14T23:16:31+00:00	‘Buy a Quebec Video Game Day’ launches in the province https://www.reddit.com/r/Games/comments/1xwg6xo/buy_a_quebec_video_game_day_launches_in_the/
 2026-11-14T23:52:57+00:00	Zohran Mamdani Launches Two-Day NYC Youth Video Game Design Competition With a Transit Twist Ahead of ‘GTA 6’ Launch (EXCLUSIVE) https://www.reddit.com/r/Games/comments/1xwgyz4/zohran_mamdani_launches_twoday_nyc_youth_video/
+2026-11-15T05:00:41+00:00	Indie Sunday Hub - November 15, 2026 https://www.reddit.com/r/Games/comments/1xwmwch/indie_sunday_hub_november_15_2026/
+2026-11-15T05:05:48+00:00	Treyarch's former Senior Lead Writer Craig Houston has been laid off after approximately 20 years with the company https://www.reddit.com/r/Games/comments/1xwmzug/treyarchs_former_senior_lead_writer_craig_houston/
+2026-11-15T05:13:18+00:00	Tom McShea, the GameSpot reviewer who famously gave Skyward Sword a 7.5, explains in a 2011 interview how Zelda needs to move away from its stale linear formula, essentially describing what Breath of the Wild would go on to do. https://www.reddit.com/r/Games/comments/1xwn4qa/tom_mcshea_the_gamespot_reviewer_who_famously/
+2026-11-15T06:00:01+00:00	Prism Phase - Slade Hirschi - Arcade dodger where you phase through hazards by wearing their color https://www.reddit.com/r/Games/comments/1xwnxe4/prism_phase_slade_hirschi_arcade_dodger_where_you/
+2026-11-15T07:14:07+00:00	IKIMONO: Wildlife Trails - Mainel Studio - A wildlife logic deduction puzzle https://www.reddit.com/r/Games/comments/1xwp6dc/ikimono_wildlife_trails_mainel_studio_a_wildlife/
+2026-11-15T07:34:42+00:00	Age of Balls - ChillLands - RTS Countryball Game https://www.reddit.com/r/Games/comments/1xwpika/age_of_balls_chilllands_rts_countryball_game/
+2026-11-15T08:29:38+00:00	Metal Thunder - 1.0 Launch: the AC-130 gunship roguelite is now multiplayer, with a new co-op Zombies mode https://www.reddit.com/r/Games/comments/1xwqe41/metal_thunder_10_launch_the_ac130_gunship/
+2026-11-15T09:00:03+00:00	GTA VI surpasses 12.13M pre-orders, over $1.1B in revenue as per SensorTower https://www.reddit.com/r/Games/comments/1xwquq8/gta_vi_surpasses_1213m_preorders_over_11b_in/
+2026-11-15T09:05:18+00:00	MOMOKOO MERGE - N.O.S Atelier - A drop-and-merge puzzle with six quirky little characters https://www.reddit.com/r/Games/comments/1xwqxuj/momokoo_merge_nos_atelier_a_dropandmerge_puzzle/
+2026-11-15T09:45:00+00:00	Unwanted Dungeon - Conrado Saud - Survivors-like with RPG systems, skill trees, inventory management, and distinct classes https://www.reddit.com/r/Games/comments/1xwrkb0/unwanted_dungeon_conrado_saud_survivorslike_with/
+2026-11-15T10:00:31+00:00	Weekly /r/Games Discussion - What have you been playing, and what are your thoughts? - November 15, 2026 https://www.reddit.com/r/Games/comments/1xwrt02/weekly_rgames_discussion_what_have_you_been/
+2026-11-15T10:35:10+00:00	Elsewhere - eMbAh - A challenging puzzle game inspired by The Witness https://www.reddit.com/r/Games/comments/1xwscvi/elsewhere_embah_a_challenging_puzzle_game/
