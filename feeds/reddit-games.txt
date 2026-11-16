@@ -5,12 +5,8 @@
 
 2026-11-14T13:18:01+00:00	Vice City was the GTA that established Rockstar's killer formula - and 24 years on, it's still one of the best games ever made https://www.reddit.com/r/Games/comments/1xw27dc/vice_city_was_the_gta_that_established_rockstars/
 2026-11-14T14:18:22+00:00	Before Resigning, Jensen Huang Admitted He Was Facing an “Avalanche” of Excess Wafers and Memory, New Report Sheds More Light on the GPU & RAM Crisis https://www.reddit.com/r/Games/comments/1xw3hmi/before_resigning_jensen_huang_admitted_he_was/
-2026-11-14T14:45:53+00:00	Tomb Raider: Legacy of Atlantis, the return of the Tomb Raider franchise after a 9 year hiatus and the introduction to the new 'Unified' Lara Croft, is "exceeding expectations". Pre-Orders and Wishlists well above targets, Collectors Editions are sold out. https://www.reddit.com/r/Games/comments/1xw44c1/tomb_raider_legacy_of_atlantis_the_return_of_the/
 2026-11-14T15:18:15+00:00	"How two guys made Queen’s Domain and revived FromSoftware's forgotten era" | Polygon interview https://www.reddit.com/r/Games/comments/1xw4vco/how_two_guys_made_queens_domain_and_revived/
-2026-11-14T17:09:31+00:00	"There's no such thing as easy money in our business" – Strauss Zelnick on GTA 6, BioShock, Take-Two's acquisition plans, and reviving old IP. "We are working on some legacy franchises that we're excited about" https://www.reddit.com/r/Games/comments/1xw7koc/theres_no_such_thing_as_easy_money_in_our/
-2026-11-14T19:18:02+00:00	Phantom Blade Zero has been out for a couple weeks now, what are your thoughts on it? https://www.reddit.com/r/Games/comments/1xwarrr/phantom_blade_zero_has_been_out_for_a_couple/
 2026-11-14T19:31:34+00:00	Do you have any favorite "unnecessary" little touches/moments in games? https://www.reddit.com/r/Games/comments/1xwb3l2/do_you_have_any_favorite_unnecessary_little/
-2026-11-14T19:54:03+00:00	Coffee Stain Rescues Chronicles: Medieval From Bankruptcy https://www.reddit.com/r/Games/comments/1xwbmsh/coffee_stain_rescues_chronicles_medieval_from/
 2026-11-14T22:08:27+00:00	League of Legends: New Dawn Teaser https://www.reddit.com/r/Games/comments/1xwepb1/league_of_legends_new_dawn_teaser/
 2026-11-14T23:16:31+00:00	‘Buy a Quebec Video Game Day’ launches in the province https://www.reddit.com/r/Games/comments/1xwg6xo/buy_a_quebec_video_game_day_launches_in_the/
 2026-11-14T23:52:57+00:00	Zohran Mamdani Launches Two-Day NYC Youth Video Game Design Competition With a Transit Twist Ahead of ‘GTA 6’ Launch (EXCLUSIVE) https://www.reddit.com/r/Games/comments/1xwgyz4/zohran_mamdani_launches_twoday_nyc_youth_video/
@@ -26,5 +22,9 @@
 2026-11-15T20:48:51+00:00	Burnette: The Scorched Shield | Official Character Trailer - Rivals of Aether II https://www.reddit.com/r/Games/comments/1xx6cha/burnette_the_scorched_shield_official_character/
 2026-11-15T20:57:08+00:00	Xbox reveals that Series X|S users, for the brand's 25th Anniversary, can boot up their consoles with the start-up animations for the original 2001 console or either of the Xbox 360's. https://www.reddit.com/r/Games/comments/1xx6jp4/xbox_reveals_that_series_xs_users_for_the_brands/
 2026-11-15T21:18:37+00:00	Mega Man: Dual Override - Robot Master Design Contest Winner Reveal https://www.reddit.com/r/Games/comments/1xx721t/mega_man_dual_override_robot_master_design/
-2026-11-15T21:24:51+00:00	Mr Figs - Joe Reynolds - A bomberman-inspired puzzle game https://www.reddit.com/r/Games/comments/1xx77ib/mr_figs_joe_reynolds_a_bombermaninspired_puzzle/
-2026-11-15T22:42:36+00:00	Core Reset - JABOI Games - A mech survivor extraction looter https://www.reddit.com/r/Games/comments/1xx90lz/core_reset_jaboi_games_a_mech_survivor_extraction/
+2026-11-15T23:11:04+00:00	Temporal Titans - Lost Tower Games - Tower Defense with a Time-Traveling Mech Squad https://www.reddit.com/r/Games/comments/1xx9nq5/temporal_titans_lost_tower_games_tower_defense/
+2026-11-15T23:29:57+00:00	Poker Warlords - SkeleJelly Games - Poker But Your Cards Fight to Win the Pot (Demo Returns Today! 92% positive reviews) https://www.reddit.com/r/Games/comments/1xxa2mn/poker_warlords_skelejelly_games_poker_but_your/
+2026-11-16T01:19:24+00:00	Pathos - Contrary Games - Retro Turn-based RPG https://www.reddit.com/r/Games/comments/1xxcf4q/pathos_contrary_games_retro_turnbased_rpg/
+2026-11-16T01:54:27+00:00	Swivlo - 3two7 Studio - An arrow puzzle where one move can change the board https://www.reddit.com/r/Games/comments/1xxd4wy/swivlo_3two7_studio_an_arrow_puzzle_where_one/
+2026-11-16T02:23:04+00:00	Xbox Confirms Project Helix Is 'a Console Capable of Playing Games From Your PC'... And Is 'Not a PC That Can Also Play Console Games' https://www.reddit.com/r/Games/comments/1xxdq2q/xbox_confirms_project_helix_is_a_console_capable/
+2026-11-16T02:40:33+00:00	Suda51 Wants To Make Gundam, Deadpool Games, Thinks It Has A '50% Chance' Of Happening https://www.reddit.com/r/Games/comments/1xxe2je/suda51_wants_to_make_gundam_deadpool_games_thinks/
