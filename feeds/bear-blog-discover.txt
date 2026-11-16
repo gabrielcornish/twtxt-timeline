@@ -3,18 +3,14 @@
 # source = https://bearblog.dev/discover/feed/
 # description = twtxt conversion of https://bearblog.dev/discover/feed/
 
-2026-11-12T22:53:33.070577+00:00	What I’ve learned from this Microsoft outage https://futureperfect.bearblog.dev/what-ive-learned-from-this-microsoft-outage/
 2026-11-13T07:48:00+00:00	I am having the time of my life https://blog.lauramichet.com/i-am-having-the-time-of-my-life/
 2026-11-14T13:23:34.486084+00:00	Did the 'AI doc' blow me off? https://itsme.bearblog.dev/did-the-ai-doc-blow-me-off/
-2026-11-14T14:22:35.616287+00:00	The Game Boy Camera https://whateverthewindbrings.com/the-game-boy-camera/
 2026-11-14T16:19:12.241531+00:00	Knowember https://qwertyfingers.bearblog.dev/knowember/
 2026-11-14T17:50:10.551707+00:00	The death you imagine https://zuma9pt5.com/the-death-you-imagine/
 2026-11-14T22:07:00+00:00	knowember https://olu.online/knowember/
 2026-11-14T22:27:55.190535+00:00	chronic illness and personal time https://blog.avas.space/illness-me-time/
-2026-11-15T03:46:00+00:00	Easier To Be Good https://www.jenn.site/easier-to-be-good/
-2026-11-15T05:59:00+00:00	We Heart Seattle Doesn't https://cultnorthwest.com/we-heart-seattle-doesnt/
+2026-11-15T06:54:05.203183+00:00	Knowember ☕ https://justiz.bearblog.dev/knowember/
 2026-11-15T10:21:00+00:00	Could you help me tweak the search results on Bearblog discover, please? https://topopa.bearblog.dev/could-you-help-me-tweak-the-search-results-on-bearblog-discover-please/
-2026-11-15T10:28:00+00:00	Knowember in the world of Imelda's Paws https://imeldaspaws.com/knowember-in-the-world-of-imeldas-paws/
 2026-11-15T11:31:08.895654+00:00	it felt like we were the only people in the world https://tala.bearblog.dev/it-felt-like-we-were-the-only-people-in-the-world/
 2026-11-15T14:12:00+00:00	Knowember 2026 https://sleepyram.bearblog.dev/knowember-2026/
 2026-11-15T14:40:00+00:00	10 things to blog about https://robertbirming.com/10-things-blog-about/
@@ -23,3 +19,7 @@
 2026-11-15T16:51:00+00:00	All I wanted was to make a budget, and now I have all these feelings https://ev-fae.quest/reflections-on-vibecoding/
 2026-11-15T18:13:16.098397+00:00	My life without the algorithm https://grazinggoats.bearblog.dev/my-life-without-the-algorithm/
 2026-11-15T19:01:28.056837+00:00	An Open Letter to Apple: Enough Is Enough https://rhyn0bytes.bearblog.dev/to-apple-enough-is-enough/
+2026-11-16T01:29:00+00:00	...in sweatpants, with B and Ellie, while it rains outside. https://coreyblogs.com/in-sweatpants-with-b-and-ellie-while-it-rains-outside/
+2026-11-16T04:56:25.611713+00:00	Save Before Exit https://nburchett.com/save-before-exit/
+2026-11-16T05:48:43.625859+00:00	Am I being manipulated? https://doodhpeda.bearblog.dev/blog/am-i-being-manipulated/
+2026-11-16T09:22:00+00:00	Ludwig (as in ludology, but also, narrative cohesiveness & thematic leitmotifs) https://jennfrank.bearblog.dev/ludwig-as-in-ludology-but-also-narrative-cohesiveness-thematic-leitmotifs/
