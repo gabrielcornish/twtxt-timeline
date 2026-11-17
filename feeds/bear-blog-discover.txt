@@ -4,22 +4,22 @@
 # description = twtxt conversion of https://bearblog.dev/discover/feed/
 
 2026-11-14T13:23:34.486084+00:00	Did the 'AI doc' blow me off? https://itsme.bearblog.dev/did-the-ai-doc-blow-me-off/
-2026-11-14T22:27:55.190535+00:00	chronic illness and personal time https://blog.avas.space/illness-me-time/
-2026-11-15T14:40:00+00:00	10 things to blog about https://robertbirming.com/10-things-blog-about/
-2026-11-15T15:53:52.466039+00:00	I will have to save myself https://psychidion.bearblog.dev/i-will-have-to-save-myself/
 2026-11-15T18:13:16.098397+00:00	My life without the algorithm https://grazinggoats.bearblog.dev/my-life-without-the-algorithm/
 2026-11-16T05:48:43.625859+00:00	Am I being manipulated? https://doodhpeda.bearblog.dev/blog/am-i-being-manipulated/
 2026-11-16T11:53:00+00:00	35 reflections for my 35th birthday https://notes.stateofnats.com/the-state-of-nats-latest-post/
 2026-11-16T14:17:14.508418+00:00	Bear Blog Just Got More Interesting https://widdershins.verja.net/bear-blog-just-got-more-interesting/
-2026-11-16T14:35:00+00:00	...his weekend of canceled plans. https://coreyblogs.com/his-weekend-of-canceled-plans/
 2026-11-16T17:51:00+00:00	What I Use Instead of Google https://kylenixon.ca/degoogling-update/
 2026-11-16T19:45:55.424080+00:00	Bear Blog tag and meta manager https://robertbirming.com/bear-blog-tag-meta-manager-plugin/
 2026-11-16T20:05:00+00:00	I KEEP DELETING MY POSTS :/ https://leeraedee.org/i-keep-deleteing-my-posts/
-2026-11-16T23:07:00+00:00	it is always the time of monsters https://olu.online/it-is-always-the-time-of-monsters/
 2026-11-16T23:56:00+00:00	Know-vember 2026 https://gr-y.uk/knowvember-2026/
 2026-11-17T01:47:00+00:00	Theme Facelift: Done https://blog.dessy.me/theme-update/
 2026-11-17T03:34:13.404069+00:00	Jonathan Choe and the Business of Fear https://cultnorthwest.com/choe-fear/
-2026-11-17T05:38:43.224175+00:00	Week 46, 2026: Hard-boiled https://zeina.bearblog.dev/week-46-2026/
 2026-11-17T07:12:00+00:00	Wedding day blast! https://bw.bearblog.dev/wedding-day-blast/
-2026-11-17T09:49:33.116738+00:00	Politics at Work: Partisanship inside the Firm https://priceofpower.bearblog.dev/politics-at-work-partisanship-inside-the-firm/
+2026-11-17T11:51:50.260132+00:00	AI Cheating Scandal in Korea https://kangminsuk.com/ai-cheating-scandal-in-korea/
 2026-11-17T12:15:32.232951+00:00	Knowember https://sekar.web.id/knowember/
+2026-11-17T12:48:54.665190+00:00	Privacy, schmivacy https://itsme.bearblog.dev/privacy-schmivacy/
+2026-11-17T13:35:20.873212+00:00	To Bootleg Boothill - pt.1 https://writeodd.bearblog.dev/to-bootleg-boothill-pt1/
+2026-11-17T14:31:00+00:00	My dog is so old…. https://leeraedee.org/my-dog-is-so-old/
+2026-11-17T17:03:24.916187+00:00	Too old for this shit https://psnosignaluk.bearblog.dev/too-old-for-this-shit/
+2026-11-17T18:52:00+00:00	Salvē, Rēgīna Perón https://edmonddantes.ca/salve-regina-peron/
+2026-11-17T20:11:00+00:00	hype, expectations and AI https://olu.online/hype-expectations-and-ai/

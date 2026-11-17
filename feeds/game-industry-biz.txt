@@ -3,11 +3,6 @@
 # source = https://www.gamesindustry.biz/feed
 # description = twtxt conversion of https://www.gamesindustry.biz/feed
 
-2026-11-06T08:59:40+00:00	Unity reportedly in acquisition talks with Silver Lake and Public Investment Fund, two firms involved in EA's $55bn buyout https://www.gamesindustry.biz/unity-reportedly-in-acquisition-talks-with-silver-lake-and-public-investment-fund-two-firms-involved-in-eas-55bn-buyout
-2026-11-06T10:04:40+00:00	Unity reports "strongest ever" Q3 results driven by its AI-powered ad network Vector https://www.gamesindustry.biz/unity-reports-strongest-ever-q3-results-driven-by-its-ai-powered-ad-network-vector
-2026-11-06T11:30:10+00:00	Sega Q2 results exceed expectations, driven by surge in operating income for pachislot and pachinko machines https://www.gamesindustry.biz/sega-q2-results-exceed-expectations-driven-by-surge-in-operating-income-for-pachislot-and-pachinko-machines
-2026-11-06T13:53:10+00:00	Jobs roundup: November | Nordisk Games appoints Stefanía Halldórsdóttir as CEO and Ásgeir Kröyer as CFO https://www.gamesindustry.biz/jobs-roundup-november-nordisk-games-appoints-stefania-halldorsdottir-as-ceo-and-asgeir-kroyer-as-cfo
-2026-11-06T14:50:40+00:00	SAG-AFTRA launches new video game agreement enabling devs to hire professional actors for demos and vertical slices https://www.gamesindustry.biz/sag-aftra-launches-new-video-game-agreement-enabling-devs-to-hire-professional-actors-for-demos-and-vertical-slices
 2026-11-06T16:10:00+00:00	Elections signal cultural shifts that no creative industry can dare to ignore | Opinion https://www.gamesindustry.biz/elections-signal-cultural-shifts-that-no-creative-industry-can-dare-to-ignore-opinion
 2026-11-09T09:43:50+00:00	German Games Industry Association warns the EU KIDS Act could undermine existing age-rating systems for video games https://www.gamesindustry.biz/german-games-industry-association-warns-the-eu-kids-act-could-undermine-existing-age-rating-systems-for-video-games
 2026-11-09T11:29:50+00:00	Star Wars Zero Company developer Bit Reactor has laid off an unspecified number of people https://www.gamesindustry.biz/star-wars-zero-company-developer-bit-reactor-has-laid-off-an-unspecified-number-of-people
@@ -53,3 +48,8 @@
 2026-11-17T09:53:30+00:00	Unity acquires 3D asset creator Synty Studios; artist-created content to be integrated into AI game-creation platform Unity Spark https://www.gamesindustry.biz/unity-acquires-3d-asset-creator-synty-studios-artist-created-content-to-be-integrated-into-ai-game-creation-platform-unity-spark
 2026-11-17T11:44:00+00:00	Xbox's Project Helix "is not a PC that can also play console games" https://www.gamesindustry.biz/xboxs-project-helix-is-not-a-pc-that-can-also-play-console-games
 2026-11-17T14:28:00+00:00	IWGB Game Workers Union leads manifesto on generative AI use in the industry https://www.gamesindustry.biz/iwgb-game-workers-union-leads-manifesto-on-generative-ai-use-in-the-industry
+2026-11-17T15:01:00+00:00	Tanuki: Pon's Summer is hoping to be a "lovely little underdog" between Ocarina of Time and GTA 6 https://www.gamesindustry.biz/tanuki-pons-summer-is-hoping-to-be-a-lovely-little-underdog-between-ocarina-of-time-and-gta-6
+2026-11-17T15:07:20+00:00	Roblox launches creator program for devs to bring games to its platform for free https://www.gamesindustry.biz/roblox-launches-creator-program-for-devs-to-bring-games-to-its-platform-for-free
+2026-11-17T16:17:40+00:00	UK tribunal dismisses £2bn PlayStation class-action suit which alleged unfair pricing over 30% cut on PlayStation Store https://www.gamesindustry.biz/uk-tribunal-dismisses-2bn-playstation-class-action-suit-which-alleged-unfair-pricing-over-30-cut-on-playstation-store
+2026-11-17T16:24:30+00:00	Meet the company that finds Chinese game developers to work on Western IP https://www.gamesindustry.biz/meet-the-company-that-finds-chinese-game-developers-to-work-on-western-ip
+2026-11-17T17:33:10+00:00	Report: Civilization dev Firaxis lays off a third of its staff https://www.gamesindustry.biz/report-civilization-dev-firaxis-lays-off-a-third-of-its-staff-following-development-difficulties-with-xcom-sequel
