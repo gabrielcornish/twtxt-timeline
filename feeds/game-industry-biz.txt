@@ -3,11 +3,6 @@
 # source = https://www.gamesindustry.biz/feed
 # description = twtxt conversion of https://www.gamesindustry.biz/feed
 
-2026-11-05T12:23:50+00:00	IGN Entertainment promotes Alex Simmons to lead editorial across its portfolio, with Wesley Yin-Poole overseeing IGN https://www.gamesindustry.biz/ign-entertainment-promotes-alex-simmons-to-lead-editorial-across-its-portfolio-with-wesley-yin-poole-overseeing-ign
-2026-11-05T13:15:00+00:00	"It's such a massively underserved market in the gaming industry" – The creators of Dressmaker on why more games should be aimed at women https://www.gamesindustry.biz/its-such-a-massively-underserved-market-in-the-gaming-industry-the-creators-of-dressmaker-on-why-more-games-should-be-aimed-at-women
-2026-11-05T14:13:50+00:00	Sensor Tower: GTA 6 pre-orders almost reach 8m, 74% bought on PlayStation 5 https://www.gamesindustry.biz/sensor-tower-gta-6-pre-orders-almost-reach-8m-74-bought-on-playstation-5
-2026-11-05T16:00:00+00:00	Investment firm Denmu closes oversubscribed debut fund, surpassing $50 million target https://www.gamesindustry.biz/investment-firm-denmu-closes-oversubscribed-debut-fund-surpassing-50-million-target
-2026-11-06T07:55:00+00:00	How to get investment for your video game in 2026 https://www.gamesindustry.biz/how-to-get-investment-for-your-video-game-in-2026
 2026-11-06T08:59:40+00:00	Unity reportedly in acquisition talks with Silver Lake and Public Investment Fund, two firms involved in EA's $55bn buyout https://www.gamesindustry.biz/unity-reportedly-in-acquisition-talks-with-silver-lake-and-public-investment-fund-two-firms-involved-in-eas-55bn-buyout
 2026-11-06T10:04:40+00:00	Unity reports "strongest ever" Q3 results driven by its AI-powered ad network Vector https://www.gamesindustry.biz/unity-reports-strongest-ever-q3-results-driven-by-its-ai-powered-ad-network-vector
 2026-11-06T11:30:10+00:00	Sega Q2 results exceed expectations, driven by surge in operating income for pachislot and pachinko machines https://www.gamesindustry.biz/sega-q2-results-exceed-expectations-driven-by-surge-in-operating-income-for-pachislot-and-pachinko-machines
@@ -53,3 +48,8 @@
 2026-11-16T18:37:20+00:00	Shigeru Miyamoto to receive inaugural Legend Award at the 30th DICE Awards https://www.gamesindustry.biz/shigeru-miyamoto-to-receive-inaugural-legend-award-at-the-30th-dice-awards
 2026-11-16T20:05:40+00:00	Monster Hunter Outlanders passes $10.2 million in IAP revenue in two weeks https://www.gamesindustry.biz/monster-hunter-outlanders-passes-102-million-in-iap-revenue-in-two-weeks
 2026-11-17T01:00:00+00:00	Sensor Tower: GTA 6 pre-orders exceed $1.4bn, with 87% for the Ultimate Edition https://www.gamesindustry.biz/sensor-tower-gta-6-pre-orders-exceed-14bn-with-87-for-the-ultimate-edition
+2026-11-17T07:00:00+00:00	Newzoo: GTA 6 pre-orders are archetypal console players but overwhelmingly male; game will "grow the market rather than simply redistribute it" https://www.gamesindustry.biz/newzoo-gta-6-pre-orders-are-archetypal-console-players-but-overwhelmingly-male-game-will-grow-the-market-rather-than-simply-redistribute-it
+2026-11-17T08:55:00+00:00	Lisbon-based Studio Bravarda closes down after failing to recoup dev costs on its most recent title, Extremely Powerful Capybaras https://www.gamesindustry.biz/lisbon-based-studio-bravarda-closes-down-after-failing-to-recoup-dev-costs-on-its-most-recent-title-extremely-powerful-capybaras
+2026-11-17T09:53:30+00:00	Unity acquires 3D asset creator Synty Studios; artist-created content to be integrated into AI game-creation platform Unity Spark https://www.gamesindustry.biz/unity-acquires-3d-asset-creator-synty-studios-artist-created-content-to-be-integrated-into-ai-game-creation-platform-unity-spark
+2026-11-17T11:44:00+00:00	Xbox's Project Helix "is not a PC that can also play console games" https://www.gamesindustry.biz/xboxs-project-helix-is-not-a-pc-that-can-also-play-console-games
+2026-11-17T14:28:00+00:00	IWGB Game Workers Union leads manifesto on generative AI use in the industry https://www.gamesindustry.biz/iwgb-game-workers-union-leads-manifesto-on-generative-ai-use-in-the-industry
