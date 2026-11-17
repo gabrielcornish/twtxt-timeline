@@ -3,14 +3,11 @@
 # source = https://www.reddit.com/r/Games.rss
 # description = twtxt conversion of https://www.reddit.com/r/Games.rss
 
-2026-11-15T05:13:18+00:00	Tom McShea, the GameSpot reviewer who famously gave Skyward Sword a 7.5, explains in a 2011 interview how Zelda needs to move away from its stale linear formula, essentially describing what Breath of the Wild would go on to do. https://www.reddit.com/r/Games/comments/1xwn4qa/tom_mcshea_the_gamespot_reviewer_who_famously/
 2026-11-15T14:47:47+00:00	Tom Henderson: GTA VI main story to be 50h with nearly 100 missions and 5 chapters https://www.reddit.com/r/Games/comments/1xwxahf/tom_henderson_gta_vi_main_story_to_be_50h_with/
 2026-11-15T15:51:07+00:00	Umamusume: Pretty Derby dev’s parent company reports “88% hit rate” for mobile games, plans to release 7 major new titles by 2030 https://www.reddit.com/r/Games/comments/1xwytfv/umamusume_pretty_derby_devs_parent_company/
-2026-11-15T17:02:14+00:00	XBOX 25th Anniversary Magazine: Explore 25 Years of Games, Stories, and Memories https://www.reddit.com/r/Games/comments/1xx0mdo/xbox_25th_anniversary_magazine_explore_25_years/
 2026-11-15T20:48:51+00:00	Burnette: The Scorched Shield | Official Character Trailer - Rivals of Aether II https://www.reddit.com/r/Games/comments/1xx6cha/burnette_the_scorched_shield_official_character/
 2026-11-15T20:57:08+00:00	Xbox reveals that Series X|S users, for the brand's 25th Anniversary, can boot up their consoles with the start-up animations for the original 2001 console or either of the Xbox 360's. https://www.reddit.com/r/Games/comments/1xx6jp4/xbox_reveals_that_series_xs_users_for_the_brands/
 2026-11-15T21:18:37+00:00	Mega Man: Dual Override - Robot Master Design Contest Winner Reveal https://www.reddit.com/r/Games/comments/1xx721t/mega_man_dual_override_robot_master_design/
-2026-11-16T01:19:24+00:00	Pathos - Contrary Games - Retro Turn-based RPG https://www.reddit.com/r/Games/comments/1xxcf4q/pathos_contrary_games_retro_turnbased_rpg/
 2026-11-16T02:23:04+00:00	Xbox Confirms Project Helix Is 'a Console Capable of Playing Games From Your PC'... And Is 'Not a PC That Can Also Play Console Games' https://www.reddit.com/r/Games/comments/1xxdq2q/xbox_confirms_project_helix_is_a_console_capable/
 2026-11-16T03:30:40+00:00	We created the original GTA three decades ago | BBC News https://www.reddit.com/r/Games/comments/1xxf1z4/we_created_the_original_gta_three_decades_ago_bbc/
 2026-11-16T09:54:40+00:00	Netcode Warriors adds PS5 version, launches in 2027 https://www.reddit.com/r/Games/comments/1xxlhpr/netcode_warriors_adds_ps5_version_launches_in_2027/
@@ -28,3 +25,6 @@
 2026-11-16T18:10:39+00:00	Steam Auto-Battler RPG Fest 2026: Official Trailer https://www.reddit.com/r/Games/comments/1xxwkkp/steam_autobattler_rpg_fest_2026_official_trailer/
 2026-11-16T18:15:47+00:00	Celebrating 15 years of /r/Games https://www.reddit.com/r/Games/comments/1xxwpgr/celebrating_15_years_of_rgames/
 2026-11-16T18:46:15+00:00	This week's 'Overwhelmingly Positive' rated games on Steam (Nov 10th – Nov 16th) https://www.reddit.com/r/Games/comments/1xxxjmt/this_weeks_overwhelmingly_positive_rated_games_on/
+2026-11-16T23:47:04+00:00	The Bazaar 2026 Update - Game Ends Live Service Model https://www.reddit.com/r/Games/comments/1xy56fi/the_bazaar_2026_update_game_ends_live_service/
+2026-11-16T23:56:50+00:00	Hacker Behind ‘Grand Theft Auto VI’ Leak Pleads Guilty to Multiple Charges https://www.reddit.com/r/Games/comments/1xy5ec6/hacker_behind_grand_theft_auto_vi_leak_pleads/
+2026-11-17T00:06:34+00:00	Circana: After just one week in market, The Legend of Zelda: Ocarina of Time is 2026's best-selling physical video game in the US. It is the 1st title to surpass 1M physical units in a US launch week since 2023's The Legend of Zelda: Tears of the Kingdom. https://www.reddit.com/r/Games/comments/1xy5nil/circana_after_just_one_week_in_market_the_legend/

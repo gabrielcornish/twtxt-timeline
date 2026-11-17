@@ -3,7 +3,6 @@
 # source = https://www.gamesindustry.biz/feed
 # description = twtxt conversion of https://www.gamesindustry.biz/feed
 
-2026-11-05T11:55:30+00:00	PlayStation raises full-year forecast after revenue growth in network services and first-party software https://www.gamesindustry.biz/playstation-raises-full-year-forecast-after-revenue-growth-in-network-services-and-first-party-software
 2026-11-05T12:23:50+00:00	IGN Entertainment promotes Alex Simmons to lead editorial across its portfolio, with Wesley Yin-Poole overseeing IGN https://www.gamesindustry.biz/ign-entertainment-promotes-alex-simmons-to-lead-editorial-across-its-portfolio-with-wesley-yin-poole-overseeing-ign
 2026-11-05T13:15:00+00:00	"It's such a massively underserved market in the gaming industry" – The creators of Dressmaker on why more games should be aimed at women https://www.gamesindustry.biz/its-such-a-massively-underserved-market-in-the-gaming-industry-the-creators-of-dressmaker-on-why-more-games-should-be-aimed-at-women
 2026-11-05T14:13:50+00:00	Sensor Tower: GTA 6 pre-orders almost reach 8m, 74% bought on PlayStation 5 https://www.gamesindustry.biz/sensor-tower-gta-6-pre-orders-almost-reach-8m-74-bought-on-playstation-5
@@ -53,3 +52,4 @@
 2026-11-16T17:56:40+00:00	Coffee Stain acquires Chronicles: Medieval IP from bankrupt Raw Power Games https://www.gamesindustry.biz/coffee-stain-acquires-chronicles-medieval-ip-from-bankrupt-raw-power-games
 2026-11-16T18:37:20+00:00	Shigeru Miyamoto to receive inaugural Legend Award at the 30th DICE Awards https://www.gamesindustry.biz/shigeru-miyamoto-to-receive-inaugural-legend-award-at-the-30th-dice-awards
 2026-11-16T20:05:40+00:00	Monster Hunter Outlanders passes $10.2 million in IAP revenue in two weeks https://www.gamesindustry.biz/monster-hunter-outlanders-passes-102-million-in-iap-revenue-in-two-weeks
+2026-11-17T01:00:00+00:00	Sensor Tower: GTA 6 pre-orders exceed $1.4bn, with 87% for the Ultimate Edition https://www.gamesindustry.biz/sensor-tower-gta-6-pre-orders-exceed-14bn-with-87-for-the-ultimate-edition
