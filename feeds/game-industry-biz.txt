@@ -3,9 +3,6 @@
 # source = https://www.gamesindustry.biz/feed
 # description = twtxt conversion of https://www.gamesindustry.biz/feed
 
-2026-11-06T16:10:00+00:00	Elections signal cultural shifts that no creative industry can dare to ignore | Opinion https://www.gamesindustry.biz/elections-signal-cultural-shifts-that-no-creative-industry-can-dare-to-ignore-opinion
-2026-11-09T09:43:50+00:00	German Games Industry Association warns the EU KIDS Act could undermine existing age-rating systems for video games https://www.gamesindustry.biz/german-games-industry-association-warns-the-eu-kids-act-could-undermine-existing-age-rating-systems-for-video-games
-2026-11-09T11:29:50+00:00	Star Wars Zero Company developer Bit Reactor has laid off an unspecified number of people https://www.gamesindustry.biz/star-wars-zero-company-developer-bit-reactor-has-laid-off-an-unspecified-number-of-people
 2026-11-09T12:27:00+00:00	Thanks to GTA 6, millions of people are about to discover what a manatee is | Opinion https://www.gamesindustry.biz/thanks-to-gta-6-millions-of-people-are-about-to-discover-what-a-manatee-is-opinion
 2026-11-09T15:00:00+00:00	Will Grand Theft Auto 6 break the internet? https://www.gamesindustry.biz/will-grand-theft-auto-6-break-the-internet
 2026-11-09T17:37:10+00:00	PlayStation cancels Ratchet & Clank: Ranger Rumble a year into soft launch https://www.gamesindustry.biz/playstation-cancels-ratchet-clank-ranger-rumble-a-year-into-soft-launch
@@ -53,3 +50,6 @@
 2026-11-17T16:17:40+00:00	UK tribunal dismisses £2bn PlayStation class-action suit which alleged unfair pricing over 30% cut on PlayStation Store https://www.gamesindustry.biz/uk-tribunal-dismisses-2bn-playstation-class-action-suit-which-alleged-unfair-pricing-over-30-cut-on-playstation-store
 2026-11-17T16:24:30+00:00	Meet the company that finds Chinese game developers to work on Western IP https://www.gamesindustry.biz/meet-the-company-that-finds-chinese-game-developers-to-work-on-western-ip
 2026-11-17T17:33:10+00:00	Report: Civilization dev Firaxis lays off a third of its staff https://www.gamesindustry.biz/report-civilization-dev-firaxis-lays-off-a-third-of-its-staff-following-development-difficulties-with-xcom-sequel
+2026-11-18T08:30:00+00:00	How to build a welcoming company culture in times of turmoil https://www.gamesindustry.biz/how-to-build-a-welcoming-company-culture-in-times-of-turmoil
+2026-11-18T09:12:10+00:00	GTA 6 leads The Game Awards 2026 with eight nominations https://www.gamesindustry.biz/gta-6-leads-the-game-awards-2026-with-eight-nominations
+2026-11-18T10:58:50+00:00	Analyst: Console shipments drop 36.5% to 6.4m units during Q3 on run-up to major releases https://www.gamesindustry.biz/analyst-console-shipments-drop-365-to-64m-units-during-q3-on-run-up-to-major-releases
