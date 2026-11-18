@@ -3,12 +3,6 @@
 # source = https://www.gamesindustry.biz/feed
 # description = twtxt conversion of https://www.gamesindustry.biz/feed
 
-2026-11-09T12:27:00+00:00	Thanks to GTA 6, millions of people are about to discover what a manatee is | Opinion https://www.gamesindustry.biz/thanks-to-gta-6-millions-of-people-are-about-to-discover-what-a-manatee-is-opinion
-2026-11-09T15:00:00+00:00	Will Grand Theft Auto 6 break the internet? https://www.gamesindustry.biz/will-grand-theft-auto-6-break-the-internet
-2026-11-09T17:37:10+00:00	PlayStation cancels Ratchet & Clank: Ranger Rumble a year into soft launch https://www.gamesindustry.biz/playstation-cancels-ratchet-clank-ranger-rumble-a-year-into-soft-launch
-2026-11-09T19:43:10+00:00	Tripwire Interactive lays off 36 https://www.gamesindustry.biz/tripwire-interactive-lays-off-36
-2026-11-09T21:22:20+00:00	Take-Two Q2 net bookings fall 18% to $1.6bn as NBA 2K27 misses forecast but GTA 6 pre-orders are "tracking far in excess" of expectations https://www.gamesindustry.biz/take-two-q2-net-bookings-fall-18-to-16bn-as-nba-2k27-misses-forecast-but-gta-6-pre-orders-are-tracking-far-in-excess-of-expectations
-2026-11-09T21:39:40+00:00	"There's no such thing as easy money in our business" – Strauss Zelnick on GTA 6, BioShock, Take-Two's acquisition plans, and reviving old IP https://www.gamesindustry.biz/theres-no-such-thing-as-easy-money-in-our-business-strauss-zelnick-on-gta-6-bioshock-take-twos-acquisition-plans-and-reviving-old-ip
 2026-11-10T09:07:50+00:00	House House clarifies use of AI tools in Big Walk's "final stage of development" https://www.gamesindustry.biz/house-house-clarifies-use-of-ai-tools-in-big-walks-final-stage-of-development
 2026-11-10T10:34:40+00:00	Skydance announces layoffs to games division following $111bn merger https://www.gamesindustry.biz/skydance-announces-layoffs-to-games-division-following-111bn-merger
 2026-11-10T11:46:00+00:00	Bandai Namco closes Reflector Entertainment, expects to post €21m loss in Q3 as a result https://www.gamesindustry.biz/bandai-namco-closes-reflector-entertainment-expects-to-post-21m-loss-in-q3-as-a-result
@@ -53,3 +47,9 @@
 2026-11-18T08:30:00+00:00	How to build a welcoming company culture in times of turmoil https://www.gamesindustry.biz/how-to-build-a-welcoming-company-culture-in-times-of-turmoil
 2026-11-18T09:12:10+00:00	GTA 6 leads The Game Awards 2026 with eight nominations https://www.gamesindustry.biz/gta-6-leads-the-game-awards-2026-with-eight-nominations
 2026-11-18T10:58:50+00:00	Analyst: Console shipments drop 36.5% to 6.4m units during Q3 on run-up to major releases https://www.gamesindustry.biz/analyst-console-shipments-drop-365-to-64m-units-during-q3-on-run-up-to-major-releases
+2026-11-18T14:38:20+00:00	Grand Theft Auto 6 | Critical Consensus https://www.gamesindustry.biz/grand-theft-auto-6-critical-consensus
+2026-11-18T14:56:40+00:00	Build a Rocket Boy pursuing litigation against alleged "saboteurs" to repay £61.7m in debt https://www.gamesindustry.biz/build-a-rocket-boy-pursuing-litigation-against-alleged-saboteurs-to-repay-617m-in-debt
+2026-11-18T15:24:20+00:00	GTA 6 arrives to record review scores and streaming audiences https://www.gamesindustry.biz/gta-6-arrives-to-record-review-scores-and-streaming-audiences
+2026-11-18T15:56:30+00:00	Sam Houser: with GTA 6, Rockstar "tried to create an experience that will exceed your expectations while showing what this medium is capable of" https://www.gamesindustry.biz/sam-houser-with-gta-6-rockstar-tried-to-create-an-experience-that-will-exceed-your-expectations-while-showing-what-this-medium-is-capable-of
+2026-11-18T17:03:10+00:00	18 unsolicited third-party statistics about GTA 6 https://www.gamesindustry.biz/18-unsolicited-third-party-statistics-about-gta-6
+2026-11-18T17:36:20+00:00	Arknights: Endfield named Google Play's best game of 2026 https://www.gamesindustry.biz/arknights-endfield-named-google-plays-best-game-of-2026
