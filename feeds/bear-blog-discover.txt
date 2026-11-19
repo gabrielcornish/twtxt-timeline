@@ -3,23 +3,23 @@
 # source = https://bearblog.dev/discover/feed/
 # description = twtxt conversion of https://bearblog.dev/discover/feed/
 
-2026-11-16T05:48:43.625859+00:00	Am I being manipulated? https://doodhpeda.bearblog.dev/blog/am-i-being-manipulated/
-2026-11-16T14:17:14.508418+00:00	Bear Blog Just Got More Interesting https://widdershins.verja.net/bear-blog-just-got-more-interesting/
 2026-11-17T11:51:50.260132+00:00	AI Cheating Scandal in Korea https://kangminsuk.com/ai-cheating-scandal-in-korea/
 2026-11-17T12:48:54.665190+00:00	Privacy, schmivacy https://itsme.bearblog.dev/privacy-schmivacy/
 2026-11-17T17:03:24.916187+00:00	Too old for this shit https://psnosignaluk.bearblog.dev/too-old-for-this-shit/
 2026-11-18T01:32:22.737641+00:00	Why I oppose self-driving vehicles https://blog.lauramichet.com/why-i-oppose-self-driving-vehicles/
 2026-11-18T05:29:00+00:00	Canadian Woman Discovers Dressing for the Weather https://www.jenn.site/canadian-woman-discovers-dressing-for-the-weather/
-2026-11-18T11:03:00+00:00	workplace equality https://blog.avas.space/workplace-equality/
-2026-11-18T12:37:48.024238+00:00	Transing the Canucks; or, My Canadian Gender Awakening from Cybersix. https://hootos.bearblog.dev/transing-the-canucks-or-my-canadian-gender-awakening-from-cybersix/
 2026-11-18T14:30:00+00:00	Don't be a Pessimistic Doomer, Please https://explicatingelle.bearblog.dev/dont-be-a-pessimistic-doomer-please/
-2026-11-18T15:12:00+00:00	...how to raise a Jewish dog! https://coreyblogs.com/how-to-raise-a-jewish-dog/
-2026-11-18T20:09:15.291451+00:00	my boyfriend handed me a rubric https://risse.bearblog.dev/my-boyfriend-handed-me-a-rubric/
+2026-11-18T15:12:00+00:00	...how to raise a Jewish dog! [Updated] https://coreyblogs.com/how-to-raise-a-jewish-dog/
 2026-11-18T20:23:00+00:00	That vegan restaurant can go to hell https://maschile.bearblog.dev/that-vegan-restaurant-can-go-to-hell/
 2026-11-18T22:49:01.108432+00:00	Mid-Week Thoughts: Working-Class Rage https://blog.dessy.me/mid-week-thoughts-working-class-rage/
 2026-11-18T22:50:00+00:00	...a question for Bear Blog: Do you play video games? https://coreyblogs.com/a-question-for-bear-blog-do-you-play-video-games/
-2026-11-18T23:34:41.634208+00:00	I really love blogging https://selggiw.bearblog.dev/i-really-love-blogging/
+2026-11-18T23:34:00+00:00	I really love blogging https://selggiw.bearblog.dev/i-really-love-blogging/
 2026-11-19T03:00:00+00:00	记假帐 https://blog.solazy.me/20261119/
 2026-11-19T03:45:44.965286+00:00	"I can tell you wrote this yourself" https://em-online.bearblog.dev/i-can-tell-you-wrote-this-yourself/
 2026-11-19T04:27:05.558778+00:00	47 https://alvinsoon.com/47/
 2026-11-19T05:45:39.091116+00:00	Notes on Differentiated Social Awareness https://www.jenn.site/notes-on-differentiated-social-awareness/
+2026-11-19T12:40:24.626774+00:00	I write things you'll never read. https://itsme.bearblog.dev/i-write-things-youll-never-read/
+2026-11-19T13:13:00+00:00	Paper, folds, and what’s new in fanzines.app https://krthr.co/paper-folds-and-whats-new-in-fanzines-app/
+2026-11-19T14:56:00+00:00	im a sucker for dead malls https://donthave2sting.bearblog.dev/im-a-sucker-for-dead-malls/
+2026-11-19T15:47:16.423023+00:00	Furthermore https://blog.damonreece.com/furthermore/
+2026-11-19T17:03:54.712055+00:00	I Was Wrong, GTA VI FUCKS https://blog.absurdpirate.com/i-was-wrong-gta-vi-fucks/

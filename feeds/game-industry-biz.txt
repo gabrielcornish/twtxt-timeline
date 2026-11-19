@@ -3,9 +3,6 @@
 # source = https://www.gamesindustry.biz/feed
 # description = twtxt conversion of https://www.gamesindustry.biz/feed
 
-2026-11-10T14:27:40+00:00	Krafton Q3 revenue rises 11.6% despite decreases in PC and console segments https://www.gamesindustry.biz/krafton-q3-revenue-rises-116-despite-decreases-in-pc-and-console-segments
-2026-11-11T09:10:30+00:00	Mobile publisher Fortis Games shuts down, up to 440 workers affected https://www.gamesindustry.biz/mobile-publisher-fortis-games-shuts-down-up-to-440-workers-affected
-2026-11-11T10:40:00+00:00	PlayStation cancels live-service shooter Fairgames https://www.gamesindustry.biz/playstation-cancels-live-service-shooter-fairgames
 2026-11-11T11:29:10+00:00	What the Digital Fairness Act means for the games industry https://www.gamesindustry.biz/what-the-digital-fairness-act-means-for-the-games-industry
 2026-11-11T12:10:40+00:00	GTA 6 becomes most pre-ordered game on PlayStation and Xbox storefronts https://www.gamesindustry.biz/gta-6-becomes-most-pre-ordered-game-on-playstation-and-xbox-storefronts
 2026-11-11T14:46:40+00:00	Lego Digital Play acquires ForthStar Games "to bring Lego to the prominence it truly deserves on mobile" https://www.gamesindustry.biz/lego-digital-play-acquires-forthstar-games-to-bring-lego-to-the-prominence-it-truly-deserves-on-mobile
@@ -53,3 +50,6 @@
 2026-11-19T10:03:40+00:00	Rockstar and IWGB members issue closing arguments following conclusion of employment tribunal https://www.gamesindustry.biz/rockstar-and-iwgb-members-issue-closing-arguments-following-conclusion-of-employment-tribunal
 2026-11-19T10:32:50+00:00	The future of British gaming is more than just games | Opinion https://www.gamesindustry.biz/the-future-of-british-gaming-is-more-than-just-games-opinion
 2026-11-19T11:52:10+00:00	US Senate hearing examines child safety on Roblox, considers bipartisan bill to bypass forced arbitration https://www.gamesindustry.biz/us-senate-hearing-examines-child-safety-on-roblox-considers-bipartisan-bill-to-bypass-forced-arbitration
+2026-11-19T14:00:00+00:00	Call of Duty: Modern Warfare 4 debuts as top-selling game in US for October 2026 https://www.gamesindustry.biz/call-of-duty-modern-warfare-4-debuts-as-top-selling-game-in-us-for-october-2026
+2026-11-19T14:55:30+00:00	007 First Light wins GOTY at 2026 TIGA Awards, Dovetail Games takes home four accolades including Best Publisher https://www.gamesindustry.biz/007-first-light-wins-goty-at-2026-tiga-awards-dovetail-games-takes-home-four-accolades-including-best-publisher
+2026-11-19T15:15:00+00:00	Ubisoft lays off 166 staff in Montreal and Quebec studios https://www.gamesindustry.biz/ubisoft-lays-off-166-staff-in-montreal-and-quebec-studios
