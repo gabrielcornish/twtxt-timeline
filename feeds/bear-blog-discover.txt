@@ -3,23 +3,23 @@
 # source = https://bearblog.dev/discover/feed/
 # description = twtxt conversion of https://bearblog.dev/discover/feed/
 
-2026-11-15T18:13:16.098397+00:00	My life without the algorithm https://grazinggoats.bearblog.dev/my-life-without-the-algorithm/
 2026-11-16T05:48:43.625859+00:00	Am I being manipulated? https://doodhpeda.bearblog.dev/blog/am-i-being-manipulated/
 2026-11-16T11:53:00+00:00	35 reflections for my 35th birthday https://notes.stateofnats.com/the-state-of-nats-35/
 2026-11-16T14:17:14.508418+00:00	Bear Blog Just Got More Interesting https://widdershins.verja.net/bear-blog-just-got-more-interesting/
 2026-11-16T17:51:00+00:00	What I Use Instead of Google https://kylenixon.ca/degoogling-update/
 2026-11-17T11:51:50.260132+00:00	AI Cheating Scandal in Korea https://kangminsuk.com/ai-cheating-scandal-in-korea/
 2026-11-17T12:48:54.665190+00:00	Privacy, schmivacy https://itsme.bearblog.dev/privacy-schmivacy/
-2026-11-17T14:31:00+00:00	My dog is so old…. https://leeraedee.org/my-dog-is-so-old/
 2026-11-17T17:03:24.916187+00:00	Too old for this shit https://psnosignaluk.bearblog.dev/too-old-for-this-shit/
-2026-11-17T22:19:00+00:00	...a post he can't seem to get right on a day when it all feels so wrong. https://coreyblogs.com/a-post-he-cant-seem-to-get-right-on-a-day-when-it-all-feels-so-wrong/
 2026-11-18T01:32:22.737641+00:00	Why I oppose self-driving vehicles https://blog.lauramichet.com/why-i-oppose-self-driving-vehicles/
 2026-11-18T05:29:00+00:00	Canadian Woman Discovers Dressing for the Weather https://www.jenn.site/canadian-woman-discovers-dressing-for-the-weather/
-2026-11-18T09:56:32.629228+00:00	Offering Communion to a Ghost https://elmc.at/dw-t04/
 2026-11-18T11:03:00+00:00	workplace equality https://blog.avas.space/workplace-equality/
 2026-11-18T12:37:48.024238+00:00	Transing the Canucks; or, My Canadian Gender Awakening from Cybersix. https://hootos.bearblog.dev/transing-the-canucks-or-my-canadian-gender-awakening-from-cybersix/
 2026-11-18T14:30:00+00:00	Don't be a Pessimistic Doomer, Please https://explicatingelle.bearblog.dev/dont-be-a-pessimistic-doomer-please/
 2026-11-18T15:12:00+00:00	...how to raise a Jewish dog! https://coreyblogs.com/how-to-raise-a-jewish-dog/
-2026-11-18T19:15:00+00:00	a judgment...? https://lnebres.bearblog.dev/a-judgment/
 2026-11-18T20:09:15.291451+00:00	my boyfriend handed me a rubric https://risse.bearblog.dev/my-boyfriend-handed-me-a-rubric/
 2026-11-18T20:23:00+00:00	That vegan restaurant can go to hell https://maschile.bearblog.dev/that-vegan-restaurant-can-go-to-hell/
+2026-11-18T20:42:02.472441+00:00	My Rodential Freeloader https://blog.curiousquail.com/my-rodential-freeloader/
+2026-11-18T22:49:01.108432+00:00	Mid-Week Thoughts: Working-Class Rage https://blog.dessy.me/mid-week-thoughts-working-class-rage/
+2026-11-18T22:50:00+00:00	...a question for Bear Blog: Do you play video games? https://coreyblogs.com/a-question-for-bear-blog-do-you-play-video-games/
+2026-11-19T01:25:29.221426+00:00	Why Does it Snow? https://hilanderrpgs.bearblog.dev/why-does-it-snow/
+2026-11-19T03:00:00+00:00	记假帐 https://blog.solazy.me/20261119/
