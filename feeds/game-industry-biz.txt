@@ -3,9 +3,6 @@
 # source = https://www.gamesindustry.biz/feed
 # description = twtxt conversion of https://www.gamesindustry.biz/feed
 
-2026-11-10T09:07:50+00:00	House House clarifies use of AI tools in Big Walk's "final stage of development" https://www.gamesindustry.biz/house-house-clarifies-use-of-ai-tools-in-big-walks-final-stage-of-development
-2026-11-10T10:34:40+00:00	Skydance announces layoffs to games division following $111bn merger https://www.gamesindustry.biz/skydance-announces-layoffs-to-games-division-following-111bn-merger
-2026-11-10T11:46:00+00:00	Bandai Namco closes Reflector Entertainment, expects to post €21m loss in Q3 as a result https://www.gamesindustry.biz/bandai-namco-closes-reflector-entertainment-expects-to-post-21m-loss-in-q3-as-a-result
 2026-11-10T14:27:40+00:00	Krafton Q3 revenue rises 11.6% despite decreases in PC and console segments https://www.gamesindustry.biz/krafton-q3-revenue-rises-116-despite-decreases-in-pc-and-console-segments
 2026-11-11T09:10:30+00:00	Mobile publisher Fortis Games shuts down, up to 440 workers affected https://www.gamesindustry.biz/mobile-publisher-fortis-games-shuts-down-up-to-440-workers-affected
 2026-11-11T10:40:00+00:00	PlayStation cancels live-service shooter Fairgames https://www.gamesindustry.biz/playstation-cancels-live-service-shooter-fairgames
@@ -53,3 +50,6 @@
 2026-11-18T15:56:30+00:00	Sam Houser: with GTA 6, Rockstar "tried to create an experience that will exceed your expectations while showing what this medium is capable of" https://www.gamesindustry.biz/sam-houser-with-gta-6-rockstar-tried-to-create-an-experience-that-will-exceed-your-expectations-while-showing-what-this-medium-is-capable-of
 2026-11-18T17:03:10+00:00	18 unsolicited third-party statistics about GTA 6 https://www.gamesindustry.biz/18-unsolicited-third-party-statistics-about-gta-6
 2026-11-18T17:36:20+00:00	Arknights: Endfield named Google Play's best game of 2026 https://www.gamesindustry.biz/arknights-endfield-named-google-plays-best-game-of-2026
+2026-11-19T10:03:40+00:00	Rockstar and IWGB members issue closing arguments following conclusion of employment tribunal https://www.gamesindustry.biz/rockstar-and-iwgb-members-issue-closing-arguments-following-conclusion-of-employment-tribunal
+2026-11-19T10:32:50+00:00	The future of British gaming is more than just games | Opinion https://www.gamesindustry.biz/the-future-of-british-gaming-is-more-than-just-games-opinion
+2026-11-19T11:52:10+00:00	US Senate hearing examines child safety on Roblox, considers bipartisan bill to bypass forced arbitration https://www.gamesindustry.biz/us-senate-hearing-examines-child-safety-on-roblox-considers-bipartisan-bill-to-bypass-forced-arbitration
