@@ -3,12 +3,6 @@
 # source = https://www.gamesindustry.biz/feed
 # description = twtxt conversion of https://www.gamesindustry.biz/feed
 
-2026-11-11T11:29:10+00:00	What the Digital Fairness Act means for the games industry https://www.gamesindustry.biz/what-the-digital-fairness-act-means-for-the-games-industry
-2026-11-11T12:10:40+00:00	GTA 6 becomes most pre-ordered game on PlayStation and Xbox storefronts https://www.gamesindustry.biz/gta-6-becomes-most-pre-ordered-game-on-playstation-and-xbox-storefronts
-2026-11-11T14:46:40+00:00	Lego Digital Play acquires ForthStar Games "to bring Lego to the prominence it truly deserves on mobile" https://www.gamesindustry.biz/lego-digital-play-acquires-forthstar-games-to-bring-lego-to-the-prominence-it-truly-deserves-on-mobile
-2026-11-12T08:34:30+00:00	Fredrik Wester steps down as Paradox Interactive CEO https://www.gamesindustry.biz/fredrik-wester-steps-down-as-paradox-interactive-ceo
-2026-11-12T10:17:40+00:00	Laid-off Id Software devs form employee-owned studio Hidden Horses https://www.gamesindustry.biz/laid-off-id-software-devs-form-employee-owned-studio-hidden-horses
-2026-11-12T11:53:40+00:00	Black Forest Games spins out from THQ Nordic, co-founds indie studio group Third Signal https://www.gamesindustry.biz/black-forest-games-spins-out-from-thq-nordic-co-founds-indie-studio-group-third-signal
 2026-11-12T14:00:00+00:00	Eve Online maker Fenris Creations is adding a rendering technique to its open-source Carbon engine that promises more accurate shading and greater depth https://www.gamesindustry.biz/eve-online-maker-fenris-creations-is-adding-a-rendering-technique-to-its-open-source-carbon-engine-that-promises-more-accurate-shading-and-greater-depth
 2026-11-12T14:36:10+00:00	German Games Industry Association warns Digital Fairness Act could cause "double regulation and legal uncertainty" https://www.gamesindustry.biz/german-games-industry-association-warns-digital-fairness-act-could-cause-double-regulation-and-legal-uncertainty
 2026-11-12T14:42:10+00:00	Resident Evil Requiem wins four Golden Joystick Awards, including Ultimate and Console GOTY https://www.gamesindustry.biz/resident-evil-requiem-wins-four-golden-joystick-awards-including-ultimate-and-console-goty
@@ -53,3 +47,9 @@
 2026-11-19T14:00:00+00:00	Call of Duty: Modern Warfare 4 debuts as top-selling game in US for October 2026 https://www.gamesindustry.biz/call-of-duty-modern-warfare-4-debuts-as-top-selling-game-in-us-for-october-2026
 2026-11-19T14:55:30+00:00	007 First Light wins GOTY at 2026 TIGA Awards, Dovetail Games takes home four accolades including Best Publisher https://www.gamesindustry.biz/007-first-light-wins-goty-at-2026-tiga-awards-dovetail-games-takes-home-four-accolades-including-best-publisher
 2026-11-19T15:15:00+00:00	Ubisoft lays off 166 staff in Montreal and Quebec studios https://www.gamesindustry.biz/ubisoft-lays-off-166-staff-in-montreal-and-quebec-studios
+2026-11-20T09:44:20+00:00	Phonopolis from Amanita Design wins Grand Prize at the DevGAMM Awards https://www.gamesindustry.biz/phonopolis-from-amanita-design-wins-grand-prize-at-the-devgamm-awards
+2026-11-20T10:07:40+00:00	IGN partners with Rockstar to host Official Strategy Guide for GTA 6 https://www.gamesindustry.biz/ign-partners-with-rockstar-to-host-official-strategy-guide-for-gta-6
+2026-11-20T10:21:10+00:00	Ubisoft launches Motherbrain, a new subsidiary focused on AI-driven "gameplay innovation" https://www.gamesindustry.biz/ubisoft-launches-motherbrain-a-new-subsidiary-focused-on-ai-driven-gameplay-innovation
+2026-11-20T11:13:00+00:00	The creator of E.T. on the Atari 2600 likens the deluge of AI-made games to the glut of poor-quality titles released ahead of the US video game crash of 1983 https://www.gamesindustry.biz/the-creator-of-et-on-the-atari-2600-likens-the-deluge-of-ai-made-games-to-the-glut-of-poor-quality-titles-released-ahead-of-the-us-video-game-crash-of-1983
+2026-11-20T11:43:40+00:00	Assassin's Creed Black Flag Resynced drives Ubisoft Q2 net bookings above guidance; H1 results decline 16.5% to €644.7m https://www.gamesindustry.biz/assassins-creed-black-flag-resynced-drives-ubisoft-q2-net-bookings-above-guidance-h1-results-decline-165-to-6447m
+2026-11-20T12:27:00+00:00	How the EU's Digital Fairness Act will impact game design, and why it hits European indies particularly hard https://www.gamesindustry.biz/how-the-eus-digital-fairness-act-will-impact-game-design-and-why-it-hits-european-indies-particularly-hard
