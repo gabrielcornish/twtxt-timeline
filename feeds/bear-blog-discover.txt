@@ -8,8 +8,6 @@
 2026-11-19T13:13:00+00:00	Paper, folds, and what’s new in fanzines.app https://krthr.co/paper-folds-and-whats-new-in-fanzines-app/
 2026-11-19T15:47:16.423023+00:00	Furthermore https://blog.damonreece.com/furthermore/
 2026-11-20T02:55:00+00:00	Patrick Collison you are WRONG about street furniture!!! https://www.jenn.site/patrick-collison-you-are-wrong-about-street-furniture/
-2026-11-20T03:00:00+00:00	今天你骂 AI 味博客了吗？ https://blog.solazy.me/20261120/
-2026-11-20T03:01:00+00:00	breaking the camel's back https://tiramisu.bearblog.dev/breaking-the-camels-back/
 2026-11-20T09:10:00+00:00	Have You Tried Asking the People Who Actually Do the Fucking Job? https://abetterway.bearblog.dev/have-you-tried-asking-the-people-who-actually-do-the-fucking-job/
 2026-11-20T13:48:00+00:00	We didn't sign up for this. https://schledorn.bearblog.dev/we-didnt-sign-up-for-this/
 2026-11-20T15:43:00+00:00	...his first Wyoming sunset! https://coreyblogs.com/his-first-wyoming-sunset/
@@ -23,3 +21,5 @@
 2026-11-20T22:08:23.221083+00:00	how do you want to be perceived online? https://olu.online/how-do-you-want-to-be-perceived-online/
 2026-11-20T23:37:00+00:00	Harnessing the Power of the Bear API https://www.wmprkr.xyz/harnessing-the-power-of-the-bear-api/
 2026-11-21T09:27:00+00:00	The Cameras Came Back. The Rules Didn't. https://cultnorthwest.com/the-cameras/
+2026-11-21T11:27:00+00:00	AI: limitations that no IPO can circumvent https://thoughts.pivic.com/ai-limitations-that-no-ipo-can-circumvent/
+2026-11-21T13:19:00+00:00	Growing reservoir computers https://mbaranr.bearblog.dev/growing-reservoir/
