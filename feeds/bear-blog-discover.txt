@@ -4,22 +4,22 @@
 # description = twtxt conversion of https://bearblog.dev/discover/feed/
 
 2026-11-20T13:48:00+00:00	We didn't sign up for this. https://schledorn.bearblog.dev/we-didnt-sign-up-for-this/
-2026-11-20T16:53:13.894755+00:00	maybe they’ve always been losers https://rnotte.art/maybe-theyve-always-been-losers/
 2026-11-20T18:32:00+00:00	I saw a squirrel with an apple today. I want to share it with you. :) https://annoflo.net/squirrel-apple/
-2026-11-21T17:32:11.435088+00:00	I think I outgrew my friends https://aperture.bearblog.dev/i-think-i-outgrew-my-friends/
-2026-11-21T17:37:00+00:00	Getting "Fan Mail" From an AI Agent on a Blog Post about Visiting My Hometown During an Emotionally Devastating Family Illness https://blog.curiousquail.com/getting-fan-mail-from-an-ai-agent-on-a-blog-post-about-vistiting-my-hometown-during-a-family-illness/
 2026-11-21T18:33:57.059695+00:00	Feral Kittens Update https://onlinegoddess.net/2026/11/feral-kittens-update/
-2026-11-21T18:54:20.782030+00:00	When Every Feed Has a Perfect Sunday https://maythecliche.bearblog.dev/when-every-feed-has-a-perfect-sunday/
-2026-11-21T19:45:00+00:00	re: i want it darker https://olu.online/re-i-want-it-darker/
 2026-11-21T21:35:00+00:00	...a call for good luck. [Updated] https://coreyblogs.com/a-call-for-good-luck/
 2026-11-22T10:21:07.429894+00:00	cool stuff in my blog https://lizziesthoughts.bearblog.dev/cool-stuff-in-my-blog/
-2026-11-22T11:58:36.790361+00:00	A Handle for Hidden Information https://bommyknocker.bearblog.dev/handle/
 2026-11-22T12:04:44.796991+00:00	The Etsy Betsy Spider https://itsme.bearblog.dev/the-etsy-betsy-spider/
-2026-11-22T13:00:00+00:00	AI-Generated Food Menus https://vinceblog.net/ai-generated-food-menus/
 2026-11-22T15:24:00+00:00	...about grief, love, and jury duty. https://coreyblogs.com/about-grief-love-and-jury-duty/
-2026-11-22T15:43:00+00:00	How I post to bear via matrix https://grizzlygazette.bearblog.dev/how-i-post-to-bear-via-matrix/
-2026-11-22T17:05:55.681861+00:00	Trusting the process https://robertbirming.com/trusting-process/
-2026-11-22T17:26:00+00:00	I got my first angry comment https://angrybunnyman.com/i-got-my-first-angry-comment/
 2026-11-22T17:59:29.210634+00:00	Simulation Weather https://nburchett.com/simulation-weather/
 2026-11-22T19:36:00+00:00	GLITTER HAIR, GLITTER EVERYWHERE! https://selggiw.bearblog.dev/glitter-hair-glitter-everywhere/
+2026-11-22T20:41:00+00:00	I don't want to do this again https://forsomeone.bearblog.dev/i-dont-want-to-do-this-again/
 2026-11-22T21:36:00+00:00	What should AAA game devs do https://gamethoughts.bearblog.dev/what-should-aaa-game-devs-do/
+2026-11-23T02:08:17.149201+00:00	on my love for blogs https://sillyletters.bearblog.dev/on-my-love-for-blogs/
+2026-11-23T02:18:00.835503+00:00	A Crisis of Hobby https://ashesoftitans.bearblog.dev/a-crisis-of-hobby/
+2026-11-23T03:00:00+00:00	不要和蠢人打交道 https://blog.solazy.me/20261123/
+2026-11-23T06:58:00+00:00	the implications of recovery pho, finding lost items, and long grey hair https://venado.bearblog.dev/the-implications-of-recovery-pho-finding-lost-items-and-long-grey-hair/
+2026-11-23T07:04:00+00:00	How to Win at Games (An Angel Has Fallen Retrospective) https://unturnedhovel.bearblog.dev/how-to-win-at-games-an-angel-has-fallen-retrospective/
+2026-11-23T07:39:01.448786+00:00	We got a Los Angeles Metroboard https://blog.lauramichet.com/we-got-a-los-angeles-metroboard/
+2026-11-23T10:03:00+00:00	A Music Journal https://otavio.cc/a-music-journal/
+2026-11-23T10:29:57.963414+00:00	Somehow we are all sick https://tsitsiflora.bearblog.dev/somehow-we-are-all-sick/
+2026-11-23T10:43:55.564281+00:00	Scrambled eggs [Jajecznica] https://theashesofphoenix.com/scrambled-eggs-jajecznica/

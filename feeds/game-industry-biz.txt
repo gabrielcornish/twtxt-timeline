@@ -3,8 +3,6 @@
 # source = https://www.gamesindustry.biz/feed
 # description = twtxt conversion of https://www.gamesindustry.biz/feed
 
-2026-11-12T17:00:00+00:00	GDC State of the Game Industry report: 40% of developers are using generative AI for work https://www.gamesindustry.biz/gdc-state-of-the-game-industry-report-40-of-developers-are-using-generative-ai-for-work
-2026-11-12T17:00:00+00:00	GDC's Mark DeLoura addresses the event's dip in attendance in 2026 as he details the planned changes for 2027 https://www.gamesindustry.biz/gdcs-mark-deloura-addresses-the-events-dip-in-attendance-in-2026-as-he-details-the-planned-changes-for-2027
 2026-11-13T08:12:50+00:00	Nvidia's Jensen Huang resigns as CEO amid reports of affairs with alleged Chinese spy and two employees https://www.gamesindustry.biz/nvidias-jensen-huang-resigns-as-ceo-amid-reports-of-affairs-with-alleged-chinese-spy-and-two-employees
 2026-11-13T09:33:30+00:00	MapleStory franchise Q3 revenue rises 72%, drives overall growth for Nexon https://www.gamesindustry.biz/maplestory-franchise-q3-revenue-rises-72-drives-overall-growth-for-nexon
 2026-11-13T12:00:00+00:00	Steam's submission and approval backlog is forcing indie devs to delay game launches https://www.gamesindustry.biz/steams-submission-and-approval-backlog-is-forcing-indie-devs-to-delay-game-launches
@@ -53,3 +51,5 @@
 2026-11-20T15:02:20+00:00	GTA 6: the first billion-dollar game may also be the last | Opinion https://www.gamesindustry.biz/gta-6-the-first-billion-dollar-game-may-also-be-the-last
 2026-11-20T15:21:00+00:00	Ampere Analysis: Over 2m UK and US Xbox players accessed GTA 6 before official launch by switching location to New Zealand https://www.gamesindustry.biz/ampere-analysis-over-1m-uk-and-us-xbox-players-accessed-gta-6-before-official-launch-by-switching-location-to-new-zealand
 2026-11-20T20:24:00+00:00	GTA 6 hits $3.79 billion in its first day on sale, becoming "the biggest entertainment launch in history" https://www.gamesindustry.biz/gta-6-hits-379-billion-in-its-first-day-on-sale-becoming-the-biggest-entertainment-launch-in-history
+2026-11-23T10:57:20+00:00	Over half of console players in the US played GTA 6 on launch day, according to Circana https://www.gamesindustry.biz/over-half-of-console-players-in-the-us-played-gta-6-on-launch-day-according-to-circana
+2026-11-23T12:38:20+00:00	Christoph Hartmann wants Ubisoft's Massive Entertainment to go beyond shooters and be the "A24 of gaming" https://www.gamesindustry.biz/christoph-hartmann-wants-ubisofts-massive-entertainment-to-go-beyond-shooters-and-be-the-a24-of-gaming
