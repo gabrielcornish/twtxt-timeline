@@ -4,22 +4,22 @@
 # description = twtxt conversion of https://bearblog.dev/discover/feed/
 
 2026-11-21T18:33:57.059695+00:00	Feral Kittens Update https://onlinegoddess.net/2026/11/feral-kittens-update/
-2026-11-22T10:21:07.429894+00:00	cool stuff in my blog https://lizziesthoughts.bearblog.dev/cool-stuff-in-my-blog/
 2026-11-22T12:04:44.796991+00:00	The Etsy Betsy Spider https://itsme.bearblog.dev/the-etsy-betsy-spider/
 2026-11-22T15:24:00+00:00	...about grief, love, and jury duty. https://coreyblogs.com/about-grief-love-and-jury-duty/
 2026-11-22T19:36:00+00:00	GLITTER HAIR, GLITTER EVERYWHERE! https://selggiw.bearblog.dev/glitter-hair-glitter-everywhere/
 2026-11-22T20:41:00+00:00	I don't want to do this again https://forsomeone.bearblog.dev/i-dont-want-to-do-this-again/
 2026-11-22T21:36:00+00:00	What should AAA game devs do https://gamethoughts.bearblog.dev/what-should-aaa-game-devs-do/
 2026-11-23T02:08:00+00:00	on my love for blogs https://sillyletters.bearblog.dev/on-my-love-for-blogs/
-2026-11-23T02:18:00.835503+00:00	A Crisis of Hobby https://ashesoftitans.bearblog.dev/a-crisis-of-hobby/
 2026-11-23T03:00:00+00:00	不要和蠢人打交道 https://blog.solazy.me/20261123/
-2026-11-23T07:39:01.448786+00:00	We got a Los Angeles Metroboard https://blog.lauramichet.com/we-got-a-los-angeles-metroboard/
-2026-11-23T09:49:56.003097+00:00	I Got My First Hate Email On Bearblog! https://selggiw.bearblog.dev/i-got-my-first-hate-email-on-bearblog/
 2026-11-23T10:03:00+00:00	A Music Journal https://otavio.cc/a-music-journal/
 2026-11-23T10:29:57.963414+00:00	Somehow we are all sick https://tsitsiflora.bearblog.dev/somehow-we-are-all-sick/
 2026-11-23T10:52:51.736827+00:00	New Destination : Bear Blog https://ivikrant.net/new-destination-bear-blog/
 2026-11-23T11:55:00+00:00	People are people https://mgx.bearblog.dev/people-are-people/
-2026-11-23T17:27:00+00:00	...a weekend of planting and posting and bits (oh my)! https://coreyblogs.com/a-weekend-of-planting-and-posting-and-bits-oh-my/
 2026-11-23T17:58:00+00:00	Getting Tired of the Medical Grifters https://jetgirl.art/getting-tired-of-the-medical-grifters/
 2026-11-23T18:36:00+00:00	Moss Grows on Everything, Even Anxiety https://blog.dessy.me/moss-grows-on-everything/
 2026-11-23T22:19:25.093504+00:00	Jank's 100 free games list https://blog.lauramichet.com/janks-100-free-games-list/
+2026-11-23T22:54:00+00:00	on being mid https://olu.online/on-being-mid/
+2026-11-24T01:46:03.741457+00:00	don't you have anything better to do? https://rnotte.art/dont-you-have-anything-better-to-do/
+2026-11-24T04:00:00+00:00	黄仁勋的「凯旋」 https://blog.solazy.me/20261124/
+2026-11-24T07:04:00+00:00	A Hobby of Failures https://unturnedhovel.bearblog.dev/a-hobby-of-failures/
+2026-11-24T07:16:00+00:00	Comments and emails https://herman.bearblog.dev/comments-and-emails/
