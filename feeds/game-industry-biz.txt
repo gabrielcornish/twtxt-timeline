@@ -3,9 +3,6 @@
 # source = https://www.gamesindustry.biz/feed
 # description = twtxt conversion of https://www.gamesindustry.biz/feed
 
-2026-11-16T13:30:00+00:00	"Gamers don't hate ads; they hate bad ads" – Why EA and Xbox are putting adverts in their games https://www.gamesindustry.biz/gamers-dont-hate-ads-they-hate-bad-ads-why-ea-and-xbox-are-putting-adverts-in-their-games
-2026-11-16T17:56:40+00:00	Coffee Stain acquires Chronicles: Medieval IP from bankrupt Raw Power Games https://www.gamesindustry.biz/coffee-stain-acquires-chronicles-medieval-ip-from-bankrupt-raw-power-games
-2026-11-16T18:37:20+00:00	Shigeru Miyamoto to receive inaugural Legend Award at the 30th DICE Awards https://www.gamesindustry.biz/shigeru-miyamoto-to-receive-inaugural-legend-award-at-the-30th-dice-awards
 2026-11-16T20:05:40+00:00	Monster Hunter Outlanders passes $10.2 million in IAP revenue in two weeks https://www.gamesindustry.biz/monster-hunter-outlanders-passes-102-million-in-iap-revenue-in-two-weeks
 2026-11-17T01:00:00+00:00	Sensor Tower: GTA 6 pre-orders exceed $1.4bn, with 87% for the Ultimate Edition https://www.gamesindustry.biz/sensor-tower-gta-6-pre-orders-exceed-14bn-with-87-for-the-ultimate-edition
 2026-11-17T07:00:00+00:00	Newzoo: GTA 6 pre-orders are archetypal console players but overwhelmingly male; game will "grow the market rather than simply redistribute it" https://www.gamesindustry.biz/newzoo-gta-6-pre-orders-are-archetypal-console-players-but-overwhelmingly-male-game-will-grow-the-market-rather-than-simply-redistribute-it
@@ -53,3 +50,6 @@
 2026-11-23T19:43:30+00:00	GTA 6 leaker reportedly releases file needed to run leaked Xbox build https://www.gamesindustry.biz/gta-6-leaker-reportedly-releases-file-needed-to-run-leaked-xbox-build
 2026-11-23T20:56:00+00:00	Nicalis removes AI-generated music from The Binding of Isaac: Repentance+ after player backlash https://www.gamesindustry.biz/nicalis-removes-ai-generated-music-from-the-binding-of-isaac-repentance-after-player-backlash
 2026-11-24T10:50:00+00:00	UK mobile developers can now apply for their share of a £260 million Google settlement https://www.gamesindustry.biz/uk-mobile-developers-can-now-apply-for-their-share-of-a-260-million-google-settlement
+2026-11-24T11:44:10+00:00	GTA 6 was the "biggest launch in PlayStation history", with the highest number of concurrent players ever https://www.gamesindustry.biz/gta-6-was-the-biggest-launch-in-playstation-history-with-the-highest-number-of-concurrent-players-ever
+2026-11-24T12:18:30+00:00	Splitscreen Croatia conference offers attendance packages for developers looking to showcase unreleased games to publishers and investors https://www.gamesindustry.biz/splitscreen-croatia-conference-offers-free-travel-packages-for-developers-looking-to-showcase-unreleased-games-to-publishers-and-investors
+2026-11-24T15:28:00+00:00	"You are still taking 100% of the risk" – Why Cairn dev The Game Bakers backs self-publishing for all but the smallest developers https://www.gamesindustry.biz/you-are-still-taking-100-of-the-risk-why-cairn-dev-the-game-bakers-backs-self-publishing-for-all-but-the-smallest-developers
