@@ -3,13 +3,6 @@
 # source = https://www.gamesindustry.biz/feed
 # description = twtxt conversion of https://www.gamesindustry.biz/feed
 
-2026-11-13T08:12:50+00:00	Nvidia's Jensen Huang resigns as CEO amid reports of affairs with alleged Chinese spy and two employees https://www.gamesindustry.biz/nvidias-jensen-huang-resigns-as-ceo-amid-reports-of-affairs-with-alleged-chinese-spy-and-two-employees
-2026-11-13T09:33:30+00:00	MapleStory franchise Q3 revenue rises 72%, drives overall growth for Nexon https://www.gamesindustry.biz/maplestory-franchise-q3-revenue-rises-72-drives-overall-growth-for-nexon
-2026-11-13T12:00:00+00:00	Steam's submission and approval backlog is forcing indie devs to delay game launches https://www.gamesindustry.biz/steams-submission-and-approval-backlog-is-forcing-indie-devs-to-delay-game-launches
-2026-11-13T12:04:00+00:00	"It's a wild situation" – An investor and publisher perspective on the rise of AI copycats, the discoverability crisis, and more https://www.gamesindustry.biz/its-a-wild-situation-an-investor-and-publisher-perspective-on-the-rise-of-ai-copycats-the-discoverability-crisis-and-more
-2026-11-13T13:42:30+00:00	The Digital Fairness Act is a decade-long bill coming due | Opinion https://www.gamesindustry.biz/the-digital-fairness-act-is-a-decade-long-bill-coming-due-opinion
-2026-11-13T14:43:20+00:00	CD Projekt Red used AI to alter the voice of Geralt's original Polish actor in Witcher 3: Songs of the Past https://www.gamesindustry.biz/cd-projekt-red-used-ai-to-alter-the-voice-of-geralts-original-polish-actor-in-witcher-3-songs-of-the-past
-2026-11-13T15:00:00+00:00	How to protect your IP against the army of AI clones https://www.gamesindustry.biz/how-to-protect-your-ip-against-the-army-of-ai-clones
 2026-11-16T13:00:00+00:00	Unity launches $50,000 grant for indie developers with no equity or repayment https://www.gamesindustry.biz/unity-launches-50000-grant-for-indie-developers-with-no-equity-or-repayment
 2026-11-16T13:30:00+00:00	"Gamers don't hate ads; they hate bad ads" – Why EA and Xbox are putting adverts in their games https://www.gamesindustry.biz/gamers-dont-hate-ads-they-hate-bad-ads-why-ea-and-xbox-are-putting-adverts-in-their-games
 2026-11-16T17:56:40+00:00	Coffee Stain acquires Chronicles: Medieval IP from bankrupt Raw Power Games https://www.gamesindustry.biz/coffee-stain-acquires-chronicles-medieval-ip-from-bankrupt-raw-power-games
@@ -53,3 +46,10 @@
 2026-11-20T20:24:00+00:00	GTA 6 hits $3.79 billion in its first day on sale, becoming "the biggest entertainment launch in history" https://www.gamesindustry.biz/gta-6-hits-379-billion-in-its-first-day-on-sale-becoming-the-biggest-entertainment-launch-in-history
 2026-11-23T10:57:20+00:00	Over half of console players in the US played GTA 6 on launch day, according to Circana https://www.gamesindustry.biz/over-half-of-console-players-in-the-us-played-gta-6-on-launch-day-according-to-circana
 2026-11-23T12:38:20+00:00	Christoph Hartmann wants Ubisoft's Massive Entertainment to go beyond shooters and be the "A24 of gaming" https://www.gamesindustry.biz/christoph-hartmann-wants-ubisofts-massive-entertainment-to-go-beyond-shooters-and-be-the-a24-of-gaming
+2026-11-23T14:33:30+00:00	Jensen Huang reinstated as Nvidia CEO and president following affair allegations https://www.gamesindustry.biz/jensen-huang-reinstated-as-nvidia-ceo-and-president-following-affair-allegations
+2026-11-23T15:07:00+00:00	One way to stave off AI clones? Minimise the gap between announcement and launch https://www.gamesindustry.biz/one-way-to-stave-off-ai-clones-minimise-the-gap-between-announcement-and-launch
+2026-11-23T15:09:50+00:00	Activision files patent for neural network to train NPCs from in-game voice chat https://www.gamesindustry.biz/activision-files-patent-for-neural-network-to-train-npcs-from-in-game-voice-chat
+2026-11-23T15:15:10+00:00	Plug in Digital acquires News Tower publisher Twin Sails Interactive, creating new publishing group to "compete in a highly competitive market" https://www.gamesindustry.biz/plug-in-digital-acquires-news-tower-publisher-twin-sails-interactive-creating-new-publishing-group-to-compete-in-a-highly-competitive-market
+2026-11-23T17:33:10+00:00	EU opens consultation on Digital Fairness Act https://www.gamesindustry.biz/eu-opens-consultation-on-digital-fairness-act
+2026-11-23T19:43:30+00:00	GTA 6 leaker reportedly releases file needed to run leaked Xbox build https://www.gamesindustry.biz/gta-6-leaker-reportedly-releases-file-needed-to-run-leaked-xbox-build
+2026-11-23T20:56:00+00:00	Nicalis removes AI-generated music from The Binding of Isaac: Repentance+ after player backlash https://www.gamesindustry.biz/nicalis-removes-ai-generated-music-from-the-binding-of-isaac-repentance-after-player-backlash
