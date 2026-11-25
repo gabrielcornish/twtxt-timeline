@@ -3,10 +3,6 @@
 # source = https://www.gamesindustry.biz/feed
 # description = twtxt conversion of https://www.gamesindustry.biz/feed
 
-2026-11-16T20:05:40+00:00	Monster Hunter Outlanders passes $10.2 million in IAP revenue in two weeks https://www.gamesindustry.biz/monster-hunter-outlanders-passes-102-million-in-iap-revenue-in-two-weeks
-2026-11-17T01:00:00+00:00	Sensor Tower: GTA 6 pre-orders exceed $1.4bn, with 87% for the Ultimate Edition https://www.gamesindustry.biz/sensor-tower-gta-6-pre-orders-exceed-14bn-with-87-for-the-ultimate-edition
-2026-11-17T07:00:00+00:00	Newzoo: GTA 6 pre-orders are archetypal console players but overwhelmingly male; game will "grow the market rather than simply redistribute it" https://www.gamesindustry.biz/newzoo-gta-6-pre-orders-are-archetypal-console-players-but-overwhelmingly-male-game-will-grow-the-market-rather-than-simply-redistribute-it
-2026-11-17T08:55:00+00:00	Lisbon-based Studio Bravarda closes down after failing to recoup dev costs on its most recent title, Extremely Powerful Capybaras https://www.gamesindustry.biz/lisbon-based-studio-bravarda-closes-down-after-failing-to-recoup-dev-costs-on-its-most-recent-title-extremely-powerful-capybaras
 2026-11-17T09:53:30+00:00	Unity acquires 3D asset creator Synty Studios; artist-created content to be integrated into AI game-creation platform Unity Spark https://www.gamesindustry.biz/unity-acquires-3d-asset-creator-synty-studios-artist-created-content-to-be-integrated-into-ai-game-creation-platform-unity-spark
 2026-11-17T11:44:00+00:00	Xbox's Project Helix "is not a PC that can also play console games" https://www.gamesindustry.biz/xboxs-project-helix-is-not-a-pc-that-can-also-play-console-games
 2026-11-17T14:28:00+00:00	IWGB Game Workers Union leads manifesto on generative AI use in the industry https://www.gamesindustry.biz/iwgb-game-workers-union-leads-manifesto-on-generative-ai-use-in-the-industry
@@ -53,3 +49,7 @@
 2026-11-24T11:44:10+00:00	GTA 6 was the "biggest launch in PlayStation history", with the highest number of concurrent players ever https://www.gamesindustry.biz/gta-6-was-the-biggest-launch-in-playstation-history-with-the-highest-number-of-concurrent-players-ever
 2026-11-24T12:18:30+00:00	Splitscreen Croatia conference offers attendance packages for developers looking to showcase unreleased games to publishers and investors https://www.gamesindustry.biz/splitscreen-croatia-conference-offers-free-travel-packages-for-developers-looking-to-showcase-unreleased-games-to-publishers-and-investors
 2026-11-24T15:28:00+00:00	"You are still taking 100% of the risk" – Why Cairn dev The Game Bakers backs self-publishing for all but the smallest developers https://www.gamesindustry.biz/you-are-still-taking-100-of-the-risk-why-cairn-dev-the-game-bakers-backs-self-publishing-for-all-but-the-smallest-developers
+2026-11-25T09:15:50+00:00	Gravity Well enters hibernation after failing to secure funding https://www.gamesindustry.biz/gravity-well-enters-hibernation-after-failing-to-secure-funding
+2026-11-25T12:43:40+00:00	Unreal Engine 6 won't include Blueprints or Actor Gameplay Framework https://www.gamesindustry.biz/unreal-engine-6-wont-include-blueprints-or-actor-gameplay-framework
+2026-11-25T13:09:40+00:00	Analyst: Don't expect hardware price cuts until at least 2028 https://www.gamesindustry.biz/analyst-dont-expect-hardware-price-cuts-until-at-least-2028
+2026-11-25T14:55:50+00:00	Gaming sector to benefit from funding package of over £45m as part of Creative Industries Sector Plan https://www.gamesindustry.biz/gaming-sector-to-benefit-from-funding-package-of-over-45m-as-part-of-creative-industries-sector-plan
