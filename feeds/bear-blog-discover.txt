@@ -3,7 +3,6 @@
 # source = https://bearblog.dev/discover/feed/
 # description = twtxt conversion of https://bearblog.dev/discover/feed/
 
-2026-11-24T01:46:03.741457+00:00	don't you have anything better to do? https://rnotte.art/dont-you-have-anything-better-to-do/
 2026-11-24T07:04:00+00:00	A Hobby of Failures https://unturnedhovel.bearblog.dev/a-hobby-of-failures/
 2026-11-24T07:16:00+00:00	Comments and emails https://herman.bearblog.dev/comments-and-emails/
 2026-11-24T12:44:07.611786+00:00	The Humanitarian award goes to: rnotte https://itsme.bearblog.dev/the-humanitarian-award-goes-to-rnotte/
@@ -21,5 +20,6 @@
 2026-11-25T16:31:00+00:00	credentialed and unqualified https://nina-imprecisely.bearblog.dev/credentialed-and-unqualified/
 2026-11-25T16:39:10.363549+00:00	Five tons of lead azide and twenty years of "later" https://widdershins.verja.net/five-tons-of-lead-azide-and-twenty-years-of-later/
 2026-11-25T16:45:00+00:00	The Joy of Finding Forgotten Pictures https://selggiw.bearblog.dev/the-joy-of-finding-forgotten-pictures/
+2026-11-25T17:24:51.958036+00:00	texas https://kunde.bearblog.dev/texas/
 2026-11-25T17:47:35.454187+00:00	Update about the gamer lounge in Los Angeles International Airport https://blog.lauramichet.com/update-about-the-gamer-lounge-in-los-angeles-international-airport/
 2026-11-25T18:08:00+00:00	AI is asbestos https://thecommabandit.bearblog.dev/ai-is-asbestos/
