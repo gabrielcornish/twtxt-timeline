@@ -3,11 +3,6 @@
 # source = https://www.gamesindustry.biz/feed
 # description = twtxt conversion of https://www.gamesindustry.biz/feed
 
-2026-11-17T16:17:40+00:00	UK tribunal dismisses £2bn PlayStation class-action suit which alleged unfair pricing over 30% cut on PlayStation Store https://www.gamesindustry.biz/uk-tribunal-dismisses-2bn-playstation-class-action-suit-which-alleged-unfair-pricing-over-30-cut-on-playstation-store
-2026-11-17T16:24:30+00:00	Meet the company that finds Chinese game developers to work on Western IP https://www.gamesindustry.biz/meet-the-company-that-finds-chinese-game-developers-to-work-on-western-ip
-2026-11-17T17:33:10+00:00	Report: Civilization dev Firaxis lays off a third of its staff https://www.gamesindustry.biz/report-civilization-dev-firaxis-lays-off-a-third-of-its-staff-following-development-difficulties-with-xcom-sequel
-2026-11-18T08:30:00+00:00	How to build a welcoming company culture in times of turmoil https://www.gamesindustry.biz/how-to-build-a-welcoming-company-culture-in-times-of-turmoil
-2026-11-18T09:12:10+00:00	GTA 6 leads The Game Awards 2026 with eight nominations https://www.gamesindustry.biz/gta-6-leads-the-game-awards-2026-with-eight-nominations
 2026-11-18T10:58:50+00:00	Analyst: Console shipments drop 36.5% to 6.4m units during Q3 on run-up to major releases https://www.gamesindustry.biz/analyst-console-shipments-drop-365-to-64m-units-during-q3-on-run-up-to-major-releases
 2026-11-18T14:38:20+00:00	Grand Theft Auto 6 | Critical Consensus https://www.gamesindustry.biz/grand-theft-auto-6-critical-consensus
 2026-11-18T14:56:40+00:00	Build a Rocket Boy pursuing litigation against alleged "saboteurs" to repay £61.7m in debt https://www.gamesindustry.biz/build-a-rocket-boy-pursuing-litigation-against-alleged-saboteurs-to-repay-617m-in-debt
@@ -51,5 +46,10 @@
 2026-11-25T15:48:30+00:00	"You'd be nuts to take on all of that in the first project, and yet here we are" – How Playground is finally making good on an all-new Fable https://www.gamesindustry.biz/youd-be-nuts-to-take-on-all-of-that-in-the-first-project-and-yet-here-we-are-how-playground-is-finally-making-good-on-an-all-new-fable
 2026-11-25T17:19:20+00:00	Capcom will shut down Exoprimal servers in September 2027 https://www.gamesindustry.biz/capcom-will-shut-down-exoprimal-servers-in-september-2027
 2026-11-25T18:03:10+00:00	Roblox signs licensing deal with PRS for Music https://www.gamesindustry.biz/roblox-signs-licensing-deal-with-prs-for-music
-2026-11-25T20:19:40+00:00	Ubisoft staff must justify not using generative AI in pitches, report claims https://www.gamesindustry.biz/ubisoft-staff-must-justify-not-using-generative-ai-in-pitches-report-claims
+2026-11-25T20:19:40+00:00	Ubisoft denies report that staff must justify not using generative AI in pitches https://www.gamesindustry.biz/ubisoft-staff-must-justify-not-using-generative-ai-in-pitches-report-claims
 2026-11-25T20:48:20+00:00	EA Sports FC 27 adds AI-recreated voice of late commentator John Motson https://www.gamesindustry.biz/ea-sports-fc-27-adds-ai-recreated-voice-of-late-commentator-john-motson
+2026-11-26T10:07:50+00:00	GTA 6 launch drives combined 2.3m downloads of franchise's mobile ports, according to AppMagic https://www.gamesindustry.biz/gta-6-launch-drives-combined-23m-downloads-of-franchises-mobile-ports-according-to-appmagic
+2026-11-26T11:55:50+00:00	NielsenIQ: GTA 6 boosts UK games retail revenue by 99% to £142m during launch period https://www.gamesindustry.biz/nielseniq-gta-6-boosts-uk-games-retail-revenue-by-99-to-142m-during-launch-period
+2026-11-26T14:59:10+00:00	Nearly 500 new members joined Women in Games Ambassador Programme over the past year https://www.gamesindustry.biz/nearly-500-new-members-joined-women-in-games-ambassador-programme-over-the-past-year
+2026-11-26T16:46:30+00:00	Staff at Grand Theft Auto maker Rockstar vote against union recognition deal https://www.gamesindustry.biz/staff-at-grand-theft-auto-maker-rockstar-vote-against-union-recognition-deal
+2026-11-26T16:53:20+00:00	"This was unlike anything else we've ever seen before" - but GTA 6's success is limited by the console install base, and its future rests on PC https://www.gamesindustry.biz/this-was-unlike-anything-else-weve-ever-seen-before-but-gta-6s-success-is-limited-by-the-console-install-base-and-its-future-rests-on-pc
