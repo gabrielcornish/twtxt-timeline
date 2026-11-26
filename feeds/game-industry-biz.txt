@@ -3,11 +3,6 @@
 # source = https://www.gamesindustry.biz/feed
 # description = twtxt conversion of https://www.gamesindustry.biz/feed
 
-2026-11-17T09:53:30+00:00	Unity acquires 3D asset creator Synty Studios; artist-created content to be integrated into AI game-creation platform Unity Spark https://www.gamesindustry.biz/unity-acquires-3d-asset-creator-synty-studios-artist-created-content-to-be-integrated-into-ai-game-creation-platform-unity-spark
-2026-11-17T11:44:00+00:00	Xbox's Project Helix "is not a PC that can also play console games" https://www.gamesindustry.biz/xboxs-project-helix-is-not-a-pc-that-can-also-play-console-games
-2026-11-17T14:28:00+00:00	IWGB Game Workers Union leads manifesto on generative AI use in the industry https://www.gamesindustry.biz/iwgb-game-workers-union-leads-manifesto-on-generative-ai-use-in-the-industry
-2026-11-17T15:01:00+00:00	Tanuki: Pon's Summer is hoping to be a "lovely little underdog" between Ocarina of Time and GTA 6 https://www.gamesindustry.biz/tanuki-pons-summer-is-hoping-to-be-a-lovely-little-underdog-between-ocarina-of-time-and-gta-6
-2026-11-17T15:07:20+00:00	Roblox launches creator program for devs to bring games to its platform for free https://www.gamesindustry.biz/roblox-launches-creator-program-for-devs-to-bring-games-to-its-platform-for-free
 2026-11-17T16:17:40+00:00	UK tribunal dismisses £2bn PlayStation class-action suit which alleged unfair pricing over 30% cut on PlayStation Store https://www.gamesindustry.biz/uk-tribunal-dismisses-2bn-playstation-class-action-suit-which-alleged-unfair-pricing-over-30-cut-on-playstation-store
 2026-11-17T16:24:30+00:00	Meet the company that finds Chinese game developers to work on Western IP https://www.gamesindustry.biz/meet-the-company-that-finds-chinese-game-developers-to-work-on-western-ip
 2026-11-17T17:33:10+00:00	Report: Civilization dev Firaxis lays off a third of its staff https://www.gamesindustry.biz/report-civilization-dev-firaxis-lays-off-a-third-of-its-staff-following-development-difficulties-with-xcom-sequel
@@ -53,3 +48,8 @@
 2026-11-25T12:43:40+00:00	Unreal Engine 6 won't include Blueprints or Actor Gameplay Framework https://www.gamesindustry.biz/unreal-engine-6-wont-include-blueprints-or-actor-gameplay-framework
 2026-11-25T13:09:40+00:00	Analyst: Don't expect hardware price cuts until at least 2028 https://www.gamesindustry.biz/analyst-dont-expect-hardware-price-cuts-until-at-least-2028
 2026-11-25T14:55:50+00:00	Gaming sector to benefit from funding package of over £45m as part of Creative Industries Sector Plan https://www.gamesindustry.biz/gaming-sector-to-benefit-from-funding-package-of-over-45m-as-part-of-creative-industries-sector-plan
+2026-11-25T15:48:30+00:00	"You'd be nuts to take on all of that in the first project, and yet here we are" – How Playground is finally making good on an all-new Fable https://www.gamesindustry.biz/youd-be-nuts-to-take-on-all-of-that-in-the-first-project-and-yet-here-we-are-how-playground-is-finally-making-good-on-an-all-new-fable
+2026-11-25T17:19:20+00:00	Capcom will shut down Exoprimal servers in September 2027 https://www.gamesindustry.biz/capcom-will-shut-down-exoprimal-servers-in-september-2027
+2026-11-25T18:03:10+00:00	Roblox signs licensing deal with PRS for Music https://www.gamesindustry.biz/roblox-signs-licensing-deal-with-prs-for-music
+2026-11-25T20:19:40+00:00	Ubisoft staff must justify not using generative AI in pitches, report claims https://www.gamesindustry.biz/ubisoft-staff-must-justify-not-using-generative-ai-in-pitches-report-claims
+2026-11-25T20:48:20+00:00	EA Sports FC 27 adds AI-recreated voice of late commentator John Motson https://www.gamesindustry.biz/ea-sports-fc-27-adds-ai-recreated-voice-of-late-commentator-john-motson

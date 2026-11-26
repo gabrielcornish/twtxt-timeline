@@ -3,23 +3,23 @@
 # source = https://bearblog.dev/discover/feed/
 # description = twtxt conversion of https://bearblog.dev/discover/feed/
 
-2026-11-23T02:08:00+00:00	on my love for blogs https://sillyletters.bearblog.dev/on-my-love-for-blogs/
 2026-11-24T01:46:03.741457+00:00	don't you have anything better to do? https://rnotte.art/dont-you-have-anything-better-to-do/
-2026-11-24T04:00:00+00:00	黄仁勋的「凯旋」 https://blog.solazy.me/20261124/
 2026-11-24T07:04:00+00:00	A Hobby of Failures https://unturnedhovel.bearblog.dev/a-hobby-of-failures/
 2026-11-24T07:16:00+00:00	Comments and emails https://herman.bearblog.dev/comments-and-emails/
-2026-11-24T10:31:00+00:00	Fuck AI https://galacticman.bearblog.dev/fuck-ai/
 2026-11-24T12:44:07.611786+00:00	The Humanitarian award goes to: rnotte https://itsme.bearblog.dev/the-humanitarian-award-goes-to-rnotte/
 2026-11-24T14:34:00+00:00	Excessively frugal https://dead-internet.bearblog.dev/excessively-frugal/
 2026-11-24T14:36:00+00:00	...10 questions with Bear Blog fave Robert Birming! [Updated] https://coreyblogs.com/10-questions-with-bear-blog-fave-robert-birming/
 2026-11-24T15:54:00+00:00	Chuds, GTA VI, and Why I Hate the Internet https://blog.absurdpirate.com/chuds-gta-vi-and-why-i-hate-the-internet/
-2026-11-24T16:55:00.991378+00:00	Behold! The Supermoon! https://blog.curiousquail.com/behold-the-supermoon/
-2026-11-24T17:01:19.983528+00:00	falling into my own trap https://giuls.bearblog.dev/falling-into-my-own-trap/
 2026-11-24T21:37:57.014591+00:00	you are(n't) an npc https://olu.online/you-arent-an-npc/
 2026-11-24T22:56:01.995813+00:00	RE: I'm not excited about tech anymore https://widdershins.verja.net/re-im-not-excited-about-tech-anymore/
 2026-11-24T23:28:00+00:00	The Relationships I Left Behind https://elliesunsettledmind.bearblog.dev/the-relationships-i-left-behind/
 2026-11-25T00:41:55.586293+00:00	Japan on film. https://nibreok.bearblog.dev/japan-on-film/
-2026-11-25T02:00:00+00:00	星巴克奇遇 https://blog.solazy.me/20261125/
-2026-11-25T05:31:53.099257+00:00	I should have waited to post about Queen's Domain https://blog.lauramichet.com/i-should-have-waited-to-post-about-queens-domain/
 2026-11-25T06:20:48.877493+00:00	I have a cat now!! https://piimyon.bearblog.dev/i-have-a-cat-now/
-2026-11-25T12:28:00+00:00	Walter the End-Bringer https://abloggymess.com/waltertheend-bringer/
+2026-11-25T10:05:00+00:00	why are people on reddit so angry? https://spindlecrow.space/why-are-people-on-reddit-so-angry/
+2026-11-25T14:26:42.649451+00:00	Against Cohesion https://elmc.at/against-cohesion/
+2026-11-25T14:37:52.499690+00:00	Back to Bear https://korin.uk/back-to-bear/
+2026-11-25T16:31:00+00:00	credentialed and unqualified https://nina-imprecisely.bearblog.dev/credentialed-and-unqualified/
+2026-11-25T16:39:10.363549+00:00	Five tons of lead azide and twenty years of "later" https://widdershins.verja.net/five-tons-of-lead-azide-and-twenty-years-of-later/
+2026-11-25T16:45:00+00:00	The Joy of Finding Forgotten Pictures https://selggiw.bearblog.dev/the-joy-of-finding-forgotten-pictures/
+2026-11-25T17:47:35.454187+00:00	Update about the gamer lounge in Los Angeles International Airport https://blog.lauramichet.com/update-about-the-gamer-lounge-in-los-angeles-international-airport/
+2026-11-25T18:08:00+00:00	AI is asbestos https://thecommabandit.bearblog.dev/ai-is-asbestos/
