@@ -3,10 +3,6 @@
 # source = https://www.gamesindustry.biz/feed
 # description = twtxt conversion of https://www.gamesindustry.biz/feed
 
-2026-11-18T14:56:40+00:00	Build a Rocket Boy pursuing litigation against alleged "saboteurs" to repay £61.7m in debt https://www.gamesindustry.biz/build-a-rocket-boy-pursuing-litigation-against-alleged-saboteurs-to-repay-617m-in-debt
-2026-11-18T15:24:20+00:00	GTA 6 arrives to record review scores and streaming audiences https://www.gamesindustry.biz/gta-6-arrives-to-record-review-scores-and-streaming-audiences
-2026-11-18T15:56:30+00:00	Sam Houser: with GTA 6, Rockstar "tried to create an experience that will exceed your expectations while showing what this medium is capable of" https://www.gamesindustry.biz/sam-houser-with-gta-6-rockstar-tried-to-create-an-experience-that-will-exceed-your-expectations-while-showing-what-this-medium-is-capable-of
-2026-11-18T17:03:10+00:00	18 unsolicited third-party statistics about GTA 6 https://www.gamesindustry.biz/18-unsolicited-third-party-statistics-about-gta-6
 2026-11-18T17:36:20+00:00	Arknights: Endfield named Google Play's best game of 2026 https://www.gamesindustry.biz/arknights-endfield-named-google-plays-best-game-of-2026
 2026-11-19T10:03:40+00:00	Rockstar and IWGB members issue closing arguments following conclusion of employment tribunal https://www.gamesindustry.biz/rockstar-and-iwgb-members-issue-closing-arguments-following-conclusion-of-employment-tribunal
 2026-11-19T10:32:50+00:00	The future of British gaming is more than just games | Opinion https://www.gamesindustry.biz/the-future-of-british-gaming-is-more-than-just-games-opinion
@@ -53,3 +49,7 @@
 2026-11-26T16:53:20+00:00	"This was unlike anything else we've ever seen before" - but GTA 6's success is limited by the console install base, and its future rests on PC https://www.gamesindustry.biz/this-was-unlike-anything-else-weve-ever-seen-before-but-gta-6s-success-is-limited-by-the-console-install-base-and-its-future-rests-on-pc
 2026-11-27T09:24:20+00:00	Modern Warfare 4 launch boosts Call of Duty HQ to top of Newzoo's PC revenue charts https://www.gamesindustry.biz/modern-warfare-4-launch-boosts-call-of-duty-hq-to-top-of-newzoos-pc-charts
 2026-11-27T10:59:20+00:00	Mastered receives funding to support training for games studios in West of England https://www.gamesindustry.biz/mastered-receives-funding-to-support-training-for-games-studios-in-west-of-england
+2026-11-27T12:55:20+00:00	Indie puzzle adventure Rhell beats GTA 6 to win Best Game Made in The North at the Game Republic Awards https://www.gamesindustry.biz/indie-puzzle-adventure-rhell-beats-gta-6-to-win-best-game-made-in-the-north-at-the-game-republic-awards
+2026-11-27T14:39:00+00:00	Story of Seasons studio Marvelous offering voluntary resignations to reduce headcount by 65 roles https://www.gamesindustry.biz/story-of-seasons-studio-marvelous-offering-voluntary-resignations-to-reduce-headcount-by-65-roles
+2026-11-27T14:43:20+00:00	GTA 6's pirate PC ports: new tools, old problem | Opinion https://www.gamesindustry.biz/gta-6s-pirate-pc-ports-new-tools-old-problem-opinion
+2026-11-27T16:38:10+00:00	One week on, here's the impact GTA 6's launch had on the industry so far https://www.gamesindustry.biz/one-week-on-heres-the-impact-gta-6s-launch-had-on-the-industry-so-far

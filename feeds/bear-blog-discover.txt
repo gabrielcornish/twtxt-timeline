@@ -3,23 +3,23 @@
 # source = https://bearblog.dev/discover/feed/
 # description = twtxt conversion of https://bearblog.dev/discover/feed/
 
-2026-11-24T07:16:00+00:00	Comments and emails https://herman.bearblog.dev/comments-and-emails/
-2026-11-24T21:37:57.014591+00:00	you are(n't) an npc https://olu.online/you-arent-an-npc/
 2026-11-25T00:41:55.586293+00:00	Japan on film. https://nibreok.bearblog.dev/japan-on-film/
 2026-11-25T06:20:48.877493+00:00	I have a cat now!! https://piimyon.bearblog.dev/i-have-a-cat-now/
-2026-11-25T10:05:00+00:00	why are people on reddit so angry? https://spindlecrow.space/why-are-people-on-reddit-so-angry/
-2026-11-25T14:26:42.649451+00:00	Against Cohesion https://elmc.at/against-cohesion/
 2026-11-25T14:37:52.499690+00:00	Back to Bear https://korin.uk/back-to-bear/
 2026-11-25T18:08:00+00:00	AI is asbestos https://thecommabandit.bearblog.dev/ai-is-asbestos/
-2026-11-25T23:15:22.278355+00:00	New pen! https://diels-daydreams.bearblog.dev/new-pen/
+2026-11-25T23:15:00+00:00	New pen! https://diels-daydreams.bearblog.dev/new-pen/
 2026-11-26T09:23:00+00:00	Introducing beardash.dev https://mgx.bearblog.dev/introducing-beardash/
-2026-11-26T10:55:00+00:00	Hello world! https://amberlimshin.bearblog.dev/hello-world/
 2026-11-26T14:58:00+00:00	What getting banned from Wetherspoons taught me about ownership https://emma.bearblog.dev/steakholder/
-2026-11-26T15:00:00+00:00	Delete the Memory https://nburchett.com/delete-the-memory/
 2026-11-26T15:25:00+00:00	Make it rain on your blog (CSS) https://lordtoots.bearblog.dev/make-it-rain/
 2026-11-27T00:46:08.627377+00:00	yes, quicksand is real https://jeffdelp.bearblog.dev/yes-quicksand-is-real/
 2026-11-27T02:03:23.817081+00:00	Another Lonely Thanksgiving https://athylbene.bearblog.dev/another-lonely-thanksgiving/
-2026-11-27T03:00:00+00:00	生活中那些 backup 给我的安全感 https://blog.solazy.me/20261127/
-2026-11-27T05:42:53.707238+00:00	The Good Doctor https://tea-diary.bearblog.dev/the-good-doctor/
+2026-11-27T04:38:57.523097+00:00	Happy Thanksgiving! https://blog.lauramichet.com/happy-thanksgiving/
 2026-11-27T07:14:00+00:00	After living in Iceland for 3 years, I've decided to move back home... https://amberlimshin.bearblog.dev/after-living-in-iceland-for-3-years-ive-decided-to-move-back-home/
 2026-11-27T08:53:00+00:00	I haven't had internet for months https://marcg.net/i-havent-had-internet-for-months/
+2026-11-27T12:11:56.241401+00:00	The self-defeating aspect of digital writing assistance https://itsme.bearblog.dev/the-self-defeating-aspect-of-digital-writing-assistance/
+2026-11-27T13:12:48.062867+00:00	The "Internet Is Dead" Take Is Dead https://oypster.org/the-internet-is-dead-take-is-dead/
+2026-11-27T15:29:00+00:00	Is anyone neurotypical these days? https://littleducky.bearblog.dev/is-anyone-neurotypical-these-days/
+2026-11-27T16:12:09.733433+00:00	Our Mental Illnesses are Incompatible https://rickw.bearblog.dev/our-mental-illnesses-are-incompatible/
+2026-11-27T16:20:34.987073+00:00	Domain of Dread: Insula https://elmc.at/domain-of-dread-insula/
+2026-11-27T17:39:00+00:00	A Room of One's Own https://mirroredworld.bearblog.dev/a-room-of-ones-own/
+2026-11-27T18:13:00+00:00	The tempo https://robertbirming.com/the-tempo/
