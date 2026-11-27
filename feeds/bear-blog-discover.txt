@@ -4,7 +4,6 @@
 # description = twtxt conversion of https://bearblog.dev/discover/feed/
 
 2026-11-24T07:16:00+00:00	Comments and emails https://herman.bearblog.dev/comments-and-emails/
-2026-11-24T14:36:00+00:00	...10 questions with Bear Blog fave Robert Birming! https://coreyblogs.com/10-questions-with-bear-blog-fave-robert-birming/
 2026-11-24T21:37:57.014591+00:00	you are(n't) an npc https://olu.online/you-arent-an-npc/
 2026-11-25T00:41:55.586293+00:00	Japan on film. https://nibreok.bearblog.dev/japan-on-film/
 2026-11-25T06:20:48.877493+00:00	I have a cat now!! https://piimyon.bearblog.dev/i-have-a-cat-now/
@@ -13,13 +12,14 @@
 2026-11-25T14:37:52.499690+00:00	Back to Bear https://korin.uk/back-to-bear/
 2026-11-25T16:31:00+00:00	credentialed and unqualified https://nina-imprecisely.bearblog.dev/credentialed-and-unqualified/
 2026-11-25T16:39:10.363549+00:00	Five tons of lead azide and twenty years of "later" https://widdershins.verja.net/five-tons-of-lead-azide-and-twenty-years-of-later/
-2026-11-25T16:45:00+00:00	The Joy of Finding Forgotten Pictures https://selggiw.bearblog.dev/the-joy-of-finding-forgotten-pictures/
 2026-11-25T18:08:00+00:00	AI is asbestos https://thecommabandit.bearblog.dev/ai-is-asbestos/
 2026-11-25T23:15:22.278355+00:00	New pen! https://diels-daydreams.bearblog.dev/new-pen/
 2026-11-26T09:23:00+00:00	Introducing beardash.dev https://mgx.bearblog.dev/introducing-beardash/
-2026-11-26T13:21:24.161058+00:00	The Year of Failure https://jpwrites.bearblog.dev/the-year-of-failure/
+2026-11-26T10:55:00+00:00	Hello world! https://amberlimshin.bearblog.dev/hello-world/
+2026-11-26T14:58:00+00:00	What getting banned from Wetherspoons taught me about ownership https://emma.bearblog.dev/steakholder/
 2026-11-26T15:00:00+00:00	Delete the Memory https://nburchett.com/delete-the-memory/
 2026-11-26T15:25:00+00:00	Make it rain on your blog (CSS) https://lordtoots.bearblog.dev/make-it-rain/
 2026-11-26T15:57:00+00:00	Die schöne Weihnachtszeit https://www.zweisechsneun.de/die-schoene-weihnachtszeit/
-2026-11-26T16:07:12.368445+00:00	November 2026: Hiking Straight Out of the City https://singinginspanish.bearblog.dev/november-hiking-straight-out-of-the-city/
+2026-11-26T16:07:00+00:00	November 2026: Hiking Straight Out of the City https://singinginspanish.bearblog.dev/november-hiking-straight-out-of-the-city/
 2026-11-26T16:12:13.077802+00:00	Talvez GTA VI realmente seja tudo isso. https://heyimbriel.bearblog.dev/talvez-gta-vi-realmente-seja-tudo-isso/
+2026-11-26T17:11:00+00:00	Re: comments and emails https://leeraedee.bearblog.dev/re-comments-and-emails/
