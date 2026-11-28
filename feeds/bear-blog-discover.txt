@@ -5,9 +5,7 @@
 
 2026-11-25T00:41:55.586293+00:00	Japan on film. https://nibreok.bearblog.dev/japan-on-film/
 2026-11-25T06:20:48.877493+00:00	I have a cat now!! https://piimyon.bearblog.dev/i-have-a-cat-now/
-2026-11-25T14:37:52.499690+00:00	Back to Bear https://korin.uk/back-to-bear/
 2026-11-25T18:08:00+00:00	AI is asbestos https://thecommabandit.bearblog.dev/ai-is-asbestos/
-2026-11-25T23:15:00+00:00	New pen! https://diels-daydreams.bearblog.dev/new-pen/
 2026-11-26T09:23:00+00:00	Introducing beardash.dev https://mgx.bearblog.dev/introducing-beardash/
 2026-11-26T14:58:00+00:00	What getting banned from Wetherspoons taught me about ownership https://emma.bearblog.dev/steakholder/
 2026-11-26T15:25:00+00:00	Make it rain on your blog (CSS) https://lordtoots.bearblog.dev/make-it-rain/
@@ -21,5 +19,7 @@
 2026-11-27T15:29:00+00:00	Is anyone neurotypical these days? https://littleducky.bearblog.dev/is-anyone-neurotypical-these-days/
 2026-11-27T16:12:09.733433+00:00	Our Mental Illnesses are Incompatible https://rickw.bearblog.dev/our-mental-illnesses-are-incompatible/
 2026-11-27T16:20:34.987073+00:00	Domain of Dread: Insula https://elmc.at/domain-of-dread-insula/
-2026-11-27T17:39:00+00:00	A Room of One's Own https://mirroredworld.bearblog.dev/a-room-of-ones-own/
 2026-11-27T18:13:00+00:00	The tempo https://robertbirming.com/the-tempo/
+2026-11-27T20:17:47.674015+00:00	Will The “Big Web” Kill RSS? https://onlinegoddess.net/2026/11/will-big-web-kill-rss/
+2026-11-27T23:10:00+00:00	Play Report - Super Adventure 8: One Night at Lady Strahd's https://grendels-stepdad.bearblog.dev/play-report-super-adventure-8-one-night-at-lady-strahds/
+2026-11-27T23:34:48.633525+00:00	Fomoria Inches Toward Trad https://valerialoves.com/fomoria-inches-toward-trad/
